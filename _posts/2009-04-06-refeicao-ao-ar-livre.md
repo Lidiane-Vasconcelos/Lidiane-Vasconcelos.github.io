@@ -1,16 +1,13 @@
 ---
-id: 2642
 title: O encanto do encontro ao ar livre…
-date: 2009-04-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/04/06/refeicao-ao-ar-livre/
 permalink: /2009/04/06/refeicao-ao-ar-livre/
 categories:
   - Sem categoria
 ---
 <p style="text-align: justify;">
-  Já tive o prazer de estar reunida com amigos em um parque. Foi um encontro gostoso e despretensioso com pessoas queridas, e ter sido ao ar livre foi um detalhe importante para que tudo fosse mais gostoso do que naturalmente já teria sido, e foi.<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00119.gif"></a>
+  Já tive o prazer de estar reunida com amigos em um parque. Foi um encontro gostoso e despretensioso com pessoas queridas, e ter sido ao ar livre foi um detalhe importante para que tudo fosse mais gostoso do que naturalmente já teria sido, e foi.<a href="https://www.trololodemulher.com.br/2009/04/clip-image00119.gif"></a>
 </p>
 
 <p style="text-align: justify;">
@@ -22,7 +19,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Entretanto, sendo uma coisa ou outra, poderia ter sido um pouco mais charmoso se alguém tivesse se atentado para a graciosidade que um toque decorativo imprime a qualquer cenário que seja. Quem sabe na próxima vez não seja eu <strong>A</strong> pessoa que vai encantar a todos com um pequeno detalhe pensado com esse propósito?<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00144.gif"></a>
+  Entretanto, sendo uma coisa ou outra, poderia ter sido um pouco mais charmoso se alguém tivesse se atentado para a graciosidade que um toque decorativo imprime a qualquer cenário que seja. Quem sabe na próxima vez não seja eu <strong>A</strong> pessoa que vai encantar a todos com um pequeno detalhe pensado com esse propósito?<a href="https://www.trololodemulher.com.br/2009/04/clip-image00144.gif"></a>
 </p>
 
 <p style="text-align: justify;">
@@ -38,7 +35,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Somente o aspecto de organização e cuidado com o evento, por mais trivial que seja, é o suficiente para transmitir aos convidados a importância que eles têm em todo o contexto. <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00163.gif"></a>
+  Somente o aspecto de organização e cuidado com o evento, por mais trivial que seja, é o suficiente para transmitir aos convidados a importância que eles têm em todo o contexto. <a href="https://www.trololodemulher.com.br/2009/04/clip-image00163.gif"></a>
 </p>
 
 <p style="text-align: center;">
@@ -46,7 +43,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Será que pode haver uma ambientação mais animada para uma reunião externa se a mesa for enfeitada com flores e objetos coloridos, sejam eles de louça ou plástico? Certamente que não…então fica aí a ideia…<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00182.gif"></a>
+  Será que pode haver uma ambientação mais animada para uma reunião externa se a mesa for enfeitada com flores e objetos coloridos, sejam eles de louça ou plástico? Certamente que não…então fica aí a ideia…<a href="https://www.trololodemulher.com.br/2009/04/clip-image00182.gif"></a>
 </p>
 
 <p style="text-align: center;">
@@ -62,10 +59,10 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <span style="color: #800080;"><span style="color: #000000;">E na falta de tudo o mais: passadeira ou caminho de mesa, apetrechos (coloridos) para arrumar a mesa,</span> </span><span style="color: #000000;">velas e vasos; uma única flor numa garrafa, como na imagem que nos serve de inspiração, já deixa a reunião um pouquinho mais especial, hã?<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image001123.gif"></a></span>
+  <span style="color: #800080;"><span style="color: #000000;">E na falta de tudo o mais: passadeira ou caminho de mesa, apetrechos (coloridos) para arrumar a mesa,</span> </span><span style="color: #000000;">velas e vasos; uma única flor numa garrafa, como na imagem que nos serve de inspiração, já deixa a reunião um pouquinho mais especial, hã?<a href="https://www.trololodemulher.com.br/2009/04/clip-image001123.gif"></a></span>
 </p>
 
-<span style="color: #000000;">Imagens: <a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Therapy</a></span>
+<span style="color: #000000;">Imagens: <a href="http://www.apartmenttherapy.com/" target="_blank" rel="noopener noreferrer">Apartment Therapy</a></span>
 
 <span style="color: #800080;">Diz aí, encontros ao ar livre te fazem falta?</span>
 

@@ -1,10 +1,7 @@
 ---
-id: 2944
 title: 'Tragédias no Rio de Janeiro: é dando que se recebe…'
-date: 2011-01-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/01/17/enchente-rio-de-janeiro/
 permalink: /2011/01/17/enchente-rio-de-janeiro/
 categories:
   - Social
@@ -18,7 +15,7 @@ categories:
 <!--more-->
 
 <p style="text-align: justify;">
-  Mesmo a distância, a corrente de solidariedade pode se manter firme e indissolúvel. Ações como a que foi proposta pela<strong> Luci</strong>, do blog <a href="http://postandosobreartes.blogspot.com/" target="_blank">Postando Sobre Artes</a>, dão a oportunidade para que o carinho com que você confeccione alguma peça chegue até uma das mães que vivem toda aquela tragédia. Quer saber como? A <strong>Luci </strong>explica:
+  Mesmo a distância, a corrente de solidariedade pode se manter firme e indissolúvel. Ações como a que foi proposta pela<strong> Luci</strong>, do blog <a href="http://postandosobreartes.blogspot.com/" target="_blank" rel="noopener noreferrer">Postando Sobre Artes</a>, dão a oportunidade para que o carinho com que você confeccione alguma peça chegue até uma das mães que vivem toda aquela tragédia. Quer saber como? A <strong>Luci </strong>explica:
 </p>
 
 <blockquote style="text-align: justify;">
@@ -32,11 +29,11 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/doacoes-rio-de-janeiro.jpg"><img class="alignnone size-full wp-image-5812" title="doações rio de janeiro" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/doacoes-rio-de-janeiro.jpg" alt="" width="313" height="320" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/doacoes-rio-de-janeiro.jpg"><img class="alignnone size-full wp-image-5812" title="doações rio de janeiro" src="https://www.trololodemulher.com.br/2011/01/doacoes-rio-de-janeiro.jpg" alt="" width="313" height="320" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Está animada para ajudar também? O quartel general <em>bloguístico</em> para essas ações, inclusive com todas as informações quanto a logística durante o processo, é no blog da <strong>Luci</strong>. Tudo que você precisa saber para entrar nessa campanha e doar sua arte para quem precisa está no <a href="http://postandosobreartes.blogspot.com/2011/01/desafio-de-doacao-de-amor-e-arte.html" target="_blank">post da campanha</a>.
+  Está animada para ajudar também? O quartel general <em>bloguístico</em> para essas ações, inclusive com todas as informações quanto a logística durante o processo, é no blog da <strong>Luci</strong>. Tudo que você precisa saber para entrar nessa campanha e doar sua arte para quem precisa está no <a href="http://postandosobreartes.blogspot.com/2011/01/desafio-de-doacao-de-amor-e-arte.html" target="_blank" rel="noopener noreferrer">post da campanha</a>.
 </p>
 
 <p style="text-align: center;">
@@ -107,7 +104,7 @@ Agência: 3475-4
 
 Conta: 32.000-5
 
-<span style="font-size: x-small;">Fonte: </span><a href="http://globonews.globo.com/Jornalismo/GN/0,,17664,00.html" target="_blank"><span style="font-size: x-small;">Globo News</span></a>
+<span style="font-size: x-small;">Fonte: </span><a href="http://globonews.globo.com/Jornalismo/GN/0,,17664,00.html" target="_blank" rel="noopener noreferrer"><span style="font-size: x-small;">Globo News</span></a>
 
 <p style="text-align: justify;">
   Então é isso, bonita! A hora é de ajudar com algo material caso seja possível. Se não for, há outro tipo de ajuda que também pode fazer diferença: seu tempo, sua atenção e ainda sua oração. Se seu coração pede, não deixe de ajudar de alguma forma. No final das contas, a gente também ganha muito com isso. É dando que se recebe, lembra?

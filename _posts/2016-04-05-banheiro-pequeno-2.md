@@ -1,10 +1,7 @@
 ---
-id: 3576
 title: Banheiro pequeno? Veja 6 ideias e ganhe espaço já!
-date: 2016-04-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/04/05/banheiro-pequeno-2/
 permalink: /2016/04/05/banheiro-pequeno-2/
 categories:
   - Banheiro
@@ -21,11 +18,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12226" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-BANHEIRO-BANHEIRO-PEQUENO.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-BANHEIRO-BANHEIRO PEQUENO" width="500" height="575" />
+  <img class="alignnone size-full wp-image-12226" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-BANHEIRO-BANHEIRO-PEQUENO.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-BANHEIRO-BANHEIRO PEQUENO" width="500" height="575" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.housebeautiful.com/" target="_blank">House Beautiful</a>
+  Via <a href="http://www.housebeautiful.com/" target="_blank" rel="noopener noreferrer">House Beautiful</a>
 </p>
 
 &nbsp;
@@ -37,7 +34,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12227" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-BANHEIRO-BANHEIRO-PEQUENO2.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-BANHEIRO-BANHEIRO PEQUENO[2]" width="540" height="699" />
+  <img class="alignnone size-full wp-image-12227" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-BANHEIRO-BANHEIRO-PEQUENO2.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-BANHEIRO-BANHEIRO PEQUENO[2]" width="540" height="699" />
 </p>
 
 &nbsp;
@@ -51,13 +48,13 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/banheiro-de-decoracao/" target="_blank"><strong>Banheiro: dicas simples de decoração que custam quase nada!</strong></a>
+  <a href="http://www.decoracaodacasa.com/banheiro-de-decoracao/" target="_blank" rel="noopener noreferrer"><strong>Banheiro: dicas simples de decoração que custam quase nada!</strong></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12228" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-BANHEIRO-BANHEIRO-PEQUENO3.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-BANHEIRO-BANHEIRO PEQUENO[3]" width="540" height="720" />
+  <img class="alignnone size-full wp-image-12228" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-BANHEIRO-BANHEIRO-PEQUENO3.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-BANHEIRO-BANHEIRO PEQUENO[3]" width="540" height="720" />
 </p>
 
 &nbsp;
@@ -69,7 +66,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12229" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-BANHEIRO-BANHEIRO-PEQUENO4.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-BANHEIRO-BANHEIRO PEQUENO[4]" width="390" height="390" />
+  <img class="alignnone size-full wp-image-12229" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-BANHEIRO-BANHEIRO-PEQUENO4.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-BANHEIRO-BANHEIRO PEQUENO[4]" width="390" height="390" />
 </p>
 
 &nbsp;
@@ -83,21 +80,21 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank"><strong>Decoração de banheiro pequeno para poupar/ganhar espaço: 4 dicas.</strong></a>
+  <a href="http://www.bichafemea.com/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank" rel="noopener noreferrer"><strong>Decoração de banheiro pequeno para poupar/ganhar espaço: 4 dicas.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2011/10/05/decoracao-banheiro-pequeno/" target="_blank"><strong>4 ideias para decoração de banheiro pequeno.</strong></a>
+  <a href="http://www.bichafemea.com/2011/10/05/decoracao-banheiro-pequeno/" target="_blank" rel="noopener noreferrer"><strong>4 ideias para decoração de banheiro pequeno.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2009/06/30/dicas-como-aumentar-banheiro/" target="_blank"><strong>Dicas e imagens: como maximizar o banheiro?</strong></a>
+  <a href="http://www.bichafemea.com/2009/06/30/dicas-como-aumentar-banheiro/" target="_blank" rel="noopener noreferrer"><strong>Dicas e imagens: como maximizar o banheiro?</strong></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12230" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-BANHEIRO-BANHEIRO-PEQUENO5.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-BANHEIRO-BANHEIRO PEQUENO[5]" width="540" height="359" />
+  <img class="alignnone size-full wp-image-12230" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-BANHEIRO-BANHEIRO-PEQUENO5.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-BANHEIRO-BANHEIRO PEQUENO[5]" width="540" height="359" />
 </p>
 
 &nbsp;
@@ -109,7 +106,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12231" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-BANHEIRO-BANHEIRO-PEQUENO6.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-BANHEIRO-BANHEIRO PEQUENO[6]" width="540" height="474" />
+  <img class="alignnone size-full wp-image-12231" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-BANHEIRO-BANHEIRO-PEQUENO6.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-BANHEIRO-BANHEIRO PEQUENO[6]" width="540" height="474" />
 </p>
 
 &nbsp;
@@ -123,17 +120,17 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2014/06/30/caixas-organizacao-casa/" target="_blank"><strong>Caixas: 5 soluções de organização da casa.</strong></a>
+  <a href="http://www.bichafemea.com/2014/06/30/caixas-organizacao-casa/" target="_blank" rel="noopener noreferrer"><strong>Caixas: 5 soluções de organização da casa.</strong></a>
 </p>
 
 &nbsp;
 
-Imagens: <a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Therapy</a>
+Imagens: <a href="http://www.apartmenttherapy.com/" target="_blank" rel="noopener noreferrer">Apartment Therapy</a>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

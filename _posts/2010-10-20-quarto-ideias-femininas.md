@@ -1,10 +1,7 @@
 ---
-id: 2892
 title: 'Decoração do quarto: ideias elegantes, femininas e baratas!'
-date: 2010-10-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/10/20/quarto-ideias-femininas/
 permalink: /2010/10/20/quarto-ideias-femininas/
 categories:
   - Quarto
@@ -18,7 +15,7 @@ Sim! O quarto é um dos espaços mais queridos quando a gente pensa em decoraç�
 <!--more-->
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/flor.jpg"><img class="alignnone size-full wp-image-5322" title="flor" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/flor.jpg" alt="" width="625" height="417" /></a></em></strong>
+  <strong><em><a href="https://www.trololodemulher.com.br/2010/10/flor.jpg"><img class="alignnone size-full wp-image-5322" title="flor" src="https://www.trololodemulher.com.br/2010/10/flor.jpg" alt="" width="625" height="417" /></a></em></strong>
 </p>
 
 <p style="text-align: center;">
@@ -46,12 +43,12 @@ Sim! O quarto é um dos espaços mais queridos quando a gente pensa em decoraç�
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-Bolsinha200.jpg"><img class="alignnone size-full wp-image-5325" title="Quadro Cenário Bolsinha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-Bolsinha200.jpg" alt="" width="200" height="200" /></a> 
+      <a href="https://www.trololodemulher.com.br/2010/10/Quadro-Cenario-Bolsinha200.jpg"><img class="alignnone size-full wp-image-5325" title="Quadro Cenário Bolsinha200" src="https://www.trololodemulher.com.br/2010/10/Quadro-Cenario-Bolsinha200.jpg" alt="" width="200" height="200" /></a> 
     </td>
     
     <td width="300" valign="top">
       <p style="text-align: center;">
-        <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/" target="_blank">Quadro Cenário Bolsinha</a></em></strong>
+        <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/" target="_blank" rel="noopener noreferrer">Quadro Cenário Bolsinha</a></em></strong>
       </p>
       
       <div style="text-align: justify;">
@@ -71,7 +68,7 @@ Sim! O quarto é um dos espaços mais queridos quando a gente pensa em decoraç�
       </div>
       
       <div>
-        <em> </em><em>O quadro está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> </em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/" target="_blank"><strong><em>basta clicar</em></strong></a><em>!</em>
+        <em> </em><em>O quadro está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> </em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/" target="_blank" rel="noopener noreferrer"><strong><em>basta clicar</em></strong></a><em>!</em>
       </div>
     </td>
   </tr>
@@ -79,7 +76,7 @@ Sim! O quarto é um dos espaços mais queridos quando a gente pensa em decoraç�
   <tr>
     <td width="300" valign="top">
       <p style="text-align: center;">
-        <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-de-porta-scarpin/" target="_blank">Aparador de Porta Scarpin</a></em></strong>
+        <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-de-porta-scarpin/" target="_blank" rel="noopener noreferrer">Aparador de Porta Scarpin</a></em></strong>
       </p>
       
       <div style="text-align: justify;">
@@ -99,12 +96,12 @@ Sim! O quarto é um dos espaços mais queridos quando a gente pensa em decoraç�
       </div>
       
       <div>
-        <em> </em><em>O aparador está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-de-porta-scarpin/" target="_blank"><strong>basta clicar</strong></a></em><em>!</em>
+        <em> </em><em>O aparador está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-de-porta-scarpin/" target="_blank" rel="noopener noreferrer"><strong>basta clicar</strong></a></em><em>!</em>
       </div>
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-       <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Aparador-de-Porta-Scarpin-2-200.jpg"><img class="alignnone size-full wp-image-5307" title="Aparador de Porta Scarpin 2 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Aparador-de-Porta-Scarpin-2-200.jpg" alt="" width="200" height="200" /></a>
+       <a href="https://www.trololodemulher.com.br/2010/10/Aparador-de-Porta-Scarpin-2-200.jpg"><img class="alignnone size-full wp-image-5307" title="Aparador de Porta Scarpin 2 200" src="https://www.trololodemulher.com.br/2010/10/Aparador-de-Porta-Scarpin-2-200.jpg" alt="" width="200" height="200" /></a>
     </td>
   </tr>
 </table>
@@ -132,12 +129,12 @@ Sim! O quarto é um dos espaços mais queridos quando a gente pensa em decoraç�
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-       <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Primavera200.jpg"><img class="alignnone size-full wp-image-5279" title="Móbile Primavera200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Primavera200.jpg" alt="" width="200" height="200" /></a>
+       <a href="https://www.trololodemulher.com.br/2010/09/Mobile-Primavera200.jpg"><img class="alignnone size-full wp-image-5279" title="Móbile Primavera200" src="https://www.trololodemulher.com.br/2010/09/Mobile-Primavera200.jpg" alt="" width="200" height="200" /></a>
     </td>
     
     <td width="300" valign="top">
       <p style="text-align: center;">
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/" target="_blank"><strong><em>Móbile Primavera</em></strong> </a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/" target="_blank" rel="noopener noreferrer"><strong><em>Móbile Primavera</em></strong> </a>
       </p>
       
       <div style="text-align: justify;">
@@ -157,7 +154,7 @@ Sim! O quarto é um dos espaços mais queridos quando a gente pensa em decoraç�
       </div>
       
       <div>
-        <em> </em><em>O móbile está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> </em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/" target="_blank"><strong><em>basta clicar</em></strong></a><em>!</em>
+        <em> </em><em>O móbile está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> </em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/" target="_blank" rel="noopener noreferrer"><strong><em>basta clicar</em></strong></a><em>!</em>
       </div>
     </td>
   </tr>
@@ -177,7 +174,7 @@ Sim! O quarto é um dos espaços mais queridos quando a gente pensa em decoraç�
   Agora é sua vez de deixar sua sugestão. Que tal? Você tem uma ideia barata, bonita e feminina para o quarto? Então conta nos comentários…
 </p>
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 
 **_Mais no Bicha Fêmea…_**
 

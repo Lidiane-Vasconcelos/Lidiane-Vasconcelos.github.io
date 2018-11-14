@@ -1,10 +1,7 @@
 ---
-id: 3333
 title: 'Todo inverno pede: sopa de milho como você nunca viu.'
-date: 2014-08-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/08/20/sopa-de-milho/
 permalink: /2014/08/20/sopa-de-milho/
 categories:
   - Receitas
@@ -28,7 +25,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/SOPA-MILHO-PALMITO.jpg"><img class="alignnone size-full wp-image-10288" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/SOPA-MILHO-PALMITO.jpg" alt="SOPA-MILHO-PALMITO" width="600" height="337" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/08/SOPA-MILHO-PALMITO.jpg"><img class="alignnone size-full wp-image-10288" src="https://www.trololodemulher.com.br/2014/08/SOPA-MILHO-PALMITO.jpg" alt="SOPA-MILHO-PALMITO" width="600" height="337" /></a>
 </p>
 
 &nbsp;
@@ -38,7 +35,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/SOPA-MILHO-PALMITO2.jpg"><img class="alignnone size-full wp-image-10289" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/SOPA-MILHO-PALMITO2.jpg" alt="SOPA-MILHO-PALMITO[2]" width="600" height="337" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/08/SOPA-MILHO-PALMITO2.jpg"><img class="alignnone size-full wp-image-10289" src="https://www.trololodemulher.com.br/2014/08/SOPA-MILHO-PALMITO2.jpg" alt="SOPA-MILHO-PALMITO[2]" width="600" height="337" /></a>
 </p>
 
 <p align="justify">
@@ -46,23 +43,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/06/06/sopa-e-caldo/" target="_blank"><strong>Comida para a família e o coração: sopa e caldo.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/06/06/sopa-e-caldo/" target="_blank" rel="noopener noreferrer"><strong>Comida para a família e o coração: sopa e caldo.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/08/19/sopa-de-abobora/" target="_blank"><strong>Sopa de abóbora rápida, fácil e oh: superultramega delícia!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/08/19/sopa-de-abobora/" target="_blank" rel="noopener noreferrer"><strong>Sopa de abóbora rápida, fácil e oh: superultramega delícia!</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/CAROL-VIEIRA.png"><img class="alignnone size-full wp-image-10204" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/CAROL-VIEIRA.png" alt="CAROL VIEIRA" width="600" height="251" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/07/CAROL-VIEIRA.png"><img class="alignnone size-full wp-image-10204" src="https://www.trololodemulher.com.br/2014/07/CAROL-VIEIRA.png" alt="CAROL VIEIRA" width="600" height="251" /></a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank" rel="noopener noreferrer">clica aqui, oh</a>.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;

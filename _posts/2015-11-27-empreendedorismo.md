@@ -1,10 +1,7 @@
 ---
-id: 3516
 title: 'Empreendedorismo: quais os 7 medos mais comuns?'
-date: 2015-11-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/11/27/empreendedorismo/
 permalink: /2015/11/27/empreendedorismo/
 categories:
   - Empreendedorismo Feminino
@@ -19,11 +16,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/11/EMPREENDEDORISMO-FEMININO-MEDOS.jpg"><img class="alignnone size-full wp-image-11702" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/11/EMPREENDEDORISMO-FEMININO-MEDOS.jpg" alt="EMPREENDEDORISMO FEMININO-MEDOS" width="800" height="536" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/11/EMPREENDEDORISMO-FEMININO-MEDOS.jpg"><img class="alignnone size-full wp-image-11702" src="https://www.trololodemulher.com.br/2015/11/EMPREENDEDORISMO-FEMININO-MEDOS.jpg" alt="EMPREENDEDORISMO FEMININO-MEDOS" width="800" height="536" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: <a href="http://www.laughandpee.com/" target="_blank" rel="noopener noreferrer">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank" rel="noopener noreferrer">Gratisography</a>
 </p>
 
 <p align="justify">
@@ -43,7 +40,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/12/12/empreendedorismo-feminino/" target="_blank"><strong>Empreendedorismo feminino: 3 mulheres contaram tudo!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/12/12/empreendedorismo-feminino/" target="_blank" rel="noopener noreferrer"><strong>Empreendedorismo feminino: 3 mulheres contaram tudo!</strong></a>
 </p>
 
 <p align="justify">
@@ -63,7 +60,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank"><strong>De hobby a trabalho: como ganhar dinheiro?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank" rel="noopener noreferrer"><strong>De hobby a trabalho: como ganhar dinheiro?</strong></a>
 </p>
 
 <p align="justify">
@@ -119,7 +116,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/10/30/produtividade-2/" target="_blank"><strong>Produtividade: 5 mulheres empreendedoras dão dicas top.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/10/30/produtividade-2/" target="_blank" rel="noopener noreferrer"><strong>Produtividade: 5 mulheres empreendedoras dão dicas top.</strong></a>
 </p>
 
 <p align="justify">
@@ -139,7 +136,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/13/empreendedorismo-feminino-2/" target="_blank"><strong>Empreendedorismo feminino: o que é mais importante?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/06/13/empreendedorismo-feminino-2/" target="_blank" rel="noopener noreferrer"><strong>Empreendedorismo feminino: o que é mais importante?</strong></a>
 </p>
 
 <p align="justify">
@@ -151,15 +148,15 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/11/EMPREENDEDORISMO-FEMININO-SIMONE-MITJANS3.jpg"><img class="alignnone size-full wp-image-11705" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/11/EMPREENDEDORISMO-FEMININO-SIMONE-MITJANS3.jpg" alt="EMPREENDEDORISMO FEMININO-SIMONE MITJANS[3]" width="800" height="169" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/11/EMPREENDEDORISMO-FEMININO-SIMONE-MITJANS3.jpg"><img class="alignnone size-full wp-image-11705" src="https://www.trololodemulher.com.br/2015/11/EMPREENDEDORISMO-FEMININO-SIMONE-MITJANS3.jpg" alt="EMPREENDEDORISMO FEMININO-SIMONE MITJANS[3]" width="800" height="169" /></a>
 </p>
 
 <p align="justify">
-  Como uma mulher empreendedora, ou fortemente orientada a tornar-se uma, você sente que precisa alinhar algumas questões para seguir em frente com sua paixão? Uma mentora de sucesso pode mesmo ser um divisor de águas nessa sua trajetória, de maneira que você se sinta bem orientada e mantenha a sua motivação viva. Se você deseja uma companhia nesse sentido na sua jornada, assim como um atleta precisa de um treinador em quem possa confiar, pode contar com a Simone Mitjans como o suporte que você precisa. É para as mulheres de sucesso que a Simone direciona toda a sua energia e conhecimentos, e você pode entender como esse trabalho é realizado <a href="http://www.simonemitjans.com.br/" target="_blank">visitando o seu site</a>. Além do mais, <a href="https://www.facebook.com/simonemitjans/?fref=ts" target="_blank">curta a fanpage da Simone no Facebook</a> e fique por dentro de tudo o que pode facilitar para a energia do sucesso chegar até você. Se joga!
+  Como uma mulher empreendedora, ou fortemente orientada a tornar-se uma, você sente que precisa alinhar algumas questões para seguir em frente com sua paixão? Uma mentora de sucesso pode mesmo ser um divisor de águas nessa sua trajetória, de maneira que você se sinta bem orientada e mantenha a sua motivação viva. Se você deseja uma companhia nesse sentido na sua jornada, assim como um atleta precisa de um treinador em quem possa confiar, pode contar com a Simone Mitjans como o suporte que você precisa. É para as mulheres de sucesso que a Simone direciona toda a sua energia e conhecimentos, e você pode entender como esse trabalho é realizado <a href="http://www.simonemitjans.com.br/" target="_blank" rel="noopener noreferrer">visitando o seu site</a>. Além do mais, <a href="https://www.facebook.com/simonemitjans/?fref=ts" target="_blank" rel="noopener noreferrer">curta a fanpage da Simone no Facebook</a> e fique por dentro de tudo o que pode facilitar para a energia do sucesso chegar até você. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

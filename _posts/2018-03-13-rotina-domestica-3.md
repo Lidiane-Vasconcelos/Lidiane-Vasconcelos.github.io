@@ -1,10 +1,7 @@
 ---
-id: 3853
 title: 'Rotina doméstica ou bem viver: o que você quer ler?'
-date: 2018-03-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2018/03/13/rotina-domestica-3/
 permalink: /2018/03/13/rotina-domestica-3/
 categories:
   - Bem-estar
@@ -25,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14574" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/03/CONTEUDO-FEMININO-BLOG.jpg" alt="CONTEUDO FEMININO-BLOG" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14574" src="https://www.trololodemulher.com.br/2018/03/CONTEUDO-FEMININO-BLOG.jpg" alt="CONTEUDO FEMININO-BLOG" width="800" height="800" />
 </p>
 
 <p align="center">
@@ -37,19 +34,19 @@ categories:
 </p>
 
 <p align="justify">
-  1 – <a href="http://www.trololodemulher.com.br/2016/03/15/quarto-infanti/" target="_blank">Quarto infantil: retire 5 itens fora de uso… agora!</a>
+  1 – <a href="http://www.trololodemulher.com.br/2016/03/15/quarto-infanti/" target="_blank" rel="noopener noreferrer">Quarto infantil: retire 5 itens fora de uso… agora!</a>
 </p>
 
 <p align="justify">
-  2 – <a href="http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/" target="_blank">Se sua casa estiver em ordem, não duvide: você ficará bem.</a>
+  2 – <a href="http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/" target="_blank" rel="noopener noreferrer">Se sua casa estiver em ordem, não duvide: você ficará bem.</a>
 </p>
 
 <p align="justify">
-  3 – <a href="http://www.trololodemulher.com.br/2016/01/06/casa-limpa-e-organizada/" target="_blank">Casa limpa e organizada com menos esforço? 11 dicas.</a>
+  3 – <a href="http://www.trololodemulher.com.br/2016/01/06/casa-limpa-e-organizada/" target="_blank" rel="noopener noreferrer">Casa limpa e organizada com menos esforço? 11 dicas.</a>
 </p>
 
 <p align="justify">
-  4 – <a href="http://www.trololodemulher.com.br/2016/02/23/casa-limpa/" target="_blank">As 4 lições que eu aprendi para manter a casa limpa!</a>
+  4 – <a href="http://www.trololodemulher.com.br/2016/02/23/casa-limpa/" target="_blank" rel="noopener noreferrer">As 4 lições que eu aprendi para manter a casa limpa!</a>
 </p>
 
 <p align="justify">
@@ -57,27 +54,27 @@ categories:
 </p>
 
 <p align="justify">
-  1 – <a href="http://www.trololodemulher.com.br/2017/02/17/autoestima-2/" target="_blank">Veja como cuidar de sua auto-estima, e tenha uma vida leve!</a>
+  1 – <a href="http://www.trololodemulher.com.br/2017/02/17/autoestima-2/" target="_blank" rel="noopener noreferrer">Veja como cuidar de sua auto-estima, e tenha uma vida leve!</a>
 </p>
 
 <p align="justify">
-  2 – <a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank">Medidas práticas para restaurar sua auto-estima… já!</a>
+  2 – <a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank" rel="noopener noreferrer">Medidas práticas para restaurar sua auto-estima… já!</a>
 </p>
 
 <p align="justify">
-  3 – <a href="http://www.trololodemulher.com.br/2015/08/21/viver-sem-estresse/" target="_blank">Como desacelerar a vida, e viver sem estresse?</a>
+  3 – <a href="http://www.trololodemulher.com.br/2015/08/21/viver-sem-estresse/" target="_blank" rel="noopener noreferrer">Como desacelerar a vida, e viver sem estresse?</a>
 </p>
 
 <p align="justify">
-  4 – <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank">Vida simples: menos é mais e a gente vive melhor.</a>
+  4 – <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank" rel="noopener noreferrer">Vida simples: menos é mais e a gente vive melhor.</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/"><img class="wp-image-14554 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/02/PROJETO-LAR-BONITO-LAR-RODAPÉ2.jpg" alt="PROJETO LAR BONITO LAR-RODAPÉ[2]" width="565" height="149" /></a>
+  <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/"><img class="wp-image-14554 size-full" src="https://www.trololodemulher.com.br/2018/02/PROJETO-LAR-BONITO-LAR-RODAPÉ2.jpg" alt="PROJETO LAR BONITO LAR-RODAPÉ[2]" width="565" height="149" /></a>
 </p>
 
 <p align="justify">

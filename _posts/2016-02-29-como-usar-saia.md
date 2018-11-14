@@ -1,10 +1,7 @@
 ---
-id: 3551
 title: Como usar saia, a peça mais feminina?
-date: 2016-02-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/02/29/como-usar-saia/
 permalink: /2016/02/29/como-usar-saia/
 categories:
   - Moda
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12008" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/MODA-SAIA23.jpg" alt="MODA-SAIA[2][3]" width="646" height="752" />
+  <img class="alignnone size-full wp-image-12008" src="https://www.trololodemulher.com.br/2016/02/MODA-SAIA23.jpg" alt="MODA-SAIA[2][3]" width="646" height="752" />
 </p>
 
 <p align="justify">
@@ -22,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12006" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/MODA-SAIA.jpg" alt="MODA-SAIA" width="800" height="536" />
+  <img class="alignnone size-full wp-image-12006" src="https://www.trololodemulher.com.br/2016/02/MODA-SAIA.jpg" alt="MODA-SAIA" width="800" height="536" />
 </p>
 
 <p align="center">
@@ -38,11 +35,11 @@ categories:
 **_2 – Saia evasê: o que tem de bom nessa saia? Com qual tipo de blusa e calçado combinar?_**
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12007" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/MODA-SAIA2.png.jpg" alt="MODA-SAIA[2].png" width="800" height="928" />
+  <img class="alignnone size-full wp-image-12007" src="https://www.trololodemulher.com.br/2016/02/MODA-SAIA2.png.jpg" alt="MODA-SAIA[2].png" width="800" height="928" />
 </p>
 
 <p align="center">
-  <strong><em>Fonte: </em><a href="http://www.lojasrenner.com.br/p/saia-evase-em-crepe-533433087" target="_blank"><em>Renner</em></a></strong>
+  <strong><em>Fonte: </em><a href="http://www.lojasrenner.com.br/p/saia-evase-em-crepe-533433087" target="_blank" rel="noopener noreferrer"><em>Renner</em></a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -56,7 +53,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/MODA-SAIA3.png.jpg" alt="MODA-SAIA[3].png" width="650" height="485" />
+  <img class="alignnone size-full wp-image-12011" src="https://www.trololodemulher.com.br/2016/02/MODA-SAIA3.png.jpg" alt="MODA-SAIA[3].png" width="650" height="485" />
 </p>
 
 <p align="center">
@@ -70,7 +67,7 @@ categories:
 **_4 – Saia longa: qual a principal característica dessa saia? Como combiná-la com blusa e calçado?_**
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12012" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/MODA-SAIA4.png.jpg" alt="MODA-SAIA[4].png" width="700" height="491" />
+  <img class="alignnone size-full wp-image-12012" src="https://www.trololodemulher.com.br/2016/02/MODA-SAIA4.png.jpg" alt="MODA-SAIA[4].png" width="700" height="491" />
 </p>
 
 <p align="center">
@@ -90,29 +87,29 @@ _Lilian Jordão_”
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11464" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/LILIAN-JORDÃO-CONSULTORA-DE-ESTILO-E-IMAGEM-PESSOAL.jpg" alt="LILIAN JORDÃO-CONSULTORA DE ESTILO E IMAGEM PESSOAL" width="800" height="180" />
+  <img class="alignnone size-full wp-image-11464" src="https://www.trololodemulher.com.br/2015/09/LILIAN-JORDÃO-CONSULTORA-DE-ESTILO-E-IMAGEM-PESSOAL.jpg" alt="LILIAN JORDÃO-CONSULTORA DE ESTILO E IMAGEM PESSOAL" width="800" height="180" />
 </p>
 
 &nbsp;
 
 **Mais Consultorias de Lilian Jordão:**
 
-<a href="http://www.trololodemulher.com.br/2015/10/26/blazer/" target="_blank"><strong>Blazer em dias quentes: monte 3 looks.</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/10/26/blazer/" target="_blank" rel="noopener noreferrer"><strong>Blazer em dias quentes: monte 3 looks.</strong></a>
 
-<a href="http://www.trololodemulher.com.br/2015/09/28/moda-para-gravidas/" target="_blank"><strong>Moda pra grávidas: o que favorece as futuras mamães?</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/09/28/moda-para-gravidas/" target="_blank" rel="noopener noreferrer"><strong>Moda pra grávidas: o que favorece as futuras mamães?</strong></a>
 
-<a href="http://www.trololodemulher.com.br/2015/03/22/moda-idades/" target="_blank"><strong>O que você não sabia sobre moda para 20, 30, 40, 50 anos ou mais!</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/03/22/moda-idades/" target="_blank" rel="noopener noreferrer"><strong>O que você não sabia sobre moda para 20, 30, 40, 50 anos ou mais!</strong></a>
 
 &nbsp;
 
 <p align="justify">
-  A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? <a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank">Clica aqui e se joga</a>! A novidade, bonita, é que a Lilian também tem um site lindo de viver! <a href="http://www.lilianjordao.com.br/" target="_blank">Visite seu site, clique aqui</a>, e descubra um apanhado de informações para entender moda de um jeito bem descomplicado. Se joga!
+  A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? <a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank" rel="noopener noreferrer">Clica aqui e se joga</a>! A novidade, bonita, é que a Lilian também tem um site lindo de viver! <a href="http://www.lilianjordao.com.br/" target="_blank" rel="noopener noreferrer">Visite seu site, clique aqui</a>, e descubra um apanhado de informações para entender moda de um jeito bem descomplicado. Se joga!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

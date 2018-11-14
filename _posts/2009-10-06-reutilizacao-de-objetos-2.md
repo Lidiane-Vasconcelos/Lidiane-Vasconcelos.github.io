@@ -1,19 +1,16 @@
 ---
-id: 2709
 title: Reutilização De Objetos Com Novos Usos.
-date: 2009-10-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/10/06/reutilizacao-de-objetos-2/
 permalink: /2009/10/06/reutilizacao-de-objetos-2/
 categories:
   - Trololó
 ---
 <p style="text-align: center;">
-  <img class="size-full wp-image-2432  aligncenter" title="objeto antigo, novo uso" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/objeto-antigo-novo-uso1.jpg" alt="objeto antigo, novo uso" width="324" height="447" />
+  <img class="size-full wp-image-2432  aligncenter" title="objeto antigo, novo uso" src="https://www.trololodemulher.com.br/2009/08/objeto-antigo-novo-uso1.jpg" alt="objeto antigo, novo uso" width="324" height="447" />
 </p>
 
-Quando vi essa imagem no site da revista <a href="http://revistacasaejardim.globo.com/" target="_blank">Casa e Jardim </a> fiquei super inspirada, porque eu acho o máximo a ideia de dar novos usos aos objetos. Na referência acima, a gente vê um guarda-roupas antigo que agora é usado como guarda-louças. Não é ótimo? Eu acho que a adaptação ficou perfeita!
+Quando vi essa imagem no site da revista <a href="http://revistacasaejardim.globo.com/" target="_blank" rel="noopener noreferrer">Casa e Jardim </a> fiquei super inspirada, porque eu acho o máximo a ideia de dar novos usos aos objetos. Na referência acima, a gente vê um guarda-roupas antigo que agora é usado como guarda-louças. Não é ótimo? Eu acho que a adaptação ficou perfeita!
 
 Importante colocar que o novo uso não tem que ser necessariamente o de um objeto velho ou antigo, no sentido de que aquele objeto seria colocado no lixo e a gente vai lá e reutiliza. Ás vezes a gente tem determinado tipo de necessidade e a solução pode ser criativa e mais barata se for usado algo que teria outro fim.
 
@@ -25,7 +22,7 @@ _Ué_! Vamos fazer uma reunião de ideias quanto a novos usos para objetos que
 
 2 &#8211; Eu já ando guardando embalagens de vidro cujo formato eu goste. Sabe como vou usá-las? Como pequenos vasos de flores para enfeitar cantinhos estratégicos como o banheiro, lavabo e mesa de cabeceira.
 
-3 &#8211; Já aprendi a usar cachepôs como porta toalhas. Elas ficam enroladinhas e no maior charme. Eu aprendi com a Isabela Kastrup, do blog &#8220;<a href="http://www.arrumadissimoecia.blogspot.com/" target="_blank">ARRUMADÍSSIMO</a>&#8220;.
+3 &#8211; Já aprendi a usar cachepôs como porta toalhas. Elas ficam enroladinhas e no maior charme. Eu aprendi com a Isabela Kastrup, do blog &#8220;<a href="http://www.arrumadissimoecia.blogspot.com/" target="_blank" rel="noopener noreferrer">ARRUMADÍSSIMO</a>&#8220;.
 
 4 &#8211; Foi-se o tempo em que eu jogaria fora uma xícara porque ela estaria trincada. Sabe o que fiz com a última, e que não serve mais para beber café e chá? Ela serve agora para alegrar a cozinha com florzinhas secas.
 
@@ -40,10 +37,10 @@ Agora é contigo. Que é que você sugere para a gente aumentar essa lista?
 **As bichas fêmeas falam&#8230;**
 
 <p style="text-align: center;">
-  <strong><img class="size-full wp-image-2569  aligncenter" title="httphome-boxer.blogspot.com" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/httphome-boxer-blogspot-com.jpg" alt="httphome-boxer.blogspot.com" width="320" height="250" /></strong>
+  <strong><img class="size-full wp-image-2569  aligncenter" title="httphome-boxer.blogspot.com" src="https://www.trololodemulher.com.br/2009/10/httphome-boxer-blogspot-com.jpg" alt="httphome-boxer.blogspot.com" width="320" height="250" /></strong>
 </p>
 
-**A Fabi, editora criativa do espaço virtual <a href="http://favasdesign.blogspot.com/" target="_blank">Favas a Contar</a>, dividiu com a gente um achado. A bonita indicou o blog <a href="http://home-boxer.blogspot.com/" target="_blank">CASA & COISAS & TAL </a>para o nosso deleite. Já fui lá dar uma conferida, e trata-se de um espaço onde o Flavio Zaninelli, responsável pelo blog, garimpa ideias e inspirações para a gente aplicar em casa. E tudo, tudinho, é no melhor estilo de reaproveitamento e reutilização, como esses bastidores de bordado cobertos com tecidos alegres, mostrados <a href="http://home-boxer.blogspot.com/2009/10/recadosfotos-e-etc.html" target="_blank">neste post</a>, que cumprem o papel de mural. Não é uma ideia legal para usar no nosso _home office_?**
+**A Fabi, editora criativa do espaço virtual <a href="http://favasdesign.blogspot.com/" target="_blank" rel="noopener noreferrer">Favas a Contar</a>, dividiu com a gente um achado. A bonita indicou o blog <a href="http://home-boxer.blogspot.com/" target="_blank" rel="noopener noreferrer">CASA & COISAS & TAL </a>para o nosso deleite. Já fui lá dar uma conferida, e trata-se de um espaço onde o Flavio Zaninelli, responsável pelo blog, garimpa ideias e inspirações para a gente aplicar em casa. E tudo, tudinho, é no melhor estilo de reaproveitamento e reutilização, como esses bastidores de bordado cobertos com tecidos alegres, mostrados <a href="http://home-boxer.blogspot.com/2009/10/recadosfotos-e-etc.html" target="_blank" rel="noopener noreferrer">neste post</a>, que cumprem o papel de mural. Não é uma ideia legal para usar no nosso _home office_?**
 
 **Mais no Bicha Fêmea**
 

@@ -1,10 +1,7 @@
 ---
-id: 3776
 title: 'Armário de banheiro: falta ideia? Veja 6 bonitos e simples!'
-date: 2017-06-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/06/20/armario-de-banheiro/
 permalink: /2017/06/20/armario-de-banheiro/
 categories:
   - Banheiro
@@ -22,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Via <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -38,7 +35,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  Via <a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer">HGTV</a>
 </p>
 
 <p align="justify">
@@ -54,7 +51,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  Via <a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer">HGTV</a>
 </p>
 
 <p align="justify">
@@ -70,7 +67,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  Via <a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer">HGTV</a>
 </p>
 
 <p align="justify">
@@ -86,7 +83,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Via <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -102,7 +99,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Via <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -110,5 +107,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

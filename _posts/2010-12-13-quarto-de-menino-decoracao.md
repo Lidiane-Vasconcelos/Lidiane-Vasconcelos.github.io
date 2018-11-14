@@ -1,10 +1,7 @@
 ---
-id: 2919
 title: 'Quarto de menino: decoração que acompanha o crescimento dele…'
-date: 2010-12-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/12/13/quarto-de-menino-decoracao/
 permalink: /2010/12/13/quarto-de-menino-decoracao/
 categories:
   - Decoração
@@ -23,7 +20,7 @@ Seu garotinho não é mais um bebê e você quer ideias para a **decoração do 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/quarto-de-menino.jpg"><img class="alignnone size-full wp-image-5546" title="quarto de menino" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/quarto-de-menino.jpg" alt="" width="400" height="420" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/quarto-de-menino.jpg"><img class="alignnone size-full wp-image-5546" title="quarto de menino" src="https://www.trololodemulher.com.br/2010/11/quarto-de-menino.jpg" alt="" width="400" height="420" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -43,7 +40,7 @@ Seu garotinho não é mais um bebê e você quer ideias para a **decoração do 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/quarto-de-menino-decoracao.jpg"><img class="alignnone size-full wp-image-5547" title="quarto de menino decoração" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/quarto-de-menino-decoracao.jpg" alt="" width="400" height="420" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/quarto-de-menino-decoracao.jpg"><img class="alignnone size-full wp-image-5547" title="quarto de menino decoração" src="https://www.trololodemulher.com.br/2010/11/quarto-de-menino-decoracao.jpg" alt="" width="400" height="420" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -65,7 +62,7 @@ Seu garotinho não é mais um bebê e você quer ideias para a **decoração do 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Bike200.jpg"><img class="alignnone size-full wp-image-5267" title="Móbile Bike200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Bike200.jpg" alt="" width="200" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/09/Mobile-Bike200.jpg"><img class="alignnone size-full wp-image-5267" title="Móbile Bike200" src="https://www.trololodemulher.com.br/2010/09/Mobile-Bike200.jpg" alt="" width="200" height="200" /></a>
     </td>
     
     <td width="300" valign="top">
@@ -74,7 +71,7 @@ Seu garotinho não é mais um bebê e você quer ideias para a **decoração do 
       </p>
       
       <p style="text-align: justify;">
-        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-bike/" target="_blank">Móbile Bike</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>><strong> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-bike/" target="_blank">basta clicar</a></strong>!</em>
+        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-bike/" target="_blank" rel="noopener noreferrer">Móbile Bike</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>><strong> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-bike/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
       </p>
     </td>
   </tr>
@@ -86,19 +83,19 @@ Seu garotinho não é mais um bebê e você quer ideias para a **decoração do 
       </p>
       
       <p style="text-align: justify;">
-        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank">Quadro Meu Primeiro Carrinho</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>><strong> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank">basta clicar</a></strong>!</em>
+        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank" rel="noopener noreferrer">Quadro Meu Primeiro Carrinho</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>><strong> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
       </p>
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg"><img class="alignnone size-full wp-image-5330" title="Quadro Meu Primeiro Carrinho200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg" alt="" width="200" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg"><img class="alignnone size-full wp-image-5330" title="Quadro Meu Primeiro Carrinho200" src="https://www.trololodemulher.com.br/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg" alt="" width="200" height="200" /></a>
     </td>
   </tr>
   
   <tr>
     <td style="text-align: center;" width="300" valign="top">
       <div>
-        <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Porta-Fotografia-Lembrancas-da-Praia200.jpg"><img class="alignnone size-full wp-image-5548" title="Porta Fotografia Lembranças da Praia200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Porta-Fotografia-Lembrancas-da-Praia200.jpg" alt="" width="200" height="200" /></a>    </em>
+        <em><a href="https://www.trololodemulher.com.br/2010/11/Porta-Fotografia-Lembrancas-da-Praia200.jpg"><img class="alignnone size-full wp-image-5548" title="Porta Fotografia Lembranças da Praia200" src="https://www.trololodemulher.com.br/2010/11/Porta-Fotografia-Lembrancas-da-Praia200.jpg" alt="" width="200" height="200" /></a>    </em>
       </div>
       
       <div>
@@ -121,12 +118,12 @@ Seu garotinho não é mais um bebê e você quer ideias para a **decoração do 
             </p>
             
             <p style="text-align: justify;">
-              <em>O </em><a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-fotografia/" target="_blank"><strong><em>Porta Fotografia Lembranças da Praia</em></strong></a><em> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>><strong> <a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-fotografia/" target="_blank">basta clicar</a></strong>!</em>
+              <em>O </em><a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-fotografia/" target="_blank" rel="noopener noreferrer"><strong><em>Porta Fotografia Lembranças da Praia</em></strong></a><em> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>><strong> <a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-fotografia/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
             </p>
           </td></tr> </tbody> </table> 
           
           <p>
-            <em>Imagem: </em><a href="http://www.myhomeideas.com/" target="_blank"><em>My Home Ideas</em></a>
+            <em>Imagem: </em><a href="http://www.myhomeideas.com/" target="_blank" rel="noopener noreferrer"><em>My Home Ideas</em></a>
           </p>
           
           <p>

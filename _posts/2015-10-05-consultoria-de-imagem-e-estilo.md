@@ -1,10 +1,7 @@
 ---
-id: 3495
 title: Consultoria de imagem e estilo é seu sonho de carreira?
-date: 2015-10-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/10/05/consultoria-de-imagem-e-estilo/
 permalink: /2015/10/05/consultoria-de-imagem-e-estilo/
 categories:
   - Moda
@@ -18,11 +15,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/MODA-IMAGEM-ESTILO-CURSO-FORMACAO800.jpg"><img class="alignnone size-full wp-image-11550" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/MODA-IMAGEM-ESTILO-CURSO-FORMACAO800.jpg" alt="MODA-IMAGEM-ESTILO-CURSO-FORMACAO800" width="800" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/MODA-IMAGEM-ESTILO-CURSO-FORMACAO800.jpg"><img class="alignnone size-full wp-image-11550" src="https://www.trololodemulher.com.br/2015/10/MODA-IMAGEM-ESTILO-CURSO-FORMACAO800.jpg" alt="MODA-IMAGEM-ESTILO-CURSO-FORMACAO800" width="800" height="800" /></a>
 </p>
 
 <p align="center">
-  Imagem <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">GRATISOGRAPHY</a>
+  Imagem <a href="http://www.laughandpee.com/" target="_blank" rel="noopener noreferrer">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank" rel="noopener noreferrer">GRATISOGRAPHY</a>
 </p>
 
 <p align="justify">
@@ -30,7 +27,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>A primeira aula está disponível desde hoje! Nela eu conto Como Transformar sua Paixão em Sucesso Profissional em 6 Passos! </em><a href="http://lilianjordao.com.br/cursos/aula1/" target="_blank"><strong><em>Eu quero assistir a aula e transformar minha paixão em sucesso!</em></strong></a><em> </em>
+  <em>A primeira aula está disponível desde hoje! Nela eu conto Como Transformar sua Paixão em Sucesso Profissional em 6 Passos! </em><a href="http://lilianjordao.com.br/cursos/aula1/" target="_blank" rel="noopener noreferrer"><strong><em>Eu quero assistir a aula e transformar minha paixão em sucesso!</em></strong></a><em> </em>
 </p>
 
 <p align="justify">
@@ -42,15 +39,15 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/LILIAN-JORDÃO-CONSULTORA-DE-ESTILO-E-IMAGEM-PESSOAL.jpg"><img class="alignnone size-full wp-image-11464" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/LILIAN-JORDÃO-CONSULTORA-DE-ESTILO-E-IMAGEM-PESSOAL.jpg" alt="LILIAN JORDÃO-CONSULTORA DE ESTILO E IMAGEM PESSOAL" width="800" height="180" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/LILIAN-JORDÃO-CONSULTORA-DE-ESTILO-E-IMAGEM-PESSOAL.jpg"><img class="alignnone size-full wp-image-11464" src="https://www.trololodemulher.com.br/2015/09/LILIAN-JORDÃO-CONSULTORA-DE-ESTILO-E-IMAGEM-PESSOAL.jpg" alt="LILIAN JORDÃO-CONSULTORA DE ESTILO E IMAGEM PESSOAL" width="800" height="180" /></a>
 </p>
 
 <p align="justify">
-  A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? <a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank">Clica aqui e se joga</a>! A novidade, bonita, é que a Lilian também tem um site lindo de viver! <a href="http://www.lilianjordao.com.br/" target="_blank">Visite seu site, clique aqui</a>, e descubra um apanhado de informações para entender moda de um jeito bem descomplicado. Se joga!
+  A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? <a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank" rel="noopener noreferrer">Clica aqui e se joga</a>! A novidade, bonita, é que a Lilian também tem um site lindo de viver! <a href="http://www.lilianjordao.com.br/" target="_blank" rel="noopener noreferrer">Visite seu site, clique aqui</a>, e descubra um apanhado de informações para entender moda de um jeito bem descomplicado. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

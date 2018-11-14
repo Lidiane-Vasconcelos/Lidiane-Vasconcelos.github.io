@@ -1,10 +1,7 @@
 ---
-id: 3314
 title: 'Banheiro e revestimento: 4 ideias de paginação.'
-date: 2014-06-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/06/25/banheiro-revestimento/
 permalink: /2014/06/25/banheiro-revestimento/
 categories:
   - Banheiro
@@ -22,7 +19,7 @@ categories:
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-FILETES.jpg"><img class="alignnone size-full wp-image-10153" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-FILETES.jpg" alt="DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-FILETES" width="600" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/06/DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-FILETES.jpg"><img class="alignnone size-full wp-image-10153" src="https://www.trololodemulher.com.br/2014/06/DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-FILETES.jpg" alt="DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-FILETES" width="600" height="800" /></a>
 </p>
 
 &nbsp;
@@ -34,7 +31,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-PATCHWORK.jpg"><img class="alignnone size-full wp-image-10156" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-PATCHWORK.jpg" alt="DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-PATCHWORK" width="600" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/06/DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-PATCHWORK.jpg"><img class="alignnone size-full wp-image-10156" src="https://www.trololodemulher.com.br/2014/06/DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-PATCHWORK.jpg" alt="DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-PATCHWORK" width="600" height="800" /></a>
 </p>
 
 &nbsp;
@@ -46,7 +43,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-MOSAICO-PASTILHAS.jpg"><img class="alignnone size-full wp-image-10155" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-MOSAICO-PASTILHAS.jpg" alt="DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-MOSAICO-PASTILHAS" width="600" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/06/DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-MOSAICO-PASTILHAS.jpg"><img class="alignnone size-full wp-image-10155" src="https://www.trololodemulher.com.br/2014/06/DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-MOSAICO-PASTILHAS.jpg" alt="DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-MOSAICO-PASTILHAS" width="600" height="800" /></a>
 </p>
 
 &nbsp;
@@ -58,7 +55,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-MOSAICO.jpg"><img class="alignnone size-full wp-image-10154" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-MOSAICO.jpg" alt="DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-MOSAICO" width="600" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/06/DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-MOSAICO.jpg"><img class="alignnone size-full wp-image-10154" src="https://www.trololodemulher.com.br/2014/06/DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-MOSAICO.jpg" alt="DECORACAO-BANHEIRO-REVESTIMENTO-PAGINACAO-PAREDE-MOSAICO" width="600" height="800" /></a>
 </p>
 
 &nbsp;
@@ -71,16 +68,16 @@ categories:
 
 **Não deixe de ler:**
 
-<a href="http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/" target="_blank"><strong>4 ideias para decoração de banheiro pequeno.</strong></a>
+<a href="http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/" target="_blank" rel="noopener noreferrer"><strong>4 ideias para decoração de banheiro pequeno.</strong></a>
 
-<a href="http://www.trololodemulher.com.br/2009/06/30/dicas-como-aumentar-banheiro/" target="_blank"><strong>Dicas e imagens: como maximizar o banheiro.</strong></a>
+<a href="http://www.trololodemulher.com.br/2009/06/30/dicas-como-aumentar-banheiro/" target="_blank" rel="noopener noreferrer"><strong>Dicas e imagens: como maximizar o banheiro.</strong></a>
 
-<a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank"><strong>5 ideias de organização do banheiro que favorecem a decoração.</strong></a>
+<a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank" rel="noopener noreferrer"><strong>5 ideias de organização do banheiro que favorecem a decoração.</strong></a>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

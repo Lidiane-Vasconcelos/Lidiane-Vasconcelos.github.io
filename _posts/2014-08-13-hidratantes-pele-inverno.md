@@ -1,10 +1,7 @@
 ---
-id: 3330
 title: 'Dias frios, hidratantes e tudo mais: tudo a ver!'
-date: 2014-08-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/08/13/hidratantes-pele-inverno/
 permalink: /2014/08/13/hidratantes-pele-inverno/
 categories:
   - Beleza
@@ -31,11 +28,11 @@ Como está o seu arsenal de cremes hidratantes? Você deve saber, ou o aspecto d
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/BELEZA-PELE-HIDRATAÇÃO.jpg"><img class="alignnone size-full wp-image-10273" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/BELEZA-PELE-HIDRATAÇÃO.jpg" alt="BELEZA-PELE-HIDRATAÇÃO" width="600" height="498" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/08/BELEZA-PELE-HIDRATAÇÃO.jpg"><img class="alignnone size-full wp-image-10273" src="https://www.trololodemulher.com.br/2014/08/BELEZA-PELE-HIDRATAÇÃO.jpg" alt="BELEZA-PELE-HIDRATAÇÃO" width="600" height="498" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
+  Imagem: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">free images</a>
 </p>
 
 &nbsp;
@@ -79,25 +76,25 @@ Como está o seu arsenal de cremes hidratantes? Você deve saber, ou o aspecto d
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/07/23/saude-beleza-pele-inverno/" target="_blank"><strong>A saúde da pele agradece o filtro solar, mesmo no inverno.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/23/saude-beleza-pele-inverno/" target="_blank" rel="noopener noreferrer"><strong>A saúde da pele agradece o filtro solar, mesmo no inverno.</strong></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/Dra.-Rafaela-Salvato-DERMATOLOGISTA-FLORIANÓPOLIS.png"><img class="alignnone size-full wp-image-10276" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/Dra.-Rafaela-Salvato-DERMATOLOGISTA-FLORIANÓPOLIS.png" alt="Dra. Rafaela Salvato - DERMATOLOGISTA- FLORIANÓPOLIS" width="600" height="205" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/08/Dra.-Rafaela-Salvato-DERMATOLOGISTA-FLORIANÓPOLIS.png"><img class="alignnone size-full wp-image-10276" src="https://www.trololodemulher.com.br/2014/08/Dra.-Rafaela-Salvato-DERMATOLOGISTA-FLORIANÓPOLIS.png" alt="Dra. Rafaela Salvato - DERMATOLOGISTA- FLORIANÓPOLIS" width="600" height="205" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  A Dra. Rafaela tem presença constante na internet, isso para nossa alegria, viu? É possível acompanhar suas atualizações em seu blog, e você pode <a href="http://www.blografaelasalvato.med.br/" target="_blank">acessar clicando aqui</a>. Acompanhe os posts com temas pertinentes a saúde e beleza da pele, fique bem informada, saudável e bonita. Além do mais você pode conhecer mais de seu trabalho <a href="http://rafaelasalvato.com.br/" target="_blank">acessando seu site aqui</a>, ou curtir sua <a href="https://www.facebook.com/rafaelasalvatodermatologia" target="_blank">página no Facebook bem aqui</a>. Se joga!
+  A Dra. Rafaela tem presença constante na internet, isso para nossa alegria, viu? É possível acompanhar suas atualizações em seu blog, e você pode <a href="http://www.blografaelasalvato.med.br/" target="_blank" rel="noopener noreferrer">acessar clicando aqui</a>. Acompanhe os posts com temas pertinentes a saúde e beleza da pele, fique bem informada, saudável e bonita. Além do mais você pode conhecer mais de seu trabalho <a href="http://rafaelasalvato.com.br/" target="_blank" rel="noopener noreferrer">acessando seu site aqui</a>, ou curtir sua <a href="https://www.facebook.com/rafaelasalvatodermatologia" target="_blank" rel="noopener noreferrer">página no Facebook bem aqui</a>. Se joga!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;

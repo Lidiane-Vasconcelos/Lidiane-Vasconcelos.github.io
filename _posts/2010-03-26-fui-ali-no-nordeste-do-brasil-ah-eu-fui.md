@@ -1,10 +1,7 @@
 ---
-id: 2799
 title: Fui ali no Nordeste do Brasil. Ah! Eu fui!
-date: 2010-03-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/03/26/fui-ali-no-nordeste-do-brasil-ah-eu-fui/
 permalink: /2010/03/26/fui-ali-no-nordeste-do-brasil-ah-eu-fui/
 categories:
   - Trololó
@@ -34,7 +31,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
   <table align="center">
     <tr>
       <td>
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/peixinhos.jpg"><img class="aligncenter size-medium wp-image-4466" title="peixinhos" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/peixinhos-300x200.jpg" alt="" width="300" height="200" /></a>
+        <a href="https://www.trololodemulher.com.br/2010/03/peixinhos.jpg"><img class="aligncenter size-medium wp-image-4466" title="peixinhos" src="https://www.trololodemulher.com.br/2010/03/peixinhos-300x200.jpg" alt="" width="300" height="200" /></a>
       </td>
     </tr>
   </table>
@@ -46,7 +43,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
   <table align="center">
     <tr>
       <td>
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/praia-do-toque.jpg"><img class="aligncenter size-medium wp-image-4469" title="praia do toque" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/praia-do-toque-300x200.jpg" alt="" width="300" height="200" /></a>
+        <a href="https://www.trololodemulher.com.br/2010/03/praia-do-toque.jpg"><img class="aligncenter size-medium wp-image-4469" title="praia do toque" src="https://www.trololodemulher.com.br/2010/03/praia-do-toque-300x200.jpg" alt="" width="300" height="200" /></a>
       </td>
     </tr>
   </table>
@@ -58,7 +55,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
   <table align="center">
     <tr>
       <td>
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/margens-de-rio.jpg"><img class="aligncenter size-medium wp-image-4455" title="margens de rio" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/margens-de-rio-300x200.jpg" alt="" width="300" height="200" /></a>
+        <a href="https://www.trololodemulher.com.br/2010/03/margens-de-rio.jpg"><img class="aligncenter size-medium wp-image-4455" title="margens de rio" src="https://www.trololodemulher.com.br/2010/03/margens-de-rio-300x200.jpg" alt="" width="300" height="200" /></a>
       </td>
     </tr>
   </table>
@@ -78,7 +75,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/entardecer-praia-toque.jpg"><img class="aligncenter size-medium wp-image-4452" title="entardecer praia toque" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/entardecer-praia-toque-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/entardecer-praia-toque.jpg"><img class="aligncenter size-medium wp-image-4452" title="entardecer praia toque" src="https://www.trololodemulher.com.br/2010/03/entardecer-praia-toque-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
       </tr>
     </table>
@@ -92,13 +89,13 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </p>
     
     <p>
-      Depois de deixar São Miguel dos Milagres seguimos para Maceió, capital de Alagoas. Por lá eu visitei feiras de artesanato, vi praias da capital, visitei pontos turísticos e ainda tive um encontro bloguístico. Isso mesmo. Creia! Sabe quem eu encontrei? A bonitona Fabiana Correia, que escreve nos blogs <a href="http://deliciasculinariasdafabi.blogspot.com/" target="_blank">Delícias Culinárias</a> e <a href="http://ideiasdetalhesedicas.blogspot.com/" target="_blank">Ideias, Detalhes & Dicas</a>. Almoçamos juntas, tiramos foto e conversamos um bocado. Melhor que isso? Só outro disso!
+      Depois de deixar São Miguel dos Milagres seguimos para Maceió, capital de Alagoas. Por lá eu visitei feiras de artesanato, vi praias da capital, visitei pontos turísticos e ainda tive um encontro bloguístico. Isso mesmo. Creia! Sabe quem eu encontrei? A bonitona Fabiana Correia, que escreve nos blogs <a href="http://deliciasculinariasdafabi.blogspot.com/" target="_blank" rel="noopener noreferrer">Delícias Culinárias</a> e <a href="http://ideiasdetalhesedicas.blogspot.com/" target="_blank" rel="noopener noreferrer">Ideias, Detalhes & Dicas</a>. Almoçamos juntas, tiramos foto e conversamos um bocado. Melhor que isso? Só outro disso!
     </p>
     
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/Fabiana-e-eu.jpg"><img class="aligncenter size-medium wp-image-4453" title="Fabiana e eu" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/Fabiana-e-eu-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/Fabiana-e-eu.jpg"><img class="aligncenter size-medium wp-image-4453" title="Fabiana e eu" src="https://www.trololodemulher.com.br/2010/03/Fabiana-e-eu-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
       </tr>
     </table>
@@ -110,7 +107,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/vista-de-Maceio.jpg"><img class="aligncenter size-medium wp-image-4475" title="vista de Maceió" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/vista-de-Maceio-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/vista-de-Maceio.jpg"><img class="aligncenter size-medium wp-image-4475" title="vista de Maceió" src="https://www.trololodemulher.com.br/2010/03/vista-de-Maceio-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
       </tr>
     </table>
@@ -122,19 +119,19 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/museu-Theo-Brandao.jpg"><img class="aligncenter size-medium wp-image-4457" title="museu Théo Brandão" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/museu-Theo-Brandao-199x300.jpg" alt="" width="199" height="300" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/museu-Theo-Brandao.jpg"><img class="aligncenter size-medium wp-image-4457" title="museu Théo Brandão" src="https://www.trololodemulher.com.br/2010/03/museu-Theo-Brandao-199x300.jpg" alt="" width="199" height="300" /></a>
         </td>
       </tr>
     </table>
     
     <p style="text-align: center;">
-      Marido e eu no <a href="http://www.overmundo.com.br/guia/museu-theo-brandao" target="_blank">Museu Théo Brandão</a>.
+      Marido e eu no <a href="http://www.overmundo.com.br/guia/museu-theo-brandao" target="_blank" rel="noopener noreferrer">Museu Théo Brandão</a>.
     </p>
     
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/praia-do-Frances.jpg"><img class="aligncenter size-medium wp-image-4468" title="praia do Francês" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/praia-do-Frances-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/praia-do-Frances.jpg"><img class="aligncenter size-medium wp-image-4468" title="praia do Francês" src="https://www.trololodemulher.com.br/2010/03/praia-do-Frances-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
       </tr>
     </table>
@@ -152,13 +149,13 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </p>
     
     <p>
-      Sabia que não é somente no Rio Grande do Norte que se formam as dunas? Pois, saiba e creia. O visual é lindo e tudo ficou muito melhor porque fizemos o passeio com o pessoal do <a href="http://www.faroldafozecoturismo.com/" target="_blank">Farol da Foz Ecoturismo</a>, com um <em>trololó</em> que passa muito longe daqueles modelos <em>decoreba</em> que os guias turísticos costumam adotar para passar as informações. Foi uma experiência incrível e prazerosa, só me faltou a coragem de fazer o <em>skibunda</em>. Sim, só marido que fez porque eu sou medrosa mesmo… <em>tsc tsc tsc</em>…
+      Sabia que não é somente no Rio Grande do Norte que se formam as dunas? Pois, saiba e creia. O visual é lindo e tudo ficou muito melhor porque fizemos o passeio com o pessoal do <a href="http://www.faroldafozecoturismo.com/" target="_blank" rel="noopener noreferrer">Farol da Foz Ecoturismo</a>, com um <em>trololó</em> que passa muito longe daqueles modelos <em>decoreba</em> que os guias turísticos costumam adotar para passar as informações. Foi uma experiência incrível e prazerosa, só me faltou a coragem de fazer o <em>skibunda</em>. Sim, só marido que fez porque eu sou medrosa mesmo… <em>tsc tsc tsc</em>…
     </p>
     
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/rio-sao-francisco.jpg"><img class="aligncenter size-medium wp-image-4472" title="rio são francisco" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/rio-sao-francisco-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/rio-sao-francisco.jpg"><img class="aligncenter size-medium wp-image-4472" title="rio são francisco" src="https://www.trololodemulher.com.br/2010/03/rio-sao-francisco-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
       </tr>
     </table>
@@ -170,7 +167,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/paisagem-rio-sao-francisco.jpg"><img class="aligncenter size-medium wp-image-4461" title="paisagem rio são francisco" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/paisagem-rio-sao-francisco-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/paisagem-rio-sao-francisco.jpg"><img class="aligncenter size-medium wp-image-4461" title="paisagem rio são francisco" src="https://www.trololodemulher.com.br/2010/03/paisagem-rio-sao-francisco-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
       </tr>
     </table>
@@ -182,7 +179,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/dunas-alagoas.jpg"><img class="aligncenter size-medium wp-image-4451" title="dunas alagoas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/dunas-alagoas-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/dunas-alagoas.jpg"><img class="aligncenter size-medium wp-image-4451" title="dunas alagoas" src="https://www.trololodemulher.com.br/2010/03/dunas-alagoas-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
       </tr>
     </table>
@@ -194,7 +191,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/vegetacao-nas-dunas.jpg"><img class="aligncenter size-medium wp-image-4483" title="vegetação nas dunas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/vegetacao-nas-dunas-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/vegetacao-nas-dunas.jpg"><img class="aligncenter size-medium wp-image-4483" title="vegetação nas dunas" src="https://www.trololodemulher.com.br/2010/03/vegetacao-nas-dunas-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
       </tr>
     </table>
@@ -206,7 +203,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/por-do-sol-dunas-alagoas.jpg"><img class="aligncenter size-medium wp-image-4467" title="pôr do sol dunas alagoas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/por-do-sol-dunas-alagoas-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/por-do-sol-dunas-alagoas.jpg"><img class="aligncenter size-medium wp-image-4467" title="pôr do sol dunas alagoas" src="https://www.trololodemulher.com.br/2010/03/por-do-sol-dunas-alagoas-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
       </tr>
     </table>
@@ -222,7 +219,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/prancha-skibunda.jpg"><img class="aligncenter size-medium wp-image-4470" title="prancha skibunda" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/prancha-skibunda-199x300.jpg" alt="" width="199" height="300" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/prancha-skibunda.jpg"><img class="aligncenter size-medium wp-image-4470" title="prancha skibunda" src="https://www.trololodemulher.com.br/2010/03/prancha-skibunda-199x300.jpg" alt="" width="199" height="300" /></a>
         </td>
       </tr>
     </table>
@@ -234,7 +231,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/orientacoes-skibunda.jpg"><img class="aligncenter size-medium wp-image-4459" title="orientações skibunda" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/orientacoes-skibunda-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/orientacoes-skibunda.jpg"><img class="aligncenter size-medium wp-image-4459" title="orientações skibunda" src="https://www.trololodemulher.com.br/2010/03/orientacoes-skibunda-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
       </tr>
     </table>
@@ -246,7 +243,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/descida-skibunda.jpg"><img class="aligncenter size-medium wp-image-4448" title="descida skibunda" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/descida-skibunda-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/descida-skibunda.jpg"><img class="aligncenter size-medium wp-image-4448" title="descida skibunda" src="https://www.trololodemulher.com.br/2010/03/descida-skibunda-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
       </tr>
     </table>
@@ -258,7 +255,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/descida-skibunda-2.jpg"><img class="aligncenter size-medium wp-image-4449" title="descida skibunda 2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/descida-skibunda-2-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/descida-skibunda-2.jpg"><img class="aligncenter size-medium wp-image-4449" title="descida skibunda 2" src="https://www.trololodemulher.com.br/2010/03/descida-skibunda-2-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
       </tr>
     </table>
@@ -270,7 +267,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/descida-skibunda-3.jpg"><img class="aligncenter size-medium wp-image-4450" title="descida skibunda 3" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/descida-skibunda-3-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/descida-skibunda-3.jpg"><img class="aligncenter size-medium wp-image-4450" title="descida skibunda 3" src="https://www.trololodemulher.com.br/2010/03/descida-skibunda-3-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
       </tr>
     </table>
@@ -294,7 +291,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/teatro-sete-setembro-alagoas.jpg"><img class="aligncenter size-medium wp-image-4473" title="teatro sete setembro alagoas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/teatro-sete-setembro-alagoas-199x300.jpg" alt="" width="199" height="300" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/teatro-sete-setembro-alagoas.jpg"><img class="aligncenter size-medium wp-image-4473" title="teatro sete setembro alagoas" src="https://www.trololodemulher.com.br/2010/03/teatro-sete-setembro-alagoas-199x300.jpg" alt="" width="199" height="300" /></a>
         </td>
       </tr>
     </table>
@@ -306,7 +303,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/igreja-nossa-senhora-correntes-penedo-alagoas.jpg"><img class="aligncenter size-medium wp-image-4454" title="igreja nossa senhora correntes penedo alagoas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/igreja-nossa-senhora-correntes-penedo-alagoas-199x300.jpg" alt="" width="199" height="300" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/igreja-nossa-senhora-correntes-penedo-alagoas.jpg"><img class="aligncenter size-medium wp-image-4454" title="igreja nossa senhora correntes penedo alagoas" src="https://www.trololodemulher.com.br/2010/03/igreja-nossa-senhora-correntes-penedo-alagoas-199x300.jpg" alt="" width="199" height="300" /></a>
         </td>
       </tr>
     </table>
@@ -318,7 +315,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/altar-igreja-nossa-senhora-correntes-penedo-alagoas.jpg"><img class="aligncenter size-medium wp-image-4444" title="altar igreja nossa senhora correntes penedo alagoas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/altar-igreja-nossa-senhora-correntes-penedo-alagoas-199x300.jpg" alt="" width="199" height="300" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/altar-igreja-nossa-senhora-correntes-penedo-alagoas.jpg"><img class="aligncenter size-medium wp-image-4444" title="altar igreja nossa senhora correntes penedo alagoas" src="https://www.trololodemulher.com.br/2010/03/altar-igreja-nossa-senhora-correntes-penedo-alagoas-199x300.jpg" alt="" width="199" height="300" /></a>
         </td>
       </tr>
     </table>
@@ -330,7 +327,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/paco-imperial-penedo-alagoas.jpg"><img class="aligncenter size-medium wp-image-4460" title="paço imperial penedo alagoas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/paco-imperial-penedo-alagoas-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/paco-imperial-penedo-alagoas.jpg"><img class="aligncenter size-medium wp-image-4460" title="paço imperial penedo alagoas" src="https://www.trololodemulher.com.br/2010/03/paco-imperial-penedo-alagoas-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
       </tr>
     </table>
@@ -344,17 +341,17 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </p>
     
     <p>
-      De Penedo nós partimos em direção a Paulo Afonso, na Bahia. Por lá o nosso objetivo era conhecer a usina hidrelétrica, e também os <em>canyons</em> do <a href="http://pt.wikipedia.org/wiki/Rio_S%C3%A3o_Francisco" target="_blank">Velho Chico</a> passeando por Canindé de São Francisco, em Sergipe.
+      De Penedo nós partimos em direção a Paulo Afonso, na Bahia. Por lá o nosso objetivo era conhecer a usina hidrelétrica, e também os <em>canyons</em> do <a href="http://pt.wikipedia.org/wiki/Rio_S%C3%A3o_Francisco" target="_blank" rel="noopener noreferrer">Velho Chico</a> passeando por Canindé de São Francisco, em Sergipe.
     </p>
     
     <p>
-      O calor naquelas bandas é escaldante, já vou logo avisando. Mas a paisagem e grandiosidade de tudo por lá até me fizeram esquecer esse detalhe, sabia? Além do mais, conhecer um pouco da Pré-História e dos povos que habitavam aquela região, a partir do que acharam nas escavações antes da construção da <a href="http://pt.wikipedia.org/wiki/Usina_Hidrel%C3%A9trica_de_Xing%C3%B3" target="_blank">usina de Xingó</a>, foi incrível.
+      O calor naquelas bandas é escaldante, já vou logo avisando. Mas a paisagem e grandiosidade de tudo por lá até me fizeram esquecer esse detalhe, sabia? Além do mais, conhecer um pouco da Pré-História e dos povos que habitavam aquela região, a partir do que acharam nas escavações antes da construção da <a href="http://pt.wikipedia.org/wiki/Usina_Hidrel%C3%A9trica_de_Xing%C3%B3" target="_blank" rel="noopener noreferrer">usina de Xingó</a>, foi incrível.
     </p>
     
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/usina-paulo-afonso-bahia.jpg"><img class="aligncenter size-medium wp-image-4474" title="usina paulo afonso bahia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/usina-paulo-afonso-bahia-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/usina-paulo-afonso-bahia.jpg"><img class="aligncenter size-medium wp-image-4474" title="usina paulo afonso bahia" src="https://www.trololodemulher.com.br/2010/03/usina-paulo-afonso-bahia-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
       </tr>
     </table>
@@ -380,7 +377,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/paisagem-rio-velho-chico.jpg"><img class="aligncenter size-medium wp-image-4462" title="paisagem rio velho chico" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/paisagem-rio-velho-chico-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/paisagem-rio-velho-chico.jpg"><img class="aligncenter size-medium wp-image-4462" title="paisagem rio velho chico" src="https://www.trololodemulher.com.br/2010/03/paisagem-rio-velho-chico-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
         
         <td>
@@ -395,7 +392,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/paredoes-rio-sao-francisco.jpg"><img class="aligncenter size-medium wp-image-4463" title="paredões rio são francisco" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/paredoes-rio-sao-francisco-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/paredoes-rio-sao-francisco.jpg"><img class="aligncenter size-medium wp-image-4463" title="paredões rio são francisco" src="https://www.trololodemulher.com.br/2010/03/paredoes-rio-sao-francisco-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
         
         <td>
@@ -410,7 +407,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/paulo-afonso-bahia.jpg"><img class="aligncenter size-medium wp-image-4465" title="paulo afonso bahia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/paulo-afonso-bahia-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/paulo-afonso-bahia.jpg"><img class="aligncenter size-medium wp-image-4465" title="paulo afonso bahia" src="https://www.trololodemulher.com.br/2010/03/paulo-afonso-bahia-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
         
         <td>
@@ -425,7 +422,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/MAX.jpg"><img class="aligncenter size-medium wp-image-4456" title="MAX" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/MAX-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/MAX.jpg"><img class="aligncenter size-medium wp-image-4456" title="MAX" src="https://www.trololodemulher.com.br/2010/03/MAX-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
         
         <td>
@@ -434,13 +431,13 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </table>
     
     <p style="text-align: center;">
-      Já falei que gosto de museus? Esse é o <a href="http://max.org.br/index-800.asp" target="_blank">Max</a>.
+      Já falei que gosto de museus? Esse é o <a href="http://max.org.br/index-800.asp" target="_blank" rel="noopener noreferrer">Max</a>.
     </p>
     
     <table align="center">
       <tr>
         <td>
-          <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/caninde-sergipe.jpg"><img class="aligncenter size-medium wp-image-4447" title="canindé sergipe" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/caninde-sergipe-300x200.jpg" alt="" width="300" height="200" /></a>
+          <a href="https://www.trololodemulher.com.br/2010/03/caninde-sergipe.jpg"><img class="aligncenter size-medium wp-image-4447" title="canindé sergipe" src="https://www.trololodemulher.com.br/2010/03/caninde-sergipe-300x200.jpg" alt="" width="300" height="200" /></a>
         </td>
         
         <td>
@@ -453,7 +450,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </p>
     
     <p>
-      Agora eu tenho que admitir, viajar é uma delícia mas voltar para casa é uma delícia e meia. E quando a gente volta e dá de cara com presente? Tem coisa melhor? Pois foi o que aconteceu quando cheguei em casa. Dei de cara com um pacotinho <em>bloguístico</em> cheio de mimos exclusivos da <a href="http://closone.blogspot.com/" target="_blank">Closonê Acessórios</a>. Ganhei brincos e um prendedor de cabelos. Pronto! Fechei esse pequeno período de férias com chave de ouro, diga se não foi?! Foto? Hum&#8230; estou sem máquina. Dei um passadinha na casa da minha mãe e fiz o favor a mim mesma de esquecer a máquina por lá.<em> Aff!!!</em> Nem eu me aguento!<em> Humpf</em>!
+      Agora eu tenho que admitir, viajar é uma delícia mas voltar para casa é uma delícia e meia. E quando a gente volta e dá de cara com presente? Tem coisa melhor? Pois foi o que aconteceu quando cheguei em casa. Dei de cara com um pacotinho <em>bloguístico</em> cheio de mimos exclusivos da <a href="http://closone.blogspot.com/" target="_blank" rel="noopener noreferrer">Closonê Acessórios</a>. Ganhei brincos e um prendedor de cabelos. Pronto! Fechei esse pequeno período de férias com chave de ouro, diga se não foi?! Foto? Hum&#8230; estou sem máquina. Dei um passadinha na casa da minha mãe e fiz o favor a mim mesma de esquecer a máquina por lá.<em> Aff!!!</em> Nem eu me aguento!<em> Humpf</em>!
     </p>
     
     <p>

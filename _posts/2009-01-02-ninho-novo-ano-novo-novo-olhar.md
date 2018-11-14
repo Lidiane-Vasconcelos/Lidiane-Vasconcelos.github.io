@@ -1,10 +1,7 @@
 ---
-id: 2598
 title: 'Ninho novo, ano novo, novo olhar&#8230;'
-date: 2009-01-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/01/02/ninho-novo-ano-novo-novo-olhar/
 permalink: /2009/01/02/ninho-novo-ano-novo-novo-olhar/
 categories:
   - Trololó
@@ -21,8 +18,8 @@ Mas há que se viver, deixar a vida fluir naturalmente. O que tiver que ser, ser
 
 Ah! Claro! Falei tanto nessa casa por aqui que o mínimo seria mostrar algumas fotos, certo? Lá vai&#8230;
 
-[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0;" title="DSC02092" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/01/dsc02092-thumb.jpg" border="0" alt="DSC02092" width="164" height="244" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/01/dsc02092.jpg) No condomínio que moro os sobrados são geminados, e esse é o meu lado.
+[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0;" title="DSC02092" src="https://www.trololodemulher.com.br/2009/01/dsc02092-thumb.jpg" border="0" alt="DSC02092" width="164" height="244" />](https://www.trololodemulher.com.br/2009/01/dsc02092.jpg) No condomínio que moro os sobrados são geminados, e esse é o meu lado.
 
-[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0;" title="DSC02055" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/01/dsc02055-thumb.jpg" border="0" alt="DSC02055" width="244" height="164" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/01/dsc02055.jpg) E essa é a visão que tenho da janela do meu quarto, a dos outros sobrados. Parece uma vilinha de casinhas de boneca…ehehehehehe
+[<img style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0;" title="DSC02055" src="https://www.trololodemulher.com.br/2009/01/dsc02055-thumb.jpg" border="0" alt="DSC02055" width="244" height="164" />](https://www.trololodemulher.com.br/2009/01/dsc02055.jpg) E essa é a visão que tenho da janela do meu quarto, a dos outros sobrados. Parece uma vilinha de casinhas de boneca…ehehehehehe
 
 Gostaram?! 🙂

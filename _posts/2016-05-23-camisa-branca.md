@@ -1,10 +1,7 @@
 ---
-id: 3615
 title: Saiba como usar a camisa branca, clássico da moda feminina.
-date: 2016-05-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/05/23/camisa-branca/
 permalink: /2016/05/23/camisa-branca/
 categories:
   - Moda
@@ -15,7 +12,7 @@ categories:
 
 <p style="text-align: justify;">
   <p align="center">
-    <img class="alignnone size-full wp-image-12568" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/MODA-FEMININA-CAMISA-BRANCA.jpg" alt="MODA FEMININA-CAMISA BRANCA" width="712" height="708" />
+    <img class="alignnone size-full wp-image-12568" src="https://www.trololodemulher.com.br/2016/05/MODA-FEMININA-CAMISA-BRANCA.jpg" alt="MODA FEMININA-CAMISA BRANCA" width="712" height="708" />
   </p>
   
   <p>
@@ -39,7 +36,7 @@ categories:
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12569" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/MODA-FEMININA-CAMISA-BRANCA2.jpg" alt="MODA FEMININA-CAMISA BRANCA[2]" width="715" height="573" />
+    <img class="alignnone size-full wp-image-12569" src="https://www.trololodemulher.com.br/2016/05/MODA-FEMININA-CAMISA-BRANCA2.jpg" alt="MODA FEMININA-CAMISA BRANCA[2]" width="715" height="573" />
   </p>
   
   <p>
@@ -51,7 +48,7 @@ categories:
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12570" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/MODA-FEMININA-CAMISA-BRANCA3.jpg" alt="MODA FEMININA-CAMISA BRANCA[3]" width="714" height="715" />
+    <img class="alignnone size-full wp-image-12570" src="https://www.trololodemulher.com.br/2016/05/MODA-FEMININA-CAMISA-BRANCA3.jpg" alt="MODA FEMININA-CAMISA BRANCA[3]" width="714" height="715" />
   </p>
   
   <p>
@@ -67,19 +64,19 @@ categories:
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12571" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/MODA-FEMININA-CAMISA-BRANCA4.jpg" alt="MODA FEMININA-CAMISA BRANCA[4]" width="715" height="488" />
+    <img class="alignnone size-full wp-image-12571" src="https://www.trololodemulher.com.br/2016/05/MODA-FEMININA-CAMISA-BRANCA4.jpg" alt="MODA FEMININA-CAMISA BRANCA[4]" width="715" height="488" />
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12572" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/MODA-FEMININA-CAMISA-BRANCA5.jpg" alt="MODA FEMININA-CAMISA BRANCA[5]" width="533" height="800" />
+    <img class="alignnone size-full wp-image-12572" src="https://www.trololodemulher.com.br/2016/05/MODA-FEMININA-CAMISA-BRANCA5.jpg" alt="MODA FEMININA-CAMISA BRANCA[5]" width="533" height="800" />
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12573" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/MODA-FEMININA-CAMISA-BRANCA6.jpg" alt="MODA FEMININA-CAMISA BRANCA[6]" width="310" height="458" />
+    <img class="alignnone size-full wp-image-12573" src="https://www.trololodemulher.com.br/2016/05/MODA-FEMININA-CAMISA-BRANCA6.jpg" alt="MODA FEMININA-CAMISA BRANCA[6]" width="310" height="458" />
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12574" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/MODA-FEMININA-CAMISA-BRANCA7.jpg" alt="MODA FEMININA-CAMISA BRANCA[7]" width="707" height="564" />
+    <img class="alignnone size-full wp-image-12574" src="https://www.trololodemulher.com.br/2016/05/MODA-FEMININA-CAMISA-BRANCA7.jpg" alt="MODA FEMININA-CAMISA BRANCA[7]" width="707" height="564" />
   </p>
   
   <p>
@@ -95,7 +92,7 @@ categories:
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-11464" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/LILIAN-JORDÃO-CONSULTORA-DE-ESTILO-E-IMAGEM-PESSOAL.jpg" alt="LILIAN JORDÃO-CONSULTORA DE ESTILO E IMAGEM PESSOAL" width="800" height="180" />
+    <img class="alignnone size-full wp-image-11464" src="https://www.trololodemulher.com.br/2015/09/LILIAN-JORDÃO-CONSULTORA-DE-ESTILO-E-IMAGEM-PESSOAL.jpg" alt="LILIAN JORDÃO-CONSULTORA DE ESTILO E IMAGEM PESSOAL" width="800" height="180" />
   </p>
   
   <p>
@@ -103,7 +100,7 @@ categories:
   </p>
   
   <p>
-    <strong><a href="http://www.trololodemulher.com.br/2016/02/29/como-usar-saia/" target="_blank">Como usar saia, a peça mais feminina?</a></strong>
+    <strong><a href="http://www.trololodemulher.com.br/2016/02/29/como-usar-saia/" target="_blank" rel="noopener noreferrer">Como usar saia, a peça mais feminina?</a></strong>
   </p>
   
   <p>
@@ -119,11 +116,11 @@ categories:
   </p>
   
   <p align="justify">
-    A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? <a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank">Clica aqui e se joga</a>! A novidade, bonita, é que a Lilian também tem um site lindo de viver! <a href="http://www.lilianjordao.com.br/" target="_blank">Visite seu site, clique aqui</a>, e descubra um apanhado de informações para entender moda de um jeito bem descomplicado. Se joga!
+    A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? <a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank" rel="noopener noreferrer">Clica aqui e se joga</a>! A novidade, bonita, é que a Lilian também tem um site lindo de viver! <a href="http://www.lilianjordao.com.br/" target="_blank" rel="noopener noreferrer">Visite seu site, clique aqui</a>, e descubra um apanhado de informações para entender moda de um jeito bem descomplicado. Se joga!
   </p>
   
   <p align="center">
-    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
   </p>
   
   <p align="justify">

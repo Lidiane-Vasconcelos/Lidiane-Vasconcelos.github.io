@@ -1,10 +1,7 @@
 ---
-id: 3353
 title: Como evitar o acúmulo e organizar o lar? Dicas práticas.
-date: 2014-10-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/10/08/acumulo-e-organizacao/
 permalink: /2014/10/08/acumulo-e-organizacao/
 categories:
   - Organização
@@ -22,7 +19,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/" target="_blank"><strong>Se sua casa estiver em ordem, não duvide: você ficará bem.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/" target="_blank" rel="noopener noreferrer"><strong>Se sua casa estiver em ordem, não duvide: você ficará bem.</strong></a>
 </p>
 
 <p align="justify">
@@ -46,7 +43,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Para evitar o acúmulo desnecessário uma coisa que quase sempre faço: &#8220;Comprei 1, tiro 1&#8221;. É assim: comprei uma camiseta &#8211; vou direto ver no guarda-roupa descobrir aquela que eu posso doar, que eu não uso faz tempo, que não vou usar mais e tal. Até para livros (a coisa que mais acumulei na vida&#8230;) estou fazendo isso. “ Rosana Silva, do blog </strong><a href="http://www.simplesdecoracao.com.br/" target="_blank"><strong>Simples Decoração</strong></a>
+>   <strong>Para evitar o acúmulo desnecessário uma coisa que quase sempre faço: &#8220;Comprei 1, tiro 1&#8221;. É assim: comprei uma camiseta &#8211; vou direto ver no guarda-roupa descobrir aquela que eu posso doar, que eu não uso faz tempo, que não vou usar mais e tal. Até para livros (a coisa que mais acumulei na vida&#8230;) estou fazendo isso. “ Rosana Silva, do blog </strong><a href="http://www.simplesdecoracao.com.br/" target="_blank" rel="noopener noreferrer"><strong>Simples Decoração</strong></a>
 > </p>
 
 <p align="justify">
@@ -54,11 +51,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/" target="_blank"><strong>Como e onde doar móveis e objetos usados?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/" target="_blank" rel="noopener noreferrer"><strong>Como e onde doar móveis e objetos usados?</strong></a>
 </p>
 
 > <p align="justify">
->   <strong>Para evitar o acúmulo, eu jogo tudo fora rs. Sério, quando pego correspondência, por exemplo, ali mesmo já seleciono o que não presta e&#8230;lixo. Eu também costumo fazer doações de tudo, louças, panelas, roupas de camas, sapatos, até almofadas. Eu só tenho o que uso (ou aquilo que tem valor afetivo). Documentos pagos só guardo por uns 2 anos. Comprei um jogo novo de panelas e doei todas as antigas. Doei uma panela de pressão, não preciso de duas, somos dois. Hoje só tenho 4 bolsas para o dia-a-dia, duas miúdas, dessas de usar atravessada ao corpo para uma saidinha rápida e uma de festa. Para que mais? Eu tinha coleção de havaianas, acredita? Pensei nas pessoas que não tinham. Dei roupas usadas e novas. Sabe aquela peça que você compra mas nunca usa? Não usei por 1 ano, vou usar? Doei. Roupas que não cabem mais, não me apego. Não vou esperar emagrecer. Quando emagrecer, compro outra. Doei duas jaquetas de couro para minhas enteadas, jovens, elas amaram. Doei dois sobretudos. Eu tinha prato demais, copo demais, xícara demais. O filho da minha empregada vai casar às pressas, a namorada está grávida. Dei tudo. Lidi, importa ajudar sim, mas importa que tenhamos o necessário. E que aprendamos a consumir. Por que gastar tanto? As coisas ficam guardadas. O dinheiro pode ser usado em outra coisa. ” Flavinha Gomes, do blog </strong><a href="http://casinhabonitinha.blogspot.com.br/" target="_blank"><strong>Casinha Bonitinha</strong></a>
+>   <strong>Para evitar o acúmulo, eu jogo tudo fora rs. Sério, quando pego correspondência, por exemplo, ali mesmo já seleciono o que não presta e&#8230;lixo. Eu também costumo fazer doações de tudo, louças, panelas, roupas de camas, sapatos, até almofadas. Eu só tenho o que uso (ou aquilo que tem valor afetivo). Documentos pagos só guardo por uns 2 anos. Comprei um jogo novo de panelas e doei todas as antigas. Doei uma panela de pressão, não preciso de duas, somos dois. Hoje só tenho 4 bolsas para o dia-a-dia, duas miúdas, dessas de usar atravessada ao corpo para uma saidinha rápida e uma de festa. Para que mais? Eu tinha coleção de havaianas, acredita? Pensei nas pessoas que não tinham. Dei roupas usadas e novas. Sabe aquela peça que você compra mas nunca usa? Não usei por 1 ano, vou usar? Doei. Roupas que não cabem mais, não me apego. Não vou esperar emagrecer. Quando emagrecer, compro outra. Doei duas jaquetas de couro para minhas enteadas, jovens, elas amaram. Doei dois sobretudos. Eu tinha prato demais, copo demais, xícara demais. O filho da minha empregada vai casar às pressas, a namorada está grávida. Dei tudo. Lidi, importa ajudar sim, mas importa que tenhamos o necessário. E que aprendamos a consumir. Por que gastar tanto? As coisas ficam guardadas. O dinheiro pode ser usado em outra coisa. ” Flavinha Gomes, do blog </strong><a href="http://casinhabonitinha.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>Casinha Bonitinha</strong></a>
 > </p>
 
 > <p align="justify">
@@ -66,7 +63,7 @@ categories:
 > </p>
 
 > <p align="justify">
->   <strong>A dica que tenho para compartilhar é: ao adquirir alguma peça de roupa (por exemplo) que você esteja disposto a doar uma outra ou até mesmo 2 peças. Isso também pode ser feito com as crianças, ajudando-o inclusive a valorizar mais o que tem. Explique ao seu filho quantas crianças no mundo não têm um brinquedo para se divertir, não têm roupa nova e nem sequer a comida gostosa que ele come em casa. Então, se ele quer realmente aquele brinquedo (ou roupa) deverá separar 2 brinquedos (ou roupas) para DOAR a quem não tem. Acredito que essa seja uma maneira eficaz de evitar o acúmulo desnecessário e de ser solidário com quem precisa!” </strong><a href="http://blogcarolcarneiro.blogspot.com.br/" target="_blank"><strong>Carol Carneiro</strong></a>
+>   <strong>A dica que tenho para compartilhar é: ao adquirir alguma peça de roupa (por exemplo) que você esteja disposto a doar uma outra ou até mesmo 2 peças. Isso também pode ser feito com as crianças, ajudando-o inclusive a valorizar mais o que tem. Explique ao seu filho quantas crianças no mundo não têm um brinquedo para se divertir, não têm roupa nova e nem sequer a comida gostosa que ele come em casa. Então, se ele quer realmente aquele brinquedo (ou roupa) deverá separar 2 brinquedos (ou roupas) para DOAR a quem não tem. Acredito que essa seja uma maneira eficaz de evitar o acúmulo desnecessário e de ser solidário com quem precisa!” </strong><a href="http://blogcarolcarneiro.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>Carol Carneiro</strong></a>
 > </p>
 
 > <p align="justify">
@@ -74,11 +71,11 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR.png"><img class="alignnone size-full wp-image-10466" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR.png" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DO LAR" width="543" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR.png"><img class="alignnone size-full wp-image-10466" src="https://www.trololodemulher.com.br/2014/10/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR.png" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DO LAR" width="543" height="800" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://blog.loish.net/post/95399241468/my-latest-illustration-an-ode-to-my-troubled" target="_blank">Loish Blog</a>
+  Imagem: <a href="http://blog.loish.net/post/95399241468/my-latest-illustration-an-ode-to-my-troubled" target="_blank" rel="noopener noreferrer">Loish Blog</a>
 </p>
 
 <p align="center">
@@ -98,7 +95,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank"><strong>18 hábitos da pessoa organizada na arrumação da casa.</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank" rel="noopener noreferrer"><strong>18 hábitos da pessoa organizada na arrumação da casa.</strong></a>
 </p>
 
 <p align="center">
@@ -114,11 +111,11 @@ categories:
 > </p>
 
 > <p align="justify">
->   <strong>Para manter a casa organizada, sei que o melhor método é o que você já falou: manter as coisas nos seus lugares. Mas devo dizer: sou caótica. Então, o que faço é ter em alguns lugares da casa (meu quarto e meu escritório, especificamente, porque são os lugares que tenho tendência para desorganizar) uma &#8220;área de bagunça&#8221;. Um lugar só, onde coloco as coisas que não estou com saco ou tempo de guardar no lugar certo. Aí, um dia quando a área está entulhada ou eu tenho paciência, vou lá, pego tudo e arrumo no seu lugar.” Rosana Silva, do blog </strong><a href="http://www.simplesdecoracao.com.br/" target="_blank"><strong>Simples Decoração</strong></a>
+>   <strong>Para manter a casa organizada, sei que o melhor método é o que você já falou: manter as coisas nos seus lugares. Mas devo dizer: sou caótica. Então, o que faço é ter em alguns lugares da casa (meu quarto e meu escritório, especificamente, porque são os lugares que tenho tendência para desorganizar) uma &#8220;área de bagunça&#8221;. Um lugar só, onde coloco as coisas que não estou com saco ou tempo de guardar no lugar certo. Aí, um dia quando a área está entulhada ou eu tenho paciência, vou lá, pego tudo e arrumo no seu lugar.” Rosana Silva, do blog </strong><a href="http://www.simplesdecoracao.com.br/" target="_blank" rel="noopener noreferrer"><strong>Simples Decoração</strong></a>
 > </p>
 
 > <p align="justify">
->   <strong>Para manter a organização, meu lema é: tudo tem sua &#8220;casinha e deve voltar para ela. Não tenho filhos, mas meu marido é &#8220;O Bagunceiro&#8221;, então, dou &#8220;dura&#8221; nas coisas dele. Eu coloco etiqueta nas caixas, arrumo os cabides, limpo os sapatos, minha filha, porque se depender dele&#8230;Olha, Lidi, eu fico de olho na validade de tudo, desde o sabonete até o arroz. Uma vez por semana, dou geral na geladeira. Se tiver refrigerante velho, vai pro lixo.” Flavinha Gomes, do blog </strong><a href="http://casinhabonitinha.blogspot.com.br/" target="_blank"><strong>Casinha Bonitinha</strong></a>
+>   <strong>Para manter a organização, meu lema é: tudo tem sua &#8220;casinha e deve voltar para ela. Não tenho filhos, mas meu marido é &#8220;O Bagunceiro&#8221;, então, dou &#8220;dura&#8221; nas coisas dele. Eu coloco etiqueta nas caixas, arrumo os cabides, limpo os sapatos, minha filha, porque se depender dele&#8230;Olha, Lidi, eu fico de olho na validade de tudo, desde o sabonete até o arroz. Uma vez por semana, dou geral na geladeira. Se tiver refrigerante velho, vai pro lixo.” Flavinha Gomes, do blog </strong><a href="http://casinhabonitinha.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>Casinha Bonitinha</strong></a>
 > </p>
 
 <p align="justify">
@@ -126,7 +123,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/dicas-organizacao/" target="_blank"><strong>Siga 10 passos e o canto da bagunça deixará de existir.</strong></a>
+  <a href="http://www.decoracaodacasa.com/dicas-organizacao/" target="_blank" rel="noopener noreferrer"><strong>Siga 10 passos e o canto da bagunça deixará de existir.</strong></a>
 </p>
 
 > <p align="justify">
@@ -138,11 +135,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-casa-brinquedos/" target="_blank"><strong>Organização da casa: suas crianças ajudam?</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-casa-brinquedos/" target="_blank" rel="noopener noreferrer"><strong>Organização da casa: suas crianças ajudam?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

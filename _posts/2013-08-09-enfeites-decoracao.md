@@ -1,16 +1,13 @@
 ---
-id: 3245
 title: 'Enfeites (faça você mesma) para a decoração: fácil, bonito e barato'
-date: 2013-08-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/08/09/enfeites-decoracao/
 permalink: /2013/08/09/enfeites-decoracao/
 categories:
   - Decoração
   - Faça Você Mesma
 ---
-Já te contei que vivo de amores quando navego pelo site <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>? Sempre fico encantada com as ideias _superultramega_ fáceis de serem reproduzidas. Quando bato o olho numa sugestão e penso que até eu poderia copiar, já me animo para dividir contigo o achado. Foi assim quando vi as 3 ideias que estão neste post.
+Já te contei que vivo de amores quando navego pelo site <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>? Sempre fico encantada com as ideias _superultramega_ fáceis de serem reproduzidas. Quando bato o olho numa sugestão e penso que até eu poderia copiar, já me animo para dividir contigo o achado. Foi assim quando vi as 3 ideias que estão neste post.
 
 &nbsp;
 
@@ -21,7 +18,7 @@ Já te contei que vivo de amores quando navego pelo site <a href="http://www.bhg
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/07/DECORACAO-ENFEITES-FACA-VOCE-MESMA.jpg"><img class="alignnone size-full wp-image-9643" alt="DECORACAO-ENFEITES-FACA VOCE MESMA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/07/DECORACAO-ENFEITES-FACA-VOCE-MESMA.jpg" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/07/DECORACAO-ENFEITES-FACA-VOCE-MESMA.jpg"><img class="alignnone size-full wp-image-9643" alt="DECORACAO-ENFEITES-FACA VOCE MESMA" src="https://www.trololodemulher.com.br/2013/07/DECORACAO-ENFEITES-FACA-VOCE-MESMA.jpg" width="550" height="550" /></a>
 </p>
 
 &nbsp;
@@ -33,7 +30,7 @@ Já te contei que vivo de amores quando navego pelo site <a href="http://www.bhg
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/07/DECORACAO-ENFEITES-FACA-VOCE-MESMA2.jpg"><img class="alignnone size-full wp-image-9644" alt="DECORACAO-ENFEITES-FACA VOCE MESMA[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/07/DECORACAO-ENFEITES-FACA-VOCE-MESMA2.jpg" width="360" height="360" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/07/DECORACAO-ENFEITES-FACA-VOCE-MESMA2.jpg"><img class="alignnone size-full wp-image-9644" alt="DECORACAO-ENFEITES-FACA VOCE MESMA[2]" src="https://www.trololodemulher.com.br/2013/07/DECORACAO-ENFEITES-FACA-VOCE-MESMA2.jpg" width="360" height="360" /></a>
 </p>
 
 &nbsp;
@@ -45,7 +42,7 @@ Já te contei que vivo de amores quando navego pelo site <a href="http://www.bhg
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/07/DECORACAO-ENFEITES-FACA-VOCE-MESMA3.jpg"><img class="alignnone size-full wp-image-9645" alt="DECORACAO-ENFEITES-FACA VOCE MESMA[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/07/DECORACAO-ENFEITES-FACA-VOCE-MESMA3.jpg" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/07/DECORACAO-ENFEITES-FACA-VOCE-MESMA3.jpg"><img class="alignnone size-full wp-image-9645" alt="DECORACAO-ENFEITES-FACA VOCE MESMA[3]" src="https://www.trololodemulher.com.br/2013/07/DECORACAO-ENFEITES-FACA-VOCE-MESMA3.jpg" width="450" height="600" /></a>
 </p>
 
 &nbsp;
@@ -63,7 +60,7 @@ Já te contei que vivo de amores quando navego pelo site <a href="http://www.bhg
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -78,13 +75,13 @@ Já te contei que vivo de amores quando navego pelo site <a href="http://www.bhg
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

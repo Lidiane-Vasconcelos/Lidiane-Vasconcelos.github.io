@@ -1,10 +1,7 @@
 ---
-id: 2921
 title: 'Decoração de cozinha: 2 ideias que também organizam.'
-date: 2010-12-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/12/20/decoracao-de-cozinha/
 permalink: /2010/12/20/decoracao-de-cozinha/
 categories:
   - Cozinha
@@ -22,7 +19,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/cestos-organizadores-na-cozinha.jpg"><img class="alignnone size-full wp-image-5559" title="cestos organizadores na cozinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/cestos-organizadores-na-cozinha.jpg" alt="" width="300" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/cestos-organizadores-na-cozinha.jpg"><img class="alignnone size-full wp-image-5559" title="cestos organizadores na cozinha" src="https://www.trololodemulher.com.br/2010/12/cestos-organizadores-na-cozinha.jpg" alt="" width="300" height="400" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -30,7 +27,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/prateleiras-na-cozinha.jpg"><img class="alignnone size-full wp-image-5562" title="prateleiras na cozinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/prateleiras-na-cozinha.jpg" alt="" width="300" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/prateleiras-na-cozinha.jpg"><img class="alignnone size-full wp-image-5562" title="prateleiras na cozinha" src="https://www.trololodemulher.com.br/2010/12/prateleiras-na-cozinha.jpg" alt="" width="300" height="400" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -49,18 +46,18 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/conjunto-bandejapotes-lavanda/" target="_blank">Conjunto Bandeja&Potes Lavanda</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/conjunto-bandejapotes-lavanda/" target="_blank">basta clicar</a></strong>!</em>
+        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/conjunto-bandejapotes-lavanda/" target="_blank" rel="noopener noreferrer">Conjunto Bandeja&Potes Lavanda</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/conjunto-bandejapotes-lavanda/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
       </p>
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Conjunto-BandejaPotes-Lavanda200.jpg"><img class="alignnone size-full wp-image-5336" title="Conjunto Bandeja&Potes Lavanda200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Conjunto-BandejaPotes-Lavanda200.jpg" alt="" width="200" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/10/Conjunto-BandejaPotes-Lavanda200.jpg"><img class="alignnone size-full wp-image-5336" title="Conjunto Bandeja&Potes Lavanda200" src="https://www.trololodemulher.com.br/2010/10/Conjunto-BandejaPotes-Lavanda200.jpg" alt="" width="200" height="200" /></a>
     </td>
   </tr>
   
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Galinha-Country2200.jpg"><img class="alignnone size-full wp-image-5268" title="Móbile Galinha Country2200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Galinha-Country2200.jpg" alt="" width="200" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/09/Mobile-Galinha-Country2200.jpg"><img class="alignnone size-full wp-image-5268" title="Móbile Galinha Country2200" src="https://www.trololodemulher.com.br/2010/09/Mobile-Galinha-Country2200.jpg" alt="" width="200" height="200" /></a>
     </td>
     
     <td width="300" valign="top">
@@ -69,7 +66,7 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank">Móbile Galinha Country</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank">basta clicar</a></strong>!</em>
+        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank" rel="noopener noreferrer">Móbile Galinha Country</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
       </p>
     </td>
   </tr>
@@ -81,18 +78,18 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        <em>A </em><a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/" target="_blank"><strong><em>Placa Galinha Country</em></strong></a><em> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/" target="_blank">basta clicar</a></strong>!</em>
+        <em>A </em><a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/" target="_blank" rel="noopener noreferrer"><strong><em>Placa Galinha Country</em></strong></a><em> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
       </p>
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Placa-Galinha-Country200.jpg"><img class="alignnone size-full wp-image-5303" title="Placa Galinha Country200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Placa-Galinha-Country200.jpg" alt="" width="200" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/10/Placa-Galinha-Country200.jpg"><img class="alignnone size-full wp-image-5303" title="Placa Galinha Country200" src="https://www.trololodemulher.com.br/2010/10/Placa-Galinha-Country200.jpg" alt="" width="200" height="200" /></a>
     </td>
   </tr>
   
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Quadro-Cenario-Cozinha200.jpg"><img class="alignnone size-full wp-image-5563" title="Quadro Cenário Cozinha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Quadro-Cenario-Cozinha200.jpg" alt="" width="200" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/12/Quadro-Cenario-Cozinha200.jpg"><img class="alignnone size-full wp-image-5563" title="Quadro Cenário Cozinha200" src="https://www.trololodemulher.com.br/2010/12/Quadro-Cenario-Cozinha200.jpg" alt="" width="200" height="200" /></a>
     </td>
     
     <td width="300" valign="top">
@@ -101,7 +98,7 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        <em>A <strong><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank">Quadro Cenário Cozinha</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank">basta clicar</a></strong>!</em>
+        <em>A <strong><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank" rel="noopener noreferrer">Quadro Cenário Cozinha</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
       </p>
     </td>
   </tr>
@@ -117,18 +114,18 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        <em>As <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank">Telas Mediterrâneo</a></strong> estão a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank">basta clicar</a></strong>!</em>
+        <em>As <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank" rel="noopener noreferrer">Telas Mediterrâneo</a></strong> estão a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
       </p>
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Telas-Mediterraneo200.jpg"><img class="alignnone size-full wp-image-5564" title="Telas Mediterrâneo200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Telas-Mediterraneo200.jpg" alt="" width="200" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/12/Telas-Mediterraneo200.jpg"><img class="alignnone size-full wp-image-5564" title="Telas Mediterrâneo200" src="https://www.trololodemulher.com.br/2010/12/Telas-Mediterraneo200.jpg" alt="" width="200" height="200" /></a>
     </td>
   </tr>
   
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-CopaCafe200.jpg"><img class="alignnone size-full wp-image-5304" title="Quadro Cenário Copa&Café200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-CopaCafe200.jpg" alt="" width="200" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/10/Quadro-Cenario-CopaCafe200.jpg"><img class="alignnone size-full wp-image-5304" title="Quadro Cenário Copa&Café200" src="https://www.trololodemulher.com.br/2010/10/Quadro-Cenario-CopaCafe200.jpg" alt="" width="200" height="200" /></a>
     </td>
     
     <td width="300" valign="top">
@@ -137,13 +134,13 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        <em>O par de quadros <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank">Cenário Copa&Café</a></strong> estão a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"><strong><em>basta clicar</em></strong></a><em>!</em>
+        <em>O par de quadros <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank" rel="noopener noreferrer">Cenário Copa&Café</a></strong> estão a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank" rel="noopener noreferrer"><strong><em>basta clicar</em></strong></a><em>!</em>
       </p>
     </td>
   </tr>
 </table>
 
-_Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Gardens</em></a>
+_Imagens:_ <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer"><em>Better Homes and Gardens</em></a>
 
 **Mais no Bicha Fêmea…**
 

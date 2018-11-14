@@ -1,10 +1,7 @@
 ---
-id: 3364
 title: 'Decoração de Natal: 4 centros de mesa simples, mas lindos!'
-date: 2014-11-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/11/03/decoracao-natal-mesa/
 permalink: /2014/11/03/decoracao-natal-mesa/
 categories:
   - Natal
@@ -18,11 +15,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank"><strong>3 guirlandas de Natal diferentes e criativas: faça você mesma!</strong></a>
+  <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank" rel="noopener noreferrer"><strong>3 guirlandas de Natal diferentes e criativas: faça você mesma!</strong></a>
 </p>
 
 <p align="justify">
-  Eu já havia mostrado para você, aqui mesmo no <strong>Trololó de Mulher</strong>, <strong><a href="http://www.trololodemulher.com.br/2014/10/20/decoracao-de-natal-2/" target="_blank">5 centros de mesa do tipo “faça você mesma”</a></strong>, lembra? Se você não viu, sugiro dar uma espiadinha. Desta vez, as sugestões são para você mesma compor também, e todas diferentes do que foi mostrado no post anterior. Repare nas várias ideias, as do post anterior anterior associadas a este, viva de amores e identifique o que arrebata seu coração. Inspire-se!
+  Eu já havia mostrado para você, aqui mesmo no <strong>Trololó de Mulher</strong>, <strong><a href="http://www.trololodemulher.com.br/2014/10/20/decoracao-de-natal-2/" target="_blank" rel="noopener noreferrer">5 centros de mesa do tipo “faça você mesma”</a></strong>, lembra? Se você não viu, sugiro dar uma espiadinha. Desta vez, as sugestões são para você mesma compor também, e todas diferentes do que foi mostrado no post anterior. Repare nas várias ideias, as do post anterior anterior associadas a este, viva de amores e identifique o que arrebata seu coração. Inspire-se!
 </p>
 
 <p align="justify">
@@ -30,11 +27,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-natal-2014/" target="_blank"><strong>Decoração de Natal com reutilização de janela velha: dica.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-natal-2014/" target="_blank" rel="noopener noreferrer"><strong>Decoração de Natal com reutilização de janela velha: dica.</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-DECORACAO-NATALINA-NATAL-FACA-VOCE-MESMA.jpg"><img class="alignnone size-full wp-image-10545" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-DECORACAO-NATALINA-NATAL-FACA-VOCE-MESMA.jpg" alt="DECORACAO-DECORACAO NATALINA-NATAL-FACA VOCE MESMA" width="710" height="639" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/DECORACAO-DECORACAO-NATALINA-NATAL-FACA-VOCE-MESMA.jpg"><img class="alignnone size-full wp-image-10545" src="https://www.trololodemulher.com.br/2014/10/DECORACAO-DECORACAO-NATALINA-NATAL-FACA-VOCE-MESMA.jpg" alt="DECORACAO-DECORACAO NATALINA-NATAL-FACA VOCE MESMA" width="710" height="639" /></a>
 </p>
 
 <p align="justify">
@@ -42,7 +39,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-DECORACAO-NATALINA-NATAL-FACA-VOCE-MESMA2.jpg"><img class="alignnone size-full wp-image-10549" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-DECORACAO-NATALINA-NATAL-FACA-VOCE-MESMA2.jpg" alt="DECORACAO-DECORACAO NATALINA-NATAL-FACA VOCE MESMA[2]" width="710" height="639" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/DECORACAO-DECORACAO-NATALINA-NATAL-FACA-VOCE-MESMA2.jpg"><img class="alignnone size-full wp-image-10549" src="https://www.trololodemulher.com.br/2014/10/DECORACAO-DECORACAO-NATALINA-NATAL-FACA-VOCE-MESMA2.jpg" alt="DECORACAO-DECORACAO NATALINA-NATAL-FACA VOCE MESMA[2]" width="710" height="639" /></a>
 </p>
 
 <p align="justify">
@@ -50,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-DECORACAO-NATALINA-NATAL-FACA-VOCE-MESMA3.jpg"><img class="alignnone size-full wp-image-10546" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-DECORACAO-NATALINA-NATAL-FACA-VOCE-MESMA3.jpg" alt="DECORACAO-DECORACAO NATALINA-NATAL-FACA VOCE MESMA[3]" width="800" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/DECORACAO-DECORACAO-NATALINA-NATAL-FACA-VOCE-MESMA3.jpg"><img class="alignnone size-full wp-image-10546" src="https://www.trololodemulher.com.br/2014/10/DECORACAO-DECORACAO-NATALINA-NATAL-FACA-VOCE-MESMA3.jpg" alt="DECORACAO-DECORACAO NATALINA-NATAL-FACA VOCE MESMA[3]" width="800" height="600" /></a>
 </p>
 
 <p align="justify">
@@ -62,15 +59,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/enfeites-decoracao-natal/" target="_blank"><strong>2 elegantes (e simples!) enfeites de Natal que você mesma pode fazer.</strong></a>
+  <a href="http://www.decoracaodacasa.com/enfeites-decoracao-natal/" target="_blank" rel="noopener noreferrer"><strong>2 elegantes (e simples!) enfeites de Natal que você mesma pode fazer.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/" target="_blank"><strong>Dicas para a decoração das salas no Natal.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/" target="_blank" rel="noopener noreferrer"><strong>Dicas para a decoração das salas no Natal.</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-DECORACAO-NATALINA-NATAL-FACA-VOCE-MESMA4.jpg"><img class="alignnone size-full wp-image-10547" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-DECORACAO-NATALINA-NATAL-FACA-VOCE-MESMA4.jpg" alt="Elegantly lit holiday dinner table with wine glasses and white ribboned gift" width="800" height="533" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/DECORACAO-DECORACAO-NATALINA-NATAL-FACA-VOCE-MESMA4.jpg"><img class="alignnone size-full wp-image-10547" src="https://www.trololodemulher.com.br/2014/10/DECORACAO-DECORACAO-NATALINA-NATAL-FACA-VOCE-MESMA4.jpg" alt="Elegantly lit holiday dinner table with wine glasses and white ribboned gift" width="800" height="533" /></a>
 </p>
 
 <p align="justify">
@@ -78,11 +75,11 @@ categories:
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.home-designing.com/" target="_blank">Home Designing</a>
+  Imagens: <a href="http://www.home-designing.com/" target="_blank" rel="noopener noreferrer">Home Designing</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

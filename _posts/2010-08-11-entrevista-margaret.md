@@ -1,17 +1,14 @@
 ---
-id: 2859
 title: 'Uma Bicha Fêmea por Outra: Margaret'
-date: 2010-08-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/08/11/entrevista-margaret/
 permalink: /2010/08/11/entrevista-margaret/
 categories:
   - Comportamento
   - Entrevistas
 ---
 <p style="text-align: justify;">
-  Já são 2 anos e dois meses como blogueira, e um novo blog depois de um <em>hiato bloguístico</em> na vida de Margaret: <a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a>. Considerada por todos que acompanham suas postagens como alguém de talento e criatividade inquestionáveis, Margaret esbanja simpatia, bom humor e generosidade em seus posts divertidos e utilíssimos!
+  Já são 2 anos e dois meses como blogueira, e um novo blog depois de um <em>hiato bloguístico</em> na vida de Margaret: <a href="http://www.margaretss.com.br/" target="_blank" rel="noopener noreferrer">Margaretss</a>. Considerada por todos que acompanham suas postagens como alguém de talento e criatividade inquestionáveis, Margaret esbanja simpatia, bom humor e generosidade em seus posts divertidos e utilíssimos!
 </p>
 
 <p style="text-align: justify;">
@@ -29,7 +26,7 @@ categories:
 > “…_eu vivo de internet. Meu trabalho profissional é sobre internet. Então sempre tenho várias idéias e alguns projetos na cabeça&#8230; Entretanto, eu gosto de fazer tudo com muito planejamento antes de executar, e certamente um dia porei algum em prática.”_
 > 
 > <p style="text-align: center;">
->   <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/mss4.jpg"><img class="alignnone size-medium wp-image-5048" title="mss4" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/mss4-300x300.jpg" alt="" width="300" height="300" /></a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/mss3.jpg"></a>
+>   <a href="https://www.trololodemulher.com.br/2010/08/mss4.jpg"><img class="alignnone size-medium wp-image-5048" title="mss4" src="https://www.trololodemulher.com.br/2010/08/mss4-300x300.jpg" alt="" width="300" height="300" /></a><a href="https://www.trololodemulher.com.br/2010/08/mss3.jpg"></a>
 > </p>
 
 <p style="text-align: justify;">
@@ -58,7 +55,7 @@ categories:
   </div>
   
   <div style="text-align: center;">
-    <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/mss3.jpg"><img class="alignnone size-full wp-image-5045" title="mss3" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/mss3.jpg" alt="" width="239" height="248" /></a></em>
+    <em><a href="https://www.trololodemulher.com.br/2010/08/mss3.jpg"><img class="alignnone size-full wp-image-5045" title="mss3" src="https://www.trololodemulher.com.br/2010/08/mss3.jpg" alt="" width="239" height="248" /></a></em>
   </div>
   
   <p style="text-align: justify;">
@@ -120,7 +117,7 @@ categories:
       </div>
       
       <div style="text-align: center;">
-        <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/mss2.jpg"><img class="alignnone size-medium wp-image-5044" title="mss2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/mss2-300x260.jpg" alt="" width="300" height="260" /></a></em>
+        <em><a href="https://www.trololodemulher.com.br/2010/08/mss2.jpg"><img class="alignnone size-medium wp-image-5044" title="mss2" src="https://www.trololodemulher.com.br/2010/08/mss2-300x260.jpg" alt="" width="300" height="260" /></a></em>
       </div>
       
       <p style="text-align: justify;">

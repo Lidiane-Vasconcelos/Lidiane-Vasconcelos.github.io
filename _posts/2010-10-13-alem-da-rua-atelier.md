@@ -1,10 +1,7 @@
 ---
-id: 2890
 title: 'Prateleira do Bicha Fêmea: Além da Rua Atelier'
-date: 2010-10-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/10/13/alem-da-rua-atelier/
 permalink: /2010/10/13/alem-da-rua-atelier/
 categories:
   - Sem categoria
@@ -18,7 +15,7 @@ Você conhece a Vila Madalena, em São Paulo? Eu ainda não conheço, mas qualqu
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Vasos-de-Ceramica-com-Mosaico.jpg"><img class="alignnone size-full wp-image-5300" title="Vasos de Cerâmica com Mosaico" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Vasos-de-Ceramica-com-Mosaico.jpg" alt="" width="400" height="267" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/Vasos-de-Ceramica-com-Mosaico.jpg"><img class="alignnone size-full wp-image-5300" title="Vasos de Cerâmica com Mosaico" src="https://www.trololodemulher.com.br/2010/10/Vasos-de-Ceramica-com-Mosaico.jpg" alt="" width="400" height="267" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -26,7 +23,7 @@ Você conhece a Vila Madalena, em São Paulo? Eu ainda não conheço, mas qualqu
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Tela-Flores-Retro.jpg"><img class="alignnone size-full wp-image-5299" title="Tela Flores Retrô" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Tela-Flores-Retro.jpg" alt="" width="400" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/Tela-Flores-Retro.jpg"><img class="alignnone size-full wp-image-5299" title="Tela Flores Retrô" src="https://www.trololodemulher.com.br/2010/10/Tela-Flores-Retro.jpg" alt="" width="400" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -34,7 +31,7 @@ Você conhece a Vila Madalena, em São Paulo? Eu ainda não conheço, mas qualqu
 </p>
 
 <p style="text-align: justify;">
-  O Atelier da Veronica é um ponto de encontro em dois sentidos. Primeiro, porque por lá suas peças ficam expostas e arranjadas em cantinhos inspiradores. Assim, é onde se encontra tudo que de mais bonito ela produz. Tudo isso eu tenho visto diariamente em <strong><em><a href="http://alemdaruaatelier.blogspot.com/" target="_blank">seu blog, que leva o nome de seu atelier</a></em></strong>, e é onde a Vero mostra não apenas o que produz, mas divulga eventos e as peças de seus alunos. Aí é que entra o segundo sentido de seu atelier ser um ponto de encontro&#8230;
+  O Atelier da Veronica é um ponto de encontro em dois sentidos. Primeiro, porque por lá suas peças ficam expostas e arranjadas em cantinhos inspiradores. Assim, é onde se encontra tudo que de mais bonito ela produz. Tudo isso eu tenho visto diariamente em <strong><em><a href="http://alemdaruaatelier.blogspot.com/" target="_blank" rel="noopener noreferrer">seu blog, que leva o nome de seu atelier</a></em></strong>, e é onde a Vero mostra não apenas o que produz, mas divulga eventos e as peças de seus alunos. Aí é que entra o segundo sentido de seu atelier ser um ponto de encontro&#8230;
 </p>
 
 <p style="text-align: justify;">
@@ -42,7 +39,7 @@ Você conhece a Vila Madalena, em São Paulo? Eu ainda não conheço, mas qualqu
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Molduras-de-Espelho-em-Mosaico.jpg"><img class="alignnone size-full wp-image-5298" title="Molduras de Espelho em Mosaico" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Molduras-de-Espelho-em-Mosaico.jpg" alt="" width="320" height="314" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/Molduras-de-Espelho-em-Mosaico.jpg"><img class="alignnone size-full wp-image-5298" title="Molduras de Espelho em Mosaico" src="https://www.trololodemulher.com.br/2010/10/Molduras-de-Espelho-em-Mosaico.jpg" alt="" width="320" height="314" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -50,7 +47,7 @@ Você conhece a Vila Madalena, em São Paulo? Eu ainda não conheço, mas qualqu
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Mesa-Mosaico.jpg"><img class="alignnone size-full wp-image-5297" title="Mesa Mosaico" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Mesa-Mosaico.jpg" alt="" width="300" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/Mesa-Mosaico.jpg"><img class="alignnone size-full wp-image-5297" title="Mesa Mosaico" src="https://www.trololodemulher.com.br/2010/10/Mesa-Mosaico.jpg" alt="" width="300" height="400" /></a>
 </p>
 
 <p style="text-align: center;">

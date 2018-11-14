@@ -1,10 +1,7 @@
 ---
-id: 2596
 title: Inspiração para a decoração de Natal.
-date: 2008-12-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2008/12/04/pegando-inspirao-web-afora/
 permalink: /2008/12/04/pegando-inspirao-web-afora/
 categories:
   - Decoração

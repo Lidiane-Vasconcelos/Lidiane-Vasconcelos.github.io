@@ -1,10 +1,7 @@
 ---
-id: 2953
 title: 'Organize-se com charme by La Pomme &#038; Bicha Fêmea.'
-date: 2011-02-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/02/07/sorteio-agenda-lapomme/
 permalink: /2011/02/07/sorteio-agenda-lapomme/
 categories:
   - Publieditorial
@@ -18,15 +15,15 @@ Sim! É muito melhor manter a vida organizada com recursos cheios de charme e um
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/logo-La-pomme.jpg"><img class="alignnone size-full wp-image-5939" title="logo La pomme" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/logo-La-pomme.jpg" alt="" width="247" height="239" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/logo-La-pomme.jpg"><img class="alignnone size-full wp-image-5939" title="logo La pomme" src="https://www.trololodemulher.com.br/2011/02/logo-La-pomme.jpg" alt="" width="247" height="239" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Você conhece a <a href="https://www.lojalapomme.com.br/" target="_blank">La Pomme</a>? Se você é uma bicha fêmea navegante há um certo tempo, conhece, sim. Lembra da <strong><em><a href="http://www.trololodemulher.com.br/2010/12/06/caneca-la-pomme/">caneca personalizada que a La Pomme fez especialmente para o Bicha Fêmea</a></em></strong>? Pois é. A empresa está de volta por aqui, e desta vez você pode ganhar um mimo <strong>TO-TAL-MEN-TE personalizado</strong> de acordo com sua vontade. Olha só:
+  Você conhece a <a href="https://www.lojalapomme.com.br/" target="_blank" rel="noopener noreferrer">La Pomme</a>? Se você é uma bicha fêmea navegante há um certo tempo, conhece, sim. Lembra da <strong><em><a href="http://www.trololodemulher.com.br/2010/12/06/caneca-la-pomme/">caneca personalizada que a La Pomme fez especialmente para o Bicha Fêmea</a></em></strong>? Pois é. A empresa está de volta por aqui, e desta vez você pode ganhar um mimo <strong>TO-TAL-MEN-TE personalizado</strong> de acordo com sua vontade. Olha só:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Agenda-La-Pomme-2011.jpg"><img class="alignnone size-full wp-image-5938" title="Agenda La Pomme 2011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Agenda-La-Pomme-2011.jpg" alt="" width="518" height="520" /></a><br /> Dimensões 16,2 x 21 cm
+  <a href="https://www.trololodemulher.com.br/2011/02/Agenda-La-Pomme-2011.jpg"><img class="alignnone size-full wp-image-5938" title="Agenda La Pomme 2011" src="https://www.trololodemulher.com.br/2011/02/Agenda-La-Pomme-2011.jpg" alt="" width="518" height="520" /></a><br /> Dimensões 16,2 x 21 cm
 </p>
 
 <p style="text-align: center;">
@@ -46,7 +43,7 @@ Sim! É muito melhor manter a vida organizada com recursos cheios de charme e um
 </p>
 
 <p style="text-align: justify;">
-  Vê que agenda linda de viver? Quer uma confeccionada de acordo com seu gosto pessoal? Na <strong>La Pomme</strong> isso é possível, e você jamais terá uma agenda feita em série. Para quem gosta de produtos diferenciados, isso é tudo que há! Não é verdade? E justamente por que a sua será exclusiva, esta é meramente ilustrativa. Como a <strong>La Pomme</strong> faz isso? Espia <a href="https://www.lojalapomme.com.br/pagina/como-personalizar.html" target="_blank">aqui</a> e você vai entender bem…
+  Vê que agenda linda de viver? Quer uma confeccionada de acordo com seu gosto pessoal? Na <strong>La Pomme</strong> isso é possível, e você jamais terá uma agenda feita em série. Para quem gosta de produtos diferenciados, isso é tudo que há! Não é verdade? E justamente por que a sua será exclusiva, esta é meramente ilustrativa. Como a <strong>La Pomme</strong> faz isso? Espia <a href="https://www.lojalapomme.com.br/pagina/como-personalizar.html" target="_blank" rel="noopener noreferrer">aqui</a> e você vai entender bem…
 </p>
 
 <p style="text-align: justify;">

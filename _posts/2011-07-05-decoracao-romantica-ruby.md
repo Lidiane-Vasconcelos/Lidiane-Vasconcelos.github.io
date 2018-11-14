@@ -1,15 +1,12 @@
 ---
-id: 3016
 title: 'Decoração romântica: casa da Ruby'
-date: 2011-07-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/07/05/decoracao-romantica-ruby/
 permalink: /2011/07/05/decoracao-romantica-ruby/
 categories:
   - Dicas de Decoração
 ---
-Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos, vai se encantar ao ver quanta coisa meiga e fofa há na casa da **Ruby**. Quem a conhece e acompanha o “**<a href="http://meucantominhaprosa.blogspot.com/" target="_blank">Meu Canto, Minha Prosa</a>**”, sabe bem desse estilo que ela busca empregar nos detalhes da decoração de seu apartamento.
+Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos, vai se encantar ao ver quanta coisa meiga e fofa há na casa da **Ruby**. Quem a conhece e acompanha o “**<a href="http://meucantominhaprosa.blogspot.com/" target="_blank" rel="noopener noreferrer">Meu Canto, Minha Prosa</a>**”, sabe bem desse estilo que ela busca empregar nos detalhes da decoração de seu apartamento.
 
 <p style="text-align: justify;">
   Recentemente Ruby mudou e se readequou ao novo espaço que ela tem, agora bem menor. Tem sido encantador ver seu capricho para decorar cada cantinho, e isso certamente pode te inspirar também. Confere…
@@ -22,7 +19,7 @@ Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/sala-de-estar.jpg"><img class="alignnone size-full wp-image-6570" title="sala de estar" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/sala-de-estar.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/sala-de-estar.jpg"><img class="alignnone size-full wp-image-6570" title="sala de estar" src="https://www.trololodemulher.com.br/2011/06/sala-de-estar.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -38,7 +35,7 @@ Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/salinha-de-jantar.jpg"><img class="alignnone size-full wp-image-6571" title="salinha de jantar" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/salinha-de-jantar.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/salinha-de-jantar.jpg"><img class="alignnone size-full wp-image-6571" title="salinha de jantar" src="https://www.trololodemulher.com.br/2011/06/salinha-de-jantar.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -54,7 +51,7 @@ Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/cortina-na-janela-do-quarto.jpg"><img class="alignnone size-full wp-image-6564" title="cortina na janela do quarto" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/cortina-na-janela-do-quarto.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/cortina-na-janela-do-quarto.jpg"><img class="alignnone size-full wp-image-6564" title="cortina na janela do quarto" src="https://www.trololodemulher.com.br/2011/06/cortina-na-janela-do-quarto.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -62,7 +59,7 @@ Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/divinos-mineiros-no-quarto.jpg"><img class="alignnone size-full wp-image-6566" title="divinos mineiros no quarto" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/divinos-mineiros-no-quarto.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/divinos-mineiros-no-quarto.jpg"><img class="alignnone size-full wp-image-6566" title="divinos mineiros no quarto" src="https://www.trololodemulher.com.br/2011/06/divinos-mineiros-no-quarto.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -70,7 +67,7 @@ Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/mesinha-de-cabeceira.jpg"><img class="alignnone size-full wp-image-6567" title="mesinha de cabeceira" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/mesinha-de-cabeceira.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/mesinha-de-cabeceira.jpg"><img class="alignnone size-full wp-image-6567" title="mesinha de cabeceira" src="https://www.trololodemulher.com.br/2011/06/mesinha-de-cabeceira.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -82,7 +79,7 @@ Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/cozinha.jpg"><img class="alignnone size-full wp-image-6565" title="cozinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/cozinha.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/cozinha.jpg"><img class="alignnone size-full wp-image-6565" title="cozinha" src="https://www.trololodemulher.com.br/2011/06/cozinha.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 <p style="text-align: justify;">

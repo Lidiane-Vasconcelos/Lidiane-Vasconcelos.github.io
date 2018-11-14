@@ -1,10 +1,7 @@
 ---
-id: 2967
 title: 'Villa Pano: loja virtual de design e decoração com muito mais que objetos bonitos!'
-date: 2011-03-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/03/10/villa-pano-loja-virtual/
 permalink: /2011/03/10/villa-pano-loja-virtual/
 categories:
   - Publieditorial
@@ -12,7 +9,7 @@ categories:
 Vem cá, _bonitona_! Você já pensou em conhecer uma **loja virtual** criada para vestir sua casa com  **itens de decoração bonitos e práticos**, e você também, com **vestuário confortável?** E se eu te disser que há uma história do tipo “gente da gente” por trás dessa loja, ou seja, que há alma?
 
 <p style="text-align: justify;">
-  A <a href="http://www.villapano.com.br/" target="_blank">Villa Pano</a> é uma loja assim, que encanta pelas <em>belezuras</em> que vende, e pela forma como tudo é encarado pela <strong>Renata Paraíso</strong>, a bonita por trás da loja e que tem o objetivo de  ajudar você e sua família a viver bem a vida, e tornar seu lar um lugar delicioso para se viver.
+  A <a href="http://www.villapano.com.br/" target="_blank" rel="noopener noreferrer">Villa Pano</a> é uma loja assim, que encanta pelas <em>belezuras</em> que vende, e pela forma como tudo é encarado pela <strong>Renata Paraíso</strong>, a bonita por trás da loja e que tem o objetivo de  ajudar você e sua família a viver bem a vida, e tornar seu lar um lugar delicioso para se viver.
 </p>
 
 <!--more-->
@@ -32,17 +29,17 @@ Vem cá, _bonitona_! Você já pensou em conhecer uma **loja virtual** criada pa
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/almofadatilda.jpg"><img class="alignnone size-full wp-image-6100" title="almofadatilda" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/almofadatilda.jpg" alt="" width="600" height="400" /></a></em><em>Almofada Tilda</em>
+  <em><a href="https://www.trololodemulher.com.br/2011/03/almofadatilda.jpg"><img class="alignnone size-full wp-image-6100" title="almofadatilda" src="https://www.trololodemulher.com.br/2011/03/almofadatilda.jpg" alt="" width="600" height="400" /></a></em><em>Almofada Tilda</em>
 </p>
 
  
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/jogorostolaise.jpg"><img class="alignnone size-full wp-image-6101" title="jogorostolaise" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/jogorostolaise.jpg" alt="" width="600" height="400" /></a><br /> </em><em>Jogo Rosto Laise</em>
+  <em><a href="https://www.trololodemulher.com.br/2011/03/jogorostolaise.jpg"><img class="alignnone size-full wp-image-6101" title="jogorostolaise" src="https://www.trololodemulher.com.br/2011/03/jogorostolaise.jpg" alt="" width="600" height="400" /></a><br /> </em><em>Jogo Rosto Laise</em>
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/kit-aroma.jpg"><img class="alignnone size-full wp-image-6102" title="kit aroma" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/kit-aroma.jpg" alt="" width="600" height="400" /></a><br /> </em><em>Kit Aroma</em>
+  <em><a href="https://www.trololodemulher.com.br/2011/03/kit-aroma.jpg"><img class="alignnone size-full wp-image-6102" title="kit aroma" src="https://www.trololodemulher.com.br/2011/03/kit-aroma.jpg" alt="" width="600" height="400" /></a><br /> </em><em>Kit Aroma</em>
 </p>
 
 <p style="text-align: justify;">
@@ -50,15 +47,15 @@ Vem cá, _bonitona_! Você já pensou em conhecer uma **loja virtual** criada pa
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/lucila9.jpg"><img class="alignnone size-full wp-image-6105" title="lucila9" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/lucila9.jpg" alt="" width="600" height="450" /></a><br /> Jogo Americano</em>
+  <em><a href="https://www.trololodemulher.com.br/2011/03/lucila9.jpg"><img class="alignnone size-full wp-image-6105" title="lucila9" src="https://www.trololodemulher.com.br/2011/03/lucila9.jpg" alt="" width="600" height="450" /></a><br /> Jogo Americano</em>
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/piscavoalbranco.jpg"><img class="alignnone size-full wp-image-6106" title="piscavoalbranco" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/piscavoalbranco.jpg" alt="" width="600" height="400" /></a><br /> Pisca Voal Branco</em>
+  <em><a href="https://www.trololodemulher.com.br/2011/03/piscavoalbranco.jpg"><img class="alignnone size-full wp-image-6106" title="piscavoalbranco" src="https://www.trololodemulher.com.br/2011/03/piscavoalbranco.jpg" alt="" width="600" height="400" /></a><br /> Pisca Voal Branco</em>
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/trilhofloralbege.jpg"><img class="alignnone size-full wp-image-6107" title="trilhofloralbege" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/trilhofloralbege.jpg" alt="" width="600" height="399" /></a><br /> Trilho de Mesa Floral Bege</em>
+  <em><a href="https://www.trololodemulher.com.br/2011/03/trilhofloralbege.jpg"><img class="alignnone size-full wp-image-6107" title="trilhofloralbege" src="https://www.trololodemulher.com.br/2011/03/trilhofloralbege.jpg" alt="" width="600" height="399" /></a><br /> Trilho de Mesa Floral Bege</em>
 </p>
 
 <p style="text-align: justify;">
@@ -77,7 +74,7 @@ Vem cá, _bonitona_! Você já pensou em conhecer uma **loja virtual** criada pa
 
 <blockquote style="text-align: justify;">
   <p style="text-align: justify;">
-    “<em>Você está convidada a fazer parte da vida de nossa empresa e conhecer nossos produtos! <a href="http://www.villapano.com.br/" target="_blank">Visite a nossa loja virtual</a> e faça parte de nosso blog! Esperamos vocês!”</em>
+    “<em>Você está convidada a fazer parte da vida de nossa empresa e conhecer nossos produtos! <a href="http://www.villapano.com.br/" target="_blank" rel="noopener noreferrer">Visite a nossa loja virtual</a> e faça parte de nosso blog! Esperamos vocês!”</em>
   </p>
 </blockquote>
 

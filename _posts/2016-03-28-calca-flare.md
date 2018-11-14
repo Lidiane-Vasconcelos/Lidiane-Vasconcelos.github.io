@@ -1,10 +1,7 @@
 ---
-id: 3574
 title: 'Calça Flare: aprenda como combinar o modelo da vez!'
-date: 2016-03-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/03/28/calca-flare/
 permalink: /2016/03/28/calca-flare/
 categories:
   - Moda
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/MANUAL-SIMPLES-E-PRÁTICO.jpg" alt="MANUAL SIMPLES E PRÁTICO" width="751" height="750" />
+  <img class="alignnone size-full wp-image-12200" src="https://www.trololodemulher.com.br/2016/03/MANUAL-SIMPLES-E-PRÁTICO.jpg" alt="MANUAL SIMPLES E PRÁTICO" width="751" height="750" />
 </p>
 
 <p align="center">
@@ -50,7 +47,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12206" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/MODA-ESTILO-CALCA-FLARE4.jpg" alt="MODA-ESTILO-CALCA FLARE[4]" width="760" height="500" />
+  <img class="alignnone size-full wp-image-12206" src="https://www.trololodemulher.com.br/2016/03/MODA-ESTILO-CALCA-FLARE4.jpg" alt="MODA-ESTILO-CALCA FLARE[4]" width="760" height="500" />
 </p>
 
 <p align="justify">
@@ -64,7 +61,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12202" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/MODA-ESTILO-CALCA-FLARE.jpg" alt="MODA-ESTILO-CALCA FLARE" width="750" height="500" />
+  <img class="alignnone size-full wp-image-12202" src="https://www.trololodemulher.com.br/2016/03/MODA-ESTILO-CALCA-FLARE.jpg" alt="MODA-ESTILO-CALCA FLARE" width="750" height="500" />
 </p>
 
 <p align="justify">
@@ -78,11 +75,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12203" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/MODA-ESTILO-CALCA-FLARE2.jpg" alt="MODA-ESTILO-CALCA FLARE[2]" width="800" height="760" />
+  <img class="alignnone size-full wp-image-12203" src="https://www.trololodemulher.com.br/2016/03/MODA-ESTILO-CALCA-FLARE2.jpg" alt="MODA-ESTILO-CALCA FLARE[2]" width="800" height="760" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12204" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/MODA-ESTILO-CALCA-FLARE3.jpg" alt="MODA-ESTILO-CALCA FLARE[3]" width="790" height="790" />
+  <img class="alignnone size-full wp-image-12204" src="https://www.trololodemulher.com.br/2016/03/MODA-ESTILO-CALCA-FLARE3.jpg" alt="MODA-ESTILO-CALCA FLARE[3]" width="790" height="790" />
 </p>
 
 <p align="justify">
@@ -98,15 +95,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12207" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/SARAH-TAPIAS-CONSULTORA-IMAGEM-ESTILO-FLORIANOPOLIS-SANTA-CATARINA.jpg" alt="SARAH TAPIAS-CONSULTORA IMAGEM ESTILO-FLORIANOPOLIS-SANTA CATARINA" width="800" height="179" />
+  <img class="alignnone size-full wp-image-12207" src="https://www.trololodemulher.com.br/2016/03/SARAH-TAPIAS-CONSULTORA-IMAGEM-ESTILO-FLORIANOPOLIS-SANTA-CATARINA.jpg" alt="SARAH TAPIAS-CONSULTORA IMAGEM ESTILO-FLORIANOPOLIS-SANTA CATARINA" width="800" height="179" />
 </p>
 
 <p align="justify">
-  Sarah é super presente nas redes sociais, e  se eu fosse você não perderia tempo algum e já trataria de acompanhá-la. A proposta da Sarah, com o seu trabalho, é auxiliar mulheres a conhecer sua própria imagem de maneira correta e equilibrada, transmitindo à sociedade sua maneira de pensar, sua personalidade, seus objetivos, através do modo de se vestir, com mais confiança e segurança. Seu conteúdo é publicado no <a href="https://www.facebook.com/Sarah-Tapias-Consultoria-de-Imagem-1377996229185974/" target="_blank">Facebook</a> e em seu perfil do <a href="https://www.instagram.com/sarah_tapias/?hl=pt-br" target="_blank">Instagram</a>. Acompanhe e aproveite!
+  Sarah é super presente nas redes sociais, e  se eu fosse você não perderia tempo algum e já trataria de acompanhá-la. A proposta da Sarah, com o seu trabalho, é auxiliar mulheres a conhecer sua própria imagem de maneira correta e equilibrada, transmitindo à sociedade sua maneira de pensar, sua personalidade, seus objetivos, através do modo de se vestir, com mais confiança e segurança. Seu conteúdo é publicado no <a href="https://www.facebook.com/Sarah-Tapias-Consultoria-de-Imagem-1377996229185974/" target="_blank" rel="noopener noreferrer">Facebook</a> e em seu perfil do <a href="https://www.instagram.com/sarah_tapias/?hl=pt-br" target="_blank" rel="noopener noreferrer">Instagram</a>. Acompanhe e aproveite!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

@@ -1,10 +1,7 @@
 ---
-id: 3375
 title: Como ser resiliente? A vida ensina…
-date: 2014-12-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/12/05/como-ser-resiliente/
 permalink: /2014/12/05/como-ser-resiliente/
 categories:
   - Comportamento
@@ -23,11 +20,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/COMPORTAMENTO-COMPORTAMENTO-FEMININO-RESILIENCIA.jpg"><img class="alignnone size-full wp-image-10629" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/COMPORTAMENTO-COMPORTAMENTO-FEMININO-RESILIENCIA.jpg" alt="COMPORTAMENTO-COMPORTAMENTO FEMININO-RESILIENCIA" width="800" height="545" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/COMPORTAMENTO-COMPORTAMENTO-FEMININO-RESILIENCIA.jpg"><img class="alignnone size-full wp-image-10629" src="https://www.trololodemulher.com.br/2014/12/COMPORTAMENTO-COMPORTAMENTO-FEMININO-RESILIENCIA.jpg" alt="COMPORTAMENTO-COMPORTAMENTO FEMININO-RESILIENCIA" width="800" height="545" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.boredpanda.com/plants-flowers-versus-concrete-asphalt-pavement/" target="_blank">boredpanda</a>
+  Imagem: <a href="http://www.boredpanda.com/plants-flowers-versus-concrete-asphalt-pavement/" target="_blank" rel="noopener noreferrer">boredpanda</a>
 </p>
 
 <p align="justify">
@@ -59,7 +56,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/COMPORTAMENTO-COMPORTAMENTO-FEMININO-RESILIENCIA2.jpg"><img class="alignnone size-full wp-image-10630" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/COMPORTAMENTO-COMPORTAMENTO-FEMININO-RESILIENCIA2.jpg" alt="COMPORTAMENTO-COMPORTAMENTO FEMININO-RESILIENCIA[2]" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/COMPORTAMENTO-COMPORTAMENTO-FEMININO-RESILIENCIA2.jpg"><img class="alignnone size-full wp-image-10630" src="https://www.trololodemulher.com.br/2014/12/COMPORTAMENTO-COMPORTAMENTO-FEMININO-RESILIENCIA2.jpg" alt="COMPORTAMENTO-COMPORTAMENTO FEMININO-RESILIENCIA[2]" width="550" height="550" /></a>
 </p>
 
 <p align="center">
@@ -71,11 +68,11 @@ categories:
 > </p>
 
 <p align="justify">
-  Em tempo: você encontra a Ly Mello através de seu blog, o <a href="http://lymello.blogspot.com.br/" target="_blank">*Design My Life*</a>. Seu blog não está sendo mais atualizado, mas seus posts sobre decoração estão disponíveis para consulta. O conteúdo é incrível, e vale a pena uma conferida, viu? Além do mais, há como ter contato mais próximo com essa bonita forte e guerreira através de sua <a href="https://www.facebook.com/pages/Design-My-Life/197015870398157?sk=timeline" target="_blank">fanpage no Fecebook, clicando bem aqui</a>. Vai lá!
+  Em tempo: você encontra a Ly Mello através de seu blog, o <a href="http://lymello.blogspot.com.br/" target="_blank" rel="noopener noreferrer">*Design My Life*</a>. Seu blog não está sendo mais atualizado, mas seus posts sobre decoração estão disponíveis para consulta. O conteúdo é incrível, e vale a pena uma conferida, viu? Além do mais, há como ter contato mais próximo com essa bonita forte e guerreira através de sua <a href="https://www.facebook.com/pages/Design-My-Life/197015870398157?sk=timeline" target="_blank" rel="noopener noreferrer">fanpage no Fecebook, clicando bem aqui</a>. Vai lá!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

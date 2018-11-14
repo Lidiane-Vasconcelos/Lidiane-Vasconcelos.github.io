@@ -1,10 +1,7 @@
 ---
-id: 2812
 title: Por que as mães merecem homenagens?
-date: 2010-05-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/05/07/homenagem-maes/
 permalink: /2010/05/07/homenagem-maes/
 categories:
   - Trololó
@@ -28,7 +25,7 @@ Parabéns para você, que se doou para fazer um filho feliz. Você é digna de t
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/flores-tulipas-amarelas.jpg"><img class="aligncenter size-medium wp-image-4602" title="flores tulipas amarelas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/flores-tulipas-amarelas-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/04/flores-tulipas-amarelas.jpg"><img class="aligncenter size-medium wp-image-4602" title="flores tulipas amarelas" src="https://www.trololodemulher.com.br/2010/04/flores-tulipas-amarelas-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
     
     <td>
@@ -47,7 +44,7 @@ Parabéns para você, que se doou para fazer um filho feliz. Você é digna de t
 
 Bom final de semana!
 
-Imagem: <a href="http://www.sxc.hu/profile/nkzs" target="_blank">nkzs</a> via <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+Imagem: <a href="http://www.sxc.hu/profile/nkzs" target="_blank" rel="noopener noreferrer">nkzs</a> via <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>
 
 **Mais no Bicha Fêmea…**
 

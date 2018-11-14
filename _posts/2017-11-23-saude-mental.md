@@ -1,10 +1,7 @@
 ---
-id: 3834
 title: 9 dicas para manter a saúde mental.
-date: 2017-11-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/11/23/saude-mental/
 permalink: /2017/11/23/saude-mental/
 categories:
   - Bem-estar
@@ -15,11 +12,11 @@ categories:
 Todos sabemos que no meio dessa correria que estamos vivendo, a qualidade de vida acaba muitas vezes sendo deixada de lado. Mas mesmo sabendo que temos compromissos diários, muitas vezes inadiáveis, é preciso que pratiquemos meios de manter a **saúde mental** em dia. Para isso veja dicas simples que são essenciais e podem te ajudar a manter o pique do dia a dia:
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14450" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/SAUDE-MENTAL-800.jpg" alt="SAUDE MENTAL-800" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14450" src="https://www.trololodemulher.com.br/2017/11/SAUDE-MENTAL-800.jpg" alt="SAUDE MENTAL-800" width="800" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: <a href="http://www.laughandpee.com/" target="_blank" rel="noopener noreferrer">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank" rel="noopener noreferrer">Gratisography</a>
 </p>
 
 <p align="justify">
@@ -75,7 +72,7 @@ Todos sabemos que no meio dessa correria que estamos vivendo, a qualidade de vid
 </p>
 
 <p align="justify">
-  Estar em contato com a espiritualidade é uma maneira de manter seu equilíbrio. Não importa qual seja sua religião, entrar em contato com o ser superior através de meditação e orações é um bom caminho. Diferente do que a maioria de pessoas acreditam, o termo “espiritualidade” envolve muito mais do que apenas religião. Por exemplo, técnicas de autoconhecimento como meditação, <a href="https://www.iquilibrio.com/tarot/" target="_blank">tarot</a> e terapias esotéricas também se encaixam no termo.
+  Estar em contato com a espiritualidade é uma maneira de manter seu equilíbrio. Não importa qual seja sua religião, entrar em contato com o ser superior através de meditação e orações é um bom caminho. Diferente do que a maioria de pessoas acreditam, o termo “espiritualidade” envolve muito mais do que apenas religião. Por exemplo, técnicas de autoconhecimento como meditação, <a href="https://www.iquilibrio.com/tarot/" target="_blank" rel="noopener noreferrer">tarot</a> e terapias esotéricas também se encaixam no termo.
 </p>
 
 <p align="justify">
@@ -95,11 +92,11 @@ Todos sabemos que no meio dessa correria que estamos vivendo, a qualidade de vid
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>
 
 <p align="justify">

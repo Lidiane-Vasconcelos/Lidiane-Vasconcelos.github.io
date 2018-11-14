@@ -1,10 +1,7 @@
 ---
-id: 3717
 title: 'A obesidade infantil não é fofinha: saiba como mudar isso.'
-date: 2016-12-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/12/14/obesidade-infantil-2/
 permalink: /2016/12/14/obesidade-infantil-2/
 categories:
   - Maternidade
@@ -19,11 +16,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13390" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/MATERNIDADE-SAUDE-INFANTIL-OBESIDADE-INFANTIL.jpg" alt="maternidade-saude-infantil-obesidade-infantil" width="800" height="1120" />
+  <img class="alignnone size-full wp-image-13390" src="https://www.trololodemulher.com.br/2016/12/MATERNIDADE-SAUDE-INFANTIL-OBESIDADE-INFANTIL.jpg" alt="maternidade-saude-infantil-obesidade-infantil" width="800" height="1120" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/ahweilungwei/27774281836/" target="_blank">Ah Wei (Lung Wei)</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA</a>
+  Imagem: <a href="https://www.flickr.com/photos/ahweilungwei/27774281836/" target="_blank" rel="noopener noreferrer">Ah Wei (Lung Wei)</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank" rel="noopener noreferrer">CC BY-SA</a>
 </p>
 
 <p align="justify">
@@ -39,19 +36,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/08/05/amamentacao/" target="_blank"><strong>Hora da amamentação!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/08/05/amamentacao/" target="_blank" rel="noopener noreferrer"><strong>Hora da amamentação!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/02/27/alimentacao-gravidez-nutricao/" target="_blank"><strong>Alimentação na gravidez: saúde para mamãe e bebê.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/02/27/alimentacao-gravidez-nutricao/" target="_blank" rel="noopener noreferrer"><strong>Alimentação na gravidez: saúde para mamãe e bebê.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/05/18/atividade-fisica-infantil/" target="_blank"><strong>Você sabe qual atividade física é boa pra sua cria?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/05/18/atividade-fisica-infantil/" target="_blank" rel="noopener noreferrer"><strong>Você sabe qual atividade física é boa pra sua cria?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/01/09/gravidez-saudavel-gestacao/" target="_blank">Gravidez saudável, segura e em equilíbrio: como vivenciá-la?</a>
+  <a href="http://www.trololodemulher.com.br/2015/01/09/gravidez-saudavel-gestacao/" target="_blank" rel="noopener noreferrer">Gravidez saudável, segura e em equilíbrio: como vivenciá-la?</a>
 </p>
 
 <p align="justify">
@@ -67,15 +64,15 @@ categories:
 </p>
 
 <p align="justify">
-  Há casos que o bebê desmama do leite materno, seja antes ou depois dos 6 meses de vida. Neste caso a mãe precisa, sim, oferecer uma fórmula infantil, que é o que conhecemos como leite artificial. E neste caso, não adianta usar leite de arroz ou cereais, pois eles não têm o teor de proteína que a criança necessita. O fato é que a criança precisa de algum tipo de leite, o de fórmula ou o de vaca, mas precisa, e aqui Rachel recomenda a leitura de seu artigo <a href="http://www.rachelnutricionista.com.br/sobre-o-leite-de-vaca-mitos-e-verdades/" target="_blank">Mitos e Verdades sobre o Leite de Vaca</a>, a fim de esclarecer bem qualquer dúvida a respeito.
+  Há casos que o bebê desmama do leite materno, seja antes ou depois dos 6 meses de vida. Neste caso a mãe precisa, sim, oferecer uma fórmula infantil, que é o que conhecemos como leite artificial. E neste caso, não adianta usar leite de arroz ou cereais, pois eles não têm o teor de proteína que a criança necessita. O fato é que a criança precisa de algum tipo de leite, o de fórmula ou o de vaca, mas precisa, e aqui Rachel recomenda a leitura de seu artigo <a href="http://www.rachelnutricionista.com.br/sobre-o-leite-de-vaca-mitos-e-verdades/" target="_blank" rel="noopener noreferrer">Mitos e Verdades sobre o Leite de Vaca</a>, a fim de esclarecer bem qualquer dúvida a respeito.
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13391" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/MATERNIDADE-SAUDE-INFANTIL-OBESIDADE-INFANTIL2.jpg" alt="maternidade-saude-infantil-obesidade-infantil2" width="786" height="388" />
+  <img class="alignnone size-full wp-image-13391" src="https://www.trololodemulher.com.br/2016/12/MATERNIDADE-SAUDE-INFANTIL-OBESIDADE-INFANTIL2.jpg" alt="maternidade-saude-infantil-obesidade-infantil2" width="786" height="388" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.flickr.com/photos/68711844@N07/" target="_blank">Michael Stern</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA</a>
+  Via <a href="http://www.flickr.com/photos/68711844@N07/" target="_blank" rel="noopener noreferrer">Michael Stern</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank" rel="noopener noreferrer">CC BY-SA</a>
 </p>
 
 <p align="justify">
@@ -111,11 +108,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13392" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/MATERNIDADE-SAUDE-INFANTIL-OBESIDADE-INFANTIL3.jpg" alt="maternidade-saude-infantil-obesidade-infantil3" width="794" height="373" />
+  <img class="alignnone size-full wp-image-13392" src="https://www.trololodemulher.com.br/2016/12/MATERNIDADE-SAUDE-INFANTIL-OBESIDADE-INFANTIL3.jpg" alt="maternidade-saude-infantil-obesidade-infantil3" width="794" height="373" />
 </p>
 
 <p align="center">
-  Via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0</a>
+  Via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener noreferrer">CC0</a>
 </p>
 
 <p align="justify">
@@ -183,15 +180,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13395" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/RACHEL-FRANCISCHI-NUTRICIONISTA-SAO-PAULO-SP.jpg" alt="rachel-francischi-nutricionista-sao-paulo-sp" width="800" height="157" />
+  <img class="alignnone size-full wp-image-13395" src="https://www.trololodemulher.com.br/2016/12/RACHEL-FRANCISCHI-NUTRICIONISTA-SAO-PAULO-SP.jpg" alt="rachel-francischi-nutricionista-sao-paulo-sp" width="800" height="157" />
 </p>
 
 <p align="justify">
-  Rachel atende em São Paulo, capital, com serviços que abrangem consulta nutricional, oficinas, terapias e aconselhamento nutricional, assessoria técnica e consultorias, palestras, elaboração de cardápios, auxílio ás compras, e muito mais. Todas as informações sobre seus serviços e formas de contato estão em seu site, <a href="http://www.rachelnutricionista.com.br/" target="_blank">clique aqui e confira</a>! No seu site, inclusive, há um material riquíssimo em conteúdo que nos mune de informação de qualidade, e isso salva! Mantenha-se informada, também, acompanhando a Rachel em sua Fanpage no Facebook. <a href="https://www.facebook.com/nutricionistarachel" target="_blank">Clique aqui, curta e fique por dentro</a>!
+  Rachel atende em São Paulo, capital, com serviços que abrangem consulta nutricional, oficinas, terapias e aconselhamento nutricional, assessoria técnica e consultorias, palestras, elaboração de cardápios, auxílio ás compras, e muito mais. Todas as informações sobre seus serviços e formas de contato estão em seu site, <a href="http://www.rachelnutricionista.com.br/" target="_blank" rel="noopener noreferrer">clique aqui e confira</a>! No seu site, inclusive, há um material riquíssimo em conteúdo que nos mune de informação de qualidade, e isso salva! Mantenha-se informada, também, acompanhando a Rachel em sua Fanpage no Facebook. <a href="https://www.facebook.com/nutricionistarachel" target="_blank" rel="noopener noreferrer">Clique aqui, curta e fique por dentro</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

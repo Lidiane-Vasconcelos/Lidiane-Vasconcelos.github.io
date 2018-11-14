@@ -1,10 +1,7 @@
 ---
-id: 3222
 title: 'Decoração básica com graça e charme: aprenda os truques!'
-date: 2013-06-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/06/05/decoracao-basica-simples/
 permalink: /2013/06/05/decoracao-basica-simples/
 categories:
   - Dicas de Decoração
@@ -24,7 +21,7 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-BASICA-SIMPLES-ELEGANTE1.png"><img class="alignnone size-full wp-image-9441" alt="DECORACAO BASICA SIMPLES ELEGANTE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-BASICA-SIMPLES-ELEGANTE1.png" width="600" height="804" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/05/DECORACAO-BASICA-SIMPLES-ELEGANTE1.png"><img class="alignnone size-full wp-image-9441" alt="DECORACAO BASICA SIMPLES ELEGANTE" src="https://www.trololodemulher.com.br/2013/05/DECORACAO-BASICA-SIMPLES-ELEGANTE1.png" width="600" height="804" /></a>
 </p>
 
 <p align="center">
@@ -32,7 +29,7 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-SIMPLES-BASICA-ELEGANTE3.jpg"><img class="alignnone size-full wp-image-9443" alt="DECORACAO SIMPLES BASICA ELEGANTE[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-SIMPLES-BASICA-ELEGANTE3.jpg" width="400" height="276" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/05/DECORACAO-SIMPLES-BASICA-ELEGANTE3.jpg"><img class="alignnone size-full wp-image-9443" alt="DECORACAO SIMPLES BASICA ELEGANTE[3]" src="https://www.trololodemulher.com.br/2013/05/DECORACAO-SIMPLES-BASICA-ELEGANTE3.jpg" width="400" height="276" /></a>
 </p>
 
 > <p align="justify">
@@ -48,7 +45,7 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-BASICA-SIMPLES-ELEGANTE2.png"><img class="alignnone size-full wp-image-9442" alt="DECORACAO BASICA SIMPLES ELEGANTE[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-BASICA-SIMPLES-ELEGANTE2.png" width="600" height="845" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/05/DECORACAO-BASICA-SIMPLES-ELEGANTE2.png"><img class="alignnone size-full wp-image-9442" alt="DECORACAO BASICA SIMPLES ELEGANTE[2]" src="https://www.trololodemulher.com.br/2013/05/DECORACAO-BASICA-SIMPLES-ELEGANTE2.png" width="600" height="845" /></a>
 </p>
 
 <p align="center">
@@ -64,7 +61,7 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-SIMPLES-BASICA-ELEGANTE6.jpg"><img class="alignnone size-full wp-image-9444" alt="DECORACAO SIMPLES BASICA ELEGANTE[6]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-SIMPLES-BASICA-ELEGANTE6.jpg" width="550" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/05/DECORACAO-SIMPLES-BASICA-ELEGANTE6.jpg"><img class="alignnone size-full wp-image-9444" alt="DECORACAO SIMPLES BASICA ELEGANTE[6]" src="https://www.trololodemulher.com.br/2013/05/DECORACAO-SIMPLES-BASICA-ELEGANTE6.jpg" width="550" height="449" /></a>
 </p>
 
 > <p align="justify">
@@ -88,15 +85,15 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/ADRIANA-MAGRE.png"><img class="alignnone size-full wp-image-9447" alt="ADRIANA MAGRE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/ADRIANA-MAGRE.png" width="540" height="306" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/05/ADRIANA-MAGRE.png"><img class="alignnone size-full wp-image-9447" alt="ADRIANA MAGRE" src="https://www.trololodemulher.com.br/2013/05/ADRIANA-MAGRE.png" width="540" height="306" /></a>
 </p>
 
 <p align="justify">
-  A <strong>Adriana</strong> edita seus blogs com tanta informação útil e de qualidade que eu acredito ser leitura obrigatória para quem curte decoração e todo o universo que envolve a casa. Tanto em um – <a href="http://www.coresdacasa.com.br/" target="_blank"><strong>Cores da Casa</strong></a> – quanto no outro – <strong><a href="http://areaminima.blogspot.com.br/" target="_blank">Área Mínima</a></strong> – as fontes são de informação da melhor qualidade, pode apostar! Quer tirar a prova? Se joga, conheça e confira!
+  A <strong>Adriana</strong> edita seus blogs com tanta informação útil e de qualidade que eu acredito ser leitura obrigatória para quem curte decoração e todo o universo que envolve a casa. Tanto em um – <a href="http://www.coresdacasa.com.br/" target="_blank" rel="noopener noreferrer"><strong>Cores da Casa</strong></a> – quanto no outro – <strong><a href="http://areaminima.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Área Mínima</a></strong> – as fontes são de informação da melhor qualidade, pode apostar! Quer tirar a prova? Se joga, conheça e confira!
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://pinterest.com/coresdacasa/" target="_blank"><strong><em>Pinterest </em>da Adriana Magre</strong></a>
+  Imagens: <a href="http://pinterest.com/coresdacasa/" target="_blank" rel="noopener noreferrer"><strong><em>Pinterest </em>da Adriana Magre</strong></a>
 </p>
 
 <p align="center">
@@ -107,13 +104,13 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/DECORACAO-CORTINAS200.jpg"><img class="alignnone size-full wp-image-9311" alt="DECORACAO-CORTINAS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/DECORACAO-CORTINAS200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/11/12/cortina-decoracao-2/"><strong><span style="font-size: medium;"><br /> Repare: há duas formas diferentes de inserir a cortina na decoração</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2012/11/DECORACAO-CORTINAS200.jpg"><img class="alignnone size-full wp-image-9311" alt="DECORACAO-CORTINAS200" src="https://www.trololodemulher.com.br/2012/11/DECORACAO-CORTINAS200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/11/12/cortina-decoracao-2/"><strong><span style="font-size: medium;"><br /> Repare: há duas formas diferentes de inserir a cortina na decoração</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/DECORACAO-ENFEITE-OBJETO-ABAJOUR-FACA-VOCE-MESMA200.jpg"><img class="alignnone size-full wp-image-9182" alt="DECORACAO-ENFEITE-OBJETO-ABAJOUR-FACA VOCE MESMA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/DECORACAO-ENFEITE-OBJETO-ABAJOUR-FACA-VOCE-MESMA200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/09/28/enfeites-objetos-decoracao/"><strong><span style="font-size: medium;"><br /> Capriche você mesma nos enfeites ou objetos de decoração</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2012/09/DECORACAO-ENFEITE-OBJETO-ABAJOUR-FACA-VOCE-MESMA200.jpg"><img class="alignnone size-full wp-image-9182" alt="DECORACAO-ENFEITE-OBJETO-ABAJOUR-FACA VOCE MESMA200" src="https://www.trololodemulher.com.br/2012/09/DECORACAO-ENFEITE-OBJETO-ABAJOUR-FACA-VOCE-MESMA200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/09/28/enfeites-objetos-decoracao/"><strong><span style="font-size: medium;"><br /> Capriche você mesma nos enfeites ou objetos de decoração</span></strong></a>
       </p>
     </td>
   </tr>
@@ -121,13 +118,13 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/DECORACAO-QUARTO-PUFF-BAU200.jpg"><img class="alignnone size-full wp-image-9152" alt="DECORACAO-QUARTO-PUFF-BAU200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/DECORACAO-QUARTO-PUFF-BAU200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/09/20/loja-virtual-moveis-decoracao/"><strong><span style="font-size: medium;">Todo mundo quer uma casa bonita e funcional, certo?</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2012/09/DECORACAO-QUARTO-PUFF-BAU200.jpg"><img class="alignnone size-full wp-image-9152" alt="DECORACAO-QUARTO-PUFF-BAU200" src="https://www.trololodemulher.com.br/2012/09/DECORACAO-QUARTO-PUFF-BAU200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/09/20/loja-virtual-moveis-decoracao/"><strong><span style="font-size: medium;">Todo mundo quer uma casa bonita e funcional, certo?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-FOTOS2200.jpg"><img class="alignnone size-full wp-image-9063" alt="DECORACAO-FOTOS[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-FOTOS2200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/08/29/como-decorar-com-fotos/"><strong><span style="font-size: medium;"><br /> Quer saber como decorar com fotos?</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2012/08/DECORACAO-FOTOS2200.jpg"><img class="alignnone size-full wp-image-9063" alt="DECORACAO-FOTOS[2]200" src="https://www.trololodemulher.com.br/2012/08/DECORACAO-FOTOS2200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/08/29/como-decorar-com-fotos/"><strong><span style="font-size: medium;"><br /> Quer saber como decorar com fotos?</span></strong></a>
       </p>
     </td>
   </tr>
@@ -135,20 +132,20 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/OBJETOS-ENFEITES-DECORACAO-ANTIGUIDADES200.jpg"><img class="alignnone size-full wp-image-9056" alt="OBJETOS-ENFEITES-DECORACAO-ANTIGUIDADES200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/OBJETOS-ENFEITES-DECORACAO-ANTIGUIDADES200.jpg" width="200" height="200" /></a><br /> Sabe onde há objetos cheios de bossa para a decoração?</strong>
+        <strong><a href="https://www.trololodemulher.com.br/2012/08/OBJETOS-ENFEITES-DECORACAO-ANTIGUIDADES200.jpg"><img class="alignnone size-full wp-image-9056" alt="OBJETOS-ENFEITES-DECORACAO-ANTIGUIDADES200" src="https://www.trololodemulher.com.br/2012/08/OBJETOS-ENFEITES-DECORACAO-ANTIGUIDADES200.jpg" width="200" height="200" /></a><br /> Sabe onde há objetos cheios de bossa para a decoração?</strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-FACA-VOCE-MESMA-QUARTO-CABECEIRA200.jpg"><img class="alignnone size-full wp-image-9020" alt="DECORACAO FACA VOCE MESMA - QUARTO-CABECEIRA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-FACA-VOCE-MESMA-QUARTO-CABECEIRA200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/08/15/decoracao-faca-voce-mesma-5/"><strong><span style="font-size: medium;">Decoração “faça você mesma” bem barata? É com a Keilla Colombo!</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2012/08/DECORACAO-FACA-VOCE-MESMA-QUARTO-CABECEIRA200.jpg"><img class="alignnone size-full wp-image-9020" alt="DECORACAO FACA VOCE MESMA - QUARTO-CABECEIRA200" src="https://www.trololodemulher.com.br/2012/08/DECORACAO-FACA-VOCE-MESMA-QUARTO-CABECEIRA200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/08/15/decoracao-faca-voce-mesma-5/"><strong><span style="font-size: medium;">Decoração “faça você mesma” bem barata? É com a Keilla Colombo!</span></strong></a>
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -163,13 +160,13 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

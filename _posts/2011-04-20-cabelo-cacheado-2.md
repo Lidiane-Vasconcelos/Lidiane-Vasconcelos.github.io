@@ -1,10 +1,7 @@
 ---
-id: 2981
 title: Evite 6 erros e seu cabelo cacheado ficará lindo no dia a dia!
-date: 2011-04-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/04/20/cabelo-cacheado-2/
 permalink: /2011/04/20/cabelo-cacheado-2/
 categories:
   - Beleza
@@ -18,11 +15,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2017/10/02/cabelo-cacheado-3/" target="_blank">Como ter o cabelo cacheado que você curte?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2017/10/02/cabelo-cacheado-3/" target="_blank" rel="noopener noreferrer">Como ter o cabelo cacheado que você curte?</a></strong>
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2017/03/06/pintar-o-cabelo/" target="_blank">Dicas pra não errar quando for pintar os cabelos.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2017/03/06/pintar-o-cabelo/" target="_blank" rel="noopener noreferrer">Dicas pra não errar quando for pintar os cabelos.</a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -32,7 +29,7 @@ categories:
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/cabelos-cacheados.jpg"><img class="alignnone size-full wp-image-6265" title="cabelos cacheados" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/cabelos-cacheados.jpg" alt="" width="600" height="800" /></a><br /> <a href="http://www.sxc.hu/profile/davincci" target="_blank"><strong>Juan Hurtado</strong></a><strong> </strong>via<a href="http://www.sxc.hu/" target="_blank"><strong>stock.xchng</strong></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/cabelos-cacheados.jpg"><img class="alignnone size-full wp-image-6265" title="cabelos cacheados" src="https://www.trololodemulher.com.br/2011/04/cabelos-cacheados.jpg" alt="" width="600" height="800" /></a><br /> <a href="http://www.sxc.hu/profile/davincci" target="_blank" rel="noopener noreferrer"><strong>Juan Hurtado</strong></a><strong> </strong>via<a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><strong>stock.xchng</strong></a>
 </p>
 
 <p style="text-align: justify;">
@@ -46,7 +43,7 @@ categories:
 </blockquote>
 
 <p style="text-align: justify;">
-  Como a Bia, também uso a <strong>técnica da toalha para secá-los</strong>. Faço isso <strong>de baixo para cima</strong>, depois de já <strong>tê-los desembaraçado com um pente de dentes largos e com a ajuda de um creme de pentear sem enxágue</strong>. Como a Bia, também não dispenso dicas e mais dicas para facilitar a minha vida no cuidado diário das madeixas. Se esse também é o teu caso, repara no que a <strong>Janne</strong> tem a dizer para a gente. Ela é <strong>cabeleireira há 11 anos</strong>, também é blogueira e cuida do blog <strong><a href="http://janeladesonho.blogspot.com/" target="_blank">Janela do Sonho</a></strong>. Gentilmente a Janne deu uma consultoria para o Trololó de Mulher sobre cabelos cacheados, e o resultado é uma séria de informações preciosas para a Bia, para mim e para você…
+  Como a Bia, também uso a <strong>técnica da toalha para secá-los</strong>. Faço isso <strong>de baixo para cima</strong>, depois de já <strong>tê-los desembaraçado com um pente de dentes largos e com a ajuda de um creme de pentear sem enxágue</strong>. Como a Bia, também não dispenso dicas e mais dicas para facilitar a minha vida no cuidado diário das madeixas. Se esse também é o teu caso, repara no que a <strong>Janne</strong> tem a dizer para a gente. Ela é <strong>cabeleireira há 11 anos</strong>, também é blogueira e cuida do blog <strong><a href="http://janeladesonho.blogspot.com/" target="_blank" rel="noopener noreferrer">Janela do Sonho</a></strong>. Gentilmente a Janne deu uma consultoria para o Trololó de Mulher sobre cabelos cacheados, e o resultado é uma séria de informações preciosas para a Bia, para mim e para você…
 </p>
 
 <p style="text-align: center;">
@@ -74,7 +71,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.trololodemulher.com.br/2012/10/01/hidratacao-cabelos-em-casa/" target="_blank">Hidrate os cabelos em casa, fique bonita, poupe seu tempo e seu dinheiro.</a>
+  <a href="http://www.trololodemulher.com.br/2012/10/01/hidratacao-cabelos-em-casa/" target="_blank" rel="noopener noreferrer">Hidrate os cabelos em casa, fique bonita, poupe seu tempo e seu dinheiro.</a>
 </p>
 
 <p style="text-align: justify;">
@@ -90,7 +87,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.trololodemulher.com.br/2011/12/12/acessorios-para-cabelos/" target="_blank">Acessórios para cabelos: o que passa nas cabeças das leitoras?</a>
+  <a href="http://www.trololodemulher.com.br/2011/12/12/acessorios-para-cabelos/" target="_blank" rel="noopener noreferrer">Acessórios para cabelos: o que passa nas cabeças das leitoras?</a>
 </p>
 
 <p style="text-align: justify;">
@@ -138,15 +135,15 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2014/11/10/cabelos-arrepiados-frizz/" target="_blank">Cabelos arrepiados e com frizz: o que fazer?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/11/10/cabelos-arrepiados-frizz/" target="_blank" rel="noopener noreferrer">Cabelos arrepiados e com frizz: o que fazer?</a></strong>
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2014/02/06/cabelos-beleza-verao/" target="_blank">Verão + sol + mar + piscina = você toda descabelada. Xiii&#8230; e agora?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/02/06/cabelos-beleza-verao/" target="_blank" rel="noopener noreferrer">Verão + sol + mar + piscina = você toda descabelada. Xiii&#8230; e agora?</a></strong>
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2012/10/08/oleo-nos-cabelos/" target="_blank">Óleo nos cabelos&#8230; funciona?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2012/10/08/oleo-nos-cabelos/" target="_blank" rel="noopener noreferrer">Óleo nos cabelos&#8230; funciona?</a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -154,7 +151,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/cabelos-cacheados3.jpg"><img class="alignnone size-full wp-image-6267" title="cabelos cacheados[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/cabelos-cacheados3.jpg" alt="" width="600" height="621" /></a><br /> <strong><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/04/cabelos-cacheados3.jpg"><img class="alignnone size-full wp-image-6267" title="cabelos cacheados[3]" src="https://www.trololodemulher.com.br/2011/04/cabelos-cacheados3.jpg" alt="" width="600" height="621" /></a><br /> <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">Stock.xchng</a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -176,21 +173,21 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.trololodemulher.com.br/2014/05/27/cabelos-saude-e-beleza/" target="_blank">Cabelos: saiba 5 verdades sobre saúde e beleza.</a>
+  <a href="http://www.trololodemulher.com.br/2014/05/27/cabelos-saude-e-beleza/" target="_blank" rel="noopener noreferrer">Cabelos: saiba 5 verdades sobre saúde e beleza.</a>
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.trololodemulher.com.br/2011/07/11/cabelos-dicas-e-cuidados/" target="_blank">Cabelos: dicas e cuidados aos 20, 30, 40, 50 anos e mais&#8230;</a>
+  <a href="http://www.trololodemulher.com.br/2011/07/11/cabelos-dicas-e-cuidados/" target="_blank" rel="noopener noreferrer">Cabelos: dicas e cuidados aos 20, 30, 40, 50 anos e mais&#8230;</a>
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.trololodemulher.com.br/2011/09/26/cuidados-com-os-cabelos/" target="_blank">Cuidados com os cabelos: 3 perguntas para uma cabeleireira.</a>
+  <a href="http://www.trololodemulher.com.br/2011/09/26/cuidados-com-os-cabelos/" target="_blank" rel="noopener noreferrer">Cuidados com os cabelos: 3 perguntas para uma cabeleireira.</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>

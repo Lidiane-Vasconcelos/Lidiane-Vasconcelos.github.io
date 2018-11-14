@@ -1,10 +1,7 @@
 ---
-id: 3047
 title: Qual espaço na sua casa é a cara do Verão?
-date: 2011-09-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/09/07/decoracao-verao-jardim/
 permalink: /2011/09/07/decoracao-verao-jardim/
 categories:
   - 'Varanda &amp; Jardim'
@@ -26,7 +23,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Janela-Maria4.jpg"><img class="alignnone size-full wp-image-6876" title="O" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Janela-Maria4.jpg" alt="" width="314" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/09/Janela-Maria4.jpg"><img class="alignnone size-full wp-image-6876" title="O" src="https://www.trololodemulher.com.br/2011/09/Janela-Maria4.jpg" alt="" width="314" height="600" /></a>
 </p>
 
 &nbsp;
@@ -38,7 +35,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Janela-Maria.jpg"><img class="alignnone size-full wp-image-6875" title="O" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Janela-Maria.jpg" alt="" width="356" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/09/Janela-Maria.jpg"><img class="alignnone size-full wp-image-6875" title="O" src="https://www.trololodemulher.com.br/2011/09/Janela-Maria.jpg" alt="" width="356" height="600" /></a>
 </p>
 
 &nbsp;
@@ -50,13 +47,13 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Janela-Maria5.jpg"><img class="alignnone size-full wp-image-6877" title="O" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Janela-Maria5.jpg" alt="" width="600" height="487" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/09/Janela-Maria5.jpg"><img class="alignnone size-full wp-image-6877" title="O" src="https://www.trololodemulher.com.br/2011/09/Janela-Maria5.jpg" alt="" width="600" height="487" /></a>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “…<em>E, à noite, quando a lua quer encher-me de romantismo, lá vou eu para a janela, olhá-la e às estrelas, e delirar que apesar de muita maldade por esse nundo fora, a natureza é bela e o homem não conseguira jamais destruir o sol que nos dá a energia , vida, luz, e a lua que nos torna românticos e convida ao &#8220;chamego&#8221;, como dizem vocês. </em><em>É este o meu canto de Verão</em>.” <strong>Maria Araújo | </strong><a href="http://cantinhodacasa.blogs.sapo.pt/" target="_blank"><strong>Cantinho da Casa</strong></a>
+>   “…<em>E, à noite, quando a lua quer encher-me de romantismo, lá vou eu para a janela, olhá-la e às estrelas, e delirar que apesar de muita maldade por esse nundo fora, a natureza é bela e o homem não conseguira jamais destruir o sol que nos dá a energia , vida, luz, e a lua que nos torna românticos e convida ao &#8220;chamego&#8221;, como dizem vocês. </em><em>É este o meu canto de Verão</em>.” <strong>Maria Araújo | </strong><a href="http://cantinhodacasa.blogs.sapo.pt/" target="_blank" rel="noopener noreferrer"><strong>Cantinho da Casa</strong></a>
 > </p>
 
 &nbsp;
@@ -89,7 +86,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Varanda-Fabiana.jpg"><img class="alignnone size-full wp-image-6883" title="Varanda - Fabiana" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Varanda-Fabiana.jpg" alt="" width="450" height="600" /></a>
+    <a href="https://www.trololodemulher.com.br/2011/09/Varanda-Fabiana.jpg"><img class="alignnone size-full wp-image-6883" title="Varanda - Fabiana" src="https://www.trololodemulher.com.br/2011/09/Varanda-Fabiana.jpg" alt="" width="450" height="600" /></a>
   </p>
   
   <p>
@@ -98,7 +95,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
   
   <blockquote>
     <p align="justify">
-      “…<em>lá também acontecem as reuniões, as festas, bate papos descontraídos, ou simplesmente é o lugar que uso para recarregar as energias depois de uma semana cheia. Amo tomar sol, ler, olhar o céu e os passarinhos que fazem festa nos telhados. </em><em>Brincar com meu amigão Max. Enfim, é na varanda e na área externa que passamos muito tempo no verão…”</em> <strong>Fabiana Tardochi |</strong> <strong><a href="http://www.reciclaredecorar.blogspot.com/" target="_blank">Reciclar e Decorar</a></strong>
+      “…<em>lá também acontecem as reuniões, as festas, bate papos descontraídos, ou simplesmente é o lugar que uso para recarregar as energias depois de uma semana cheia. Amo tomar sol, ler, olhar o céu e os passarinhos que fazem festa nos telhados. </em><em>Brincar com meu amigão Max. Enfim, é na varanda e na área externa que passamos muito tempo no verão…”</em> <strong>Fabiana Tardochi |</strong> <strong><a href="http://www.reciclaredecorar.blogspot.com/" target="_blank" rel="noopener noreferrer">Reciclar e Decorar</a></strong>
     </p>
   </blockquote>
   
@@ -115,7 +112,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Varanda-Lenita.jpg"><img class="alignnone size-full wp-image-6884" title="Varanda - Lenita" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Varanda-Lenita.jpg" alt="" width="600" height="450" /></a>
+    <a href="https://www.trololodemulher.com.br/2011/09/Varanda-Lenita.jpg"><img class="alignnone size-full wp-image-6884" title="Varanda - Lenita" src="https://www.trololodemulher.com.br/2011/09/Varanda-Lenita.jpg" alt="" width="600" height="450" /></a>
   </p>
   
   <p>
@@ -133,7 +130,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Varanda-Lenita2.jpg"><img class="alignnone size-full wp-image-6885" title="Varanda - Lenita[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Varanda-Lenita2.jpg" alt="" width="600" height="450" /></a>
+    <a href="https://www.trololodemulher.com.br/2011/09/Varanda-Lenita2.jpg"><img class="alignnone size-full wp-image-6885" title="Varanda - Lenita[2]" src="https://www.trololodemulher.com.br/2011/09/Varanda-Lenita2.jpg" alt="" width="600" height="450" /></a>
   </p>
   
   <p>
@@ -159,7 +156,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Jardim-Carol-Carneiro.jpg"><img class="alignnone size-full wp-image-6878" title="Jardim - Carol Carneiro" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Jardim-Carol-Carneiro.jpg" alt="" width="450" height="600" /></a>
+    <a href="https://www.trololodemulher.com.br/2011/09/Jardim-Carol-Carneiro.jpg"><img class="alignnone size-full wp-image-6878" title="Jardim - Carol Carneiro" src="https://www.trololodemulher.com.br/2011/09/Jardim-Carol-Carneiro.jpg" alt="" width="450" height="600" /></a>
   </p>
   
   <p>
@@ -177,7 +174,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Jardim-Carol-Carneiro4.jpg"><img class="alignnone size-full wp-image-6882" title="Jardim - Carol Carneiro[4]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Jardim-Carol-Carneiro4.jpg" alt="" width="450" height="600" /></a>
+    <a href="https://www.trololodemulher.com.br/2011/09/Jardim-Carol-Carneiro4.jpg"><img class="alignnone size-full wp-image-6882" title="Jardim - Carol Carneiro[4]" src="https://www.trololodemulher.com.br/2011/09/Jardim-Carol-Carneiro4.jpg" alt="" width="450" height="600" /></a>
   </p>
   
   <p>
@@ -195,7 +192,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Jardim-Carol-Carneiro3.jpg"><img class="alignnone size-full wp-image-6879" title="Jardim - Carol Carneiro[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Jardim-Carol-Carneiro3.jpg" alt="" width="450" height="600" /></a>
+    <a href="https://www.trololodemulher.com.br/2011/09/Jardim-Carol-Carneiro3.jpg"><img class="alignnone size-full wp-image-6879" title="Jardim - Carol Carneiro[3]" src="https://www.trololodemulher.com.br/2011/09/Jardim-Carol-Carneiro3.jpg" alt="" width="450" height="600" /></a>
   </p>
   
   <p>
@@ -204,7 +201,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
   
   <blockquote>
     <p align="justify">
-      “…<em>às vezes vamos pra lá e ficamos conversando&#8230;tudo de bom!” </em><strong><a href="http://www.blogcarolcarneiro.blogspot.com/" target="_blank">Carol Carneiro</a></strong>
+      “…<em>às vezes vamos pra lá e ficamos conversando&#8230;tudo de bom!” </em><strong><a href="http://www.blogcarolcarneiro.blogspot.com/" target="_blank" rel="noopener noreferrer">Carol Carneiro</a></strong>
     </p>
   </blockquote>
   
@@ -249,11 +246,11 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
   </p>
   
   <p align="justify">
-    <strong><a href="http://www.decoracaodacasa.com/decoracao-flores/" target="_blank">Decore sua casa com flores!</a></strong>
+    <strong><a href="http://www.decoracaodacasa.com/decoracao-flores/" target="_blank" rel="noopener noreferrer">Decore sua casa com flores!</a></strong>
   </p>
   
   <p align="justify">
-    <strong><a href="http://www.decoracaodacasa.com/novos-usos-objetos-decoracao/" target="_blank">Novos usos de objetos na decoração: vasos diferentes para flores.</a></strong>
+    <strong><a href="http://www.decoracaodacasa.com/novos-usos-objetos-decoracao/" target="_blank" rel="noopener noreferrer">Novos usos de objetos na decoração: vasos diferentes para flores.</a></strong>
   </p>
   
   <p align="center">

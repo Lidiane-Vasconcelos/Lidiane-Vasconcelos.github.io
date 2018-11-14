@@ -1,10 +1,7 @@
 ---
-id: 2844
 title: 'Chá ou café da tarde com amigas: dicas e ideias'
-date: 2010-07-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/07/12/cha-cafe-da-tarde/
 permalink: /2010/07/12/cha-cafe-da-tarde/
 categories:
   - Casa
@@ -16,7 +13,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Quem me deu a ideia do post foi a Michelle Lynn &#8211; <a href="http://eleganciaurbana.blogspot.com/" target="_blank"><strong>Elegância Urbana</strong> </a>– e eu estou super aberta a mais sugestões no <strong>Facebook</strong> (<strong><em><a href="https://www.facebook.com/TrololoMulher/" target="_blank">me curte?!</a></em></strong>), e eu achei ótimo porque a pesquisa para montar o post rendeu gostosas inspirações. Quer ver?
+  Quem me deu a ideia do post foi a Michelle Lynn &#8211; <a href="http://eleganciaurbana.blogspot.com/" target="_blank" rel="noopener noreferrer"><strong>Elegância Urbana</strong> </a>– e eu estou super aberta a mais sugestões no <strong>Facebook</strong> (<strong><em><a href="https://www.facebook.com/TrololoMulher/" target="_blank" rel="noopener noreferrer">me curte?!</a></em></strong>), e eu achei ótimo porque a pesquisa para montar o post rendeu gostosas inspirações. Quer ver?
 </p>
 
 <p style="text-align: justify;">
@@ -24,7 +21,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  A Rose, do “<a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank">Receitinhas e Frescurinhas</a>”, já fez algo parecido. Sabe por quê? Para comemorar o aniversário. Ela fez e gostou tanto, que deixou recado:
+  A Rose, do “<a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank" rel="noopener noreferrer">Receitinhas e Frescurinhas</a>”, já fez algo parecido. Sabe por quê? Para comemorar o aniversário. Ela fez e gostou tanto, que deixou recado:
 </p>
 
 > <p style="text-align: justify;">
@@ -32,7 +29,7 @@ categories:
 > </p>
 
 <p style="text-align: justify;">
-  Já a <a href="http://www.danigarlet.com.br/" target="_blank">Dani Garlet</a>, que sabe tudo de moda e “desapego <em>fashion</em>”, acha que um chá ou café entre amigas pode ser um excelente motivo para a venda e compra de roupas em ótimo estado, e que as amigas queiram “desapegar”, e explica o porquê:
+  Já a <a href="http://www.danigarlet.com.br/" target="_blank" rel="noopener noreferrer">Dani Garlet</a>, que sabe tudo de moda e “desapego <em>fashion</em>”, acha que um chá ou café entre amigas pode ser um excelente motivo para a venda e compra de roupas em ótimo estado, e que as amigas queiram “desapegar”, e explica o porquê:
 </p>
 
 > <p style="text-align: justify;">
@@ -48,11 +45,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13199" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/CHA-DA-TARDE-AMIGAS2.jpg" alt="cha-da-tarde-amigas2" width="800" height="584" />
+  <img class="alignnone size-full wp-image-13199" src="https://www.trololodemulher.com.br/2016/11/CHA-DA-TARDE-AMIGAS2.jpg" alt="cha-da-tarde-amigas2" width="800" height="584" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/shandilee/4800438606/" target="_blank">Shandi-lee</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Imagem: <a href="https://www.flickr.com/photos/shandilee/4800438606/" target="_blank" rel="noopener noreferrer">Shandi-lee</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND</a>
 </p>
 
 <p style="text-align: center;">
@@ -68,7 +65,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>Coisinhas gostosas, práticas de servir e preparar, devem fazer parte do seu cardápio</em></strong>. A última coisa que se quer é ficar descabelada e desesperada por causa disso, não é verdade? Se é! Pensando nisso, consultei quem entende de cozinha para dar dicas do que pode ir a mesa nesse dia, tudo para que você faça bonito e fique tranquila. As dicas são da Juliana, que comanda o blog “<a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a>”.
+  <strong><em>Coisinhas gostosas, práticas de servir e preparar, devem fazer parte do seu cardápio</em></strong>. A última coisa que se quer é ficar descabelada e desesperada por causa disso, não é verdade? Se é! Pensando nisso, consultei quem entende de cozinha para dar dicas do que pode ir a mesa nesse dia, tudo para que você faça bonito e fique tranquila. As dicas são da Juliana, que comanda o blog “<a href="http://www.pitadinha.com/" target="_blank" rel="noopener noreferrer">Pitadinha</a>”.
 </p>
 
 > <p style="text-align: justify;">
@@ -107,14 +104,14 @@ categories:
 >   <strong><em>Corte o frango em cubos e coloque na mistura de leite, gengibre e mostarda por 30 minutos. </em>Passe na farinha de rosca (ou panko) temperada com sal e leve ao forno pré-aquecido a 180 graus até dourar, </strong><strong>vire e deixe mais 10 minutos. <em>O processo também pode ser feito de véspera, como na receita anterior.”</em></strong>
 > </p>
 
-A Juliana ensina mais algumas receitas: <a href="http://cozinhamagali.blogspot.com/2010/04/torradas-de-alho-vapt-vupt.html" target="_blank">Torradas de alho vapt vupt</a>, <a href="http://cozinhamagali.blogspot.com/2010/06/sobremesa-de-morango.html" target="_blank">sobremesa de morango</a> e <a href="http://cozinhamagali.blogspot.com/2010/06/lisa-maki.html" target="_blank">Lisa-maki</a>. Aqui no **Trololó de Mulher** há ainda mais receitas, muitas com um apelo **saudável**. <a href="http://www.trololodemulher.com.br/category/casa/receitas/" target="_blank">Clique aqui</a> e já anote as que vai reproduzir. Se joga!
+A Juliana ensina mais algumas receitas: <a href="http://cozinhamagali.blogspot.com/2010/04/torradas-de-alho-vapt-vupt.html" target="_blank" rel="noopener noreferrer">Torradas de alho vapt vupt</a>, <a href="http://cozinhamagali.blogspot.com/2010/06/sobremesa-de-morango.html" target="_blank" rel="noopener noreferrer">sobremesa de morango</a> e <a href="http://cozinhamagali.blogspot.com/2010/06/lisa-maki.html" target="_blank" rel="noopener noreferrer">Lisa-maki</a>. Aqui no **Trololó de Mulher** há ainda mais receitas, muitas com um apelo **saudável**. <a href="http://www.trololodemulher.com.br/category/casa/receitas/" target="_blank" rel="noopener noreferrer">Clique aqui</a> e já anote as que vai reproduzir. Se joga!
 
 <p style="text-align: center;">
   <strong>Mesa Posta!</strong>
 </p>
 
 <p style="text-align: justify;">
-  Uma vez que você já sabe o que vai servir, é hora de escolher a louça que vai acomodar as comidinhas, bem como pratos, copos e talheres. Escolha <strong><em>a louça</em></strong> que você pretende usar para bebericar o chá ou café com as amigas sem se preocupar com maiores sofisticações. E você <strong><em>nem precisa ter jogos completos</em></strong>, sabia? Numa ocasião de muito <em>trololó</em> entre as leitoras <strong><em>sobre aquisição de jogos de chá</em></strong>, as sábias observações da Dolly, que edita o blog “<a href="http://www.maryamariah.blogspot.com/" target="_blank">Marya Mariah</a>”, fizeram todo o sentido e são muito valiosas:
+  Uma vez que você já sabe o que vai servir, é hora de escolher a louça que vai acomodar as comidinhas, bem como pratos, copos e talheres. Escolha <strong><em>a louça</em></strong> que você pretende usar para bebericar o chá ou café com as amigas sem se preocupar com maiores sofisticações. E você <strong><em>nem precisa ter jogos completos</em></strong>, sabia? Numa ocasião de muito <em>trololó</em> entre as leitoras <strong><em>sobre aquisição de jogos de chá</em></strong>, as sábias observações da Dolly, que edita o blog “<a href="http://www.maryamariah.blogspot.com/" target="_blank" rel="noopener noreferrer">Marya Mariah</a>”, fizeram todo o sentido e são muito valiosas:
 </p>
 
 > <p style="text-align: justify;">
@@ -122,23 +119,23 @@ A Juliana ensina mais algumas receitas: <a href="http://cozinhamagali.blogspot.c
 > </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12860" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/CASA-ENXOVAL-MESA-POSTA-JOGOS-AMERICANOS2.jpg" alt="CASA-ENXOVAL-MESA POSTA-JOGOS AMERICANOS[2]" width="754" height="749" />
+  <img class="alignnone size-full wp-image-12860" src="https://www.trololodemulher.com.br/2016/08/CASA-ENXOVAL-MESA-POSTA-JOGOS-AMERICANOS2.jpg" alt="CASA-ENXOVAL-MESA POSTA-JOGOS AMERICANOS[2]" width="754" height="749" />
 </p>
 
 <p style="text-align: justify;" align="center">
-  Há muito tempo sou fã dos jogos americanos, e quero te convencer a usar essas lindezas também. Então, oh: <a href="http://www.trololodemulher.com.br/2016/08/30/jogos-americanos/" target="_blank">clique aqui e confira 6 razões para usar jogos americanos à mesa</a>. Deixe a mesa linda de viver para encantar os olhos e coração de suas amigas!
+  Há muito tempo sou fã dos jogos americanos, e quero te convencer a usar essas lindezas também. Então, oh: <a href="http://www.trololodemulher.com.br/2016/08/30/jogos-americanos/" target="_blank" rel="noopener noreferrer">clique aqui e confira 6 razões para usar jogos americanos à mesa</a>. Deixe a mesa linda de viver para encantar os olhos e coração de suas amigas!
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13054" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/FORRO-RENDA-RENASCENCA.jpg" alt="forro-renda-renascenca" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13054" src="https://www.trololodemulher.com.br/2016/10/FORRO-RENDA-RENASCENCA.jpg" alt="forro-renda-renascenca" width="800" height="800" />
 </p>
 
 <p style="text-align: justify;" align="center">
-  Pra quem ama receber com elegância e bom gosto, a dica é servir sobrepondo os copos a um charmoso forro em renda renascença. A ideia apaixonante e esses forrinhos delicados são da <a href="https://www.xiquexiquebrasil.com.br/" target="_blank">Xique Xique Brasil</a>.
+  Pra quem ama receber com elegância e bom gosto, a dica é servir sobrepondo os copos a um charmoso forro em renda renascença. A ideia apaixonante e esses forrinhos delicados são da <a href="https://www.xiquexiquebrasil.com.br/" target="_blank" rel="noopener noreferrer">Xique Xique Brasil</a>.
 </p>
 
 <p style="text-align: justify;">
-  Os <strong><em>detalhes decorativos é que podem fazer toda a diferença</em></strong>, sabia? Um ponto aqui, outro pormenor ali, e todo o conjunto pode impressionar suas convidadas. Duvida? <em>Hum</em>… quem acompanha o “<a href="http://www.casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a>” sabe muito bem que a Katia Bonfadini se delicia recebendo amigos, pelo prazer de recebê-los. A bonita já fez um chá entre amigas, registrou todos os detalhes <a href="http://casosecoisasdabonfa.blogspot.com/search/label/Ch%C3%A1%20entre%20Amigas" target="_blank">aqui</a>, e dá dicas sobre os pormenores decorativos que não podem faltar num evento como esse:
+  Os <strong><em>detalhes decorativos é que podem fazer toda a diferença</em></strong>, sabia? Um ponto aqui, outro pormenor ali, e todo o conjunto pode impressionar suas convidadas. Duvida? <em>Hum</em>… quem acompanha o “<a href="http://www.casosecoisasdabonfa.blogspot.com/" target="_blank" rel="noopener noreferrer">Casos e Coisas da Bonfa</a>” sabe muito bem que a Katia Bonfadini se delicia recebendo amigos, pelo prazer de recebê-los. A bonita já fez um chá entre amigas, registrou todos os detalhes <a href="http://casosecoisasdabonfa.blogspot.com/search/label/Ch%C3%A1%20entre%20Amigas" target="_blank" rel="noopener noreferrer">aqui</a>, e dá dicas sobre os pormenores decorativos que não podem faltar num evento como esse:
 </p>
 
 > <p style="text-align: justify;">
@@ -146,11 +143,11 @@ A Juliana ensina mais algumas receitas: <a href="http://cozinhamagali.blogspot.c
 > </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12750" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-RENDA-MESA-POSTA-ROUPA-DE-MESA-RECEBER.jpg" alt="DECORACAO-RENDA-MESA POSTA-ROUPA DE MESA-RECEBER" width="800" height="800" />
+  <img class="alignnone size-full wp-image-12750" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-RENDA-MESA-POSTA-ROUPA-DE-MESA-RECEBER.jpg" alt="DECORACAO-RENDA-MESA POSTA-ROUPA DE MESA-RECEBER" width="800" height="800" />
 </p>
 
 <p style="text-align: justify;" align="center">
-  Procurando uma dica para incrementar a mesa posta? Sobreponha uma peça de renda ao seu sousplat rústico. A dica apaixonante e de beleza incontestável é das meninas da Xique Xique Brasil, uma loja virtual que oferece uma variedade incrível pra vestir a casa com muito bom gosto. Confira na loja virtual, <a href="https://www.xiquexiquebrasil.com.br/" target="_blank">clicando aqui</a>.
+  Procurando uma dica para incrementar a mesa posta? Sobreponha uma peça de renda ao seu sousplat rústico. A dica apaixonante e de beleza incontestável é das meninas da Xique Xique Brasil, uma loja virtual que oferece uma variedade incrível pra vestir a casa com muito bom gosto. Confira na loja virtual, <a href="https://www.xiquexiquebrasil.com.br/" target="_blank" rel="noopener noreferrer">clicando aqui</a>.
 </p>
 
 <p style="text-align: justify;">
@@ -158,13 +155,13 @@ A Juliana ensina mais algumas receitas: <a href="http://cozinhamagali.blogspot.c
 </p>
 
 <p style="text-align: justify;">
-  A <strong>Xique Xique Brasil</strong> é uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: <strong>Roberta Melo e Maria Cecilia</strong>. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para sua casa. Para conhecer todas as delicadezas da loja, sinta-se à vontade e <a href="http://bit.ly/xxb-tololo" target="_blank">clique aqui</a>. Não deixe de acompanhar as novidades da <strong>Xique Xique Brasil no Facebook</strong>. <a href="https://www.facebook.com/XiqueXiqueBrasil/" target="_blank">Clique aqui, curta</a> e acompanhe! No <strong>Instagram</strong> todas as novidades e lindezas também desfilam lindamente para você: <a href="https://www.instagram.com/xiquexiquebrasil/" target="_blank">clique aqui e siga</a>!
+  A <strong>Xique Xique Brasil</strong> é uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: <strong>Roberta Melo e Maria Cecilia</strong>. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para sua casa. Para conhecer todas as delicadezas da loja, sinta-se à vontade e <a href="http://bit.ly/xxb-tololo" target="_blank" rel="noopener noreferrer">clique aqui</a>. Não deixe de acompanhar as novidades da <strong>Xique Xique Brasil no Facebook</strong>. <a href="https://www.facebook.com/XiqueXiqueBrasil/" target="_blank" rel="noopener noreferrer">Clique aqui, curta</a> e acompanhe! No <strong>Instagram</strong> todas as novidades e lindezas também desfilam lindamente para você: <a href="https://www.instagram.com/xiquexiquebrasil/" target="_blank" rel="noopener noreferrer">clique aqui e siga</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>

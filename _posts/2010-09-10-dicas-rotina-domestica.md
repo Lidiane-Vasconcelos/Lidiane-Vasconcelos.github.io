@@ -1,10 +1,7 @@
 ---
-id: 2872
 title: Dicas para facilitar a rotina doméstica
-date: 2010-09-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/09/10/dicas-rotina-domestica/
 permalink: /2010/09/10/dicas-rotina-domestica/
 categories:
   - Rotina da Casa
@@ -26,7 +23,7 @@ Cristina escreveu assim:_ ****_
 > _“… PRECISO ORGANIZAR MEU DIA A DIA PORQUE, COMO LI ALI EM CIMA, SOU DAQUELAS QUE APAGA INCÊNDIOS DIÁRIOS. ME AJUDE POR FAVOR! BJS CRIS_”
 
 <p style="text-align: justify;">
-  Cristina não é a única a tentar se encontrar no meio de tantos afazeres diários, não é verdade? Todas nós, que somos de carne e osso e bem reais, vivemos essa realidade. A Katia Bonfadini, que edita o <a href="http://www.casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a>, por exemplo, admite:
+  Cristina não é a única a tentar se encontrar no meio de tantos afazeres diários, não é verdade? Todas nós, que somos de carne e osso e bem reais, vivemos essa realidade. A Katia Bonfadini, que edita o <a href="http://www.casosecoisasdabonfa.blogspot.com/" target="_blank" rel="noopener noreferrer">Casos e Coisas da Bonfa</a>, por exemplo, admite:
 </p>
 
 > “_Confesso que não sou uma pessoa super organizada no dia a dia, minhas gavetas tem roupas emboladas e amarrotadas e os sapatos ficam uns sobre os outros dentro dos armários, é uma confusão só!”_
@@ -40,13 +37,13 @@ Mas como é esperado, todas nós temos limites quanto a tolerar a bagunça, e co
 </p>
 
 <p style="text-align: justify;">
-  Quem dá as sugestões no Bicha Fêmea quanto a rotina de cuidados e organização doméstica é a Simone, mãe e blogueira que cuida do espaço virtual <a href="http://newsespacohome.blogspot.com/" target="_blank">ORGANIZAÇÃO COM ESTILO</a>, onde dá dicas de organização úteis a qualquer bicha fêmea navegante.
+  Quem dá as sugestões no Bicha Fêmea quanto a rotina de cuidados e organização doméstica é a Simone, mãe e blogueira que cuida do espaço virtual <a href="http://newsespacohome.blogspot.com/" target="_blank" rel="noopener noreferrer">ORGANIZAÇÃO COM ESTILO</a>, onde dá dicas de organização úteis a qualquer bicha fêmea navegante.
 </p>
 
 > “…_uma casa com crianças não pode ser uma casa “engessada”, temos que dar espaço para elas desenvolverem suas teorias e brincadeiras. Sendo assim, é necessário criar sistemas funcionais que ajudem a manter a Ordem e o Progresso!!! Uma das coisas que funciona para mim é: **acordar mais cedo que a turminha e, enquanto elas sonham com a bagunça, eu já dei uma geral no resto da casa**_**.”**
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/casa.jpg"><img class="size-full wp-image-5148 aligncenter" title="casa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/casa.jpg" alt="" width="400" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/casa.jpg"><img class="size-full wp-image-5148 aligncenter" title="casa" src="https://www.trololodemulher.com.br/2010/08/casa.jpg" alt="" width="400" height="400" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -90,11 +87,11 @@ Facilite a vida! Controle a bagunça!
         E agora? Já está pensando na dica que você pode dividir para aumentar ainda mais essa lista? Então corre nos comentários e conta logo, bonita!!</td> 
         
         <td width="81" valign="top">
-           <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/vassoura.jpg"><img class="alignnone size-full wp-image-5147" title="vassoura" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/vassoura.jpg" alt="" width="116" height="300" /></a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/vassoura.jpg"></a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/vassoura.jpg"></a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/vassoura.jpg"></a>
+           <a href="https://www.trololodemulher.com.br/2010/08/vassoura.jpg"><img class="alignnone size-full wp-image-5147" title="vassoura" src="https://www.trololodemulher.com.br/2010/08/vassoura.jpg" alt="" width="116" height="300" /></a><a href="https://www.trololodemulher.com.br/2010/08/vassoura.jpg"></a><a href="https://www.trololodemulher.com.br/2010/08/vassoura.jpg"></a><a href="https://www.trololodemulher.com.br/2010/08/vassoura.jpg"></a>
         </td></tr> </tbody> </table> 
         
         <p>
-          <em>Imagens: </em><a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+          <em>Imagens: </em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
         </p>
         
         <p>

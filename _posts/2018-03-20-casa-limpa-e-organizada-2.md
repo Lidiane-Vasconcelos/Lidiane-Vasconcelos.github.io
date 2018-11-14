@@ -1,10 +1,7 @@
 ---
-id: 3855
 title: Como ter uma casa limpa e organizada com menos esforço?
-date: 2018-03-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2018/03/20/casa-limpa-e-organizada-2/
 permalink: /2018/03/20/casa-limpa-e-organizada-2/
 categories:
   - Bem-estar
@@ -22,11 +19,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14581" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/03/ROTINA-DOMESTICA-GESTAO-DO-TEMPO-PRODUTIVIDADE-BLOG.jpg" alt="ROTINA DOMESTICA-GESTAO DO TEMPO-PRODUTIVIDADE-BLOG" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14581" src="https://www.trololodemulher.com.br/2018/03/ROTINA-DOMESTICA-GESTAO-DO-TEMPO-PRODUTIVIDADE-BLOG.jpg" alt="ROTINA DOMESTICA-GESTAO DO TEMPO-PRODUTIVIDADE-BLOG" width="800" height="800" />
 </p>
 
 <p align="justify">
-  As inscrições para a turma de Abril já estão abertas, começaremos dia 09. <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Saiba mais clicando aqui</a>, ou entre em contato comigo via WhatsApp: <strong>81 9 9530-7307</strong>.
+  As inscrições para a turma de Abril já estão abertas, começaremos dia 09. <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank" rel="noopener noreferrer">Saiba mais clicando aqui</a>, ou entre em contato comigo via WhatsApp: <strong>81 9 9530-7307</strong>.
 </p>
 
 <p align="justify">
@@ -42,9 +39,9 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/"><img class="wp-image-14554 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/02/PROJETO-LAR-BONITO-LAR-RODAPÉ2.jpg" alt="PROJETO LAR BONITO LAR-RODAPÉ[2]" width="565" height="149" /></a>
+  <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/"><img class="wp-image-14554 size-full" src="https://www.trololodemulher.com.br/2018/02/PROJETO-LAR-BONITO-LAR-RODAPÉ2.jpg" alt="PROJETO LAR BONITO LAR-RODAPÉ[2]" width="565" height="149" /></a>
 </p>

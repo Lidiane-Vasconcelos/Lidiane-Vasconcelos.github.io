@@ -1,10 +1,7 @@
 ---
-id: 3081
 title: Esmalte, batom e sombra… uma explosão de cores no Bicha Fêmea!
-date: 2011-11-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/11/21/esmalte-batom-sombra-cores/
 permalink: /2011/11/21/esmalte-batom-sombra-cores/
 categories:
   - Beleza
@@ -20,7 +17,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Lapis-batom-O-Boticario-.jpg"><img class="alignnone size-full wp-image-8231" title="Lapis batom O Boticario" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Lapis-batom-O-Boticario-.jpg" alt="" width="600" height="395" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/Lapis-batom-O-Boticario-.jpg"><img class="alignnone size-full wp-image-8231" title="Lapis batom O Boticario" src="https://www.trololodemulher.com.br/2011/11/Lapis-batom-O-Boticario-.jpg" alt="" width="600" height="395" /></a>
 </p>
 
 &nbsp;
@@ -30,7 +27,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/PALETA-DE-SOMBRAS-ELF.jpg"><img class="alignnone size-full wp-image-8232" title="PALETA DE SOMBRAS ELF" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/PALETA-DE-SOMBRAS-ELF.jpg" alt="" width="600" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/PALETA-DE-SOMBRAS-ELF.jpg"><img class="alignnone size-full wp-image-8232" title="PALETA DE SOMBRAS ELF" src="https://www.trololodemulher.com.br/2011/11/PALETA-DE-SOMBRAS-ELF.jpg" alt="" width="600" height="600" /></a>
 </p>
 
 &nbsp;
@@ -42,23 +39,23 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Impala-Nude-Classico1.jpg"><img class="alignnone size-full wp-image-8230" title="Impala Nude Classico[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Impala-Nude-Classico1.jpg" alt="" width="174" height="316" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/Impala-Nude-Classico1.jpg"><img class="alignnone size-full wp-image-8230" title="Impala Nude Classico[1]" src="https://www.trololodemulher.com.br/2011/11/Impala-Nude-Classico1.jpg" alt="" width="174" height="316" /></a>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em><strong>Esmaltes: nude!</strong> Combinam com qualquer look, se descascam é mais dificil de perceber e mais fácil de retocar. </em><strong><em>Nude Classico da Impal</em>a</strong>.” <strong>Pauline</strong> | <strong><a href="http://cheiadecharme.blog.br/" target="_blank">Cheia de Charme</a></strong>
+>   “<em><strong>Esmaltes: nude!</strong> Combinam com qualquer look, se descascam é mais dificil de perceber e mais fácil de retocar. </em><strong><em>Nude Classico da Impal</em>a</strong>.” <strong>Pauline</strong> | <strong><a href="http://cheiadecharme.blog.br/" target="_blank" rel="noopener noreferrer">Cheia de Charme</a></strong>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Quarteto-de-sombra-Ouro-24-K-Avon.jpg"><img class="alignnone size-full wp-image-8223" title="Quarteto de sombra Ouro 24 K Avon" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Quarteto-de-sombra-Ouro-24-K-Avon.jpg" alt="" width="290" height="320" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/Quarteto-de-sombra-Ouro-24-K-Avon.jpg"><img class="alignnone size-full wp-image-8223" title="Quarteto de sombra Ouro 24 K Avon" src="https://www.trololodemulher.com.br/2011/11/Quarteto-de-sombra-Ouro-24-K-Avon.jpg" alt="" width="290" height="320" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Quarteto-de-sombra-Glamour-da-Avon.jpg"><img class="alignnone size-full wp-image-8222" title="Quarteto de sombra Glamour da Avon" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Quarteto-de-sombra-Glamour-da-Avon.jpg" alt="" width="400" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/Quarteto-de-sombra-Glamour-da-Avon.jpg"><img class="alignnone size-full wp-image-8222" title="Quarteto de sombra Glamour da Avon" src="https://www.trololodemulher.com.br/2011/11/Quarteto-de-sombra-Glamour-da-Avon.jpg" alt="" width="400" height="400" /></a>
 </p>
 
 &nbsp;
@@ -70,7 +67,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/ESMALTE-RISQUE-COLECAO-ISABELI-FONTANA-COR-ISABELI-.png"><img class="alignnone size-full wp-image-8221" title="ESMALTE RISQUE COLECAO ISABELI FONTANA COR ISABELI" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/ESMALTE-RISQUE-COLECAO-ISABELI-FONTANA-COR-ISABELI-.png" alt="" width="179" height="346" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/ESMALTE-RISQUE-COLECAO-ISABELI-FONTANA-COR-ISABELI-.png"><img class="alignnone size-full wp-image-8221" title="ESMALTE RISQUE COLECAO ISABELI FONTANA COR ISABELI" src="https://www.trololodemulher.com.br/2011/11/ESMALTE-RISQUE-COLECAO-ISABELI-FONTANA-COR-ISABELI-.png" alt="" width="179" height="346" /></a>
 </p>
 
 &nbsp;
@@ -82,7 +79,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/SOMBRA-E-GLOSS-SEPHORA.jpg"><img class="alignnone size-full wp-image-8225" title="SOMBRA E GLOSS SEPHORA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/SOMBRA-E-GLOSS-SEPHORA.jpg" alt="" width="600" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/SOMBRA-E-GLOSS-SEPHORA.jpg"><img class="alignnone size-full wp-image-8225" title="SOMBRA E GLOSS SEPHORA" src="https://www.trololodemulher.com.br/2011/11/SOMBRA-E-GLOSS-SEPHORA.jpg" alt="" width="600" height="400" /></a>
 </p>
 
 &nbsp;
@@ -94,19 +91,19 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Extra-brilho-da-Ana-Hickman.jpg"><img class="alignnone size-full wp-image-8224" title="Extra brilho da Ana Hickman" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Extra-brilho-da-Ana-Hickman.jpg" alt="" width="398" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/Extra-brilho-da-Ana-Hickman.jpg"><img class="alignnone size-full wp-image-8224" title="Extra brilho da Ana Hickman" src="https://www.trololodemulher.com.br/2011/11/Extra-brilho-da-Ana-Hickman.jpg" alt="" width="398" height="600" /></a>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>No quesito <strong>esmalte</strong>&#8230;aí eu gosto de usar e ousar das cores. Aliás, hoje em dia você entrar numa loja que venda esmaltes é de enlouquecer, não? Adoro a escala de cores da Impala, os esmaltes da Colorama e da Risqué. Mas, para aumentar a durabilidade deles, indico esse <strong>extra brilho da Ana Hickman</strong>. É maravilhoso, o esmalte fica como novo e dura mais um pouco.”</em><strong><em> </em>Flávia Mergulhão | <a href="http://ateliedacaie.blogspot.com/" target="_blank">Ateliê da Caiê</a></strong>
+>   “<em>No quesito <strong>esmalte</strong>&#8230;aí eu gosto de usar e ousar das cores. Aliás, hoje em dia você entrar numa loja que venda esmaltes é de enlouquecer, não? Adoro a escala de cores da Impala, os esmaltes da Colorama e da Risqué. Mas, para aumentar a durabilidade deles, indico esse <strong>extra brilho da Ana Hickman</strong>. É maravilhoso, o esmalte fica como novo e dura mais um pouco.”</em><strong><em> </em>Flávia Mergulhão | <a href="http://ateliedacaie.blogspot.com/" target="_blank" rel="noopener noreferrer">Ateliê da Caiê</a></strong>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Batom-Tanned-cor-de-boca-Mary-Kay.jpg"><img class="alignnone size-full wp-image-8217" title="Batom Tanned - cor de boca - Mary Kay" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Batom-Tanned-cor-de-boca-Mary-Kay.jpg" alt="" width="180" height="200" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/Batom-Tanned-cor-de-boca-Mary-Kay.jpg"><img class="alignnone size-full wp-image-8217" title="Batom Tanned - cor de boca - Mary Kay" src="https://www.trololodemulher.com.br/2011/11/Batom-Tanned-cor-de-boca-Mary-Kay.jpg" alt="" width="180" height="200" /></a>
 </p>
 
 &nbsp;
@@ -119,19 +116,19 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/BEIJO-ROUBADO-COLORAMA.jpg"><img class="alignnone size-full wp-image-8218" title="BEIJO ROUBADO - COLORAMA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/BEIJO-ROUBADO-COLORAMA.jpg" alt="" width="150" height="150" /></a>
+        <a href="https://www.trololodemulher.com.br/2011/11/BEIJO-ROUBADO-COLORAMA.jpg"><img class="alignnone size-full wp-image-8218" title="BEIJO ROUBADO - COLORAMA" src="https://www.trololodemulher.com.br/2011/11/BEIJO-ROUBADO-COLORAMA.jpg" alt="" width="150" height="150" /></a>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/COSMOPOLITAN-COLORAMA.jpg"><img class="alignnone size-full wp-image-8219" title="COSMOPOLITAN - COLORAMA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/COSMOPOLITAN-COLORAMA.jpg" alt="" width="150" height="150" /></a>
+        <a href="https://www.trololodemulher.com.br/2011/11/COSMOPOLITAN-COLORAMA.jpg"><img class="alignnone size-full wp-image-8219" title="COSMOPOLITAN - COLORAMA" src="https://www.trololodemulher.com.br/2011/11/COSMOPOLITAN-COLORAMA.jpg" alt="" width="150" height="150" /></a>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/lOVE-RISQUE.jpg"><img class="alignnone size-full wp-image-8220" title="lOVE - RISQUE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/lOVE-RISQUE.jpg" alt="" width="150" height="150" /></a>
+        <a href="https://www.trololodemulher.com.br/2011/11/lOVE-RISQUE.jpg"><img class="alignnone size-full wp-image-8220" title="lOVE - RISQUE" src="https://www.trololodemulher.com.br/2011/11/lOVE-RISQUE.jpg" alt="" width="150" height="150" /></a>
       </p>
     </td>
   </tr>
@@ -140,13 +137,13 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 > <p align="justify">
->   “Atualmente estou na fase dos <strong>vermelhos tanto queimados como bem vivos, e também dos alaranjados.</strong> Acho que combinam com o verão e estão sempre em alta. Gosto muito dos esmaltes da Colorama e da Risque que para mim tem boa durabilidade. E para citar algumas cores que uso com frequência são: <strong>BEIJO ROUBADO – COLORAMA | COSMOPOLITAN – COLORAMA | LOVE – RISQUE</strong>” <strong>Fabiana Tardochi</strong> | <strong><a href="http://www.reciclaredecorar.com/" target="_blank">Reciclar e Decorar</a></strong>
+>   “Atualmente estou na fase dos <strong>vermelhos tanto queimados como bem vivos, e também dos alaranjados.</strong> Acho que combinam com o verão e estão sempre em alta. Gosto muito dos esmaltes da Colorama e da Risque que para mim tem boa durabilidade. E para citar algumas cores que uso com frequência são: <strong>BEIJO ROUBADO – COLORAMA | COSMOPOLITAN – COLORAMA | LOVE – RISQUE</strong>” <strong>Fabiana Tardochi</strong> | <strong><a href="http://www.reciclaredecorar.com/" target="_blank" rel="noopener noreferrer">Reciclar e Decorar</a></strong>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/PSICO-RISQUE.png"><img class="alignnone size-full wp-image-8227" title="PSICO - RISQUE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/PSICO-RISQUE.png" alt="" width="178" height="345" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/PSICO-RISQUE.png"><img class="alignnone size-full wp-image-8227" title="PSICO - RISQUE" src="https://www.trololodemulher.com.br/2011/11/PSICO-RISQUE.png" alt="" width="178" height="345" /></a>
 </p>
 
 &nbsp;
@@ -158,41 +155,41 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Gloss-cor-7-Aquarela-Natura.jpg"><img class="alignnone size-full wp-image-8226" title="Gloss cor 7 Aquarela Natura" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Gloss-cor-7-Aquarela-Natura.jpg" alt="" width="163" height="163" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/Gloss-cor-7-Aquarela-Natura.jpg"><img class="alignnone size-full wp-image-8226" title="Gloss cor 7 Aquarela Natura" src="https://www.trololodemulher.com.br/2011/11/Gloss-cor-7-Aquarela-Natura.jpg" alt="" width="163" height="163" /></a>
 </p>
 
 &nbsp;
 
-> “_**Batom**: só uso **Gloss cor 7 Aquarela Natura**._ “ **Josineide Sousa** | **<a href="http://mulhernota10josisousa.blogspot.com/" target="_blank">Mãe de Meninas</a>**
+> “_**Batom**: só uso **Gloss cor 7 Aquarela Natura**._ “ **Josineide Sousa** | **<a href="http://mulhernota10josisousa.blogspot.com/" target="_blank" rel="noopener noreferrer">Mãe de Meninas</a>**
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/SANTA-GULA-RISQUE.jpg"><img class="alignnone size-full wp-image-8228" title="SANTA GULA - RISQUE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/SANTA-GULA-RISQUE.jpg" alt="" width="600" height="600" /></a>
-</p>
-
-&nbsp;
-
-> <p align="justify">
->   “<em>Esmalte é difícil escolher um só, mas eu adoro o <strong>Santa Gula da Risqué</strong></em>.”<strong> Leticia Fernandes | <a href="http://puxadinhodalets.blogspot.com/" target="_blank">Puxadinho da Lets</a></strong>
-> </p>
-
-&nbsp;
-
-<p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Sombras-Fenzza.jpg"><img class="alignnone size-full wp-image-8229" title="Sombras Fenzza" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Sombras-Fenzza.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/SANTA-GULA-RISQUE.jpg"><img class="alignnone size-full wp-image-8228" title="SANTA GULA - RISQUE" src="https://www.trololodemulher.com.br/2011/11/SANTA-GULA-RISQUE.jpg" alt="" width="600" height="600" /></a>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Bem, eu não sou muito de gastar fortunas com maquiagens caras e esmaltes nem se falam!! :))) Sou adepta do &#8220;Bom & Barato&#8221;. Eu particularmente adoro as <strong>paletas de sombras da Fenzza</strong></em>” <strong>Mayara Mônica</strong> | <strong><a href="http://mayaramonica.blogspot.com/" target="_blank">My Diary</a></strong>
+>   “<em>Esmalte é difícil escolher um só, mas eu adoro o <strong>Santa Gula da Risqué</strong></em>.”<strong> Leticia Fernandes | <a href="http://puxadinhodalets.blogspot.com/" target="_blank" rel="noopener noreferrer">Puxadinho da Lets</a></strong>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Batom-YVS.jpg"><img class="alignnone size-full wp-image-8211" title="Batom YVS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Batom-YVS.jpg" alt="" width="460" height="288" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/Sombras-Fenzza.jpg"><img class="alignnone size-full wp-image-8229" title="Sombras Fenzza" src="https://www.trololodemulher.com.br/2011/11/Sombras-Fenzza.jpg" alt="" width="450" height="600" /></a>
+</p>
+
+&nbsp;
+
+> <p align="justify">
+>   “<em>Bem, eu não sou muito de gastar fortunas com maquiagens caras e esmaltes nem se falam!! :))) Sou adepta do &#8220;Bom & Barato&#8221;. Eu particularmente adoro as <strong>paletas de sombras da Fenzza</strong></em>” <strong>Mayara Mônica</strong> | <strong><a href="http://mayaramonica.blogspot.com/" target="_blank" rel="noopener noreferrer">My Diary</a></strong>
+> </p>
+
+&nbsp;
+
+<p align="center">
+  <a href="https://www.trololodemulher.com.br/2011/11/Batom-YVS.jpg"><img class="alignnone size-full wp-image-8211" title="Batom YVS" src="https://www.trololodemulher.com.br/2011/11/Batom-YVS.jpg" alt="" width="460" height="288" /></a>
 </p>
 
 &nbsp;
@@ -204,7 +201,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/AvonUltraColorRichBatomCorIntensa-500x500.jpg"><img class="alignnone size-full wp-image-8210" title="AvonUltraColorRichBatomCorIntensa-500x500" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/AvonUltraColorRichBatomCorIntensa-500x500.jpg" alt="" width="500" height="500" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/AvonUltraColorRichBatomCorIntensa-500x500.jpg"><img class="alignnone size-full wp-image-8210" title="AvonUltraColorRichBatomCorIntensa-500x500" src="https://www.trololodemulher.com.br/2011/11/AvonUltraColorRichBatomCorIntensa-500x500.jpg" alt="" width="500" height="500" /></a>
 </p>
 
 &nbsp;
@@ -216,7 +213,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/esmalte-colorama-militar.jpg"><img class="alignnone size-full wp-image-8214" title="esmalte-colorama militar" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/esmalte-colorama-militar.jpg" alt="" width="600" height="478" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/esmalte-colorama-militar.jpg"><img class="alignnone size-full wp-image-8214" title="esmalte-colorama militar" src="https://www.trololodemulher.com.br/2011/11/esmalte-colorama-militar.jpg" alt="" width="600" height="478" /></a>
 </p>
 
 &nbsp;
@@ -234,7 +231,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Urban-Decay-Eyesshadoww-Primer-Potion.jpg"><img class="alignnone size-full wp-image-8216" title="Urban Decay Eyesshadoww Primer Potion" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Urban-Decay-Eyesshadoww-Primer-Potion.jpg" alt="" width="320" height="289" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/Urban-Decay-Eyesshadoww-Primer-Potion.jpg"><img class="alignnone size-full wp-image-8216" title="Urban Decay Eyesshadoww Primer Potion" src="https://www.trololodemulher.com.br/2011/11/Urban-Decay-Eyesshadoww-Primer-Potion.jpg" alt="" width="320" height="289" /></a>
 </p>
 
 &nbsp;
@@ -246,7 +243,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/primer-makeb.jpg"><img class="alignnone size-full wp-image-8215" title="primer makeb" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/primer-makeb.jpg" alt="" width="220" height="360" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/primer-makeb.jpg"><img class="alignnone size-full wp-image-8215" title="primer makeb" src="https://www.trololodemulher.com.br/2011/11/primer-makeb.jpg" alt="" width="220" height="360" /></a>
 </p>
 
 &nbsp;
@@ -271,13 +268,13 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem2200.jpg"><img class="alignnone size-full wp-image-6981" title="maquiagem[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem2200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2011/10/03/dicas-de-maquiagem/"><span style="font-size: small;"><br /> Dicas de maquiagem para um visual… “melhor, impossível”!</span></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2011/09/maquiagem2200.jpg"><img class="alignnone size-full wp-image-6981" title="maquiagem[2]200" src="https://www.trololodemulher.com.br/2011/09/maquiagem2200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2011/10/03/dicas-de-maquiagem/"><span style="font-size: small;"><br /> Dicas de maquiagem para um visual… “melhor, impossível”!</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/batom200.jpg"><img class="alignnone size-full wp-image-6785" title="batom200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/batom200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2011/08/17/maquiagem-dicas-truques/"><span style="font-size: small;"><br /> Maquiagem: dicas, truques e pitacos by bichas fêmeas navegantes…</span></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2011/08/batom200.jpg"><img class="alignnone size-full wp-image-6785" title="batom200" src="https://www.trololodemulher.com.br/2011/08/batom200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2011/08/17/maquiagem-dicas-truques/"><span style="font-size: small;"><br /> Maquiagem: dicas, truques e pitacos by bichas fêmeas navegantes…</span></a></strong>
       </p>
     </td>
   </tr>
@@ -287,13 +284,13 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/dicas-maquiagem-pele-negra200.jpg"><img class="alignnone size-full wp-image-6430" title="dicas maquiagem pele negra200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/dicas-maquiagem-pele-negra200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/05/27/maquiagem-peles-negras/"><span style="font-size: small;"><br /> Dicas de beleza: maquiagem para peles negras.</span></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2011/05/dicas-maquiagem-pele-negra200.jpg"><img class="alignnone size-full wp-image-6430" title="dicas maquiagem pele negra200" src="https://www.trololodemulher.com.br/2011/05/dicas-maquiagem-pele-negra200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/05/27/maquiagem-peles-negras/"><span style="font-size: small;"><br /> Dicas de beleza: maquiagem para peles negras.</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/maos-e-unhas200.jpg"><img class="alignnone size-full wp-image-6369" title="mãos e unhas200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/maos-e-unhas200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2011/05/maos-e-unhas200.jpg"><img class="alignnone size-full wp-image-6369" title="mãos e unhas200" src="https://www.trololodemulher.com.br/2011/05/maos-e-unhas200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -323,13 +320,13 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="http://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     

@@ -1,10 +1,7 @@
 ---
-id: 2935
 title: 'Quartos: soluções de decoração para ganhar espaço.'
-date: 2011-01-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/01/19/quartos-decoracao-pouco-espaco/
 permalink: /2011/01/19/quartos-decoracao-pouco-espaco/
 categories:
   - Pequenos Espaços
@@ -19,7 +16,7 @@ categories:
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/prateleira-ao-lado-da-cama.jpg"><img class="alignnone size-full wp-image-5726" title="prateleira ao lado da cama" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/prateleira-ao-lado-da-cama.jpg" alt="" width="300" height="333" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/prateleira-ao-lado-da-cama.jpg"><img class="alignnone size-full wp-image-5726" title="prateleira ao lado da cama" src="https://www.trololodemulher.com.br/2010/12/prateleira-ao-lado-da-cama.jpg" alt="" width="300" height="333" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -33,7 +30,7 @@ categories:
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200.jpg"><img class="alignnone size-full wp-image-5442" title="Caixa Moa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200.jpg" alt="" width="200" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/11/Caixa-Moa200.jpg"><img class="alignnone size-full wp-image-5442" title="Caixa Moa200" src="https://www.trololodemulher.com.br/2010/11/Caixa-Moa200.jpg" alt="" width="200" height="200" /></a>
     </td>
     
     <td width="300" valign="top">
@@ -46,7 +43,7 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        <em>A </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank"><em><strong>Caixa Moa</strong> </em></a><em>está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank">basta clicar</a></strong>!</em>
+        <em>A </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank" rel="noopener noreferrer"><em><strong>Caixa Moa</strong> </em></a><em>está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
       </p>
     </td>
   </tr>
@@ -56,12 +53,12 @@ categories:
       <em> </em><em>Espalhe mimos decorativos pela casa e deixe seu canto cheio de bossa! O que faz bem aos olhos, só pode fazer muito bem a todo o resto também… e não é o que te parece esse regador provençal?</em></p> 
       
       <p style="text-align: justify;">
-        <em>O </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank"><em><strong>Regador Provençal</strong> </em></a><em>está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank">basta clicar</a></strong>!</em>
+        <em>O </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank" rel="noopener noreferrer"><em><strong>Regador Provençal</strong> </em></a><em>está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
       </p>
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Regador-Provencal200.jpg"><img class="alignnone size-full wp-image-5441" title="Regador Provençal200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Regador-Provencal200.jpg" alt="" width="200" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/11/Regador-Provencal200.jpg"><img class="alignnone size-full wp-image-5441" title="Regador Provençal200" src="https://www.trololodemulher.com.br/2010/11/Regador-Provencal200.jpg" alt="" width="200" height="200" /></a>
     </td>
   </tr>
 </table>
@@ -69,7 +66,7 @@ categories:
  
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/banco-de-apoio-+-mesa-de-cabeceira-com-malas.jpg"><img class="alignnone size-full wp-image-5722" title="banco de apoio + mesa de cabeceira com malas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/banco-de-apoio-+-mesa-de-cabeceira-com-malas.jpg" alt="" width="300" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/banco-de-apoio-+-mesa-de-cabeceira-com-malas.jpg"><img class="alignnone size-full wp-image-5722" title="banco de apoio + mesa de cabeceira com malas" src="https://www.trololodemulher.com.br/2010/12/banco-de-apoio-+-mesa-de-cabeceira-com-malas.jpg" alt="" width="300" height="400" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -81,7 +78,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/caixas-na-mesa-de-cabeceira.jpg"><img class="alignnone size-full wp-image-5723" title="caixas na mesa de cabeceira" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/caixas-na-mesa-de-cabeceira.jpg" alt="" width="300" height="333" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/caixas-na-mesa-de-cabeceira.jpg"><img class="alignnone size-full wp-image-5723" title="caixas na mesa de cabeceira" src="https://www.trololodemulher.com.br/2010/12/caixas-na-mesa-de-cabeceira.jpg" alt="" width="300" height="333" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -95,20 +92,20 @@ categories:
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-Redonda-Vintage200.jpg"><img class="alignnone size-full wp-image-5727" title="Caixa Redonda Vintage200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-Redonda-Vintage200.jpg" alt="" width="200" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/12/Caixa-Redonda-Vintage200.jpg"><img class="alignnone size-full wp-image-5727" title="Caixa Redonda Vintage200" src="https://www.trololodemulher.com.br/2010/12/Caixa-Redonda-Vintage200.jpg" alt="" width="200" height="200" /></a>
     </td>
     
     <td style="text-align: justify;" width="300" valign="top">
       <em>Caixas organizam, porque cada uma delas ganha um propósito e tudo fica no seu devido lugar. E se além disso elas ainda pudessem decorar? Aquele canto da casa, do closet ou de onde você imaginar pode ganhar charme com caixas artesanais e personalizadas. É ou não é? Organize, decore ou presenteie de forma diferente com caixas assim!</em></p> 
       
       <p style="text-align: justify;">
-        <em>A </em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank"><em><strong>Caixa Redonda Vintage</strong>  </em></a><em>está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank">basta clicar</a></strong>!</em>
+        <em>A </em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank" rel="noopener noreferrer"><em><strong>Caixa Redonda Vintage</strong>  </em></a><em>está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
       </p>
     </td>
   </tr>
 </table>
 
-_Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Gardens</em></a>
+_Imagens:_ <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer"><em>Better Homes and Gardens</em></a>
 
 **Mais no Bicha Fêmea…**
 

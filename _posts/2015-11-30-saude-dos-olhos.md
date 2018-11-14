@@ -1,10 +1,7 @@
 ---
-id: 3517
 title: Quais os benefícios da boa alimentação na saúde dos olhos?
-date: 2015-11-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/11/30/saude-dos-olhos/
 permalink: /2015/11/30/saude-dos-olhos/
 categories:
   - Saúde
@@ -14,11 +11,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/11/ALIMENTACAO-SAUDE-OCULAR-SAUDE-DOS-OLHOS.jpg"><img class="alignnone size-full wp-image-11707" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/11/ALIMENTACAO-SAUDE-OCULAR-SAUDE-DOS-OLHOS.jpg" alt="ALIMENTACAO-SAUDE OCULAR-SAUDE DOS OLHOS" width="800" height="532" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/11/ALIMENTACAO-SAUDE-OCULAR-SAUDE-DOS-OLHOS.jpg"><img class="alignnone size-full wp-image-11707" src="https://www.trololodemulher.com.br/2015/11/ALIMENTACAO-SAUDE-OCULAR-SAUDE-DOS-OLHOS.jpg" alt="ALIMENTACAO-SAUDE OCULAR-SAUDE DOS OLHOS" width="800" height="532" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: <a href="http://www.laughandpee.com/" target="_blank" rel="noopener noreferrer">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank" rel="noopener noreferrer">Gratisography</a>
 </p>
 
 <p align="center">
@@ -26,7 +23,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em>Manter a saúde depende basicamente de 5 fatores: </em><a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank"><em>alimentação saudável</em></a><em>, exercício físico, sono de qualidade, </em><a href="http://www.trololodemulher.com.br/2011/06/03/agua-saude-2/" target="_blank"><em>água</em></a><em> e </em><a href="http://www.belezacorpoecia.com/como-relaxar-tensoes/" target="_blank"><em>administração do estresse</em></a><em>. No organismo, qualquer órgão ou sistema é regulado eficientemente quando todas essas variáveis estão em equilíbrio. O que aconteceu com a humanidade ao longo do tempo foi uma transgressão às regras básicas de saúde. Escolhas equivocadas fizeram com que o grande avanço científico e tecnológico na Medicina nos tornasse mais longevos&#8230; mas sem a qualidade de vida esperada. </em>
+  <em>Manter a saúde depende basicamente de 5 fatores: </em><a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank" rel="noopener noreferrer"><em>alimentação saudável</em></a><em>, exercício físico, sono de qualidade, </em><a href="http://www.trololodemulher.com.br/2011/06/03/agua-saude-2/" target="_blank" rel="noopener noreferrer"><em>água</em></a><em> e </em><a href="http://www.belezacorpoecia.com/como-relaxar-tensoes/" target="_blank" rel="noopener noreferrer"><em>administração do estresse</em></a><em>. No organismo, qualquer órgão ou sistema é regulado eficientemente quando todas essas variáveis estão em equilíbrio. O que aconteceu com a humanidade ao longo do tempo foi uma transgressão às regras básicas de saúde. Escolhas equivocadas fizeram com que o grande avanço científico e tecnológico na Medicina nos tornasse mais longevos&#8230; mas sem a qualidade de vida esperada. </em>
 </p>
 
 <p style="text-align: justify;">
@@ -68,23 +65,23 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA-ELIZABETH-NAVARRETE.png"><img class="alignnone size-full wp-image-10588" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA-ELIZABETH-NAVARRETE.png" alt="SAUDE-OLHOS-VISAO-OFTALMOLOGIA-ELIZABETH NAVARRETE" width="800" height="251" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA-ELIZABETH-NAVARRETE.png"><img class="alignnone size-full wp-image-10588" src="https://www.trololodemulher.com.br/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA-ELIZABETH-NAVARRETE.png" alt="SAUDE-OLHOS-VISAO-OFTALMOLOGIA-ELIZABETH NAVARRETE" width="800" height="251" /></a>
 </p>
 
 &nbsp;
 
 **Mais consultorias da Dra. Elizabeth:**
 
-**<a href="http://www.trololodemulher.com.br/2014/11/12/saude-olhos-visao-oftalmologia/" target="_blank">Saúde do olhos: saiba 5 verdades simples e básicas.</a>**
+**<a href="http://www.trololodemulher.com.br/2014/11/12/saude-olhos-visao-oftalmologia/" target="_blank" rel="noopener noreferrer">Saúde do olhos: saiba 5 verdades simples e básicas.</a>**
 
 &nbsp;
 
 <p align="justify">
-  A Dra. Elizabeth Navarrete faz um trabalho incrível na blogosfera, bonita! Se você não conhece, mas é dessas mulheres que acham importante estar bem informada para ter boa saúde e cuidar bem de sua família, não deixe de conferir o espaço da Dra. Em <a href="http://elizabethnavarrete.com/" target="_blank">seu blog, que você acessa clicando aqui</a>, ela costuma responder as dúvidas dos leitores sobre saúde ocular. Cada pergunta pode virar um post! Além do mais, você ainda pode encontrá-la em duas páginas no Facebook: <a href="https://www.facebook.com/duvidasemoftalmologia?fref=ts" target="_blank">Oftalmologia para leigos</a> e <a href="https://www.facebook.com/pages/D%C3%BAvidas-em-Oftalmologia/370703669761685?fref=ts" target="_blank">Dúvidas em Oftalmologia</a>. Curta e informe-se!!!
+  A Dra. Elizabeth Navarrete faz um trabalho incrível na blogosfera, bonita! Se você não conhece, mas é dessas mulheres que acham importante estar bem informada para ter boa saúde e cuidar bem de sua família, não deixe de conferir o espaço da Dra. Em <a href="http://elizabethnavarrete.com/" target="_blank" rel="noopener noreferrer">seu blog, que você acessa clicando aqui</a>, ela costuma responder as dúvidas dos leitores sobre saúde ocular. Cada pergunta pode virar um post! Além do mais, você ainda pode encontrá-la em duas páginas no Facebook: <a href="https://www.facebook.com/duvidasemoftalmologia?fref=ts" target="_blank" rel="noopener noreferrer">Oftalmologia para leigos</a> e <a href="https://www.facebook.com/pages/D%C3%BAvidas-em-Oftalmologia/370703669761685?fref=ts" target="_blank" rel="noopener noreferrer">Dúvidas em Oftalmologia</a>. Curta e informe-se!!!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

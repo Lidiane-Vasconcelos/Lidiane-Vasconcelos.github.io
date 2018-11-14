@@ -1,15 +1,12 @@
 ---
-id: 3013
 title: 'O Bicha Fêma agora tem um irmão: Decoração da Casa.com'
-date: 2011-06-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/06/20/decoracao-da-casa/
 permalink: /2011/06/20/decoracao-da-casa/
 categories:
   - Trololó
 ---
-Pois é… o **Bicha Fêmea** está ganhando um irmão mais novo: **<a href="http://www.decoracaodacasa.com/" target="_blank">Decoração da Casa</a>**. Se eu te disser que fiquei bem ansiosa para essa apresentação você acredita? Creia! Estou ansiosa para mais esse passo nessa minha vida deliciosa de blogueira…
+Pois é… o **Bicha Fêmea** está ganhando um irmão mais novo: **<a href="http://www.decoracaodacasa.com/" target="_blank" rel="noopener noreferrer">Decoração da Casa</a>**. Se eu te disser que fiquei bem ansiosa para essa apresentação você acredita? Creia! Estou ansiosa para mais esse passo nessa minha vida deliciosa de blogueira…
 
 <p style="text-align: justify;">
   Sei que há quem tenha mais de um blog para dar conta, e eu sempre achei que isso seria bem desafiador, porque abastecer apenas um blog com conteúdo não é fácil… imagine dois?! Decidi topar o desafio…
@@ -26,7 +23,7 @@ Pois é… o **Bicha Fêmea** está ganhando um irmão mais novo: **<a href="htt
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/Decoracao-da-Casa1.jpg"><img class="alignnone size-full wp-image-6537" title="Decoração da Casa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/Decoracao-da-Casa1.jpg" alt="" width="600" height="388" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/Decoracao-da-Casa1.jpg"><img class="alignnone size-full wp-image-6537" title="Decoração da Casa" src="https://www.trololodemulher.com.br/2011/06/Decoracao-da-Casa1.jpg" alt="" width="600" height="388" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -54,15 +51,15 @@ Pois é… o **Bicha Fêmea** está ganhando um irmão mais novo: **<a href="htt
 </p>
 
 <p style="text-align: center;">
-  1 – <strong><a href="http://www.decoracaodacasa.com/cortinas-ideias-decoracao/" target="_blank">Cortinas</a></strong>;
+  1 – <strong><a href="http://www.decoracaodacasa.com/cortinas-ideias-decoracao/" target="_blank" rel="noopener noreferrer">Cortinas</a></strong>;
 </p>
 
 <p style="text-align: center;">
-  2 – <strong><a href="http://www.decoracaodacasa.com/cortinas-ideias-decoracao/" target="_blank">Organização da área de entrada</a></strong>;
+  2 – <strong><a href="http://www.decoracaodacasa.com/cortinas-ideias-decoracao/" target="_blank" rel="noopener noreferrer">Organização da área de entrada</a></strong>;
 </p>
 
 <p style="text-align: center;">
-  3 – <strong><a href="http://www.decoracaodacasa.com/quarto-preto-branco/" target="_blank">Quarto preto&branco</a></strong>.
+  3 – <strong><a href="http://www.decoracaodacasa.com/quarto-preto-branco/" target="_blank" rel="noopener noreferrer">Quarto preto&branco</a></strong>.
 </p>
 
 Daqui para frente, é assim, só conteúdo inédito!
@@ -72,19 +69,19 @@ Daqui para frente, é assim, só conteúdo inédito!
 </p>
 
 <p style="text-align: center;">
-  1 – Recebendo o conteúdo de <strong>posts no seu e-mail </strong><a href="http://feedburner.google.com/fb/a/mailverify?uri=DecoracaoDaCasa&loc=en_US" target="_blank"><strong>clicando aqui</strong></a>;
+  1 – Recebendo o conteúdo de <strong>posts no seu e-mail </strong><a href="http://feedburner.google.com/fb/a/mailverify?uri=DecoracaoDaCasa&loc=en_US" target="_blank" rel="noopener noreferrer"><strong>clicando aqui</strong></a>;
 </p>
 
 <p style="text-align: center;">
-  2 – Pelo <strong>Twitter</strong>, seguindo por <strong><a href="http://twitter.com/#!/DecoracaoDaCasa" target="_blank">este link aqui</a></strong>;
+  2 – Pelo <strong>Twitter</strong>, seguindo por <strong><a href="http://twitter.com/#!/DecoracaoDaCasa" target="_blank" rel="noopener noreferrer">este link aqui</a></strong>;
 </p>
 
 <p style="text-align: center;">
-  3 – Pelo <strong>Facebook</strong>, <strong><a href="http://www.facebook.com/profile.php?id=100002529584839" target="_blank">clicando aqui</a></strong>.
+  3 – Pelo <strong>Facebook</strong>, <strong><a href="http://www.facebook.com/profile.php?id=100002529584839" target="_blank" rel="noopener noreferrer">clicando aqui</a></strong>.
 </p>
 
 <p style="text-align: justify;">
-  Então é isso, bonita! De hoje em diante a gente se encontra em mais um ponto da blogosfera… se quiser conhecer o Decoração da Casa >>> <strong><a href="http://www.decoracaodacasa.com/" target="_blank">basta clicar</a></strong> >>> e seja bem vinda!
+  Então é isso, bonita! De hoje em diante a gente se encontra em mais um ponto da blogosfera… se quiser conhecer o Decoração da Casa >>> <strong><a href="http://www.decoracaodacasa.com/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong> >>> e seja bem vinda!
 </p>
 
 <p style="text-align: center;">

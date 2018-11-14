@@ -1,10 +1,7 @@
 ---
-id: 2800
 title: Excesso de lanches pode estar contribuindo para a obesidade infantil
-date: 2010-04-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/04/12/obesidade-infantil/
 permalink: /2010/04/12/obesidade-infantil/
 categories:
   - Saúde
@@ -22,14 +19,14 @@ Nossa rotina alimentar deve constar de seis refeições, sendo três refeições
 Muitos pais não se preocupam quando a criança começa a engordar, pois acreditam que é apenas uma fase, e que ao entrar na adolescência ela esticará e ficará magra novamente.
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/crianca.jpg"><img class="size-medium wp-image-4936 aligncenter" title="criança" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/crianca-180x300.jpg" alt="" width="180" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/crianca.jpg"><img class="size-medium wp-image-4936 aligncenter" title="criança" src="https://www.trololodemulher.com.br/2010/07/crianca-180x300.jpg" alt="" width="180" height="300" /></a>
 </p>
 
 As últimas estatísticas mostram que 30% das crianças, entre 6-19 anos de idade, nos EUA, estão com sobrepeso ou obesas, o que as coloca em um risco crescente para doenças crônicas, como doenças cardíacas, hipertensão arterial, diabetes e problemas emocionais na adolescência e idade adulta.
 
 Os fatores emocionais também contribuem na prevalência da obesidade. Muitas crianças sofrem desde pequenas com comentários e rótulos que lhe são conferidos em função do sobrepeso e obesidade, sendo importante o acompanhamento do psicólogo nesse processo, como forma de resgate da auto estima, e canalização das emoções de forma a não interferirem na sua relação com a alimentação.
 
-**<a href="http://blog.comportamentomagro.com.br/" target="_blank">Luciana Kotaka</a>**
+**<a href="http://blog.comportamentomagro.com.br/" target="_blank" rel="noopener noreferrer">Luciana Kotaka</a>**
   
 Especialista em Obesidade e Transtornos Alimentares
   
@@ -37,7 +34,7 @@ Curitiba-PR
 
 **Quer ser uma bicha fêmea colaboradora também? Fácil! <a href="http://www.trololodemulher.com.br/colabore/" target="_self"><em>Clica aqui</em> </a>e saiba como.**
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 
 **Mais no Bicha Fêmea&#8230;**
 

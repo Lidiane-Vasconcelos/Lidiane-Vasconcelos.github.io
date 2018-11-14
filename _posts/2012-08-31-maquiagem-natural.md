@@ -1,10 +1,7 @@
 ---
-id: 3178
 title: 'Maquiagem como se a gente estivesse sem ela: isso é mesmo possível?'
-date: 2012-08-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/08/31/maquiagem-natural/
 permalink: /2012/08/31/maquiagem-natural/
 categories:
   - Beleza
@@ -20,7 +17,7 @@ Para quem é adepta de um visual _superultramega_ natural, isso seria o máximo!
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9068" rel="attachment wp-att-9068"><img class="alignnone size-full wp-image-9068" title="BELEZA-MAQUIAGEM-NATURAL" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/BELEZA-MAQUIAGEM-NATURAL.png" alt="" width="249" height="238" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9068" rel="attachment wp-att-9068"><img class="alignnone size-full wp-image-9068" title="BELEZA-MAQUIAGEM-NATURAL" src="https://www.trololodemulher.com.br/2012/08/BELEZA-MAQUIAGEM-NATURAL.png" alt="" width="249" height="238" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
@@ -46,11 +43,11 @@ Para quem é adepta de um visual _superultramega_ natural, isso seria o máximo!
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9072" rel="attachment wp-att-9072"><img class="alignnone size-full wp-image-9072" title="JOICE FOGASSI[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/JOICE-FOGASSI2.png" alt="" width="566" height="314" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9072" rel="attachment wp-att-9072"><img class="alignnone size-full wp-image-9072" title="JOICE FOGASSI[2]" src="https://www.trololodemulher.com.br/2012/08/JOICE-FOGASSI2.png" alt="" width="566" height="314" /></a>
 </p>
 
 <p align="justify">
-  Preciso dizer que acompanhar o blog da Joice é certeza de conteúdo informativo, de qualidade, e escrito para todas nós, mulheres com necessidades bem reais. O que a gente quer é se ver no conteúdo de um blog, certo? Então o blog <strong><a href="http://joicemicropigmentacaomaquiagem.blogspot.com.br/" target="_blank">Joice Fogassi</a></strong> é o seu lugar. Se joga e <strong><a href="http://joicemicropigmentacaomaquiagem.blogspot.com.br/" target="_blank">clica aqui</a></strong>…
+  Preciso dizer que acompanhar o blog da Joice é certeza de conteúdo informativo, de qualidade, e escrito para todas nós, mulheres com necessidades bem reais. O que a gente quer é se ver no conteúdo de um blog, certo? Então o blog <strong><a href="http://joicemicropigmentacaomaquiagem.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Joice Fogassi</a></strong> é o seu lugar. Se joga e <strong><a href="http://joicemicropigmentacaomaquiagem.blogspot.com.br/" target="_blank" rel="noopener noreferrer">clica aqui</a></strong>…
 </p>
 
 <p align="center">
@@ -61,7 +58,7 @@ Para quem é adepta de um visual _superultramega_ natural, isso seria o máximo!
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/corpo/maquiagem-sombra200/" rel="attachment wp-att-8811"><img class="alignnone size-full wp-image-8811" title="MAQUIAGEM - SOMBRA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/MAQUIAGEM-SOMBRA200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/corpo/maquiagem-sombra200/" rel="attachment wp-att-8811"><img class="alignnone size-full wp-image-8811" title="MAQUIAGEM - SOMBRA200" src="https://www.trololodemulher.com.br/2012/06/MAQUIAGEM-SOMBRA200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -71,7 +68,7 @@ Para quem é adepta de um visual _superultramega_ natural, isso seria o máximo!
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/corpo/mascara-para-cilios200/" rel="attachment wp-att-8629"><img class="alignnone size-full wp-image-8629" title="MASCARA PARA CILIOS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/MASCARA-PARA-CILIOS200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/corpo/mascara-para-cilios200/" rel="attachment wp-att-8629"><img class="alignnone size-full wp-image-8629" title="MASCARA PARA CILIOS200" src="https://www.trololodemulher.com.br/2012/03/MASCARA-PARA-CILIOS200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -83,7 +80,7 @@ Para quem é adepta de um visual _superultramega_ natural, isso seria o máximo!
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/12/05/produtos-de-beleza/batom-yvs200/" rel="attachment wp-att-8213"><img class="alignnone size-full wp-image-8213" title="Batom YVS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Batom-YVS200.jpg" alt="" width="200" height="200" /></a>
+        <a href="http://www.trololodemulher.com.br/2011/12/05/produtos-de-beleza/batom-yvs200/" rel="attachment wp-att-8213"><img class="alignnone size-full wp-image-8213" title="Batom YVS200" src="https://www.trololodemulher.com.br/2011/11/Batom-YVS200.jpg" alt="" width="200" height="200" /></a>
       </p>
       
       <p align="center">
@@ -93,7 +90,7 @@ Para quem é adepta de um visual _superultramega_ natural, isso seria o máximo!
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/maquiagem2200/" rel="attachment wp-att-6981"><img class="alignnone size-full wp-image-6981" title="maquiagem[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem2200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
+        <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/maquiagem2200/" rel="attachment wp-att-6981"><img class="alignnone size-full wp-image-6981" title="maquiagem[2]200" src="https://www.trololodemulher.com.br/2011/09/maquiagem2200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
       </p>
       
       <p align="center">
@@ -105,7 +102,7 @@ Para quem é adepta de um visual _superultramega_ natural, isso seria o máximo!
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/batom200-2/" rel="attachment wp-att-6785"><img class="alignnone size-full wp-image-6785" title="batom200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/batom200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
+        <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/batom200-2/" rel="attachment wp-att-6785"><img class="alignnone size-full wp-image-6785" title="batom200" src="https://www.trololodemulher.com.br/2011/08/batom200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
       </p>
       
       <p align="center">
@@ -115,7 +112,7 @@ Para quem é adepta de um visual _superultramega_ natural, isso seria o máximo!
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/dicas-maquiagem-pele-negra200/" rel="attachment wp-att-6430"><img class="alignnone size-full wp-image-6430" title="dicas maquiagem pele negra200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/dicas-maquiagem-pele-negra200.jpg" alt="" width="200" height="200" /></a>
+        <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/dicas-maquiagem-pele-negra200/" rel="attachment wp-att-6430"><img class="alignnone size-full wp-image-6430" title="dicas maquiagem pele negra200" src="https://www.trololodemulher.com.br/2011/05/dicas-maquiagem-pele-negra200.jpg" alt="" width="200" height="200" /></a>
       </p>
       
       <p align="center">
@@ -126,7 +123,7 @@ Para quem é adepta de um visual _superultramega_ natural, isso seria o máximo!
 </table>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -141,13 +138,13 @@ Para quem é adepta de um visual _superultramega_ natural, isso seria o máximo!
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

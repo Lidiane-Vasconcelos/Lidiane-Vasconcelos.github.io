@@ -1,10 +1,7 @@
 ---
-id: 2918
 title: 'Video-receita: Barrita de Coco'
-date: 2010-12-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/12/01/video-receita-barrita-de-coco/
 permalink: /2010/12/01/video-receita-barrita-de-coco/
 categories:
   - Receitas
@@ -31,7 +28,7 @@ Espero que gostem!
   
   <tr>
     <td width="600" valign="top">
-      <a href="http://www.pitadinha.com/" target="_blank">Pitadinha.com</a>
+      <a href="http://www.pitadinha.com/" target="_blank" rel="noopener noreferrer">Pitadinha.com</a>
     </td>
   </tr>
 </table>

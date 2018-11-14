@@ -1,10 +1,7 @@
 ---
-id: 3356
 title: 'Café x saúde: quando é que ele é mocinho ou vilão?'
-date: 2014-10-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/10/13/cafe-saude-alimentacao/
 permalink: /2014/10/13/cafe-saude-alimentacao/
 categories:
   - Saúde
@@ -18,11 +15,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/SAUDE-ALIMENTACAO-SAUDAVEL-CAFE.jpg"><img class="alignnone size-full wp-image-10485" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/SAUDE-ALIMENTACAO-SAUDAVEL-CAFE.jpg" alt="SAUDE-ALIMENTACAO SAUDAVEL-CAFE" width="425" height="640" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/SAUDE-ALIMENTACAO-SAUDAVEL-CAFE.jpg"><img class="alignnone size-full wp-image-10485" src="https://www.trololodemulher.com.br/2014/10/SAUDE-ALIMENTACAO-SAUDAVEL-CAFE.jpg" alt="SAUDE-ALIMENTACAO SAUDAVEL-CAFE" width="425" height="640" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://br.pinterest.com/pin/193091902746536929/" target="_blank">Pinterest</a>
+  Imagem: <a href="http://br.pinterest.com/pin/193091902746536929/" target="_blank" rel="noopener noreferrer">Pinterest</a>
 </p>
 
 **Trololó de Mulher >>> Qual o problema de consumir café em excesso?**
@@ -56,15 +53,15 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/SAUDE-ALIMENTACAO-SAUDAVEL-CAFE2.jpg"><img class="alignnone size-full wp-image-10486" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/SAUDE-ALIMENTACAO-SAUDAVEL-CAFE2.jpg" alt="SAUDE-ALIMENTACAO SAUDAVEL-CAFE[2]" width="639" height="360" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/SAUDE-ALIMENTACAO-SAUDAVEL-CAFE2.jpg"><img class="alignnone size-full wp-image-10486" src="https://www.trololodemulher.com.br/2014/10/SAUDE-ALIMENTACAO-SAUDAVEL-CAFE2.jpg" alt="SAUDE-ALIMENTACAO SAUDAVEL-CAFE[2]" width="639" height="360" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.lacase.mu/fr/maison-pratique/marc-de-cafe-la-solution-des-menageres-ecolos-908" target="_blank">Lacase</a>
+  Imagem: <a href="http://www.lacase.mu/fr/maison-pratique/marc-de-cafe-la-solution-des-menageres-ecolos-908" target="_blank" rel="noopener noreferrer">Lacase</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MITO-OU-REALIDADE.png"><img class="alignnone size-full wp-image-10484" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MITO-OU-REALIDADE.png" alt="MITO OU REALIDADE" width="800" height="100" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/MITO-OU-REALIDADE.png"><img class="alignnone size-full wp-image-10484" src="https://www.trololodemulher.com.br/2014/10/MITO-OU-REALIDADE.png" alt="MITO OU REALIDADE" width="800" height="100" /></a>
 </p>
 
 <p align="justify">
@@ -92,7 +89,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/NUTRICIONISTA-PAMELA-MIGUEL-SAO-PAULO.png"><img class="alignnone size-full wp-image-9797" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/NUTRICIONISTA-PAMELA-MIGUEL-SAO-PAULO.png" alt="NUTRICIONISTA-PAMELA MIGUEL-SAO PAULO" width="518" height="304" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/09/NUTRICIONISTA-PAMELA-MIGUEL-SAO-PAULO.png"><img class="alignnone size-full wp-image-9797" src="https://www.trololodemulher.com.br/2013/09/NUTRICIONISTA-PAMELA-MIGUEL-SAO-PAULO.png" alt="NUTRICIONISTA-PAMELA MIGUEL-SAO PAULO" width="518" height="304" /></a>
 </p>
 
 <p align="justify">
@@ -100,19 +97,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank"><strong>Me diz o que comes… e te direi se és saudável, ou não.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank" rel="noopener noreferrer"><strong>Me diz o que comes… e te direi se és saudável, ou não.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/09/30/vinho-suco-de-uva-saude/" target="_blank"><strong>Vinho e suco de uva oferecem os mesmos benefícios para a saúde?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/30/vinho-suco-de-uva-saude/" target="_blank" rel="noopener noreferrer"><strong>Vinho e suco de uva oferecem os mesmos benefícios para a saúde?</strong></a>
 </p>
 
 <p align="justify">
-  A <strong>Dra. Pâmela Miguel</strong> também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
+  A <strong>Dra. Pâmela Miguel</strong> também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank" rel="noopener noreferrer">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

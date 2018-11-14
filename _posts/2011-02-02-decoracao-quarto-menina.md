@@ -1,10 +1,7 @@
 ---
-id: 2945
 title: 'Pitacos de bicha fêmea: decoração de quarto de menina.'
-date: 2011-02-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/02/02/decoracao-quarto-menina/
 permalink: /2011/02/02/decoracao-quarto-menina/
 categories:
   - Decoração
@@ -33,15 +30,15 @@ Parece uma tendência quase geral: **quartos de menina** são **rosa** e a **dec
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/quarto-de-menina.jpg"><img class="alignnone size-full wp-image-5816" title="quarto de menina" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/quarto-de-menina.jpg" alt="" width="640" height="480" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/quarto-de-menina.jpg"><img class="alignnone size-full wp-image-5816" title="quarto de menina" src="https://www.trololodemulher.com.br/2011/01/quarto-de-menina.jpg" alt="" width="640" height="480" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/quarto-de-menina2.jpg"><img class="alignnone size-full wp-image-5817" title="quarto de menina2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/quarto-de-menina2.jpg" alt="" width="480" height="640" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/quarto-de-menina2.jpg"><img class="alignnone size-full wp-image-5817" title="quarto de menina2" src="https://www.trololodemulher.com.br/2011/01/quarto-de-menina2.jpg" alt="" width="480" height="640" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/quarto-de-menina3.jpg"><img class="alignnone size-full wp-image-5818" title="quarto de menina3" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/quarto-de-menina3.jpg" alt="" width="640" height="480" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/quarto-de-menina3.jpg"><img class="alignnone size-full wp-image-5818" title="quarto de menina3" src="https://www.trololodemulher.com.br/2011/01/quarto-de-menina3.jpg" alt="" width="640" height="480" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -49,7 +46,7 @@ Parece uma tendência quase geral: **quartos de menina** são **rosa** e a **dec
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/quarto-de-menina4.jpg"><img class="size-full wp-image-5819 aligncenter" title="quarto de menina4" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/quarto-de-menina4.jpg" alt="" width="616" height="462" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/quarto-de-menina4.jpg"><img class="size-full wp-image-5819 aligncenter" title="quarto de menina4" src="https://www.trololodemulher.com.br/2011/01/quarto-de-menina4.jpg" alt="" width="616" height="462" /></a>
 </p>
 
 Belíssimo ambiente, não é? Os detalhes que pensei que a Gleici poderia reproduzir no quarto de sua pequena são os seguintes:
@@ -81,7 +78,7 @@ Belíssimo ambiente, não é? Os detalhes que pensei que a Gleici poderia reprod
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Sininho-Lilas200.jpg"><img class="alignnone size-full wp-image-5701" title="Móbile Sininho Lilás200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Sininho-Lilas200.jpg" alt="" width="200" height="200" /></a><br /> <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-sininho-lilas/" target="_blank">Móbile Sininho Lilás</a></em></strong>
+      <a href="https://www.trololodemulher.com.br/2010/12/Mobile-Sininho-Lilas200.jpg"><img class="alignnone size-full wp-image-5701" title="Móbile Sininho Lilás200" src="https://www.trololodemulher.com.br/2010/12/Mobile-Sininho-Lilas200.jpg" alt="" width="200" height="200" /></a><br /> <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-sininho-lilas/" target="_blank" rel="noopener noreferrer">Móbile Sininho Lilás</a></em></strong>
     </td>
     
     <td width="300" valign="top">
@@ -94,7 +91,7 @@ Belíssimo ambiente, não é? Os detalhes que pensei que a Gleici poderia reprod
       </p>
       
       <p style="text-align: justify;">
-        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-sininho-lilas/" target="_blank">Móbile Sininho Lilás</a></strong> está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-sininho-lilas/" target="_blank">basta clicar</a></strong>!</em>
+        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-sininho-lilas/" target="_blank" rel="noopener noreferrer">Móbile Sininho Lilás</a></strong> está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-sininho-lilas/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
       </p>
     </td>
   </tr>
@@ -110,18 +107,18 @@ Belíssimo ambiente, não é? Os detalhes que pensei que a Gleici poderia reprod
       </p>
       
       <p style="text-align: justify;">
-        <em>O </em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-butterfly/" target="_blank"><strong><em>Móbile Butterfly</em></strong></a><em> está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-butterfly/" target="_blank"><strong><em>basta clicar</em></strong></a><em>!</em>
+        <em>O </em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-butterfly/" target="_blank" rel="noopener noreferrer"><strong><em>Móbile Butterfly</em></strong></a><em> está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-butterfly/" target="_blank" rel="noopener noreferrer"><strong><em>basta clicar</em></strong></a><em>!</em>
       </p>
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Butterfly200.jpg"><img class="alignnone size-full wp-image-5705" title="Móbile Butterfly200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Butterfly200.jpg" alt="" width="200" height="200" /></a><br /> <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-butterfly/" target="_blank">Móbile Butterfly</a></em></strong>
+      <a href="https://www.trololodemulher.com.br/2010/12/Mobile-Butterfly200.jpg"><img class="alignnone size-full wp-image-5705" title="Móbile Butterfly200" src="https://www.trololodemulher.com.br/2010/12/Mobile-Butterfly200.jpg" alt="" width="200" height="200" /></a><br /> <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-butterfly/" target="_blank" rel="noopener noreferrer">Móbile Butterfly</a></em></strong>
     </td>
   </tr>
   
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Mini-Comoda-Gatinha-200.jpg"><img class="alignnone size-full wp-image-5349" title="Mini Cômoda Gatinha 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Mini-Comoda-Gatinha-200.jpg" alt="" width="200" height="200" /></a><br /> <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank">Mini Cômoda Gatinha</a></em></strong>
+      <a href="https://www.trololodemulher.com.br/2010/10/Mini-Comoda-Gatinha-200.jpg"><img class="alignnone size-full wp-image-5349" title="Mini Cômoda Gatinha 200" src="https://www.trololodemulher.com.br/2010/10/Mini-Comoda-Gatinha-200.jpg" alt="" width="200" height="200" /></a><br /> <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank" rel="noopener noreferrer">Mini Cômoda Gatinha</a></em></strong>
     </td>
     
     <td width="300" valign="top">
@@ -134,7 +131,7 @@ Belíssimo ambiente, não é? Os detalhes que pensei que a Gleici poderia reprod
       </p>
       
       <p style="text-align: justify;">
-        <em>A <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank">Mini Cômoda Gatinha</a></strong> está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank">basta clicar</a></strong>!</em> 
+        <em>A <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank" rel="noopener noreferrer">Mini Cômoda Gatinha</a></strong> está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em> 
       </p>
     </td>
   </tr>
@@ -150,19 +147,19 @@ Belíssimo ambiente, não é? Os detalhes que pensei que a Gleici poderia reprod
       </p>
       
       <p style="text-align: justify;">
-        <em>A <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-patchwork/" target="_blank">Caixa Patchwork</a></strong> está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>></em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-patchwork/" target="_blank"><em> <strong>basta clicar!</strong></em></a>
+        <em>A <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-patchwork/" target="_blank" rel="noopener noreferrer">Caixa Patchwork</a></strong> está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>></em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-patchwork/" target="_blank" rel="noopener noreferrer"><em> <strong>basta clicar!</strong></em></a>
       </p>
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Caixa-patchwork-200.jpg"><img class="alignnone size-full wp-image-5348" title="Caixa patchwork 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Caixa-patchwork-200.jpg" alt="" width="200" height="200" /></a><br /> <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-patchwork/" target="_blank">Caixa Patchwork</a></em></strong>
+      <a href="https://www.trololodemulher.com.br/2010/10/Caixa-patchwork-200.jpg"><img class="alignnone size-full wp-image-5348" title="Caixa patchwork 200" src="https://www.trololodemulher.com.br/2010/10/Caixa-patchwork-200.jpg" alt="" width="200" height="200" /></a><br /> <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-patchwork/" target="_blank" rel="noopener noreferrer">Caixa Patchwork</a></em></strong>
     </td>
   </tr>
 </table>
 
 Agora é sua vez, que está passando por aqui e lendo tudo isso, de ir lá nos comentários e contar o que está passando por sua cabeça em termos de ideias, sugestões, dicas e _pitacos_ para a Gleici. Corre lá! Ela está ansiosa para saber tua opinião. Garanto!
 
-Imagem: <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+Imagem: <a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer">HGTV</a>
 
 **Mais no Bicha Fêmea…**
 

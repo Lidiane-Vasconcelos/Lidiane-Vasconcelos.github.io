@@ -1,10 +1,7 @@
 ---
-id: 3840
 title: Em redes sociais, cada qual com sua opinião…
-date: 2017-12-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/12/07/redes-sociais/
 permalink: /2017/12/07/redes-sociais/
 categories:
   - Comportamento
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14486" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/DEBATES-REDES-SOCIAIS-BLOG.jpg" alt="DEBATES-REDES SOCIAIS-BLOG" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14486" src="https://www.trololodemulher.com.br/2017/12/DEBATES-REDES-SOCIAIS-BLOG.jpg" alt="DEBATES-REDES SOCIAIS-BLOG" width="800" height="800" />
 </p>
 
 <p align="justify">
@@ -30,11 +27,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>
 
 <p align="justify">

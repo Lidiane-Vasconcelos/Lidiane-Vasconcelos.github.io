@@ -1,10 +1,7 @@
 ---
-id: 3735
 title: 'Estilo industrial na decoração: 15 imagens pra mudar conceitos.'
-date: 2017-03-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/03/07/estilo-industrial-na-decoracao/
 permalink: /2017/03/07/estilo-industrial-na-decoracao/
 categories:
   - Dicas de Decoração
@@ -22,11 +19,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13569" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/DECORACAO-ESTILO-INDUSTRIAL800.jpg" alt="DECORACAO-ESTILO INDUSTRIAL800" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13569" src="https://www.trololodemulher.com.br/2017/03/DECORACAO-ESTILO-INDUSTRIAL800.jpg" alt="DECORACAO-ESTILO INDUSTRIAL800" width="800" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/h_is_for_home/32634336932/" target="_blank">H is for Home</a> via <a href="http://foter.com/re/e4bd80" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC BY-NC</a>
+  Imagem: <a href="https://www.flickr.com/photos/h_is_for_home/32634336932/" target="_blank" rel="noopener noreferrer">H is for Home</a> via <a href="http://foter.com/re/e4bd80" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC</a>
 </p>
 
 <p align="justify">
@@ -34,7 +31,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13575" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TUBULACAO-APARENTE.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-TUBULACAO APARENTE" width="620" height="613" />
+  <img class="alignnone size-full wp-image-13575" src="https://www.trololodemulher.com.br/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TUBULACAO-APARENTE.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-TUBULACAO APARENTE" width="620" height="613" />
 </p>
 
 <p align="center">
@@ -42,7 +39,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13576" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TUBULACAO-APARENTE2.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-TUBULACAO APARENTE[2]" width="620" height="913" />
+  <img class="alignnone size-full wp-image-13576" src="https://www.trololodemulher.com.br/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TUBULACAO-APARENTE2.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-TUBULACAO APARENTE[2]" width="620" height="913" />
 </p>
 
 <p align="center">
@@ -50,23 +47,23 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13577" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TUBULACAO-APARENTE3.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-TUBULACAO APARENTE[3]" width="800" height="511" />
+  <img class="alignnone size-full wp-image-13577" src="https://www.trololodemulher.com.br/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TUBULACAO-APARENTE3.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-TUBULACAO APARENTE[3]" width="800" height="511" />
 </p>
 
 <p align="center">
-  Via <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Galeria-de-fotos/fotos/2014/05/estilo-industrial.html" target="_blank">Casa e Jardim</a>
+  Via <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Galeria-de-fotos/fotos/2014/05/estilo-industrial.html" target="_blank" rel="noopener noreferrer">Casa e Jardim</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13578" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TUBULACAO-APARENTE4.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-TUBULACAO APARENTE[4]" width="800" height="465" />
+  <img class="alignnone size-full wp-image-13578" src="https://www.trololodemulher.com.br/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TUBULACAO-APARENTE4.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-TUBULACAO APARENTE[4]" width="800" height="465" />
 </p>
 
 <p align="center">
-  Via <a href="http://morarkallas.com.br/index.php/2013/10/tubulacao-aparente-realca-estilo-descolado-do-apartamento/" target="_blank">Morar Kallas</a>
+  Via <a href="http://morarkallas.com.br/index.php/2013/10/tubulacao-aparente-realca-estilo-descolado-do-apartamento/" target="_blank" rel="noopener noreferrer">Morar Kallas</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13579" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TUBULACAO-APARENTE5.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-TUBULACAO APARENTE[5]" width="800" height="534" />
+  <img class="alignnone size-full wp-image-13579" src="https://www.trololodemulher.com.br/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TUBULACAO-APARENTE5.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-TUBULACAO APARENTE[5]" width="800" height="534" />
 </p>
 
 <p align="center">
@@ -82,39 +79,39 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13570" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TIJOLOS-A-MOSTRA.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-TIJOLOS A MOSTRA" width="800" height="567" />
+  <img class="alignnone size-full wp-image-13570" src="https://www.trololodemulher.com.br/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TIJOLOS-A-MOSTRA.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-TIJOLOS A MOSTRA" width="800" height="567" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.limaonagua.com.br/inspiracoes/18-imagens-para-voce-se-apaixonar-pelo-estilo-industrial-de-decoracao/" target="_blank">limaonaagua</a>
+  Via <a href="http://www.limaonagua.com.br/inspiracoes/18-imagens-para-voce-se-apaixonar-pelo-estilo-industrial-de-decoracao/" target="_blank" rel="noopener noreferrer">limaonaagua</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13571" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TIJOLOS-A-MOSTRA2.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-TIJOLOS A MOSTRA[2]" width="750" height="600" />
+  <img class="alignnone size-full wp-image-13571" src="https://www.trololodemulher.com.br/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TIJOLOS-A-MOSTRA2.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-TIJOLOS A MOSTRA[2]" width="750" height="600" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.zhulong.com/" target="_blank">Zhulong</a>
+  Via <a href="http://www.zhulong.com/" target="_blank" rel="noopener noreferrer">Zhulong</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13572" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TIJOLOS-A-MOSTRA3.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-TIJOLOS A MOSTRA[3]" width="800" height="511" />
+  <img class="alignnone size-full wp-image-13572" src="https://www.trololodemulher.com.br/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TIJOLOS-A-MOSTRA3.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-TIJOLOS A MOSTRA[3]" width="800" height="511" />
 </p>
 
 <p align="center">
-  Via <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Galeria-de-fotos/fotos/2014/05/estilo-industrial.html" target="_blank">Casa e Jardim</a>
+  Via <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Galeria-de-fotos/fotos/2014/05/estilo-industrial.html" target="_blank" rel="noopener noreferrer">Casa e Jardim</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13573" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TIJOLOS-A-MOSTRA4.jpeg" alt="DECORACAO-ESTILO INDUSTRIAL-TIJOLOS A MOSTRA[4]" width="800" height="600" />
+  <img class="alignnone size-full wp-image-13573" src="https://www.trololodemulher.com.br/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TIJOLOS-A-MOSTRA4.jpeg" alt="DECORACAO-ESTILO INDUSTRIAL-TIJOLOS A MOSTRA[4]" width="800" height="600" />
 </p>
 
 <p align="center">
-  Via <a href="http://casa.abril.com.br/ambientes/8-ambientes-de-casapro-com-estilo-industrial/" target="_blank">Casa Abril</a>
+  Via <a href="http://casa.abril.com.br/ambientes/8-ambientes-de-casapro-com-estilo-industrial/" target="_blank" rel="noopener noreferrer">Casa Abril</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13574" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TIJOLOS-A-MOSTRA5.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-TIJOLOS A MOSTRA[5]" width="564" height="751" />
+  <img class="alignnone size-full wp-image-13574" src="https://www.trololodemulher.com.br/2017/03/DECORACAO-ESTILO-INDUSTRIAL-TIJOLOS-A-MOSTRA5.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-TIJOLOS A MOSTRA[5]" width="564" height="751" />
 </p>
 
 <p align="center">
@@ -130,31 +127,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13580" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/DECORACAO-ESTILO-INDUSTRIAL-VIGAS.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-VIGAS" width="620" height="455" />
+  <img class="alignnone size-full wp-image-13580" src="https://www.trololodemulher.com.br/2017/03/DECORACAO-ESTILO-INDUSTRIAL-VIGAS.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-VIGAS" width="620" height="455" />
 </p>
 
 <p align="center">
-  Via <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Decoracao/noticia/2016/01/decoracao-industrial.html" target="_blank">Casa e Jardim</a>
+  Via <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Decoracao/noticia/2016/01/decoracao-industrial.html" target="_blank" rel="noopener noreferrer">Casa e Jardim</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13581" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/DECORACAO-ESTILO-INDUSTRIAL-VIGAS2.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-VIGAS[2]" width="640" height="425" />
-</p>
-
-<p align="center">
-  Via Google Imagens
-</p>
-
-<p align="center">
-  <img class="alignnone size-full wp-image-13582" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/DECORACAO-ESTILO-INDUSTRIAL-VIGAS3.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-VIGAS[3]" width="800" height="533" />
-</p>
-
-<p align="center">
-  Via <a href="https://www.vivadecora.com.br/foto/23159/sala-de-estar-com-prateleira-rustica" target="_blank">Viva Decora</a>
-</p>
-
-<p align="center">
-  <img class="alignnone size-full wp-image-13583" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/DECORACAO-ESTILO-INDUSTRIAL-VIGAS4.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-VIGAS[4]" width="564" height="400" />
+  <img class="alignnone size-full wp-image-13581" src="https://www.trololodemulher.com.br/2017/03/DECORACAO-ESTILO-INDUSTRIAL-VIGAS2.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-VIGAS[2]" width="640" height="425" />
 </p>
 
 <p align="center">
@@ -162,7 +143,23 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13584" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/DECORACAO-ESTILO-INDUSTRIAL-VIGAS5.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-VIGAS[5]" width="620" height="455" />
+  <img class="alignnone size-full wp-image-13582" src="https://www.trololodemulher.com.br/2017/03/DECORACAO-ESTILO-INDUSTRIAL-VIGAS3.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-VIGAS[3]" width="800" height="533" />
+</p>
+
+<p align="center">
+  Via <a href="https://www.vivadecora.com.br/foto/23159/sala-de-estar-com-prateleira-rustica" target="_blank" rel="noopener noreferrer">Viva Decora</a>
+</p>
+
+<p align="center">
+  <img class="alignnone size-full wp-image-13583" src="https://www.trololodemulher.com.br/2017/03/DECORACAO-ESTILO-INDUSTRIAL-VIGAS4.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-VIGAS[4]" width="564" height="400" />
+</p>
+
+<p align="center">
+  Via Google Imagens
+</p>
+
+<p align="center">
+  <img class="alignnone size-full wp-image-13584" src="https://www.trololodemulher.com.br/2017/03/DECORACAO-ESTILO-INDUSTRIAL-VIGAS5.jpg" alt="DECORACAO-ESTILO INDUSTRIAL-VIGAS[5]" width="620" height="455" />
 </p>
 
 <p align="center">
@@ -174,7 +171,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

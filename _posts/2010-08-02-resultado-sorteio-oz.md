@@ -1,10 +1,7 @@
 ---
-id: 2855
 title: 'Resultado do sorteio Bicha Fêmea &#038; OZ!'
-date: 2010-08-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/08/02/resultado-sorteio-oz/
 permalink: /2010/08/02/resultado-sorteio-oz/
 categories:
   - Promoção
@@ -20,7 +17,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/Resultado-sorteio-parceria-Bicha-Femea-OZ.jpg"><img class="size-medium wp-image-5010   aligncenter" title="Resultado sorteio parceria Bicha Fêmea & OZ!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/Resultado-sorteio-parceria-Bicha-Femea-OZ-300x93.jpg" alt="" width="300" height="93" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/Resultado-sorteio-parceria-Bicha-Femea-OZ.jpg"><img class="size-medium wp-image-5010   aligncenter" title="Resultado sorteio parceria Bicha Fêmea & OZ!" src="https://www.trololodemulher.com.br/2010/07/Resultado-sorteio-parceria-Bicha-Femea-OZ-300x93.jpg" alt="" width="300" height="93" /></a>
 </p>
 
 <p style="text-align: justify;">

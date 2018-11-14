@@ -1,10 +1,7 @@
 ---
-id: 3019
 title: Quer uma mesinha? Improvisa!!!!
-date: 2011-07-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/07/12/decoracao-faca-voce-mesma-2/
 permalink: /2011/07/12/decoracao-faca-voce-mesma-2/
 categories:
   - Faça Você Mesma
@@ -19,15 +16,15 @@ Então _tá_, podem entrar aí na minha sala e ficar à vontade, espero que gost
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar.jpg"><img class="alignnone size-full wp-image-6585" title="Camera" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/07/sala-de-estar.jpg"><img class="alignnone size-full wp-image-6585" title="Camera" src="https://www.trololodemulher.com.br/2011/07/sala-de-estar.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar2.jpg"><img class="alignnone size-full wp-image-6586" title="Camera" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar2.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/07/sala-de-estar2.jpg"><img class="alignnone size-full wp-image-6586" title="Camera" src="https://www.trololodemulher.com.br/2011/07/sala-de-estar2.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar3.jpg"><img class="alignnone size-full wp-image-6587" title="Camera" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar3.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/07/sala-de-estar3.jpg"><img class="alignnone size-full wp-image-6587" title="Camera" src="https://www.trololodemulher.com.br/2011/07/sala-de-estar3.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -47,17 +44,17 @@ Daí inventei uma mesinha **_pobre-improvisada-ex banquinho sem utilidade_**:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar4.jpg"><img class="alignnone size-full wp-image-6588" title="Camera" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar4.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/07/sala-de-estar4.jpg"><img class="alignnone size-full wp-image-6588" title="Camera" src="https://www.trololodemulher.com.br/2011/07/sala-de-estar4.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar5.jpg"><img class="alignnone size-full wp-image-6589" title="Camera" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar5.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/07/sala-de-estar5.jpg"><img class="alignnone size-full wp-image-6589" title="Camera" src="https://www.trololodemulher.com.br/2011/07/sala-de-estar5.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 Vejam que para disfarçar **cobri ela com meu papel _contact_ craquelado** 😀
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar6.jpg"><img class="alignnone size-full wp-image-6590" title="Camera" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar6.jpg" alt="" width="600" height="450" /></a><strong><br /> </strong>
+  <a href="https://www.trololodemulher.com.br/2011/07/sala-de-estar6.jpg"><img class="alignnone size-full wp-image-6590" title="Camera" src="https://www.trololodemulher.com.br/2011/07/sala-de-estar6.jpg" alt="" width="600" height="450" /></a><strong><br /> </strong>
 </p>
 
 Na verdade este perfume de ambiente rosa não é do Chile. Esta carranca escura meu cunhado trouxe do Chile _pra_ gente e a girafa e a caixa lá atrás (que é um álbum de fotos) vieram do Chile trazidos por nós.
@@ -69,7 +66,7 @@ Na verdade este perfume de ambiente rosa não é do Chile. Esta carranca escura 
 <table width="601" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td style="text-align: center;" valign="top" width="299">
-       <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Renata-Becker.jpg"><img class="alignnone size-full wp-image-6584" title="Renata Becker" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Renata-Becker.jpg" alt="" width="200" height="200" /></a>
+       <a href="https://www.trololodemulher.com.br/2011/07/Renata-Becker.jpg"><img class="alignnone size-full wp-image-6584" title="Renata Becker" src="https://www.trololodemulher.com.br/2011/07/Renata-Becker.jpg" alt="" width="200" height="200" /></a>
     </td>
     
     <td valign="top" width="300">

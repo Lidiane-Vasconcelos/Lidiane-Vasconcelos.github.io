@@ -1,10 +1,7 @@
 ---
-id: 3239
 title: 'Bebê sem assaduras: é possível sim, mamãe!'
-date: 2013-06-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/06/28/bebe-assaduras/
 permalink: /2013/06/28/bebe-assaduras/
 categories:
   - Maternidade
@@ -21,11 +18,11 @@ categories:
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/ASSADURA-BEBE-PREVENCAO.jpg"><img class="alignnone size-full wp-image-9569" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/ASSADURA-BEBE-PREVENCAO.jpg" alt="ASSADURA-BEBE-PREVENCAO" width="600" height="419" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="https://www.trololodemulher.com.br/2013/06/ASSADURA-BEBE-PREVENCAO.jpg"><img class="alignnone size-full wp-image-9569" src="https://www.trololodemulher.com.br/2013/06/ASSADURA-BEBE-PREVENCAO.jpg" alt="ASSADURA-BEBE-PREVENCAO" width="600" height="419" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em></strong>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/POMADA-PREVENCAO-ASSADURA-HIPOGLOS-DERMODEX2.png"><img class="alignnone size-full wp-image-9573" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/POMADA-PREVENCAO-ASSADURA-HIPOGLOS-DERMODEX2.png" alt="POMADA-PREVENCAO-ASSADURA-HIPOGLOS-DERMODEX2" width="512" height="282" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/06/POMADA-PREVENCAO-ASSADURA-HIPOGLOS-DERMODEX2.png"><img class="alignnone size-full wp-image-9573" src="https://www.trololodemulher.com.br/2013/06/POMADA-PREVENCAO-ASSADURA-HIPOGLOS-DERMODEX2.png" alt="POMADA-PREVENCAO-ASSADURA-HIPOGLOS-DERMODEX2" width="512" height="282" /></a>
 </p>
 
 <p align="justify">
@@ -53,7 +50,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/PAOLLA-LIMY-MATSUURA-ALBERTON-PEDIATRA-CAMPINAS.png"><img class="alignnone size-full wp-image-9572" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/PAOLLA-LIMY-MATSUURA-ALBERTON-PEDIATRA-CAMPINAS.png" alt="PAOLLA LIMY MATSUURA ALBERTON PEDIATRA CAMPINAS" width="516" height="283" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/06/PAOLLA-LIMY-MATSUURA-ALBERTON-PEDIATRA-CAMPINAS.png"><img class="alignnone size-full wp-image-9572" src="https://www.trololodemulher.com.br/2013/06/PAOLLA-LIMY-MATSUURA-ALBERTON-PEDIATRA-CAMPINAS.png" alt="PAOLLA LIMY MATSUURA ALBERTON PEDIATRA CAMPINAS" width="516" height="283" /></a>
 </p>
 
 &nbsp;
@@ -61,9 +58,9 @@ categories:
 &nbsp;
 
 <p align="justify">
-  A <strong>Dra. Paolla</strong> também é blogueira, e escreve <strong>textos informativos na linguagem de mãe</strong>, de modo que possamos usufruir de conhecimento, o que é imprescindível na criação de nossas crianças, e ainda trocarmos experiência com ela, que também é mãe. Isso não é bacana? Aposto que você gostou da ideia de dar uma <em>espiada</em> no blog da Dra Paolla, o <strong><a href="http://mamaepediatra.blogspot.com.br/" target="_blank">Mamãe Pediatra</a></strong>, e até acompanhá-la em suas publicações, certo? Eu imaginei… então, oh: se joga no <strong><a href="http://mamaepediatra.blogspot.com.br/" target="_blank">blog</a></strong> e aproveita!
+  A <strong>Dra. Paolla</strong> também é blogueira, e escreve <strong>textos informativos na linguagem de mãe</strong>, de modo que possamos usufruir de conhecimento, o que é imprescindível na criação de nossas crianças, e ainda trocarmos experiência com ela, que também é mãe. Isso não é bacana? Aposto que você gostou da ideia de dar uma <em>espiada</em> no blog da Dra Paolla, o <strong><a href="http://mamaepediatra.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Mamãe Pediatra</a></strong>, e até acompanhá-la em suas publicações, certo? Eu imaginei… então, oh: se joga no <strong><a href="http://mamaepediatra.blogspot.com.br/" target="_blank" rel="noopener noreferrer">blog</a></strong> e aproveita!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

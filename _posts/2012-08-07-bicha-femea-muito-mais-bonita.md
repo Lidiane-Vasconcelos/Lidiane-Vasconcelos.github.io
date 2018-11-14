@@ -1,10 +1,7 @@
 ---
-id: 3167
 title: 'Quem comenta no Bicha Fêmea fica muito mais bonita! [Atualizado]'
-date: 2012-08-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/08/07/bicha-femea-muito-mais-bonita/
 permalink: /2012/08/07/bicha-femea-muito-mais-bonita/
 categories:
   - Beleza
@@ -21,7 +18,7 @@ Quem **mais comenta**, ganha presentinho de cara! Explico: durante o mês de **J
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/07/bicha-femea-muito-mais-bonita/locao-tonica-facial/" rel="attachment wp-att-8981"><img class="alignnone size-full wp-image-8981" title="LOCAO TONICA FACIAL" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/LOCAO-TONICA-FACIAL.jpg" alt="" width="500" height="500" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/07/bicha-femea-muito-mais-bonita/locao-tonica-facial/" rel="attachment wp-att-8981"><img class="alignnone size-full wp-image-8981" title="LOCAO TONICA FACIAL" src="https://www.trololodemulher.com.br/2012/08/LOCAO-TONICA-FACIAL.jpg" alt="" width="500" height="500" /></a>
 </p>
 
 &nbsp;
@@ -49,7 +46,7 @@ Quem **mais comenta**, ganha presentinho de cara! Explico: durante o mês de **J
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/07/bicha-femea-muito-mais-bonita/sabonete-esfoliante/" rel="attachment wp-att-8982"><img class="alignnone size-full wp-image-8982" title="SABONETE ESFOLIANTE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/SABONETE-ESFOLIANTE.jpg" alt="" width="500" height="500" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/07/bicha-femea-muito-mais-bonita/sabonete-esfoliante/" rel="attachment wp-att-8982"><img class="alignnone size-full wp-image-8982" title="SABONETE ESFOLIANTE" src="https://www.trololodemulher.com.br/2012/08/SABONETE-ESFOLIANTE.jpg" alt="" width="500" height="500" /></a>
 </p>
 
 &nbsp;
@@ -61,17 +58,17 @@ Quem **mais comenta**, ganha presentinho de cara! Explico: durante o mês de **J
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/cosmetica-sustentavel/" rel="attachment wp-att-8752"><img class="alignnone size-full wp-image-8752" title="COSMETICA SUSTENTAVEL" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/COSMETICA-SUSTENTAVEL.png" alt="" width="427" height="128" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/cosmetica-sustentavel/" rel="attachment wp-att-8752"><img class="alignnone size-full wp-image-8752" title="COSMETICA SUSTENTAVEL" src="https://www.trololodemulher.com.br/2012/06/COSMETICA-SUSTENTAVEL.png" alt="" width="427" height="128" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Todos esses mimos são da loja virtual <strong><a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/">Cosmética Sustentável</a></strong>, que faz parte de um site completo que busca informar sobre <strong>cosméticos sustentáveis, orgânicos e naturais</strong>. É tudo o que a gente precisa num lugar só: <strong><a href="http://www.cosmeticasustentavel.com.br/loja/index.php?route=extras/blog/" target="_blank">informação através do blog</a></strong> e <a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank"><strong>produtos legais através da loja virtual!</strong></a>
+  Todos esses mimos são da loja virtual <strong><a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/">Cosmética Sustentável</a></strong>, que faz parte de um site completo que busca informar sobre <strong>cosméticos sustentáveis, orgânicos e naturais</strong>. É tudo o que a gente precisa num lugar só: <strong><a href="http://www.cosmeticasustentavel.com.br/loja/index.php?route=extras/blog/" target="_blank" rel="noopener noreferrer">informação através do blog</a></strong> e <a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank" rel="noopener noreferrer"><strong>produtos legais através da loja virtual!</strong></a>
 </p>
 
 <p align="justify">
-  Quer ganhar o sabonete esfoliante? Visite a loja <strong>Cosmética Sustentável</strong> <strong><a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank">clicando aqui</a></strong>, delicie-se com as novidades sustentáveis de <strong>beleza</strong> e pense:
+  Quer ganhar o sabonete esfoliante? Visite a loja <strong>Cosmética Sustentável</strong> <strong><a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank" rel="noopener noreferrer">clicando aqui</a></strong>, delicie-se com as novidades sustentáveis de <strong>beleza</strong> e pense:
 </p>
 
 <p align="center">

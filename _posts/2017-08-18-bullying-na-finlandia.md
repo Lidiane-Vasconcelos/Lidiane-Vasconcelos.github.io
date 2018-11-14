@@ -1,10 +1,7 @@
 ---
-id: 3785
 title: 'Caso de sucesso: o enfrentamento do bullying na Finlândia'
-date: 2017-08-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/08/18/bullying-na-finlandia/
 permalink: /2017/08/18/bullying-na-finlandia/
 categories:
   - Adriana Minhoto
@@ -12,7 +9,7 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Ao contrário do que poderíamos imaginar, embora a <strong><a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank">educação em terras finlandesas</a></strong> seja exemplo de excelência, o <strong>bullying na Finlândia</strong> também é um problema a ser tratado. Não há novidade sobre as consequências devastadoras que podem ocorrer em pessoas que sofrem bullying, e o quanto essa questão social tem se tornado cada vez mais crescente. Medo ou falta de vontade de ir a escola, desejo de abandonar os estudos ou baixo rendimento são danos causados por esse mau, só para citar alguns.
+  Ao contrário do que poderíamos imaginar, embora a <strong><a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank" rel="noopener noreferrer">educação em terras finlandesas</a></strong> seja exemplo de excelência, o <strong>bullying na Finlândia</strong> também é um problema a ser tratado. Não há novidade sobre as consequências devastadoras que podem ocorrer em pessoas que sofrem bullying, e o quanto essa questão social tem se tornado cada vez mais crescente. Medo ou falta de vontade de ir a escola, desejo de abandonar os estudos ou baixo rendimento são danos causados por esse mau, só para citar alguns.
 </p>
 
 <p align="justify">
@@ -20,11 +17,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14003" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/BULLYING-BULLYING-NA-FINLANDIA.jpg" alt="BULLYING-BULLYING NA FINLANDIA" width="800" height="517" />
+  <img class="alignnone size-full wp-image-14003" src="https://www.trololodemulher.com.br/2017/08/BULLYING-BULLYING-NA-FINLANDIA.jpg" alt="BULLYING-BULLYING NA FINLANDIA" width="800" height="517" />
 </p>
 
 <p align="center">
-  Via <a href="http://foter.com/re/0a5d53" target="_blank">Foter.com</a>
+  Via <a href="http://foter.com/re/0a5d53" target="_blank" rel="noopener noreferrer">Foter.com</a>
 </p>
 
 <p align="justify">
@@ -52,7 +49,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11365" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" />
+  <img class="alignnone size-full wp-image-11365" src="https://www.trololodemulher.com.br/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" />
 </p>
 
 <p align="justify">
@@ -68,23 +65,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/08/09/mulher-finlandesa/" target="_blank">Verdades pouco conhecidas sobre a mulher finlandesa.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/08/09/mulher-finlandesa/" target="_blank" rel="noopener noreferrer">Verdades pouco conhecidas sobre a mulher finlandesa.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/05/31/finlandia-3/" target="_blank">O que você não sabia sobre a cultura popular na Finlândia.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/05/31/finlandia-3/" target="_blank" rel="noopener noreferrer">O que você não sabia sobre a cultura popular na Finlândia.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/04/15/morar-na-finlandia-2/" target="_blank">Casar e morar na Finlândia: o amor colocado à prova.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/04/15/morar-na-finlandia-2/" target="_blank" rel="noopener noreferrer">Casar e morar na Finlândia: o amor colocado à prova.</a></strong>
 </p>
 
 <p align="justify">
-  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank" rel="noopener noreferrer">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

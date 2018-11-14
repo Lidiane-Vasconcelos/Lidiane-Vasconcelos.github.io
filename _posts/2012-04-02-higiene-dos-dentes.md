@@ -1,10 +1,7 @@
 ---
-id: 3127
 title: Você sabe mesmo cuidar da higiene dos dentes?
-date: 2012-04-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/04/02/higiene-dos-dentes/
 permalink: /2012/04/02/higiene-dos-dentes/
 categories:
   - Saúde
@@ -20,7 +17,7 @@ Embora o título do post possa te fazer pensar que há algo novo nesse sentido q
 <!--more-->
 
 <p align="justify">
-  As dicas <em>superultramega</em> úteis desse post de hoje são da <strong>Dra. Ana Paula Pasqualin Tokunaga</strong>, que é <strong>Cirurgiã-Dentista</strong> e presta consultoria para o Bicha Fêmea quando o assunto é saúde bucal. É ela, inclusive, quem edita o blog <strong><a href="http://medodedentista.com.br/" target="_blank">Medo de Dentista</a></strong>… conhece? Vale a pena, <em>hein</em>?!
+  As dicas <em>superultramega</em> úteis desse post de hoje são da <strong>Dra. Ana Paula Pasqualin Tokunaga</strong>, que é <strong>Cirurgiã-Dentista</strong> e presta consultoria para o Bicha Fêmea quando o assunto é saúde bucal. É ela, inclusive, quem edita o blog <strong><a href="http://medodedentista.com.br/" target="_blank" rel="noopener noreferrer">Medo de Dentista</a></strong>… conhece? Vale a pena, <em>hein</em>?!
 </p>
 
 <p align="justify">
@@ -30,7 +27,7 @@ Embora o título do post possa te fazer pensar que há algo novo nesse sentido q
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/HIGIENE-BUCAL.jpg"><img class="alignnone size-full wp-image-8650" title="HIGIENE BUCAL" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/HIGIENE-BUCAL.jpg" alt="" width="600" height="466" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="https://www.trololodemulher.com.br/2012/03/HIGIENE-BUCAL.jpg"><img class="alignnone size-full wp-image-8650" title="HIGIENE BUCAL" src="https://www.trololodemulher.com.br/2012/03/HIGIENE-BUCAL.jpg" alt="" width="600" height="466" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
@@ -68,7 +65,7 @@ Embora o título do post possa te fazer pensar que há algo novo nesse sentido q
 >     </p>
 >     
 >     <p align="justify">
->       Resta alguma dúvida de que é preciso ficar atenta aos detalhes no cuidado com os dentes de hoje em diante? Não, <em>né</em>? E para continuar muito bem informada sobre isso, o <strong><a href="http://medodedentista.com.br/" target="_blank">blog editado pela Dra. Ana</a></strong> está repleto de boa informação a respeito como, por exemplo, o post editado sobre o<strong><a href="http://medodedentista.com.br/2012/02/nunca-subestime-um-dente-inflamado.html" target="_blank"> alerta para tomar cuidado com dentes inflamados</a></strong>. Visite, acompanhe e informe-se… sua saúde e de sua família agradece!
+>       Resta alguma dúvida de que é preciso ficar atenta aos detalhes no cuidado com os dentes de hoje em diante? Não, <em>né</em>? E para continuar muito bem informada sobre isso, o <strong><a href="http://medodedentista.com.br/" target="_blank" rel="noopener noreferrer">blog editado pela Dra. Ana</a></strong> está repleto de boa informação a respeito como, por exemplo, o post editado sobre o<strong><a href="http://medodedentista.com.br/2012/02/nunca-subestime-um-dente-inflamado.html" target="_blank" rel="noopener noreferrer"> alerta para tomar cuidado com dentes inflamados</a></strong>. Visite, acompanhe e informe-se… sua saúde e de sua família agradece!
 >     </p>
 >     
 >     <p>
@@ -83,13 +80,13 @@ Embora o título do post possa te fazer pensar que há algo novo nesse sentido q
 >       <tr>
 >         <td valign="top" width="300">
 >           <p align="center">
->             <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/saude-bucal200.jpg"><img class="alignnone size-full wp-image-6680" title="saúde bucal200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/saude-bucal200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/07/27/saude-bucal/"><strong><span style="font-size: small;"><br /> Creme e enxaguante bucais de ação clareadora: isso funciona?</span></strong></a>
+>             <a href="https://www.trololodemulher.com.br/2011/07/saude-bucal200.jpg"><img class="alignnone size-full wp-image-6680" title="saúde bucal200" src="https://www.trololodemulher.com.br/2011/07/saude-bucal200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/07/27/saude-bucal/"><strong><span style="font-size: small;"><br /> Creme e enxaguante bucais de ação clareadora: isso funciona?</span></strong></a>
 >           </p>
 >         </td>
 >         
 >         <td valign="top" width="300">
 >           <p align="center">
->             <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/crianca-saudavel-200.jpg"><img class="alignnone size-full wp-image-5069" title="criança saudável 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/crianca-saudavel-200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2010/08/18/saude-respirador-bucal/"><strong><span style="font-size: small;"><br /> Saúde no Bicha Fêmea: respirador bucal</span></strong></a>
+>             <a href="https://www.trololodemulher.com.br/2010/08/crianca-saudavel-200.jpg"><img class="alignnone size-full wp-image-5069" title="criança saudável 200" src="https://www.trololodemulher.com.br/2010/08/crianca-saudavel-200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2010/08/18/saude-respirador-bucal/"><strong><span style="font-size: small;"><br /> Saúde no Bicha Fêmea: respirador bucal</span></strong></a>
 >           </p>
 >         </td>
 >       </tr>
@@ -97,13 +94,13 @@ Embora o título do post possa te fazer pensar que há algo novo nesse sentido q
 >       <tr>
 >         <td valign="top" width="300">
 >           <p align="center">
->             <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/mamografia-outubrorosa-cancer-de-mama200.jpg"><img class="alignnone size-full wp-image-7048" title="mamografia outubrorosa câncer de mama200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/mamografia-outubrorosa-cancer-de-mama200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/10/24/momografia-outubrorosa/"><strong><span style="font-size: small;"><br /> Mãe, faça a mamografia por mim, sim?</span></strong></a>
+>             <a href="https://www.trololodemulher.com.br/2011/10/mamografia-outubrorosa-cancer-de-mama200.jpg"><img class="alignnone size-full wp-image-7048" title="mamografia outubrorosa câncer de mama200" src="https://www.trololodemulher.com.br/2011/10/mamografia-outubrorosa-cancer-de-mama200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/10/24/momografia-outubrorosa/"><strong><span style="font-size: small;"><br /> Mãe, faça a mamografia por mim, sim?</span></strong></a>
 >           </p>
 >         </td>
 >         
 >         <td valign="top" width="300">
 >           <p align="center">
->             <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/reeducacao-alimentar200.jpg"><img class="alignnone size-full wp-image-5997" title="Cherry red summer apple isolated on white, macro close up with copy space" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/reeducacao-alimentar200.jpg" alt="" width="200" height="200" /></a></strong>
+>             <strong><a href="https://www.trololodemulher.com.br/2011/02/reeducacao-alimentar200.jpg"><img class="alignnone size-full wp-image-5997" title="Cherry red summer apple isolated on white, macro close up with copy space" src="https://www.trololodemulher.com.br/2011/02/reeducacao-alimentar200.jpg" alt="" width="200" height="200" /></a></strong>
 >           </p>
 >           
 >           <p align="center">
@@ -115,7 +112,7 @@ Embora o título do post possa te fazer pensar que há algo novo nesse sentido q
 >       <tr>
 >         <td valign="top" width="300">
 >           <p align="center">
->             <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/dieta200.jpg"><img class="alignnone size-full wp-image-5825" title="dieta200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/dieta200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
+>             <a href="https://www.trololodemulher.com.br/2011/01/dieta200.jpg"><img class="alignnone size-full wp-image-5825" title="dieta200" src="https://www.trololodemulher.com.br/2011/01/dieta200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
 >           </p>
 >           
 >           <p align="center">
@@ -125,7 +122,7 @@ Embora o título do post possa te fazer pensar que há algo novo nesse sentido q
 >         
 >         <td valign="top" width="300">
 >           <p align="center">
->             <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/saude-e-beleza-da-pele200.jpg"><img class="alignnone size-full wp-image-6555" title="saúde e beleza da pele200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/saude-e-beleza-da-pele200.jpg" alt="" width="200" height="200" /></a></strong>
+>             <strong><a href="https://www.trololodemulher.com.br/2011/06/saude-e-beleza-da-pele200.jpg"><img class="alignnone size-full wp-image-6555" title="saúde e beleza da pele200" src="https://www.trololodemulher.com.br/2011/06/saude-e-beleza-da-pele200.jpg" alt="" width="200" height="200" /></a></strong>
 >           </p>
 >           
 >           <p align="center">
@@ -137,7 +134,7 @@ Embora o título do post possa te fazer pensar que há algo novo nesse sentido q
 >       <tr>
 >         <td valign="top" width="300">
 >           <p align="center">
->             <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/maquiagem-saude-da-pele200.jpg"><img class="alignnone size-full wp-image-6499" title="maquiagem saúde da pele200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/maquiagem-saude-da-pele200.jpg" alt="" width="200" height="200" /></a></strong>
+>             <strong><a href="https://www.trololodemulher.com.br/2011/06/maquiagem-saude-da-pele200.jpg"><img class="alignnone size-full wp-image-6499" title="maquiagem saúde da pele200" src="https://www.trololodemulher.com.br/2011/06/maquiagem-saude-da-pele200.jpg" alt="" width="200" height="200" /></a></strong>
 >           </p>
 >           
 >           <p align="center">
@@ -147,7 +144,7 @@ Embora o título do post possa te fazer pensar que há algo novo nesse sentido q
 >         
 >         <td valign="top" width="300">
 >           <p align="center">
->             <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/obesidade200.jpg"><img class="alignnone size-full wp-image-6082" title="obesidade200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/obesidade200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2011/03/18/cirurgia-bariatrica/"><strong><span style="font-size: small;"><br /> Cirurgia bariátrica e os cuidados essenciais para o sucesso</span></strong></a>
+>             <a href="https://www.trololodemulher.com.br/2011/02/obesidade200.jpg"><img class="alignnone size-full wp-image-6082" title="obesidade200" src="https://www.trololodemulher.com.br/2011/02/obesidade200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2011/03/18/cirurgia-bariatrica/"><strong><span style="font-size: small;"><br /> Cirurgia bariátrica e os cuidados essenciais para o sucesso</span></strong></a>
 >           </p>
 >         </td>
 >       </tr>
@@ -162,7 +159,7 @@ Embora o título do post possa te fazer pensar que há algo novo nesse sentido q
 >     </p>
 >     
 >     <p align="center">
->       <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+>       <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 >     </p>
 >     
 >     <p>
@@ -181,13 +178,13 @@ Embora o título do post possa te fazer pensar que há algo novo nesse sentido q
 >       <tr>
 >         <td valign="top" width="300">
 >           <p align="center">
->             <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+>             <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
 >           </p>
 >         </td>
 >         
 >         <td valign="top" width="300">
 >           <p align="center">
->             <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+>             <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
 >           </p>
 >         </td>
 >       </tr>

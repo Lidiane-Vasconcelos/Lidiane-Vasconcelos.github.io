@@ -1,10 +1,7 @@
 ---
-id: 2877
 title: '35 anos de Carrefour no Brasil: seus bons momentos valem prêmios!'
-date: 2010-09-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/09/13/35-anos-carrefour/
 permalink: /2010/09/13/35-anos-carrefour/
 categories:
   - Publieditorial
@@ -48,5 +45,5 @@ _Ei_, bonita! Deixa eu te perguntar: você sabia que o Carrefour já está no Br
   </p>
   
   <p style="text-align: justify;">
-    Ah! Todo o conteúdo da campanha também está disponível no <a href="http://twitter.com/carrefourbrasil" target="_blank">Twitter oficial do Grupo Carrefour</a>. E para mais informações, acesse o site do Aniversário Carrefour e o blog Aniversário Carrefour. Aproveite!
+    Ah! Todo o conteúdo da campanha também está disponível no <a href="http://twitter.com/carrefourbrasil" target="_blank" rel="noopener noreferrer">Twitter oficial do Grupo Carrefour</a>. E para mais informações, acesse o site do Aniversário Carrefour e o blog Aniversário Carrefour. Aproveite!
   </p>

@@ -1,10 +1,7 @@
 ---
-id: 2810
 title: 'Organização pessoal: você deixa as coisas acontecerem ou faz acontecer?'
-date: 2010-04-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/04/30/organizacao-pessoal/
 permalink: /2010/04/30/organizacao-pessoal/
 categories:
   - Produtividade
@@ -15,7 +12,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Recebi essa pergunta por <em>e-mail</em>, vinda da Simone Cotrufo, moça organizada que cuida do blog <a href="http://newsespacohome.blogspot.com/" target="_blank">Organização Com Estilo</a>, e que tinha por objetivo ser uma sugestão de pauta para o Trololó de Mulher. Achei a proposta interessantíssima, e acredito que vale a pena a gente pensar sobre ela…
+  Recebi essa pergunta por <em>e-mail</em>, vinda da Simone Cotrufo, moça organizada que cuida do blog <a href="http://newsespacohome.blogspot.com/" target="_blank" rel="noopener noreferrer">Organização Com Estilo</a>, e que tinha por objetivo ser uma sugestão de pauta para o Trololó de Mulher. Achei a proposta interessantíssima, e acredito que vale a pena a gente pensar sobre ela…
 </p>
 
 <!--more-->
@@ -73,11 +70,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em>&#8220;&#8230; quanto à organização dos filhos adolescentes (o meu tem 11 anos) aqui em casa resolvi assim: A cada vez que eu entrar no quarto e encontrar coisas fora do lugar (mesmo dentro do armário) é um dia que fica sem ir ao futebol. Pronto! duas faltas resolveram o problema. Tudo em ordem!<br /> Sei que alguns dizem que é conversando que se resolve e que na base da troca as coisas não funcionam. Mas, no meu caso, conversa só entrou por um ouvido e saiu pelo outro. Foi na hora do castigo mesmo, de perder algo que gosta e que é importante que o bichinho se virou. Pelo menos durante a &#8220;aborrecência&#8221; acho que vai ser assim&#8230;rs&#8230;&#8221;</em> Kelly Reis &#8211; <a href="http://porque-nao-pensei-nisso-antes.blogspot.com/" target="_blank">Por que não pensei nisso antes</a>?
+  <em>&#8220;&#8230; quanto à organização dos filhos adolescentes (o meu tem 11 anos) aqui em casa resolvi assim: A cada vez que eu entrar no quarto e encontrar coisas fora do lugar (mesmo dentro do armário) é um dia que fica sem ir ao futebol. Pronto! duas faltas resolveram o problema. Tudo em ordem!<br /> Sei que alguns dizem que é conversando que se resolve e que na base da troca as coisas não funcionam. Mas, no meu caso, conversa só entrou por um ouvido e saiu pelo outro. Foi na hora do castigo mesmo, de perder algo que gosta e que é importante que o bichinho se virou. Pelo menos durante a &#8220;aborrecência&#8221; acho que vai ser assim&#8230;rs&#8230;&#8221;</em> Kelly Reis &#8211; <a href="http://porque-nao-pensei-nisso-antes.blogspot.com/" target="_blank" rel="noopener noreferrer">Por que não pensei nisso antes</a>?
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

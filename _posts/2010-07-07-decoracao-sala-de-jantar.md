@@ -1,10 +1,7 @@
 ---
-id: 2842
 title: 'Pitacos de bicha fêmea: sala de jantar com móveis escuros.'
-date: 2010-07-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/07/07/decoracao-sala-de-jantar/
 permalink: /2010/07/07/decoracao-sala-de-jantar/
 categories:
   - Salas
@@ -30,7 +27,7 @@ O que selecionei para mostrar a você, Sandra, neste post, também poderá lhe a
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/sala-de-jantar-mesa-e-aparador-escuro.jpg"><img class="alignnone size-medium wp-image-4832" title="sala de jantar - mesa e aparador escuro" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/sala-de-jantar-mesa-e-aparador-escuro-300x300.jpg" alt="" width="300" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/sala-de-jantar-mesa-e-aparador-escuro.jpg"><img class="alignnone size-medium wp-image-4832" title="sala de jantar - mesa e aparador escuro" src="https://www.trololodemulher.com.br/2010/06/sala-de-jantar-mesa-e-aparador-escuro-300x300.jpg" alt="" width="300" height="300" /></a>
     </td>
     
     <td>
@@ -52,7 +49,7 @@ As **_prateleiras, com vasos e quadro pequeno encostado_**, também inspiram bas
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/sala-de-jantar-classica.jpg"><img class="alignnone size-medium wp-image-4833" title="sala de jantar clássica" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/sala-de-jantar-classica-300x300.jpg" alt="" width="300" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/sala-de-jantar-classica.jpg"><img class="alignnone size-medium wp-image-4833" title="sala de jantar clássica" src="https://www.trololodemulher.com.br/2010/06/sala-de-jantar-classica-300x300.jpg" alt="" width="300" height="300" /></a>
     </td>
     
     <td>
@@ -66,7 +63,7 @@ Se seus móveis tiverem uma _pegada_ clássica, talvez você possa encontrar alg
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/quadro-como-destaque.jpg"><img class="alignnone size-medium wp-image-4831" title="quadro como destaque" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/quadro-como-destaque-255x300.jpg" alt="" width="255" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/quadro-como-destaque.jpg"><img class="alignnone size-medium wp-image-4831" title="quadro como destaque" src="https://www.trololodemulher.com.br/2010/06/quadro-como-destaque-255x300.jpg" alt="" width="255" height="300" /></a>
     </td>
     
     <td>
@@ -79,7 +76,7 @@ Você comentou que tem uma **_tela com moldura clara_**, e que imagina que ela c
 
 Agora é aguardar, Sandra, porque várias _pitacos_ ainda devem surgir nos comentários. As bichas fêmeas navegantes fazem dos comentários o melhor que há no Bicha Fêmea, e isso pode te ajudar muito. Aguarde e confie!
 
-_Imagens:_ <a href="http://www.diyideas.com/" target="_blank"><em>do it yourself</em></a>
+_Imagens:_ <a href="http://www.diyideas.com/" target="_blank" rel="noopener noreferrer"><em>do it yourself</em></a>
 
 **Quer ver mais sobre decoração de salas de jantar?**
 
@@ -96,5 +93,5 @@ _Imagens:_ <a href="http://www.diyideas.com/" target="_blank"><em>do it yourself
 <span style="font-size: xx-small;"> </span>
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
 </p>

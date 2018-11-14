@@ -1,10 +1,7 @@
 ---
-id: 2863
 title: Ações esquecidas no cuidado da casa, porém necessárias.
-date: 2010-08-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/08/20/cuidado-da-casa/
 permalink: /2010/08/20/cuidado-da-casa/
 categories:
   - Rotina da Casa
@@ -24,7 +21,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/colchao.jpg"><img class="size-medium wp-image-5079 aligncenter" title="colchão" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/colchao-234x300.jpg" alt="" width="234" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/colchao.jpg"><img class="size-medium wp-image-5079 aligncenter" title="colchão" src="https://www.trololodemulher.com.br/2010/08/colchao-234x300.jpg" alt="" width="234" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -32,7 +29,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/cobertores.jpg"><img class="size-medium wp-image-5076 aligncenter" title="cobertores" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/cobertores-234x300.jpg" alt="" width="234" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/cobertores.jpg"><img class="size-medium wp-image-5076 aligncenter" title="cobertores" src="https://www.trololodemulher.com.br/2010/08/cobertores-234x300.jpg" alt="" width="234" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -40,7 +37,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/tapetes.jpg"><img class="size-medium wp-image-5082 aligncenter" title="tapetes" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/tapetes-234x300.jpg" alt="" width="234" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/tapetes.jpg"><img class="size-medium wp-image-5082 aligncenter" title="tapetes" src="https://www.trololodemulher.com.br/2010/08/tapetes-234x300.jpg" alt="" width="234" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -48,7 +45,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/geladeira.jpg"><img class="size-medium wp-image-5080 aligncenter" title="geladeira" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/geladeira-234x300.jpg" alt="" width="234" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/geladeira.jpg"><img class="size-medium wp-image-5080 aligncenter" title="geladeira" src="https://www.trololodemulher.com.br/2010/08/geladeira-234x300.jpg" alt="" width="234" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -56,7 +53,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/limpeza.jpg"><img class="size-medium wp-image-5081 aligncenter" title="limpeza" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/limpeza-300x234.jpg" alt="" width="300" height="234" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/limpeza.jpg"><img class="size-medium wp-image-5081 aligncenter" title="limpeza" src="https://www.trololodemulher.com.br/2010/08/limpeza-300x234.jpg" alt="" width="300" height="234" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -73,7 +70,7 @@ categories:
 
 Agora, ei! Deixa uma dica aí, vai…
 
-_Imagens: <a href="http://www.countryliving.com/" target="_blank">Country Living</a>_
+_Imagens: <a href="http://www.countryliving.com/" target="_blank" rel="noopener noreferrer">Country Living</a>_
 
 **Mais no Bicha Fêmea…**
 

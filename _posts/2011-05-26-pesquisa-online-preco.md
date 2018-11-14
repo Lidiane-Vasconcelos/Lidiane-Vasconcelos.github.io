@@ -1,15 +1,12 @@
 ---
-id: 2999
 title: 'Pesquisa online de compra e venda: você já usou essa facilidade?'
-date: 2011-05-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/05/26/pesquisa-online-preco/
 permalink: /2011/05/26/pesquisa-online-preco/
 categories:
   - Publieditorial
 ---
-Eu já usei, sim. E não foram poucas as vezes! Quer um exemplo? A situação é sempre a mesma e invariavelmente se repete: quando eu folheio uma revista ou navego num blog, e tomo conhecimento de um cosmético, antes mesmo de sair por lojas reais na minha pesquisa de preços, lanço mão da pesquisa que envolva **<a href="http://www.olx.com.br/compra-venda-cat-185" target="_blank">compra venda</a>** do produto. É assim que faço minhas pesquisas de preço online, sabia?
+Eu já usei, sim. E não foram poucas as vezes! Quer um exemplo? A situação é sempre a mesma e invariavelmente se repete: quando eu folheio uma revista ou navego num blog, e tomo conhecimento de um cosmético, antes mesmo de sair por lojas reais na minha pesquisa de preços, lanço mão da pesquisa que envolva **<a href="http://www.olx.com.br/compra-venda-cat-185" target="_blank" rel="noopener noreferrer">compra venda</a>** do produto. É assim que faço minhas pesquisas de preço online, sabia?
 
 <p style="text-align: justify;">
   Você já imaginou que esse tipo de ação pode poupar um bom tempo de sua vida para iniciar uma busca por referências de preços sobre o que quer que seja? Pois essa facilidade pode estar ao alcance de um clique e começar na <strong>OLX</strong>. Já ouviu falar? Eu te apresento!
@@ -20,7 +17,7 @@ Eu já usei, sim. E não foram poucas as vezes! Quer um exemplo? A situação é
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/logo-olx-compra-venda.jpg"><img class="alignnone size-full wp-image-6423" title="logo olx compra venda" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/logo-olx-compra-venda.jpg" alt="" width="382" height="360" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/logo-olx-compra-venda.jpg"><img class="alignnone size-full wp-image-6423" title="logo olx compra venda" src="https://www.trololodemulher.com.br/2011/05/logo-olx-compra-venda.jpg" alt="" width="382" height="360" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -32,7 +29,7 @@ Eu já usei, sim. E não foram poucas as vezes! Quer um exemplo? A situação é
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/compra-venda.jpg"><img class="alignnone size-full wp-image-6422" title="compra venda" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/compra-venda.jpg" alt="" width="264" height="117" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/compra-venda.jpg"><img class="alignnone size-full wp-image-6422" title="compra venda" src="https://www.trololodemulher.com.br/2011/05/compra-venda.jpg" alt="" width="264" height="117" /></a>
 </p>
 
 <p style="text-align: justify;">

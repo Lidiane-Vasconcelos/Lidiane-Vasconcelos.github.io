@@ -1,10 +1,7 @@
 ---
-id: 3335
 title: Cuidar da beleza é muito mais que passar batom…
-date: 2014-08-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/08/25/beleza-felicidade/
 permalink: /2014/08/25/beleza-felicidade/
 categories:
   - Beleza
@@ -22,11 +19,11 @@ categories:
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/BELEZA-BELEZA-FEMININA-MULHERES-BONITAS-MULHERES-FELIZES.jpg"><img class="alignnone size-full wp-image-10297" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/BELEZA-BELEZA-FEMININA-MULHERES-BONITAS-MULHERES-FELIZES.jpg" alt="BELEZA-BELEZA FEMININA-MULHERES BONITAS-MULHERES FELIZES" width="600" height="409" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/08/BELEZA-BELEZA-FEMININA-MULHERES-BONITAS-MULHERES-FELIZES.jpg"><img class="alignnone size-full wp-image-10297" src="https://www.trololodemulher.com.br/2014/08/BELEZA-BELEZA-FEMININA-MULHERES-BONITAS-MULHERES-FELIZES.jpg" alt="BELEZA-BELEZA FEMININA-MULHERES BONITAS-MULHERES FELIZES" width="600" height="409" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">freeimages</a>
+  Imagem: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">freeimages</a>
 </p>
 
 &nbsp;
@@ -42,7 +39,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/MARCIA-REGIA.jpg"><img class="alignnone size-full wp-image-10302" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/MARCIA-REGIA.jpg" alt="MARCIA REGIA" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/08/MARCIA-REGIA.jpg"><img class="alignnone size-full wp-image-10302" src="https://www.trololodemulher.com.br/2014/08/MARCIA-REGIA.jpg" alt="MARCIA REGIA" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -56,7 +53,7 @@ categories:
 </p>
 
 <p align="left">
-  <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank"><strong>Me diz o que comes, e te direi se és saudável… ou não.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank" rel="noopener noreferrer"><strong>Me diz o que comes, e te direi se és saudável… ou não.</strong></a>
 </p>
 
 <p align="left">
@@ -64,11 +61,11 @@ categories:
 </p>
 
 <p align="left">
-  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank"><strong>Canelone de berinjela + queijo cottage (no molho caseiro)</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank" rel="noopener noreferrer"><strong>Canelone de berinjela + queijo cottage (no molho caseiro)</strong></a>
 </p>
 
 <p align="left">
-  <a href="http://www.trololodemulher.com.br/2014/07/14/arroz-integral-file-frango/" target="_blank"><strong>Arroz integral (fora do comum) + filé de frango (no molho delícia)</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/14/arroz-integral-file-frango/" target="_blank" rel="noopener noreferrer"><strong>Arroz integral (fora do comum) + filé de frango (no molho delícia)</strong></a>
 </p>
 
 <p align="left">
@@ -76,11 +73,11 @@ categories:
 </p>
 
 <p align="left">
-  <a href="http://www.trololodemulher.com.br/2011/06/03/agua-saude-2/" target="_blank"><strong>Quanto você já bebeu de água hoje?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/06/03/agua-saude-2/" target="_blank" rel="noopener noreferrer"><strong>Quanto você já bebeu de água hoje?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/GABRIELA-PRATI.jpg"><img class="alignnone size-full wp-image-10301" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/GABRIELA-PRATI.jpg" alt="GABRIELA PRATI" width="600" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/08/GABRIELA-PRATI.jpg"><img class="alignnone size-full wp-image-10301" src="https://www.trololodemulher.com.br/2014/08/GABRIELA-PRATI.jpg" alt="GABRIELA PRATI" width="600" height="600" /></a>
 </p>
 
 > <p align="justify">
@@ -88,11 +85,11 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/CYNTHIA-LE-BOURLEGAT.png"><img class="alignnone size-full wp-image-10300" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/CYNTHIA-LE-BOURLEGAT.png" alt="CYNTHIA LE BOURLEGAT" width="522" height="695" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/08/CYNTHIA-LE-BOURLEGAT.png"><img class="alignnone size-full wp-image-10300" src="https://www.trololodemulher.com.br/2014/08/CYNTHIA-LE-BOURLEGAT.png" alt="CYNTHIA LE BOURLEGAT" width="522" height="695" /></a>
 </p>
 
 > <p align="justify">
->   Uma maquiagem leve e um look de inverno me fazem sentir muito bem, mas ultimamente também reparo que quando minha alimentação está melhor, ingerindo mais fibras, minha pele fica melhor (tenho um histórico de pele acneica) e me sinto mais bonita. (aí penso: preciso comer melhor sempre rs).” <strong>Cynthia Le Bourlegat, blogueira | <a href="http://www.falamae.com/" target="_blank">Fala, mãe!</a>, 34 anos.</strong>
+>   Uma maquiagem leve e um look de inverno me fazem sentir muito bem, mas ultimamente também reparo que quando minha alimentação está melhor, ingerindo mais fibras, minha pele fica melhor (tenho um histórico de pele acneica) e me sinto mais bonita. (aí penso: preciso comer melhor sempre rs).” <strong>Cynthia Le Bourlegat, blogueira | <a href="http://www.falamae.com/" target="_blank" rel="noopener noreferrer">Fala, mãe!</a>, 34 anos.</strong>
 > </p>
 
 <p align="justify">
@@ -100,7 +97,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 <p align="center">

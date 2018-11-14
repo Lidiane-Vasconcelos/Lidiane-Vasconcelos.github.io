@@ -1,10 +1,7 @@
 ---
-id: 3396
 title: O que toda mulher precisa saber sobre aposentadoria?
-date: 2015-02-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/02/06/aposentadoria/
 permalink: /2015/02/06/aposentadoria/
 categories:
   - Finanças Pessoais
@@ -23,11 +20,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/FINANCAS-PESSOAIS-APOSENTADORIA-COMPORTAMENTO-COMPORTAMENTO-FEMININO-EDUCACAO-FINANCEIRA.jpg"><img class="alignnone size-full wp-image-10771" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/FINANCAS-PESSOAIS-APOSENTADORIA-COMPORTAMENTO-COMPORTAMENTO-FEMININO-EDUCACAO-FINANCEIRA.jpg" alt="FINANCAS PESSOAIS-APOSENTADORIA-COMPORTAMENTO-COMPORTAMENTO FEMININO-EDUCACAO FINANCEIRA" width="640" height="481" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/02/FINANCAS-PESSOAIS-APOSENTADORIA-COMPORTAMENTO-COMPORTAMENTO-FEMININO-EDUCACAO-FINANCEIRA.jpg"><img class="alignnone size-full wp-image-10771" src="https://www.trololodemulher.com.br/2015/02/FINANCAS-PESSOAIS-APOSENTADORIA-COMPORTAMENTO-COMPORTAMENTO-FEMININO-EDUCACAO-FINANCEIRA.jpg" alt="FINANCAS PESSOAIS-APOSENTADORIA-COMPORTAMENTO-COMPORTAMENTO FEMININO-EDUCACAO FINANCEIRA" width="640" height="481" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bsmartguide.com/learn/how-to-manage-your-money/1005-3-retirement-planning-questions-for-millennial-women.html" target="_blank">bSmart</a>
+  Imagem: <a href="http://www.bsmartguide.com/learn/how-to-manage-your-money/1005-3-retirement-planning-questions-for-millennial-women.html" target="_blank" rel="noopener noreferrer">bSmart</a>
 </p>
 
 <p align="justify">
@@ -35,7 +32,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Eu indico esses 5 passos para começar a poupar imediatamente. Eles são explicados detalhadamente no meu </strong><a href="http://www.mulher-rica.com.br/ebook-dinheiro-assunto-de-mulher/" target="_blank"><strong>e-book DINHEIRO é assunto de MULHER</strong></a><strong>.</strong>
+>   <strong>Eu indico esses 5 passos para começar a poupar imediatamente. Eles são explicados detalhadamente no meu </strong><a href="http://www.mulher-rica.com.br/ebook-dinheiro-assunto-de-mulher/" target="_blank" rel="noopener noreferrer"><strong>e-book DINHEIRO é assunto de MULHER</strong></a><strong>.</strong>
 > </p>
 
 > <p align="justify">
@@ -94,7 +91,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/MAIARA-XAVIER.png"><img class="alignnone size-full wp-image-9333" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/MAIARA-XAVIER.png" alt="MAIARA XAVIER" width="529" height="299" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/11/MAIARA-XAVIER.png"><img class="alignnone size-full wp-image-9333" src="https://www.trololodemulher.com.br/2012/11/MAIARA-XAVIER.png" alt="MAIARA XAVIER" width="529" height="299" /></a>
 </p>
 
 <p align="justify">
@@ -102,21 +99,21 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/18/dinheiro-educacao-financeira/" target="_blank"><strong>Dinheiro: guardar X gastar X Investir. O que é melhor?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/18/dinheiro-educacao-financeira/" target="_blank" rel="noopener noreferrer"><strong>Dinheiro: guardar X gastar X Investir. O que é melhor?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/" target="_blank"><strong>Dicas que seu bolso agradece, e muito!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/" target="_blank" rel="noopener noreferrer"><strong>Dicas que seu bolso agradece, e muito!</strong></a>
 </p>
 
 <p align="justify">
-  A <strong>Maiara</strong> edita o <a href="http://www.mulher-rica.com.br/" target="_blank">Mulher Rica</a>, voltado para nós, mulheres dispostas a aprender sobre como lidar melhor com o dinheiro. O nome do blog, bem sugestivo, indica bem seu público alvo. Engana-se quem acha que seus posts são para aquelas que querem alcançar a independência financeira com base numa herança, ser sorteada na mega sena ou passar num concurso público… <em>nã nã nim nã não</em>! Quer você mesma correr atrás disso já, no presente? Então <a href="http://www.mulher-rica.com.br/" target="_blank">se joga no blog da moça</a> porque o<em> trololó</em> por lá é exatamente sobre esse assunto. Ah! Importante saber que o site Mulher Rica também tem <a href="https://www.facebook.com/mulherica?ref=ts&fref=ts" target="_blank">página no Facebook, bem aqui. Clique</a>, acompanhe as atualizações da Maiara e fique por dentro de tudo!
+  A <strong>Maiara</strong> edita o <a href="http://www.mulher-rica.com.br/" target="_blank" rel="noopener noreferrer">Mulher Rica</a>, voltado para nós, mulheres dispostas a aprender sobre como lidar melhor com o dinheiro. O nome do blog, bem sugestivo, indica bem seu público alvo. Engana-se quem acha que seus posts são para aquelas que querem alcançar a independência financeira com base numa herança, ser sorteada na mega sena ou passar num concurso público… <em>nã nã nim nã não</em>! Quer você mesma correr atrás disso já, no presente? Então <a href="http://www.mulher-rica.com.br/" target="_blank" rel="noopener noreferrer">se joga no blog da moça</a> porque o<em> trololó</em> por lá é exatamente sobre esse assunto. Ah! Importante saber que o site Mulher Rica também tem <a href="https://www.facebook.com/mulherica?ref=ts&fref=ts" target="_blank" rel="noopener noreferrer">página no Facebook, bem aqui. Clique</a>, acompanhe as atualizações da Maiara e fique por dentro de tudo!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

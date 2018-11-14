@@ -1,18 +1,15 @@
 ---
-id: 3014
 title: 'Prateleira do Bicha Fêmea: Casa da Claudia'
-date: 2011-06-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/06/22/casa-da-claudia/
 permalink: /2011/06/22/casa-da-claudia/
 categories:
   - Sem categoria
 ---
-Para as bichas fêmeas navegantes que gostam tanto de encher a casa com mimos, _fofurices_ e _fru-frus_ decorativos, a **<a href="http://www.casadaclaudia.com.br/index.php/" target="_blank">Casa da Claudia</a>** é uma verdadeira tentação… sim, é esta loja virtual cheia de coisinhas tentadoras que está na **Prateleira do Bicha Fêmea** do mês, e isso vai te deixar descontrolada… quer apostar?
+Para as bichas fêmeas navegantes que gostam tanto de encher a casa com mimos, _fofurices_ e _fru-frus_ decorativos, a **<a href="http://www.casadaclaudia.com.br/index.php/" target="_blank" rel="noopener noreferrer">Casa da Claudia</a>** é uma verdadeira tentação… sim, é esta loja virtual cheia de coisinhas tentadoras que está na **Prateleira do Bicha Fêmea** do mês, e isso vai te deixar descontrolada… quer apostar?
 
 <p style="text-align: justify;">
-  Ah! Você sabe de quem é essa loja virtual fofíssima? Não te contaram? Eu conto: é da <strong>Claudia Medeiros</strong>, bonita! Ela mesma, a dona do blog <strong><a href="http://sefossenaminhacasa.blogspot.com/" target="_blank">Se fosse na minha casa…</a></strong>
+  Ah! Você sabe de quem é essa loja virtual fofíssima? Não te contaram? Eu conto: é da <strong>Claudia Medeiros</strong>, bonita! Ela mesma, a dona do blog <strong><a href="http://sefossenaminhacasa.blogspot.com/" target="_blank" rel="noopener noreferrer">Se fosse na minha casa…</a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -24,11 +21,11 @@ Para as bichas fêmeas navegantes que gostam tanto de encher a casa com mimos, _
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/bule-de-cafe.jpg"><img class="alignnone size-full wp-image-6543" title="bule de café" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/bule-de-cafe.jpg" alt="" width="500" height="500" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/bule-de-cafe.jpg"><img class="alignnone size-full wp-image-6543" title="bule de café" src="https://www.trololodemulher.com.br/2011/06/bule-de-cafe.jpg" alt="" width="500" height="500" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/bule-xicara-de-cha-galinha.jpg"><img class="alignnone size-full wp-image-6544" title="bule xícara de chá galinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/bule-xicara-de-cha-galinha.jpg" alt="" width="500" height="500" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/bule-xicara-de-cha-galinha.jpg"><img class="alignnone size-full wp-image-6544" title="bule xícara de chá galinha" src="https://www.trololodemulher.com.br/2011/06/bule-xicara-de-cha-galinha.jpg" alt="" width="500" height="500" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -36,11 +33,11 @@ Para as bichas fêmeas navegantes que gostam tanto de encher a casa com mimos, _
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/jarra-candy.jpg"><img class="alignnone size-full wp-image-6548" title="jarra candy" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/jarra-candy.jpg" alt="" width="500" height="500" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/jarra-candy.jpg"><img class="alignnone size-full wp-image-6548" title="jarra candy" src="https://www.trololodemulher.com.br/2011/06/jarra-candy.jpg" alt="" width="500" height="500" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/saladeira-candy.jpg"><img class="alignnone size-full wp-image-6551" title="saladeira candy" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/saladeira-candy.jpg" alt="" width="500" height="500" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/saladeira-candy.jpg"><img class="alignnone size-full wp-image-6551" title="saladeira candy" src="https://www.trololodemulher.com.br/2011/06/saladeira-candy.jpg" alt="" width="500" height="500" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -48,15 +45,15 @@ Para as bichas fêmeas navegantes que gostam tanto de encher a casa com mimos, _
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/prato-provencal-com-pe.jpg"><img class="alignnone size-full wp-image-6550" title="prato provençal com pé" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/prato-provencal-com-pe.jpg" alt="" width="500" height="500" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/prato-provencal-com-pe.jpg"><img class="alignnone size-full wp-image-6550" title="prato provençal com pé" src="https://www.trololodemulher.com.br/2011/06/prato-provencal-com-pe.jpg" alt="" width="500" height="500" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/moringa-de-porcelana.jpg"><img class="alignnone size-full wp-image-6549" title="moringa de porcelana" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/moringa-de-porcelana.jpg" alt="" width="500" height="500" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/moringa-de-porcelana.jpg"><img class="alignnone size-full wp-image-6549" title="moringa de porcelana" src="https://www.trololodemulher.com.br/2011/06/moringa-de-porcelana.jpg" alt="" width="500" height="500" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Ficou curiosa e quer ver para crer a variedade de produtos e os preços convidativos? É só <strong><a href="http://www.casadaclaudia.com.br/index.php/" target="_blank">clicar aqui</a></strong>, dar um pulinho lá e avaliar… e se controlar, coisa que acho difícil… <em>cof cof cof…</em>
+  Ficou curiosa e quer ver para crer a variedade de produtos e os preços convidativos? É só <strong><a href="http://www.casadaclaudia.com.br/index.php/" target="_blank" rel="noopener noreferrer">clicar aqui</a></strong>, dar um pulinho lá e avaliar… e se controlar, coisa que acho difícil… <em>cof cof cof…</em>
 </p>
 
 **Mais no Bicha Fêmea…**

@@ -1,10 +1,7 @@
 ---
-id: 3594
 title: Faltando algo naquele cantinho de parede?
-date: 2016-04-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/04/25/decoracao-de-parede/
 permalink: /2016/04/25/decoracao-de-parede/
 categories:
   - Dicas de Decoração
@@ -20,7 +17,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12419" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-PAREDE-DICAS-DECORACAO.jpg" alt="DECORACAO-PAREDE-DICAS DECORACAO" width="533" height="800" />
+  <img class="alignnone size-full wp-image-12419" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-PAREDE-DICAS-DECORACAO.jpg" alt="DECORACAO-PAREDE-DICAS DECORACAO" width="533" height="800" />
 </p>
 
 &nbsp;
@@ -31,20 +28,20 @@ Vasos com plantas, livros, quadros encostados, velas, porta-retratos… o que fa
 
 **Veja também:**
 
-<a href="http://www.decoracaodacasa.com/decoracao-de-parede/" target="_blank"><strong>Decoração de parede com tampa de caixa de sapato… é criativo ou não é?</strong></a>
+<a href="http://www.decoracaodacasa.com/decoracao-de-parede/" target="_blank" rel="noopener noreferrer"><strong>Decoração de parede com tampa de caixa de sapato… é criativo ou não é?</strong></a>
 
-<a href="http://www.decoracaodacasa.com/decoracao-parede-fotos/" target="_blank"><strong>Já viu como imprimir charme na decoração da parede com fotos?</strong></a>
+<a href="http://www.decoracaodacasa.com/decoracao-parede-fotos/" target="_blank" rel="noopener noreferrer"><strong>Já viu como imprimir charme na decoração da parede com fotos?</strong></a>
 
-<a href="http://www.decoracaodacasa.com/decoracao-da-parede/" target="_blank"><strong>5 ideias para a decoração da perede vazia em casa.</strong></a>
+<a href="http://www.decoracaodacasa.com/decoracao-da-parede/" target="_blank" rel="noopener noreferrer"><strong>5 ideias para a decoração da perede vazia em casa.</strong></a>
 
 &nbsp;
 
-Imagem: <a href="http://www.abeautifulmess.com/" target="_blank">A beaultiful Mess</a>
+Imagem: <a href="http://www.abeautifulmess.com/" target="_blank" rel="noopener noreferrer">A beaultiful Mess</a>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

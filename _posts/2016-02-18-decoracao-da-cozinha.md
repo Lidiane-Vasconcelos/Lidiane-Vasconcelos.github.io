@@ -1,10 +1,7 @@
 ---
-id: 3544
 title: 'Renove a decoração da cozinha: 12 ideias muito simples.'
-date: 2016-02-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/02/18/decoracao-da-cozinha/
 permalink: /2016/02/18/decoracao-da-cozinha/
 categories:
   - Cozinha
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11936" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-COZINHA-ADESIVO-LADRILHO-HIDRAULICO-PATCHWORK.jpg" alt="DECORACAO-COZINHA-ADESIVO-LADRILHO HIDRAULICO-PATCHWORK" width="740" height="740" />
+  <img class="alignnone size-full wp-image-11936" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-COZINHA-ADESIVO-LADRILHO-HIDRAULICO-PATCHWORK.jpg" alt="DECORACAO-COZINHA-ADESIVO-LADRILHO HIDRAULICO-PATCHWORK" width="740" height="740" />
 </p>
 
 <p align="center">
@@ -34,11 +31,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11937" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-COZINHA-ADESIVO-PAPEL-CONTACT.jpg" alt="DECORACAO-COZINHA-ADESIVO-PAPEL CONTACT" width="570" height="380" />
+  <img class="alignnone size-full wp-image-11937" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-COZINHA-ADESIVO-PAPEL-CONTACT.jpg" alt="DECORACAO-COZINHA-ADESIVO-PAPEL CONTACT" width="570" height="380" />
 </p>
 
 <p align="justify">
-  Os armários precisam ser renovados? Ele pode ganhar uma nova cor, ou detalhes diferentes, com o uso do <a href="http://www.decoracaodacasa.com/faca-voce-mesma-papel-contact/" target="_blank">papel contact</a>, tudo assim: <em>vapt-vupt</em>. A blogueira <strong>Vivianne Pontes, do blog dcoração</strong>, mostrou <a href="http://www.dcoracao.com/2014/04/como-renovar-cozinha-com-papel-contact.html" target="_blank">neste post</a> que ela optou por esse recurso decorativo,  e mandou muito bem!
+  Os armários precisam ser renovados? Ele pode ganhar uma nova cor, ou detalhes diferentes, com o uso do <a href="http://www.decoracaodacasa.com/faca-voce-mesma-papel-contact/" target="_blank" rel="noopener noreferrer">papel contact</a>, tudo assim: <em>vapt-vupt</em>. A blogueira <strong>Vivianne Pontes, do blog dcoração</strong>, mostrou <a href="http://www.dcoracao.com/2014/04/como-renovar-cozinha-com-papel-contact.html" target="_blank" rel="noopener noreferrer">neste post</a> que ela optou por esse recurso decorativo,  e mandou muito bem!
 </p>
 
 <p align="justify">
@@ -46,15 +43,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11949" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-COZINHA-TECIDO-PAPEL-DE-PAREDE.jpg" alt="DECORACAO-COZINHA-TECIDO-PAPEL DE PAREDE" width="435" height="518" />
+  <img class="alignnone size-full wp-image-11949" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-COZINHA-TECIDO-PAPEL-DE-PAREDE.jpg" alt="DECORACAO-COZINHA-TECIDO-PAPEL DE PAREDE" width="435" height="518" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://idealhome.com.br/site/" target="_blank">Ideal Home</a>
+  Imagem: <a href="http://idealhome.com.br/site/" target="_blank" rel="noopener noreferrer">Ideal Home</a>
 </p>
 
 <p align="justify">
-  Se você tem <a href="http://www.decoracaodacasa.com/papel-de-parede/" target="_blank">sobras de papel de parede</a> ou <a href="http://www.decoracaodacasa.com/decoracao-tecido-como-fazer/" target="_blank">restos de tecido</a>, pode reaproveitá-los para revestir a parte interna de armários ou nichos, e dar uma<em> bossa</em> inusitada na decoração do móvel. Fica a dica.
+  Se você tem <a href="http://www.decoracaodacasa.com/papel-de-parede/" target="_blank" rel="noopener noreferrer">sobras de papel de parede</a> ou <a href="http://www.decoracaodacasa.com/decoracao-tecido-como-fazer/" target="_blank" rel="noopener noreferrer">restos de tecido</a>, pode reaproveitá-los para revestir a parte interna de armários ou nichos, e dar uma<em> bossa</em> inusitada na decoração do móvel. Fica a dica.
 </p>
 
 <p align="justify">
@@ -62,15 +59,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11943" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-COZINHA-COZINHA-AMERICANA.jpg" alt="DECORACAO-COZINHA-COZINHA AMERICANA" width="435" height="518" />
+  <img class="alignnone size-full wp-image-11943" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-COZINHA-COZINHA-AMERICANA.jpg" alt="DECORACAO-COZINHA-COZINHA AMERICANA" width="435" height="518" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.housetohome.co.uk/livingetc" target="_blank">HousetoHome</a>
+  Via <a href="http://www.housetohome.co.uk/livingetc" target="_blank" rel="noopener noreferrer">HousetoHome</a>
 </p>
 
 <p align="justify">
-  Se você tem <a href="http://www.decoracaodacasa.com/cozinha-americana/" target="_blank">cozinha americana</a>, talvez o que esteja precisando de uma renovada seja o espaço fora dela, o que, na verdade, é uma extensão do ambiente. A sugestão, aqui, é colocar um tapete lindo de viver sob a mesa, e um <a href="http://www.decoracaodacasa.com/lustre-pendente/" target="_blank">lustre pendente</a> de arrasar sobre o móvel.
+  Se você tem <a href="http://www.decoracaodacasa.com/cozinha-americana/" target="_blank" rel="noopener noreferrer">cozinha americana</a>, talvez o que esteja precisando de uma renovada seja o espaço fora dela, o que, na verdade, é uma extensão do ambiente. A sugestão, aqui, é colocar um tapete lindo de viver sob a mesa, e um <a href="http://www.decoracaodacasa.com/lustre-pendente/" target="_blank" rel="noopener noreferrer">lustre pendente</a> de arrasar sobre o móvel.
 </p>
 
 <p align="justify">
@@ -78,7 +75,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11939" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-COZINHA-COIFA2.png" alt="DECORACAO-COZINHA-COIFA[2]" width="373" height="452" />
+  <img class="alignnone size-full wp-image-11939" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-COZINHA-COIFA2.png" alt="DECORACAO-COZINHA-COIFA[2]" width="373" height="452" />
 </p>
 
 <p align="center">
@@ -94,7 +91,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11947" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-COZINHA-PRATELEIRA-FLUTUANTE.jpg" alt="DECORACAO-COZINHA-PRATELEIRA FLUTUANTE" width="500" height="666" />
+  <img class="alignnone size-full wp-image-11947" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-COZINHA-PRATELEIRA-FLUTUANTE.jpg" alt="DECORACAO-COZINHA-PRATELEIRA FLUTUANTE" width="500" height="666" />
 </p>
 
 <p align="center">
@@ -102,7 +99,7 @@ categories:
 </p>
 
 <p align="justify">
-  Que tal escolher um catinho de parede para instalar algumas <a href="http://www.trololodemulher.com.br/2015/07/29/prateleiras-flutuantes/" target="_blank">prateleiras flutuantes</a>. Há quem goste de expor tudo o quanto for possível nelas porque, de fato, facilita o acesso. Pessoalmente, admito que tenho implicância com a poeira, então não usaria esse recurso dessa forma. Penso em poucas prateleiras para colocar alguns poucos objetos, livros de receitas mais usados, etc. Fica a dica.
+  Que tal escolher um catinho de parede para instalar algumas <a href="http://www.trololodemulher.com.br/2015/07/29/prateleiras-flutuantes/" target="_blank" rel="noopener noreferrer">prateleiras flutuantes</a>. Há quem goste de expor tudo o quanto for possível nelas porque, de fato, facilita o acesso. Pessoalmente, admito que tenho implicância com a poeira, então não usaria esse recurso dessa forma. Penso em poucas prateleiras para colocar alguns poucos objetos, livros de receitas mais usados, etc. Fica a dica.
 </p>
 
 <p align="justify">
@@ -110,7 +107,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11940" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-COZINHA-CORTINA-ROMANA-TECIDO-ESTAMPADO.jpg" alt="DECORACAO-COZINHA-CORTINA-ROMANA-TECIDO-ESTAMPADO" width="600" height="800" />
+  <img class="alignnone size-full wp-image-11940" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-COZINHA-CORTINA-ROMANA-TECIDO-ESTAMPADO.jpg" alt="DECORACAO-COZINHA-CORTINA-ROMANA-TECIDO-ESTAMPADO" width="600" height="800" />
 </p>
 
 <p align="center">
@@ -118,7 +115,7 @@ categories:
 </p>
 
 <p align="justify">
-  A janela da cozinha é que pode ganhar o ar de mudança que você tanto quer no ambiente. A ideia é recorrer ao uso de <a href="http://www.decoracaodacasa.com/cortinas-como-escolher/" target="_blank">cortinas</a>, e aqui a sugestão é usar um tecido estampado num modelo romano. Vivi de amores!
+  A janela da cozinha é que pode ganhar o ar de mudança que você tanto quer no ambiente. A ideia é recorrer ao uso de <a href="http://www.decoracaodacasa.com/cortinas-como-escolher/" target="_blank" rel="noopener noreferrer">cortinas</a>, e aqui a sugestão é usar um tecido estampado num modelo romano. Vivi de amores!
 </p>
 
 <p align="justify">
@@ -126,7 +123,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11944" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-COZINHA-GELADEIRA-COLORIDA.jpg" alt="DECORACAO-COZINHA-GELADEIRA COLORIDA" width="454" height="600" />
+  <img class="alignnone size-full wp-image-11944" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-COZINHA-GELADEIRA-COLORIDA.jpg" alt="DECORACAO-COZINHA-GELADEIRA COLORIDA" width="454" height="600" />
 </p>
 
 <p align="center">
@@ -142,7 +139,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-da-cozinha-2/" target="_blank"><strong>Decoração da cozinha: 7 profissionais dizem o que é top.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-da-cozinha-2/" target="_blank" rel="noopener noreferrer"><strong>Decoração da cozinha: 7 profissionais dizem o que é top.</strong></a>
 </p>
 
 <p align="justify">
@@ -150,7 +147,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11945" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-COZINHA-PAPEL-DE-PAREDE.jpg" alt="DECORACAO-COZINHA-PAPEL DE PAREDE" width="600" height="400" />
+  <img class="alignnone size-full wp-image-11945" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-COZINHA-PAPEL-DE-PAREDE.jpg" alt="DECORACAO-COZINHA-PAPEL DE PAREDE" width="600" height="400" />
 </p>
 
 <p align="center">
@@ -166,7 +163,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11946" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-COZINHA-POSTER-QUADROS.jpg" alt="DECORACAO-COZINHA-POSTER-QUADROS" width="620" height="445" />
+  <img class="alignnone size-full wp-image-11946" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-COZINHA-POSTER-QUADROS.jpg" alt="DECORACAO-COZINHA-POSTER-QUADROS" width="620" height="445" />
 </p>
 
 <p align="center">
@@ -182,7 +179,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-cozinha/" target="_blank"><strong>Download grátis: decore a parede da cozinha com quadro de frutas.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-cozinha/" target="_blank" rel="noopener noreferrer"><strong>Download grátis: decore a parede da cozinha com quadro de frutas.</strong></a>
 </p>
 
 <p align="justify">
@@ -190,11 +187,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11938" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-COZINHA-BANCOS-COLORIDOS.jpg" alt="DECORACAO-COZINHA-BANCOS COLORIDOS" width="550" height="733" />
+  <img class="alignnone size-full wp-image-11938" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-COZINHA-BANCOS-COLORIDOS.jpg" alt="DECORACAO-COZINHA-BANCOS COLORIDOS" width="550" height="733" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Via <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -206,11 +203,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11948" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-COZINHA-TECIDO-PANO-DE-PRATO-GUARDANAPO-AVENTAL.jpg" alt="DECORACAO-COZINHA-TECIDO-PANO DE PRATO-GUARDANAPO-AVENTAL" width="550" height="733" />
+  <img class="alignnone size-full wp-image-11948" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-COZINHA-TECIDO-PANO-DE-PRATO-GUARDANAPO-AVENTAL.jpg" alt="DECORACAO-COZINHA-TECIDO-PANO DE PRATO-GUARDANAPO-AVENTAL" width="550" height="733" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Via <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -218,7 +215,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

@@ -1,10 +1,7 @@
 ---
-id: 2876
 title: Vídeo-receita do Macarrão da Preguiça
-date: 2010-09-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/09/15/video-receita-macarrao/
 permalink: /2010/09/15/video-receita-macarrao/
 categories:
   - Receitas
@@ -12,7 +9,7 @@ categories:
 Olá leitoras do Bicha Fêmea!
 
 <p style="text-align: justify;">
-  A partir de hoje, a convite da Lidiane, o blog <a href="http://www.cozinhamagali.blogspot.com/" target="_blank">Cozinha da Magali </a>vai dar <em>pitacos</em> culinários por aqui de vez em quando, trazendo vídeo-receitas e outras dicas legais &#8216;pra facilitar a nossa vida tão corrida e cheia de responsabilidades.<br /> Adorei o convite do <strong><em>Bicha Fêmea</em></strong> pois sei que esse blog tem sido um espaço aberto &#8216;pra construção de relações virtuais saudáveis, positivas, e que fazem de nós bichas mais felizes!
+  A partir de hoje, a convite da Lidiane, o blog <a href="http://www.cozinhamagali.blogspot.com/" target="_blank" rel="noopener noreferrer">Cozinha da Magali </a>vai dar <em>pitacos</em> culinários por aqui de vez em quando, trazendo vídeo-receitas e outras dicas legais &#8216;pra facilitar a nossa vida tão corrida e cheia de responsabilidades.<br /> Adorei o convite do <strong><em>Bicha Fêmea</em></strong> pois sei que esse blog tem sido um espaço aberto &#8216;pra construção de relações virtuais saudáveis, positivas, e que fazem de nós bichas mais felizes!
 </p>
 
 <p style="text-align: justify;">
@@ -26,7 +23,7 @@ Olá leitoras do Bicha Fêmea!
 </p>
 
 <p style="text-align: center;">
-  <a href="http://vimeo.com/14775339" target="_blank"><img class="size-full wp-image-5198 aligncenter" title="Macarrão da preguiça" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Macarrao-da-preguica.jpg" alt="" width="637" height="478" /></a>
+  <a href="http://vimeo.com/14775339" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5198 aligncenter" title="Macarrão da preguiça" src="https://www.trololodemulher.com.br/2010/09/Macarrao-da-preguica.jpg" alt="" width="637" height="478" /></a>
 </p>
 
  
@@ -76,7 +73,7 @@ Sirva a seguir
   
   <tr>
     <td width="600" valign="top">
-      <strong><em><a href="http://www.cozinhamagali.blogspot.com/" target="_blank">Cozinha da Magali</a></em></strong>
+      <strong><em><a href="http://www.cozinhamagali.blogspot.com/" target="_blank" rel="noopener noreferrer">Cozinha da Magali</a></em></strong>
     </td>
   </tr>
 </table>

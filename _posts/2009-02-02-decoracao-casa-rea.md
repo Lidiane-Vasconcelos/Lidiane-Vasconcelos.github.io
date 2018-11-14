@@ -1,19 +1,16 @@
 ---
-id: 2614
 title: 'Decoração de casas reais: imagens inspiradoras.'
-date: 2009-02-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/02/02/decoracao-casa-rea/
 permalink: /2009/02/02/decoracao-casa-rea/
 categories:
   - Dicas de Decoração
 ---
 Eu fico super empolgada com** _fotos de ambientes charmosos_** que vejo web afora, porque a partir dessas imagens podemos pensar em possibilidades na **_decoração de uma casa real_**, como a minha e a sua.
 
-Quando vi <a href="http://www.apartmenttherapy.com/la/house-tour-sams-sydney-simplicity-sydney-074699" target="_blank">este post</a> publicado no blog “<a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Therapy</a>” tive a impressão de estar vendo as imagens do apartamento de alguém conhecido, porque é bem “gente da gente”, sabe como é? O fato é que embora eu tenha achado os espaços comuns, no sentido de que qualquer um de nós possa ter, eu não deixei de me inspirar. Absolutamente!
+Quando vi <a href="http://www.apartmenttherapy.com/la/house-tour-sams-sydney-simplicity-sydney-074699" target="_blank" rel="noopener noreferrer">este post</a> publicado no blog “<a href="http://www.apartmenttherapy.com/" target="_blank" rel="noopener noreferrer">Apartment Therapy</a>” tive a impressão de estar vendo as imagens do apartamento de alguém conhecido, porque é bem “gente da gente”, sabe como é? O fato é que embora eu tenha achado os espaços comuns, no sentido de que qualquer um de nós possa ter, eu não deixei de me inspirar. Absolutamente!
 
-Por isso decidi trazer algumas dessas imagens e espero que gostem, que também enxerguem suas casas nessas imagens e possam tirar delas ideias para seus cantinhos&#8230; [<img style="display: inline;" title="clip_image001[4]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image0014-thumb2.gif" alt="clip_image001[4]" width="23" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image00142.gif)
+Por isso decidi trazer algumas dessas imagens e espero que gostem, que também enxerguem suas casas nessas imagens e possam tirar delas ideias para seus cantinhos&#8230; [<img style="display: inline;" title="clip_image001[4]" src="https://www.trololodemulher.com.br/2009/02/clip-image0014-thumb2.gif" alt="clip_image001[4]" width="23" height="18" />](https://www.trololodemulher.com.br/2009/02/clip-image00142.gif)
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="www.apartmenttherapy.com" src="http://gallery.apartmenttherapy.com/photos/012309SamSydney/images/01 living_small.jpg" alt="www.apartmenttherapy.com" />
@@ -33,7 +30,7 @@ Gosto desse quadro. Gosto mesmo&#8230;
   <img class="aligncenter" title="www.apartmenttherapy.com" src="http://gallery.apartmenttherapy.com/photos/012309SamSydney/images/17 office_small.jpg" alt="www.apartmenttherapy.com" />
 </p>
 
-Chama a minha atenção esse banquinho bem no cantinho, bem rústico. Mas não posso deixar de me imaginar jogada nessa enorme poltrona vermelha. [<img style="display: inline;" title="clip_image001[6]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image0016-thumb2.gif" alt="clip_image001[6]" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image00162.gif)
+Chama a minha atenção esse banquinho bem no cantinho, bem rústico. Mas não posso deixar de me imaginar jogada nessa enorme poltrona vermelha. [<img style="display: inline;" title="clip_image001[6]" src="https://www.trololodemulher.com.br/2009/02/clip-image0016-thumb2.gif" alt="clip_image001[6]" width="18" height="18" />](https://www.trololodemulher.com.br/2009/02/clip-image00162.gif)
 
 <p style="text-align: center;">
   <img class="aligncenter" title="www.apartmenttherapy.com" src="http://gallery.apartmenttherapy.com/photos/012309SamSydney/images/21 bathroom_small.jpg" alt="www.apartmenttherapy.com" /> 

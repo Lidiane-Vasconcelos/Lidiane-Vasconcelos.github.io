@@ -1,10 +1,7 @@
 ---
-id: 2930
 title: Resultado do sorteio no Bicha Fêmea em parceria com a La Pomme.
-date: 2010-12-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/12/20/resultado-sorteio-la-pomme/
 permalink: /2010/12/20/resultado-sorteio-la-pomme/
 categories:
   - Promoção
@@ -18,7 +15,7 @@ Chegou o dia! É hoje que vamos saber, juntas, quem vai receber o [kit do **_Bic
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Resultado-Sorteio-La-Pomme.jpg"></a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Resultado-do-Sorteio-La-Pomme.jpg"><img class="alignnone size-full wp-image-5672" title="Resultado do Sorteio La Pomme" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Resultado-do-Sorteio-La-Pomme.jpg" alt="" width="600" height="163" /></a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Resultado-Sorteio-La-Pomme.jpg"></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/Resultado-Sorteio-La-Pomme.jpg"></a><a href="https://www.trololodemulher.com.br/2010/12/Resultado-do-Sorteio-La-Pomme.jpg"><img class="alignnone size-full wp-image-5672" title="Resultado do Sorteio La Pomme" src="https://www.trololodemulher.com.br/2010/12/Resultado-do-Sorteio-La-Pomme.jpg" alt="" width="600" height="163" /></a><a href="https://www.trololodemulher.com.br/2010/12/Resultado-Sorteio-La-Pomme.jpg"></a>
 </p>
 
 <p style="text-align: justify;">

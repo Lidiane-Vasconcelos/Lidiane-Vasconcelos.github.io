@@ -1,10 +1,7 @@
 ---
-id: 3643
 title: 3 dicas simples para deixar seu quarto relaxante e calmo.
-date: 2016-08-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/08/15/quarto-relaxante/
 permalink: /2016/08/15/quarto-relaxante/
 categories:
   - Casa
@@ -19,11 +16,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12783" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-QUARTO.jpg" alt="DECORACAO-QUARTO" width="523" height="800" />
+  <img class="alignnone size-full wp-image-12783" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-QUARTO.jpg" alt="DECORACAO-QUARTO" width="523" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.thedesignchaser.com/" target="_blank">T.D.C – The Design Chaser</a>
+  Imagem: <a href="http://www.thedesignchaser.com/" target="_blank" rel="noopener noreferrer">T.D.C – The Design Chaser</a>
 </p>
 
 <p align="justify">
@@ -35,11 +32,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/" target="_blank"><strong>Se sua casa estiver em ordem, não duvide: você ficará bem.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/" target="_blank" rel="noopener noreferrer"><strong>Se sua casa estiver em ordem, não duvide: você ficará bem.</strong></a>
 </p>
 
 <p align="justify">
-  2 – <em>“Luz indireta. Um abajur faz toda diferença e percebi isto principalmente porque estou sem lustre no quarto, daí fica aquela luz branca gritante. Além do mais, uma vela ou aromatizador de ambientes suave”.</em> <strong>Dica da Renata Becker Wentz, do blog </strong><a href="http://www.vidaloucadecasada.blogspot.com.br/" target="_blank"><strong>VLC – Vida Louca de Casada</strong></a>
+  2 – <em>“Luz indireta. Um abajur faz toda diferença e percebi isto principalmente porque estou sem lustre no quarto, daí fica aquela luz branca gritante. Além do mais, uma vela ou aromatizador de ambientes suave”.</em> <strong>Dica da Renata Becker Wentz, do blog </strong><a href="http://www.vidaloucadecasada.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>VLC – Vida Louca de Casada</strong></a>
 </p>
 
 <p align="justify">
@@ -47,11 +44,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/05/19/aromatizador-de-ambientes/" target="_blank"><strong>Aromatizador de ambientes: como fazer?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/05/19/aromatizador-de-ambientes/" target="_blank" rel="noopener noreferrer"><strong>Aromatizador de ambientes: como fazer?</strong></a>
 </p>
 
 <p align="justify">
-  3 –<em> “A minha dica para deixar o quarto mais tranquilo e aconchegante é escolher a lâmpada certa. As pessoas começaram a fazer uso das lâmpadas fluorescentes, pois consomem menos energia, mas esqueceram de cuidar do conforto que um lar deve ter. Seu espaço de descanso não deve ser frio como um ambiente comercial, ele tem que trazer tranquilidade. E a gente pode sim aliar isso à economia das lâmpadas frias. Na hora de comprar a lâmpada procure pelo branco quente, pois esta possui o mesmo tom das lâmpadas antigas. Seja no teto ou no abajur, o ambiente ficará mais acolhedor.”</em> <strong>Dica da Raquel Martins (Keka), do blog </strong><a href="http://www.tresemcasa.com.br/" target="_blank"><strong>3 em Casa</strong></a>
+  3 –<em> “A minha dica para deixar o quarto mais tranquilo e aconchegante é escolher a lâmpada certa. As pessoas começaram a fazer uso das lâmpadas fluorescentes, pois consomem menos energia, mas esqueceram de cuidar do conforto que um lar deve ter. Seu espaço de descanso não deve ser frio como um ambiente comercial, ele tem que trazer tranquilidade. E a gente pode sim aliar isso à economia das lâmpadas frias. Na hora de comprar a lâmpada procure pelo branco quente, pois esta possui o mesmo tom das lâmpadas antigas. Seja no teto ou no abajur, o ambiente ficará mais acolhedor.”</em> <strong>Dica da Raquel Martins (Keka), do blog </strong><a href="http://www.tresemcasa.com.br/" target="_blank" rel="noopener noreferrer"><strong>3 em Casa</strong></a>
 </p>
 
 <p align="justify">
@@ -59,7 +56,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

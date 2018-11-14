@@ -1,10 +1,7 @@
 ---
-id: 2617
 title: 'Decoração da casa: ideias e sugestões.'
-date: 2009-02-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/02/08/ideias-decoracao-casa/
 permalink: /2009/02/08/ideias-decoracao-casa/
 categories:
   - Dicas de Decoração
@@ -73,7 +70,7 @@ categories:
   <span style="color: #000000;">Pratos mimosos e bonitos para, literalmente, florescer seu dia-a-dia.</span>
 </p>
 
-<span style="color: #000000;"><em>Imagens:  </em><a href="http://www.ivillage.com/" target="_blank"><em>iVillage</em></a></span>
+<span style="color: #000000;"><em>Imagens:  </em><a href="http://www.ivillage.com/" target="_blank" rel="noopener noreferrer"><em>iVillage</em></a></span>
 
 <span style="color: #000000;"><strong>Quer mais dicas e sugestões de estratégias, ou detalhes, para a decoração de sua casa?</strong></span>
 

@@ -1,15 +1,12 @@
 ---
-id: 2983
 title: Queria dividir uma alegria contigo…
-date: 2011-04-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/04/25/entrevista-bicha-femea/
 permalink: /2011/04/25/entrevista-bicha-femea/
 categories:
   - Trololó
 ---
-Recentemente fui convidada para dar uma entrevista para o site **<a href="http://rius.com.br/" target="_blank">Rius – Rede de Informação Universal</a>**, cujo foco é compartilhar informação e conhecimento sobre negócios e entretenimento. Imagina como fiquei quando recebi o convite? Isso mesmo: igual “pinto no lixo”!
+Recentemente fui convidada para dar uma entrevista para o site **<a href="http://rius.com.br/" target="_blank" rel="noopener noreferrer">Rius – Rede de Informação Universal</a>**, cujo foco é compartilhar informação e conhecimento sobre negócios e entretenimento. Imagina como fiquei quando recebi o convite? Isso mesmo: igual “pinto no lixo”!
 
 <p style="text-align: justify;">
   Na entrevista falei um pouco sobre mim, sobre o Bicha Fêmea e a blogosfera em si, sobretudo como acredito na forma que deve ser a relação entre quem edita um blog e quem o lê, assim como você e eu…
@@ -18,7 +15,7 @@ Recentemente fui convidada para dar uma entrevista para o site **<a href="http:/
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Lidiane-Vasconcelos-Bicha-Femea.jpg"><img class="alignnone size-full wp-image-6279" title="Lidiane Vasconcelos Bicha Fêmea" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Lidiane-Vasconcelos-Bicha-Femea.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/Lidiane-Vasconcelos-Bicha-Femea.jpg"><img class="alignnone size-full wp-image-6279" title="Lidiane Vasconcelos Bicha Fêmea" src="https://www.trololodemulher.com.br/2011/04/Lidiane-Vasconcelos-Bicha-Femea.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 Pois é, bonita! Com quem mais eu dividiria essa alegria se não fosse contigo? Então, se quiser dar uma espiada e depois me contar o que você achou, a entrevista está bem **aqui**. É só clicar!

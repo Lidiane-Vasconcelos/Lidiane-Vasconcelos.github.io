@@ -1,10 +1,7 @@
 ---
-id: 2895
 title: Decoração bonita em banheiro, sem organização, não vale nada!
-date: 2010-10-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/10/25/decoracao-banheiro-organizacao/
 permalink: /2010/10/25/decoracao-banheiro-organizacao/
 categories:
   - Banheiro
@@ -45,7 +42,7 @@ Ou você acha que vale? Se estamos de acordo e concluímos que **_antes de decor
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Bandeja-Lavanda1200.jpg"></a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Bandeja-Lavanda1200.jpg"><img class="alignnone size-full wp-image-5343" title="Bandeja Lavanda1200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Bandeja-Lavanda1200.jpg" alt="" width="200" height="133" /></a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Bandeja-Lavanda1200.jpg"></a>
+      <a href="https://www.trololodemulher.com.br/2010/10/Bandeja-Lavanda1200.jpg"></a><a href="https://www.trololodemulher.com.br/2010/10/Bandeja-Lavanda1200.jpg"><img class="alignnone size-full wp-image-5343" title="Bandeja Lavanda1200" src="https://www.trololodemulher.com.br/2010/10/Bandeja-Lavanda1200.jpg" alt="" width="200" height="133" /></a><a href="https://www.trololodemulher.com.br/2010/10/Bandeja-Lavanda1200.jpg"></a>
     </td>
     
     <td width="300" valign="top">
@@ -95,7 +92,7 @@ Ou você acha que vale? Se estamos de acordo e concluímos que **_antes de decor
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/banheiro200.jpg"><img class="alignnone size-full wp-image-5345" title="banheiro200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/banheiro200.jpg" alt="" width="200" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/10/banheiro200.jpg"><img class="alignnone size-full wp-image-5345" title="banheiro200" src="https://www.trololodemulher.com.br/2010/10/banheiro200.jpg" alt="" width="200" height="200" /></a>
     </td>
   </tr>
 </table>
@@ -106,7 +103,7 @@ Ou você acha que vale? Se estamos de acordo e concluímos que **_antes de decor
   Você certamente tem alguma dica para deixar aqui também, estou certa? Então vai lá nos comentários e deixa tua sugestão para organizar e decorar o banheiro. As bichas fêmeas navegantes agradecem…
 </p>
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xghng</em></a>
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xghng</em></a>
 
 **Mais no Bicha Fêmea…**
 

@@ -1,15 +1,12 @@
 ---
-id: 3088
 title: Produtinhos de beleza recomendados pela blogueira Pauline Costa
-date: 2011-12-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/12/05/produtos-de-beleza/
 permalink: /2011/12/05/produtos-de-beleza/
 categories:
   - Beleza
 ---
-A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a href="http://cheiadecharme.blog.br/" target="_blank">Cheia de Charme</a>**. O blog existe há 1 ano, mas a moça está presente na blogosfera desde 2003. A bonita, que é jornalista por formação, decidiu criar o espaço para dividir suas experiências e refletir sobre o universo feminino.
+A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a href="http://cheiadecharme.blog.br/" target="_blank" rel="noopener noreferrer">Cheia de Charme</a>**. O blog existe há 1 ano, mas a moça está presente na blogosfera desde 2003. A bonita, que é jornalista por formação, decidiu criar o espaço para dividir suas experiências e refletir sobre o universo feminino.
 
 &nbsp;
 
@@ -20,7 +17,7 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/pauline-costa.jpg"><img class="alignnone size-full wp-image-8271" title="pauline-costa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/pauline-costa.jpg" alt="" width="400" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/pauline-costa.jpg"><img class="alignnone size-full wp-image-8271" title="pauline-costa" src="https://www.trololodemulher.com.br/2011/12/pauline-costa.jpg" alt="" width="400" height="600" /></a>
 </p>
 
 &nbsp;
@@ -52,27 +49,27 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/mascara_clareadora_anna_pegova.jpg"><img class="alignnone size-full wp-image-8270" title="mascara_clareadora_anna_pegova" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/mascara_clareadora_anna_pegova.jpg" alt="" width="200" height="398" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/mascara_clareadora_anna_pegova.jpg"><img class="alignnone size-full wp-image-8270" title="mascara_clareadora_anna_pegova" src="https://www.trololodemulher.com.br/2011/12/mascara_clareadora_anna_pegova.jpg" alt="" width="200" height="398" /></a>
 </p>
 
 <p align="center">
-  <strong><a href="http://cheiadecharme.blog.br/mascara-clareadora-anna-pegova/" target="_blank">Máscara Clareadora – Anna Pegova</a>, </strong>usada e aprovada pela blogueira, que até mostrou imagens das diferenças em sua pele já na primeira aplicação. É só conferir!
+  <strong><a href="http://cheiadecharme.blog.br/mascara-clareadora-anna-pegova/" target="_blank" rel="noopener noreferrer">Máscara Clareadora – Anna Pegova</a>, </strong>usada e aprovada pela blogueira, que até mostrou imagens das diferenças em sua pele já na primeira aplicação. É só conferir!
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/annapegova_mascara_purificante_pele.jpg"><img class="alignnone size-full wp-image-8263" title="annapegova_mascara_purificante_pele" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/annapegova_mascara_purificante_pele.jpg" alt="" width="416" height="564" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/annapegova_mascara_purificante_pele.jpg"><img class="alignnone size-full wp-image-8263" title="annapegova_mascara_purificante_pele" src="https://www.trololodemulher.com.br/2011/12/annapegova_mascara_purificante_pele.jpg" alt="" width="416" height="564" /></a>
 </p>
 
 <p align="center">
-  <strong><a href="http://cheiadecharme.blog.br/mascara-purificante-para-peles-oleosas-anna-pegova/" target="_blank">Máscara Purificante Para Peles Oleosas – Anna Pegova</a>, </strong>super indicado pela bonita para quem sofre com oleosidade e tem acne leve.
+  <strong><a href="http://cheiadecharme.blog.br/mascara-purificante-para-peles-oleosas-anna-pegova/" target="_blank" rel="noopener noreferrer">Máscara Purificante Para Peles Oleosas – Anna Pegova</a>, </strong>super indicado pela bonita para quem sofre com oleosidade e tem acne leve.
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/annapegova.jpg"><img class="alignnone size-full wp-image-8262" title="annapegova" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/annapegova.jpg" alt="" width="597" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/annapegova.jpg"><img class="alignnone size-full wp-image-8262" title="annapegova" src="https://www.trololodemulher.com.br/2011/12/annapegova.jpg" alt="" width="597" height="600" /></a>
 </p>
 
 <p align="center">
-  <strong><a href="http://cheiadecharme.blog.br/hidratante-oil-free-anna-pegova/" target="_blank">Hidratante Oil Free Anna Pegova</a>, </strong>especial para peles oleosas e mistas-oleosas.
+  <strong><a href="http://cheiadecharme.blog.br/hidratante-oil-free-anna-pegova/" target="_blank" rel="noopener noreferrer">Hidratante Oil Free Anna Pegova</a>, </strong>especial para peles oleosas e mistas-oleosas.
 </p>
 
 &nbsp;
@@ -84,35 +81,35 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/batom_revlon_lisptick_matte_in_the_red.jpg"><img class="alignnone size-full wp-image-8266" title="batom_revlon_lisptick_matte_in_the_red" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/batom_revlon_lisptick_matte_in_the_red.jpg" alt="" width="318" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/batom_revlon_lisptick_matte_in_the_red.jpg"><img class="alignnone size-full wp-image-8266" title="batom_revlon_lisptick_matte_in_the_red" src="https://www.trololodemulher.com.br/2011/12/batom_revlon_lisptick_matte_in_the_red.jpg" alt="" width="318" height="600" /></a>
 </p>
 
 <p align="center">
-  <strong><a href="http://cheiadecharme.blog.br/batom-revlon-matte-in-the-red/" target="_blank">Batom Revlon Matte – In The Red</a></strong>
+  <strong><a href="http://cheiadecharme.blog.br/batom-revlon-matte-in-the-red/" target="_blank" rel="noopener noreferrer">Batom Revlon Matte – In The Red</a></strong>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/batom_revlon_wild_orchid_lipstick.jpg"><img class="alignnone size-full wp-image-8267" title="batom_revlon_wild_orchid_lipstick" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/batom_revlon_wild_orchid_lipstick.jpg" alt="" width="383" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/batom_revlon_wild_orchid_lipstick.jpg"><img class="alignnone size-full wp-image-8267" title="batom_revlon_wild_orchid_lipstick" src="https://www.trololodemulher.com.br/2011/12/batom_revlon_wild_orchid_lipstick.jpg" alt="" width="383" height="600" /></a>
 </p>
 
 <p align="center">
-  <strong><a href="http://cheiadecharme.blog.br/batom-revlon-wild-orchid/" target="_blank">Batom Revlon – Wild Orchid</a></strong>
+  <strong><a href="http://cheiadecharme.blog.br/batom-revlon-wild-orchid/" target="_blank" rel="noopener noreferrer">Batom Revlon – Wild Orchid</a></strong>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/batom_revlon_berry_haute.jpg"><img class="alignnone size-full wp-image-8265" title="batom_revlon_berry_haute" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/batom_revlon_berry_haute.jpg" alt="" width="335" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/batom_revlon_berry_haute.jpg"><img class="alignnone size-full wp-image-8265" title="batom_revlon_berry_haute" src="https://www.trololodemulher.com.br/2011/12/batom_revlon_berry_haute.jpg" alt="" width="335" height="600" /></a>
 </p>
 
 <p align="center">
-  <strong><a href="http://cheiadecharme.blog.br/batom-revlon-creme-berry-haute/" target="_blank">Batom Revlon Creme – Berry Haute 660</a></strong>
+  <strong><a href="http://cheiadecharme.blog.br/batom-revlon-creme-berry-haute/" target="_blank" rel="noopener noreferrer">Batom Revlon Creme – Berry Haute 660</a></strong>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/revlon_mate_coral.jpg"><img class="alignnone size-full wp-image-8274" title="revlon_mate_coral" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/revlon_mate_coral.jpg" alt="" width="300" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/revlon_mate_coral.jpg"><img class="alignnone size-full wp-image-8274" title="revlon_mate_coral" src="https://www.trololodemulher.com.br/2011/12/revlon_mate_coral.jpg" alt="" width="300" height="600" /></a>
 </p>
 
 <p align="center">
-  <strong><a href="http://cheiadecharme.blog.br/batom-revlon-mate-pink-about-it/" target="_blank">Batom Revlon Mate – Pink About It</a></strong>
+  <strong><a href="http://cheiadecharme.blog.br/batom-revlon-mate-pink-about-it/" target="_blank" rel="noopener noreferrer">Batom Revlon Mate – Pink About It</a></strong>
 </p>
 
 &nbsp;
@@ -124,11 +121,11 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/esmalte_revlon_plum_seduction_rosa_homederm.jpg"><img class="alignnone size-full wp-image-8269" title="esmalte_revlon_plum_seduction_rosa_homederm" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/esmalte_revlon_plum_seduction_rosa_homederm.jpg" alt="" width="600" height="405" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/esmalte_revlon_plum_seduction_rosa_homederm.jpg"><img class="alignnone size-full wp-image-8269" title="esmalte_revlon_plum_seduction_rosa_homederm" src="https://www.trololodemulher.com.br/2011/12/esmalte_revlon_plum_seduction_rosa_homederm.jpg" alt="" width="600" height="405" /></a>
 </p>
 
 <p align="center">
-  <strong><a href="http://cheiadecharme.blog.br/fazendo-as-unhas-na-homederm/" target="_blank">Plum Seduction, da Revlon</a></strong>
+  <strong><a href="http://cheiadecharme.blog.br/fazendo-as-unhas-na-homederm/" target="_blank" rel="noopener noreferrer">Plum Seduction, da Revlon</a></strong>
 </p>
 
 &nbsp;
@@ -140,25 +137,25 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/desirius_contker.jpg"><img class="alignnone size-full wp-image-8268" title="desirius_contker" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/desirius_contker.jpg" alt="" width="600" height="268" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/desirius_contker.jpg"><img class="alignnone size-full wp-image-8268" title="desirius_contker" src="https://www.trololodemulher.com.br/2011/12/desirius_contker.jpg" alt="" width="600" height="268" /></a>
 </p>
 
 <p align="center">
-  <strong><a href="http://cheiadecharme.blog.br/leave-in-milagroso-da-de_sirius-esse-e-top/" target="_blank">Leave-in da De Sirius</a></strong>
+  <strong><a href="http://cheiadecharme.blog.br/leave-in-milagroso-da-de_sirius-esse-e-top/" target="_blank" rel="noopener noreferrer">Leave-in da De Sirius</a></strong>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/argan_qod.jpg"><img class="alignnone size-full wp-image-8264" title="argan_qod" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/argan_qod.jpg" alt="" width="300" height="411" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/argan_qod.jpg"><img class="alignnone size-full wp-image-8264" title="argan_qod" src="https://www.trololodemulher.com.br/2011/12/argan_qod.jpg" alt="" width="300" height="411" /></a>
 </p>
 
 <p align="center">
-  <strong><a href="http://cheiadecharme.blog.br/usei-e-adorei-oleo-de-argan-qod/" target="_blank">Óleo de Argan – QOD</a></strong>
+  <strong><a href="http://cheiadecharme.blog.br/usei-e-adorei-oleo-de-argan-qod/" target="_blank" rel="noopener noreferrer">Óleo de Argan – QOD</a></strong>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Depois de tantas dicas bacanas, precisa dizer que acompanhar de perto as atualizações de conteúdo da <strong>Pauline</strong> no <strong><a href="http://cheiadecharme.blog.br/" target="_blank">Cheia de Charme</a></strong> vale muito a pena? Se joga!
+  Depois de tantas dicas bacanas, precisa dizer que acompanhar de perto as atualizações de conteúdo da <strong>Pauline</strong> no <strong><a href="http://cheiadecharme.blog.br/" target="_blank" rel="noopener noreferrer">Cheia de Charme</a></strong> vale muito a pena? Se joga!
 </p>
 
 <p align="center">
@@ -169,13 +166,13 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/"><img class="alignnone size-full wp-image-8213" title="Batom YVS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Batom-YVS200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/"><span style="font-size: small;">Esmalte, batom e sombra… uma explosão de cores no Bicha Fêmea!</span></a></strong>
+        <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/"><img class="alignnone size-full wp-image-8213" title="Batom YVS200" src="https://www.trololodemulher.com.br/2011/11/Batom-YVS200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/"><span style="font-size: small;">Esmalte, batom e sombra… uma explosão de cores no Bicha Fêmea!</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2011/10/17/beleza-da-pele-no-verao/"><img class="alignnone size-full wp-image-7019" title="beleza da pele200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/beleza-da-pele200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/10/17/beleza-da-pele-no-verao/"><span style="font-size: small;">Pescoço, costas e cotovelo: beleza da pele no Verão.</span></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2011/10/17/beleza-da-pele-no-verao/"><img class="alignnone size-full wp-image-7019" title="beleza da pele200" src="https://www.trololodemulher.com.br/2011/10/beleza-da-pele200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/10/17/beleza-da-pele-no-verao/"><span style="font-size: small;">Pescoço, costas e cotovelo: beleza da pele no Verão.</span></a></strong>
       </p>
     </td>
   </tr>
@@ -183,13 +180,13 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2011/10/03/dicas-de-maquiagem/"><img class="alignnone size-full wp-image-6981" title="maquiagem[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem2200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/10/03/dicas-de-maquiagem/"><span style="font-size: small;">Dicas de maquiagem para um visual… “melhor, impossível”!</span></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2011/10/03/dicas-de-maquiagem/"><img class="alignnone size-full wp-image-6981" title="maquiagem[2]200" src="https://www.trololodemulher.com.br/2011/09/maquiagem2200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/10/03/dicas-de-maquiagem/"><span style="font-size: small;">Dicas de maquiagem para um visual… “melhor, impossível”!</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2011/09/26/cuidados-com-os-cabelos/"><img class="alignnone size-full wp-image-6952" title="cabelos200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cabelos200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/09/26/cuidados-com-os-cabelos/"><span style="font-size: small;">Cuidados com os cabelos: 3 perguntas para uma cabeleireira</span></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2011/09/26/cuidados-com-os-cabelos/"><img class="alignnone size-full wp-image-6952" title="cabelos200" src="https://www.trololodemulher.com.br/2011/09/cabelos200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/09/26/cuidados-com-os-cabelos/"><span style="font-size: small;">Cuidados com os cabelos: 3 perguntas para uma cabeleireira</span></a></strong>
       </p>
     </td>
   </tr>
@@ -211,13 +208,13 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="http://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     

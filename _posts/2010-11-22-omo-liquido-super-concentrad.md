@@ -1,10 +1,7 @@
 ---
-id: 2915
 title: 'De bicha fêmea para bicha fêmea: Omo Líquido Super Concentrado'
-date: 2010-11-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/11/22/omo-liquido-super-concentrad/
 permalink: /2010/11/22/omo-liquido-super-concentrad/
 categories:
   - Publieditorial
@@ -14,7 +11,7 @@ Você já experimentou o novo sabão Omo Líquido Super Concentrado? Eu, sim. F
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/OMO-Liquido-Super-Concentrado-2-produto.jpg"><img class="alignnone size-full wp-image-5511" title="OMO Líquido Super Concentrado (2) produto" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/OMO-Liquido-Super-Concentrado-2-produto.jpg" alt="" width="259" height="389" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/OMO-Liquido-Super-Concentrado-2-produto.jpg"><img class="alignnone size-full wp-image-5511" title="OMO Líquido Super Concentrado (2) produto" src="https://www.trololodemulher.com.br/2010/11/OMO-Liquido-Super-Concentrado-2-produto.jpg" alt="" width="259" height="389" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -30,7 +27,7 @@ Você já experimentou o novo sabão Omo Líquido Super Concentrado? Eu, sim. F
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Super-Nice.jpg"><img class="alignnone size-full wp-image-5512" title="Super Nice" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Super-Nice.jpg" alt="" width="320" height="480" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/Super-Nice.jpg"><img class="alignnone size-full wp-image-5512" title="Super Nice" src="https://www.trololodemulher.com.br/2010/11/Super-Nice.jpg" alt="" width="320" height="480" /></a>
 </p>
 
 <p style="text-align: justify;">

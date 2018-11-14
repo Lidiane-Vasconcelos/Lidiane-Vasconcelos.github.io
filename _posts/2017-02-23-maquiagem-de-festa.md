@@ -1,10 +1,7 @@
 ---
-id: 3731
 title: Veja como aplicar 5 truques de maquiagem de festa.
-date: 2017-02-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/02/23/maquiagem-de-festa/
 permalink: /2017/02/23/maquiagem-de-festa/
 categories:
   - Beleza
@@ -14,19 +11,19 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13528" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA800.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA800" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13528" src="https://www.trololodemulher.com.br/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA800.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA800" width="800" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/breatheindigital/5310642706/" target="_blank">RLHyde</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA</a>
+  Imagem: <a href="https://www.flickr.com/photos/breatheindigital/5310642706/" target="_blank" rel="noopener noreferrer">RLHyde</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank" rel="noopener noreferrer">CC BY-SA</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13518" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-BOCA-VERMELHA2.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-BOCA VERMELHA[2]" width="677" height="270" />
+  <img class="alignnone size-full wp-image-13518" src="https://www.trololodemulher.com.br/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-BOCA-VERMELHA2.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-BOCA VERMELHA[2]" width="677" height="270" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13517" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-BOCA-VERMELHA.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-BOCA VERMELHA" width="730" height="615" />
+  <img class="alignnone size-full wp-image-13517" src="https://www.trololodemulher.com.br/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-BOCA-VERMELHA.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-BOCA VERMELHA" width="730" height="615" />
 </p>
 
 <p align="center">
@@ -46,11 +43,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13525" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-SOMBRA-METALIZADA.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-SOMBRA METALIZADA" width="670" height="240" />
+  <img class="alignnone size-full wp-image-13525" src="https://www.trololodemulher.com.br/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-SOMBRA-METALIZADA.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-SOMBRA METALIZADA" width="670" height="240" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13526" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-SOMBRA-METALIZADA2.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-SOMBRA METALIZADA[2]" width="620" height="372" />
+  <img class="alignnone size-full wp-image-13526" src="https://www.trololodemulher.com.br/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-SOMBRA-METALIZADA2.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-SOMBRA METALIZADA[2]" width="620" height="372" />
 </p>
 
 <p align="center">
@@ -62,11 +59,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13519" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-DELINEADO-GATINHO.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-DELINEADO GATINHO" width="655" height="247" />
+  <img class="alignnone size-full wp-image-13519" src="https://www.trololodemulher.com.br/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-DELINEADO-GATINHO.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-DELINEADO GATINHO" width="655" height="247" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13520" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-DELINEADO-GATINHO2.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-DELINEADO GATINHO[2]" width="652" height="408" />
+  <img class="alignnone size-full wp-image-13520" src="https://www.trololodemulher.com.br/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-DELINEADO-GATINHO2.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-DELINEADO GATINHO[2]" width="652" height="408" />
 </p>
 
 <p align="center">
@@ -78,11 +75,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13521" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-MAQUIAGEM-LEVE.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-MAQUIAGEM LEVE" width="671" height="254" />
+  <img class="alignnone size-full wp-image-13521" src="https://www.trololodemulher.com.br/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-MAQUIAGEM-LEVE.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-MAQUIAGEM LEVE" width="671" height="254" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13522" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-MAQUIAGEM-LEVE2.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-MAQUIAGEM LEVE[2]" width="600" height="738" />
+  <img class="alignnone size-full wp-image-13522" src="https://www.trololodemulher.com.br/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-MAQUIAGEM-LEVE2.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-MAQUIAGEM LEVE[2]" width="600" height="738" />
 </p>
 
 <p align="center">
@@ -94,11 +91,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13523" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-NUDE.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-NUDE" width="671" height="270" />
+  <img class="alignnone size-full wp-image-13523" src="https://www.trololodemulher.com.br/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-NUDE.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-NUDE" width="671" height="270" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13524" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-NUDE2.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-NUDE[2]" width="700" height="465" />
+  <img class="alignnone size-full wp-image-13524" src="https://www.trololodemulher.com.br/2017/02/MAQUIAGEM-MAQUIAGEM-DE-FESTA-NUDE2.jpg" alt="MAQUIAGEM-MAQUIAGEM DE FESTA-NUDE[2]" width="700" height="465" />
 </p>
 
 <p align="center">
@@ -122,7 +119,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11903" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/MARCIA-DAMASCENO-MAQUIADORA-BELO-HORIZONTE-MINAS-GERAIS-MAQUIAGEM-NAO-E-TUDO2.jpg" alt="MARCIA DAMASCENO-MAQUIADORA-BELO HORIZONTE-MINAS GERAIS-MAQUIAGEM NAO E TUDO[2]" width="800" height="204" />
+  <img class="alignnone size-full wp-image-11903" src="https://www.trololodemulher.com.br/2016/02/MARCIA-DAMASCENO-MAQUIADORA-BELO-HORIZONTE-MINAS-GERAIS-MAQUIAGEM-NAO-E-TUDO2.jpg" alt="MARCIA DAMASCENO-MAQUIADORA-BELO HORIZONTE-MINAS GERAIS-MAQUIAGEM NAO E TUDO[2]" width="800" height="204" />
 </p>
 
 <p align="justify">
@@ -130,23 +127,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/12/15/consultoria-online-de-maquiagem/" target="_blank"><strong>Consultoria online de maquiagem pra ser você mesma.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/12/15/consultoria-online-de-maquiagem/" target="_blank" rel="noopener noreferrer"><strong>Consultoria online de maquiagem pra ser você mesma.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/10/24/maquiagem-rosa/" target="_blank"><strong>Como usar maquiagem rosa sem parecer desatualizada?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/10/24/maquiagem-rosa/" target="_blank" rel="noopener noreferrer"><strong>Como usar maquiagem rosa sem parecer desatualizada?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank"><strong>Medidas práticas para restaurar sua autoestima… já!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank" rel="noopener noreferrer"><strong>Medidas práticas para restaurar sua autoestima… já!</strong></a>
 </p>
 
 <p align="justify">
-  Bonita, preciso dizer que meu coração saltitou de alegria quando conheci o trabalho da Márcia. “<em>Como assim uma maquiadora diz que maquiagem não é tudo, sendo essa sua profissão?</em>”, foi o que pensei logo que tomei conhecimento dessa profissional linda de viver. Isso me instigou muito, principalmente porque sempre acreditei nessa máxima, mas nunca vi um <em>expert</em> em <em>makes</em> propor uma abordagem nessa área que fosse além da estética. Que achado! Você <em>pre-ci-sa</em> conhecer o <a href="http://www.marciadamasceno.com.br/" target="_blank">site da Márcia</a>, sua <a href="https://www.facebook.com/maquiagemnaoetudo/timeline" target="_blank">fanpage</a>, <a href="http://www.marciadamasceno.com.br/#blog" target="_blank">seu blog</a>, <a href="https://www.instagram.com/maquiagemnaoetudo/" target="_blank">seu Instagram</a>, e <a href="http://www.marciadamasceno.com.br/produtos-marcia-damasceno/">sua loja</a>… prepare-se para uma deliciosa imersão em dicas simples e diretas sobre maquiagem, bem-estar e tudo o mais que nos deixa inspiradas a se cuidar melhor. É conteúdo de primeira, imperdível e apaixonante. Se joga!
+  Bonita, preciso dizer que meu coração saltitou de alegria quando conheci o trabalho da Márcia. “<em>Como assim uma maquiadora diz que maquiagem não é tudo, sendo essa sua profissão?</em>”, foi o que pensei logo que tomei conhecimento dessa profissional linda de viver. Isso me instigou muito, principalmente porque sempre acreditei nessa máxima, mas nunca vi um <em>expert</em> em <em>makes</em> propor uma abordagem nessa área que fosse além da estética. Que achado! Você <em>pre-ci-sa</em> conhecer o <a href="http://www.marciadamasceno.com.br/" target="_blank" rel="noopener noreferrer">site da Márcia</a>, sua <a href="https://www.facebook.com/maquiagemnaoetudo/timeline" target="_blank" rel="noopener noreferrer">fanpage</a>, <a href="http://www.marciadamasceno.com.br/#blog" target="_blank" rel="noopener noreferrer">seu blog</a>, <a href="https://www.instagram.com/maquiagemnaoetudo/" target="_blank" rel="noopener noreferrer">seu Instagram</a>, e <a href="http://www.marciadamasceno.com.br/produtos-marcia-damasceno/">sua loja</a>… prepare-se para uma deliciosa imersão em dicas simples e diretas sobre maquiagem, bem-estar e tudo o mais que nos deixa inspiradas a se cuidar melhor. É conteúdo de primeira, imperdível e apaixonante. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

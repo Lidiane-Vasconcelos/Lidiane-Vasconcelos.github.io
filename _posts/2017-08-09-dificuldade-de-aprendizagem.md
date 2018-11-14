@@ -1,10 +1,7 @@
 ---
-id: 3780
 title: Saiba como contornar a dificuldade de aprendizagem de sua cria!
-date: 2017-08-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/08/09/dificuldade-de-aprendizagem/
 permalink: /2017/08/09/dificuldade-de-aprendizagem/
 categories:
   - Comportamento Infantil
@@ -19,11 +16,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13946" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/DESENVOLVIMENTO-INFANTIL-APRENDIZAGEM-INFANTIL-DIFICULDADE-DE-APRENDIZAGEM.jpg" alt="DESENVOLVIMENTO INFANTIL-APRENDIZAGEM INFANTIL-DIFICULDADE DE APRENDIZAGEM" width="800" height="485" />
+  <img class="alignnone size-full wp-image-13946" src="https://www.trololodemulher.com.br/2017/08/DESENVOLVIMENTO-INFANTIL-APRENDIZAGEM-INFANTIL-DIFICULDADE-DE-APRENDIZAGEM.jpg" alt="DESENVOLVIMENTO INFANTIL-APRENDIZAGEM INFANTIL-DIFICULDADE DE APRENDIZAGEM" width="800" height="485" />
 </p>
 
 <p style="text-align: center;">
-  Imagem: <a href="http://www.flickr.com/photos/20587522@N00/" target="_blank">daystar297</a> via <a href="http://foter.com/re/bf9049" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC BY-NC</a>
+  Imagem: <a href="http://www.flickr.com/photos/20587522@N00/" target="_blank" rel="noopener noreferrer">daystar297</a> via <a href="http://foter.com/re/bf9049" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC</a>
 </p>
 
 <p style="text-align: justify;">
@@ -59,11 +56,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13949" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ELIANE-VOLPE-PSICOPEDAGOGA-CURITIBA-PARANÁ.jpg" alt="ELIANE VOLPE-PSICOPEDAGOGA-CURITIBA-PARANÁ" width="800" height="217" />
+  <img class="alignnone size-full wp-image-13949" src="https://www.trololodemulher.com.br/2017/08/ELIANE-VOLPE-PSICOPEDAGOGA-CURITIBA-PARANÁ.jpg" alt="ELIANE VOLPE-PSICOPEDAGOGA-CURITIBA-PARANÁ" width="800" height="217" />
 </p>
 
 <p style="text-align: justify;">
-  Eliane tem experiência de 20 anos na área de educação como Professora , Pedagoga e Diretora de Centro Municipal de Educação Infantil. Hoje atua como pedagoga da Rede Municipal de Ensino e como psicopedagoga clínica, com foco principal na Avaliação e Intervenção psicopedagógica para crianças, adolescentes e adultos com dificuldades de aprendizagem. Profere palestras para docentes e familiares sobre dificuldades de aprendizagem e desenvolvimento infantil. Para maiores detalhes sobre seu trabalho, acompanhe suas redes sociais: <a href="https://www.facebook.com/psicopedagogaelianevolpe/" target="_blank">FanPage no Facebook</a> e <a href="https://www.instagram.com/psicopedagogaelianevolpe/" target="_blank">perfil no Instagram</a>.
+  Eliane tem experiência de 20 anos na área de educação como Professora , Pedagoga e Diretora de Centro Municipal de Educação Infantil. Hoje atua como pedagoga da Rede Municipal de Ensino e como psicopedagoga clínica, com foco principal na Avaliação e Intervenção psicopedagógica para crianças, adolescentes e adultos com dificuldades de aprendizagem. Profere palestras para docentes e familiares sobre dificuldades de aprendizagem e desenvolvimento infantil. Para maiores detalhes sobre seu trabalho, acompanhe suas redes sociais: <a href="https://www.facebook.com/psicopedagogaelianevolpe/" target="_blank" rel="noopener noreferrer">FanPage no Facebook</a> e <a href="https://www.instagram.com/psicopedagogaelianevolpe/" target="_blank" rel="noopener noreferrer">perfil no Instagram</a>.
 </p>
 
 <p style="text-align: justify;">
@@ -71,7 +68,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p style="text-align: justify;">

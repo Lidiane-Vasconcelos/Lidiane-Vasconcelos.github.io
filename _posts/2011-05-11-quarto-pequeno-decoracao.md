@@ -1,10 +1,7 @@
 ---
-id: 2991
 title: Quarto pequeno com cama + mesa de computador + guarda-roupa é possível?
-date: 2011-05-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/05/11/quarto-pequeno-decoracao/
 permalink: /2011/05/11/quarto-pequeno-decoracao/
 categories:
   - Pequenos Espaços
@@ -40,7 +37,7 @@ categories:
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/mesa-computador-embaixo-da-cama.jpg"><img class="alignnone size-full wp-image-6354" title="mesa computador embaixo da cama" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/mesa-computador-embaixo-da-cama.jpg" alt="" width="556" height="556" /></a><br /> <strong><a href="http://www.ohdeedoh.com/" target="_blank">ohdeedoh</a></strong>
+    <a href="https://www.trololodemulher.com.br/2011/05/mesa-computador-embaixo-da-cama.jpg"><img class="alignnone size-full wp-image-6354" title="mesa computador embaixo da cama" src="https://www.trololodemulher.com.br/2011/05/mesa-computador-embaixo-da-cama.jpg" alt="" width="556" height="556" /></a><br /> <strong><a href="http://www.ohdeedoh.com/" target="_blank" rel="noopener noreferrer">ohdeedoh</a></strong>
   </p>
   
   <p style="text-align: justify;">
@@ -64,7 +61,7 @@ categories:
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/guarda-roupas-closet-armario.jpg"><img class="alignnone size-full wp-image-6347" title="guarda-roupas closet armário" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/guarda-roupas-closet-armario.jpg" alt="" width="300" height="300" /></a>
+    <a href="https://www.trololodemulher.com.br/2011/05/guarda-roupas-closet-armario.jpg"><img class="alignnone size-full wp-image-6347" title="guarda-roupas closet armário" src="https://www.trololodemulher.com.br/2011/05/guarda-roupas-closet-armario.jpg" alt="" width="300" height="300" /></a>
   </p>
   
   <p style="text-align: justify;">
@@ -76,7 +73,7 @@ categories:
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/guarda-roupas-closet-armario-comentado.jpg"><img class="alignnone size-full wp-image-6350" title="guarda-roupas closet armário comentado" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/guarda-roupas-closet-armario-comentado.jpg" alt="" width="300" height="300" /></a>
+    <a href="https://www.trololodemulher.com.br/2011/05/guarda-roupas-closet-armario-comentado.jpg"><img class="alignnone size-full wp-image-6350" title="guarda-roupas closet armário comentado" src="https://www.trololodemulher.com.br/2011/05/guarda-roupas-closet-armario-comentado.jpg" alt="" width="300" height="300" /></a>
   </p>
   
   <p style="text-align: justify;">
@@ -88,11 +85,11 @@ categories:
   </p>
   
   <p style="text-align: justify;">
-    <strong><a href="http://www.decoracaodacasa.com/arrumacao-do-guarda-roupas/" target="_blank">2 dicas simples para a arrumação do guarda-roupas.</a></strong>
+    <strong><a href="http://www.decoracaodacasa.com/arrumacao-do-guarda-roupas/" target="_blank" rel="noopener noreferrer">2 dicas simples para a arrumação do guarda-roupas.</a></strong>
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/guarda-roupas-closet-armario1.jpg"><img class="alignnone size-full wp-image-6351" title="guarda-roupas closet armário[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/guarda-roupas-closet-armario1.jpg" alt="" width="300" height="400" /></a>
+    <a href="https://www.trololodemulher.com.br/2011/05/guarda-roupas-closet-armario1.jpg"><img class="alignnone size-full wp-image-6351" title="guarda-roupas closet armário[1]" src="https://www.trololodemulher.com.br/2011/05/guarda-roupas-closet-armario1.jpg" alt="" width="300" height="400" /></a>
   </p>
   
   <p style="text-align: justify;">
@@ -100,7 +97,7 @@ categories:
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/guarda-roupas-closet-armario2.jpg"><img class="alignnone size-full wp-image-6352" title="guarda-roupas closet armário[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/guarda-roupas-closet-armario2.jpg" alt="" width="300" height="400" /></a>
+    <a href="https://www.trololodemulher.com.br/2011/05/guarda-roupas-closet-armario2.jpg"><img class="alignnone size-full wp-image-6352" title="guarda-roupas closet armário[2]" src="https://www.trololodemulher.com.br/2011/05/guarda-roupas-closet-armario2.jpg" alt="" width="300" height="400" /></a>
   </p>
   
   <p style="text-align: justify;">
@@ -108,7 +105,7 @@ categories:
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/guarda-roupas-closet-armario3.jpg"><img class="alignnone size-full wp-image-6353" title="guarda-roupas closet armário[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/guarda-roupas-closet-armario3.jpg" alt="" width="300" height="400" /></a>
+    <a href="https://www.trololodemulher.com.br/2011/05/guarda-roupas-closet-armario3.jpg"><img class="alignnone size-full wp-image-6353" title="guarda-roupas closet armário[3]" src="https://www.trololodemulher.com.br/2011/05/guarda-roupas-closet-armario3.jpg" alt="" width="300" height="400" /></a>
   </p>
   
   <p style="text-align: justify;">
@@ -132,7 +129,7 @@ categories:
   </p>
   
   <p style="text-align: justify;">
-    <strong><a href="http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/" target="_blank">Móveis e objetos usados: como doar?</a></strong>
+    <strong><a href="http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/" target="_blank" rel="noopener noreferrer">Móveis e objetos usados: como doar?</a></strong>
   </p>
   
   <p style="text-align: justify;">
@@ -144,7 +141,7 @@ categories:
   </p>
   
   <p>
-    Imagens do armário: <strong><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></strong>
+    Imagens do armário: <strong><a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a></strong>
   </p>
   
   <p>
@@ -156,15 +153,15 @@ categories:
   </p>
   
   <p style="text-align: justify;">
-    A Glaucia, editora do blog <a href="http://supercriativobyglau.blogspot.com/" target="_blank"><strong>Super Criativo by Glau</strong> </a>e comentarista assídua por aqui, deixou como dica a possibilidade de fazer algo inverso ao que propus. Explico: é possível que seja <strong>planejada uma cama com o armário embaixo dela, e a sua mesa de computador fica em outro espaço do quarto</strong>. Olha a imagem que a Glaucia indicou como referência:
+    A Glaucia, editora do blog <a href="http://supercriativobyglau.blogspot.com/" target="_blank" rel="noopener noreferrer"><strong>Super Criativo by Glau</strong> </a>e comentarista assídua por aqui, deixou como dica a possibilidade de fazer algo inverso ao que propus. Explico: é possível que seja <strong>planejada uma cama com o armário embaixo dela, e a sua mesa de computador fica em outro espaço do quarto</strong>. Olha a imagem que a Glaucia indicou como referência:
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/guarda-roupas-armario-closet-embaixo-da-cama.jpg"><img class="alignnone size-full wp-image-6361" title="guarda-roupas armário closet embaixo da cama" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/guarda-roupas-armario-closet-embaixo-da-cama.jpg" alt="" width="424" height="640" /></a>
+    <a href="https://www.trololodemulher.com.br/2011/05/guarda-roupas-armario-closet-embaixo-da-cama.jpg"><img class="alignnone size-full wp-image-6361" title="guarda-roupas armário closet embaixo da cama" src="https://www.trololodemulher.com.br/2011/05/guarda-roupas-armario-closet-embaixo-da-cama.jpg" alt="" width="424" height="640" /></a>
   </p>
   
   <p style="text-align: justify;">
-    A Glaucia viu essa imagem <strong><a href="http://mulherseverino-faztudo.blogspot.com/2010/08/revista-minha-casa-ensina-viver-em.html" target="_blank">neste post da Eliene</a></strong>, do blog <strong><a href="http://mulherseverino-faztudo.blogspot.com/" target="_blank">Mulher Severino</a></strong>. Trata-se de uma imagem publicada na <strong><a href="http://casa.abril.com.br/minha-casa/" target="_blank">revista Minha Casa</a></strong>, e que mostra que uma moradora resolveu o seu problema de falta de espaço com bastante criatividade. Depois de projetar a cama num papel, a moradora fez a encomenda num marceneiro. Na parte de cima, um varão que passa pela cama serve de suporte para uma cortina que esconde o armário que fica na parte de baixo do móvel. Super criativo, não é verdade? Fica a dica para você, bonita!
+    A Glaucia viu essa imagem <strong><a href="http://mulherseverino-faztudo.blogspot.com/2010/08/revista-minha-casa-ensina-viver-em.html" target="_blank" rel="noopener noreferrer">neste post da Eliene</a></strong>, do blog <strong><a href="http://mulherseverino-faztudo.blogspot.com/" target="_blank" rel="noopener noreferrer">Mulher Severino</a></strong>. Trata-se de uma imagem publicada na <strong><a href="http://casa.abril.com.br/minha-casa/" target="_blank" rel="noopener noreferrer">revista Minha Casa</a></strong>, e que mostra que uma moradora resolveu o seu problema de falta de espaço com bastante criatividade. Depois de projetar a cama num papel, a moradora fez a encomenda num marceneiro. Na parte de cima, um varão que passa pela cama serve de suporte para uma cortina que esconde o armário que fica na parte de baixo do móvel. Super criativo, não é verdade? Fica a dica para você, bonita!
   </p>
   
   <p>
@@ -172,7 +169,7 @@ categories:
   </p>
   
   <p align="center">
-    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
   </p>
   
   <p align="center">

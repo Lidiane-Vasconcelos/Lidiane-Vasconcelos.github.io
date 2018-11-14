@@ -1,10 +1,7 @@
 ---
-id: 2797
 title: Há competitividade entre as mulheres?
-date: 2010-02-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/02/25/competitividade-entre-mulheres/
 permalink: /2010/02/25/competitividade-entre-mulheres/
 categories:
   - Comportamento
@@ -27,25 +24,25 @@ Tudo isso me fez lembrar um ditado conhecido por atestar que “as mulheres se v
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/competicao-2.jpg"><img class="aligncenter size-medium wp-image-4395" title="competição 2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/competicao-2-300x171.jpg" alt="" width="300" height="171" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/02/competicao-2.jpg"><img class="aligncenter size-medium wp-image-4395" title="competição 2" src="https://www.trololodemulher.com.br/2010/02/competicao-2-300x171.jpg" alt="" width="300" height="171" /></a>
     </td>
   </tr>
 </table>
 
  
 
-Para a psicóloga clínica Adriana Pimentel, que escreve no blog **_<a href="http://psicologico-al.blogspot.com/" target="_blank">PSICO? LÓGICO!,</a>_** a competição existe mesmo e, segundo a teoria psicanalítica, ela começa quando a mulher ainda é uma menina, e já disputa com outra a atenção de um homem. Adriana explica que _**“essa competição velada é algo que começa desde a nossa infância. Segundo nossa teoria psicanalítica, a menina começa a concorrer com a mãe (mulher de fundamental importância em sua vida) pelo amor do seu pai. Então essa mulher-mãe começa a ser a primeira inimiga desta criança, acontecendo de uma forma inconsciente, é claro, mais daí se estende até chegar à fase adulta”.**_ 
+Para a psicóloga clínica Adriana Pimentel, que escreve no blog **_<a href="http://psicologico-al.blogspot.com/" target="_blank" rel="noopener noreferrer">PSICO? LÓGICO!,</a>_** a competição existe mesmo e, segundo a teoria psicanalítica, ela começa quando a mulher ainda é uma menina, e já disputa com outra a atenção de um homem. Adriana explica que _**“essa competição velada é algo que começa desde a nossa infância. Segundo nossa teoria psicanalítica, a menina começa a concorrer com a mãe (mulher de fundamental importância em sua vida) pelo amor do seu pai. Então essa mulher-mãe começa a ser a primeira inimiga desta criança, acontecendo de uma forma inconsciente, é claro, mais daí se estende até chegar à fase adulta”.**_ 
 
 Segundo Adriana, essa pode ser uma explicação, mas a competição entre as mulheres também pode ser fundamentada por outros aspectos: _**“também acredito na teoria da luta diária da mulher para se tornar notada, por todo um histórico cultural que nos foi e ainda nos é travado”.**_
 
-A explicação histórica ganha força e sentido nas palavras de Geisa Machado, que é psicanalista e escreve no blog **_<a href="http://geisamachado.blogspot.com/" target="_blank">A FORÇA E A BELEZA DE SER MULHER</a>_** : **_“Quando uma pessoa (pode ser homem ou mulher) cultua MUITO o físico a energia é direcionada para o corpo, sobrando muito pouco para o intelecto. No passado a vaidade era algo tipicamente feminino, porque os estrategistas eram os homens. O inverso também é válido: quando uma pessoa joga muita energia no intelecto, sobra pouco para o corpo. No caso da jurada escritora, provavelmente ela humilhou a outra porque gostaria de ter o mesmo corpo que a passista, mas não tinha energia sobrando pra isso. Esta atitude é chamada de projeção: a jurada projetou na passista o seu desejo de ter um corpo escultural ao qual não tinha acesso e o seu mecanismo de defesa fez com que ela humilhasse a outra.”_**
+A explicação histórica ganha força e sentido nas palavras de Geisa Machado, que é psicanalista e escreve no blog **_<a href="http://geisamachado.blogspot.com/" target="_blank" rel="noopener noreferrer">A FORÇA E A BELEZA DE SER MULHER</a>_** : **_“Quando uma pessoa (pode ser homem ou mulher) cultua MUITO o físico a energia é direcionada para o corpo, sobrando muito pouco para o intelecto. No passado a vaidade era algo tipicamente feminino, porque os estrategistas eram os homens. O inverso também é válido: quando uma pessoa joga muita energia no intelecto, sobra pouco para o corpo. No caso da jurada escritora, provavelmente ela humilhou a outra porque gostaria de ter o mesmo corpo que a passista, mas não tinha energia sobrando pra isso. Esta atitude é chamada de projeção: a jurada projetou na passista o seu desejo de ter um corpo escultural ao qual não tinha acesso e o seu mecanismo de defesa fez com que ela humilhasse a outra.”_**
 
 Geisa explica como tudo isso veio do passado e influencia no comportamento da _mulherada_, sem que haja consciência sobre isso: _**“Nós mulheres fomos humilhadas por milênios e com isso a nossa auto estima ficou lá embaixo, então uma mulher tenta se sobressair a outra para mostrar quanto valor ela tem. É claro que é uma forma distorcida de mostrar este valor, porque na realidade ela tem dúvidas quanto a isso. E é claro que também ela espera que a classe dominante (os homens) percebam isso para elegê-la. Tudo isso acontece de forma totalmente insconciente.”**_
 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/competicao-1.jpg"><img class="aligncenter size-medium wp-image-4394" title="competição 1" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/competicao-1-300x171.jpg" alt="" width="300" height="171" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/02/competicao-1.jpg"><img class="aligncenter size-medium wp-image-4394" title="competição 1" src="https://www.trololodemulher.com.br/2010/02/competicao-1-300x171.jpg" alt="" width="300" height="171" /></a>
     </td>
   </tr>
 </table>
@@ -56,7 +53,7 @@ Disso tudo eu concluo percebendo a _furada_ que a gente (mulheres em geral) se m
 
 Tanto Geisa quanto Adriana concordam que a saída deve ser pela conscientização quanto aos sentimentos. E faz todo sentido, não é? E a gente sabe muito bem quando algo não vai bem com o nosso coração, com a nossa cabeça, com o que sentimos. Esse parece ser um bom estímulo para que o sinal de alerta seja aceso, assim seria possível repensar certos comportamentos ou até mesmo pedir ajuda de um profissional para essa mudança de postura, hã?!
 
-Imagens: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+Imagens: <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>
 
 **Quer ler mais sobre comportamento feminino no Bicha Fêmea?**
 

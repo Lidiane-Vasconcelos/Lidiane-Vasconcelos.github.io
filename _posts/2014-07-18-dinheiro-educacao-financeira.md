@@ -1,10 +1,7 @@
 ---
-id: 3322
 title: 'Dinheiro: guardar x gastar x investir. O que é melhor?'
-date: 2014-07-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/07/18/dinheiro-educacao-financeira/
 permalink: /2014/07/18/dinheiro-educacao-financeira/
 categories:
   - Finanças Pessoais
@@ -50,15 +47,15 @@ categories:
   </p>
   
   <p align="justify">
-    <a href="http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/" target="_blank"><strong>Dicas que seu bolso agradece, e muito!</strong></a>
+    <a href="http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/" target="_blank" rel="noopener noreferrer"><strong>Dicas que seu bolso agradece, e muito!</strong></a>
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DINHEIRO-FINANCAS-PESSOAIS-EDUCACAO-FINANCEIRA-ECONOMIA.jpg"><img class="alignnone size-full wp-image-10218" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DINHEIRO-FINANCAS-PESSOAIS-EDUCACAO-FINANCEIRA-ECONOMIA.jpg" alt="DINHEIRO-FINANCAS PESSOAIS-EDUCACAO FINANCEIRA-ECONOMIA" width="600" height="500" /></a>
+    <a href="https://www.trololodemulher.com.br/2014/07/DINHEIRO-FINANCAS-PESSOAIS-EDUCACAO-FINANCEIRA-ECONOMIA.jpg"><img class="alignnone size-full wp-image-10218" src="https://www.trololodemulher.com.br/2014/07/DINHEIRO-FINANCAS-PESSOAIS-EDUCACAO-FINANCEIRA-ECONOMIA.jpg" alt="DINHEIRO-FINANCAS PESSOAIS-EDUCACAO FINANCEIRA-ECONOMIA" width="600" height="500" /></a>
   </p>
   
   <p align="center">
-    Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
+    Imagem: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">free images</a>
   </p>
   
   <p>
@@ -84,7 +81,7 @@ categories:
   </p>
   
   <p align="justify">
-    <a href="http://www.trololodemulher.com.br/2011/09/23/consumismo/" target="_blank"><strong>Consumismo: você ficaria 365 dias sem compras?</strong></a>
+    <a href="http://www.trololodemulher.com.br/2011/09/23/consumismo/" target="_blank" rel="noopener noreferrer"><strong>Consumismo: você ficaria 365 dias sem compras?</strong></a>
   </p>
   
   <p>
@@ -110,7 +107,7 @@ categories:
   </p>
   
   <p align="justify">
-    <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/" target="_blank"><strong>Suas finanças pessoais estão no azul ou no vermelho?</strong></a>
+    <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/" target="_blank" rel="noopener noreferrer"><strong>Suas finanças pessoais estão no azul ou no vermelho?</strong></a>
   </p>
   
   <p>
@@ -118,7 +115,7 @@ categories:
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/MAIARA-XAVIER.png"><img class="alignnone size-full wp-image-9333" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/MAIARA-XAVIER.png" alt="MAIARA XAVIER" width="529" height="299" /></a>
+    <a href="https://www.trololodemulher.com.br/2012/11/MAIARA-XAVIER.png"><img class="alignnone size-full wp-image-9333" src="https://www.trololodemulher.com.br/2012/11/MAIARA-XAVIER.png" alt="MAIARA XAVIER" width="529" height="299" /></a>
   </p>
   
   <p>
@@ -126,7 +123,7 @@ categories:
   </p>
   
   <p align="justify">
-    A <strong>Maiara</strong> edita o blog <a href="http://www.mulher-rica.com.br/" target="_blank">Mulher Rica</a>, voltado para nós, bichas fêmeas navegantes. O nome do blog, bem sugestivo, indica bem seu público alvo: a mulher que quer ficar rica. Engana-se quem acha que seus posts são para aquelas que querem alcançar a independência financeira com base numa herança, ser sorteada na mega sena ou passar num concurso público… <em>nã nã nim nã não</em>! Quer você mesma correr atrás disso já, no presente? Então <a href="http://www.mulher-rica.com.br/" target="_blank">se joga no blog da moça</a> porque o<em> trololó</em> por lá é exatamente sobre esse assunto.
+    A <strong>Maiara</strong> edita o blog <a href="http://www.mulher-rica.com.br/" target="_blank" rel="noopener noreferrer">Mulher Rica</a>, voltado para nós, bichas fêmeas navegantes. O nome do blog, bem sugestivo, indica bem seu público alvo: a mulher que quer ficar rica. Engana-se quem acha que seus posts são para aquelas que querem alcançar a independência financeira com base numa herança, ser sorteada na mega sena ou passar num concurso público… <em>nã nã nim nã não</em>! Quer você mesma correr atrás disso já, no presente? Então <a href="http://www.mulher-rica.com.br/" target="_blank" rel="noopener noreferrer">se joga no blog da moça</a> porque o<em> trololó</em> por lá é exatamente sobre esse assunto.
   </p>
   
   <p>
@@ -134,5 +131,5 @@ categories:
   </p>
   
   <p align="center">
-    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
   </p>

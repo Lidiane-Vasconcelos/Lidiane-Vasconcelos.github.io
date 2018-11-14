@@ -1,11 +1,8 @@
 ---
-id: 3877
 title: Como, dormir bem, aumenta a produtividade?
-date: 2018-09-11T00:00:00+00:00
-author: admin
+author: Lidiane
 excerpt: Dormir bem torna a gente mais produtiva e disposta. Veja como criar condições para dormir mais, melhor, e sentir-se bem para o dia que inicia.
 layout: post
-guid: http://localhost/wordpress/2018/09/11/dormir-bem/
 permalink: /2018/09/11/dormir-bem/
 categories:
   - Bem viver
@@ -20,7 +17,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14700" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/09/DORMIR-BEM-PRODUTIVIDADE-GESTAO-DO-TEMPO-ORGANIZACAO-PESSOAL-BLOG.jpg" alt="" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14700" src="https://www.trololodemulher.com.br/2018/09/DORMIR-BEM-PRODUTIVIDADE-GESTAO-DO-TEMPO-ORGANIZACAO-PESSOAL-BLOG.jpg" alt="" width="800" height="800" />
 </p>
 
 <p align="center">

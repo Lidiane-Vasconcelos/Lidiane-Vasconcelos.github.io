@@ -1,10 +1,7 @@
 ---
-id: 3257
 title: 'Quando a criança não quer dormir no berço: deixar chorar ou não?'
-date: 2013-09-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/09/06/sono-bebe-berco-choro/
 permalink: /2013/09/06/sono-bebe-berco-choro/
 categories:
   - Comportamento Infantil
@@ -37,27 +34,27 @@ Um dos dilemas de mãe quando a criança ainda é bem pequena e não quer dormir
 &nbsp;
 
 > <p align="justify">
->   “<em>Oi, Lidi! Essa fase é complicada, cansativa, mas faz parte. </em><em>Eu tive dois filhos e isso aconteceu com os dois. </em><em>O mais velho, depois que foi pra caminha dele, eu tinha que dormir com ele na caminha até ele pegar no sono profundo, e o mais novo aconteceu a mesma coisa. </em><em>Chorar eles choram mesmo. Manha, como disse a pediatra, também tá certo, mas nosso coração de mãe sempre estraga, né 🙂 ? Não conseguimos deixar eles chorando sem fazer o que eles querem, ainda mais se for aconchegar no colo. </em><em>No começo é dificil mesmo, mas ela conseguirá. </em><em>Faça a bebê dormir, fique um tempinho com ela no colo e bem devagar coloque no berço, não tire a mão rapidamente, deixe ali por uns minutinhos, pegue almofadinhas e coloque entre o bebê, nas costinhas e barriguinha, ela teerá a sensação que é a mão da mãe ainda segurando. </em><em>Quando ela acordar chorando, vá até o quarto, converse bem baixinho com ela, coloque a mão sobre ela, dando a entender a bebê que ela está ali protegendo, mas não pegue no colo, se não resolver e tiver que pegar NÃO SAIA DO QUARTO, faça a bebê dormir de novo e coloque novamente no berço e use o mesmo procedimento das almofadinhas e sempre dizendo a bebê que MAMÃE ESTÁ AQUI JUNTINHO COM VOCÊ, DORME MEU ANJINHO. </em><em>Isso ajudava muito com meus pequenos, é lógico que não funcionará do dia pra noite mas com insistência tudo se ajeita.</em>” <strong>Renata Rossini | </strong><a href="http://rerossini.blogspot.com.br/" target="_blank"><strong>Artes que aprendo com vocês – Re Rossini</strong></a>
+>   “<em>Oi, Lidi! Essa fase é complicada, cansativa, mas faz parte. </em><em>Eu tive dois filhos e isso aconteceu com os dois. </em><em>O mais velho, depois que foi pra caminha dele, eu tinha que dormir com ele na caminha até ele pegar no sono profundo, e o mais novo aconteceu a mesma coisa. </em><em>Chorar eles choram mesmo. Manha, como disse a pediatra, também tá certo, mas nosso coração de mãe sempre estraga, né 🙂 ? Não conseguimos deixar eles chorando sem fazer o que eles querem, ainda mais se for aconchegar no colo. </em><em>No começo é dificil mesmo, mas ela conseguirá. </em><em>Faça a bebê dormir, fique um tempinho com ela no colo e bem devagar coloque no berço, não tire a mão rapidamente, deixe ali por uns minutinhos, pegue almofadinhas e coloque entre o bebê, nas costinhas e barriguinha, ela teerá a sensação que é a mão da mãe ainda segurando. </em><em>Quando ela acordar chorando, vá até o quarto, converse bem baixinho com ela, coloque a mão sobre ela, dando a entender a bebê que ela está ali protegendo, mas não pegue no colo, se não resolver e tiver que pegar NÃO SAIA DO QUARTO, faça a bebê dormir de novo e coloque novamente no berço e use o mesmo procedimento das almofadinhas e sempre dizendo a bebê que MAMÃE ESTÁ AQUI JUNTINHO COM VOCÊ, DORME MEU ANJINHO. </em><em>Isso ajudava muito com meus pequenos, é lógico que não funcionará do dia pra noite mas com insistência tudo se ajeita.</em>” <strong>Renata Rossini | </strong><a href="http://rerossini.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>Artes que aprendo com vocês – Re Rossini</strong></a>
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/MATERNIDADE-SONO-BEBE-CHORO-BEBE-BEBE.jpg"><img class="alignnone size-full wp-image-9755" alt="MATERNIDADE - SONO BEBE- CHORO BEBE - BEBE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/MATERNIDADE-SONO-BEBE-CHORO-BEBE-BEBE.jpg" width="600" height="350" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/09/MATERNIDADE-SONO-BEBE-CHORO-BEBE-BEBE.jpg"><img class="alignnone size-full wp-image-9755" alt="MATERNIDADE - SONO BEBE- CHORO BEBE - BEBE" src="https://www.trololodemulher.com.br/2013/09/MATERNIDADE-SONO-BEBE-CHORO-BEBE-BEBE.jpg" width="600" height="350" /></a>
 </p>
 
 <p align="center">
-  Imagem: <em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>
+  Imagem: <em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “Bom, eu não sou a favor de deixar chorar sob hipótese nenhuma&#8230; aqui em casa rolou uma coisa interessante: quando o Arthur nasceu, eu preparei tudo para que ficasse pelo menos até os quatro meses no meu quarto – comprei carrinho berço, abajur de luz bem fraquinha, enfim, a ideia era que ele ficasse conosco até sua visão e percepção começarem a “funcionar”. Mas não deu certo&#8230;ahahaha… na primeira noite em casa, tivemos uma noite muito agitada, com muitos grunhidos e “mexeção”. E minha intuição me disse pra testar deixá-lo no quarto dele. Na segunda noite, coloquei no berço, com a babá eletrônica do lado dele, e foi uma noite ótima, o sono dele foi tranquilo nos intervalos entre as mamadas. Então, Arthur dormia direto na caminha dele, no quarto dele, até os dois anos, quando teve as famigeradas crise de terror noturno. Bastaram duas, pra gente levar a cama dele pro nosso quarto. Ele teve mais umas duas crises, e depois parou. E ficou com a gente até os três anos e meio, quando o readaptamos ao seu quarto. Ele “dá mais trabalho” hoje, aos quatro e meio, porque quer dormir no meio da gente, quer pegar no sono na nossa cama, alega pesadelos, etc , mas mesmo assim, não forçamos a barra. Se vem no meio da noite, a gente deixa ficar, pega no sono, marido leva de volta pro quarto dele, mas não forçamos nada, acho importante a criança perceber que nos importamos com ela, que damos atenção. Até mesmo o “pegar no sono’ em nossa cama eu mantenho, porque levamos uma vida tão corrida, que acho que, além de importante pra criança esse contato, é muito bom pra nós! Meu conselho é não forçar nada, se a bebê em questão procura o contato com a mãe, na minha opinião, é porque ela ainda precisa desse contato.” <strong>Cynthia Santos | </strong><a href="http://boutiquedoacucar.net/" target="_blank"><strong>Boutique do Açúcar</strong></a>
+>   “Bom, eu não sou a favor de deixar chorar sob hipótese nenhuma&#8230; aqui em casa rolou uma coisa interessante: quando o Arthur nasceu, eu preparei tudo para que ficasse pelo menos até os quatro meses no meu quarto – comprei carrinho berço, abajur de luz bem fraquinha, enfim, a ideia era que ele ficasse conosco até sua visão e percepção começarem a “funcionar”. Mas não deu certo&#8230;ahahaha… na primeira noite em casa, tivemos uma noite muito agitada, com muitos grunhidos e “mexeção”. E minha intuição me disse pra testar deixá-lo no quarto dele. Na segunda noite, coloquei no berço, com a babá eletrônica do lado dele, e foi uma noite ótima, o sono dele foi tranquilo nos intervalos entre as mamadas. Então, Arthur dormia direto na caminha dele, no quarto dele, até os dois anos, quando teve as famigeradas crise de terror noturno. Bastaram duas, pra gente levar a cama dele pro nosso quarto. Ele teve mais umas duas crises, e depois parou. E ficou com a gente até os três anos e meio, quando o readaptamos ao seu quarto. Ele “dá mais trabalho” hoje, aos quatro e meio, porque quer dormir no meio da gente, quer pegar no sono na nossa cama, alega pesadelos, etc , mas mesmo assim, não forçamos a barra. Se vem no meio da noite, a gente deixa ficar, pega no sono, marido leva de volta pro quarto dele, mas não forçamos nada, acho importante a criança perceber que nos importamos com ela, que damos atenção. Até mesmo o “pegar no sono’ em nossa cama eu mantenho, porque levamos uma vida tão corrida, que acho que, além de importante pra criança esse contato, é muito bom pra nós! Meu conselho é não forçar nada, se a bebê em questão procura o contato com a mãe, na minha opinião, é porque ela ainda precisa desse contato.” <strong>Cynthia Santos | </strong><a href="http://boutiquedoacucar.net/" target="_blank" rel="noopener noreferrer"><strong>Boutique do Açúcar</strong></a>
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   “Olá, Lidiane! Como também fui mãe de primeira viagem, imagino a situação pela qual essa mãe está passando. Comigo, apesar de também ter colocado o berço inicialmente no quarto, não enfrentei esse problema. Mas, creio que talvez colocar uma peça de roupa usada pela mãe, no berço do bebê, seja uma boa estratégia. Quem sabe com o cheiro da mãe, o bebê se acalme e pegue no sono. Talvez também um bichinho de pelúcia possa resolver o problema. O mais importante é essa mãe resistir e não ceder ao choro do bebê e trazê-lo para o quarto novamente. Porque quanto mais velho ele ficar, mas difícil será reverter a situação. Espero ter ajudado com minha sugestão.” <strong>Silvana Haddad | </strong><a href="http://www.meusdevaneiosescritos.blogspot.com.br/" target="_blank"><strong>Meus Devaneios Escritos</strong></a>
+>   “Olá, Lidiane! Como também fui mãe de primeira viagem, imagino a situação pela qual essa mãe está passando. Comigo, apesar de também ter colocado o berço inicialmente no quarto, não enfrentei esse problema. Mas, creio que talvez colocar uma peça de roupa usada pela mãe, no berço do bebê, seja uma boa estratégia. Quem sabe com o cheiro da mãe, o bebê se acalme e pegue no sono. Talvez também um bichinho de pelúcia possa resolver o problema. O mais importante é essa mãe resistir e não ceder ao choro do bebê e trazê-lo para o quarto novamente. Porque quanto mais velho ele ficar, mas difícil será reverter a situação. Espero ter ajudado com minha sugestão.” <strong>Silvana Haddad | </strong><a href="http://www.meusdevaneiosescritos.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>Meus Devaneios Escritos</strong></a>
 > </p>
 
 &nbsp;
@@ -83,7 +80,7 @@ Um dos dilemas de mãe quando a criança ainda é bem pequena e não quer dormir
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -100,13 +97,13 @@ Um dos dilemas de mãe quando a criança ainda é bem pequena e não quer dormir
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

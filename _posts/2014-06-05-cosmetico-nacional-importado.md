@@ -1,10 +1,7 @@
 ---
-id: 3303
 title: Quer comprar produtos cosméticos nacionais e importados?
-date: 2014-06-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/06/05/cosmetico-nacional-importado/
 permalink: /2014/06/05/cosmetico-nacional-importado/
 categories:
   - Beleza
@@ -21,7 +18,7 @@ E se eu te disser que o que você precisa tem para pronta entrega, e com um prec
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/Personal-Buyers.jpg"><img class="alignnone size-full wp-image-10076" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/Personal-Buyers.jpg" alt="Personal Buyers" width="482" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/06/Personal-Buyers.jpg"><img class="alignnone size-full wp-image-10076" src="https://www.trololodemulher.com.br/2014/06/Personal-Buyers.jpg" alt="Personal Buyers" width="482" height="600" /></a>
 </p>
 
 <p align="justify">
@@ -41,17 +38,17 @@ E se eu te disser que o que você precisa tem para pronta entrega, e com um prec
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/PERSONAL-BUYERS.png"><img class="alignnone size-full wp-image-10077" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/PERSONAL-BUYERS.png" alt="PERSONAL BUYERS" width="560" height="472" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/06/PERSONAL-BUYERS.png"><img class="alignnone size-full wp-image-10077" src="https://www.trololodemulher.com.br/2014/06/PERSONAL-BUYERS.png" alt="PERSONAL BUYERS" width="560" height="472" /></a>
 </p>
 
 <p align="justify">
-  Para visitar a <strong>loja </strong>já e aproveitar o desconto, <a href="https://www.personalbuyers.com.br/" target="_blank">clique aqui</a>.
+  Para visitar a <strong>loja </strong>já e aproveitar o desconto, <a href="https://www.personalbuyers.com.br/" target="_blank" rel="noopener noreferrer">clique aqui</a>.
 </p>
 
 <p align="justify">
-  Para conhecer o <strong>blog da loja</strong>, acompanhar os posts e tudo o mais, <a href="http://personalbuyers.blogspot.com.br/" target="_blank">clique aqui</a>.
+  Para conhecer o <strong>blog da loja</strong>, acompanhar os posts e tudo o mais, <a href="http://personalbuyers.blogspot.com.br/" target="_blank" rel="noopener noreferrer">clique aqui</a>.
 </p>
 
 <p align="justify">
-  Para curtir a <strong>página no Facebook</strong> e ficar por dentro de todas as novidades, <a href="https://www.facebook.com/PersonalBuyersShop" target="_blank">clique aqui</a>.
+  Para curtir a <strong>página no Facebook</strong> e ficar por dentro de todas as novidades, <a href="https://www.facebook.com/PersonalBuyersShop" target="_blank" rel="noopener noreferrer">clique aqui</a>.
 </p>

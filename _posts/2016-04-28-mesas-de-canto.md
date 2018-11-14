@@ -1,10 +1,7 @@
 ---
-id: 3598
 title: 3 mesinhas de canto pra você viver de amores.
-date: 2016-04-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/04/28/mesas-de-canto/
 permalink: /2016/04/28/mesas-de-canto/
 categories:
   - Salas
@@ -18,11 +15,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12441" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-SALA-DE-ESTAR-MESA-DE-CANTO.jpg" alt="DECORACAO-SALA DE ESTAR-MESA DE CANTO" width="539" height="800" />
+  <img class="alignnone size-full wp-image-12441" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-SALA-DE-ESTAR-MESA-DE-CANTO.jpg" alt="DECORACAO-SALA DE ESTAR-MESA DE CANTO" width="539" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.amdolcevita.com/" target="_blank">AM Dolce Vita</a>
+  Imagem: <a href="http://www.amdolcevita.com/" target="_blank" rel="noopener noreferrer">AM Dolce Vita</a>
 </p>
 
 <p align="justify">
@@ -30,11 +27,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12442" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-SALA-DE-ESTAR-MESA-DE-CANTO2.jpg" alt="DECORACAO-SALA DE ESTAR-MESA DE CANTO[2]" width="607" height="800" />
+  <img class="alignnone size-full wp-image-12442" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-SALA-DE-ESTAR-MESA-DE-CANTO2.jpg" alt="DECORACAO-SALA DE ESTAR-MESA DE CANTO[2]" width="607" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://notyourstandard.com/" target="_blank">Not Your Standard</a>
+  Imagem: <a href="http://notyourstandard.com/" target="_blank" rel="noopener noreferrer">Not Your Standard</a>
 </p>
 
 <p align="justify">
@@ -42,11 +39,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12443" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-SALA-DE-ESTAR-MESA-DE-CANTO3.jpg" alt="DECORACAO-SALA DE ESTAR-MESA DE CANTO[3]" width="800" height="589" />
+  <img class="alignnone size-full wp-image-12443" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-SALA-DE-ESTAR-MESA-DE-CANTO3.jpg" alt="DECORACAO-SALA DE ESTAR-MESA DE CANTO[3]" width="800" height="589" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://northernberries.wordpress.com/" target="_blank">Northern Berries</a>
+  Imagem: <a href="https://northernberries.wordpress.com/" target="_blank" rel="noopener noreferrer">Northern Berries</a>
 </p>
 
 <p align="justify">
@@ -58,11 +55,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/mesa-centro-sala-estar/" target="_blank"><strong>Mesa de centro da sala de estar: compre sem erro!</strong></a>
+  <a href="http://www.decoracaodacasa.com/mesa-centro-sala-estar/" target="_blank" rel="noopener noreferrer"><strong>Mesa de centro da sala de estar: compre sem erro!</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

@@ -1,10 +1,7 @@
 ---
-id: 2686
 title: 'Bicha Fêmea Convidada em Foco: Rosi Costa'
-date: 2009-07-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/07/14/convidadarosi-costa/
 permalink: /2009/07/14/convidadarosi-costa/
 categories:
   - Comportamento
@@ -40,15 +37,15 @@ _Não dá vontade de conhecer um pouco mais dessa bonita? Bom, é justamente por
 
 **_ _**
 
-**_Por Rosi Costa – <a href="http://mundinhodarosi.blogspot.com/" target="_blank">Mundinho Particular</a>_**
+**_Por Rosi Costa – <a href="http://mundinhodarosi.blogspot.com/" target="_blank" rel="noopener noreferrer">Mundinho Particular</a>_**
 
 O que escrever para mulheres blogueiras se elas sabem de tudo um pouco? Como escolher um assunto que seja adequado a esse cantinho e agradar a todas?
 
 Depois de muito pensar, resolvi falar de uma fase que todas passaram ou passarão. Algo que assusta muito mais do que quando se vivencia.
   
-Adorei o convite e reproduzo um texto que apareceu semelhante lá no meu <a href="http://mundinhodarosi.blogspot.com/" target="_blank">Cantinho Particular</a>, mas que ganhou nova e moderna roupagem para o &#8220;Bicha&#8221;.
+Adorei o convite e reproduzo um texto que apareceu semelhante lá no meu <a href="http://mundinhodarosi.blogspot.com/" target="_blank" rel="noopener noreferrer">Cantinho Particular</a>, mas que ganhou nova e moderna roupagem para o &#8220;Bicha&#8221;.
 
-[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="www.fabrics.net (2)" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-fabrics-net2_thumb.jpg" alt="www.fabrics.net (2)" width="240" height="233" align="right" border="0" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-fabrics-net2.jpg) Ter 30 anos é como ser uma garota super poderosa.
+[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="www.fabrics.net (2)" src="https://www.trololodemulher.com.br/2009/07/www-fabrics-net2_thumb.jpg" alt="www.fabrics.net (2)" width="240" height="233" align="right" border="0" />](https://www.trololodemulher.com.br/2009/07/www-fabrics-net2.jpg) Ter 30 anos é como ser uma garota super poderosa.
 
 Tudo muda, seu metabolismo muda, você já não emagrece com facilidade, seu intestino fica preguiçoso e fazer um checkup já não é um bicho-de-sete-cabeças. Começam a aparecer os primeiros cabelos brancos, você passa realmente a se preocupar com as rugas, com a celulite, flacidez, com o estilo de roupa que irá usar (imagina você nessa idade querendo passar por menininha com roupinhas rosa e fru-frus?!). Seu plano de saúde aumenta, as mini-saias já não caem tão bem.
 
@@ -56,7 +53,7 @@ Se você estiver comprometida tá na hora de pensar em ter um baby ou congelar o
 
 Você começa a repensar na sua postura perante a sociedade e quem sabe se preocupar em agradar os outros. Você fica mais corajosa, Pensa em reciclagem, em um mundo melhor, em querer fazer bem ao próximo. A verdade é que ter 30 anos é uma responsabilidade e tanto.
 
-[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="www.fabrics.net" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-fabrics-net_thumb.jpg" alt="www.fabrics.net" width="206" height="240" align="left" border="0" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-fabrics-net.jpg) Eu fui uma das primeiras a fazer 30 anos da minha turma de amigas. E para mim, fazer 30 anos foi realmente um divisor de água. Tive uma crise em relação à minha vida profissional, é verdade. Mas foi tanta coisa boa, tantas mudanças.
+[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="www.fabrics.net" src="https://www.trololodemulher.com.br/2009/07/www-fabrics-net_thumb.jpg" alt="www.fabrics.net" width="206" height="240" align="left" border="0" />](https://www.trololodemulher.com.br/2009/07/www-fabrics-net.jpg) Eu fui uma das primeiras a fazer 30 anos da minha turma de amigas. E para mim, fazer 30 anos foi realmente um divisor de água. Tive uma crise em relação à minha vida profissional, é verdade. Mas foi tanta coisa boa, tantas mudanças.
 
 Eu já fiz faculdade, uma pós-graduação e um MBA e to querendo um mestrado. Já passei pelos estágios, pelo programa de trainee, coordenei uma equipe e tive meu trabalho reconhecido duas vezes consecutivas por um projeto que escrevi. Já fui tia e tive a oportunidade de cuidar de uma criança, coisa que faço muito bem pelo fato de ter 09 sobrinhos. Já fui traída por amigos, conquistei outros, encontrei gente boa de verdade. Voei de avião, conheci o nordeste e o sul, conheci o interior de São Paulo. Já fui católica, protestante e virei espírita, fui voluntária e amei fazer o bem a quem precisa. Já fui noiva, me preparei e desisti de um casamento, já traí, sofri horrores por desilusão, encontrei o amor da minha vida, aquele que eu tinha certeza não existir e que me provou que certezas são subjetivas.
 

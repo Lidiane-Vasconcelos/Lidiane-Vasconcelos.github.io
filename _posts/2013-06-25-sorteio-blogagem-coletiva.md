@@ -1,10 +1,7 @@
 ---
-id: 3238
 title: 'Saiu o resultado do sorteio da blogagem coletiva: quem te inspira?'
-date: 2013-06-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/06/25/sorteio-blogagem-coletiva/
 permalink: /2013/06/25/sorteio-blogagem-coletiva/
 categories:
   - Promoção
@@ -20,7 +17,7 @@ Hoje a gente vai ficar sabendo quem vai receber os mimos oferecidos pela [**Espa
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/Resultado-Sorteio.png"><img class="alignnone size-full wp-image-9567" alt="Resultado Sorteio" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/Resultado-Sorteio.png" width="434" height="241" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/06/Resultado-Sorteio.png"><img class="alignnone size-full wp-image-9567" alt="Resultado Sorteio" src="https://www.trololodemulher.com.br/2013/06/Resultado-Sorteio.png" width="434" height="241" /></a>
 </p>
 
 &nbsp;

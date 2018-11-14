@@ -1,10 +1,7 @@
 ---
-id: 2873
 title: 'Primavera-Verão: dicas de beleza'
-date: 2010-09-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/09/13/dicas-de-beleza/
 permalink: /2010/09/13/dicas-de-beleza/
 categories:
   - Beleza
@@ -12,13 +9,13 @@ categories:
 Está sentindo a temperatura subir? Esse período do ano é mesmo uma delícia: sol, mar, piscina, calor… e a **_beleza_**? _Hum_… se alguns cuidados não forem tomados, ela acaba sendo comprometida… Quer **_dicas_** e respostas para algumas dúvidas?
 
 <p style="text-align: justify;">
-  Que mulher não quer?! Dúvidas temos muitas, e duas delas, bastante importantes, foram respondidas para o Bicha Fêmea pela <strong><em>Dra. Gabriela Bernhard Issa</em></strong>, que é Dermatologista e edita o blog <a href="http://dermatologiagi.blogspot.com/" target="_blank">DermatologiaMed</a>.
+  Que mulher não quer?! Dúvidas temos muitas, e duas delas, bastante importantes, foram respondidas para o Bicha Fêmea pela <strong><em>Dra. Gabriela Bernhard Issa</em></strong>, que é Dermatologista e edita o blog <a href="http://dermatologiagi.blogspot.com/" target="_blank" rel="noopener noreferrer">DermatologiaMed</a>.
 </p>
 
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/verao.jpg"><img class="size-medium wp-image-5170 aligncenter" title="verão" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/verao-300x300.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/verao.jpg"><img class="size-medium wp-image-5170 aligncenter" title="verão" src="https://www.trololodemulher.com.br/2010/09/verao-300x300.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -60,7 +57,7 @@ Está sentindo a temperatura subir? Esse período do ano é mesmo uma delícia: 
     </td>
     
     <td width="300" valign="top">
-       <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/mulher-verao.jpg"> </a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/mulher-verao.jpg"><img class="size-medium wp-image-5169 alignright" title="mulher verão" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/mulher-verao-189x300.jpg" alt="" width="189" height="300" /></a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/mulher-verao.jpg"></a> 
+       <a href="https://www.trololodemulher.com.br/2010/09/mulher-verao.jpg"> </a><a href="https://www.trololodemulher.com.br/2010/09/mulher-verao.jpg"><img class="size-medium wp-image-5169 alignright" title="mulher verão" src="https://www.trololodemulher.com.br/2010/09/mulher-verao-189x300.jpg" alt="" width="189" height="300" /></a><a href="https://www.trololodemulher.com.br/2010/09/mulher-verao.jpg"></a> 
     </td>
   </tr>
 </table>
@@ -82,7 +79,7 @@ Está sentindo a temperatura subir? Esse período do ano é mesmo uma delícia: 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="300" valign="top">
-       <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cabelos-verao.jpg"><img class="alignnone size-medium wp-image-5168" title="KONICA MINOLTA DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cabelos-verao-126x300.jpg" alt="" width="126" height="300" /></a>
+       <a href="https://www.trololodemulher.com.br/2010/09/cabelos-verao.jpg"><img class="alignnone size-medium wp-image-5168" title="KONICA MINOLTA DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2010/09/cabelos-verao-126x300.jpg" alt="" width="126" height="300" /></a>
     </td>
     
     <td width="300" valign="top">
@@ -121,7 +118,7 @@ Está sentindo a temperatura subir? Esse período do ano é mesmo uma delícia: 
   Dúvidas solucionadas, dicas anotadas, agora é curtir os dias de calor como toda bicha fêmea esperta merece: informadas e mais bonitas, não é verdade?
 </p>
 
-_Imagens: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>_
+_Imagens: <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>_
 
 **Quer ler mais no Bicha Fêmea?**
 

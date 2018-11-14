@@ -1,10 +1,7 @@
 ---
-id: 3599
 title: 2 imagens revelam ótimas ideias de jardim vertical.
-date: 2016-04-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/04/29/jardim-vertical/
 permalink: /2016/04/29/jardim-vertical/
 categories:
   - 'Varanda &amp; Jardim'
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12447" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-PAISAGISMO-JARDIM-VARANDA-JARDIM-VERTICAL-PLANTAS.jpg" alt="DECORACAO-PAISAGISMO-JARDIM-VARANDA-JARDIM VERTICAL-PLANTAS" width="480" height="720" />
+  <img class="alignnone size-full wp-image-12447" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-PAISAGISMO-JARDIM-VARANDA-JARDIM-VERTICAL-PLANTAS.jpg" alt="DECORACAO-PAISAGISMO-JARDIM-VARANDA-JARDIM VERTICAL-PLANTAS" width="480" height="720" />
 </p>
 
 <p style="text-align: left;" align="center">
@@ -22,7 +19,7 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.trololodemulher.com.br/2012/01/04/jardim-casa-margaret/" target="_blank"><strong>Tem jardim na casa da Margaret? Ô… se tem!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/01/04/jardim-casa-margaret/" target="_blank" rel="noopener noreferrer"><strong>Tem jardim na casa da Margaret? Ô… se tem!</strong></a>
 </p>
 
 <p align="justify">
@@ -30,7 +27,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12448" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-PAISAGISMO-JARDIM-VARANDA-JARDIM-VERTICAL-PLANTAS2.jpg" alt="DECORACAO-PAISAGISMO-JARDIM-VARANDA-JARDIM VERTICAL-PLANTAS[2]" width="645" height="429" />
+  <img class="alignnone size-full wp-image-12448" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-PAISAGISMO-JARDIM-VARANDA-JARDIM-VERTICAL-PLANTAS2.jpg" alt="DECORACAO-PAISAGISMO-JARDIM-VARANDA-JARDIM VERTICAL-PLANTAS[2]" width="645" height="429" />
 </p>
 
 <p align="justify">
@@ -38,11 +35,11 @@ categories:
 </p>
 
 <p align="justify">
-  Imagens[1] <a href="http://www.vintagerevivals.com/" target="_blank">Vintage Revivals</a> e [2] <a href="https://www.brit.co/" target="_blank">Brit + Co</a>
+  Imagens[1] <a href="http://www.vintagerevivals.com/" target="_blank" rel="noopener noreferrer">Vintage Revivals</a> e [2] <a href="https://www.brit.co/" target="_blank" rel="noopener noreferrer">Brit + Co</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

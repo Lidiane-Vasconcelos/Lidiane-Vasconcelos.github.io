@@ -1,10 +1,7 @@
 ---
-id: 3593
 title: Como reutilizar objetos na decoração/organização em 4 dicas.
-date: 2016-04-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/04/19/objetos-decoracao-organizacao/
 permalink: /2016/04/19/objetos-decoracao-organizacao/
 categories:
   - Dicas de Decoração
@@ -15,7 +12,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12414" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-MOVEIS-BANCOS.jpg" alt="DECORACAO-MOVEIS-BANCOS" width="360" height="450" />
+  <img class="alignnone size-full wp-image-12414" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-MOVEIS-BANCOS.jpg" alt="DECORACAO-MOVEIS-BANCOS" width="360" height="450" />
 </p>
 
 <p align="center">
@@ -23,7 +20,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12412" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-FRUTEIRA-FRUTEIRA-DE-CHÃO.jpg" alt="DECORACAO-FRUTEIRA-FRUTEIRA DE CHÃO" width="570" height="712" />
+  <img class="alignnone size-full wp-image-12412" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-FRUTEIRA-FRUTEIRA-DE-CHÃO.jpg" alt="DECORACAO-FRUTEIRA-FRUTEIRA DE CHÃO" width="570" height="712" />
 </p>
 
 <p align="center">
@@ -35,15 +32,15 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong><a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank">Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank" rel="noopener noreferrer">Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</a></strong>
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong><a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank">5 ideias de organização do banheiro que favorecem a decoração.</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank" rel="noopener noreferrer">5 ideias de organização do banheiro que favorecem a decoração.</a></strong>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12413" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-JARRA-JARRA-PORCELANA.jpg" alt="DECORACAO-JARRA-JARRA PORCELANA" width="360" height="450" />
+  <img class="alignnone size-full wp-image-12413" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-JARRA-JARRA-PORCELANA.jpg" alt="DECORACAO-JARRA-JARRA PORCELANA" width="360" height="450" />
 </p>
 
 <p align="center">
@@ -55,15 +52,15 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong><a href="http://www.decoracaodacasa.com/organizacao-casa-cozinha/" target="_blank">+1 ideia de organização para sua cozinha pequena.</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/organizacao-casa-cozinha/" target="_blank" rel="noopener noreferrer">+1 ideia de organização para sua cozinha pequena.</a></strong>
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong><a href="http://www.decoracaodacasa.com/cozinha-organizacao/" target="_blank">Cozinha: 2 ideias simples que, sim, organizam!</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/cozinha-organizacao/" target="_blank" rel="noopener noreferrer">Cozinha: 2 ideias simples que, sim, organizam!</a></strong>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12415" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-PRATO-DE-BOLO.jpg" alt="DECORACAO-PRATO DE BOLO" width="570" height="712" />
+  <img class="alignnone size-full wp-image-12415" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-PRATO-DE-BOLO.jpg" alt="DECORACAO-PRATO DE BOLO" width="570" height="712" />
 </p>
 
 <p align="center">
@@ -75,21 +72,21 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong><a href="http://www.decoracaodacasa.com/organizacao-da-cozinha/" target="_blank">3 dicas para organização da cozinha: confira!</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/organizacao-da-cozinha/" target="_blank" rel="noopener noreferrer">3 dicas para organização da cozinha: confira!</a></strong>
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong><a href="http://www.decoracaodacasa.com/ideias-cozinha-organizada/" target="_blank">4 ideias para manter sua cozinha organizada. Confira!</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/ideias-cozinha-organizada/" target="_blank" rel="noopener noreferrer">4 ideias para manter sua cozinha organizada. Confira!</a></strong>
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong><a href="http://www.decoracaodacasa.com/decoracao-de-cozinha/" target="_blank">Decoração de cozinha: 2 ideias que também organizam.</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/decoracao-de-cozinha/" target="_blank" rel="noopener noreferrer">Decoração de cozinha: 2 ideias que também organizam.</a></strong>
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.marthastewart.com/" target="_blank">Martha Stewart</a>
+  Imagens: <a href="http://www.marthastewart.com/" target="_blank" rel="noopener noreferrer">Martha Stewart</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

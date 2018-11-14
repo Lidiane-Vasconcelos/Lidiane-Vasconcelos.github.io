@@ -1,10 +1,7 @@
 ---
-id: 3547
 title: 4 lições que eu aprendi para manter a casa limpa.
-date: 2016-02-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/02/23/casa-limpa/
 permalink: /2016/02/23/casa-limpa/
 categories:
   - Rotina da Casa
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/01/06/casa-limpa-e-organizada/" target="_blank"><strong>Casa limpa e organizada com menos esforço: 11 dicas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/01/06/casa-limpa-e-organizada/" target="_blank" rel="noopener noreferrer"><strong>Casa limpa e organizada com menos esforço: 11 dicas.</strong></a>
 </p>
 
 <p align="justify">
@@ -26,7 +23,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11968" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/CASA-ROTINA-DOMESTICA-CASA-LIMPA-CASA-ORGANIZADA.jpg" alt="CASA-ROTINA DOMESTICA-CASA LIMPA-CASA ORGANIZADA" width="600" height="400" />
+  <img class="alignnone size-full wp-image-11968" src="https://www.trololodemulher.com.br/2016/02/CASA-ROTINA-DOMESTICA-CASA-LIMPA-CASA-ORGANIZADA.jpg" alt="CASA-ROTINA DOMESTICA-CASA LIMPA-CASA ORGANIZADA" width="600" height="400" />
 </p>
 
 <p align="center">
@@ -42,7 +39,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank"><strong>Como evitar o acúmulo e organizar o lar? Dicas práticas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank" rel="noopener noreferrer"><strong>Como evitar o acúmulo e organizar o lar? Dicas práticas.</strong></a>
 </p>
 
 <p align="justify">
@@ -50,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11970" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/CASA-ROTINA-DOMESTICA-CASA-LIMPA-CASA-ORGANIZADA4.jpg" alt="CASA-ROTINA DOMESTICA-CASA LIMPA-CASA ORGANIZADA[4]" width="564" height="845" />
+  <img class="alignnone size-full wp-image-11970" src="https://www.trololodemulher.com.br/2016/02/CASA-ROTINA-DOMESTICA-CASA-LIMPA-CASA-ORGANIZADA4.jpg" alt="CASA-ROTINA DOMESTICA-CASA LIMPA-CASA ORGANIZADA[4]" width="564" height="845" />
 </p>
 
 <p align="center">
@@ -66,7 +63,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11969" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/CASA-ROTINA-DOMESTICA-CASA-LIMPA-CASA-ORGANIZADA3.jpg" alt="CASA-ROTINA DOMESTICA-CASA LIMPA-CASA ORGANIZADA[3]" width="607" height="350" />
+  <img class="alignnone size-full wp-image-11969" src="https://www.trololodemulher.com.br/2016/02/CASA-ROTINA-DOMESTICA-CASA-LIMPA-CASA-ORGANIZADA3.jpg" alt="CASA-ROTINA DOMESTICA-CASA LIMPA-CASA ORGANIZADA[3]" width="607" height="350" />
 </p>
 
 <p align="center">
@@ -82,7 +79,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11973" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/CASA-ROTINA-DOMESTICA-CASA-LIMPA-CASA-ORGANIZADA5.jpg" alt="CASA-ROTINA DOMESTICA-CASA LIMPA-CASA ORGANIZADA[5]" width="800" height="1631" />
+  <img class="alignnone size-full wp-image-11973" src="https://www.trololodemulher.com.br/2016/02/CASA-ROTINA-DOMESTICA-CASA-LIMPA-CASA-ORGANIZADA5.jpg" alt="CASA-ROTINA DOMESTICA-CASA LIMPA-CASA ORGANIZADA[5]" width="800" height="1631" />
 </p>
 
 <p align="center">
@@ -96,7 +93,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

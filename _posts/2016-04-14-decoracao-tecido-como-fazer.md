@@ -1,10 +1,7 @@
 ---
-id: 3590
 title: 'Decoração: cortes de tecido nas mãos e 4 ideias na cabeça.'
-date: 2016-04-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/04/14/decoracao-tecido-como-fazer/
 permalink: /2016/04/14/decoracao-tecido-como-fazer/
 categories:
   - Decoração
@@ -15,11 +12,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12390" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE-MESMA2.png" alt="DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE MESMA[2]" width="669" height="95" />
+  <img class="alignnone size-full wp-image-12390" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE-MESMA2.png" alt="DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE MESMA[2]" width="669" height="95" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12394" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-TECIDO-MOVEIS-FACAVOCE-MESMA.jpg" alt="DECORACAO-TECIDO-MOVEIS-FACAVOCE MESMA" width="550" height="733" />
+  <img class="alignnone size-full wp-image-12394" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-TECIDO-MOVEIS-FACAVOCE-MESMA.jpg" alt="DECORACAO-TECIDO-MOVEIS-FACAVOCE MESMA" width="550" height="733" />
 </p>
 
 <p align="justify">
@@ -31,15 +28,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/07/12/decoracao-faca-voce-mesma-2/" target="_blank"><strong>Quer uma mesinha lateral na sua sala? Improvisa!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/07/12/decoracao-faca-voce-mesma-2/" target="_blank" rel="noopener noreferrer"><strong>Quer uma mesinha lateral na sua sala? Improvisa!</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12391" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE-MESMA3.png" alt="DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE MESMA[3]" width="635" height="91" />
+  <img class="alignnone size-full wp-image-12391" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE-MESMA3.png" alt="DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE MESMA[3]" width="635" height="91" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12389" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE-MESMA.jpg" alt="DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE MESMA" width="550" height="611" />
+  <img class="alignnone size-full wp-image-12389" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE-MESMA.jpg" alt="DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE MESMA" width="550" height="611" />
 </p>
 
 <p align="justify">
@@ -55,15 +52,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cabeceira-enchimento/" target="_blank"><strong>Cabeceira com enchimento “fofinho”: como fazer?</strong></a>
+  <a href="http://www.decoracaodacasa.com/cabeceira-enchimento/" target="_blank" rel="noopener noreferrer"><strong>Cabeceira com enchimento “fofinho”: como fazer?</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12392" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE-MESMA4.jpg" alt="DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE MESMA[4]" width="800" height="84" />
+  <img class="alignnone size-full wp-image-12392" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE-MESMA4.jpg" alt="DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE MESMA[4]" width="800" height="84" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12395" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-TECIDO-MOVEIS-FACAVOCE-MESMA2.jpg" alt="DECORACAO-TECIDO-MOVEIS-FACAVOCE MESMA[2]" width="550" height="733" />
+  <img class="alignnone size-full wp-image-12395" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-TECIDO-MOVEIS-FACAVOCE-MESMA2.jpg" alt="DECORACAO-TECIDO-MOVEIS-FACAVOCE MESMA[2]" width="550" height="733" />
 </p>
 
 <p align="justify">
@@ -75,15 +72,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank"><strong>Como decorar a parede com quadros.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank" rel="noopener noreferrer"><strong>Como decorar a parede com quadros.</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12393" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE-MESMA5.png" alt="DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE MESMA[5]" width="684" height="91" />
+  <img class="alignnone size-full wp-image-12393" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE-MESMA5.png" alt="DECORACAO-TECIDO-MOVEIS-CABECEIRA-FACAVOCE MESMA[5]" width="684" height="91" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12396" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-TECIDO-MOVEIS-FACAVOCE-MESMA3.jpg" alt="DECORACAO-TECIDO-MOVEIS-FACAVOCE MESMA[3]" width="550" height="733" />
+  <img class="alignnone size-full wp-image-12396" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-TECIDO-MOVEIS-FACAVOCE-MESMA3.jpg" alt="DECORACAO-TECIDO-MOVEIS-FACAVOCE MESMA[3]" width="550" height="733" />
 </p>
 
 <p align="justify">
@@ -95,15 +92,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/home-office-2/" target="_blank"><strong>Para um home office cheio de bossa, inspire-se na Lia!</strong></a>
+  <a href="http://www.decoracaodacasa.com/home-office-2/" target="_blank" rel="noopener noreferrer"><strong>Para um home office cheio de bossa, inspire-se na Lia!</strong></a>
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagens: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

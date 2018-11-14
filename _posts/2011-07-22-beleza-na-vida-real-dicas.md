@@ -1,10 +1,7 @@
 ---
-id: 3026
 title: 'Beleza na vida real: dicas, truques e trololó…'
-date: 2011-07-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/07/22/beleza-na-vida-real-dicas/
 permalink: /2011/07/22/beleza-na-vida-real-dicas/
 categories:
   - Beleza
@@ -20,11 +17,11 @@ categories:
 <!--more-->
 
 <p align="justify">
-  Letícia é <strong>arquiteta</strong>, casada e <strong>blogueira</strong>. No corre-corre para dar conta de suas responsabilidades no trabalho, em casa e na edição do <strong><a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a></strong>, blog onde publica <strong>posts variados sobre Casa e Decoração</strong>, ela procura ser prática e mantem itens básicos para a maquiagem do dia a dia: “<em>tenho na minha nécessaire um <strong>kit básico</strong>: <strong>protetor solar, corretivo, pó compacto, blush, batom e rímel</strong>. Não costumo trocar estes itens, a não ser que tenha algum compromisso que exija uma maquiagem mais elaborada”.</em>
+  Letícia é <strong>arquiteta</strong>, casada e <strong>blogueira</strong>. No corre-corre para dar conta de suas responsabilidades no trabalho, em casa e na edição do <strong><a href="http://blog.casadecatarina.com.br/" target="_blank" rel="noopener noreferrer">Casa de Catarina</a></strong>, blog onde publica <strong>posts variados sobre Casa e Decoração</strong>, ela procura ser prática e mantem itens básicos para a maquiagem do dia a dia: “<em>tenho na minha nécessaire um <strong>kit básico</strong>: <strong>protetor solar, corretivo, pó compacto, blush, batom e rímel</strong>. Não costumo trocar estes itens, a não ser que tenha algum compromisso que exija uma maquiagem mais elaborada”.</em>
 </p>
 
 <p align="center">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Leticia-Lodi.jpg"><img class="alignnone size-full wp-image-6667" title="Leticia Lodi" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Leticia-Lodi.jpg" alt="" width="600" height="400" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2011/07/Leticia-Lodi.jpg"><img class="alignnone size-full wp-image-6667" title="Leticia Lodi" src="https://www.trololodemulher.com.br/2011/07/Leticia-Lodi.jpg" alt="" width="600" height="400" /></a></em>
 </p>
 
 &nbsp;
@@ -72,7 +69,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></strong>
 </p>
 
 &nbsp;
@@ -90,7 +87,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/rimel200.jpg"><img class="alignnone size-full wp-image-6670" title="rímel200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/rimel200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/07/rimel200.jpg"><img class="alignnone size-full wp-image-6670" title="rímel200" src="https://www.trololodemulher.com.br/2011/07/rimel200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></strong>
 </p>
 
 &nbsp;
@@ -106,7 +103,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/batom200.jpg"><img class="alignnone size-full wp-image-6666" title="batom200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/batom200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/07/batom200.jpg"><img class="alignnone size-full wp-image-6666" title="batom200" src="https://www.trololodemulher.com.br/2011/07/batom200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></strong>
 </p>
 
 &nbsp;

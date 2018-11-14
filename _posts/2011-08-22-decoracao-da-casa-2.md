@@ -1,17 +1,14 @@
 ---
-id: 3039
 title: Do que você mais gosta na sua casa?
-date: 2011-08-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/08/22/decoracao-da-casa-2/
 permalink: /2011/08/22/decoracao-da-casa-2/
 categories:
   - Comportamento
   - Comportamento Feminino
   - Decoração
 ---
-Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vânia Pinho**, que edita o blog **<a href="http://www.casadebonecadecor.blogspot.com/" target="_blank">Casa de Boneca</a>**, apontar um cantinho preferido é algo difícil. Ela tem um caso de amor com a casa inteira, e mostra com paixão cada cantinho dela aqui, no **Bicha Fêmea.**
+Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vânia Pinho**, que edita o blog **<a href="http://www.casadebonecadecor.blogspot.com/" target="_blank" rel="noopener noreferrer">Casa de Boneca</a>**, apontar um cantinho preferido é algo difícil. Ela tem um caso de amor com a casa inteira, e mostra com paixão cada cantinho dela aqui, no **Bicha Fêmea.**
 
 &nbsp;
 
@@ -34,7 +31,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Sala-de-estar.jpg"><img class="alignnone size-full wp-image-6816" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Sala-de-estar.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/Sala-de-estar.jpg"><img class="alignnone size-full wp-image-6816" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2011/08/Sala-de-estar.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 &nbsp;
@@ -46,7 +43,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Sala-de-estar4.jpg"><img class="alignnone size-full wp-image-6817" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Sala-de-estar4.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/Sala-de-estar4.jpg"><img class="alignnone size-full wp-image-6817" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2011/08/Sala-de-estar4.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -58,7 +55,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Sala-de-estar5.jpg"><img class="alignnone size-full wp-image-6818" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Sala-de-estar5.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/Sala-de-estar5.jpg"><img class="alignnone size-full wp-image-6818" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2011/08/Sala-de-estar5.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -76,7 +73,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cristaleira.jpg"><img class="alignnone size-full wp-image-6814" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cristaleira.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/Cristaleira.jpg"><img class="alignnone size-full wp-image-6814" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2011/08/Cristaleira.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 > <p align="justify">
@@ -84,19 +81,19 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cristaleira2.jpg"><img class="alignnone size-full wp-image-6815" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cristaleira2.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/Cristaleira2.jpg"><img class="alignnone size-full wp-image-6815" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2011/08/Cristaleira2.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Buffet.jpg"><img class="alignnone size-full wp-image-6807" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Buffet.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/Buffet.jpg"><img class="alignnone size-full wp-image-6807" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2011/08/Buffet.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Buffet2.jpg"><img class="alignnone size-full wp-image-6809" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Buffet2.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/Buffet2.jpg"><img class="alignnone size-full wp-image-6809" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2011/08/Buffet2.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Buffet1.jpg"><img class="alignnone size-full wp-image-6808" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Buffet1.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/Buffet1.jpg"><img class="alignnone size-full wp-image-6808" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2011/08/Buffet1.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 > <p align="justify">
@@ -112,11 +109,11 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cabeceira-da-Cama.jpg"><img class="alignnone size-full wp-image-6810" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cabeceira-da-Cama.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/Cabeceira-da-Cama.jpg"><img class="alignnone size-full wp-image-6810" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2011/08/Cabeceira-da-Cama.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cabeceira-da-Cama2.jpg"><img class="alignnone size-full wp-image-6811" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cabeceira-da-Cama2.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/Cabeceira-da-Cama2.jpg"><img class="alignnone size-full wp-image-6811" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2011/08/Cabeceira-da-Cama2.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 > <p align="justify">
@@ -160,5 +157,5 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 </p>
 
 <p align="center">
-  <strong><a href="http://twitter.com/#!/bichafemea" target="_blank">Twitter</a> | <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank">Facebook</a> </strong>
+  <strong><a href="http://twitter.com/#!/bichafemea" target="_blank" rel="noopener noreferrer">Twitter</a> | <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer">Facebook</a> </strong>
 </p>

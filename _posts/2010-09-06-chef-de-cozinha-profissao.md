@@ -1,10 +1,7 @@
 ---
-id: 2870
 title: 'Sendo chef de cozinha: os bastidores da profissão…'
-date: 2010-09-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/09/06/chef-de-cozinha-profissao/
 permalink: /2010/09/06/chef-de-cozinha-profissao/
 categories:
   - Sem categoria
@@ -30,7 +27,7 @@ O início em uma cozinha é sempre complicado porque precisamos nos familiarizar
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/pimantao.jpg"><img class="size-medium wp-image-5133 aligncenter" title="pimantão" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/pimantao-300x199.jpg" alt="" width="300" height="199" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/pimantao.jpg"><img class="size-medium wp-image-5133 aligncenter" title="pimantão" src="https://www.trololodemulher.com.br/2010/08/pimantao-300x199.jpg" alt="" width="300" height="199" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -54,7 +51,7 @@ O início em uma cozinha é sempre complicado porque precisamos nos familiarizar
 </p>
 
 <p style="text-align: justify;">
-  <em>Imagem: </em><a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a> 
+  <em>Imagem: </em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a> 
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -66,7 +63,7 @@ O início em uma cozinha é sempre complicado porque precisamos nos familiarizar
   
   <tr>
     <td width="600" valign="top">
-      <a href="http://chefdeboracordeiro.blogspot.com/" target="_blank">MIREPOIX</a>
+      <a href="http://chefdeboracordeiro.blogspot.com/" target="_blank" rel="noopener noreferrer">MIREPOIX</a>
     </td>
   </tr>
 </table>

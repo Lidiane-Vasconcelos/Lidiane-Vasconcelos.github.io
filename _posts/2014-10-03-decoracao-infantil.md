@@ -1,10 +1,7 @@
 ---
-id: 3351
 title: 3 ideias para organizar os livros infantis e facilitar o acesso.
-date: 2014-10-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/10/03/decoracao-infantil/
 permalink: /2014/10/03/decoracao-infantil/
 categories:
   - Decoração
@@ -24,27 +21,27 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/01/20/literatura-infantil/" target="_blank"><strong>Seu filho ama livros?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/01/20/literatura-infantil/" target="_blank" rel="noopener noreferrer"><strong>Seu filho ama livros?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizar-casa-quarto-infantil/" target="_blank"><strong>Ideias para você organizar um cantinho de leitura e artes infantil.</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizar-casa-quarto-infantil/" target="_blank" rel="noopener noreferrer"><strong>Ideias para você organizar um cantinho de leitura e artes infantil.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/09/19/quarto-infantil-decorado/" target="_blank"><strong>Quarto infantil decorado com afetividade.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/09/19/quarto-infantil-decorado/" target="_blank" rel="noopener noreferrer"><strong>Quarto infantil decorado com afetividade.</strong></a>
 </p>
 
 <p align="justify">
-  Pensando nisso eu quis reunir neste post algumas ideias que achei bem legais para organizar e expor os livros infantis, de modo que eles possam escolher o que querem folhear e ler sem que alguém precise pegar para eles. No futuro, na casa nova em Recife (<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">já falei aqui</a> que voltarei para Recife depois de quase 10 anos morando na região de Campinas), estou bem animada para reproduzir alguma dessas ideias também. Olha só:
+  Pensando nisso eu quis reunir neste post algumas ideias que achei bem legais para organizar e expor os livros infantis, de modo que eles possam escolher o que querem folhear e ler sem que alguém precise pegar para eles. No futuro, na casa nova em Recife (<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank" rel="noopener noreferrer">já falei aqui</a> que voltarei para Recife depois de quase 10 anos morando na região de Campinas), estou bem animada para reproduzir alguma dessas ideias também. Olha só:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/DECORACAO-ORGANIZACAO-QUARTO-INFANTIL.jpg"><img class="alignnone size-full wp-image-10446" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/DECORACAO-ORGANIZACAO-QUARTO-INFANTIL.jpg" alt="DECORACAO-ORGANIZACAO-QUARTO INFANTIL" width="600" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/DECORACAO-ORGANIZACAO-QUARTO-INFANTIL.jpg"><img class="alignnone size-full wp-image-10446" src="https://www.trololodemulher.com.br/2014/09/DECORACAO-ORGANIZACAO-QUARTO-INFANTIL.jpg" alt="DECORACAO-ORGANIZACAO-QUARTO INFANTIL" width="600" height="800" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.homedit.com/" target="_blank">homedit</a>
+  Imagem: <a href="http://www.homedit.com/" target="_blank" rel="noopener noreferrer">homedit</a>
 </p>
 
 <p align="justify">
@@ -52,11 +49,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/DECORACAO-ORGANIZACAO-QUARTO-INFANTIL2.jpg"><img class="alignnone size-full wp-image-10447" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/DECORACAO-ORGANIZACAO-QUARTO-INFANTIL2.jpg" alt="DECORACAO-ORGANIZACAO-QUARTO INFANTIL[2]" width="434" height="480" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/DECORACAO-ORGANIZACAO-QUARTO-INFANTIL2.jpg"><img class="alignnone size-full wp-image-10447" src="https://www.trololodemulher.com.br/2014/09/DECORACAO-ORGANIZACAO-QUARTO-INFANTIL2.jpg" alt="DECORACAO-ORGANIZACAO-QUARTO INFANTIL[2]" width="434" height="480" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.asosmamaenadia.com/" target="_blank">A sós – Mamãe Nádia</a>
+  Imagem: <a href="http://www.asosmamaenadia.com/" target="_blank" rel="noopener noreferrer">A sós – Mamãe Nádia</a>
 </p>
 
 <p align="justify">
@@ -64,11 +61,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/DECORACAO-ORGANIZACAO-QUARTO-INFANTIL3.jpg"><img class="alignnone size-full wp-image-10449" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/DECORACAO-ORGANIZACAO-QUARTO-INFANTIL3.jpg" alt="DECORACAO-ORGANIZACAO-QUARTO INFANTIL[3]" width="616" height="462" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/DECORACAO-ORGANIZACAO-QUARTO-INFANTIL3.jpg"><img class="alignnone size-full wp-image-10449" src="https://www.trololodemulher.com.br/2014/09/DECORACAO-ORGANIZACAO-QUARTO-INFANTIL3.jpg" alt="DECORACAO-ORGANIZACAO-QUARTO INFANTIL[3]" width="616" height="462" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.homedit.com/" target="_blank">homedit</a>
+  Imagem: <a href="http://www.homedit.com/" target="_blank" rel="noopener noreferrer">homedit</a>
 </p>
 
 <p align="justify">
@@ -80,19 +77,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank"><strong>4 soluções de organização para o quarto infantil… você não vai copiar?</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank" rel="noopener noreferrer"><strong>4 soluções de organização para o quarto infantil… você não vai copiar?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil/" target="_blank"><strong>Decoração para quarto infantil.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil/" target="_blank" rel="noopener noreferrer"><strong>Decoração para quarto infantil.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-quarto-da-crianca/" target="_blank"><strong>2 ideias que organizam o quarto da criança.. e até decoram!</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-quarto-da-crianca/" target="_blank" rel="noopener noreferrer"><strong>2 ideias que organizam o quarto da criança.. e até decoram!</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

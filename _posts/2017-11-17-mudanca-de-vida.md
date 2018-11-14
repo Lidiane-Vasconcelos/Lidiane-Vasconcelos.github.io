@@ -1,10 +1,7 @@
 ---
-id: 3829
 title: Sobre mudança de vida, alternativas e propósito.
-date: 2017-11-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/11/17/mudanca-de-vida/
 permalink: /2017/11/17/mudanca-de-vida/
 categories:
   - Comportamento
@@ -15,7 +12,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14410" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/Perfil.jpg" alt="Perfil" width="800" height="507" />
+  <img class="alignnone size-full wp-image-14410" src="https://www.trololodemulher.com.br/2017/11/Perfil.jpg" alt="Perfil" width="800" height="507" />
 </p>
 
 <p align="center">
@@ -35,7 +32,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14405" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/Laguna-69-Perú.jpg" alt="Laguna 69 - Perú" width="800" height="600" />
+  <img class="alignnone size-full wp-image-14405" src="https://www.trololodemulher.com.br/2017/11/Laguna-69-Perú.jpg" alt="Laguna 69 - Perú" width="800" height="600" />
 </p>
 
 <p align="center">
@@ -51,7 +48,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="size-full wp-image-14409" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/Montanha-Wilcacocha-Perú.jpg" alt="DCIM100GOPROGOPR0347.JPG" width="800" height="600" />
+  <img class="size-full wp-image-14409" src="https://www.trololodemulher.com.br/2017/11/Montanha-Wilcacocha-Perú.jpg" alt="DCIM100GOPROGOPR0347.JPG" width="800" height="600" />
 </p>
 
 <p style="text-align: center;">
@@ -67,7 +64,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="size-full wp-image-14408" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/Linhas-de-Nazca-Perú.jpg" alt="DCIM100GOPROGOPR1022.JPG" width="800" height="600" />
+  <img class="size-full wp-image-14408" src="https://www.trololodemulher.com.br/2017/11/Linhas-de-Nazca-Perú.jpg" alt="DCIM100GOPROGOPR1022.JPG" width="800" height="600" />
 </p>
 
 <p style="text-align: center;">
@@ -83,11 +80,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14412" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/Salar-de-Uyuni-Bolívia.jpg" alt="Salar de Uyuni - Bolívia" width="800" height="694" />
+  <img class="alignnone size-full wp-image-14412" src="https://www.trololodemulher.com.br/2017/11/Salar-de-Uyuni-Bolívia.jpg" alt="Salar de Uyuni - Bolívia" width="800" height="694" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14413" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/Salar-de-Uyuni-Bolívia2.jpg" alt="Salar de Uyuni - Bolívia[2]" width="800" height="533" />
+  <img class="alignnone size-full wp-image-14413" src="https://www.trololodemulher.com.br/2017/11/Salar-de-Uyuni-Bolívia2.jpg" alt="Salar de Uyuni - Bolívia[2]" width="800" height="533" />
 </p>
 
 <p align="center">
@@ -103,7 +100,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="size-full wp-image-14404" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/Casa-Rosada-Buenos-Aires-Argentina.jpg" alt="DCIM100GOPROGOPR2315.JPG" width="800" height="600" />
+  <img class="size-full wp-image-14404" src="https://www.trololodemulher.com.br/2017/11/Casa-Rosada-Buenos-Aires-Argentina.jpg" alt="DCIM100GOPROGOPR2315.JPG" width="800" height="600" />
 </p>
 
 <p style="text-align: center;">
@@ -113,19 +110,19 @@ categories:
 ¹Mahatma Gandhi ²Autor desconhecido
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14411" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/RIVANEZA-SILVA-BACHAREL-TURISMO.png" alt="RIVANEZA SILVA-BACHAREL TURISMO" width="800" height="194" />
+  <img class="alignnone size-full wp-image-14411" src="https://www.trololodemulher.com.br/2017/11/RIVANEZA-SILVA-BACHAREL-TURISMO.png" alt="RIVANEZA SILVA-BACHAREL TURISMO" width="800" height="194" />
 </p>
 
 <p align="justify">
-  Rivah nos dará o prazer de contar, em posts mensais, suas descobertas, experiências e reflexões, tudo deliciosamente pincelado por fotos incríveis, daquelas imagens inspiradoras, que dão um gostinho todo particular que só experimenta quem viaja. Para acompanhar mais o que essa moça anda fazendo por aí junto ao seu amado, <a href="https://www.facebook.com/deandadanomundo/" target="_blank">clique aqui e curta a fanpage De Andada no Mundo</a> no Facebook, <a href="https://www.instagram.com/deandada_nomundo/" target="_blank">clique aqui e siga o perfil De Andada no Mundo</a> no Instagram, <a href="https://www.instagram.com/rivahsilva/" target="_blank">clique aqui e acompanhe o perfil pessoal de Rivah</a> no Instagram. <strong>Quer falar com Rivah por e-mail?</strong> anota aí: <a href="mailto:deandadanomundo@gmail.com" target="_blank">deandadanomundo@gmail.com</a>
+  Rivah nos dará o prazer de contar, em posts mensais, suas descobertas, experiências e reflexões, tudo deliciosamente pincelado por fotos incríveis, daquelas imagens inspiradoras, que dão um gostinho todo particular que só experimenta quem viaja. Para acompanhar mais o que essa moça anda fazendo por aí junto ao seu amado, <a href="https://www.facebook.com/deandadanomundo/" target="_blank" rel="noopener noreferrer">clique aqui e curta a fanpage De Andada no Mundo</a> no Facebook, <a href="https://www.instagram.com/deandada_nomundo/" target="_blank" rel="noopener noreferrer">clique aqui e siga o perfil De Andada no Mundo</a> no Instagram, <a href="https://www.instagram.com/rivahsilva/" target="_blank" rel="noopener noreferrer">clique aqui e acompanhe o perfil pessoal de Rivah</a> no Instagram. <strong>Quer falar com Rivah por e-mail?</strong> anota aí: <a href="mailto:deandadanomundo@gmail.com" target="_blank" rel="noopener noreferrer">deandadanomundo@gmail.com</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>
 
 <p align="justify">

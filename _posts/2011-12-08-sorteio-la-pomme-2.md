@@ -1,10 +1,7 @@
 ---
-id: 3091
 title: 'Sorteio Bicha Fêmea &#038; La Pomme – Resultado II'
-date: 2011-12-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/12/08/sorteio-la-pomme-2/
 permalink: /2011/12/08/sorteio-la-pomme-2/
 categories:
   - Promoção
@@ -20,15 +17,15 @@ E não é que a **Juliana Oliveira**, ganhadora dos presentes da **La Pomme**, d
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/La-Pomme.png"><img class="alignnone size-full wp-image-8154" title="La Pomme" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/La-Pomme.png" alt="" width="467" height="168" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/La-Pomme.png"><img class="alignnone size-full wp-image-8154" title="La Pomme" src="https://www.trololodemulher.com.br/2011/11/La-Pomme.png" alt="" width="467" height="168" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/ECOBAG.jpg"><img class="alignnone size-full wp-image-8153" title="ECOBAG" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/ECOBAG.jpg" alt="" width="500" height="500" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/ECOBAG.jpg"><img class="alignnone size-full wp-image-8153" title="ECOBAG" src="https://www.trololodemulher.com.br/2011/11/ECOBAG.jpg" alt="" width="500" height="500" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/CADERNETA.jpg"><img class="alignnone size-full wp-image-8152" title="CADERNETA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/CADERNETA.jpg" alt="" width="500" height="500" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/CADERNETA.jpg"><img class="alignnone size-full wp-image-8152" title="CADERNETA" src="https://www.trololodemulher.com.br/2011/11/CADERNETA.jpg" alt="" width="500" height="500" /></a>
 </p>
 
 &nbsp;
@@ -63,19 +60,19 @@ Hoje mesmo será enviado um e-mail para a bonita, que terá até o dia **12 de D
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="http://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://www.orkut.com.br/Community?cmm=92609046" target="_blank"><img class="alignnone size-full wp-image-6856" title="Orkut" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Orkut.png" alt="" width="49" height="49" /></a>
+        <a href="http://www.orkut.com.br/Community?cmm=92609046" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6856" title="Orkut" src="https://www.trololodemulher.com.br/2011/08/Orkut.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

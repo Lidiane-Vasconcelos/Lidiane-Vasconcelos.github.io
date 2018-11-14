@@ -1,10 +1,7 @@
 ---
-id: 3716
 title: 8 maneiras de preparar a casa para o Verão!
-date: 2016-12-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/12/21/preparar-a-casa-para-o-verao/
 permalink: /2016/12/21/preparar-a-casa-para-o-verao/
 categories:
   - Publieditorial
@@ -17,11 +14,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13381" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/CASA-VERAO-PREPARAR-CASA-PARA-VERAO2.jpg" alt="casa-verao-preparar-casa-para-verao2" width="800" height="533" />
+  <img class="alignnone size-full wp-image-13381" src="https://www.trololodemulher.com.br/2016/12/CASA-VERAO-PREPARAR-CASA-PARA-VERAO2.jpg" alt="casa-verao-preparar-casa-para-verao2" width="800" height="533" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.styleathome.com/" target="_blank">Style at Home</a>
+  Via <a href="http://www.styleathome.com/" target="_blank" rel="noopener noreferrer">Style at Home</a>
 </p>
 
 &nbsp;
@@ -41,33 +38,33 @@ categories:
 </p>
 
 <p align="justify">
-  É hora de deixar sua decoração leve e florida! A propósito: <strong><a href="http://www.trololodemulher.com.br/2016/09/26/primavera-na-decoracao/" target="_blank">flores na decoração</a></strong> são um recurso acertadíssimo! Use e abuse delas.
+  É hora de deixar sua decoração leve e florida! A propósito: <strong><a href="http://www.trololodemulher.com.br/2016/09/26/primavera-na-decoracao/" target="_blank" rel="noopener noreferrer">flores na decoração</a></strong> são um recurso acertadíssimo! Use e abuse delas.
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank"><img class="alignnone size-full wp-image-13422" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/almofada-bordada.jpg" alt="almofada-bordada" width="800" height="600" /></a>
+  <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-13422" src="https://www.trololodemulher.com.br/2016/12/almofada-bordada.jpg" alt="almofada-bordada" width="800" height="600" /></a>
 </p>
 
 <p style="text-align: center;" align="justify">
-  <em>Almofada lindamente bordada dando a vida e cor que o Verão nos pede. Veja almofadas e mais produtos bordados, online, na <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank">XiqueXique Brasil</a>.</em>
+  <em>Almofada lindamente bordada dando a vida e cor que o Verão nos pede. Veja almofadas e mais produtos bordados, online, na <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank" rel="noopener noreferrer">XiqueXique Brasil</a>.</em>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank"><img class="alignnone size-full wp-image-13384" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-ALMOFADAS.jpg" alt="decoracao-almofadas" width="800" height="237" /></a>
+  <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-13384" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-ALMOFADAS.jpg" alt="decoracao-almofadas" width="800" height="237" /></a>
 </p>
 
 <p align="center">
-  <em>Capas de almofadas em tapeçaria e retalhos coloridos, na ordem: verde, laranja e terra. Essas lindezas são peças que <strong>você encontra online na Xique Xique Brasil</strong>. </em><a href="https://www.xiquexiquebrasil.com.br/casa/almofada/?ref=trololodemulher" target="_blank"><em>Clique aqui para ver estes e outros modelos disponíveis</em></a><em>.</em>
+  <em>Capas de almofadas em tapeçaria e retalhos coloridos, na ordem: verde, laranja e terra. Essas lindezas são peças que <strong>você encontra online na Xique Xique Brasil</strong>. </em><a href="https://www.xiquexiquebrasil.com.br/casa/almofada/?ref=trololodemulher" target="_blank" rel="noopener noreferrer"><em>Clique aqui para ver estes e outros modelos disponíveis</em></a><em>.</em>
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br/casa/almofada/?ref=trololodemulher" target="_blank"><img class="alignnone size-full wp-image-13385" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-ALMOFADAS2.jpg" alt="decoracao-almofadas2" width="768" height="768" /></a>
+  <a href="https://www.xiquexiquebrasil.com.br/casa/almofada/?ref=trololodemulher" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-13385" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-ALMOFADAS2.jpg" alt="decoracao-almofadas2" width="768" height="768" /></a>
 </p>
 
 <p align="center">
-  <em>Seu sofá e poltronas podem ganhar uma mistura chique onde almofadas coloridas podem contrastar com a delicadeza da Renda Renascença. Peças como essas são facilmente encontradas online, na loja Xique Xique Brasil. <a href="https://www.xiquexiquebrasil.com.br/casa/almofada/?ref=trololodemulher" target="_blank">Clique aqui para ver estes e outros modelos disponíveis</a><em>.</em></em>
+  <em>Seu sofá e poltronas podem ganhar uma mistura chique onde almofadas coloridas podem contrastar com a delicadeza da Renda Renascença. Peças como essas são facilmente encontradas online, na loja Xique Xique Brasil. <a href="https://www.xiquexiquebrasil.com.br/casa/almofada/?ref=trololodemulher" target="_blank" rel="noopener noreferrer">Clique aqui para ver estes e outros modelos disponíveis</a><em>.</em></em>
 </p>
 
 &nbsp;
@@ -77,11 +74,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank"><img class="alignnone size-full wp-image-13423" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-JOGO-AMERICANO-RENDA-FILE.jpg" alt="decoracao-jogo-americano-renda-file" width="800" height="400" /></a>
+  <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-13423" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-JOGO-AMERICANO-RENDA-FILE.jpg" alt="decoracao-jogo-americano-renda-file" width="800" height="400" /></a>
 </p>
 
 <p style="text-align: center;" align="justify">
-  <em>Leve o colorido à mesa usando jogos americanos lindos e alegres, como esses, de Renda Filé. As peças ricamente trabalhadas são da <strong>Xique Xique Brasil, </strong>você encontra todas online, e elas são enviadas para todo o Brasil. <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank">Clique aqui</a>, veja esses e mais produtos.</em>
+  <em>Leve o colorido à mesa usando jogos americanos lindos e alegres, como esses, de Renda Filé. As peças ricamente trabalhadas são da <strong>Xique Xique Brasil, </strong>você encontra todas online, e elas são enviadas para todo o Brasil. <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank" rel="noopener noreferrer">Clique aqui</a>, veja esses e mais produtos.</em>
 </p>
 
 &nbsp;
@@ -93,7 +90,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  É hora de sair de casa e desfrutar os <strong><a href="http://www.trololodemulher.com.br/2012/03/16/qualidade-de-vida-2/" target="_blank">finais de semana com mais leveza, e ao ar livre</a></strong>! Procure saber sobre os parques que existem em sua cidade, e se jogue na vida com a família! Praia e piscina certamente já estão na lista das atividades preferidas no Verão, não é verdade? Antes de se programar para essas saídas durante toda a estação, <strong>não esqueça de conferir nos armários seu estoque de produtos para a pele</strong>, e abasteça com <strong>protetor solar e repelente</strong> o quanto antes! Esses itens são fundamentais nos seus passeios de Verão.
+  É hora de sair de casa e desfrutar os <strong><a href="http://www.trololodemulher.com.br/2012/03/16/qualidade-de-vida-2/" target="_blank" rel="noopener noreferrer">finais de semana com mais leveza, e ao ar livre</a></strong>! Procure saber sobre os parques que existem em sua cidade, e se jogue na vida com a família! Praia e piscina certamente já estão na lista das atividades preferidas no Verão, não é verdade? Antes de se programar para essas saídas durante toda a estação, <strong>não esqueça de conferir nos armários seu estoque de produtos para a pele</strong>, e abasteça com <strong>protetor solar e repelente</strong> o quanto antes! Esses itens são fundamentais nos seus passeios de Verão.
 </p>
 
 <p align="center">
@@ -103,7 +100,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Você passou a temporada de Outono/Inverno usando sapatos fechados, botas, roupas e acessórios mais sóbrios. Nada disso fará parte de seus looks de Verão, certo? Facilite a vida e o acesso às peças mais leves retirando os ítens de inverno, transferindo todos eles para locais de acesso mais restrito. Isso libera o espaço para roupas de banho, regatas, <em>shorts</em> e vestidos leves. Já sabe para onde irão suas blusas, casacos, cachecóis e demais peças de inverno? Aproveite pra dar uma organizada no seu <em>closet</em> e <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank">confira dicas imprescindíveis para isso</a>.
+  Você passou a temporada de Outono/Inverno usando sapatos fechados, botas, roupas e acessórios mais sóbrios. Nada disso fará parte de seus looks de Verão, certo? Facilite a vida e o acesso às peças mais leves retirando os ítens de inverno, transferindo todos eles para locais de acesso mais restrito. Isso libera o espaço para roupas de banho, regatas, <em>shorts</em> e vestidos leves. Já sabe para onde irão suas blusas, casacos, cachecóis e demais peças de inverno? Aproveite pra dar uma organizada no seu <em>closet</em> e <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank" rel="noopener noreferrer">confira dicas imprescindíveis para isso</a>.
 </p>
 
 &nbsp;
@@ -125,11 +122,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br/casa/banho/toalha-richelieu-conjunto-banho-branca-margarida-5-pecas/?ref=trololodemulher" target="_blank"><img class="alignnone size-full wp-image-13387" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-TOALHAS.jpg" alt="decoracao-toalhas" width="800" height="378" /></a>
+  <a href="https://www.xiquexiquebrasil.com.br/casa/banho/toalha-richelieu-conjunto-banho-branca-margarida-5-pecas/?ref=trololodemulher" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-13387" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-TOALHAS.jpg" alt="decoracao-toalhas" width="800" height="378" /></a>
 </p>
 
 <p align="center">
-  <em>Conjunto de toalhas 5 peças: 2 toalhas de banho, 2 toalhas de rosto e 1 piso. Toalhas de banho e rosto com finíssimo aplique de barra em percal bordado com Richelieu. Piso em felpa com acabamento superior e inferior em matame &#8220;onda&#8221;. Essas belíssimas toalhas são encontradas <strong>online, a um clique, na loja Xique Xique Brasil</strong>. </em><a href="https://www.xiquexiquebrasil.com.br/casa/banho/toalha-richelieu-conjunto-banho-branca-margarida-5-pecas/?ref=trololodemulher" target="_blank"><em>Clique aqui para mais detalhes sobre esse produto</em></a><em>.</em>
+  <em>Conjunto de toalhas 5 peças: 2 toalhas de banho, 2 toalhas de rosto e 1 piso. Toalhas de banho e rosto com finíssimo aplique de barra em percal bordado com Richelieu. Piso em felpa com acabamento superior e inferior em matame &#8220;onda&#8221;. Essas belíssimas toalhas são encontradas <strong>online, a um clique, na loja Xique Xique Brasil</strong>. </em><a href="https://www.xiquexiquebrasil.com.br/casa/banho/toalha-richelieu-conjunto-banho-branca-margarida-5-pecas/?ref=trololodemulher" target="_blank" rel="noopener noreferrer"><em>Clique aqui para mais detalhes sobre esse produto</em></a><em>.</em>
 </p>
 
 &nbsp;
@@ -153,27 +150,27 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank"><img class="alignnone size-full wp-image-12860" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/CASA-ENXOVAL-MESA-POSTA-JOGOS-AMERICANOS2.jpg" alt="CASA-ENXOVAL-MESA POSTA-JOGOS AMERICANOS[2]" width="754" height="749" /></a>
+  <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-12860" src="https://www.trololodemulher.com.br/2016/08/CASA-ENXOVAL-MESA-POSTA-JOGOS-AMERICANOS2.jpg" alt="CASA-ENXOVAL-MESA POSTA-JOGOS AMERICANOS[2]" width="754" height="749" /></a>
 </p>
 
 <p align="center">
-  <em>Os dois jogos americanos no alto da imagem são bordados em Richelieu, o primeiro em cambraia de linho, e o segundo em tecido percal branco. Os dois abaixo na imagem têm detalhes em bordado Labirinto, ambos em linho branco. Os jogos são da loja virtual </em><a href="http://bit.ly/xxb-tololo" target="_blank"><em>XiqueXique Brasil</em></a><em>. </em><a href="http://bit.ly/jogoamericano-trololo" target="_blank"><em>Clique aqui</em></a><em> para conferir!</em>
+  <em>Os dois jogos americanos no alto da imagem são bordados em Richelieu, o primeiro em cambraia de linho, e o segundo em tecido percal branco. Os dois abaixo na imagem têm detalhes em bordado Labirinto, ambos em linho branco. Os jogos são da loja virtual </em><a href="http://bit.ly/xxb-tololo" target="_blank" rel="noopener noreferrer"><em>XiqueXique Brasil</em></a><em>. </em><a href="http://bit.ly/jogoamericano-trololo" target="_blank" rel="noopener noreferrer"><em>Clique aqui</em></a><em> para conferir!</em>
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br/casa/porta-guardanapo/?ref=trololodemulher" target="_blank"><img class="alignnone size-full wp-image-13386" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-MESA-POSTA-PORTA-GUARDANAPO.jpg" alt="decoracao-mesa-posta-porta-guardanapo" width="800" height="401" /></a>
+  <a href="https://www.xiquexiquebrasil.com.br/casa/porta-guardanapo/?ref=trololodemulher" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-13386" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-MESA-POSTA-PORTA-GUARDANAPO.jpg" alt="decoracao-mesa-posta-porta-guardanapo" width="800" height="401" /></a>
 </p>
 
 <p align="center">
-  <em>Porta guardanapo formado por argola em madeira e conchas do mar. Esse produto é comercializado por unidade na <strong>loja online Xique Xique Brasil</strong>, compre quantos desejar e forme o seu conjunto. </em><a href="https://www.xiquexiquebrasil.com.br/casa/porta-guardanapo/?ref=trololodemulher" target="_blank"><em>Clique aqui para ver mais detalhes sobre esse modelo e vários outros</em></a><em>.</em>
+  <em>Porta guardanapo formado por argola em madeira e conchas do mar. Esse produto é comercializado por unidade na <strong>loja online Xique Xique Brasil</strong>, compre quantos desejar e forme o seu conjunto. </em><a href="https://www.xiquexiquebrasil.com.br/casa/porta-guardanapo/?ref=trololodemulher" target="_blank" rel="noopener noreferrer"><em>Clique aqui para ver mais detalhes sobre esse modelo e vários outros</em></a><em>.</em>
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank"><img class="alignnone size-full wp-image-13425" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/forro-copo.jpg" alt="forro-copo" width="800" height="600" /></a>
+  <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-13425" src="https://www.trololodemulher.com.br/2016/12/forro-copo.jpg" alt="forro-copo" width="800" height="600" /></a>
 </p>
 
 <p align="center">
-  <em>Pra quem ama receber com elegância e bom gosto, a dica é servir sobrepondo os copos a um charmoso forro em renda renascença. A ideia apaixonante e esses forrinhos delicados são da </em><a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank"><em>Xique Xique Brasil</em></a><em>.</em>
+  <em>Pra quem ama receber com elegância e bom gosto, a dica é servir sobrepondo os copos a um charmoso forro em renda renascença. A ideia apaixonante e esses forrinhos delicados são da </em><a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank" rel="noopener noreferrer"><em>Xique Xique Brasil</em></a><em>.</em>
 </p>
 
 &nbsp;
@@ -191,27 +188,27 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13191" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/RECEITA-RECEITA-SAUDAVEL-RECEITA-SIMPLES-PICOLE.jpg" alt="receita-receita-saudavel-receita-simples-picole" width="800" height="1200" />
+  <img class="alignnone size-full wp-image-13191" src="https://www.trololodemulher.com.br/2016/11/RECEITA-RECEITA-SAUDAVEL-RECEITA-SIMPLES-PICOLE.jpg" alt="receita-receita-saudavel-receita-simples-picole" width="800" height="1200" />
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2016/11/03/picole-caseiro/" target="_blank">Por um Verão Perfeito: Picolé Caseiro de Morango e Iogurte.</a>
+  <a href="http://www.trololodemulher.com.br/2016/11/03/picole-caseiro/" target="_blank" rel="noopener noreferrer">Por um Verão Perfeito: Picolé Caseiro de Morango e Iogurte.</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13100" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/RECEITA-SAUDAVEL-SORVETE-SORVETE-CASEIRO-SORVETE-DE-MELANCIA-CASEIRO.jpg" alt="receita-saudavel-sorvete-sorvete-caseiro-sorvete-de-melancia-caseiro" width="800" height="1103" />
+  <img class="alignnone size-full wp-image-13100" src="https://www.trololodemulher.com.br/2016/10/RECEITA-SAUDAVEL-SORVETE-SORVETE-CASEIRO-SORVETE-DE-MELANCIA-CASEIRO.jpg" alt="receita-saudavel-sorvete-sorvete-caseiro-sorvete-de-melancia-caseiro" width="800" height="1103" />
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2016/10/13/sorvete-caseiro/" target="_blank">Sorvete Caseiro de Melancia para dias de Sol.</a>
+  <a href="http://www.trololodemulher.com.br/2016/10/13/sorvete-caseiro/" target="_blank" rel="noopener noreferrer">Sorvete Caseiro de Melancia para dias de Sol.</a>
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank"><img class="alignnone size-full wp-image-13424" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/sousplat-renascenca.jpg" alt="sousplat-renascenca" width="800" height="800" /></a>
+  <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-13424" src="https://www.trololodemulher.com.br/2016/12/sousplat-renascenca.jpg" alt="sousplat-renascenca" width="800" height="800" /></a>
 </p>
 
 <p align="center">
-  <em>Comida leve, colorida e natural são a cara do Verão! Coma sem moderação. Para servir com charme, Sousplat de Renda Renascença da Xique Xique Brasil. <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank">Clique aqui para ver esse e mais produtos</a>.</em>
+  <em>Comida leve, colorida e natural são a cara do Verão! Coma sem moderação. Para servir com charme, Sousplat de Renda Renascença da Xique Xique Brasil. <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank" rel="noopener noreferrer">Clique aqui para ver esse e mais produtos</a>.</em>
 </p>
 
 &nbsp;
@@ -223,11 +220,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12788" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-BANHEIRO.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-BANHEIRO" width="533" height="800" />
+  <img class="alignnone size-full wp-image-12788" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-BANHEIRO.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-BANHEIRO" width="533" height="800" />
 </p>
 
 <p align="center">
-  <em>Via </em><a href="http://carlacoulson.com/a-greek-island-dream-house/" target="_blank"><em>Carla Coulson</em></a>
+  <em>Via </em><a href="http://carlacoulson.com/a-greek-island-dream-house/" target="_blank" rel="noopener noreferrer"><em>Carla Coulson</em></a>
 </p>
 
 <p align="center">
@@ -241,7 +238,7 @@ Permita que a luz solar e o ar lá de fora entre em casa, por todos os lugares p
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

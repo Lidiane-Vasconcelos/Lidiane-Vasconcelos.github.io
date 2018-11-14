@@ -1,10 +1,7 @@
 ---
-id: 2950
 title: Resultado do sorteio Naturella no Bicha Fêmea.
-date: 2011-01-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/01/31/resultado-naturella/
 permalink: /2011/01/31/resultado-naturella/
 categories:
   - Promoção
@@ -12,7 +9,7 @@ categories:
 Você, bicha fêmea navegante que se inscreveu para tentar a sorte de ganhar um Kit Naturella para experimentar essa novidade, via Bicha Fêmea, deve estar bem ansiosa, sim? Acredito! Eu estava contando nos dedos o dia de ver quem teria tido sorte dessa vez. Pronto! O suspense acabou,  e você vai ficar sabendo agora!<!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/Resultado-do-Sorteio-Naturella.jpg"><img class="alignnone size-full wp-image-5912" title="Resultado do Sorteio Naturella" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/Resultado-do-Sorteio-Naturella.jpg" alt="" width="600" height="210" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/Resultado-do-Sorteio-Naturella.jpg"><img class="alignnone size-full wp-image-5912" title="Resultado do Sorteio Naturella" src="https://www.trololodemulher.com.br/2011/01/Resultado-do-Sorteio-Naturella.jpg" alt="" width="600" height="210" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -39,4 +36,4 @@ Você, bicha fêmea navegante que se inscreveu para tentar a sorte de ganhar um 
   Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
 </p>
 
-[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/Absorvente-Naturella.jpg)
+[](https://www.trololodemulher.com.br/2011/01/Absorvente-Naturella.jpg)

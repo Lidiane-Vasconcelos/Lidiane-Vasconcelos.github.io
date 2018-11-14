@@ -1,10 +1,7 @@
 ---
-id: 3035
 title: Você gosta de blogs de culinária?
-date: 2011-08-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/08/12/blogs-de-culinaria/
 permalink: /2011/08/12/blogs-de-culinaria/
 categories:
   - Receitas
@@ -14,7 +11,7 @@ Eu gosto, mas confesso que conto nos dedos os **blogs** editados com **receitas*
 &nbsp;
 
 <p align="justify">
-  Um dos blogs que entra na minha lista de favoritos é o da <strong>Juliana Stelli</strong>, a moça que comanda o <strong><a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a></strong>. O blog dela é tão bacana que só poderia ser editado por uma blogueira que entende o que é fazer um blog com qualidade nesse tipo de nicho. Isso faz sentido para você também?
+  Um dos blogs que entra na minha lista de favoritos é o da <strong>Juliana Stelli</strong>, a moça que comanda o <strong><a href="http://www.pitadinha.com/" target="_blank" rel="noopener noreferrer">Pitadinha</a></strong>. O blog dela é tão bacana que só poderia ser editado por uma blogueira que entende o que é fazer um blog com qualidade nesse tipo de nicho. Isso faz sentido para você também?
 </p>
 
 <!--more-->
@@ -36,19 +33,19 @@ Eu gosto, mas confesso que conto nos dedos os **blogs** editados com **receitas*
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/pimenta.jpg"><img class="alignnone size-full wp-image-6733" title="green peper isolated on white" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/pimenta.jpg" alt="" width="600" height="435" /><br /> </a>Imagem:<strong> </strong><a href="http://www.sxc.hu/" target="_blank"><strong>stock.xchng</strong></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/pimenta.jpg"><img class="alignnone size-full wp-image-6733" title="green peper isolated on white" src="https://www.trololodemulher.com.br/2011/08/pimenta.jpg" alt="" width="600" height="435" /><br /> </a>Imagem:<strong> </strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><strong>stock.xchng</strong></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <span style="font-size: small;">1 – <strong><a href="http://mixirica.uol.com.br/" target="_blank">Mixirica</a></strong></span>
+  <span style="font-size: small;">1 – <strong><a href="http://mixirica.uol.com.br/" target="_blank" rel="noopener noreferrer">Mixirica</a></strong></span>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Mixirica.png"><img class="alignnone size-full wp-image-6731" title="Mixirica" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Mixirica.png" alt="" width="600" height="145" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/Mixirica.png"><img class="alignnone size-full wp-image-6731" title="Mixirica" src="https://www.trololodemulher.com.br/2011/08/Mixirica.png" alt="" width="600" height="145" /></a>
 </p>
 
 &nbsp;
@@ -60,13 +57,13 @@ Eu gosto, mas confesso que conto nos dedos os **blogs** editados com **receitas*
 &nbsp;
 
 <p align="center">
-  <span style="font-size: small;">2 – <strong><a href="http://www.naminhapanela.com/" target="_blank">Na minha panela</a></strong></span>
+  <span style="font-size: small;">2 – <strong><a href="http://www.naminhapanela.com/" target="_blank" rel="noopener noreferrer">Na minha panela</a></strong></span>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Na-minha-panela.png"><img class="alignnone size-full wp-image-6732" title="Na minha panela" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Na-minha-panela.png" alt="" width="357" height="98" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/Na-minha-panela.png"><img class="alignnone size-full wp-image-6732" title="Na minha panela" src="https://www.trololodemulher.com.br/2011/08/Na-minha-panela.png" alt="" width="357" height="98" /></a>
 </p>
 
 &nbsp;
@@ -76,11 +73,11 @@ Eu gosto, mas confesso que conto nos dedos os **blogs** editados com **receitas*
 > </p>
 
 <p align="center">
-  <span style="font-size: small;">3 – <strong><a href="http://www.chocolatria.com/" target="_blank">Chocolatria</a></strong></span>
+  <span style="font-size: small;">3 – <strong><a href="http://www.chocolatria.com/" target="_blank" rel="noopener noreferrer">Chocolatria</a></strong></span>
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Chocolatria.png"><img class="alignnone size-full wp-image-6729" title="Chocolatria" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Chocolatria.png" alt="" width="600" height="126" /></a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/08/Chocolatria.png"><img class="alignnone size-full wp-image-6729" title="Chocolatria" src="https://www.trololodemulher.com.br/2011/08/Chocolatria.png" alt="" width="600" height="126" /></a></strong>
 </p>
 
 > <p align="justify">
@@ -88,11 +85,11 @@ Eu gosto, mas confesso que conto nos dedos os **blogs** editados com **receitas*
 > </p>
 
 <p align="center">
-  <span style="font-size: small;">4 – <strong><a href="http://www.quitandoca.com/" target="_blank">Quitandoca</a></strong></span>
+  <span style="font-size: small;">4 – <strong><a href="http://www.quitandoca.com/" target="_blank" rel="noopener noreferrer">Quitandoca</a></strong></span>
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Quitandoca.png"><img class="alignnone size-full wp-image-6736" title="Quitandoca" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Quitandoca.png" alt="" width="600" height="127" /></a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/08/Quitandoca.png"><img class="alignnone size-full wp-image-6736" title="Quitandoca" src="https://www.trololodemulher.com.br/2011/08/Quitandoca.png" alt="" width="600" height="127" /></a></strong>
 </p>
 
 > <p align="justify">
@@ -100,11 +97,11 @@ Eu gosto, mas confesso que conto nos dedos os **blogs** editados com **receitas*
 > </p>
 
 <p align="center">
-  <span style="font-size: small;">5 – <strong><a href="http://come-se.blogspot.com/" target="_blank">Come-se</a></strong></span>
+  <span style="font-size: small;">5 – <strong><a href="http://come-se.blogspot.com/" target="_blank" rel="noopener noreferrer">Come-se</a></strong></span>
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Come-se.png"><img class="alignnone size-full wp-image-6730" title="Come-se" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Come-se.png" alt="" width="600" height="175" /></a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/08/Come-se.png"><img class="alignnone size-full wp-image-6730" title="Come-se" src="https://www.trololodemulher.com.br/2011/08/Come-se.png" alt="" width="600" height="175" /></a></strong>
 </p>
 
 > <p align="justify">

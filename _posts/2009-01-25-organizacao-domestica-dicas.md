@@ -1,10 +1,7 @@
 ---
-id: 2608
 title: E eu me organizando…
-date: 2009-01-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/01/25/organizacao-domestica-dicas/
 permalink: /2009/01/25/organizacao-domestica-dicas/
 categories:
   - Organização
@@ -37,7 +34,7 @@ Ainda na** _cozinha_**&#8230;
 
 E também na cozinha&#8230;
 
-&#8230;você pode ganhar espaço dobrando os panos de prato em forma de rolos.  [](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/01/kit20banheiro202.jpg)
+&#8230;você pode ganhar espaço dobrando os panos de prato em forma de rolos.  [](https://www.trololodemulher.com.br/2009/01/kit20banheiro202.jpg)
 
 No **_banheiro_**&#8230;
 

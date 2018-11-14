@@ -1,10 +1,7 @@
 ---
-id: 3020
 title: 'Prateleira do Bicha Fêmea: Gamela Presentes'
-date: 2011-07-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/07/13/gamela-presentes/
 permalink: /2011/07/13/gamela-presentes/
 categories:
   - Sem categoria
@@ -14,13 +11,13 @@ Escolher a **Prateleira do Bicha Fêmea**, mês a mês, não é uma das tarefas 
 &nbsp;
 
 <p style="text-align: justify;">
-  Repara só quem está na prateleira desse mês: <strong><a href="http://www.gamelapresentes.com.br/" target="_blank">Gamela Presentes</a></strong>. Conhece? Se essa loja virtual ainda é uma novidade para você, prepare-se para ver coisas lindas de viver que deixariam a casa de qualquer uma ainda mais bonita…
+  Repara só quem está na prateleira desse mês: <strong><a href="http://www.gamelapresentes.com.br/" target="_blank" rel="noopener noreferrer">Gamela Presentes</a></strong>. Conhece? Se essa loja virtual ainda é uma novidade para você, prepare-se para ver coisas lindas de viver que deixariam a casa de qualquer uma ainda mais bonita…
 </p>
 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Logo-Gamela.png"><img class="alignnone size-full wp-image-6613" title="Logo Gamela" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Logo-Gamela.png" alt="" width="290" height="120" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/07/Logo-Gamela.png"><img class="alignnone size-full wp-image-6613" title="Logo Gamela" src="https://www.trololodemulher.com.br/2011/07/Logo-Gamela.png" alt="" width="290" height="120" /></a>
 </p>
 
 &nbsp;
@@ -32,41 +29,41 @@ Escolher a **Prateleira do Bicha Fêmea**, mês a mês, não é uma das tarefas 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/acucareiro-provence.jpg"><img class="alignnone size-full wp-image-6608" title="açucareiro provence" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/acucareiro-provence.jpg" alt="" width="400" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/07/acucareiro-provence.jpg"><img class="alignnone size-full wp-image-6608" title="açucareiro provence" src="https://www.trololodemulher.com.br/2011/07/acucareiro-provence.jpg" alt="" width="400" height="400" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/castical.jpg"><img class="alignnone size-full wp-image-6609" title="castiçal" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/castical.jpg" alt="" width="400" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/07/castical.jpg"><img class="alignnone size-full wp-image-6609" title="castiçal" src="https://www.trololodemulher.com.br/2011/07/castical.jpg" alt="" width="400" height="400" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Descanso-de-panela.jpg"><img class="alignnone size-full wp-image-6610" title="Descanso de panela" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Descanso-de-panela.jpg" alt="" width="400" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/07/Descanso-de-panela.jpg"><img class="alignnone size-full wp-image-6610" title="Descanso de panela" src="https://www.trololodemulher.com.br/2011/07/Descanso-de-panela.jpg" alt="" width="400" height="400" /></a>
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  Também presente na blogosfera, a Fátima atualiza <strong><a href="http://gamelapresentes.blogspot.com/" target="_blank">o blog da loja</a></strong> com as novidades que vão chegando por lá, o que é uma excelente alternativa para quem gosta de saber quais os novos produtos tão logo o blog seja atualizado. Dessa forma, dá para correr e garantir os mimos antes que eles sumam das prateleiras. Como os produtos são <em>cutes cutes</em>, isso não é difícil de acontecer em pouco tempo.
+  Também presente na blogosfera, a Fátima atualiza <strong><a href="http://gamelapresentes.blogspot.com/" target="_blank" rel="noopener noreferrer">o blog da loja</a></strong> com as novidades que vão chegando por lá, o que é uma excelente alternativa para quem gosta de saber quais os novos produtos tão logo o blog seja atualizado. Dessa forma, dá para correr e garantir os mimos antes que eles sumam das prateleiras. Como os produtos são <em>cutes cutes</em>, isso não é difícil de acontecer em pouco tempo.
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/macas-decorativas.jpg"><img class="alignnone size-full wp-image-6614" title="maçãs decorativas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/macas-decorativas.jpg" alt="" width="400" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/07/macas-decorativas.jpg"><img class="alignnone size-full wp-image-6614" title="maçãs decorativas" src="https://www.trololodemulher.com.br/2011/07/macas-decorativas.jpg" alt="" width="400" height="400" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/pinguim.jpg"><img class="alignnone size-full wp-image-6615" title="pinguim" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/pinguim.jpg" alt="" width="400" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/07/pinguim.jpg"><img class="alignnone size-full wp-image-6615" title="pinguim" src="https://www.trololodemulher.com.br/2011/07/pinguim.jpg" alt="" width="400" height="400" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Pinup.jpg"><img class="alignnone size-full wp-image-6616" title="Pinup" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Pinup.jpg" alt="" width="400" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/07/Pinup.jpg"><img class="alignnone size-full wp-image-6616" title="Pinup" src="https://www.trololodemulher.com.br/2011/07/Pinup.jpg" alt="" width="400" height="400" /></a>
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  Ficou tão encantada quanto eu? Você vai ficar muito mais se der uma passeada pela loja virtual da <strong>Gamela Presentes</strong>, viu? A variedade é incrível e vai te tentar muito…pode acreditar .<strong><a href="http://www.gamelapresentes.com.br/" target="_blank">Tire a prova</a></strong>!
+  Ficou tão encantada quanto eu? Você vai ficar muito mais se der uma passeada pela loja virtual da <strong>Gamela Presentes</strong>, viu? A variedade é incrível e vai te tentar muito…pode acreditar .<strong><a href="http://www.gamelapresentes.com.br/" target="_blank" rel="noopener noreferrer">Tire a prova</a></strong>!
 </p>
 
 &nbsp;

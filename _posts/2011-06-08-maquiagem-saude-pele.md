@@ -1,10 +1,7 @@
 ---
-id: 3008
 title: 'Maquiagem: quando ela vira assunto de saúde?'
-date: 2011-06-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/06/08/maquiagem-saude-pele/
 permalink: /2011/06/08/maquiagem-saude-pele/
 categories:
   - Saúde
@@ -12,7 +9,7 @@ categories:
 Mesmo as mulheres mais discretas gostam de usar alguma cor no rosto. Sair de cara completamente lavada parece ser a opoção da minoria. Assim, a **maquiagem** está presente nas gavetas, _closets_ e bolsas de muitas de nós…então, cuidado! Além de te deixar bonita, se você não reparar em como usar os produtos e acessórios, ela também pode te deixar doente.
 
 <p style="text-align: justify;">
-  Justamente porque eu não quero isso para mim, e imagino que o mesmo aconteça contigo, consultei a <strong>Beth Ribeiro</strong>, que é maquiadora profissional e edita o blog <strong><a href="http://blog.bethribeiro.com.br/" target="_blank">BethRibeiro Beauty Artist</a></strong>.
+  Justamente porque eu não quero isso para mim, e imagino que o mesmo aconteça contigo, consultei a <strong>Beth Ribeiro</strong>, que é maquiadora profissional e edita o blog <strong><a href="http://blog.bethribeiro.com.br/" target="_blank" rel="noopener noreferrer">BethRibeiro Beauty Artist</a></strong>.
 </p>
 
 <p style="text-align: justify;">
@@ -28,7 +25,7 @@ Mesmo as mulheres mais discretas gostam de usar alguma cor no rosto. Sair de car
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/maquiagem-saude-da-pele.jpg"><img class="alignnone size-full wp-image-6497" title="maquiagem saúde da pele" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/maquiagem-saude-da-pele.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/maquiagem-saude-da-pele.jpg"><img class="alignnone size-full wp-image-6497" title="maquiagem saúde da pele" src="https://www.trololodemulher.com.br/2011/06/maquiagem-saude-da-pele.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -53,7 +50,7 @@ Mesmo as mulheres mais discretas gostam de usar alguma cor no rosto. Sair de car
 
 Viu só, bonita? Você vai prestar mais atenção em como conserva seus produtos e acessórios de maquiagem, e até na qualidade dos produtos que adquire? A Beth deu alertas e dicas importantíssimas…daqui para frente é contigo. Fique atenta!
 
-Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+Imagem: **<a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>**
 
 **Mais no Bicha Fêmea…**
 

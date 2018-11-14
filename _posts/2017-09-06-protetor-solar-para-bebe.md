@@ -1,10 +1,7 @@
 ---
-id: 3795
 title: Não basta passar protetor solar para bebê. Saiba tudo!
-date: 2017-09-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/09/06/protetor-solar-para-bebe/
 permalink: /2017/09/06/protetor-solar-para-bebe/
 categories:
   - Maternidade
@@ -19,15 +16,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14099" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/PROTETOR-SOLAR-PARA-BEBÊ-SAÚDE-DO-BEBÊ-PELE-DO-BEBÊ-PROTEÇÃO-SOLAR-DO-BEBÊ.jpg" alt="PROTETOR SOLAR PARA BEBÊ-SAÚDE DO BEBÊ-PELE DO BEBÊ-PROTEÇÃO SOLAR DO BEBÊ" width="800" height="534" />
+  <img class="alignnone size-full wp-image-14099" src="https://www.trololodemulher.com.br/2017/09/PROTETOR-SOLAR-PARA-BEBÊ-SAÚDE-DO-BEBÊ-PELE-DO-BEBÊ-PROTEÇÃO-SOLAR-DO-BEBÊ.jpg" alt="PROTETOR SOLAR PARA BEBÊ-SAÚDE DO BEBÊ-PELE DO BEBÊ-PROTEÇÃO SOLAR DO BEBÊ" width="800" height="534" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/ryan_polei/36682704091/" target="_blank">Ryan Polei | www.ryanpolei.com</a> via <a href="http://foter.com/re/a4f7eb" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nd/2.0/" target="_blank">CC BY-ND</a>
+  Imagem: <a href="https://www.flickr.com/photos/ryan_polei/36682704091/" target="_blank" rel="noopener noreferrer">Ryan Polei | www.ryanpolei.com</a> via <a href="http://foter.com/re/a4f7eb" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nd/2.0/" target="_blank" rel="noopener noreferrer">CC BY-ND</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14097" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/Ponto-de-partida..jpg" alt="Ponto de partida." width="335" height="84" />
+  <img class="alignnone size-full wp-image-14097" src="https://www.trololodemulher.com.br/2017/09/Ponto-de-partida..jpg" alt="Ponto de partida." width="335" height="84" />
 </p>
 
 <p align="justify">
@@ -35,7 +32,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14096" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/necessário.jpg" alt="necessário" width="325" height="81" />
+  <img class="alignnone size-full wp-image-14096" src="https://www.trololodemulher.com.br/2017/09/necessário.jpg" alt="necessário" width="325" height="81" />
 </p>
 
 <p align="justify">
@@ -43,7 +40,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14093" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/banho-de-sol.jpg" alt="banho de sol" width="326" height="81" />
+  <img class="alignnone size-full wp-image-14093" src="https://www.trololodemulher.com.br/2017/09/banho-de-sol.jpg" alt="banho de sol" width="326" height="81" />
 </p>
 
 <p align="justify">
@@ -51,7 +48,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14095" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/look.jpg" alt="look" width="322" height="86" />
+  <img class="alignnone size-full wp-image-14095" src="https://www.trololodemulher.com.br/2017/09/look.jpg" alt="look" width="322" height="86" />
 </p>
 
 <p align="justify">
@@ -59,7 +56,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14102" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/protetor.jpg" alt="protetor" width="326" height="81" />
+  <img class="alignnone size-full wp-image-14102" src="https://www.trololodemulher.com.br/2017/09/protetor.jpg" alt="protetor" width="326" height="81" />
 </p>
 
 <p align="justify">
@@ -67,7 +64,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14092" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/aplicação.jpg" alt="aplicação" width="338" height="84" />
+  <img class="alignnone size-full wp-image-14092" src="https://www.trololodemulher.com.br/2017/09/aplicação.jpg" alt="aplicação" width="338" height="84" />
 </p>
 
 <p align="justify">
@@ -75,7 +72,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14098" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/precaução.jpg" alt="precaução" width="332" height="84" />
+  <img class="alignnone size-full wp-image-14098" src="https://www.trololodemulher.com.br/2017/09/precaução.jpg" alt="precaução" width="332" height="84" />
 </p>
 
 <p align="justify">
@@ -83,7 +80,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14104" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/sol-sumiu.jpg" alt="sol sumiu" width="329" height="78" />
+  <img class="alignnone size-full wp-image-14104" src="https://www.trololodemulher.com.br/2017/09/sol-sumiu.jpg" alt="sol sumiu" width="329" height="78" />
 </p>
 
 <p align="justify">
@@ -91,7 +88,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14103" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/reflexos.jpg" alt="reflexos" width="328" height="80" />
+  <img class="alignnone size-full wp-image-14103" src="https://www.trololodemulher.com.br/2017/09/reflexos.jpg" alt="reflexos" width="328" height="80" />
 </p>
 
 <p align="justify">
@@ -99,7 +96,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14091" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/alerta.jpg" alt="alerta" width="328" height="86" />
+  <img class="alignnone size-full wp-image-14091" src="https://www.trololodemulher.com.br/2017/09/alerta.jpg" alt="alerta" width="328" height="86" />
 </p>
 
 <p align="justify">
@@ -127,15 +124,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14094" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/DERMATOLOGISTA-DERMATOLOGISTA-PEDIATRA-SAO-PAULO-DRA-GLAUCIA-LABINAS.jpg" alt="DERMATOLOGISTA-DERMATOLOGISTA PEDIATRA-SAO PAULO-DRA GLAUCIA LABINAS" width="800" height="190" />
+  <img class="alignnone size-full wp-image-14094" src="https://www.trololodemulher.com.br/2017/09/DERMATOLOGISTA-DERMATOLOGISTA-PEDIATRA-SAO-PAULO-DRA-GLAUCIA-LABINAS.jpg" alt="DERMATOLOGISTA-DERMATOLOGISTA PEDIATRA-SAO PAULO-DRA GLAUCIA LABINAS" width="800" height="190" />
 </p>
 
 <p align="justify">
-  Acesse o site da Dra. Gláucia, <a href="http://draglaucialabinas.com.br/" target="_blank">clicando aqui</a>, e saiba mais sobre sua formação, especializações e atuação. A médica atende na Al. dos Maracatins, 1435, Unidade 1007/1008, em Moema, SP. Os telefone são (11) 2609-8626 e (11) 2609-9747. Acompanhe a Dra. Glaucia nas redes sociais: <a href="https://www.facebook.com/draglaucialabinas" target="_blank">Facebook</a> e <a href="https://www.instagram.com/draglaucialabinas/" target="_blank">Instagram</a>.
+  Acesse o site da Dra. Gláucia, <a href="http://draglaucialabinas.com.br/" target="_blank" rel="noopener noreferrer">clicando aqui</a>, e saiba mais sobre sua formação, especializações e atuação. A médica atende na Al. dos Maracatins, 1435, Unidade 1007/1008, em Moema, SP. Os telefone são (11) 2609-8626 e (11) 2609-9747. Acompanhe a Dra. Glaucia nas redes sociais: <a href="https://www.facebook.com/draglaucialabinas" target="_blank" rel="noopener noreferrer">Facebook</a> e <a href="https://www.instagram.com/draglaucialabinas/" target="_blank" rel="noopener noreferrer">Instagram</a>.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="justify">

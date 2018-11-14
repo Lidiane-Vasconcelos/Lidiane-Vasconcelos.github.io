@@ -1,10 +1,7 @@
 ---
-id: 2914
 title: 'Home Office: união do útil ao agradável… mas nem sempre!'
-date: 2010-11-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/11/26/home-office-pros-contras/
 permalink: /2010/11/26/home-office-pros-contras/
 categories:
   - Empreendedorismo Feminino
@@ -19,7 +16,7 @@ categories:
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Mulher-no-laptop.jpg"><img class="alignnone size-full wp-image-5507" title="Mulher no laptop" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Mulher-no-laptop.jpg" alt="" width="576" height="432" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/Mulher-no-laptop.jpg"><img class="alignnone size-full wp-image-5507" title="Mulher no laptop" src="https://www.trololodemulher.com.br/2010/11/Mulher-no-laptop.jpg" alt="" width="576" height="432" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -33,7 +30,7 @@ categories:
 </blockquote>
 
 <p style="text-align: justify;">
-  Isso é verdade! Simone que o diga! A editora do blog <a href="http://newsespacohome.blogspot.com/" target="_blank">ORGANIZAÇÃO COM ESTILO BY ESPAÇO HOME</a> não faz <em>home office</em> hoje em dia, mas já fez por muito tempo. Ela, que é mãe, considera que <strong>estar perto dos filhos</strong> é um dos privilégios de quem trabalha assim.
+  Isso é verdade! Simone que o diga! A editora do blog <a href="http://newsespacohome.blogspot.com/" target="_blank" rel="noopener noreferrer">ORGANIZAÇÃO COM ESTILO BY ESPAÇO HOME</a> não faz <em>home office</em> hoje em dia, mas já fez por muito tempo. Ela, que é mãe, considera que <strong>estar perto dos filhos</strong> é um dos privilégios de quem trabalha assim.
 </p>
 
 <p style="text-align: justify;">
@@ -49,7 +46,7 @@ categories:
 > </p>
 
 <p style="text-align: justify;">
-  A Joana, que edita o blog <a href="http://joanacampos1.blogspot.com/" target="_blank">De mim pra você e… De você pra mim</a> , também faz o seu trabalho a partir de casa. Decidiu fazê-lo por conta própria e tocar o seu negócio de casa mesmo. É ela quem explica a razão da decisão, além de falar das delícias e dissabores dessa escolha, assim como qualquer escolha que se faça na vida…
+  A Joana, que edita o blog <a href="http://joanacampos1.blogspot.com/" target="_blank" rel="noopener noreferrer">De mim pra você e… De você pra mim</a> , também faz o seu trabalho a partir de casa. Decidiu fazê-lo por conta própria e tocar o seu negócio de casa mesmo. É ela quem explica a razão da decisão, além de falar das delícias e dissabores dessa escolha, assim como qualquer escolha que se faça na vida…
 </p>
 
 > <p style="text-align: justify;">
@@ -171,7 +168,7 @@ categories:
         </p>
         
         <p style="text-align: center;">
-          <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/duvidas.jpg"><img class="alignnone size-full wp-image-5504" title="dúvidas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/duvidas.jpg" alt="" width="383" height="429" /></a></strong>
+          <strong><a href="https://www.trololodemulher.com.br/2010/11/duvidas.jpg"><img class="alignnone size-full wp-image-5504" title="dúvidas" src="https://www.trololodemulher.com.br/2010/11/duvidas.jpg" alt="" width="383" height="429" /></a></strong>
         </p>
         
         <p style="text-align: justify;">
@@ -179,7 +176,7 @@ categories:
         </p>
         
         <p style="text-align: justify;">
-          Questionei a <strong>Psicanalista Geisa Machado</strong>, que edita o blog <a href="http://geisamachado.blogspot.com/" target="_blank">A Força e a Beleza de Ser Mulher</a>, a respeito dessa dúvida, e ela explicou o que pode estar envolvido numa decisão dessas:
+          Questionei a <strong>Psicanalista Geisa Machado</strong>, que edita o blog <a href="http://geisamachado.blogspot.com/" target="_blank" rel="noopener noreferrer">A Força e a Beleza de Ser Mulher</a>, a respeito dessa dúvida, e ela explicou o que pode estar envolvido numa decisão dessas:
         </p>
         
         <blockquote style="text-align: justify;">
@@ -213,7 +210,7 @@ categories:
         </p>
         
         <p>
-          Imagens: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+          Imagens: <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>
         </p>
         
         <p>

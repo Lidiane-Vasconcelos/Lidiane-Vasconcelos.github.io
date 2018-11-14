@@ -1,10 +1,7 @@
 ---
-id: 3029
 title: 'Ansiedade bloguística: você sente isso?'
-date: 2011-07-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/07/29/ansiedade-bloguistica/
 permalink: /2011/07/29/ansiedade-bloguistica/
 categories:
   - Comportamento
@@ -31,25 +28,25 @@ O dia a dia, com todas as suas demandas, acaba nos deixando um pouco ansiosas, n
 </p>
 
 <p align="center">
-  <strong><span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/ansiedade.jpg"><img class="alignnone size-full wp-image-6685" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/ansiedade.jpg" alt="" width="600" height="450" /></a></span></strong>
+  <strong><span style="font-size: medium;"><a href="https://www.trololodemulher.com.br/2011/07/ansiedade.jpg"><img class="alignnone size-full wp-image-6685" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2011/07/ansiedade.jpg" alt="" width="600" height="450" /></a></span></strong>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Eu gosto da interação, gosto do bate-papo, de visitar, de retribuir e isso acabou virando uma obrigação (na minha cabeça); então <strong>quando comecei a ficar com o tempo corrido e não dando conta</strong>, <strong>me sentia mal</strong>.”</em> <strong>Rejane</strong> [<strong><a href="http://casacorpoecia.blogspot.com/" target="_blank">Casa Corpo e Cia</a></strong>]
+>   “<em>Eu gosto da interação, gosto do bate-papo, de visitar, de retribuir e isso acabou virando uma obrigação (na minha cabeça); então <strong>quando comecei a ficar com o tempo corrido e não dando conta</strong>, <strong>me sentia mal</strong>.”</em> <strong>Rejane</strong> [<strong><a href="http://casacorpoecia.blogspot.com/" target="_blank" rel="noopener noreferrer">Casa Corpo e Cia</a></strong>]
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Por algum tempo, eu priorizei a vida virtual porque <strong>me sentia culpada de não dar conta das visitas, comentários e elaboração dos meus posts</strong>. Me lembrava de como eu achava antipático não receber retorno e atenção das blogueiras populares que eu admirava. Até que minha vida real estava ficando comprometida</em>.” <strong>Rita Vieira</strong> [<strong><a href="http://www.pintomasnaobordo.blogspot.com/" target="_blank">PINTO mas não BORDO</a></strong>]
+>   “<em>Por algum tempo, eu priorizei a vida virtual porque <strong>me sentia culpada de não dar conta das visitas, comentários e elaboração dos meus posts</strong>. Me lembrava de como eu achava antipático não receber retorno e atenção das blogueiras populares que eu admirava. Até que minha vida real estava ficando comprometida</em>.” <strong>Rita Vieira</strong> [<strong><a href="http://www.pintomasnaobordo.blogspot.com/" target="_blank" rel="noopener noreferrer">PINTO mas não BORDO</a></strong>]
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Um dia, meu blog começou a crescer e crescer, graças à Deus!!! Vi todo meu esforço e empenho sendo reconhecidos, conheci blogs e pessoas maravilhosas, estórias de vida, artes, comidinhas, dicas, sorteios, conheci e conheço de tudo um pouco. <strong>Minha caixa de e mails começou a lotar. Os comentários no blog multiplicaram-se por dez!!! </strong>Eu tenho uma política, assim como você, de reciprocidade. <strong>Sempre respondo a todos os comentários, procuro conhecer os blogs, mas isso começou a tornar-se um pesadelo. Não achava tempo para tudo, comecei a ficar desesperada e a me cobrar demais! </strong>Foi nesta época que falei contigo, e você me disse para tentar organizar um ou dois horários por dia, a fim de visitar blogs e responder a todos os leitores</em>.” <strong>Veronica Kraemer</strong> [<strong><a href="http://alemdaruaatelier.com.br/" target="_blank">Além da Rua Atelier</a></strong>]
+>   “<em>Um dia, meu blog começou a crescer e crescer, graças à Deus!!! Vi todo meu esforço e empenho sendo reconhecidos, conheci blogs e pessoas maravilhosas, estórias de vida, artes, comidinhas, dicas, sorteios, conheci e conheço de tudo um pouco. <strong>Minha caixa de e mails começou a lotar. Os comentários no blog multiplicaram-se por dez!!! </strong>Eu tenho uma política, assim como você, de reciprocidade. <strong>Sempre respondo a todos os comentários, procuro conhecer os blogs, mas isso começou a tornar-se um pesadelo. Não achava tempo para tudo, comecei a ficar desesperada e a me cobrar demais! </strong>Foi nesta época que falei contigo, e você me disse para tentar organizar um ou dois horários por dia, a fim de visitar blogs e responder a todos os leitores</em>.” <strong>Veronica Kraemer</strong> [<strong><a href="http://alemdaruaatelier.com.br/" target="_blank" rel="noopener noreferrer">Além da Rua Atelier</a></strong>]
 > </p>
 
 &nbsp;
@@ -85,7 +82,7 @@ O dia a dia, com todas as suas demandas, acaba nos deixando um pouco ansiosas, n
 &nbsp;
 
 <p align="justify">
-  No caso de <strong>Katia Bonfadini </strong>[<strong><a href="http://casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a></strong>], o planejamento do que pretende publicar e as férias periódicas que tira do blog são estratégias que ela encontrou para lidar melhor com essa ansiedade que, infelizmente, também fez dela uma vítima: “<em>Tento ser bastante organizada e o compromisso de postar 3 vezes na semana faz com que eu precise me programar com antecedência, fazendo listinhas de temas que pretendo abordar e datas em que pretendo publicar cada postagem, sem contar as fotos que tiro e separo para tratar antes de diagramá-las junto ao texto. Dá bastante trabalho editar um blog, mas é algo que gosto muito de fazer e acho que essa organização é essencial pra minimizar a ansiedade. Hoje comecei minhas &#8220;férias do blog&#8221; por duas semanas e minha intenção durante esse período é colocar a &#8220;casa em ordem&#8221; e dar conta de outros projetos que foram ficando de lado porque blogar passou a ser minha prioridade, já que além de ser uma terapia e algo do qual gosto bastante, é também uma ferramenta de divulgação do meu trabalho. Essa foi a maneira que descobri pra tentar frear um pouco minha ansiedade. Se eu estou on-line, não resisto a checar a caixa de e-mail de dez em dez minutos, acredita? Por isso, às vezes acho que uma viagem de final de semana me faz voltar renovada e descansada de verdade!”.</em>
+  No caso de <strong>Katia Bonfadini </strong>[<strong><a href="http://casosecoisasdabonfa.blogspot.com/" target="_blank" rel="noopener noreferrer">Casos e Coisas da Bonfa</a></strong>], o planejamento do que pretende publicar e as férias periódicas que tira do blog são estratégias que ela encontrou para lidar melhor com essa ansiedade que, infelizmente, também fez dela uma vítima: “<em>Tento ser bastante organizada e o compromisso de postar 3 vezes na semana faz com que eu precise me programar com antecedência, fazendo listinhas de temas que pretendo abordar e datas em que pretendo publicar cada postagem, sem contar as fotos que tiro e separo para tratar antes de diagramá-las junto ao texto. Dá bastante trabalho editar um blog, mas é algo que gosto muito de fazer e acho que essa organização é essencial pra minimizar a ansiedade. Hoje comecei minhas &#8220;férias do blog&#8221; por duas semanas e minha intenção durante esse período é colocar a &#8220;casa em ordem&#8221; e dar conta de outros projetos que foram ficando de lado porque blogar passou a ser minha prioridade, já que além de ser uma terapia e algo do qual gosto bastante, é também uma ferramenta de divulgação do meu trabalho. Essa foi a maneira que descobri pra tentar frear um pouco minha ansiedade. Se eu estou on-line, não resisto a checar a caixa de e-mail de dez em dez minutos, acredita? Por isso, às vezes acho que uma viagem de final de semana me faz voltar renovada e descansada de verdade!”.</em>
 </p>
 
 &nbsp;
@@ -95,7 +92,7 @@ O dia a dia, com todas as suas demandas, acaba nos deixando um pouco ansiosas, n
 </p>
 
 <p align="center">
-  <strong><span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/alegria.jpg"><img class="alignnone size-full wp-image-6684" title="alegria" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/alegria.jpg" alt="" width="600" height="399" /></a></span></strong>
+  <strong><span style="font-size: medium;"><a href="https://www.trololodemulher.com.br/2011/07/alegria.jpg"><img class="alignnone size-full wp-image-6684" title="alegria" src="https://www.trololodemulher.com.br/2011/07/alegria.jpg" alt="" width="600" height="399" /></a></span></strong>
 </p>
 
 &nbsp;
@@ -117,7 +114,7 @@ O dia a dia, com todas as suas demandas, acaba nos deixando um pouco ansiosas, n
 </p>
 
 <p align="justify">
-  Imagens: <strong><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></strong>
+  Imagens: <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">Stock.xchng</a></strong>
 </p>
 
 &nbsp;

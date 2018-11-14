@@ -1,10 +1,7 @@
 ---
-id: 3644
 title: 6 lições de decoração (e de vida!) em uma casa na Grécia.
-date: 2016-08-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/08/16/decoracao-casa-na-grecia/
 permalink: /2016/08/16/decoracao-casa-na-grecia/
 categories:
   - Casa
@@ -31,11 +28,11 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2016/08/11/wabi-sabi-na-decoracao/" target="_blank">Wabi Sabi na decoração e o resgate do simples.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/08/11/wabi-sabi-na-decoracao/" target="_blank" rel="noopener noreferrer">Wabi Sabi na decoração e o resgate do simples.</a></strong>
 </p>
 
 <p style="text-align: justify;" align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2015/09/09/decoracao-escandinava/" target="_blank">Decoração escandinava: como aplicar esse estilo?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/09/09/decoracao-escandinava/" target="_blank" rel="noopener noreferrer">Decoração escandinava: como aplicar esse estilo?</a></strong>
 </p>
 
 <p align="center">
@@ -75,11 +72,11 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2016/05/04/cores-pasteis-decoracao/" target="_blank">Cores pasteis na decoração: 3 maneiras simples de usá-las.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/05/04/cores-pasteis-decoracao/" target="_blank" rel="noopener noreferrer">Cores pasteis na decoração: 3 maneiras simples de usá-las.</a></strong>
 </p>
 
 <p style="text-align: justify;" align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2016/05/16/amarelo-na-decoracao-2/" target="_blank">Amarelo na decoração: 8 imagens com detalhes solares.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/05/16/amarelo-na-decoracao-2/" target="_blank" rel="noopener noreferrer">Amarelo na decoração: 8 imagens com detalhes solares.</a></strong>
 </p>
 
 <p align="center">
@@ -91,9 +88,9 @@ categories:
 </p>
 
 <p align="justify">
-  O sentimento que brota das fotos é percebido de maneira muito particular por cada um. É claro que você deve ter tido suas impressões bem pessoais, não é? Se você quer continuar se deliciando com fotos tão lindas, o post completo e recheado de mais imagens <a href="http://carlacoulson.com/a-greek-island-dream-house/" target="_blank">está bem aqui, no blog da fotógrafa, Carla Loves Photografy</a>. Suspire e inspire-se!
+  O sentimento que brota das fotos é percebido de maneira muito particular por cada um. É claro que você deve ter tido suas impressões bem pessoais, não é? Se você quer continuar se deliciando com fotos tão lindas, o post completo e recheado de mais imagens <a href="http://carlacoulson.com/a-greek-island-dream-house/" target="_blank" rel="noopener noreferrer">está bem aqui, no blog da fotógrafa, Carla Loves Photografy</a>. Suspire e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

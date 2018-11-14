@@ -1,10 +1,7 @@
 ---
-id: 2852
 title: 'Todos somos donos de casa: homens, mulheres, crianças.'
-date: 2010-07-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/07/26/dicas-domesticas-evitar-gastos/
 permalink: /2010/07/26/dicas-domesticas-evitar-gastos/
 categories:
   - Comportamento
@@ -24,7 +21,7 @@ Então, gostaria de compartilhar com vocês algumas das minhas **_atitudes domé
 **_3 &#8211; Lavagem da louça_** – **_deixo sobre a pia uma bacia com água e detergente_** **_e vou mergulhando ali a louça a ser lavada, sem resíduos de alimentos_**. Quando há uma quantidade razoável,** _lavo tudo de uma vez_**. **_Isso poupa água e derrama menos detergente na natureza_**. Além de poupar a nossa paciência e deixar as coisas organizadas enquanto não podemos limpá-las.
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/casa-ecologica.jpg"><img class="size-full wp-image-4988 aligncenter" title="casa ecológica" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/casa-ecologica.jpg" alt="" width="278" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/casa-ecologica.jpg"><img class="size-full wp-image-4988 aligncenter" title="casa ecológica" src="https://www.trololodemulher.com.br/2010/07/casa-ecologica.jpg" alt="" width="278" height="300" /></a>
 </p>
 
 **_4 – Evito o uso de produtos descartáveis,_** pois é mais fácil racionalizar o uso da água que limpa os nossos utensílios do que controlar o destino de embalagens e plásticos diversos.
@@ -39,7 +36,7 @@ Gente, isso tem poupado a minha grana, meu humor, a natureza, enfim, melhorou mu
 
 **_Por Adriana Vieira_**
 
-<a href="http://coisasqueeuamoetc.blogspot.com/" target="_blank">COISAS QUE EU AMO E SÃO TUDO PRA MIM…</a>
+<a href="http://coisasqueeuamoetc.blogspot.com/" target="_blank" rel="noopener noreferrer">COISAS QUE EU AMO E SÃO TUDO PRA MIM…</a>
 
 Quer fazer como Adriana e publicar um texto por aqui? Seja uma **_[bicha fêmea colaboradora](http://www.trololodemulher.com.br/colabore/)_**!
 

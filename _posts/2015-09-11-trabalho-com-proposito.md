@@ -1,10 +1,7 @@
 ---
-id: 3474
 title: O que é ter um trabalho com propósito?
-date: 2015-09-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/09/11/trabalho-com-proposito/
 permalink: /2015/09/11/trabalho-com-proposito/
 categories:
   - Empreendedorismo Feminino
@@ -12,7 +9,7 @@ categories:
   - Trololó
 ---
 <p align="justify">
-  Antes de fazer dos blogs (<strong>Trololó de Mulher e </strong><a href="http://decoracaodacasa.com/" target="_blank"><strong>Decoração da Casa</strong></a>) meu trabalho com propósito, eu tinha passado por empregos formais: carteira assinada, hora para entrar e sair, salário fixo, benefícios, etc. Eu pensava que aquele era o único jeito de trabalhar e gerar renda, até que chegasse a aposentadoria. No momento em que me aposentasse, imaginava, pararia de produzir. Chegar até esse ponto seria um sonho! Ora… se parar de trabalhar iria se constituir no meu tempo de vida ideal, quando eu de fato iria viver… então eu não vivia, mas apenas sobrevivia. Me arrastava… eu trabalhava dia a após dia para que, sei lá quando, “pendurasse” as chuteiras.
+  Antes de fazer dos blogs (<strong>Trololó de Mulher e </strong><a href="http://decoracaodacasa.com/" target="_blank" rel="noopener noreferrer"><strong>Decoração da Casa</strong></a>) meu trabalho com propósito, eu tinha passado por empregos formais: carteira assinada, hora para entrar e sair, salário fixo, benefícios, etc. Eu pensava que aquele era o único jeito de trabalhar e gerar renda, até que chegasse a aposentadoria. No momento em que me aposentasse, imaginava, pararia de produzir. Chegar até esse ponto seria um sonho! Ora… se parar de trabalhar iria se constituir no meu tempo de vida ideal, quando eu de fato iria viver… então eu não vivia, mas apenas sobrevivia. Me arrastava… eu trabalhava dia a após dia para que, sei lá quando, “pendurasse” as chuteiras.
 </p>
 
 <p align="justify">
@@ -20,11 +17,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/TRABALHO-AGRADECIMENTO.jpg"><img class="alignnone size-full wp-image-11371" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/TRABALHO-AGRADECIMENTO.jpg" alt="TRABALHO-AGRADECIMENTO" width="800" height="830" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/TRABALHO-AGRADECIMENTO.jpg"><img class="alignnone size-full wp-image-11371" src="https://www.trololodemulher.com.br/2015/08/TRABALHO-AGRADECIMENTO.jpg" alt="TRABALHO-AGRADECIMENTO" width="800" height="830" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://foter.com/" target="_blank">Foter</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND</a>
 </p>
 
 <p align="justify">
@@ -36,7 +33,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

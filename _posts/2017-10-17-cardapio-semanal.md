@@ -1,10 +1,7 @@
 ---
-id: 3815
 title: Como planejar cardápio semanal? Simplifique!
-date: 2017-10-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/10/17/cardapio-semanal/
 permalink: /2017/10/17/cardapio-semanal/
 categories:
   - Rotina da Casa
@@ -18,11 +15,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14274" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/CARDAPIO-SEMANAL.jpg" alt="CARDAPIO SEMANAL" width="800" height="533" />
+  <img class="alignnone size-full wp-image-14274" src="https://www.trololodemulher.com.br/2017/10/CARDAPIO-SEMANAL.jpg" alt="CARDAPIO SEMANAL" width="800" height="533" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://foter.com/re/7968b0" target="_blank">Foter.com</a>
+  Imagem: <a href="http://foter.com/re/7968b0" target="_blank" rel="noopener noreferrer">Foter.com</a>
 </p>
 
 <p align="justify">
@@ -42,7 +39,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/category/casa/receitas/" target="_blank"><strong>Receitas publicadas no Trololó de Mulher.</strong></a>
+  <a href="http://www.trololodemulher.com.br/category/casa/receitas/" target="_blank" rel="noopener noreferrer"><strong>Receitas publicadas no Trololó de Mulher.</strong></a>
 </p>
 
 <p align="justify">
@@ -54,7 +51,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 &nbsp;

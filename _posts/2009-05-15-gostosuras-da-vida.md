@@ -1,15 +1,12 @@
 ---
-id: 2660
 title: 'Gostosuras que dão graça no estilo de viver&#8230;'
-date: 2009-05-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/05/15/gostosuras-da-vida/
 permalink: /2009/05/15/gostosuras-da-vida/
 categories:
   - Sem categoria
 ---
-Sair pela manhã cedinho para tomar café-da-manhã fora é uma das coisas que mais gosto de fazer no final-de-semana. Há na região de Campinas, onde moro, um local que é o meu preferido para esse tipo de programa. Trata-se de uma padaria muito bem abastecida de gostosuras que são uma tentação na hora do desjejum, e qualquer uma delas acompanhada de um delicioso _cappuccino_ é o que me deixa bem felizinha…[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/clip_image0013.gif)
+Sair pela manhã cedinho para tomar café-da-manhã fora é uma das coisas que mais gosto de fazer no final-de-semana. Há na região de Campinas, onde moro, um local que é o meu preferido para esse tipo de programa. Trata-se de uma padaria muito bem abastecida de gostosuras que são uma tentação na hora do desjejum, e qualquer uma delas acompanhada de um delicioso _cappuccino_ é o que me deixa bem felizinha…[](https://www.trololodemulher.com.br/2009/05/clip_image0013.gif)
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="http://blog.insideout.com.au/" src="http://3.bp.blogspot.com/_MH-mtZCatOc/Sf6UmTwNWfI/AAAAAAAAAj0/hyiqZnmEdC0/s400/amy1face.jpg" alt="http://blog.insideout.com.au/" />
@@ -21,11 +18,11 @@ Não, o capuccino da padaria que frequento não tem carinha de coelhinho desenha
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="http://blog.insideout.com.au/" src="http://1.bp.blogspot.com/_MH-mtZCatOc/Sf6UmXHDIzI/AAAAAAAAAjs/QAxDvq3GWy0/s400/amy1coffeeface.jpg" alt="http://blog.insideout.com.au/" />
 </p>
 
-Com capuccino, com ou sem desenho de ursinho no café, o bom é viver a vida cheia de delícias e pequenos prazeres. Onde é que a gente é mais feliz, um pouquinho a cada dia, senão nos pequenos prazeres, hein?[<img style="display: inline;" title="clip_image001[8]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/clip_image0018_thumb1.gif" alt="clip_image001[8]" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/clip_image00181.gif)
+Com capuccino, com ou sem desenho de ursinho no café, o bom é viver a vida cheia de delícias e pequenos prazeres. Onde é que a gente é mais feliz, um pouquinho a cada dia, senão nos pequenos prazeres, hein?[<img style="display: inline;" title="clip_image001[8]" src="https://www.trololodemulher.com.br/2009/05/clip_image0018_thumb1.gif" alt="clip_image001[8]" width="18" height="18" />](https://www.trololodemulher.com.br/2009/05/clip_image00181.gif)
 
 <span style="color: #800080;">Aproveitem a vida!!!</span>
 
-Imagens: <a href="http://blog.insideout.com.au/" target="_blank">Inside Out</a>
+Imagens: <a href="http://blog.insideout.com.au/" target="_blank" rel="noopener noreferrer">Inside Out</a>
 
 Mais no Bicha Fêmea&#8230;
 

@@ -1,10 +1,7 @@
 ---
-id: 3612
 title: Suas crianças ajudam na organização da casa?
-date: 2016-05-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/05/19/organizacao-casa-brinquedos/
 permalink: /2016/05/19/organizacao-casa-brinquedos/
 categories:
   - Comportamento Infantil
@@ -21,11 +18,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2012/07/25/organizacao-quarto-infantil/" target="_blank"><strong>Quando a organização favorece a decoração do quarto infantil.</strong></a>
+  <a href="http://www.bichafemea.com/2012/07/25/organizacao-quarto-infantil/" target="_blank" rel="noopener noreferrer"><strong>Quando a organização favorece a decoração do quarto infantil.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank"><strong>4 soluções de organização do quarto infantil: você não vai copiar?</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank" rel="noopener noreferrer"><strong>4 soluções de organização do quarto infantil: você não vai copiar?</strong></a>
 </p>
 
 <p align="justify">
@@ -41,11 +38,11 @@ categories:
 > </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12546" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR-BRINQUEDOS.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DO LAR-BRINQUEDOS" width="600" height="600" />
+  <img class="alignnone size-full wp-image-12546" src="https://www.trololodemulher.com.br/2016/05/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR-BRINQUEDOS.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DO LAR-BRINQUEDOS" width="600" height="600" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">ImageFree</a>
+  Imagem: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">ImageFree</a>
 </p>
 
 <p align="center">
@@ -61,11 +58,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-quarto-da-crianca/" target="_blank"><strong>2 ideias que organizam o quarto da criança… e até decoram!</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-quarto-da-crianca/" target="_blank" rel="noopener noreferrer"><strong>2 ideias que organizam o quarto da criança… e até decoram!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil/" target="_blank"><strong>Como ajudar seu filho a manter a organização do quarto?</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil/" target="_blank" rel="noopener noreferrer"><strong>Como ajudar seu filho a manter a organização do quarto?</strong></a>
 </p>
 
 <p align="center">
@@ -73,7 +70,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Aqui em casa tenho o João, como você sabe, ele está com 5 anos. Durante a semana ele estuda das 13:00 as !8:00, mas nem por isso os brinquedos ficam parados no baú e nem na prateleira, pois tenho minha sobrinha que fica comigo de segunda a quinta. A regra serve para os dois: brincar até cansar, pode ser no quarto ou na sala, não imponho limites na hora da farra, mas assim que terminar a brincadeira tem que colocar tudo no lugar. Toda criança faz cara de cansada e até enrola pra guardar a bagunça, por isso comprei um baú de rodinhas e incentivo de maneira divertida a guardá-los. Uso muito a tática de quem guardar ganha uma surpresa, ou quem guardar primeiro será o vencedor, e assim vai. Dessa forma eles se divertem até mesmo na hora de guardar os brinquedos! Se você fizer de maneira ditadora ou disser que &#8220;se você não guardar ficará de castigo&#8221;, o mais provável e que eles não façam, e guardar os brinquedos será estressante para ambas as partes! Aqui tem dado certo e minha casa sempre está organizada sem que eu fique neurótica.</strong>” <strong>Rosa Trindade, do canal </strong><a href="https://www.youtube.com/user/pscrie" target="_blank"><strong>Pense Crie</strong></a>
+>   <strong>Aqui em casa tenho o João, como você sabe, ele está com 5 anos. Durante a semana ele estuda das 13:00 as !8:00, mas nem por isso os brinquedos ficam parados no baú e nem na prateleira, pois tenho minha sobrinha que fica comigo de segunda a quinta. A regra serve para os dois: brincar até cansar, pode ser no quarto ou na sala, não imponho limites na hora da farra, mas assim que terminar a brincadeira tem que colocar tudo no lugar. Toda criança faz cara de cansada e até enrola pra guardar a bagunça, por isso comprei um baú de rodinhas e incentivo de maneira divertida a guardá-los. Uso muito a tática de quem guardar ganha uma surpresa, ou quem guardar primeiro será o vencedor, e assim vai. Dessa forma eles se divertem até mesmo na hora de guardar os brinquedos! Se você fizer de maneira ditadora ou disser que &#8220;se você não guardar ficará de castigo&#8221;, o mais provável e que eles não façam, e guardar os brinquedos será estressante para ambas as partes! Aqui tem dado certo e minha casa sempre está organizada sem que eu fique neurótica.</strong>” <strong>Rosa Trindade, do canal </strong><a href="https://www.youtube.com/user/pscrie" target="_blank" rel="noopener noreferrer"><strong>Pense Crie</strong></a>
 > </p>
 
 <p align="justify">
@@ -81,7 +78,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

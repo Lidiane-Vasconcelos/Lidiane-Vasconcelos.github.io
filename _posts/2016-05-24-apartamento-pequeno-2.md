@@ -1,10 +1,7 @@
 ---
-id: 3614
 title: 'Apartamento pequeno com tudo para viver bem: é possível?'
-date: 2016-05-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/05/24/apartamento-pequeno-2/
 permalink: /2016/05/24/apartamento-pequeno-2/
 categories:
   - Decoração
@@ -19,7 +16,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12562" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-APARTAMENTO-PEQUENO-PEQUENOS-ESPACOS-SALA-DE-ESTAR.jpeg" alt="DECORACAO-APARTAMENTO PEQUENO-PEQUENOS ESPACOS-SALA DE ESTAR" width="800" height="530" />
+  <img class="alignnone size-full wp-image-12562" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-APARTAMENTO-PEQUENO-PEQUENOS-ESPACOS-SALA-DE-ESTAR.jpeg" alt="DECORACAO-APARTAMENTO PEQUENO-PEQUENOS ESPACOS-SALA DE ESTAR" width="800" height="530" />
 </p>
 
 <p align="justify">
@@ -27,7 +24,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12563" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-APARTAMENTO-PEQUENO-PEQUENOS-ESPACOS-SALA-DE-ESTAR2.jpeg" alt="DECORACAO-APARTAMENTO PEQUENO-PEQUENOS ESPACOS-SALA DE ESTAR[2]" width="530" height="800" />
+  <img class="alignnone size-full wp-image-12563" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-APARTAMENTO-PEQUENO-PEQUENOS-ESPACOS-SALA-DE-ESTAR2.jpeg" alt="DECORACAO-APARTAMENTO PEQUENO-PEQUENOS ESPACOS-SALA DE ESTAR[2]" width="530" height="800" />
 </p>
 
 <p align="justify">
@@ -39,15 +36,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank"><strong>Como decorar paredes com quadros.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank" rel="noopener noreferrer"><strong>Como decorar paredes com quadros.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-fotos/" target="_blank"><strong>Já viu como imprimir charme na decoração da parede com fotos?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-fotos/" target="_blank" rel="noopener noreferrer"><strong>Já viu como imprimir charme na decoração da parede com fotos?</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12566" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-APARTAMENTO-PEQUENO-PEQUENOS-ESPACOS-SALA-DE-ESTAR3.jpeg" alt="DECORACAO-APARTAMENTO PEQUENO-PEQUENOS ESPACOS-SALA DE ESTAR[3]" width="800" height="530" />
+  <img class="alignnone size-full wp-image-12566" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-APARTAMENTO-PEQUENO-PEQUENOS-ESPACOS-SALA-DE-ESTAR3.jpeg" alt="DECORACAO-APARTAMENTO PEQUENO-PEQUENOS ESPACOS-SALA DE ESTAR[3]" width="800" height="530" />
 </p>
 
 <p align="justify">
@@ -55,7 +52,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12559" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-APARTAMENTO-PEQUENO-PEQUENOS-ESPACOS-COZINHA4.jpeg" alt="DECORACAO-APARTAMENTO PEQUENO-PEQUENOS ESPACOS-COZINHA[4]" width="524" height="800" />
+  <img class="alignnone size-full wp-image-12559" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-APARTAMENTO-PEQUENO-PEQUENOS-ESPACOS-COZINHA4.jpeg" alt="DECORACAO-APARTAMENTO PEQUENO-PEQUENOS ESPACOS-COZINHA[4]" width="524" height="800" />
 </p>
 
 <p align="justify">
@@ -63,7 +60,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12560" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-APARTAMENTO-PEQUENO-PEQUENOS-ESPACOS-COZINHA5.jpeg" alt="DECORACAO-APARTAMENTO PEQUENO-PEQUENOS ESPACOS-COZINHA[5]" width="532" height="800" />
+  <img class="alignnone size-full wp-image-12560" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-APARTAMENTO-PEQUENO-PEQUENOS-ESPACOS-COZINHA5.jpeg" alt="DECORACAO-APARTAMENTO PEQUENO-PEQUENOS ESPACOS-COZINHA[5]" width="532" height="800" />
 </p>
 
 <p align="justify">
@@ -75,11 +72,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/" target="_blank"><strong>Caixas: 5 soluções de organização da casa.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/" target="_blank" rel="noopener noreferrer"><strong>Caixas: 5 soluções de organização da casa.</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12561" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-APARTAMENTO-PEQUENO-PEQUENOS-ESPACOS-QUARTO.jpeg" alt="DECORACAO-APARTAMENTO PEQUENO-PEQUENOS ESPACOS-QUARTO" width="800" height="558" />
+  <img class="alignnone size-full wp-image-12561" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-APARTAMENTO-PEQUENO-PEQUENOS-ESPACOS-QUARTO.jpeg" alt="DECORACAO-APARTAMENTO PEQUENO-PEQUENOS ESPACOS-QUARTO" width="800" height="558" />
 </p>
 
 <p align="justify">
@@ -91,11 +88,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/02/01/quarto-organizacao-cabeceira/" target="_blank"><strong>Quarto: ideias de organização para a cabeceira da cama.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/02/01/quarto-organizacao-cabeceira/" target="_blank" rel="noopener noreferrer"><strong>Quarto: ideias de organização para a cabeceira da cama.</strong></a>
 </p>
 
 <p align="justify">
-  Ficou com a curiosidade aguçada para ver muito mais desse apartamento? Pois é, eu também ficaria, <em>viu</em>? Então, oh: se joga no <a href="http://www.apartmenttherapy.com/amaury-and-amandine-house-tour-house-tour-203342?utm_medium=email&utm_campaign=DAILY+--+101414+10+Totally+Unique+Stylish++Steal-Worthy+Halloween+Decorating+Ideas&utm_content=DAILY+--+101414+10+Totally+Unique+Stylish++Steal-Worthy+Halloween+Decorating+Ideas+CID_e6859f9f5abb524822c5402973a2735d&utm_source=email_newsletter&utm_term=House%20Tour%20Amandine%20%20Amaurys%20Little%20Loft%20in%20Paris" target="_blank">post original com as fotos, no Apartment Therapy</a>, e aproveita tudo o que há de ideias para você. Vai lá!
+  Ficou com a curiosidade aguçada para ver muito mais desse apartamento? Pois é, eu também ficaria, <em>viu</em>? Então, oh: se joga no <a href="http://www.apartmenttherapy.com/amaury-and-amandine-house-tour-house-tour-203342?utm_medium=email&utm_campaign=DAILY+--+101414+10+Totally+Unique+Stylish++Steal-Worthy+Halloween+Decorating+Ideas&utm_content=DAILY+--+101414+10+Totally+Unique+Stylish++Steal-Worthy+Halloween+Decorating+Ideas+CID_e6859f9f5abb524822c5402973a2735d&utm_source=email_newsletter&utm_term=House%20Tour%20Amandine%20%20Amaurys%20Little%20Loft%20in%20Paris" target="_blank" rel="noopener noreferrer">post original com as fotos, no Apartment Therapy</a>, e aproveita tudo o que há de ideias para você. Vai lá!
 </p>
 
 <p align="justify">
@@ -103,19 +100,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/pequenos-espacos/" target="_blank"><strong>Dá para viver bem em pequenos espaços?</strong></a>
+  <a href="http://www.decoracaodacasa.com/pequenos-espacos/" target="_blank" rel="noopener noreferrer"><strong>Dá para viver bem em pequenos espaços?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-espacos-pequenos/" target="_blank"><strong>3 erros na decoração e organização de espaços pequenos: você os comete?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-espacos-pequenos/" target="_blank" rel="noopener noreferrer"><strong>3 erros na decoração e organização de espaços pequenos: você os comete?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-varanda-pequena/" target="_blank"><strong>4 composições de cantinhos para sua varanda pequena.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-varanda-pequena/" target="_blank" rel="noopener noreferrer"><strong>4 composições de cantinhos para sua varanda pequena.</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

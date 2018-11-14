@@ -1,10 +1,7 @@
 ---
-id: 3533
 title: 'Revestimento de piso que imita madeira: 6 dicas de expert.'
-date: 2016-02-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/02/02/piso-que-imita-madeira/
 permalink: /2016/02/02/piso-que-imita-madeira/
 categories:
   - Dicas de Decoração
@@ -22,15 +19,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/revestimentos-piso-parede/" target="_blank"><strong>Revestimentos: piso e parede… quais as opções?</strong></a>
+  <a href="http://www.decoracaodacasa.com/revestimentos-piso-parede/" target="_blank" rel="noopener noreferrer"><strong>Revestimentos: piso e parede… quais as opções?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/revestimentos-piso-parede/" target="_blank"><strong>Pitacos de decoração: revestimentos de cozinha.</strong></a>
+  <a href="http://www.decoracaodacasa.com/revestimentos-piso-parede/" target="_blank" rel="noopener noreferrer"><strong>Pitacos de decoração: revestimentos de cozinha.</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11833" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/01/DECORACAO-REVESTIMENTO-PISO-IMITANDO-MADEIRA-CERAMICA-PORCELANATO3.jpg" alt="DECORACAO-REVESTIMENTO-PISO IMITANDO MADEIRA-CERAMICA-PORCELANATO[3]" width="564" height="753" />
+  <img class="alignnone size-full wp-image-11833" src="https://www.trololodemulher.com.br/2016/01/DECORACAO-REVESTIMENTO-PISO-IMITANDO-MADEIRA-CERAMICA-PORCELANATO3.jpg" alt="DECORACAO-REVESTIMENTO-PISO IMITANDO MADEIRA-CERAMICA-PORCELANATO[3]" width="564" height="753" />
 </p>
 
 <p align="justify">
@@ -54,7 +51,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.decorpad.com/" target="_blank">decor pad</a>
+  Via <a href="http://www.decorpad.com/" target="_blank" rel="noopener noreferrer">decor pad</a>
 </p>
 
 <p align="justify">
@@ -74,11 +71,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11830" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/01/DECORACAO-REVESTIMENTO-PISO-IMITANDO-MADEIRA-CERAMICA-PORCELANATO2.jpg" alt="DECORACAO-REVESTIMENTO-PISO IMITANDO MADEIRA-CERAMICA-PORCELANATO[2]" width="600" height="800" />
+  <img class="alignnone size-full wp-image-11830" src="https://www.trololodemulher.com.br/2016/01/DECORACAO-REVESTIMENTO-PISO-IMITANDO-MADEIRA-CERAMICA-PORCELANATO2.jpg" alt="DECORACAO-REVESTIMENTO-PISO IMITANDO MADEIRA-CERAMICA-PORCELANATO[2]" width="600" height="800" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.greigedesign.com/" target="_blank">greige design</a>
+  Via <a href="http://www.greigedesign.com/" target="_blank" rel="noopener noreferrer">greige design</a>
 </p>
 
 <p align="justify">
@@ -102,23 +99,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-cozinha-revestimento/" target="_blank"><strong>Decoração de cozinha: 4 dúvidas sobre revestimentos respondidas.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-cozinha-revestimento/" target="_blank" rel="noopener noreferrer"><strong>Decoração de cozinha: 4 dúvidas sobre revestimentos respondidas.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/" target="_blank"><strong>Decoração de cozinha: +2 dúvidas sobre revestimentos respondidas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/" target="_blank" rel="noopener noreferrer"><strong>Decoração de cozinha: +2 dúvidas sobre revestimentos respondidas.</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11834" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/01/DESIGNER-DE-INTERIORES-PERSONAL-ORGANIZER-CAMPINAS-CLAUDIA-MEDEIROS.jpg" alt="DESIGNER DE INTERIORES-PERSONAL ORGANIZER-CAMPINAS-CLAUDIA MEDEIROS" width="800" height="198" />
+  <img class="alignnone size-full wp-image-11834" src="https://www.trololodemulher.com.br/2016/01/DESIGNER-DE-INTERIORES-PERSONAL-ORGANIZER-CAMPINAS-CLAUDIA-MEDEIROS.jpg" alt="DESIGNER DE INTERIORES-PERSONAL ORGANIZER-CAMPINAS-CLAUDIA MEDEIROS" width="800" height="198" />
 </p>
 
 <p align="justify">
-  A <strong>Claudia Medeiros</strong> também tem um blog, o <strong><a href="http://sefossenaminhacasa.blogspot.com.br/" target="_blank">Se fosse na minha casa</a>. </strong>Como Personal Organizer a moça atualiza uma <a href="https://www.facebook.com/claudiamedeirosdesigner/timeline" target="_blank">página no Facebook bem aqui</a>. Você ainda pode ver mais informações em seu <a href="http://www.claudiamedeiros.com.br/" target="_blank">site profissional</a>, bem como visitar sua loja virtual de móveis de produtos de decoração, a <a href="http://inspiratta.com.br/" target="_blank">Inspiratta</a>. Se joga!
+  A <strong>Claudia Medeiros</strong> também tem um blog, o <strong><a href="http://sefossenaminhacasa.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Se fosse na minha casa</a>. </strong>Como Personal Organizer a moça atualiza uma <a href="https://www.facebook.com/claudiamedeirosdesigner/timeline" target="_blank" rel="noopener noreferrer">página no Facebook bem aqui</a>. Você ainda pode ver mais informações em seu <a href="http://www.claudiamedeiros.com.br/" target="_blank" rel="noopener noreferrer">site profissional</a>, bem como visitar sua loja virtual de móveis de produtos de decoração, a <a href="http://inspiratta.com.br/" target="_blank" rel="noopener noreferrer">Inspiratta</a>. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

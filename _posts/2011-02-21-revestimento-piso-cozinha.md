@@ -1,10 +1,7 @@
 ---
-id: 2952
 title: 'Decoração de cozinha: 4 dúvidas sobre revestimento de piso respondidas!'
-date: 2011-02-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/02/21/revestimento-piso-cozinha/
 permalink: /2011/02/21/revestimento-piso-cozinha/
 categories:
   - Cozinha
@@ -32,7 +29,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><em><span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/piso-de-cozinha.jpg"><img class="alignnone size-full wp-image-5932" title="piso de cozinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/piso-de-cozinha.jpg" alt="" width="592" height="395" /></a></span></em></strong>
+  <strong><em><span style="font-size: medium;"><a href="https://www.trololodemulher.com.br/2011/02/piso-de-cozinha.jpg"><img class="alignnone size-full wp-image-5932" title="piso de cozinha" src="https://www.trololodemulher.com.br/2011/02/piso-de-cozinha.jpg" alt="" width="592" height="395" /></a></span></em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -62,7 +59,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><em><span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/cor-revestimento-piso-cozinha.jpg"><img class="alignnone size-full wp-image-5931" title="Exif JPEG" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/cor-revestimento-piso-cozinha.jpg" alt="" width="530" height="409" /></a></span></em></strong>
+  <strong><em><span style="font-size: medium;"><a href="https://www.trololodemulher.com.br/2011/02/cor-revestimento-piso-cozinha.jpg"><img class="alignnone size-full wp-image-5931" title="Exif JPEG" src="https://www.trololodemulher.com.br/2011/02/cor-revestimento-piso-cozinha.jpg" alt="" width="530" height="409" /></a></span></em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -78,9 +75,9 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em>Imagens: </em><a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+  <em>Imagens: </em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

@@ -1,15 +1,12 @@
 ---
-id: 2762
 title: 'Bicha Fêmea na mídia: dia-a-dia Revista do Diário do Grande ABC'
-date: 2010-01-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/01/15/bicha-femea-na-midia/
 permalink: /2010/01/15/bicha-femea-na-midia/
 categories:
   - Trololó
 ---
-Pois é, bonita! É isso mesmo que você está entendendo. O Bicha Fêmea teve sua primeira citação fora do mundo virtual, e foi parar nas mãos dos leitores da revista “dia-a-dia Revista”, uma publicação do jornal “<a href="http://www.dgabc.com.br/?from=www.diaadiarevista.com.br" target="_blank">Diário do Grande ABC</a>”. Não é ótimo?!
+Pois é, bonita! É isso mesmo que você está entendendo. O Bicha Fêmea teve sua primeira citação fora do mundo virtual, e foi parar nas mãos dos leitores da revista “dia-a-dia Revista”, uma publicação do jornal “<a href="http://www.dgabc.com.br/?from=www.diaadiarevista.com.br" target="_blank" rel="noopener noreferrer">Diário do Grande ABC</a>”. Não é ótimo?!
 
 Posso falar? Estou mais feliz que “pinto no lixo”, talvez chegue perto da felicidade do “mosquito em pão doce”. E não é para estar?!
 
@@ -21,11 +18,11 @@ A matéria sugere aos leitores que olhem para os objetos em casa com outros olho
 
 Olha a capa da revista, que belíssima que ficou!!
 
-[<img class="aligncenter size-medium wp-image-4077" title="Capa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/Capa-225x300.jpg" alt="" width="225" height="300" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/Capa.jpg)
+[<img class="aligncenter size-medium wp-image-4077" title="Capa" src="https://www.trololodemulher.com.br/2010/01/Capa-225x300.jpg" alt="" width="225" height="300" />](https://www.trololodemulher.com.br/2010/01/Capa.jpg)
 
 A matéria onde o Bicha Fêmea foi citado tem o título “Bagunça Organizada”, e foi publicada no espaço que fala sobre decoração.
 
-[<img class="aligncenter size-medium wp-image-4078" title="Materia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/Materia-300x199.jpg" alt="" width="300" height="199" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/Materia.jpg)
+[<img class="aligncenter size-medium wp-image-4078" title="Materia" src="https://www.trololodemulher.com.br/2010/01/Materia-300x199.jpg" alt="" width="300" height="199" />](https://www.trololodemulher.com.br/2010/01/Materia.jpg)
 
 O trecho do texto onde o Bicha Fêmea aparece é o seguinte:
 
@@ -51,7 +48,7 @@ Mas há outras mais que ela acrescentou na matéria, como por exemplo:
 
 **_5 &#8211; Revistas empilhadas com um pequeno vidro se transformam em uma mesa inusitada.&#8221;_**
 
-A matéria completa você consegue ler <a href="http://www.diaadiarevista.com.br/News/12/1658/bagunca-organizada.aspx" target="_blank">aqui, bem aqui</a>. Como a gente sabe muito bem, o pulo do gato é estar bem informada e aprendendo coisas novas, concorda?
+A matéria completa você consegue ler <a href="http://www.diaadiarevista.com.br/News/12/1658/bagunca-organizada.aspx" target="_blank" rel="noopener noreferrer">aqui, bem aqui</a>. Como a gente sabe muito bem, o pulo do gato é estar bem informada e aprendendo coisas novas, concorda?
 
 Então, informe-se, bonita!!!!
 

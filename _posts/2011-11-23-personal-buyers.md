@@ -1,10 +1,7 @@
 ---
-id: 3083
 title: 'Sorteio Bicha Fêmea &#038; Personal Buyers entre amigas!'
-date: 2011-11-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/11/23/personal-buyers/
 permalink: /2011/11/23/personal-buyers/
 categories:
   - Publieditorial
@@ -14,13 +11,13 @@ A **comemoração de aniversário de 3 anos do Bicha Fêmea neste mês de Novemb
 &nbsp;
 
 <p align="justify">
-  Comandada pela Fatima Moral, que também edita o blog <strong><a href="http://personalbuyers.blogspot.com/" target="_blank">Personal Buyers – First Class</a></strong>, essa loja virtual é cheia de produtinhos mais que necessários a qualquer bicha fêmea que gosta de se cuidar. Um passeio por lá, pode acreditar, é uma verdadeira tentação… mas a loja tem mesmo é outro diferencial…
+  Comandada pela Fatima Moral, que também edita o blog <strong><a href="http://personalbuyers.blogspot.com/" target="_blank" rel="noopener noreferrer">Personal Buyers – First Class</a></strong>, essa loja virtual é cheia de produtinhos mais que necessários a qualquer bicha fêmea que gosta de se cuidar. Um passeio por lá, pode acreditar, é uma verdadeira tentação… mas a loja tem mesmo é outro diferencial…
 </p>
 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/PERSONAL-BUYERS.png"><img class="alignnone size-full wp-image-8243" title="PERSONAL BUYERS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/PERSONAL-BUYERS.png" alt="" width="600" height="295" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/PERSONAL-BUYERS.png"><img class="alignnone size-full wp-image-8243" title="PERSONAL BUYERS" src="https://www.trololodemulher.com.br/2011/11/PERSONAL-BUYERS.png" alt="" width="600" height="295" /></a>
 </p>
 
 &nbsp;
@@ -40,7 +37,7 @@ A **comemoração de aniversário de 3 anos do Bicha Fêmea neste mês de Novemb
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Cd-e-creme-relaxantes.jpg"><img class="alignnone size-full wp-image-8242" title="SAMSUNG" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Cd-e-creme-relaxantes.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/Cd-e-creme-relaxantes.jpg"><img class="alignnone size-full wp-image-8242" title="SAMSUNG" src="https://www.trololodemulher.com.br/2011/11/Cd-e-creme-relaxantes.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;

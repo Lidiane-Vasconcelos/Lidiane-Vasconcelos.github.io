@@ -1,10 +1,7 @@
 ---
-id: 2798
 title: Alongamento Para Caminhada. Você Faz???
-date: 2010-03-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/03/05/alongamento-caminhada/
 permalink: /2010/03/05/alongamento-caminhada/
 categories:
   - Saúde
@@ -15,14 +12,14 @@ Há algo importante quanto a essa prática que precisamos estar atentas: um bom 
 
 Daí que eu tomei vergonha na cara, e pesquisei imagens e informações bem didáticas para me ajudar nessa parte, e encontrei algo bem bacana para mim, e para você, caso você esteja cometendo o mesmo erro que eu… _cof cof cof…_
 
-Aliás, você comete?![<img style="display: inline;" title="EmoticonGoofy" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/EmoticonGoofy_thumb.gif" alt="EmoticonGoofy" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/EmoticonGoofy.gif)
+Aliás, você comete?![<img style="display: inline;" title="EmoticonGoofy" src="https://www.trololodemulher.com.br/2010/03/EmoticonGoofy_thumb.gif" alt="EmoticonGoofy" width="18" height="18" />](https://www.trololodemulher.com.br/2010/03/EmoticonGoofy.gif)
 
-Em todo caso, lá vai, _hein_? Cada imagem, acompanhada das devidas orientações de como realizar o movimento, são do artigo escrito pela Valéria Alvin Igayara de Souza, que é especialista em treinamento. Este artigo foi publicado no espaço <a href="http://cyberdiet.terra.com.br/cyberdiet/index.htm" target="_blank">Cyber Diet</a> do portal <a href="http://www.terra.com.br/portal/" target="_blank">Terra</a>.
+Em todo caso, lá vai, _hein_? Cada imagem, acompanhada das devidas orientações de como realizar o movimento, são do artigo escrito pela Valéria Alvin Igayara de Souza, que é especialista em treinamento. Este artigo foi publicado no espaço <a href="http://cyberdiet.terra.com.br/cyberdiet/index.htm" target="_blank" rel="noopener noreferrer">Cyber Diet</a> do portal <a href="http://www.terra.com.br/portal/" target="_blank" rel="noopener noreferrer">Terra</a>.
 
 <table border="0">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos11.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos1[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos11_thumb.jpg" border="0" alt="fit_alongamentos1[1]" width="108" height="158" align="left" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/fit_alongamentos11.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos1[1]" src="https://www.trololodemulher.com.br/2010/03/fit_alongamentos11_thumb.jpg" border="0" alt="fit_alongamentos1[1]" width="108" height="158" align="left" /></a>
     </td>
     
     <td>
@@ -36,13 +33,13 @@ Em todo caso, lá vai, _hein_? Cada imagem, acompanhada das devidas orientaçõe
     </td>
     
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos31.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos3[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos31_thumb.jpg" border="0" alt="fit_alongamentos3[1]" width="108" height="158" align="left" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/fit_alongamentos31.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos3[1]" src="https://www.trololodemulher.com.br/2010/03/fit_alongamentos31_thumb.jpg" border="0" alt="fit_alongamentos3[1]" width="108" height="158" align="left" /></a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos41.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos4[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos41_thumb.jpg" border="0" alt="fit_alongamentos4[1]" width="108" height="158" align="right" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/fit_alongamentos41.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos4[1]" src="https://www.trololodemulher.com.br/2010/03/fit_alongamentos41_thumb.jpg" border="0" alt="fit_alongamentos4[1]" width="108" height="158" align="right" /></a>
     </td>
     
     <td>
@@ -56,13 +53,13 @@ Em todo caso, lá vai, _hein_? Cada imagem, acompanhada das devidas orientaçõe
     </td>
     
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos51.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos5[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos51_thumb.jpg" border="0" alt="fit_alongamentos5[1]" width="108" height="158" align="left" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/fit_alongamentos51.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos5[1]" src="https://www.trololodemulher.com.br/2010/03/fit_alongamentos51_thumb.jpg" border="0" alt="fit_alongamentos5[1]" width="108" height="158" align="left" /></a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos61.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos6[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos61_thumb.jpg" border="0" alt="fit_alongamentos6[1]" width="108" height="158" align="right" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/fit_alongamentos61.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos6[1]" src="https://www.trololodemulher.com.br/2010/03/fit_alongamentos61_thumb.jpg" border="0" alt="fit_alongamentos6[1]" width="108" height="158" align="right" /></a>
     </td>
     
     <td>
@@ -76,13 +73,13 @@ Em todo caso, lá vai, _hein_? Cada imagem, acompanhada das devidas orientaçõe
     </td>
     
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos7b1.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos7b[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos7b1_thumb.jpg" border="0" alt="fit_alongamentos7b[1]" width="180" height="108" align="left" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/fit_alongamentos7b1.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos7b[1]" src="https://www.trololodemulher.com.br/2010/03/fit_alongamentos7b1_thumb.jpg" border="0" alt="fit_alongamentos7b[1]" width="180" height="108" align="left" /></a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos8b1.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos8b[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos8b1_thumb.jpg" border="0" alt="fit_alongamentos8b[1]" width="180" height="108" align="right" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/fit_alongamentos8b1.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos8b[1]" src="https://www.trololodemulher.com.br/2010/03/fit_alongamentos8b1_thumb.jpg" border="0" alt="fit_alongamentos8b[1]" width="180" height="108" align="right" /></a>
     </td>
     
     <td>
@@ -96,13 +93,13 @@ Em todo caso, lá vai, _hein_? Cada imagem, acompanhada das devidas orientaçõe
     </td>
     
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos8a1.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos8a[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos8a1_thumb.jpg" border="0" alt="fit_alongamentos8a[1]" width="108" height="158" align="left" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/fit_alongamentos8a1.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos8a[1]" src="https://www.trololodemulher.com.br/2010/03/fit_alongamentos8a1_thumb.jpg" border="0" alt="fit_alongamentos8a[1]" width="108" height="158" align="left" /></a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos91.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos9[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos91_thumb.jpg" border="0" alt="fit_alongamentos9[1]" width="108" height="158" align="right" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/fit_alongamentos91.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos9[1]" src="https://www.trololodemulher.com.br/2010/03/fit_alongamentos91_thumb.jpg" border="0" alt="fit_alongamentos9[1]" width="108" height="158" align="right" /></a>
     </td>
     
     <td>
@@ -116,13 +113,13 @@ Em todo caso, lá vai, _hein_? Cada imagem, acompanhada das devidas orientaçõe
     </td>
     
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos10b1.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos10b[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos10b1_thumb.jpg" border="0" alt="fit_alongamentos10b[1]" width="108" height="158" align="left" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/fit_alongamentos10b1.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos10b[1]" src="https://www.trololodemulher.com.br/2010/03/fit_alongamentos10b1_thumb.jpg" border="0" alt="fit_alongamentos10b[1]" width="108" height="158" align="left" /></a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos10a1.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos10a[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos10a1_thumb.jpg" border="0" alt="fit_alongamentos10a[1]" width="108" height="158" align="right" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/fit_alongamentos10a1.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos10a[1]" src="https://www.trololodemulher.com.br/2010/03/fit_alongamentos10a1_thumb.jpg" border="0" alt="fit_alongamentos10a[1]" width="108" height="158" align="right" /></a>
     </td>
     
     <td>
@@ -136,7 +133,7 @@ Em todo caso, lá vai, _hein_? Cada imagem, acompanhada das devidas orientaçõe
     </td>
     
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos111.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos11[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/fit_alongamentos111_thumb.jpg" border="0" alt="fit_alongamentos11[1]" width="180" height="108" align="left" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/fit_alongamentos111.jpg"><img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="fit_alongamentos11[1]" src="https://www.trololodemulher.com.br/2010/03/fit_alongamentos111_thumb.jpg" border="0" alt="fit_alongamentos11[1]" width="180" height="108" align="left" /></a>
     </td>
   </tr>
 </table>

@@ -1,10 +1,7 @@
 ---
-id: 3555
 title: 'Decoração de cozinha pequena: dicas e imagens.'
-date: 2016-03-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/03/07/decoracao-de-cozinha-pequena/
 permalink: /2016/03/07/decoracao-de-cozinha-pequena/
 categories:
   - Cozinha
@@ -19,7 +16,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cozinha-pequena-decoracao/" target="_blank"><strong>Cozinha pequena: o grande charme da decoração está nos detalhes.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cozinha-pequena-decoracao/" target="_blank" rel="noopener noreferrer"><strong>Cozinha pequena: o grande charme da decoração está nos detalhes.</strong></a>
 </p>
 
 <p align="justify">
@@ -31,11 +28,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cozinha-decoracao-dicas/" target="_blank"><strong>Cozinha inteligente, prática  e funcional: dicas profissionais.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cozinha-decoracao-dicas/" target="_blank" rel="noopener noreferrer"><strong>Cozinha inteligente, prática  e funcional: dicas profissionais.</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12038" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COZINHA-COZINHA-PEQUENA3.jpeg" alt="DECORACAO-COZINHA-COZINHA PEQUENA[3]" width="621" height="800" />
+  <img class="alignnone size-full wp-image-12038" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COZINHA-COZINHA-PEQUENA3.jpeg" alt="DECORACAO-COZINHA-COZINHA PEQUENA[3]" width="621" height="800" />
 </p>
 
 <p align="center">
@@ -43,7 +40,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12039" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COZINHA-COZINHA-PEQUENA4.jpeg" alt="DECORACAO-COZINHA-COZINHA PEQUENA[4]" width="454" height="600" />
+  <img class="alignnone size-full wp-image-12039" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COZINHA-COZINHA-PEQUENA4.jpeg" alt="DECORACAO-COZINHA-COZINHA PEQUENA[4]" width="454" height="600" />
 </p>
 
 <p align="center">
@@ -51,11 +48,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12040" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COZINHA-COZINHA-PEQUENA5.jpeg" alt="DECORACAO-COZINHA-COZINHA PEQUENA[5]" width="800" height="524" />
+  <img class="alignnone size-full wp-image-12040" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COZINHA-COZINHA-PEQUENA5.jpeg" alt="DECORACAO-COZINHA-COZINHA PEQUENA[5]" width="800" height="524" />
 </p>
 
 <p align="center">
-  <em>Na cozinha da <a href="http://www.trololodemulher.com.br/2013/10/04/fotografia-ruby-fernandes/" target="_blank">Ruby Fernandes, fotógrafa cheia de sensibilidade</a>, a cozinha ganhou graça com um pequeno coberto com papel de parede. Para separar o ambiente da área de serviço, uma divisória de vidro coberta com adesivo listrado.</em>
+  <em>Na cozinha da <a href="http://www.trololodemulher.com.br/2013/10/04/fotografia-ruby-fernandes/" target="_blank" rel="noopener noreferrer">Ruby Fernandes, fotógrafa cheia de sensibilidade</a>, a cozinha ganhou graça com um pequeno coberto com papel de parede. Para separar o ambiente da área de serviço, uma divisória de vidro coberta com adesivo listrado.</em>
 </p>
 
 <p align="justify">
@@ -67,11 +64,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/armario-de-cozinha/" target="_blank"><strong>Como escolher armário de cozinha?</strong></a>
+  <a href="http://www.decoracaodacasa.com/armario-de-cozinha/" target="_blank" rel="noopener noreferrer"><strong>Como escolher armário de cozinha?</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12041" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COZINHA-COZINHA-PEQUENA6.jpeg" alt="DECORACAO-COZINHA-COZINHA PEQUENA[6]" width="700" height="550" />
+  <img class="alignnone size-full wp-image-12041" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COZINHA-COZINHA-PEQUENA6.jpeg" alt="DECORACAO-COZINHA-COZINHA PEQUENA[6]" width="700" height="550" />
 </p>
 
 <p align="center">
@@ -79,15 +76,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12042" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COZINHA-COZINHA-PEQUENA7.jpeg" alt="DECORACAO-COZINHA-COZINHA PEQUENA[7]" width="800" height="533" />
+  <img class="alignnone size-full wp-image-12042" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COZINHA-COZINHA-PEQUENA7.jpeg" alt="DECORACAO-COZINHA-COZINHA PEQUENA[7]" width="800" height="533" />
 </p>
 
 <p align="center">
-  <em>Cozinha da <a href="http://www.trololodemulher.com.br/2010/05/26/mara-porto/" target="_blank">blogueira Mara Porto</a>, com prateleiras e objetos coloridos à mostra.</em>
+  <em>Cozinha da <a href="http://www.trololodemulher.com.br/2010/05/26/mara-porto/" target="_blank" rel="noopener noreferrer">blogueira Mara Porto</a>, com prateleiras e objetos coloridos à mostra.</em>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12036" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COZINHA-COZINHA-PEQUENA.jpeg" alt="DECORACAO-COZINHA-COZINHA PEQUENA" width="800" height="506" />
+  <img class="alignnone size-full wp-image-12036" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COZINHA-COZINHA-PEQUENA.jpeg" alt="DECORACAO-COZINHA-COZINHA PEQUENA" width="800" height="506" />
 </p>
 
 <p align="center">
@@ -95,7 +92,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12037" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COZINHA-COZINHA-PEQUENA2.jpeg" alt="DECORACAO-COZINHA-COZINHA PEQUENA[2]" width="489" height="700" />
+  <img class="alignnone size-full wp-image-12037" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COZINHA-COZINHA-PEQUENA2.jpeg" alt="DECORACAO-COZINHA-COZINHA PEQUENA[2]" width="489" height="700" />
 </p>
 
 <p align="center">
@@ -107,7 +104,7 @@ categories:
 </p>
 
 <p align="left">
-  <a href="http://www.decoracaodacasa.com/cozinha-americana/" target="_blank"><strong>Cozinha americana pequena e simples: ideias, dicas e modelos.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cozinha-americana/" target="_blank" rel="noopener noreferrer"><strong>Cozinha americana pequena e simples: ideias, dicas e modelos.</strong></a>
 </p>
 
 <p align="justify">
@@ -115,11 +112,11 @@ categories:
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
+  Imagens: <a href="http://casa.abril.com.br/" target="_blank" rel="noopener noreferrer">Casa Abril</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

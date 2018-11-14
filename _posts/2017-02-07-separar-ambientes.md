@@ -1,10 +1,7 @@
 ---
-id: 3722
 title: 5 ideias para separar ambientes sem paredes.
-date: 2017-02-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/02/07/separar-ambientes/
 permalink: /2017/02/07/separar-ambientes/
 categories:
   - Dicas de Decoração
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13442" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/CASA-DECORACAO-SEPARACAO-DE-AMBIENTES-PORTA-DE-CORRER-PORTA-DESLIZANTE.jpg" alt="CASA-DECORACAO-SEPARACAO DE AMBIENTES-PORTA DE CORRER-PORTA DESLIZANTE" width="720" height="535" />
+  <img class="alignnone size-full wp-image-13442" src="https://www.trololodemulher.com.br/2017/02/CASA-DECORACAO-SEPARACAO-DE-AMBIENTES-PORTA-DE-CORRER-PORTA-DESLIZANTE.jpg" alt="CASA-DECORACAO-SEPARACAO DE AMBIENTES-PORTA DE CORRER-PORTA DESLIZANTE" width="720" height="535" />
 </p>
 
 <p align="center">
@@ -34,7 +31,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13437" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/CASA-DECORACAO-SEPARACAO-DE-AMBIENTES-COBOGOS.jpg" alt="CASA-DECORACAO-SEPARACAO DE AMBIENTES-COBOGOS" width="612" height="612" />
+  <img class="alignnone size-full wp-image-13437" src="https://www.trololodemulher.com.br/2017/02/CASA-DECORACAO-SEPARACAO-DE-AMBIENTES-COBOGOS.jpg" alt="CASA-DECORACAO-SEPARACAO DE AMBIENTES-COBOGOS" width="612" height="612" />
 </p>
 
 <p align="center">
@@ -50,11 +47,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13436" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/CASA-DECORACAO-SEPARACAO-DE-AMBIENTES-BIOMBO.jpg" alt="CASA-DECORACAO-SEPARACAO DE AMBIENTES-BIOMBO" width="716" height="500" />
+  <img class="alignnone size-full wp-image-13436" src="https://www.trololodemulher.com.br/2017/02/CASA-DECORACAO-SEPARACAO-DE-AMBIENTES-BIOMBO.jpg" alt="CASA-DECORACAO-SEPARACAO DE AMBIENTES-BIOMBO" width="716" height="500" />
 </p>
 
 <p align="center">
-  Por <a href="https://www.vivadecora.com.br/foto/42478/biombo-para-separar-ambientes-integrados" target="_blank">Isabela Bethonico, via VivaDecora</a>
+  Por <a href="https://www.vivadecora.com.br/foto/42478/biombo-para-separar-ambientes-integrados" target="_blank" rel="noopener noreferrer">Isabela Bethonico, via VivaDecora</a>
 </p>
 
 <p align="justify">
@@ -66,7 +63,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13440" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/CASA-DECORACAO-SEPARACAO-DE-AMBIENTES-CORTINA.jpg" alt="CASA-DECORACAO-SEPARACAO DE AMBIENTES-CORTINA" width="680" height="452" />
+  <img class="alignnone size-full wp-image-13440" src="https://www.trololodemulher.com.br/2017/02/CASA-DECORACAO-SEPARACAO-DE-AMBIENTES-CORTINA.jpg" alt="CASA-DECORACAO-SEPARACAO DE AMBIENTES-CORTINA" width="680" height="452" />
 </p>
 
 <p align="center">
@@ -74,7 +71,7 @@ categories:
 </p>
 
 <p align="justify">
-  A opção pela <a href="http://www.trololodemulher.com.br/2016/05/05/cortinas-como-escolher/" target="_blank">cortina</a> é uma saída bastante simples para a separação de espaços, porque a sua instalação não interfere na estrutura da casa ou apartamento. A escolha do tecido fica de acordo com o estilo dos moradores, que vai desde o delicado ou refinado, até o ousado, passando pela possibilidade de imprimir rusticidade também. Fica a dica!
+  A opção pela <a href="http://www.trololodemulher.com.br/2016/05/05/cortinas-como-escolher/" target="_blank" rel="noopener noreferrer">cortina</a> é uma saída bastante simples para a separação de espaços, porque a sua instalação não interfere na estrutura da casa ou apartamento. A escolha do tecido fica de acordo com o estilo dos moradores, que vai desde o delicado ou refinado, até o ousado, passando pela possibilidade de imprimir rusticidade também. Fica a dica!
 </p>
 
 <p align="justify">
@@ -82,7 +79,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/05/05/cortinas-como-escolher/" target="_blank">Cortinas: como escolher?</a>
+  <a href="http://www.trololodemulher.com.br/2016/05/05/cortinas-como-escolher/" target="_blank" rel="noopener noreferrer">Cortinas: como escolher?</a>
 </p>
 
 <p align="justify">
@@ -90,11 +87,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13441" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/CASA-DECORACAO-SEPARACAO-DE-AMBIENTES-ESTANTE.jpg" alt="CASA-DECORACAO-SEPARACAO DE AMBIENTES-ESTANTE" width="480" height="640" />
+  <img class="alignnone size-full wp-image-13441" src="https://www.trololodemulher.com.br/2017/02/CASA-DECORACAO-SEPARACAO-DE-AMBIENTES-ESTANTE.jpg" alt="CASA-DECORACAO-SEPARACAO DE AMBIENTES-ESTANTE" width="480" height="640" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.staciedwardsblog.ca/2010/12/sarah-tommy.html" target="_blank">Staci Etwards</a>
+  Via <a href="http://www.staciedwardsblog.ca/2010/12/sarah-tommy.html" target="_blank" rel="noopener noreferrer">Staci Etwards</a>
 </p>
 
 <p align="justify">
@@ -102,7 +99,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

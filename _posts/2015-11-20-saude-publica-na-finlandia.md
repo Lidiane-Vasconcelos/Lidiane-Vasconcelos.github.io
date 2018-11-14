@@ -1,10 +1,7 @@
 ---
-id: 3514
 title: Por que o sistema de saúde pública na Finlândia funciona?
-date: 2015-11-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/11/20/saude-publica-na-finlandia/
 permalink: /2015/11/20/saude-publica-na-finlandia/
 categories:
   - Adriana Minhoto
@@ -15,11 +12,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/11/FINLANDIA-SAUDE-SAUDE-PUBLICA3.jpg"><img class="alignnone size-full wp-image-11694" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/11/FINLANDIA-SAUDE-SAUDE-PUBLICA3.jpg" alt="FINLANDIA-SAUDE-SAUDE PUBLICA[3]" width="800" height="536" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/11/FINLANDIA-SAUDE-SAUDE-PUBLICA3.jpg"><img class="alignnone size-full wp-image-11694" src="https://www.trololodemulher.com.br/2015/11/FINLANDIA-SAUDE-SAUDE-PUBLICA3.jpg" alt="FINLANDIA-SAUDE-SAUDE PUBLICA[3]" width="800" height="536" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/94704573@N03/16502767001/" target="_blank">Marjaana Pato</a> via <a href="http://foter.com/" target="_blank">Foter</a>
+  Imagem: <a href="https://www.flickr.com/photos/94704573@N03/16502767001/" target="_blank" rel="noopener noreferrer">Marjaana Pato</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a>
 </p>
 
 <p align="justify">
@@ -39,11 +36,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/11/FINLANDIA-SAUDE-SAUDE-PUBLICA.jpg"><img class="alignnone size-full wp-image-11691" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/11/FINLANDIA-SAUDE-SAUDE-PUBLICA.jpg" alt="FINLANDIA-SAUDE-SAUDE PUBLICA" width="800" height="534" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/11/FINLANDIA-SAUDE-SAUDE-PUBLICA.jpg"><img class="alignnone size-full wp-image-11691" src="https://www.trololodemulher.com.br/2015/11/FINLANDIA-SAUDE-SAUDE-PUBLICA.jpg" alt="FINLANDIA-SAUDE-SAUDE PUBLICA" width="800" height="534" /></a>
 </p>
 
 <p align="center">
-  Posto de saúde na Finlândia. Imagem: <a href="https://www.flickr.com/photos/125605950@N02/14820834279/" target="_blank">Anni Vartola</a> via <a href="http://foter.com/" target="_blank">Foter</a>
+  Posto de saúde na Finlândia. Imagem: <a href="https://www.flickr.com/photos/125605950@N02/14820834279/" target="_blank" rel="noopener noreferrer">Anni Vartola</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a>
 </p>
 
 <p align="justify">
@@ -71,7 +68,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ADRIANA-MINHOTO.jpg"><img class="alignnone size-full wp-image-11365" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/ADRIANA-MINHOTO.jpg"><img class="alignnone size-full wp-image-11365" src="https://www.trololodemulher.com.br/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" /></a>
 </p>
 
 <p align="justify">
@@ -79,7 +76,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank" rel="noopener noreferrer">As voltas que a vida dá nos leva a lugares inimagináveis!</a></strong>
 </p>
 
 <p align="justify">
@@ -87,23 +84,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/10/16/servico-domestico-na-finlandia/" target="_blank">Serviço doméstico na Finlândia: quem cuida disso?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/10/16/servico-domestico-na-finlandia/" target="_blank" rel="noopener noreferrer">Serviço doméstico na Finlândia: quem cuida disso?</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/09/18/morar-na-finlandia/" target="_blank">Casa e decoração: o jeito de morar na Finlândia.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/09/18/morar-na-finlandia/" target="_blank" rel="noopener noreferrer">Casa e decoração: o jeito de morar na Finlândia.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/08/21/mulheres-brasileiras-na-finlandia/" target="_blank">Mulheres brasileiras na Finlândia: histórias da vida real.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/08/21/mulheres-brasileiras-na-finlandia/" target="_blank" rel="noopener noreferrer">Mulheres brasileiras na Finlândia: histórias da vida real.</a></strong>
 </p>
 
 <p align="justify">
-  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank" rel="noopener noreferrer">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

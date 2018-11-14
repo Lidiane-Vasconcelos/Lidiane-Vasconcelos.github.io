@@ -1,16 +1,13 @@
 ---
-id: 3172
 title: Resultado do sorteio da Cosmética Sustentável no Bicha Fêmea
-date: 2012-08-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/08/16/sorteio-cosmetica-sustentavel/
 permalink: /2012/08/16/sorteio-cosmetica-sustentavel/
 categories:
   - Beleza
   - Promoção
 ---
-Chegou o dia de a gente saber quem é a bicha fêmea navegante que vai ficar naturalmente mais bonita com o presente que ela vai receber em casa. Os produtos que estão á venda na loja virtual <a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank"><strong>Cosmética Sustentável</strong></a> é para quem valoriza a natureza como fonte rica de nutrientes para deixar a gente linda de viver… você sabe…
+Chegou o dia de a gente saber quem é a bicha fêmea navegante que vai ficar naturalmente mais bonita com o presente que ela vai receber em casa. Os produtos que estão á venda na loja virtual <a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank" rel="noopener noreferrer"><strong>Cosmética Sustentável</strong></a> é para quem valoriza a natureza como fonte rica de nutrientes para deixar a gente linda de viver… você sabe…
 
 &nbsp;
 
@@ -23,7 +20,7 @@ Chegou o dia de a gente saber quem é a bicha fêmea navegante que vai ficar nat
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9025" rel="attachment wp-att-9025"><img class="alignnone size-full wp-image-9025" title="Resultado do Sorteio" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/Resultado-do-Sorteio.png" alt="" width="522" height="534" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9025" rel="attachment wp-att-9025"><img class="alignnone size-full wp-image-9025" title="Resultado do Sorteio" src="https://www.trololodemulher.com.br/2012/08/Resultado-do-Sorteio.png" alt="" width="522" height="534" /></a>
 </p>
 
 &nbsp;
@@ -45,7 +42,7 @@ Parabéns, bonitona!!!
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -60,13 +57,13 @@ Parabéns, bonitona!!!
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

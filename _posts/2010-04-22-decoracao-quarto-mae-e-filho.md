@@ -1,10 +1,7 @@
 ---
-id: 2807
 title: 'Pitacos de decoração: quarto para mãe e filho.'
-date: 2010-04-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/04/22/decoracao-quarto-mae-e-filho/
 permalink: /2010/04/22/decoracao-quarto-mae-e-filho/
 categories:
   - Quarto
@@ -16,7 +13,7 @@ categories:
 <!--more-->
 
 <p style="text-align: justify;">
-  Foi a Ana Paula quem entrou em contato comigo, primeiro através de um comentário no post onde demos pitacos sobre a <strong><em><a href="http://www.trololodemulher.com.br/2010/03/29/pitacos-de-bicha-femea-decoracao-do-quarto-de-casal/" target="_blank">decoração do quarto de casal</a></em></strong> da Roberta Feijó, e depois por <em>e-mail</em>, querendo nossa opinião a respeito. Ela contou assim no e-mail que me enviou:
+  Foi a Ana Paula quem entrou em contato comigo, primeiro através de um comentário no post onde demos pitacos sobre a <strong><em><a href="http://www.trololodemulher.com.br/2010/03/29/pitacos-de-bicha-femea-decoracao-do-quarto-de-casal/" target="_blank" rel="noopener noreferrer">decoração do quarto de casal</a></em></strong> da Roberta Feijó, e depois por <em>e-mail</em>, querendo nossa opinião a respeito. Ela contou assim no e-mail que me enviou:
 </p>
 
 > <p style="text-align: justify;">
@@ -28,7 +25,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Pensando nos elementos dessa decoração, lembrei de algo importante para o pequeno, além de extremamente útil para a Ana Paula. Acho legal pensar na possibilidade de <strong>colocar um espelho grande em uma das paredes do quarto</strong>, porque para o menino a presença do espelho atua positivamente no desenvolvimento dele. Há até um <a href="http://www.livrariaresposta.com.br/v2/produto.php?id=2375" target="_blank">livro que trata sobre o papel do espelho na vida de uma criança</a>.
+  Pensando nos elementos dessa decoração, lembrei de algo importante para o pequeno, além de extremamente útil para a Ana Paula. Acho legal pensar na possibilidade de <strong>colocar um espelho grande em uma das paredes do quarto</strong>, porque para o menino a presença do espelho atua positivamente no desenvolvimento dele. Há até um <a href="http://www.livrariaresposta.com.br/v2/produto.php?id=2375" target="_blank" rel="noopener noreferrer">livro que trata sobre o papel do espelho na vida de uma criança</a>.
 </p>
 
 <p style="text-align: justify;">
@@ -44,7 +41,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/cama-com-gavetas.jpg"><img class="alignnone size-full wp-image-4544" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/cama-com-gavetas.jpg" alt="cama com gavetas" width="300" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/04/cama-com-gavetas.jpg"><img class="alignnone size-full wp-image-4544" src="https://www.trololodemulher.com.br/2010/04/cama-com-gavetas.jpg" alt="cama com gavetas" width="300" height="400" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -52,7 +49,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/gaveta-sob-cama.jpg"><img class="alignnone size-full wp-image-4545" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/gaveta-sob-cama.jpg" alt="gaveta sob cama" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/04/gaveta-sob-cama.jpg"><img class="alignnone size-full wp-image-4545" src="https://www.trololodemulher.com.br/2010/04/gaveta-sob-cama.jpg" alt="gaveta sob cama" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -60,7 +57,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/penteadeira.jpg"><img class="alignnone size-full wp-image-4546" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/penteadeira.jpg" alt="penteadeira" width="300" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/04/penteadeira.jpg"><img class="alignnone size-full wp-image-4546" src="https://www.trololodemulher.com.br/2010/04/penteadeira.jpg" alt="penteadeira" width="300" height="400" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -72,7 +69,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes</a>
+  Imagens: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes</a>
 </p>
 
 <p style="text-align: justify;">
@@ -84,11 +81,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/quarto-azul.jpg"><img class="alignnone size-full wp-image-4582" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/quarto-azul.jpg" alt="quarto azul" width="125" height="156" /></a><br /> <strong><em><span style="color: #ff0000;"><em>Imagem: <a href="http://www.marthastewart.com/" target="_blank">Martha Stewart</a></em></span></em></strong>
+  <a href="https://www.trololodemulher.com.br/2010/04/quarto-azul.jpg"><img class="alignnone size-full wp-image-4582" src="https://www.trololodemulher.com.br/2010/04/quarto-azul.jpg" alt="quarto azul" width="125" height="156" /></a><br /> <strong><em><span style="color: #ff0000;"><em>Imagem: <a href="http://www.marthastewart.com/" target="_blank" rel="noopener noreferrer">Martha Stewart</a></em></span></em></strong>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

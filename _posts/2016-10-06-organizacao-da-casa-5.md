@@ -1,16 +1,13 @@
 ---
-id: 3682
 title: '4º post da série para organização da casa: closet.'
-date: 2016-10-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/10/06/organizacao-da-casa-5/
 permalink: /2016/10/06/organizacao-da-casa-5/
 categories:
   - Organização
 ---
 <p align="justify">
-  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a <strong>organização da casa</strong>, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts, que já teve <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/" target="_blank">o primeiro deles sobre home office</a>, e o <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank">segundo sobre a cozinha</a>, e o <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank">terceiro sobre penteadeira</a>, é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
+  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a <strong>organização da casa</strong>, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts, que já teve <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/" target="_blank" rel="noopener noreferrer">o primeiro deles sobre home office</a>, e o <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank" rel="noopener noreferrer">segundo sobre a cozinha</a>, e o <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank" rel="noopener noreferrer">terceiro sobre penteadeira</a>, é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
 </p>
 
 <p align="justify">
@@ -26,19 +23,19 @@ categories:
 </p>
 
 <p align="justify">
-  O <strong>terceiro</strong> está cheio de dicas muito úteis: <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank">clique aqui e veja como deixar sua penteadeira linda de viver</a>!
+  O <strong>terceiro</strong> está cheio de dicas muito úteis: <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank" rel="noopener noreferrer">clique aqui e veja como deixar sua penteadeira linda de viver</a>!
 </p>
 
 <p align="justify">
-  O <strong>quinto post</strong> está cheinho de dicas bacanas: <a href="http://www.trololodemulher.com.br/2016/10/18/organizacao-da-casa-6/" target="_blank">clique aqui e veja como deixar o quarto infantil em ordem!</a>
+  O <strong>quinto post</strong> está cheinho de dicas bacanas: <a href="http://www.trololodemulher.com.br/2016/10/18/organizacao-da-casa-6/" target="_blank" rel="noopener noreferrer">clique aqui e veja como deixar o quarto infantil em ordem!</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13063" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/CASA-ORGANIZACAO-DA-CASA-CLOSET.jpg" alt="casa-organizacao-da-casa-closet" width="800" height="532" />
+  <img class="alignnone size-full wp-image-13063" src="https://www.trololodemulher.com.br/2016/10/CASA-ORGANIZACAO-DA-CASA-CLOSET.jpg" alt="casa-organizacao-da-casa-closet" width="800" height="532" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.flickr.com/photos/60849758@N05/" target="_blank">emily @ go haus go</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Imagem: <a href="http://www.flickr.com/photos/60849758@N05/" target="_blank" rel="noopener noreferrer">emily @ go haus go</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener noreferrer">CC BY</a>
 </p>
 
 <p align="center">
@@ -90,15 +87,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13066" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/CLAUDIA-MEDEIROS-DESIGNER-DE-INTERIORES-PERSONAL-ORGANIZER-CAMPINAS-SP.jpg" alt="claudia-medeiros-designer-de-interiores-personal-organizer-campinas-sp" width="800" height="158" />
+  <img class="alignnone size-full wp-image-13066" src="https://www.trololodemulher.com.br/2016/10/CLAUDIA-MEDEIROS-DESIGNER-DE-INTERIORES-PERSONAL-ORGANIZER-CAMPINAS-SP.jpg" alt="claudia-medeiros-designer-de-interiores-personal-organizer-campinas-sp" width="800" height="158" />
 </p>
 
 <p align="justify">
-  A <strong>Claudia Medeiros</strong> também tem um blog, o <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank">Se fosse na minha casa</a><strong>. </strong>A <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank">fanpage do blog você clica e curte aqui</a>. Como Personal Organizer a moça atualiza uma <a href="https://www.facebook.com/claudiamedeirosdesigner/timeline" target="_blank">página no Facebook bem aqui</a>. Você ainda pode ver mais informações em seu <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank">perfil no Instagram</a>. Se joga!
+  A <strong>Claudia Medeiros</strong> também tem um blog, o <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank" rel="noopener noreferrer">Se fosse na minha casa</a><strong>. </strong>A <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank" rel="noopener noreferrer">fanpage do blog você clica e curte aqui</a>. Como Personal Organizer a moça atualiza uma <a href="https://www.facebook.com/claudiamedeirosdesigner/timeline" target="_blank" rel="noopener noreferrer">página no Facebook bem aqui</a>. Você ainda pode ver mais informações em seu <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank" rel="noopener noreferrer">perfil no Instagram</a>. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

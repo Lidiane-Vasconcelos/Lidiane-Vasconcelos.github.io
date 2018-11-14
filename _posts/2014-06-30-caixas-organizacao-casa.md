@@ -1,10 +1,7 @@
 ---
-id: 3316
 title: 'Caixas: 5 soluções de organização da casa.'
-date: 2014-06-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/06/30/caixas-organizacao-casa/
 permalink: /2014/06/30/caixas-organizacao-casa/
 categories:
   - Organização
@@ -26,7 +23,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/CASA-ORGANIZACAO-CAIXAS-SALA.jpg"><img class="alignnone size-full wp-image-10172" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/CASA-ORGANIZACAO-CAIXAS-SALA.jpg" alt="CASA-ORGANIZACAO-CAIXAS-SALA" width="550" height="733" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/06/CASA-ORGANIZACAO-CAIXAS-SALA.jpg"><img class="alignnone size-full wp-image-10172" src="https://www.trololodemulher.com.br/2014/06/CASA-ORGANIZACAO-CAIXAS-SALA.jpg" alt="CASA-ORGANIZACAO-CAIXAS-SALA" width="550" height="733" /></a>
 </p>
 
 &nbsp;
@@ -42,7 +39,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/CASA-ORGANIZACAO-CAIXAS-HOME-OFFICE-ESCRITÓRIO.jpg"><img class="alignnone size-full wp-image-10170" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/CASA-ORGANIZACAO-CAIXAS-HOME-OFFICE-ESCRITÓRIO.jpg" alt="CASA-ORGANIZACAO-CAIXAS-HOME OFFICE-ESCRITÓRIO" width="550" height="733" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/06/CASA-ORGANIZACAO-CAIXAS-HOME-OFFICE-ESCRITÓRIO.jpg"><img class="alignnone size-full wp-image-10170" src="https://www.trololodemulher.com.br/2014/06/CASA-ORGANIZACAO-CAIXAS-HOME-OFFICE-ESCRITÓRIO.jpg" alt="CASA-ORGANIZACAO-CAIXAS-HOME OFFICE-ESCRITÓRIO" width="550" height="733" /></a>
 </p>
 
 &nbsp;
@@ -56,11 +53,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-de-escritorio/" target="_blank"><strong>Organização de escritório ou home office: dicas.</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-de-escritorio/" target="_blank" rel="noopener noreferrer"><strong>Organização de escritório ou home office: dicas.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/escritorio-casa-organizacao/" target="_blank"><strong>Escritório em casa: ideias simples e baratas para organização.</strong></a>
+  <a href="http://www.decoracaodacasa.com/escritorio-casa-organizacao/" target="_blank" rel="noopener noreferrer"><strong>Escritório em casa: ideias simples e baratas para organização.</strong></a>
 </p>
 
 &nbsp;
@@ -70,7 +67,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/CASA-ORGANIZACAO-CAIXAS-COZINHA.jpg"><img class="alignnone size-full wp-image-10167" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/CASA-ORGANIZACAO-CAIXAS-COZINHA.jpg" alt="CASA-ORGANIZACAO-CAIXAS-COZINHA" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/06/CASA-ORGANIZACAO-CAIXAS-COZINHA.jpg"><img class="alignnone size-full wp-image-10167" src="https://www.trololodemulher.com.br/2014/06/CASA-ORGANIZACAO-CAIXAS-COZINHA.jpg" alt="CASA-ORGANIZACAO-CAIXAS-COZINHA" width="550" height="550" /></a>
 </p>
 
 &nbsp;
@@ -84,15 +81,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/" target="_blank"><strong>Quer 5 razões para ter um suporte de organização na parde da cozinha?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/" target="_blank" rel="noopener noreferrer"><strong>Quer 5 razões para ter um suporte de organização na parde da cozinha?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-da-cozinha/" target="_blank"><strong>3 dicas para organização da cozinha… confira!</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-da-cozinha/" target="_blank" rel="noopener noreferrer"><strong>3 dicas para organização da cozinha… confira!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/ideias-cozinha-organizada/" target="_blank"><strong>4 ideias para manter sua cozinha organizada.</strong></a>
+  <a href="http://www.decoracaodacasa.com/ideias-cozinha-organizada/" target="_blank" rel="noopener noreferrer"><strong>4 ideias para manter sua cozinha organizada.</strong></a>
 </p>
 
 &nbsp;
@@ -102,7 +99,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/CASA-ORGANIZACAO-CAIXAS-QUARTO.jpg"><img class="alignnone size-full wp-image-10171" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/CASA-ORGANIZACAO-CAIXAS-QUARTO.jpg" alt="CASA-ORGANIZACAO-CAIXAS-QUARTO" width="550" height="733" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/06/CASA-ORGANIZACAO-CAIXAS-QUARTO.jpg"><img class="alignnone size-full wp-image-10171" src="https://www.trololodemulher.com.br/2014/06/CASA-ORGANIZACAO-CAIXAS-QUARTO.jpg" alt="CASA-ORGANIZACAO-CAIXAS-QUARTO" width="550" height="733" /></a>
 </p>
 
 &nbsp;
@@ -113,9 +110,9 @@ No guarda-roupas elas salvam! Use para guardar roupas de praia, peças íntimas,
 
 **Tudo em ordem no quarto!**
 
-<a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank"><strong>4 soluções de organização para o quarto infantil: você não vai copiar?</strong></a>
+<a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank" rel="noopener noreferrer"><strong>4 soluções de organização para o quarto infantil: você não vai copiar?</strong></a>
 
-<a href="http://www.decoracaodacasa.com/moveis-organizacao-quarto/" target="_blank"><strong>Móveis para a organização do quarto: o que dá para usar?</strong></a>
+<a href="http://www.decoracaodacasa.com/moveis-organizacao-quarto/" target="_blank" rel="noopener noreferrer"><strong>Móveis para a organização do quarto: o que dá para usar?</strong></a>
 
 &nbsp;
 
@@ -126,7 +123,7 @@ No guarda-roupas elas salvam! Use para guardar roupas de praia, peças íntimas,
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/CASA-ORGANIZACAO-CAIXAS-BANHEIRO.jpg"><img class="alignnone size-full wp-image-10166" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/CASA-ORGANIZACAO-CAIXAS-BANHEIRO.jpg" alt="CASA-ORGANIZACAO-CAIXAS-BANHEIRO" width="550" height="611" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/06/CASA-ORGANIZACAO-CAIXAS-BANHEIRO.jpg"><img class="alignnone size-full wp-image-10166" src="https://www.trololodemulher.com.br/2014/06/CASA-ORGANIZACAO-CAIXAS-BANHEIRO.jpg" alt="CASA-ORGANIZACAO-CAIXAS-BANHEIRO" width="550" height="611" /></a>
 </p>
 
 &nbsp;
@@ -140,17 +137,17 @@ No guarda-roupas elas salvam! Use para guardar roupas de praia, peças íntimas,
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank"><strong>5 ideias de organização do banheiro que favorecem a decoração.</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank" rel="noopener noreferrer"><strong>5 ideias de organização do banheiro que favorecem a decoração.</strong></a>
 </p>
 
 &nbsp;
 
-Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+Imagens: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

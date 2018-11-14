@@ -1,10 +1,7 @@
 ---
-id: 3004
 title: 'História de um móvel: guarda-roupas virou sapateira…'
-date: 2011-06-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/06/02/decoracao-faca-voce-mesma/
 permalink: /2011/06/02/decoracao-faca-voce-mesma/
 categories:
   - Decoração
@@ -29,7 +26,7 @@ Você tem um **móvel sem uso** em casa? Pense nele com outras funções! Sabe q
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-quarto5.jpg"><img class="alignnone size-full wp-image-6440" title="decoração de quarto[5]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-quarto5.jpg" alt="" width="500" height="575" /></a><br /> <strong><a href="http://www.countryliving.com/" target="_blank">CountryLiving</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/05/decoracao-de-quarto5.jpg"><img class="alignnone size-full wp-image-6440" title="decoração de quarto[5]" src="https://www.trololodemulher.com.br/2011/05/decoracao-de-quarto5.jpg" alt="" width="500" height="575" /></a><br /> <strong><a href="http://www.countryliving.com/" target="_blank" rel="noopener noreferrer">CountryLiving</a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -57,11 +54,11 @@ Você tem um **móvel sem uso** em casa? Pense nele com outras funções! Sabe q
 > </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/sapateira.jpg"><img class="alignnone size-full wp-image-6463" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/sapateira.jpg" alt="" width="529" height="705" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/sapateira.jpg"><img class="alignnone size-full wp-image-6463" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2011/05/sapateira.jpg" alt="" width="529" height="705" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Viu que lindo o resultado final?! Maria publicou o armário em seu blog também, o “<strong><a href="http://cantinhodacasa.blogs.sapo.pt/" target="_blank">Cantinho da Casa</a></strong>”. Foi lá que ela também mostrou a <strong>penteadeira</strong> que reformou, <strong><a href="http://cantinhodacasa.blogs.sapo.pt/301861.html" target="_blank">neste post</a></strong>. Ainda sobre o armário, ela falou que o <strong>fundo foi feito com papel de parede</strong>.
+  Viu que lindo o resultado final?! Maria publicou o armário em seu blog também, o “<strong><a href="http://cantinhodacasa.blogs.sapo.pt/" target="_blank" rel="noopener noreferrer">Cantinho da Casa</a></strong>”. Foi lá que ela também mostrou a <strong>penteadeira</strong> que reformou, <strong><a href="http://cantinhodacasa.blogs.sapo.pt/301861.html" target="_blank" rel="noopener noreferrer">neste post</a></strong>. Ainda sobre o armário, ela falou que o <strong>fundo foi feito com papel de parede</strong>.
 </p>
 
 <p style="text-align: justify;">

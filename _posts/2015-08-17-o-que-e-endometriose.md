@@ -1,10 +1,7 @@
 ---
-id: 3459
 title: O que é Endometriose? Saiba que há tratamento.
-date: 2015-08-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/08/17/o-que-e-endometriose/
 permalink: /2015/08/17/o-que-e-endometriose/
 categories:
   - Saúde
@@ -46,11 +43,11 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/O-QUE-E-ENDOMETRIOSE-SAUDE-SAUDE-DA-MULHER-SAUDE-FEMNINA-ENDOMETRIOSE-COLICA-MENSTRUAL.jpg"><img class="alignnone size-full wp-image-11245" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/O-QUE-E-ENDOMETRIOSE-SAUDE-SAUDE-DA-MULHER-SAUDE-FEMNINA-ENDOMETRIOSE-COLICA-MENSTRUAL.jpg" alt="O QUE E ENDOMETRIOSE-SAUDE-SAUDE DA MULHER-SAUDE FEMNINA-ENDOMETRIOSE-COLICA MENSTRUAL" width="400" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/O-QUE-E-ENDOMETRIOSE-SAUDE-SAUDE-DA-MULHER-SAUDE-FEMNINA-ENDOMETRIOSE-COLICA-MENSTRUAL.jpg"><img class="alignnone size-full wp-image-11245" src="https://www.trololodemulher.com.br/2015/08/O-QUE-E-ENDOMETRIOSE-SAUDE-SAUDE-DA-MULHER-SAUDE-FEMNINA-ENDOMETRIOSE-COLICA-MENSTRUAL.jpg" alt="O QUE E ENDOMETRIOSE-SAUDE-SAUDE DA MULHER-SAUDE FEMNINA-ENDOMETRIOSE-COLICA MENSTRUAL" width="400" height="600" /></a>
 </p>
 
 <p align="center">
-  Via <a href="https://www.flickr.com/photos/rbmay/2964597186/" target="_blank">欠我兩千塊</a><b> / </b><a href="http://foter.com/" target="_blank">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Via <a href="https://www.flickr.com/photos/rbmay/2964597186/" target="_blank" rel="noopener noreferrer">欠我兩千塊</a><b> / </b><a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener noreferrer">CC BY</a>
 </p>
 
 > <p align="justify">
@@ -74,7 +71,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/GINECOLOGIA-OBSTETRICIA-DRA-LIVIA-VIEIRA-SAO-JOSE-RIO-PRETO-SP.jpg"><img class="alignnone size-full wp-image-11096" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/GINECOLOGIA-OBSTETRICIA-DRA-LIVIA-VIEIRA-SAO-JOSE-RIO-PRETO-SP.jpg" alt="GINECOLOGIA-OBSTETRICIA-DRA LIVIA VIEIRA-SAO JOSE RIO PRETO-SP" width="800" height="174" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/GINECOLOGIA-OBSTETRICIA-DRA-LIVIA-VIEIRA-SAO-JOSE-RIO-PRETO-SP.jpg"><img class="alignnone size-full wp-image-11096" src="https://www.trololodemulher.com.br/2015/07/GINECOLOGIA-OBSTETRICIA-DRA-LIVIA-VIEIRA-SAO-JOSE-RIO-PRETO-SP.jpg" alt="GINECOLOGIA-OBSTETRICIA-DRA LIVIA VIEIRA-SAO JOSE RIO PRETO-SP" width="800" height="174" /></a>
 </p>
 
 <p align="justify">
@@ -82,19 +79,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/08/03/o-que-e-hpv/" target="_blank">O que é HPV, sintomas e tratamento.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/08/03/o-que-e-hpv/" target="_blank" rel="noopener noreferrer">O que é HPV, sintomas e tratamento.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/07/10/hipertensao-gestacional/" target="_blank">Hipertensão gestacional: entenda tudo de um jeito simples.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/07/10/hipertensao-gestacional/" target="_blank" rel="noopener noreferrer">Hipertensão gestacional: entenda tudo de um jeito simples.</a></strong>
 </p>
 
 <p align="justify">
-  Dra. Lívia também atualiza uma página no Facebook constantemente, toda ela repleta de informação útil para saúde da mulher antes, durante e após a gestação. Eu, que não sou boba nem nada, já curti. Vem também? <a href="https://www.facebook.com/draliviaavieira/timeline" target="_blank">Clica aqui, curta</a> e informe-se!
+  Dra. Lívia também atualiza uma página no Facebook constantemente, toda ela repleta de informação útil para saúde da mulher antes, durante e após a gestação. Eu, que não sou boba nem nada, já curti. Vem também? <a href="https://www.facebook.com/draliviaavieira/timeline" target="_blank" rel="noopener noreferrer">Clica aqui, curta</a> e informe-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

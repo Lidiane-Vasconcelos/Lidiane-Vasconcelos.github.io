@@ -1,10 +1,7 @@
 ---
-id: 3561
 title: Por que engordamos?
-date: 2016-03-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/03/14/por-que-engordamos/
 permalink: /2016/03/14/por-que-engordamos/
 categories:
   - Saúde
@@ -14,11 +11,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12100" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/SAUDE-EMAGRECIMENTO-EMAGRECIMENTO-SAUDAVEL-DIETA2.jpg" alt="SAUDE-EMAGRECIMENTO-EMAGRECIMENTO SAUDAVEL-DIETA[2]" width="800" height="532" />
+  <img class="alignnone size-full wp-image-12100" src="https://www.trololodemulher.com.br/2016/03/SAUDE-EMAGRECIMENTO-EMAGRECIMENTO-SAUDAVEL-DIETA2.jpg" alt="SAUDE-EMAGRECIMENTO-EMAGRECIMENTO SAUDAVEL-DIETA[2]" width="800" height="532" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: <a href="http://www.laughandpee.com/" target="_blank" rel="noopener noreferrer">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank" rel="noopener noreferrer">Gratisography</a>
 </p>
 
 <p align="justify">
@@ -26,11 +23,11 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Eu iria além, diria que somos o que comemos, digerimos, absorvemos e utilizamos, então <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank">além de se preocupar com o que comemos</a>, devemos prestar atenção à saúde do nosso trato gastrointestinal e a sintomas como má-digestão, estufamento, gases, <a href="http://www.trololodemulher.com.br/2012/06/18/intestino-funcionando-bem/" target="_blank">intestino preso</a> ou solto, dor, cólica abdominal, entre outros. Estudos muito atuais associam a composição das nossas bactérias intestinais com o excesso de peso e a alimentação tem um papel determinante nesse equilíbrio. Uma alimentação inadequada do ponto de vista da qualidade nutricional e variação alimentar é um ponto crítico no quadro de excesso de peso, ou seja, uma dieta pobre em fibras, gorduras boas, vitaminas, minerais e fitoquímicos (compostos bioativos dos alimentos). Componentes que são encontrados principalmente em uma alimentação natural, não processada, o mais natural possível, como frutas, verduras, legumes, chás, ervas, especiarias, grãos e cereais integrais, oleaginosas, leguminosas, azeite e carnes brancas.”</em>
+  “<em>Eu iria além, diria que somos o que comemos, digerimos, absorvemos e utilizamos, então <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank" rel="noopener noreferrer">além de se preocupar com o que comemos</a>, devemos prestar atenção à saúde do nosso trato gastrointestinal e a sintomas como má-digestão, estufamento, gases, <a href="http://www.trololodemulher.com.br/2012/06/18/intestino-funcionando-bem/" target="_blank" rel="noopener noreferrer">intestino preso</a> ou solto, dor, cólica abdominal, entre outros. Estudos muito atuais associam a composição das nossas bactérias intestinais com o excesso de peso e a alimentação tem um papel determinante nesse equilíbrio. Uma alimentação inadequada do ponto de vista da qualidade nutricional e variação alimentar é um ponto crítico no quadro de excesso de peso, ou seja, uma dieta pobre em fibras, gorduras boas, vitaminas, minerais e fitoquímicos (compostos bioativos dos alimentos). Componentes que são encontrados principalmente em uma alimentação natural, não processada, o mais natural possível, como frutas, verduras, legumes, chás, ervas, especiarias, grãos e cereais integrais, oleaginosas, leguminosas, azeite e carnes brancas.”</em>
 </p>
 
 <p align="justify">
-  <b><strong>Trololó de Mulher >></strong> Por que <a href="http://www.belezacorpoecia.com/emagrecimento-dietas/" target="_blank">a maioria das dietas vistas por aí não dá certo</a>?</b>
+  <b><strong>Trololó de Mulher >></strong> Por que <a href="http://www.belezacorpoecia.com/emagrecimento-dietas/" target="_blank" rel="noopener noreferrer">a maioria das dietas vistas por aí não dá certo</a>?</b>
 </p>
 
 <p align="justify">
@@ -58,7 +55,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Se a alimentação for equilibrada, não necessariamente. Porém, vai depender novamente de cada organismo. Se a pessoa é sedentária e come em excesso, principalmente alimentos de baixa qualidade nutricional, é muito provável que engorde. Sem dúvida <a href="http://www.trololodemulher.com.br/2015/07/27/como-perder-a-barriga/" target="_blank">se alimentar bem e fazer exercícios é essencial para uma vida saudável e aumenta as chances de sucesso no emagrecimento ou na manutenção do peso</a>, mas já tive pacientes que em algumas fases do acompanhamento nutricional não conseguiram realizar exercícios, por recomendação médica ou pela rotina de trabalho, e mesmo assim conseguiram resultados na redução do peso. Como nessa fase o gasto energético é menor, é necessário realizar alguns ajustes alimentares</em>.”
+  “<em>Se a alimentação for equilibrada, não necessariamente. Porém, vai depender novamente de cada organismo. Se a pessoa é sedentária e come em excesso, principalmente alimentos de baixa qualidade nutricional, é muito provável que engorde. Sem dúvida <a href="http://www.trololodemulher.com.br/2015/07/27/como-perder-a-barriga/" target="_blank" rel="noopener noreferrer">se alimentar bem e fazer exercícios é essencial para uma vida saudável e aumenta as chances de sucesso no emagrecimento ou na manutenção do peso</a>, mas já tive pacientes que em algumas fases do acompanhamento nutricional não conseguiram realizar exercícios, por recomendação médica ou pela rotina de trabalho, e mesmo assim conseguiram resultados na redução do peso. Como nessa fase o gasto energético é menor, é necessário realizar alguns ajustes alimentares</em>.”
 </p>
 
 <p align="justify">
@@ -70,7 +67,7 @@ categories:
 </p>
 
 <p align="justify">
-  <b>Trololó de Mulher >> </b><b>Ingerir mais ou menos <a href="http://www.trololodemulher.com.br/2011/06/03/agua-saude-2/" target="_blank">água</a>, diariamente, influencia de alguma forma sobre o ganho de peso de uma pessoa?</b>
+  <b>Trololó de Mulher >> </b><b>Ingerir mais ou menos <a href="http://www.trololodemulher.com.br/2011/06/03/agua-saude-2/" target="_blank" rel="noopener noreferrer">água</a>, diariamente, influencia de alguma forma sobre o ganho de peso de uma pessoa?</b>
 </p>
 
 <p align="justify">
@@ -78,15 +75,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11963" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/GABRIELA-PIMENTEL-NUTRICIONISTA-VALINHOS-SP.jpg" alt="GABRIELA-PIMENTEL-NUTRICIONISTA-VALINHOS-SP" width="800" height="184" />
+  <img class="alignnone size-full wp-image-11963" src="https://www.trololodemulher.com.br/2016/02/GABRIELA-PIMENTEL-NUTRICIONISTA-VALINHOS-SP.jpg" alt="GABRIELA-PIMENTEL-NUTRICIONISTA-VALINHOS-SP" width="800" height="184" />
 </p>
 
 <p align="justify">
-  Gabriela tem presença online e você pode acompanhá-la ainda mais de perto. Em seu site você encontra todas as informações necessárias sobre os serviços prestados por ela, que são: acompanhamento nutricional personalizado, avaliação nutricional completa e orientação nutricional individualizada. Gabriela dá mais detalhes em seu site, e também disponibiliza receitas saudáveis e nutritivas divididas por categorias: acompanhamento, carnes | aves e peixes, entradas e saladas, sobremesas, sucos e bebidas, festas de fim de ano. Imperdível! Lá você encontra todos os contatos da profissional. <a href="http://www.gabrielanutricionista.com.br/" target="_blank">Acesse o site aqui e se joga</a>! Ah! Na sua fanpage do Facebook a Gabriela compartilha conteúdo de extrema relevância para que tenhamos saúde, assim a gente cultiva uma beleza que vem de dentro. <a href="https://www.facebook.com/gabinutricionista" target="_blank">Acesse aqui e curta</a>!
+  Gabriela tem presença online e você pode acompanhá-la ainda mais de perto. Em seu site você encontra todas as informações necessárias sobre os serviços prestados por ela, que são: acompanhamento nutricional personalizado, avaliação nutricional completa e orientação nutricional individualizada. Gabriela dá mais detalhes em seu site, e também disponibiliza receitas saudáveis e nutritivas divididas por categorias: acompanhamento, carnes | aves e peixes, entradas e saladas, sobremesas, sucos e bebidas, festas de fim de ano. Imperdível! Lá você encontra todos os contatos da profissional. <a href="http://www.gabrielanutricionista.com.br/" target="_blank" rel="noopener noreferrer">Acesse o site aqui e se joga</a>! Ah! Na sua fanpage do Facebook a Gabriela compartilha conteúdo de extrema relevância para que tenhamos saúde, assim a gente cultiva uma beleza que vem de dentro. <a href="https://www.facebook.com/gabinutricionista" target="_blank" rel="noopener noreferrer">Acesse aqui e curta</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

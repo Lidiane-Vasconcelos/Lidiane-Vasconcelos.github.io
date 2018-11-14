@@ -1,10 +1,7 @@
 ---
-id: 3233
 title: Decoração simples… mas das boas!
-date: 2013-07-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/07/03/decoracao-simples/
 permalink: /2013/07/03/decoracao-simples/
 categories:
   - Dicas de Decoração
@@ -14,7 +11,7 @@ Você sonha com uma casa confortável e com jeito de lar? Materializar esse dese
 &nbsp;
 
 <p align="justify">
-  <strong>Rosana</strong>, do blog <strong><a href="http://www.simplesdecoracao.com.br/" target="_blank">Simples Decoração</a></strong>, sonha tornar o <em>design de interiores</em> acessível para pessoas como você e eu. Pensando nisso, ela criou um dos blogs mais ricos em conteúdo voltado para a <strong>decoração.</strong> Sorte nossa! É ela quem conta o caminho trilhado para ocupar um lugar de destaque na blogosfera… confere!
+  <strong>Rosana</strong>, do blog <strong><a href="http://www.simplesdecoracao.com.br/" target="_blank" rel="noopener noreferrer">Simples Decoração</a></strong>, sonha tornar o <em>design de interiores</em> acessível para pessoas como você e eu. Pensando nisso, ela criou um dos blogs mais ricos em conteúdo voltado para a <strong>decoração.</strong> Sorte nossa! É ela quem conta o caminho trilhado para ocupar um lugar de destaque na blogosfera… confere!
 </p>
 
 <!--more-->
@@ -24,7 +21,7 @@ Você sonha com uma casa confortável e com jeito de lar? Materializar esse dese
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SIMPLES-DECORACAO.jpg"><img class="alignnone size-full wp-image-9510" alt="SIMPLES DECORACAO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SIMPLES-DECORACAO.jpg" width="600" height="404" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="https://www.trololodemulher.com.br/2013/06/SIMPLES-DECORACAO.jpg"><img class="alignnone size-full wp-image-9510" alt="SIMPLES DECORACAO" src="https://www.trololodemulher.com.br/2013/06/SIMPLES-DECORACAO.jpg" width="600" height="404" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
@@ -42,7 +39,7 @@ Você sonha com uma casa confortável e com jeito de lar? Materializar esse dese
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SIMPLES-DECORACAO-ROSANA.jpg"><img class="alignnone size-full wp-image-9513" alt="SIMPLES DECORACAO-ROSANA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SIMPLES-DECORACAO-ROSANA.jpg" width="238" height="302" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/06/SIMPLES-DECORACAO-ROSANA.jpg"><img class="alignnone size-full wp-image-9513" alt="SIMPLES DECORACAO-ROSANA" src="https://www.trololodemulher.com.br/2013/06/SIMPLES-DECORACAO-ROSANA.jpg" width="238" height="302" /></a>
 </p>
 
 &nbsp;
@@ -68,7 +65,7 @@ Você sonha com uma casa confortável e com jeito de lar? Materializar esse dese
 &nbsp;
 
 <p align="justify">
-  Curiosa para ver de perto todo o seu trabalho e envolvimento com a decoração? Se joga no <strong><a href="http://www.simplesdecoracao.com.br/" target="_blank">blog</a></strong>, confira, encante-se e viva de amores!
+  Curiosa para ver de perto todo o seu trabalho e envolvimento com a decoração? Se joga no <strong><a href="http://www.simplesdecoracao.com.br/" target="_blank" rel="noopener noreferrer">blog</a></strong>, confira, encante-se e viva de amores!
 </p>
 
 &nbsp;
@@ -81,13 +78,13 @@ Você sonha com uma casa confortável e com jeito de lar? Materializar esse dese
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/LIVEMAGNETS200.png"><img class="alignnone size-full wp-image-9501" alt="LIVEMAGNETS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/LIVEMAGNETS200.png" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2013/06/13/decoracao-geladeira-cozinha/"><strong><span style="font-size: medium;"><br /> Quer decorar a geladeira, mas não quer usar adesivo? É fácil!</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2013/06/LIVEMAGNETS200.png"><img class="alignnone size-full wp-image-9501" alt="LIVEMAGNETS200" src="https://www.trololodemulher.com.br/2013/06/LIVEMAGNETS200.png" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2013/06/13/decoracao-geladeira-cozinha/"><strong><span style="font-size: medium;"><br /> Quer decorar a geladeira, mas não quer usar adesivo? É fácil!</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-SALA-ESTAR-SIMPLES-BARATA-FACA-VOCE-MESMA200.jpg"><img class="alignnone size-full wp-image-9467" alt="DECORACAO SALA ESTAR SIMPLES BARATA FACA VOCE MESMA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-SALA-ESTAR-SIMPLES-BARATA-FACA-VOCE-MESMA200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2013/06/12/decoracao-barata-sala/"><strong><span style="font-size: medium;">Solução de decoração boa, bonita e barata: tapete de sisal listrado</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2013/05/DECORACAO-SALA-ESTAR-SIMPLES-BARATA-FACA-VOCE-MESMA200.jpg"><img class="alignnone size-full wp-image-9467" alt="DECORACAO SALA ESTAR SIMPLES BARATA FACA VOCE MESMA200" src="https://www.trololodemulher.com.br/2013/05/DECORACAO-SALA-ESTAR-SIMPLES-BARATA-FACA-VOCE-MESMA200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2013/06/12/decoracao-barata-sala/"><strong><span style="font-size: medium;">Solução de decoração boa, bonita e barata: tapete de sisal listrado</span></strong></a>
       </p>
     </td>
   </tr>
@@ -95,13 +92,13 @@ Você sonha com uma casa confortável e com jeito de lar? Materializar esse dese
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-SIMPLES-BASICA-ELEGANTE200.jpg"><img class="alignnone size-full wp-image-9446" alt="DECORACAO SIMPLES BASICA ELEGANTE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-SIMPLES-BASICA-ELEGANTE200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2013/06/05/decoracao-basica-simples/"><strong><span style="font-size: medium;"><br /> Decoração básica com graça e charme: aprenda os truques!</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2013/05/DECORACAO-SIMPLES-BASICA-ELEGANTE200.jpg"><img class="alignnone size-full wp-image-9446" alt="DECORACAO SIMPLES BASICA ELEGANTE200" src="https://www.trololodemulher.com.br/2013/05/DECORACAO-SIMPLES-BASICA-ELEGANTE200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2013/06/05/decoracao-basica-simples/"><strong><span style="font-size: medium;"><br /> Decoração básica com graça e charme: aprenda os truques!</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/DECORACAO-QUARTO-INFANTIL200.jpg"><img class="alignnone size-full wp-image-9433" alt="DECORACAO-QUARTO-INFANTIL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/DECORACAO-QUARTO-INFANTIL200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2013/05/29/decoracao-quarto-infantil-2/"><strong><span style="font-size: medium;"><br /> Dica de decoração infantil que sua criança pode fazer…</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2013/04/DECORACAO-QUARTO-INFANTIL200.jpg"><img class="alignnone size-full wp-image-9433" alt="DECORACAO-QUARTO-INFANTIL200" src="https://www.trololodemulher.com.br/2013/04/DECORACAO-QUARTO-INFANTIL200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2013/05/29/decoracao-quarto-infantil-2/"><strong><span style="font-size: medium;"><br /> Dica de decoração infantil que sua criança pode fazer…</span></strong></a>
       </p>
     </td>
   </tr>
@@ -112,7 +109,7 @@ Você sonha com uma casa confortável e com jeito de lar? Materializar esse dese
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -127,13 +124,13 @@ Você sonha com uma casa confortável e com jeito de lar? Materializar esse dese
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

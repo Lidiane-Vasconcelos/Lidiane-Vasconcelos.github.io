@@ -1,18 +1,15 @@
 ---
-id: 2650
 title: Dicas para limpeza e organização da geladeira.
-date: 2009-04-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/04/21/limpeza-organizacao-geladeira/
 permalink: /2009/04/21/limpeza-organizacao-geladeira/
 categories:
   - Organização
   - Rotina da Casa
 ---
-[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="www.momadvice.com" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/wwwmomadvicecom-thumb.jpg" alt="www.momadvice.com" width="176" height="158" align="left" border="0" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/wwwmomadvicecom.jpg) Quem achar que sabe tudo sobre limpeza e organização de geladeira levanta o dedo _aêêê_!!!! _Eu,_ que não sei um bocado de coisas sobre uma infinidade de tantas outras, estou com os dedinhos bem _abaixadinhos_ aqui.
+[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="www.momadvice.com" src="https://www.trololodemulher.com.br/2009/04/wwwmomadvicecom-thumb.jpg" alt="www.momadvice.com" width="176" height="158" align="left" border="0" />](https://www.trololodemulher.com.br/2009/04/wwwmomadvicecom.jpg) Quem achar que sabe tudo sobre limpeza e organização de geladeira levanta o dedo _aêêê_!!!! _Eu,_ que não sei um bocado de coisas sobre uma infinidade de tantas outras, estou com os dedinhos bem _abaixadinhos_ aqui.
 
-[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="www.usgraphicdesigns.com" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/wwwusgraphicdesignscom-thumb.jpg" alt="www.usgraphicdesigns.com" width="136" height="240" align="right" border="0" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/wwwusgraphicdesignscom.jpg) Sendo assim, resolvi trazer para dividir com vocês algumas dicas bacanas para ajudar a gente no dia-a-dia nos nossos lares. Li as dicas no site do UOL, <a href="http://estilo.uol.com.br/album/bbelgeladeiraorganizacao_album.jhtm" target="_blank">aqui ó</a>, e elas falam sobre a **_limpeza e organização da geladeira._**
+[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="www.usgraphicdesigns.com" src="https://www.trololodemulher.com.br/2009/04/wwwusgraphicdesignscom-thumb.jpg" alt="www.usgraphicdesigns.com" width="136" height="240" align="right" border="0" />](https://www.trololodemulher.com.br/2009/04/wwwusgraphicdesignscom.jpg) Sendo assim, resolvi trazer para dividir com vocês algumas dicas bacanas para ajudar a gente no dia-a-dia nos nossos lares. Li as dicas no site do UOL, <a href="http://estilo.uol.com.br/album/bbelgeladeiraorganizacao_album.jhtm" target="_blank" rel="noopener noreferrer">aqui ó</a>, e elas falam sobre a **_limpeza e organização da geladeira._**
 
 É, comadre! Será que sabemos tudo? Vamos ver?
 

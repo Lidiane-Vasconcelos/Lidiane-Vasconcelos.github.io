@@ -1,10 +1,7 @@
 ---
-id: 3379
 title: Da decoração de Natal (fraquinha) na terra do papai noel
-date: 2014-12-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/12/19/decoracao-natal-finlandia/
 permalink: /2014/12/19/decoracao-natal-finlandia/
 categories:
   - Adriana Minhoto
@@ -43,7 +40,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/FINLANDIA-NATAL.jpg"><img class="alignnone size-full wp-image-10660" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/FINLANDIA-NATAL.jpg" alt="FINLANDIA-NATAL" width="800" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/FINLANDIA-NATAL.jpg"><img class="alignnone size-full wp-image-10660" src="https://www.trololodemulher.com.br/2014/12/FINLANDIA-NATAL.jpg" alt="FINLANDIA-NATAL" width="800" height="449" /></a>
 </p>
 
 > <p align="justify">
@@ -55,11 +52,11 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/FINLANDIA-NATAL2.jpg"><img class="alignnone size-full wp-image-10661" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/FINLANDIA-NATAL2.jpg" alt="FINLANDIA-NATAL[2]" width="800" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/FINLANDIA-NATAL2.jpg"><img class="alignnone size-full wp-image-10661" src="https://www.trololodemulher.com.br/2014/12/FINLANDIA-NATAL2.jpg" alt="FINLANDIA-NATAL[2]" width="800" height="449" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/FINLANDIA-NATAL3.jpg"><img class="alignnone size-full wp-image-10662" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/FINLANDIA-NATAL3.jpg" alt="FINLANDIA-NATAL[3]" width="800" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/FINLANDIA-NATAL3.jpg"><img class="alignnone size-full wp-image-10662" src="https://www.trololodemulher.com.br/2014/12/FINLANDIA-NATAL3.jpg" alt="FINLANDIA-NATAL[3]" width="800" height="449" /></a>
 </p>
 
 > <p align="justify">
@@ -67,7 +64,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/FINLANDIA-NATAL4.jpg"><img class="alignnone size-full wp-image-10663" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/FINLANDIA-NATAL4.jpg" alt="FINLANDIA-NATAL[4]" width="800" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/FINLANDIA-NATAL4.jpg"><img class="alignnone size-full wp-image-10663" src="https://www.trololodemulher.com.br/2014/12/FINLANDIA-NATAL4.jpg" alt="FINLANDIA-NATAL[4]" width="800" height="449" /></a>
 </p>
 
 > <p align="justify">
@@ -79,7 +76,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ADRIANA-MINHOTO.png"><img class="alignnone size-full wp-image-10378" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ADRIANA-MINHOTO.png" alt="ADRIANA MINHOTO" width="800" height="227" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/ADRIANA-MINHOTO.png"><img class="alignnone size-full wp-image-10378" src="https://www.trololodemulher.com.br/2014/09/ADRIANA-MINHOTO.png" alt="ADRIANA MINHOTO" width="800" height="227" /></a>
 </p>
 
 <p align="justify">
@@ -87,7 +84,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank"><strong>As voltas que a vida dá nos leva a lugares inimagináveis!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank" rel="noopener noreferrer"><strong>As voltas que a vida dá nos leva a lugares inimagináveis!</strong></a>
 </p>
 
 <p align="justify">
@@ -95,19 +92,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank"><strong>Educação, ordem e progresso: lá na Finlândia é assim!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank" rel="noopener noreferrer"><strong>Educação, ordem e progresso: lá na Finlândia é assim!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/10/compras-finlandia/" target="_blank"><strong>Fazer compras é simples, a menos que seja na Finlândia!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/10/compras-finlandia/" target="_blank" rel="noopener noreferrer"><strong>Fazer compras é simples, a menos que seja na Finlândia!</strong></a>
 </p>
 
 <p align="justify">
-  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai!
+  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank" rel="noopener noreferrer">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank" rel="noopener noreferrer">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer">clicar aqui e se jogar</a>! Vai!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

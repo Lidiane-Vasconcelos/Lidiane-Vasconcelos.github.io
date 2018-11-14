@@ -1,10 +1,7 @@
 ---
-id: 3143
 title: 'Flávia Ferrari… blog e revista: sob holofotes do mundo da decoração'
-date: 2012-06-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/06/27/flavia-ferrari-decoracao/
 permalink: /2012/06/27/flavia-ferrari-decoracao/
 categories:
   - Decoração
@@ -12,7 +9,7 @@ categories:
   - Entrevistas
   - 'Trabalho &amp; Dinheiro'
 ---
-Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobretudo nos blogs de decoração, houve um que chamou minha atenção. Mesmo com a crescente popularização desses espaços virtuais, o **<a href="http://www.decoracasas.com.br/" target="_blank">DECORACASAS</a>**, blog que atraiu os meus olhos e interesse, sempre se manteve como um indiscutível destaque.
+Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobretudo nos blogs de decoração, houve um que chamou minha atenção. Mesmo com a crescente popularização desses espaços virtuais, o **<a href="http://www.decoracasas.com.br/" target="_blank" rel="noopener noreferrer">DECORACASAS</a>**, blog que atraiu os meus olhos e interesse, sempre se manteve como um indiscutível destaque.
 
 &nbsp;
 
@@ -23,7 +20,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 <!--more-->
 
 <p align="center">
-  <em><a href="http://www.decoracasas.com.br/" target="_blank"><img class="alignnone size-full wp-image-8776" title="DECORACASAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/DECORACASAS.png" alt="" width="600" height="278" /></a><br /> Clique na imagem e delicie-se no blog da bonita e talentosa Flávia Ferrari!</em>
+  <em><a href="http://www.decoracasas.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8776" title="DECORACASAS" src="https://www.trololodemulher.com.br/2012/06/DECORACASAS.png" alt="" width="600" height="278" /></a><br /> Clique na imagem e delicie-se no blog da bonita e talentosa Flávia Ferrari!</em>
 </p>
 
 <p align="justify">
@@ -51,7 +48,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/27/flavia-ferrari-decoracao/revista-manual-flavia-ferrari/" rel="attachment wp-att-8780"><img class="alignnone size-full wp-image-8780" title="REVISTA MANUAL FLAVIA FERRARI" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/REVISTA-MANUAL-FLAVIA-FERRARI.jpg" alt="" width="600" height="786" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/06/27/flavia-ferrari-decoracao/revista-manual-flavia-ferrari/" rel="attachment wp-att-8780"><img class="alignnone size-full wp-image-8780" title="REVISTA MANUAL FLAVIA FERRARI" src="https://www.trololodemulher.com.br/2012/06/REVISTA-MANUAL-FLAVIA-FERRARI.jpg" alt="" width="600" height="786" /></a>
 </p>
 
 <p align="justify">
@@ -87,7 +84,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/27/flavia-ferrari-decoracao/flavia-ferrari-decoracasas1/" rel="attachment wp-att-8781"><img class="alignnone size-full wp-image-8781" title="FLAVIA FERRARI - DECORACASAS[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/FLAVIA-FERRARI-DECORACASAS1.jpg" alt="" width="480" height="720" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/06/27/flavia-ferrari-decoracao/flavia-ferrari-decoracasas1/" rel="attachment wp-att-8781"><img class="alignnone size-full wp-image-8781" title="FLAVIA FERRARI - DECORACASAS[1]" src="https://www.trololodemulher.com.br/2012/06/FLAVIA-FERRARI-DECORACASAS1.jpg" alt="" width="480" height="720" /></a>
 </p>
 
 <p align="justify">
@@ -108,13 +105,13 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/decoracao-papel-de-parede200/" rel="attachment wp-att-8673"><img class="alignnone size-full wp-image-8673" title="DECORACAO PAPEL DE PAREDE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/DECORACAO-PAPEL-DE-PAREDE200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/04/11/decoracao-papel-de-parede-2/"><strong><span style="font-size: medium;"><br /> 3 ideias criativas do uso do papel de parede… fora da parede!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/decoracao-papel-de-parede200/" rel="attachment wp-att-8673"><img class="alignnone size-full wp-image-8673" title="DECORACAO PAPEL DE PAREDE200" src="https://www.trololodemulher.com.br/2012/04/DECORACAO-PAPEL-DE-PAREDE200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/04/11/decoracao-papel-de-parede-2/"><strong><span style="font-size: medium;"><br /> 3 ideias criativas do uso do papel de parede… fora da parede!</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/decoracao-cozinha-apartamento-pequeno2200/" rel="attachment wp-att-8636"><img class="alignnone size-full wp-image-8636" title="DECORACAO COZINHA APARTAMENTO PEQUENO[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/DECORACAO-COZINHA-APARTAMENTO-PEQUENO2200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/03/28/cozinha-apartamento-pequeno/"><strong><span style="font-size: medium;">Cozinha moderna em apartamento pequeno… tem jeito?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/decoracao-cozinha-apartamento-pequeno2200/" rel="attachment wp-att-8636"><img class="alignnone size-full wp-image-8636" title="DECORACAO COZINHA APARTAMENTO PEQUENO[2]200" src="https://www.trololodemulher.com.br/2012/03/DECORACAO-COZINHA-APARTAMENTO-PEQUENO2200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/03/28/cozinha-apartamento-pequeno/"><strong><span style="font-size: medium;">Cozinha moderna em apartamento pequeno… tem jeito?</span></strong></a>
       </p>
     </td>
   </tr>
@@ -122,13 +119,13 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/logomarca-tudocolado200/" rel="attachment wp-att-8645"><img class="alignnone size-full wp-image-8645" title="Logomarca TudoColado200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/Logomarca-TudoColado200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/03/27/decoracao-adesivos-decorativos/"><strong><span style="font-size: medium;">Oportunidade! Mude sua decoração com adesivos pagando pouco…</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/logomarca-tudocolado200/" rel="attachment wp-att-8645"><img class="alignnone size-full wp-image-8645" title="Logomarca TudoColado200" src="https://www.trololodemulher.com.br/2012/03/Logomarca-TudoColado200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/03/27/decoracao-adesivos-decorativos/"><strong><span style="font-size: medium;">Oportunidade! Mude sua decoração com adesivos pagando pouco…</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/comoda-restaurada200/" rel="attachment wp-att-8549"><img class="alignnone size-full wp-image-8549" title="COMODA RESTAURADA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/02/COMODA-RESTAURADA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/02/29/decoracao-moveis-usados/"><strong><span style="font-size: medium;"><br /> Ponha charme na decoração com a customização de móveis!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/comoda-restaurada200/" rel="attachment wp-att-8549"><img class="alignnone size-full wp-image-8549" title="COMODA RESTAURADA200" src="https://www.trololodemulher.com.br/2012/02/COMODA-RESTAURADA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/02/29/decoracao-moveis-usados/"><strong><span style="font-size: medium;"><br /> Ponha charme na decoração com a customização de móveis!</span></strong></a>
       </p>
     </td>
   </tr>
@@ -136,13 +133,13 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/decoracao-quarto-infantil-croche200/" rel="attachment wp-att-8528"><img class="alignnone size-full wp-image-8528" title="DECORACAO QUARTO INFANTIL CROCHE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/DECORACAO-QUARTO-INFANTIL-CROCHE200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/02/15/quarto-infantil-croche/"><strong><span style="font-size: medium;">Decoração de quarto infantil com bichinhos de crochê… oh, que fofo!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/decoracao-quarto-infantil-croche200/" rel="attachment wp-att-8528"><img class="alignnone size-full wp-image-8528" title="DECORACAO QUARTO INFANTIL CROCHE200" src="https://www.trololodemulher.com.br/2012/01/DECORACAO-QUARTO-INFANTIL-CROCHE200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/02/15/quarto-infantil-croche/"><strong><span style="font-size: medium;">Decoração de quarto infantil com bichinhos de crochê… oh, que fofo!</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/lavabo-decoracao200/" rel="attachment wp-att-8449"><img class="alignnone size-full wp-image-8449" title="LAVABO DECORACAO200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/LAVABO-DECORACAO200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/01/18/decoracao-lavabo/"><strong><span style="font-size: medium;"><br /> Boa ideia: arte na decoração do lavabo</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/lavabo-decoracao200/" rel="attachment wp-att-8449"><img class="alignnone size-full wp-image-8449" title="LAVABO DECORACAO200" src="https://www.trololodemulher.com.br/2012/01/LAVABO-DECORACAO200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/01/18/decoracao-lavabo/"><strong><span style="font-size: medium;"><br /> Boa ideia: arte na decoração do lavabo</span></strong></a>
       </p>
     </td>
   </tr>
@@ -153,7 +150,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -168,13 +165,13 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

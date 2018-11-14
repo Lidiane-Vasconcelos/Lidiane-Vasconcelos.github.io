@@ -1,10 +1,7 @@
 ---
-id: 3606
 title: 'Área de entrada da casa: organização… desde o início.'
-date: 2016-05-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/05/12/area-de-entrada-da-casa/
 permalink: /2016/05/12/area-de-entrada-da-casa/
 categories:
   - Organização
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/comoda-hall-de-entrada/" target="_blank"><strong>Quer reformar uma cômoda e criar um hall de entrada na sua casa?</strong></a>
+  <a href="http://www.decoracaodacasa.com/comoda-hall-de-entrada/" target="_blank" rel="noopener noreferrer"><strong>Quer reformar uma cômoda e criar um hall de entrada na sua casa?</strong></a>
 </p>
 
 <p align="justify">
@@ -26,7 +23,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12509" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-AREA-ENTRADA-CASA-ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DOMESTICA2.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-AREA ENTRADA CASA-ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DOMESTICA[2]" width="740" height="404" />
+  <img class="alignnone size-full wp-image-12509" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-AREA-ENTRADA-CASA-ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DOMESTICA2.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-AREA ENTRADA CASA-ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DOMESTICA[2]" width="740" height="404" />
 </p>
 
 <p align="center">
@@ -34,7 +31,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12508" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-AREA-ENTRADA-CASA-ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DOMESTICA.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-AREA ENTRADA CASA-ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DOMESTICA" width="700" height="700" />
+  <img class="alignnone size-full wp-image-12508" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-AREA-ENTRADA-CASA-ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DOMESTICA.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-AREA ENTRADA CASA-ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DOMESTICA" width="700" height="700" />
 </p>
 
 <p align="center">
@@ -42,7 +39,7 @@ categories:
 </p>
 
 <p align="justify">
-  Não ficou incrível? Repare nas boas escolhas: <strong>cor preferida + gancho estiloso bem ao lado da porta + prateleira bem fininha para apoiar detalhes decorativos como um quadro, foto de família e uma palavra do coração + suporte de madeira com ganchos abaixo dessa prateleira fininha</strong>. Quer ver mais fotos e detalhes desse cantinho lindo de viver, simples e bem eficiente ao que se propõe? Espie aqui, no blog <a href="http://thediydreamer.com/diy/small-entryway-shelf-with-hooks/" target="_blank">The DIY Dreamer</a>. Inspire-se na ideia e providencie algo similar em seus domínios também!
+  Não ficou incrível? Repare nas boas escolhas: <strong>cor preferida + gancho estiloso bem ao lado da porta + prateleira bem fininha para apoiar detalhes decorativos como um quadro, foto de família e uma palavra do coração + suporte de madeira com ganchos abaixo dessa prateleira fininha</strong>. Quer ver mais fotos e detalhes desse cantinho lindo de viver, simples e bem eficiente ao que se propõe? Espie aqui, no blog <a href="http://thediydreamer.com/diy/small-entryway-shelf-with-hooks/" target="_blank" rel="noopener noreferrer">The DIY Dreamer</a>. Inspire-se na ideia e providencie algo similar em seus domínios também!
 </p>
 
 <p align="justify">
@@ -50,11 +47,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/02/16/area-de-entrada/" target="_blank"><strong>Dicas de decoração para a área de entrada da sua casa.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/02/16/area-de-entrada/" target="_blank" rel="noopener noreferrer"><strong>Dicas de decoração para a área de entrada da sua casa.</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

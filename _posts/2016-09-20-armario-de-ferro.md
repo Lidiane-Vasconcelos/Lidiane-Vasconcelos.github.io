@@ -1,10 +1,7 @@
 ---
-id: 3668
 title: Como reformar um armário de ferro que está velho?
-date: 2016-09-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/09/20/armario-de-ferro/
 permalink: /2016/09/20/armario-de-ferro/
 categories:
   - Casa
@@ -20,11 +17,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12955" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/DECORACAO-COZINHA-MOVEIS-ARMARIOS3.jpg" alt="decoracao-cozinha-moveis-armarios3" width="800" height="1031" />
+  <img class="alignnone size-full wp-image-12955" src="https://www.trololodemulher.com.br/2016/09/DECORACAO-COZINHA-MOVEIS-ARMARIOS3.jpg" alt="decoracao-cozinha-moveis-armarios3" width="800" height="1031" />
 </p>
 
 <p style="text-align: center;" align="justify">
-  Imagem: <a href="https://www.flickr.com/photos/donkeyhotey/5521101616/" target="_blank">DonkeyHotey</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Imagem: <a href="https://www.flickr.com/photos/donkeyhotey/5521101616/" target="_blank" rel="noopener noreferrer">DonkeyHotey</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener noreferrer">CC BY</a>
 </p>
 
 <!--more-->
@@ -46,11 +43,11 @@ Recebi a pergunta com o dilema de decoração da **Carolzinha Leroy**, que dizia
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12953" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/DECORACAO-COZINHA-MOVEIS-ARMARIOS.jpg" alt="decoracao-cozinha-moveis-armarios" width="600" height="800" />
+  <img class="alignnone size-full wp-image-12953" src="https://www.trololodemulher.com.br/2016/09/DECORACAO-COZINHA-MOVEIS-ARMARIOS.jpg" alt="decoracao-cozinha-moveis-armarios" width="600" height="800" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12954" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/DECORACAO-COZINHA-MOVEIS-ARMARIOS2.jpg" alt="decoracao-cozinha-moveis-armarios2" width="600" height="450" />
+  <img class="alignnone size-full wp-image-12954" src="https://www.trololodemulher.com.br/2016/09/DECORACAO-COZINHA-MOVEIS-ARMARIOS2.jpg" alt="decoracao-cozinha-moveis-armarios2" width="600" height="450" />
 </p>
 
 &nbsp;
@@ -104,29 +101,29 @@ As dicas da Carol Carneiro foram as seguintes:
 > </p>
 > 
 > <p align="justify">
->   <strong><a href="http://www.bichafemea.com/2011/08/01/movel-usado-antigo-restauracao/" target="_blank">Móvel usado e antigo: dá mesmo para repaginá-lo?</a></strong>
+>   <strong><a href="http://www.bichafemea.com/2011/08/01/movel-usado-antigo-restauracao/" target="_blank" rel="noopener noreferrer">Móvel usado e antigo: dá mesmo para repaginá-lo?</a></strong>
 > </p>
 > 
 > <p align="justify">
->   <strong><a href="http://www.bichafemea.com/2012/07/04/adesivo-carro-decoracao/" target="_blank">É possível usar adesivos de envelopar carros na decoração da casa?</a></strong>
+>   <strong><a href="http://www.bichafemea.com/2012/07/04/adesivo-carro-decoracao/" target="_blank" rel="noopener noreferrer">É possível usar adesivos de envelopar carros na decoração da casa?</a></strong>
 > </p>
 > 
 > <p align="justify">
->   <strong><a href="http://www.bichafemea.com/2011/07/12/decoracao-faca-voce-mesma-2/" target="_blank">Quer uma mesinha? Improvisa!</a></strong>
+>   <strong><a href="http://www.bichafemea.com/2011/07/12/decoracao-faca-voce-mesma-2/" target="_blank" rel="noopener noreferrer">Quer uma mesinha? Improvisa!</a></strong>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12959" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/CAROL-CARNEIRO-DESIGNER-DE-INTERIORES-BELO-HORIZONTE-MG.jpg" alt="carol-carneiro-designer-de-interiores-belo-horizonte-mg" width="800" height="187" />
+  <img class="alignnone size-full wp-image-12959" src="https://www.trololodemulher.com.br/2016/09/CAROL-CARNEIRO-DESIGNER-DE-INTERIORES-BELO-HORIZONTE-MG.jpg" alt="carol-carneiro-designer-de-interiores-belo-horizonte-mg" width="800" height="187" />
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Carol Carneiro é uma Designer de Ambientes apaixonada por reutilização de materiais. <a href="http://blogcarolcarneiro.blogspot.com.br/" target="_blank">No blog que ela edita</a> dá pra ver muito mais do que ela já andou produzindo, além de suas ideias transformadas em posts. Além disso, há muito mais em <a href="https://www.facebook.com/Blog-Carol-Carneiro-185450341509448/" target="_blank">sua página no Facebook. É só clicar aqui</a>, curtir e acompanhar.
+  Carol Carneiro é uma Designer de Ambientes apaixonada por reutilização de materiais. <a href="http://blogcarolcarneiro.blogspot.com.br/" target="_blank" rel="noopener noreferrer">No blog que ela edita</a> dá pra ver muito mais do que ela já andou produzindo, além de suas ideias transformadas em posts. Além disso, há muito mais em <a href="https://www.facebook.com/Blog-Carol-Carneiro-185450341509448/" target="_blank" rel="noopener noreferrer">sua página no Facebook. É só clicar aqui</a>, curtir e acompanhar.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

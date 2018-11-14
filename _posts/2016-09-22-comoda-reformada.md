@@ -1,10 +1,7 @@
 ---
-id: 3665
 title: Como uma cômoda reformada ganha nova função?
-date: 2016-09-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/09/22/comoda-reformada/
 permalink: /2016/09/22/comoda-reformada/
 categories:
   - Casa
@@ -26,19 +23,19 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12938" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/DECORACAO-FACA-VOCE-MESMA-ENTRADA-HALL.jpg" alt="decoracao-faca-voce-mesma-entrada-hall" width="600" height="434" />
+  <img class="alignnone size-full wp-image-12938" src="https://www.trololodemulher.com.br/2016/09/DECORACAO-FACA-VOCE-MESMA-ENTRADA-HALL.jpg" alt="decoracao-faca-voce-mesma-entrada-hall" width="600" height="434" />
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;" align="justify">
-  Se você tem um móvel e quer mudar a cor dele, comece por seguir algumas <strong><a href="http://www.bichafemea.com/2011/08/01/movel-usado-antigo-restauracao/" target="_blank">dicas da Margaret para reformas de móveis pela pintura</a></strong>. Depois faça como a Lyn, escolha um revestimento, a exemplo do papel <em>contact</em>, e arrase!
+  Se você tem um móvel e quer mudar a cor dele, comece por seguir algumas <strong><a href="http://www.bichafemea.com/2011/08/01/movel-usado-antigo-restauracao/" target="_blank" rel="noopener noreferrer">dicas da Margaret para reformas de móveis pela pintura</a></strong>. Depois faça como a Lyn, escolha um revestimento, a exemplo do papel <em>contact</em>, e arrase!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12939" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/DECORACAO-FACA-VOCE-MESMA-ENTRADA-HALL2.jpg" alt="decoracao-faca-voce-mesma-entrada-hall2" width="600" height="800" />
+  <img class="alignnone size-full wp-image-12939" src="https://www.trololodemulher.com.br/2016/09/DECORACAO-FACA-VOCE-MESMA-ENTRADA-HALL2.jpg" alt="decoracao-faca-voce-mesma-entrada-hall2" width="600" height="800" />
 </p>
 
 &nbsp;
@@ -46,5 +43,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

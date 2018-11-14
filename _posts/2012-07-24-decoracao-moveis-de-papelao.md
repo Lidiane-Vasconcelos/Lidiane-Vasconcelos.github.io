@@ -1,10 +1,7 @@
 ---
-id: 3159
 title: Já imaginou compor sua decoração com móveis de papelão?
-date: 2012-07-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/07/24/decoracao-moveis-de-papelao/
 permalink: /2012/07/24/decoracao-moveis-de-papelao/
 categories:
   - Dicas de Decoração
@@ -21,7 +18,7 @@ Pois pode parar de imaginar porque isso, bonita, hoje em dia, é algo bem real. 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/07/24/decoracao-moveis-de-papelao/decoracao-moveis-papelao/" rel="attachment wp-att-8912"><img class="alignnone size-full wp-image-8912" title="DECORACAO-MOVEIS-PAPELAO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/DECORACAO-MOVEIS-PAPELAO.png" alt="" width="555" height="189" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/24/decoracao-moveis-de-papelao/decoracao-moveis-papelao/" rel="attachment wp-att-8912"><img class="alignnone size-full wp-image-8912" title="DECORACAO-MOVEIS-PAPELAO" src="https://www.trololodemulher.com.br/2012/07/DECORACAO-MOVEIS-PAPELAO.png" alt="" width="555" height="189" /></a>
 </p>
 
 &nbsp;
@@ -43,7 +40,7 @@ Pois pode parar de imaginar porque isso, bonita, hoje em dia, é algo bem real. 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2012/07/24/decoracao-moveis-de-papelao/decoracao-moveis-papelao2/" rel="attachment wp-att-8917"><img class="alignnone size-full wp-image-8917" title="DECORACAO-MOVEIS-PAPELAO[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/DECORACAO-MOVEIS-PAPELAO2-.jpg" alt="" width="600" height="141" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/24/decoracao-moveis-de-papelao/decoracao-moveis-papelao2/" rel="attachment wp-att-8917"><img class="alignnone size-full wp-image-8917" title="DECORACAO-MOVEIS-PAPELAO[2]" src="https://www.trololodemulher.com.br/2012/07/DECORACAO-MOVEIS-PAPELAO2-.jpg" alt="" width="600" height="141" /></a>
 </p>
 
 &nbsp;
@@ -69,7 +66,7 @@ Pois pode parar de imaginar porque isso, bonita, hoje em dia, é algo bem real. 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/07/24/decoracao-moveis-de-papelao/decoracao-moveis-papelao3/" rel="attachment wp-att-8914"><img class="alignnone size-full wp-image-8914" title="DECORACAO-MOVEIS-PAPELAO[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/DECORACAO-MOVEIS-PAPELAO3.png" alt="" width="552" height="170" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/24/decoracao-moveis-de-papelao/decoracao-moveis-papelao3/" rel="attachment wp-att-8914"><img class="alignnone size-full wp-image-8914" title="DECORACAO-MOVEIS-PAPELAO[3]" src="https://www.trololodemulher.com.br/2012/07/DECORACAO-MOVEIS-PAPELAO3.png" alt="" width="552" height="170" /></a>
 </p>
 
 &nbsp;

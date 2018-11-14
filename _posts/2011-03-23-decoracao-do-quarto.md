@@ -1,10 +1,7 @@
 ---
-id: 2968
 title: 3 dicas para deixar a decoração do quarto mais romântica…
-date: 2011-03-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/03/23/decoracao-do-quarto/
 permalink: /2011/03/23/decoracao-do-quarto/
 categories:
   - Quarto
@@ -18,7 +15,7 @@ Seu **quarto**, além de descanso, é também seu lugar preferido para namorar? 
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-de-quarto-romantico.jpg"><img class="alignnone size-full wp-image-6110" title="decoração de quarto romântico" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-de-quarto-romantico.jpg" alt="" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-de-quarto-romantico.jpg"><img class="alignnone size-full wp-image-6110" title="decoração de quarto romântico" src="https://www.trololodemulher.com.br/2011/03/decoracao-de-quarto-romantico.jpg" alt="" width="550" height="550" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -26,7 +23,7 @@ Seu **quarto**, além de descanso, é também seu lugar preferido para namorar? 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-de-quarto-romantico1.jpg"><img class="alignnone size-full wp-image-6111" title="decoração de quarto romântico[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-de-quarto-romantico1.jpg" alt="" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-de-quarto-romantico1.jpg"><img class="alignnone size-full wp-image-6111" title="decoração de quarto romântico[1]" src="https://www.trololodemulher.com.br/2011/03/decoracao-de-quarto-romantico1.jpg" alt="" width="550" height="550" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -34,14 +31,14 @@ Seu **quarto**, além de descanso, é também seu lugar preferido para namorar? 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-de-quarto-romantico2.jpg"><img class="alignnone size-full wp-image-6112" title="decoração de quarto romântico[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-de-quarto-romantico2.jpg" alt="" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-de-quarto-romantico2.jpg"><img class="alignnone size-full wp-image-6112" title="decoração de quarto romântico[2]" src="https://www.trololodemulher.com.br/2011/03/decoracao-de-quarto-romantico2.jpg" alt="" width="550" height="550" /></a>
 </p>
 
 <p style="text-align: justify;">
   Você ainda tem dúvidas do quanto a <strong>meia luz</strong> pode favorecer a decoração do seu quarto para proporcionar a sensação de romantismo no ar? Se no curto prazo não dá para preparar o quarto com recursos como arandelas ou abajures, capriche nas <strong>velas</strong>! E vá além: escolha <strong>velas aromáticas</strong>. De dia elas enfeitam o espaço, e de noite elas reinam absolutas como suas aliadas para ir além do romantismo&#8230;inspire-se!
 </p>
 
-Imagens: <a href="http://www.housetohome.co.uk/" target="_blank">HouseToHome</a>
+Imagens: <a href="http://www.housetohome.co.uk/" target="_blank" rel="noopener noreferrer">HouseToHome</a>
 
 **Mais no Bicha Fêmea…**
 

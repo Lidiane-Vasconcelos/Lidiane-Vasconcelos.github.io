@@ -1,10 +1,7 @@
 ---
-id: 3057
 title: Bisteca de porco com purê de abóbora
-date: 2011-09-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/09/28/bisteca-porco-pure-abobora/
 permalink: /2011/09/28/bisteca-porco-pure-abobora/
 categories:
   - Receitas
@@ -24,7 +21,7 @@ A receita é de uma bistequinha de porco acompanhada de um delicioso purê de ab
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/bisteca-de-porco-com-pure-de-abobora.jpg"><img class="alignnone size-full wp-image-6961" title="bisteca de porco com purê de abóbora" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/bisteca-de-porco-com-pure-de-abobora.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/09/bisteca-de-porco-com-pure-de-abobora.jpg"><img class="alignnone size-full wp-image-6961" title="bisteca de porco com purê de abóbora" src="https://www.trololodemulher.com.br/2011/09/bisteca-de-porco-com-pure-de-abobora.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p align="justify">
@@ -85,13 +82,13 @@ A receita é de uma bistequinha de porco acompanhada de um delicioso purê de ab
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Gleici-Schiavo200.jpg"><img class="alignnone size-thumbnail wp-image-6965" title="Gleici Schiavo200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Gleici-Schiavo200-150x150.jpg" alt="" width="150" height="150" /></a>
+        <a href="https://www.trololodemulher.com.br/2011/09/Gleici-Schiavo200.jpg"><img class="alignnone size-thumbnail wp-image-6965" title="Gleici Schiavo200" src="https://www.trololodemulher.com.br/2011/09/Gleici-Schiavo200-150x150.jpg" alt="" width="150" height="150" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="justify">
-        <em>Eu, Gleici Schiavo, sou uma mãe, esposa e dona de casa apaixonada por essas duas artes: cozinha e artesanato. Resolvi juntar minhas duas paixões em um único blog [ <strong><a href="http://cozinhaefofurices.blogspot.com/" target="_blank">Cozinha e Fofurices</a></strong> ] onde o carinho e o respeito estão em primeiro lugar, e cada post é preparado com muito amor. Será um grande prazer tê-las como amigas!</em>
+        <em>Eu, Gleici Schiavo, sou uma mãe, esposa e dona de casa apaixonada por essas duas artes: cozinha e artesanato. Resolvi juntar minhas duas paixões em um único blog [ <strong><a href="http://cozinhaefofurices.blogspot.com/" target="_blank" rel="noopener noreferrer">Cozinha e Fofurices</a></strong> ] onde o carinho e o respeito estão em primeiro lugar, e cada post é preparado com muito amor. Será um grande prazer tê-las como amigas!</em>
       </p>
     </td>
   </tr>
@@ -109,12 +106,12 @@ A receita é de uma bistequinha de porco acompanhada de um delicioso purê de ab
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/pimenta200.jpg"><img class="alignnone size-full wp-image-6735" title="green peper isolated on white" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/pimenta200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/08/12/blogs-de-culinaria/"><span style="font-size: small;">Você gosta de blogs de culinária?</span></a></strong>
+        <a href="https://www.trololodemulher.com.br/2011/08/pimenta200.jpg"><img class="alignnone size-full wp-image-6735" title="green peper isolated on white" src="https://www.trololodemulher.com.br/2011/08/pimenta200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/08/12/blogs-de-culinaria/"><span style="font-size: small;">Você gosta de blogs de culinária?</span></a></strong>
       </p>
     </td>
     
     <td style="text-align: center;" valign="top" width="300">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/pitadinha200.jpg"><img class="alignnone size-full wp-image-5544" title="pitadinha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/pitadinha200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2010/12/01/video-receita-barrita-de-coco/"><span style="font-size: small;">Video-receita: Barrita de Coco</span></a></strong>
+      <a href="https://www.trololodemulher.com.br/2010/11/pitadinha200.jpg"><img class="alignnone size-full wp-image-5544" title="pitadinha200" src="https://www.trololodemulher.com.br/2010/11/pitadinha200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2010/12/01/video-receita-barrita-de-coco/"><span style="font-size: small;">Video-receita: Barrita de Coco</span></a></strong>
     </td>
   </tr>
 </table>
@@ -123,13 +120,13 @@ A receita é de uma bistequinha de porco acompanhada de um delicioso purê de ab
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/video-dica-sobre-conservacao-de-bananas200.jpg"><img class="alignnone size-full wp-image-5229" title="vídeo-dica sobre conservação de bananas200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/video-dica-sobre-conservacao-de-bananas200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2010/09/24/video-dica-conservar-bananas/"><span style="font-size: small;">Video-dica: como conservar bananas por mais tempo…</span></a></strong>
+        <a href="https://www.trololodemulher.com.br/2010/09/video-dica-sobre-conservacao-de-bananas200.jpg"><img class="alignnone size-full wp-image-5229" title="vídeo-dica sobre conservação de bananas200" src="https://www.trololodemulher.com.br/2010/09/video-dica-sobre-conservacao-de-bananas200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2010/09/24/video-dica-conservar-bananas/"><span style="font-size: small;">Video-dica: como conservar bananas por mais tempo…</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Macarrao-da-preguica200.jpg"><img class="alignnone size-full wp-image-5201" title="Macarrão da preguiça200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Macarrao-da-preguica200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2010/09/15/video-receita-macarrao/"><span style="font-size: small;">Video-receita do Macarrão da Preguiça</span></a></strong>
+        <a href="https://www.trololodemulher.com.br/2010/09/Macarrao-da-preguica200.jpg"><img class="alignnone size-full wp-image-5201" title="Macarrão da preguiça200" src="https://www.trololodemulher.com.br/2010/09/Macarrao-da-preguica200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2010/09/15/video-receita-macarrao/"><span style="font-size: small;">Video-receita do Macarrão da Preguiça</span></a></strong>
       </p>
     </td>
   </tr>

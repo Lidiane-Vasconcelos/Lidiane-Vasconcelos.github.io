@@ -1,10 +1,7 @@
 ---
-id: 3436
 title: 'O amor está online: com wi-fi &#038; muito carinho.'
-date: 2015-06-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/06/12/amor-online/
 permalink: /2015/06/12/amor-online/
 categories:
   - Comportamento
@@ -20,11 +17,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/COMPORTAMENTO-CASAMENTO-RELACIONAMENTO-DIA-DOS-NAMORADOS2.jpg"><img class="alignnone size-full wp-image-11038" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/COMPORTAMENTO-CASAMENTO-RELACIONAMENTO-DIA-DOS-NAMORADOS2.jpg" alt="COMPORTAMENTO-CASAMENTO-RELACIONAMENTO-DIA DOS NAMORADOS[2]" width="800" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/COMPORTAMENTO-CASAMENTO-RELACIONAMENTO-DIA-DOS-NAMORADOS2.jpg"><img class="alignnone size-full wp-image-11038" src="https://www.trololodemulher.com.br/2015/06/COMPORTAMENTO-CASAMENTO-RELACIONAMENTO-DIA-DOS-NAMORADOS2.jpg" alt="COMPORTAMENTO-CASAMENTO-RELACIONAMENTO-DIA DOS NAMORADOS[2]" width="800" height="800" /></a>
 </p>
 
 <p align="center">
-  <em>Margaret, 55 anos & Bi, 55 anos. Ela, proprietária da empresa <a href="http://divitae.com.br/" target="_blank">Divitae</a>. Ele, sócio da sua amada. Juntos desde 2001, formam um dos casais mais divertidos que talvez você ainda não tenha conhecido. Só acompanhando pra entender do que estou falando&#8230;</em>
+  <em>Margaret, 55 anos & Bi, 55 anos. Ela, proprietária da empresa <a href="http://divitae.com.br/" target="_blank" rel="noopener noreferrer">Divitae</a>. Ele, sócio da sua amada. Juntos desde 2001, formam um dos casais mais divertidos que talvez você ainda não tenha conhecido. Só acompanhando pra entender do que estou falando&#8230;</em>
 </p>
 
 <p align="justify">
@@ -52,15 +49,15 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/COMPORTAMENTO-CASAMENTO-RELACIONAMENTO-DIA-DOS-NAMORADOS.jpg"><img class="alignnone size-full wp-image-11037" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/COMPORTAMENTO-CASAMENTO-RELACIONAMENTO-DIA-DOS-NAMORADOS.jpg" alt="COMPORTAMENTO-CASAMENTO-RELACIONAMENTO-DIA DOS NAMORADOS" width="800" height="533" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/COMPORTAMENTO-CASAMENTO-RELACIONAMENTO-DIA-DOS-NAMORADOS.jpg"><img class="alignnone size-full wp-image-11037" src="https://www.trololodemulher.com.br/2015/06/COMPORTAMENTO-CASAMENTO-RELACIONAMENTO-DIA-DOS-NAMORADOS.jpg" alt="COMPORTAMENTO-CASAMENTO-RELACIONAMENTO-DIA DOS NAMORADOS" width="800" height="533" /></a>
 </p>
 
 <p align="center">
-  Foto de <a href="http://betabernardo.com/" target="_blank">Beta Bernardo</a>
+  Foto de <a href="http://betabernardo.com/" target="_blank" rel="noopener noreferrer">Beta Bernardo</a>
 </p>
 
 <p align="center">
-  <em>Evinha, 32 anos & Eder, 52 anos. Ela, proprietária da empresa <a href="http://www.lojalapomme.com.br/" target="_blank">La Pomme</a>. Ele, sócio da Eva. Juntos há 15 anos, os dois formam um casal cheio de sensibilidade e, juntos, imprimem delicadezas de um jeito só deles. É bom acompanhá-los!</em>
+  <em>Evinha, 32 anos & Eder, 52 anos. Ela, proprietária da empresa <a href="http://www.lojalapomme.com.br/" target="_blank" rel="noopener noreferrer">La Pomme</a>. Ele, sócio da Eva. Juntos há 15 anos, os dois formam um casal cheio de sensibilidade e, juntos, imprimem delicadezas de um jeito só deles. É bom acompanhá-los!</em>
 </p>
 
 <p align="justify">
@@ -88,11 +85,11 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/COMPORTAMENTO-CASAMENTO-RELACIONAMENTO-DIA-DOS-NAMORADOS3.jpg"><img class="alignnone size-full wp-image-11045" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/COMPORTAMENTO-CASAMENTO-RELACIONAMENTO-DIA-DOS-NAMORADOS3.jpg" alt="COMPORTAMENTO-CASAMENTO-RELACIONAMENTO-DIA DOS NAMORADOS[3]" width="720" height="540" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/COMPORTAMENTO-CASAMENTO-RELACIONAMENTO-DIA-DOS-NAMORADOS3.jpg"><img class="alignnone size-full wp-image-11045" src="https://www.trololodemulher.com.br/2015/06/COMPORTAMENTO-CASAMENTO-RELACIONAMENTO-DIA-DOS-NAMORADOS3.jpg" alt="COMPORTAMENTO-CASAMENTO-RELACIONAMENTO-DIA DOS NAMORADOS[3]" width="720" height="540" /></a>
 </p>
 
 <p align="center">
-  <em>Jê, jura que tem 34 anos & Sérgio, de acordo com a certeza (quase incerta) de Jê, 40 anos. Ela, costureira e designer na </em><a href="http://www.dreamsfactorybyjeane.com/" target="_blank"><em>Dreams Factory</em></a><em>. Ele, gerente de projeto na área de programação. Juntos desde 1999, quando se conheceram pela internet, casaram em 2002 e, desde então, formam um casal nordestino (ela de RN e ele de PE) superultramega bem humorado. Quem acompanha os diálogos do marido e da marida, comandados pela Jê lá no </em><a href="https://www.facebook.com/DreamsFactoryByJeane/timeline" target="_blank"><em>Facebook</em></a><em>, não se aguenta em si de tanto que ri. Confere!</em>
+  <em>Jê, jura que tem 34 anos & Sérgio, de acordo com a certeza (quase incerta) de Jê, 40 anos. Ela, costureira e designer na </em><a href="http://www.dreamsfactorybyjeane.com/" target="_blank" rel="noopener noreferrer"><em>Dreams Factory</em></a><em>. Ele, gerente de projeto na área de programação. Juntos desde 1999, quando se conheceram pela internet, casaram em 2002 e, desde então, formam um casal nordestino (ela de RN e ele de PE) superultramega bem humorado. Quem acompanha os diálogos do marido e da marida, comandados pela Jê lá no </em><a href="https://www.facebook.com/DreamsFactoryByJeane/timeline" target="_blank" rel="noopener noreferrer"><em>Facebook</em></a><em>, não se aguenta em si de tanto que ri. Confere!</em>
 </p>
 
 &nbsp;
@@ -126,17 +123,17 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/05/22/casamento-conselhos/" target="_blank"><strong>Casamento: os conselhos mais inteligentes. Já leu?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/05/22/casamento-conselhos/" target="_blank" rel="noopener noreferrer"><strong>Casamento: os conselhos mais inteligentes. Já leu?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/10/18/casamento-duradouro-segredo/" target="_blank"><strong>Casamento duradouro: isto tem algum segredo?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/10/18/casamento-duradouro-segredo/" target="_blank" rel="noopener noreferrer"><strong>Casamento duradouro: isto tem algum segredo?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/06/30/casamento-2/" target="_blank"><strong>Há vida após o casamento?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/06/30/casamento-2/" target="_blank" rel="noopener noreferrer"><strong>Há vida após o casamento?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

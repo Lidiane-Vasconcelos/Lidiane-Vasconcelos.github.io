@@ -1,10 +1,7 @@
 ---
-id: 3750
 title: 'Relato de parto: empoderamento e limites!'
-date: 2017-04-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/04/12/relato-de-parto/
 permalink: /2017/04/12/relato-de-parto/
 categories:
   - Maternidade
@@ -15,7 +12,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13709" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/RELATO-DE-PARTO.jpg" alt="RELATO DE PARTO" width="766" height="118" />
+  <img class="alignnone size-full wp-image-13709" src="https://www.trololodemulher.com.br/2017/04/RELATO-DE-PARTO.jpg" alt="RELATO DE PARTO" width="766" height="118" />
 </p>
 
 <p align="justify">
@@ -41,7 +38,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13700" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO2800.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO[2]800" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13700" src="https://www.trololodemulher.com.br/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO2800.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO[2]800" width="800" height="800" />
 </p>
 
 <p align="justify">
@@ -59,7 +56,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13696" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO" width="720" height="960" />
+  <img class="alignnone size-full wp-image-13696" src="https://www.trololodemulher.com.br/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO" width="720" height="960" />
 </p>
 
 <p align="justify">
@@ -91,23 +88,23 @@ Lembrei que manejamos o leme e as velas, mas não temos nenhum controle sobre o 
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13702" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO4.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO[4]" width="720" height="960" />
+  <img class="alignnone size-full wp-image-13702" src="https://www.trololodemulher.com.br/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO4.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO[4]" width="720" height="960" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13703" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO5.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO[5]" width="800" height="600" />
+  <img class="alignnone size-full wp-image-13703" src="https://www.trololodemulher.com.br/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO5.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO[5]" width="800" height="600" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13704" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO6.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO[6]" width="720" height="960" />
+  <img class="alignnone size-full wp-image-13704" src="https://www.trololodemulher.com.br/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO6.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO[6]" width="720" height="960" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13705" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO7.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO[7]" width="720" height="960" />
+  <img class="alignnone size-full wp-image-13705" src="https://www.trololodemulher.com.br/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO7.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO[7]" width="720" height="960" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13708" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO10.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO[10]" width="720" height="960" />
+  <img class="alignnone size-full wp-image-13708" src="https://www.trololodemulher.com.br/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO10.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO[10]" width="720" height="960" />
 </p>
 
 <p align="justify">
@@ -115,23 +112,23 @@ Lembrei que manejamos o leme e as velas, mas não temos nenhum controle sobre o 
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13701" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO3.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO[3]" width="800" height="600" />
+  <img class="alignnone size-full wp-image-13701" src="https://www.trololodemulher.com.br/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO3.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO[3]" width="800" height="600" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13706" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO8.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO[8]" width="800" height="600" />
+  <img class="alignnone size-full wp-image-13706" src="https://www.trololodemulher.com.br/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO8.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO[8]" width="800" height="600" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13707" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO9.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO[9]" width="720" height="960" />
+  <img class="alignnone size-full wp-image-13707" src="https://www.trololodemulher.com.br/2017/04/RELATO-DE-PARTO-PARTO-HUMANIZADO9.jpg" alt="RELATO DE PARTO-PARTO HUMANIZADO[9]" width="720" height="960" />
 </p>
 
 <p align="justify">
-  <em>Obrigada a Dr </em><a href="https://www.facebook.com/thiagocpsaraiva" target="_blank"><em>Thiago Cesar Parente Saraiva</em></a><em> e toda sua equipe! Obrigada Dr </em><a href="https://www.facebook.com/guilherme.urben" target="_blank"><em>Guilherme Urben</em></a><em> que o trouxe direto para os meus braços, aguardou o pulsar do cordão umbilical e o fez mamar assim que nasceu! Obrigada Guilherme, meu Pi, que me apoiou, esteve comigo todo o tempo, que me fazia rir, que &#8220;doulava&#8221;, que foi um parceiro fiel. Obrigada </em><a href="https://www.facebook.com/ana.katzschuler" target="_blank"><em>Ana Katz Schuler</em></a><em>, doula e companheira de um dos momentos mais felizes da minha vida. Obrigada a tia Margaridinha que registrou esse momento mágico! Obrigada a todos que rezaram e torceram por nós! Faria tudo de novo!!!”</em>
+  <em>Obrigada a Dr </em><a href="https://www.facebook.com/thiagocpsaraiva" target="_blank" rel="noopener noreferrer"><em>Thiago Cesar Parente Saraiva</em></a><em> e toda sua equipe! Obrigada Dr </em><a href="https://www.facebook.com/guilherme.urben" target="_blank" rel="noopener noreferrer"><em>Guilherme Urben</em></a><em> que o trouxe direto para os meus braços, aguardou o pulsar do cordão umbilical e o fez mamar assim que nasceu! Obrigada Guilherme, meu Pi, que me apoiou, esteve comigo todo o tempo, que me fazia rir, que &#8220;doulava&#8221;, que foi um parceiro fiel. Obrigada </em><a href="https://www.facebook.com/ana.katzschuler" target="_blank" rel="noopener noreferrer"><em>Ana Katz Schuler</em></a><em>, doula e companheira de um dos momentos mais felizes da minha vida. Obrigada a tia Margaridinha que registrou esse momento mágico! Obrigada a todos que rezaram e torceram por nós! Faria tudo de novo!!!”</em>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

@@ -1,10 +1,7 @@
 ---
-id: 3528
 title: Jê Souza Pereira, aquela que leva uma vida tranquila…
-date: 2016-01-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/01/15/je-souza-pereira/
 permalink: /2016/01/15/je-souza-pereira/
 categories:
   - Comportamento
@@ -12,7 +9,7 @@ categories:
   - Entrevistas
 ---
 <p align="justify">
-  … não tem medo do mundo, nem da vida, e busca não se preocupar. Jê Souza Pereira está em paz, porque reconhece as dádivas que tem recebido, apesar de algumas tempestades pelas quais já passou. Essa é, inclusive, a razão de sua felicidade: ela é grata. Jê é uma mulher forte, determinada, guerreira. Ela é gente que inspira, e por isso eu quis trazê-la mais uma vez aqui, no Trololó de Mulher. Ela já esteve no blog falando sobre negócios, carreira e empreendedorismo, quando explicou <em>tim tim por tim tim</em> <a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank">como transformar um <em>hobby</em> em trabalho e ganhar dinheiro com isso</a>. Dessa vez eu queria desnudar um pouco mais seu lado pessoal, mostrar suas ideias sobre a vida… e eu queria compartilhar isso contigo, porque sei que você enxergará algo muito valioso nisso tudo. Pode apostar que sim!
+  … não tem medo do mundo, nem da vida, e busca não se preocupar. Jê Souza Pereira está em paz, porque reconhece as dádivas que tem recebido, apesar de algumas tempestades pelas quais já passou. Essa é, inclusive, a razão de sua felicidade: ela é grata. Jê é uma mulher forte, determinada, guerreira. Ela é gente que inspira, e por isso eu quis trazê-la mais uma vez aqui, no Trololó de Mulher. Ela já esteve no blog falando sobre negócios, carreira e empreendedorismo, quando explicou <em>tim tim por tim tim</em> <a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank" rel="noopener noreferrer">como transformar um <em>hobby</em> em trabalho e ganhar dinheiro com isso</a>. Dessa vez eu queria desnudar um pouco mais seu lado pessoal, mostrar suas ideias sobre a vida… e eu queria compartilhar isso contigo, porque sei que você enxergará algo muito valioso nisso tudo. Pode apostar que sim!
 </p>
 
 <p align="justify">
@@ -68,7 +65,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11796" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/01/JE-SOUZA-PEREIRA-DREAMS-FACTORY.jpg" alt="JE SOUZA PEREIRA-DREAMS FACTORY" width="800" height="597" />
+  <img class="alignnone size-full wp-image-11796" src="https://www.trololodemulher.com.br/2016/01/JE-SOUZA-PEREIRA-DREAMS-FACTORY.jpg" alt="JE SOUZA PEREIRA-DREAMS FACTORY" width="800" height="597" />
 </p>
 
 <p align="center">
@@ -107,15 +104,15 @@ categories:
 </p>
 
 <p style="text-align: center;" align="justify">
-  Via <a href="https://www.youtube.com/channel/UCMScjLgIvSfgXYwxEUMHZew" target="_blank">Marco Paschoal</a>
+  Via <a href="https://www.youtube.com/channel/UCMScjLgIvSfgXYwxEUMHZew" target="_blank" rel="noopener noreferrer">Marco Paschoal</a>
 </p>
 
 <p align="justify">
-  Jê está espalhada pela internet e você pode vê-la nos lugares mais agitados. Confira o que essa moça vem desenvolvendo, aprenda muito mais com ela e comece a trilhar o seu caminho também, fazendo de suas habilidades manuais um meio para ganhar o seu sustento. Impossível não é… e pra começar: <a href="https://www.facebook.com/DreamsFactoryByJeane" target="_blank">curta a fanpage Dreams Facotory no Facebook</a>, acompanhe o <a href="http://www.dreamsfactorybyjeane.com/" target="_blank">blog da Jê</a> e <a href="https://www.youtube.com/user/DreamsFactoryByJeane" target="_blank">inscreva-se no canal da Jê no Youtube</a>, re-ple-to de vídeos com PAPs, dicas e muito mais.
+  Jê está espalhada pela internet e você pode vê-la nos lugares mais agitados. Confira o que essa moça vem desenvolvendo, aprenda muito mais com ela e comece a trilhar o seu caminho também, fazendo de suas habilidades manuais um meio para ganhar o seu sustento. Impossível não é… e pra começar: <a href="https://www.facebook.com/DreamsFactoryByJeane" target="_blank" rel="noopener noreferrer">curta a fanpage Dreams Facotory no Facebook</a>, acompanhe o <a href="http://www.dreamsfactorybyjeane.com/" target="_blank" rel="noopener noreferrer">blog da Jê</a> e <a href="https://www.youtube.com/user/DreamsFactoryByJeane" target="_blank" rel="noopener noreferrer">inscreva-se no canal da Jê no Youtube</a>, re-ple-to de vídeos com PAPs, dicas e muito mais.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

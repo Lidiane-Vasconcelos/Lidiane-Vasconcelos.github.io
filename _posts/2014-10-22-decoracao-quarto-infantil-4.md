@@ -1,10 +1,7 @@
 ---
-id: 3360
 title: 'Decoração do quarto infantil: 2 ideias “faça você mesma”.'
-date: 2014-10-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/10/22/decoracao-quarto-infantil-4/
 permalink: /2014/10/22/decoracao-quarto-infantil-4/
 categories:
   - Decoração
@@ -20,15 +17,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/09/19/quarto-infantil-decorado/" target="_blank"><strong>Quarto infantil decorado com afetividade</strong></a><strong>.</strong>
+  <a href="http://www.trololodemulher.com.br/2014/09/19/quarto-infantil-decorado/" target="_blank" rel="noopener noreferrer"><strong>Quarto infantil decorado com afetividade</strong></a><strong>.</strong>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/29/decoracao-quarto-infantil-2/" target="_blank"><strong>Dica de decoração infantil que sua criança pode fazer.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/05/29/decoracao-quarto-infantil-2/" target="_blank" rel="noopener noreferrer"><strong>Dica de decoração infantil que sua criança pode fazer.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-infantil/" target="_blank"><strong>Decoração infantil: enfeite de tecido para o quarto ou festa.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-infantil/" target="_blank" rel="noopener noreferrer"><strong>Decoração infantil: enfeite de tecido para o quarto ou festa.</strong></a>
 </p>
 
 <p align="justify">
@@ -36,7 +33,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-QUARTO-INFANTIL-FACA-VOCE-MESMA-MENINO.jpg"><img class="alignnone size-full wp-image-10512" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-QUARTO-INFANTIL-FACA-VOCE-MESMA-MENINO.jpg" alt="DECORACAO-QUARTO INFANTIL-FACA VOCE MESMA-MENINO" width="636" height="477" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/DECORACAO-QUARTO-INFANTIL-FACA-VOCE-MESMA-MENINO.jpg"><img class="alignnone size-full wp-image-10512" src="https://www.trololodemulher.com.br/2014/10/DECORACAO-QUARTO-INFANTIL-FACA-VOCE-MESMA-MENINO.jpg" alt="DECORACAO-QUARTO INFANTIL-FACA VOCE MESMA-MENINO" width="636" height="477" /></a>
 </p>
 
 <p align="justify">
@@ -52,19 +49,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-teto-quarto-infantil/" target="_blank"><strong>5 ideias de decoração para o teto do quarto infantil: é pura diversão!</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-teto-quarto-infantil/" target="_blank" rel="noopener noreferrer"><strong>5 ideias de decoração para o teto do quarto infantil: é pura diversão!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-3/" target="_blank"><strong>Como brincar com as cores na decoração do quarto infantil?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-3/" target="_blank" rel="noopener noreferrer"><strong>Como brincar com as cores na decoração do quarto infantil?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cortina-quarto-infantil/" target="_blank"><strong>Cortina de bolinhas em quarto infantil: faça você mesma!</strong></a>
+  <a href="http://www.decoracaodacasa.com/cortina-quarto-infantil/" target="_blank" rel="noopener noreferrer"><strong>Cortina de bolinhas em quarto infantil: faça você mesma!</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-QUARTO-INFANTIL-FACA-VOCE-MESMA-MENINA.jpg"><img class="alignnone size-full wp-image-10511" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-QUARTO-INFANTIL-FACA-VOCE-MESMA-MENINA.jpg" alt="DECORACAO-QUARTO INFANTIL-FACA VOCE MESMA-MENINA" width="636" height="477" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/DECORACAO-QUARTO-INFANTIL-FACA-VOCE-MESMA-MENINA.jpg"><img class="alignnone size-full wp-image-10511" src="https://www.trololodemulher.com.br/2014/10/DECORACAO-QUARTO-INFANTIL-FACA-VOCE-MESMA-MENINA.jpg" alt="DECORACAO-QUARTO INFANTIL-FACA VOCE MESMA-MENINA" width="636" height="477" /></a>
 </p>
 
 <p align="justify">
@@ -76,23 +73,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/papel-parede-infantil/" target="_blank"><strong>Papel de parede infantil: divertidos, didáticos e criativos.</strong></a>
+  <a href="http://www.decoracaodacasa.com/papel-parede-infantil/" target="_blank" rel="noopener noreferrer"><strong>Papel de parede infantil: divertidos, didáticos e criativos.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank"><strong>2 ideias para festa ou decoração infantil: faça você mesma.</strong></a>
+  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank" rel="noopener noreferrer"><strong>2 ideias para festa ou decoração infantil: faça você mesma.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-2/" target="_blank"><strong>Decoração da cabeceira infantil: ideias práticas, simples e divertidas!</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-2/" target="_blank" rel="noopener noreferrer"><strong>Decoração da cabeceira infantil: ideias práticas, simples e divertidas!</strong></a>
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.ivillage.com/" target="_blank">ivillage</a>
+  Imagens: <a href="http://www.ivillage.com/" target="_blank" rel="noopener noreferrer">ivillage</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

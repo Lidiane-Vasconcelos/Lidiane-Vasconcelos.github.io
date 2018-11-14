@@ -1,10 +1,7 @@
 ---
-id: 3868
 title: Como morar melhor, de maneira mais simples?
-date: 2018-06-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2018/06/19/morar-melhor/
 permalink: /2018/06/19/morar-melhor/
 categories:
   - Bem-estar
@@ -24,11 +21,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14648" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/06/CASA-DECORACAO-SIMPLICIDADE-VOLUNTARIA-VIDA-SIMPLES-BEM-VIVER-BLOG.jpg" alt="CASA-DECORACAO-SIMPLICIDADE VOLUNTARIA-VIDA SIMPLES-BEM VIVER-BLOG" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14648" src="https://www.trololodemulher.com.br/2018/06/CASA-DECORACAO-SIMPLICIDADE-VOLUNTARIA-VIDA-SIMPLES-BEM-VIVER-BLOG.jpg" alt="CASA-DECORACAO-SIMPLICIDADE VOLUNTARIA-VIDA SIMPLES-BEM VIVER-BLOG" width="800" height="800" />
 </p>
 
 <p align="center">
-  Foto: <a href="https://foter.com/" target="_blank">foter.com</a>
+  Foto: <a href="https://foter.com/" target="_blank" rel="noopener noreferrer">foter.com</a>
 </p>
 
 <p align="justify">
@@ -36,15 +33,15 @@ categories:
 </p>
 
 <p align="justify">
-  1 – <a href="http://www.trololodemulher.com.br/2016/08/11/wabi-sabi-na-decoracao/" target="_blank">Wabi Sabi na decoração e o resgate do simples</a> – pra comprovar que há muito da influência japonesa neste movimento;
+  1 – <a href="http://www.trololodemulher.com.br/2016/08/11/wabi-sabi-na-decoracao/" target="_blank" rel="noopener noreferrer">Wabi Sabi na decoração e o resgate do simples</a> – pra comprovar que há muito da influência japonesa neste movimento;
 </p>
 
 <p align="justify">
-  2 – <a href="http://www.trololodemulher.com.br/2015/09/09/decoracao-escandinava/" target="_blank">Decoração escandinava: como aplicar esse estilo?</a> – pra confirmar que o estilo de decoração escandinava tem tudo a ver com minimalismo, priorizando a simplicidade, mas nem por isso perdendo em elegância, beleza e bom gosto;
+  2 – <a href="http://www.trololodemulher.com.br/2015/09/09/decoracao-escandinava/" target="_blank" rel="noopener noreferrer">Decoração escandinava: como aplicar esse estilo?</a> – pra confirmar que o estilo de decoração escandinava tem tudo a ver com minimalismo, priorizando a simplicidade, mas nem por isso perdendo em elegância, beleza e bom gosto;
 </p>
 
 <p align="justify">
-  3 – <a href="http://www.trololodemulher.com.br/2016/08/16/decoracao-casa-na-grecia/" target="_blank">6 lições de decoração (e de vida!) em uma casa na Grécia</a> – pra mostrar que a casa pode mostrar muito mais de nossa essência do que imaginamos, e que simplicidade deixa nossa vida muito mais leve.
+  3 – <a href="http://www.trololodemulher.com.br/2016/08/16/decoracao-casa-na-grecia/" target="_blank" rel="noopener noreferrer">6 lições de decoração (e de vida!) em uma casa na Grécia</a> – pra mostrar que a casa pode mostrar muito mais de nossa essência do que imaginamos, e que simplicidade deixa nossa vida muito mais leve.
 </p>
 
 <p align="center">
@@ -52,11 +49,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14651" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/06/PROJETO-LAR-BONITO-LAR-TROLOLO-DE-MULHER-REDES25.jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER-REDES[25]" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14651" src="https://www.trololodemulher.com.br/2018/06/PROJETO-LAR-BONITO-LAR-TROLOLO-DE-MULHER-REDES25.jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER-REDES[25]" width="800" height="800" />
 </p>
 
 <p align="center">
-  Foto: <a href="https://foter.com/" target="_blank">foter.com</a>
+  Foto: <a href="https://foter.com/" target="_blank" rel="noopener noreferrer">foter.com</a>
 </p>
 
 <p align="justify">
@@ -80,7 +77,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307" target="_blank">Clique aqui e mande mensagem para mim no WhatsApp</a>, ou me chame no <strong>81.9.9530-7307</strong>, e peça para entrar na lista de espera. Estou a disposição para tirar dúvidas.
+  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307" target="_blank" rel="noopener noreferrer">Clique aqui e mande mensagem para mim no WhatsApp</a>, ou me chame no <strong>81.9.9530-7307</strong>, e peça para entrar na lista de espera. Estou a disposição para tirar dúvidas.
 </p>
 
 <p align="center">
@@ -104,7 +101,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Projeto Lar Bonito Lar</a> | <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">Newsletter Trololó de Mulher – Grátis</a> | <a href="https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank">Assine e receba o post semanal do blog no seu e-mail – Grátis.</a>
+  <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank" rel="noopener noreferrer">Projeto Lar Bonito Lar</a> | <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank" rel="noopener noreferrer">Newsletter Trololó de Mulher – Grátis</a> | <a href="https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer">Assine e receba o post semanal do blog no seu e-mail – Grátis.</a>
 </p>
 
 <p align="center">
@@ -112,7 +109,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2018/03/09/bem-viver/" target="_blank">Guia Bem Viver – Grátis</a> | <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307" target="_blank">Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.</a>
+  <a href="http://www.trololodemulher.com.br/2018/03/09/bem-viver/" target="_blank" rel="noopener noreferrer">Guia Bem Viver – Grátis</a> | <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307" target="_blank" rel="noopener noreferrer">Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.</a>
 </p>
 
 <p align="center">
@@ -120,7 +117,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/lidiane.vasconcelos.94" target="_blank">Perfil pessoal no Facebook</a> | <a href="https://www.facebook.com/TrololoMulher/" target="_blank">Fanpage no Facebook</a> | <a href="https://www.instagram.com/trololodemulher/" target="_blank">Instagram</a>
+  <a href="https://www.facebook.com/lidiane.vasconcelos.94" target="_blank" rel="noopener noreferrer">Perfil pessoal no Facebook</a> | <a href="https://www.facebook.com/TrololoMulher/" target="_blank" rel="noopener noreferrer">Fanpage no Facebook</a> | <a href="https://www.instagram.com/trololodemulher/" target="_blank" rel="noopener noreferrer">Instagram</a>
 </p>
 
 <p align="justify">

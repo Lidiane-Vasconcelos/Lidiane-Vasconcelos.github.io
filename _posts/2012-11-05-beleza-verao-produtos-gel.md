@@ -1,10 +1,7 @@
 ---
-id: 3205
 title: A beleza nos dias quentes clama por produtos em gel!!!
-date: 2012-11-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/11/05/beleza-verao-produtos-gel/
 permalink: /2012/11/05/beleza-verao-produtos-gel/
 categories:
   - Beleza
@@ -20,7 +17,7 @@ categories:
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9290" rel="attachment wp-att-9290"><img class="alignnone size-full wp-image-9290" title="BELEZA-VERAO-PRODUTOS-GEL" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-VERAO-PRODUTOS-GEL.png" alt="" width="600" height="385" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9290" rel="attachment wp-att-9290"><img class="alignnone size-full wp-image-9290" title="BELEZA-VERAO-PRODUTOS-GEL" src="https://www.trololodemulher.com.br/2012/10/BELEZA-VERAO-PRODUTOS-GEL.png" alt="" width="600" height="385" /></a>
 </p>
 
 &nbsp;
@@ -48,7 +45,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9291" rel="attachment wp-att-9291"><img class="alignnone size-full wp-image-9291" title="BELEZA-VERAO-PRODUTOS-GEL[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-VERAO-PRODUTOS-GEL2.png" alt="" width="600" height="344" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9291" rel="attachment wp-att-9291"><img class="alignnone size-full wp-image-9291" title="BELEZA-VERAO-PRODUTOS-GEL[2]" src="https://www.trololodemulher.com.br/2012/10/BELEZA-VERAO-PRODUTOS-GEL2.png" alt="" width="600" height="344" /></a>
 </p>
 
 &nbsp;
@@ -58,7 +55,7 @@ categories:
 > </p>
 
 > <p align="justify">
->   <strong>3 </strong>– “<em>Lidi, esse protetor – <strong>Anthelios AC Gel Creme FPS30 La Roche-Posay</strong> &#8211; é MARA! <strong>Vale o investimento</strong>.”</em> <strong>Juliana Stelli | </strong><a href="http://www.pitadinha.com/" target="_blank"><strong>Pitadinha</strong></a>
+>   <strong>3 </strong>– “<em>Lidi, esse protetor – <strong>Anthelios AC Gel Creme FPS30 La Roche-Posay</strong> &#8211; é MARA! <strong>Vale o investimento</strong>.”</em> <strong>Juliana Stelli | </strong><a href="http://www.pitadinha.com/" target="_blank" rel="noopener noreferrer"><strong>Pitadinha</strong></a>
 > </p>
 
 > <p align="justify">
@@ -73,13 +70,13 @@ categories:
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/corpo/produtos-beleza200/" rel="attachment wp-att-9112"><img class="alignnone size-full wp-image-9112" title="PRODUTOS-BELEZA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/PRODUTOS-BELEZA200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/09/10/produto-de-beleza/"><strong><span style="font-size: medium;"><br /> Qual produto de beleza vale a pena experimentar?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/corpo/produtos-beleza200/" rel="attachment wp-att-9112"><img class="alignnone size-full wp-image-9112" title="PRODUTOS-BELEZA200" src="https://www.trololodemulher.com.br/2012/09/PRODUTOS-BELEZA200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/09/10/produto-de-beleza/"><strong><span style="font-size: medium;"><br /> Qual produto de beleza vale a pena experimentar?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/09/10/produto-de-beleza/mulher-pensando200-2/" rel="attachment wp-att-9078"><img class="alignnone size-full wp-image-9078" title="mulher pensando200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/mulher-pensando200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/09/03/produto-de-beleza-compras/"><strong><span style="font-size: medium;">Qual próximo produto de beleza você vai comprar?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/09/10/produto-de-beleza/mulher-pensando200-2/" rel="attachment wp-att-9078"><img class="alignnone size-full wp-image-9078" title="mulher pensando200" src="https://www.trololodemulher.com.br/2012/08/mulher-pensando200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/09/03/produto-de-beleza-compras/"><strong><span style="font-size: medium;">Qual próximo produto de beleza você vai comprar?</span></strong></a>
       </p>
     </td>
   </tr>
@@ -87,13 +84,13 @@ categories:
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/08/13/creme-para-a-area-dos-olhos/beleza-produtos-recomendados200/" rel="attachment wp-att-8978"><img class="alignnone size-full wp-image-8978" title="BELEZA-PRODUTOS-RECOMENDADOS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/BELEZA-PRODUTOS-RECOMENDADOS200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/08/06/produto-beleza-recomendado/"><strong><span style="font-size: medium;"><br /> Alguma mulher resiste a uma nova aquisição de produto de beleza?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/08/13/creme-para-a-area-dos-olhos/beleza-produtos-recomendados200/" rel="attachment wp-att-8978"><img class="alignnone size-full wp-image-8978" title="BELEZA-PRODUTOS-RECOMENDADOS200" src="https://www.trololodemulher.com.br/2012/08/BELEZA-PRODUTOS-RECOMENDADOS200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/08/06/produto-beleza-recomendado/"><strong><span style="font-size: medium;"><br /> Alguma mulher resiste a uma nova aquisição de produto de beleza?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/cosmetica-sustentavel200/" rel="attachment wp-att-8754"><img class="alignnone size-full wp-image-8754" title="COSMETICA SUSTENTAVEL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/COSMETICA-SUSTENTAVEL200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/"><strong><span style="font-size: medium;">Cosmética Sustentável: a natureza agradece, mas a beleza muito mais!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/cosmetica-sustentavel200/" rel="attachment wp-att-8754"><img class="alignnone size-full wp-image-8754" title="COSMETICA SUSTENTAVEL200" src="https://www.trololodemulher.com.br/2012/06/COSMETICA-SUSTENTAVEL200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/"><strong><span style="font-size: medium;">Cosmética Sustentável: a natureza agradece, mas a beleza muito mais!</span></strong></a>
       </p>
     </td>
   </tr>
@@ -101,20 +98,20 @@ categories:
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/corpo/mel200/" rel="attachment wp-att-8508"><img class="alignnone size-full wp-image-8508" title="MEL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/MEL200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/02/06/beleza/"><strong><span style="font-size: medium;"><br /> Mel: bom para a saúde, melhor ainda para sua beleza</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/corpo/mel200/" rel="attachment wp-att-8508"><img class="alignnone size-full wp-image-8508" title="MEL200" src="https://www.trololodemulher.com.br/2012/01/MEL200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/02/06/beleza/"><strong><span style="font-size: medium;"><br /> Mel: bom para a saúde, melhor ainda para sua beleza</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/01/02/maos-e-unhas/keka200/" rel="attachment wp-att-8347"><img class="alignnone size-full wp-image-8347" title="Keka200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Keka200.png" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/02/06/beleza/"><strong><span style="font-size: medium;"><br /> Beleza… só no trololó: segredos das blogueiras</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/01/02/maos-e-unhas/keka200/" rel="attachment wp-att-8347"><img class="alignnone size-full wp-image-8347" title="Keka200" src="https://www.trololodemulher.com.br/2011/12/Keka200.png" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/02/06/beleza/"><strong><span style="font-size: medium;"><br /> Beleza… só no trololó: segredos das blogueiras</span></strong></a>
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -129,13 +126,13 @@ categories:
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

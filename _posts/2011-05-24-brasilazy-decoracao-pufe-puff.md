@@ -1,10 +1,7 @@
 ---
-id: 2998
 title: 'Brasilazy: decoração perfeita para relaxar!'
-date: 2011-05-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/05/24/brasilazy-decoracao-pufe-puff/
 permalink: /2011/05/24/brasilazy-decoracao-pufe-puff/
 categories:
   - Publieditorial
@@ -12,13 +9,13 @@ categories:
 Você gosta de ver novidades em **decoração**, bonita? E se a novidade significa trazer a sensação de relaxamento e aconchego? Pois é justamente isso o que eu quero te mostrar hoje: a melhor das sensações que um tipo de **pufe** bem diferente do que você deve está acostumada a ver por aí pode trazer para um ambiente de sua casa ou apartamento.
 
 <p style="text-align: justify;">
-  Vem cá e me diz: você já ouviu falar do <strong><a href="http://www.brasilazy.com.br/" target="_blank">Brasilazy</a></strong>? Pois é disso que estou falando. Trata-se de um produto 100% brasileiro que reúne características associadas ao que é luxuoso, moderno e super confortável. Dá só uma olhada que você vai entender bem o porquê…
+  Vem cá e me diz: você já ouviu falar do <strong><a href="http://www.brasilazy.com.br/" target="_blank" rel="noopener noreferrer">Brasilazy</a></strong>? Pois é disso que estou falando. Trata-se de um produto 100% brasileiro que reúne características associadas ao que é luxuoso, moderno e super confortável. Dá só uma olhada que você vai entender bem o porquê…
 </p>
 
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/pufe-laranja_1.jpg"><img class="alignnone size-full wp-image-6416" title="pufe laranja_1" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/pufe-laranja_1.jpg" alt="" width="600" height="401" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/pufe-laranja_1.jpg"><img class="alignnone size-full wp-image-6416" title="pufe laranja_1" src="https://www.trololodemulher.com.br/2011/05/pufe-laranja_1.jpg" alt="" width="600" height="401" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -26,15 +23,15 @@ Você gosta de ver novidades em **decoração**, bonita? E se a novidade signifi
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/pufe-marinho_1.jpg"><img class="alignnone size-full wp-image-6417" title="pufe marinho_1" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/pufe-marinho_1.jpg" alt="" width="600" height="401" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/pufe-marinho_1.jpg"><img class="alignnone size-full wp-image-6417" title="pufe marinho_1" src="https://www.trololodemulher.com.br/2011/05/pufe-marinho_1.jpg" alt="" width="600" height="401" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Ele é <strong>resistente a água</strong>, sabia? Além do mais, há <strong>13 cores disponíveis</strong>, o que permite muitas possibilidades de combinações de acordo com o seu estilo ou com o ambiente onde você quer colocá-lo. A boa notícia é que tudo isso pode ser consultado <em>online</em> mesmo, tudo ao alcance de um clique <strong><a href="http://www.brasilazy.com.br/" target="_blank">bem aqui, na loja virtual</a></strong>. Não é de comodidade que uma bicha fêmea inteligente gosta? Então aproveita e dá uma espiada, porque se você se apaixonar por um deles, a entrega é feita em todo o Brasil.
+  Ele é <strong>resistente a água</strong>, sabia? Além do mais, há <strong>13 cores disponíveis</strong>, o que permite muitas possibilidades de combinações de acordo com o seu estilo ou com o ambiente onde você quer colocá-lo. A boa notícia é que tudo isso pode ser consultado <em>online</em> mesmo, tudo ao alcance de um clique <strong><a href="http://www.brasilazy.com.br/" target="_blank" rel="noopener noreferrer">bem aqui, na loja virtual</a></strong>. Não é de comodidade que uma bicha fêmea inteligente gosta? Então aproveita e dá uma espiada, porque se você se apaixonar por um deles, a entrega é feita em todo o Brasil.
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/pufe-pink_3.jpg"><img class="alignnone size-full wp-image-6418" title="pufe pink_3" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/pufe-pink_3.jpg" alt="" width="534" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/pufe-pink_3.jpg"><img class="alignnone size-full wp-image-6418" title="pufe pink_3" src="https://www.trololodemulher.com.br/2011/05/pufe-pink_3.jpg" alt="" width="534" height="800" /></a>
 </p>
 
 <p style="text-align: justify;">

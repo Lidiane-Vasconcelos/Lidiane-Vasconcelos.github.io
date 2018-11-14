@@ -1,10 +1,7 @@
 ---
-id: 3411
 title: 'Saúde e beleza no copo: sucos funcionais'
-date: 2015-03-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/03/19/saude-beleza-sucos-funcionais/
 permalink: /2015/03/19/saude-beleza-sucos-funcionais/
 categories:
   - Beleza
@@ -23,7 +20,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://ow.ly/I6ulN" target="_blank"><strong>Comilanças x suco detox</strong></a>
+  <a href="http://ow.ly/I6ulN" target="_blank" rel="noopener noreferrer"><strong>Comilanças x suco detox</strong></a>
 </p>
 
 <p align="justify">
@@ -35,11 +32,11 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SAUDE-NUTRICAO-SUCOS-SUCOS-FUNCIONAIS.jpg"><img class="alignnone size-full wp-image-10859" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SAUDE-NUTRICAO-SUCOS-SUCOS-FUNCIONAIS.jpg" alt="SAUDE-NUTRICAO-SUCOS-SUCOS FUNCIONAIS" width="800" height="534" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/SAUDE-NUTRICAO-SUCOS-SUCOS-FUNCIONAIS.jpg"><img class="alignnone size-full wp-image-10859" src="https://www.trololodemulher.com.br/2015/03/SAUDE-NUTRICAO-SUCOS-SUCOS-FUNCIONAIS.jpg" alt="SAUDE-NUTRICAO-SUCOS-SUCOS FUNCIONAIS" width="800" height="534" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://blog.jchongstudio.com/2014/08/morning-sunrise-orange-peach-and.html#_a5y_p=2383278" target="_blank">See and Savour</a>
+  Imagem: <a href="http://blog.jchongstudio.com/2014/08/morning-sunrise-orange-peach-and.html#_a5y_p=2383278" target="_blank" rel="noopener noreferrer">See and Savour</a>
 </p>
 
 <p align="justify">
@@ -67,7 +64,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SAUDE-NUTRICAO-SUCOS-SUCOS-FUNCIONAIS-NUTRICIONISTA-IPATINGA-MG-KILZA-KOCH.png"><img class="alignnone size-full wp-image-10861" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SAUDE-NUTRICAO-SUCOS-SUCOS-FUNCIONAIS-NUTRICIONISTA-IPATINGA-MG-KILZA-KOCH.png" alt="SAUDE-NUTRICAO-SUCOS-SUCOS FUNCIONAIS-NUTRICIONISTA-IPATINGA-MG-KILZA KOCH" width="800" height="181" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/SAUDE-NUTRICAO-SUCOS-SUCOS-FUNCIONAIS-NUTRICIONISTA-IPATINGA-MG-KILZA-KOCH.png"><img class="alignnone size-full wp-image-10861" src="https://www.trololodemulher.com.br/2015/03/SAUDE-NUTRICAO-SUCOS-SUCOS-FUNCIONAIS-NUTRICIONISTA-IPATINGA-MG-KILZA-KOCH.png" alt="SAUDE-NUTRICAO-SUCOS-SUCOS FUNCIONAIS-NUTRICIONISTA-IPATINGA-MG-KILZA KOCH" width="800" height="181" /></a>
 </p>
 
 <p align="justify">
@@ -75,19 +72,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/12/03/reeducacao-alimentar/" target="_blank"><strong>Colesterol alto? Invista na reeducação alimentar!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/12/03/reeducacao-alimentar/" target="_blank" rel="noopener noreferrer"><strong>Colesterol alto? Invista na reeducação alimentar!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/02/02/dieta/" target="_blank"><strong>Erros comuns que podem estragar a sua dieta.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/02/02/dieta/" target="_blank" rel="noopener noreferrer"><strong>Erros comuns que podem estragar a sua dieta.</strong></a>
 </p>
 
 <p align="justify">
-  A <strong>Dra. Kilza Koch</strong>, como você percebeu, atende pessoalmente em seu consultório na cidade de <strong>Ipatinga &#8211; MG</strong>. Você pode ficar por dentro dos serviços oferecidos por ela, saber mais detalhes sobre uma consulta e até depoimentos visitantdo o seu site. <a href="http://kilzakoch.com.br/" target="_blank">Clique aqui</a> e fique por dentro de tudo: endereço, telefone e tudo mais que você precisar para ir até a Dra. Kilza. Além do mais, ela ainda dispõe de uma <strong>página no Facebook: Dicas da Nutricionista Kilza Koch.</strong> <a href="https://www.facebook.com/dicasdanutricionistakilzakoch/timeline" target="_blank">Clique aqui</a>, curta (pois eu já curti!) e acompanhe suas dicas valiosíssimas pra quem quer manter o corpo bonito e saudável através da alimentação. Se joga!
+  A <strong>Dra. Kilza Koch</strong>, como você percebeu, atende pessoalmente em seu consultório na cidade de <strong>Ipatinga &#8211; MG</strong>. Você pode ficar por dentro dos serviços oferecidos por ela, saber mais detalhes sobre uma consulta e até depoimentos visitantdo o seu site. <a href="http://kilzakoch.com.br/" target="_blank" rel="noopener noreferrer">Clique aqui</a> e fique por dentro de tudo: endereço, telefone e tudo mais que você precisar para ir até a Dra. Kilza. Além do mais, ela ainda dispõe de uma <strong>página no Facebook: Dicas da Nutricionista Kilza Koch.</strong> <a href="https://www.facebook.com/dicasdanutricionistakilzakoch/timeline" target="_blank" rel="noopener noreferrer">Clique aqui</a>, curta (pois eu já curti!) e acompanhe suas dicas valiosíssimas pra quem quer manter o corpo bonito e saudável através da alimentação. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

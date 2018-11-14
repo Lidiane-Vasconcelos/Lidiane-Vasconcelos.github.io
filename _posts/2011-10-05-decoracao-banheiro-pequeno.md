@@ -1,10 +1,7 @@
 ---
-id: 3060
 title: 4 ideias para decoração de banheiro pequeno…
-date: 2011-10-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/10/05/decoracao-banheiro-pequeno/
 permalink: /2011/10/05/decoracao-banheiro-pequeno/
 categories:
   - Banheiro
@@ -16,7 +13,7 @@ A maioria de nós hoje em dia precisa lidar com espaços cada vez menores, e o *
 
 **Veja também:**
 
-**<a href="http://www.decoracaodacasa.com/banheiro-pequeno-2/" target="_blank">Faça seu banheiro pequeno parecer maior com 5 truques.</a>**
+**<a href="http://www.decoracaodacasa.com/banheiro-pequeno-2/" target="_blank" rel="noopener noreferrer">Faça seu banheiro pequeno parecer maior com 5 truques.</a>**
 
 &nbsp;
 
@@ -33,7 +30,7 @@ A maioria de nós hoje em dia precisa lidar com espaços cada vez menores, e o *
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/decoracao-banheiro-pequeno.jpg"><img class="alignnone size-full wp-image-6988" title="decoração banheiro pequeno" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/decoracao-banheiro-pequeno.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/10/decoracao-banheiro-pequeno.jpg"><img class="alignnone size-full wp-image-6988" title="decoração banheiro pequeno" src="https://www.trololodemulher.com.br/2011/10/decoracao-banheiro-pequeno.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 &nbsp;
@@ -47,7 +44,7 @@ A maioria de nós hoje em dia precisa lidar com espaços cada vez menores, e o *
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2009/06/30/dicas-como-aumentar-banheiro/" target="_blank">Dicas e imagens: como maximizar o banheiro.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2009/06/30/dicas-como-aumentar-banheiro/" target="_blank" rel="noopener noreferrer">Dicas e imagens: como maximizar o banheiro.</a></strong>
 </p>
 
 &nbsp;
@@ -59,7 +56,7 @@ A maioria de nós hoje em dia precisa lidar com espaços cada vez menores, e o *
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/decoracao-banheiro-pequeno2.jpg"><img class="alignnone size-full wp-image-6989" title="decoração banheiro pequeno[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/decoracao-banheiro-pequeno2.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/10/decoracao-banheiro-pequeno2.jpg"><img class="alignnone size-full wp-image-6989" title="decoração banheiro pequeno[2]" src="https://www.trololodemulher.com.br/2011/10/decoracao-banheiro-pequeno2.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 &nbsp;
@@ -77,11 +74,11 @@ A maioria de nós hoje em dia precisa lidar com espaços cada vez menores, e o *
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank">5 ideias de organização do banheiro que favorecem a decoração.</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank" rel="noopener noreferrer">5 ideias de organização do banheiro que favorecem a decoração.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank">Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank" rel="noopener noreferrer">Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</a></strong>
 </p>
 
 &nbsp;
@@ -93,7 +90,7 @@ A maioria de nós hoje em dia precisa lidar com espaços cada vez menores, e o *
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/decoracao-banheiro-pequeno3.jpg"><img class="alignnone size-full wp-image-6990" title="decoração banheiro pequeno[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/decoracao-banheiro-pequeno3.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/10/decoracao-banheiro-pequeno3.jpg"><img class="alignnone size-full wp-image-6990" title="decoração banheiro pequeno[3]" src="https://www.trololodemulher.com.br/2011/10/decoracao-banheiro-pequeno3.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 &nbsp;
@@ -111,7 +108,7 @@ A maioria de nós hoje em dia precisa lidar com espaços cada vez menores, e o *
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/02/27/decoracao-cortina-sem-costura/" target="_blank">Decoração com cortina sem costura&#8230; e bem barata!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/02/27/decoracao-cortina-sem-costura/" target="_blank" rel="noopener noreferrer">Decoração com cortina sem costura&#8230; e bem barata!</a></strong>
 </p>
 
 &nbsp;
@@ -123,7 +120,7 @@ A maioria de nós hoje em dia precisa lidar com espaços cada vez menores, e o *
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/decoracao-banheiro-pequeno4.jpg"><img class="alignnone size-full wp-image-6991" title="decoração banheiro pequeno[4]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/decoracao-banheiro-pequeno4.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/10/decoracao-banheiro-pequeno4.jpg"><img class="alignnone size-full wp-image-6991" title="decoração banheiro pequeno[4]" src="https://www.trololodemulher.com.br/2011/10/decoracao-banheiro-pequeno4.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 &nbsp;
@@ -141,15 +138,15 @@ A maioria de nós hoje em dia precisa lidar com espaços cada vez menores, e o *
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/" target="_blank">4 passos e sua &#8220;gaveta da bagunça&#8221; ficará impecável!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/" target="_blank" rel="noopener noreferrer">4 passos e sua &#8220;gaveta da bagunça&#8221; ficará impecável!</a></strong>
 </p>
 
 &nbsp;
 
-Imagens: **<a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>**
+Imagens: **<a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>**
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

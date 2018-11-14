@@ -1,24 +1,21 @@
 ---
-id: 3667
 title: O pão integral de sua dieta é integral mesmo?
-date: 2016-09-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/09/19/pao-integral/
 permalink: /2016/09/19/pao-integral/
 categories:
   - Saúde
 ---
 <p align="justify">
-  Quando se pretende emagrecer ou levar uma vida mais saudável, logo se pensa na <strong><a href="http://www.trololodemulher.com.br/2016/08/09/dieta-3/" target="_blank">dieta</a></strong>. Uma troca bastante comum e recomendada é a do pão. É preciso trocar a versão que leva farinha branca pelo <strong>pão integral</strong>. Já se perguntou o porquê é tão importante comer produtos integrais? “<em>A farinha branca é pobre em nutrientes, e você sentirá fome mais rápido. Já a farinha integral contém fibras, que é responsável por nos proporcionar maior saciedade</em>”, explica a <strong>Nutricionista Jéssica Xavier, de Campo dos Goytacazes – RJ</strong>. “<em>Escolha algum produto que contém farinha integral na sua composição, lembrando que ter uma alimentação saudável vai muito além de consumir produtos integrais. Procure um nutricionista para tirar suas dúvidas e te orientar qual melhor tratamento a seguir</em>”, alerta nossa consultora.
+  Quando se pretende emagrecer ou levar uma vida mais saudável, logo se pensa na <strong><a href="http://www.trololodemulher.com.br/2016/08/09/dieta-3/" target="_blank" rel="noopener noreferrer">dieta</a></strong>. Uma troca bastante comum e recomendada é a do pão. É preciso trocar a versão que leva farinha branca pelo <strong>pão integral</strong>. Já se perguntou o porquê é tão importante comer produtos integrais? “<em>A farinha branca é pobre em nutrientes, e você sentirá fome mais rápido. Já a farinha integral contém fibras, que é responsável por nos proporcionar maior saciedade</em>”, explica a <strong>Nutricionista Jéssica Xavier, de Campo dos Goytacazes – RJ</strong>. “<em>Escolha algum produto que contém farinha integral na sua composição, lembrando que ter uma alimentação saudável vai muito além de consumir produtos integrais. Procure um nutricionista para tirar suas dúvidas e te orientar qual melhor tratamento a seguir</em>”, alerta nossa consultora.
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12949" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/SAUDE-ALIMENTACAO-PAO-INTEGRAL.jpg" alt="saude-alimentacao-pao-integral" width="752" height="752" />
+  <img class="alignnone size-full wp-image-12949" src="https://www.trololodemulher.com.br/2016/09/SAUDE-ALIMENTACAO-PAO-INTEGRAL.jpg" alt="saude-alimentacao-pao-integral" width="752" height="752" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.flickr.com/photos/28145073@N08/" target="_blank">Moyan_Brenn</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Imagem: <a href="http://www.flickr.com/photos/28145073@N08/" target="_blank" rel="noopener noreferrer">Moyan_Brenn</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener noreferrer">CC BY</a>
 </p>
 
 <p align="justify">
@@ -54,7 +51,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12762" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/JESSICA-XAVIER-NUTRICIONISTA-CAMPO-DOS-GOYTACAZES-RJ.jpg" alt="JESSICA XAVIER-NUTRICIONISTA-CAMPO DOS GOYTACAZES-RJ" width="800" height="190" />
+  <img class="alignnone size-full wp-image-12762" src="https://www.trololodemulher.com.br/2016/08/JESSICA-XAVIER-NUTRICIONISTA-CAMPO-DOS-GOYTACAZES-RJ.jpg" alt="JESSICA XAVIER-NUTRICIONISTA-CAMPO DOS GOYTACAZES-RJ" width="800" height="190" />
 </p>
 
 <p align="justify">
@@ -62,15 +59,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/08/09/dieta-3/" target="_blank">Alimentos para sua dieta: as aparências enganam!</a>
+  <a href="http://www.trololodemulher.com.br/2016/08/09/dieta-3/" target="_blank" rel="noopener noreferrer">Alimentos para sua dieta: as aparências enganam!</a>
 </p>
 
 <p align="justify">
-  Reforçando, Jéssica atende em consultório: Ed. Alexandre Fleming, sala: 403 – Campos dos Goytacazes. Marcação de consultas: 22 99724-2115. Além do mais, ela mantém uma página no Facebook repleta de informação de qualidade, para que possamos manter nossa saúde em dia. A dica é que você <a href="https://www.facebook.com/jessicaxaviernutricionista/home" target="_blank">clique aqui, curta e acompanhe</a>! Além do mais, Jéssica também está no Instagram, <a href="https://www.instagram.com/jessicaxaviernutri/" target="_blank">para seguí-la, clique aqui</a>. Para mais informações:<a href="mailto:jessicaxaviernutri@gmail.com">jessicaxaviernutri@gmail.com</a>.
+  Reforçando, Jéssica atende em consultório: Ed. Alexandre Fleming, sala: 403 – Campos dos Goytacazes. Marcação de consultas: 22 99724-2115. Além do mais, ela mantém uma página no Facebook repleta de informação de qualidade, para que possamos manter nossa saúde em dia. A dica é que você <a href="https://www.facebook.com/jessicaxaviernutricionista/home" target="_blank" rel="noopener noreferrer">clique aqui, curta e acompanhe</a>! Além do mais, Jéssica também está no Instagram, <a href="https://www.instagram.com/jessicaxaviernutri/" target="_blank" rel="noopener noreferrer">para seguí-la, clique aqui</a>. Para mais informações:<a href="mailto:jessicaxaviernutri@gmail.com">jessicaxaviernutri@gmail.com</a>.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

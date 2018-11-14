@@ -1,10 +1,7 @@
 ---
-id: 3234
 title: 'Organização pessoal: dê conta das tarefas diárias. Veja 20 dicas e agilize!'
-date: 2013-07-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/07/05/organizacao-pessoal-2/
 permalink: /2013/07/05/organizacao-pessoal-2/
 categories:
   - Rotina da Casa
@@ -34,7 +31,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/RELÓGIO.jpg"><img class="alignnone size-full wp-image-9521" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/RELÓGIO.jpg" alt="RELÓGIO" width="600" height="636" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="https://www.trololodemulher.com.br/2013/06/RELÓGIO.jpg"><img class="alignnone size-full wp-image-9521" src="https://www.trololodemulher.com.br/2013/06/RELÓGIO.jpg" alt="RELÓGIO" width="600" height="636" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em></strong>
 </p>
 
 <p align="justify">
@@ -52,7 +49,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Dicas da Violeta Nascimento… </span></strong><a href="http://ateliervioletanascimento.blogspot.com.br/" target="_blank"><strong><span style="font-size: large;">Violeta Atelier</span></strong></a>
+  <strong><span style="font-size: large;">Dicas da Violeta Nascimento… </span></strong><a href="http://ateliervioletanascimento.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong><span style="font-size: large;">Violeta Atelier</span></strong></a>
 </p>
 
 &nbsp;
@@ -76,7 +73,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Dicas de Rita Vieira…</span></strong><a href="http://www.pintomasnaobordo.com.br/" target="_blank"><strong><span style="font-size: large;">Pinto mas não bordo</span></strong></a>
+  <strong><span style="font-size: large;">Dicas de Rita Vieira…</span></strong><a href="http://www.pintomasnaobordo.com.br/" target="_blank" rel="noopener noreferrer"><strong><span style="font-size: large;">Pinto mas não bordo</span></strong></a>
 </p>
 
 &nbsp;
@@ -96,7 +93,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Dicas de Elaine Cunha… </span></strong><a href="http://www.caminhandocontando.com/" target="_blank"><strong><span style="font-size: large;">Caminhando e Contando</span></strong></a>
+  <strong><span style="font-size: large;">Dicas de Elaine Cunha… </span></strong><a href="http://www.caminhandocontando.com/" target="_blank" rel="noopener noreferrer"><strong><span style="font-size: large;">Caminhando e Contando</span></strong></a>
 </p>
 
 &nbsp;
@@ -120,7 +117,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/COMPUTADOR.jpg"><img class="alignnone size-full wp-image-9520" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/COMPUTADOR.jpg" alt="COMPUTADOR" width="600" height="395" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="https://www.trololodemulher.com.br/2013/06/COMPUTADOR.jpg"><img class="alignnone size-full wp-image-9520" src="https://www.trololodemulher.com.br/2013/06/COMPUTADOR.jpg" alt="COMPUTADOR" width="600" height="395" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em></strong>
 </p>
 
 <p align="justify">
@@ -146,5 +143,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

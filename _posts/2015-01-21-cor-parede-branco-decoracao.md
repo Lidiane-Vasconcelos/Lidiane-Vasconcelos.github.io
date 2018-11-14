@@ -1,10 +1,7 @@
 ---
-id: 3387
 title: Quer duas razões pra pintar suas paredes de branco?
-date: 2015-01-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/01/21/cor-parede-branco-decoracao/
 permalink: /2015/01/21/cor-parede-branco-decoracao/
 categories:
   - Dicas de Decoração
@@ -22,11 +19,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank"><strong>Cores na decoração: veja 6 respostas e acabe com suas dúvidas!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank" rel="noopener noreferrer"><strong>Cores na decoração: veja 6 respostas e acabe com suas dúvidas!</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/DECORACAO-CORES-PAREDE-BRANCO.jpg"><img class="alignnone size-full wp-image-10709" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/DECORACAO-CORES-PAREDE-BRANCO.jpg" alt="DECORACAO-CORES-PAREDE-BRANCO" width="560" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/DECORACAO-CORES-PAREDE-BRANCO.jpg"><img class="alignnone size-full wp-image-10709" src="https://www.trololodemulher.com.br/2015/01/DECORACAO-CORES-PAREDE-BRANCO.jpg" alt="DECORACAO-CORES-PAREDE-BRANCO" width="560" height="800" /></a>
 </p>
 
 <p align="justify">
@@ -34,7 +31,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/DECORACAO-CORES-PAREDE-BRANCO2.jpg"><img class="alignnone size-full wp-image-10710" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/DECORACAO-CORES-PAREDE-BRANCO2.jpg" alt="DECORACAO-CORES-PAREDE-BRANCO[2]" width="640" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/DECORACAO-CORES-PAREDE-BRANCO2.jpg"><img class="alignnone size-full wp-image-10710" src="https://www.trololodemulher.com.br/2015/01/DECORACAO-CORES-PAREDE-BRANCO2.jpg" alt="DECORACAO-CORES-PAREDE-BRANCO[2]" width="640" height="800" /></a>
 </p>
 
 <p align="justify">
@@ -46,21 +43,21 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/10/07/cores-decoracao/" target="_blank"><strong>Cores salpicadas na decoração aqui e acolá: lindeza de ver.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/10/07/cores-decoracao/" target="_blank" rel="noopener noreferrer"><strong>Cores salpicadas na decoração aqui e acolá: lindeza de ver.</strong></a>
 </p>
 
 &nbsp;
 
-Imagens: <a href="http://www.homedit.com/" target="_blank">Homedit</a>
+Imagens: <a href="http://www.homedit.com/" target="_blank" rel="noopener noreferrer">Homedit</a>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
+  <a href="http://www.decoracaodacasa.com/" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10262" src="https://www.trololodemulher.com.br/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
 </p>
 
 &nbsp;

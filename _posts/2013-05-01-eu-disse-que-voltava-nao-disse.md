@@ -1,10 +1,7 @@
 ---
-id: 3213
 title: Eu disse que voltava, não disse?
-date: 2013-05-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/05/01/eu-disse-que-voltava-nao-disse/
 permalink: /2013/05/01/eu-disse-que-voltava-nao-disse/
 categories:
   - Trololó
@@ -20,7 +17,7 @@ Voltei!!! Lembra do **[post de despedida](http://www.trololodemulher.com.br/2012
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/LIDIANE-VASCONCELOS-BICHA-FEMEA-ARTUR-VASCONCELOS.jpg"><img class="alignnone size-full wp-image-9379" alt="LIDIANE VASCONCELOS-BICHA FEMEA-ARTUR VASCONCELOS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/LIDIANE-VASCONCELOS-BICHA-FEMEA-ARTUR-VASCONCELOS.jpg" width="400" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/04/LIDIANE-VASCONCELOS-BICHA-FEMEA-ARTUR-VASCONCELOS.jpg"><img class="alignnone size-full wp-image-9379" alt="LIDIANE VASCONCELOS-BICHA FEMEA-ARTUR VASCONCELOS" src="https://www.trololodemulher.com.br/2013/04/LIDIANE-VASCONCELOS-BICHA-FEMEA-ARTUR-VASCONCELOS.jpg" width="400" height="600" /></a>
 </p>
 
 <p align="center">
@@ -36,7 +33,7 @@ Voltei!!! Lembra do **[post de despedida](http://www.trololodemulher.com.br/2012
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/ARTUR-VASCONCELOS.jpg"><img class="alignnone size-full wp-image-9372" alt="ARTUR VASCONCELOS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/ARTUR-VASCONCELOS.jpg" width="600" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/04/ARTUR-VASCONCELOS.jpg"><img class="alignnone size-full wp-image-9372" alt="ARTUR VASCONCELOS" src="https://www.trololodemulher.com.br/2013/04/ARTUR-VASCONCELOS.jpg" width="600" height="400" /></a>
 </p>
 
 <p align="center">

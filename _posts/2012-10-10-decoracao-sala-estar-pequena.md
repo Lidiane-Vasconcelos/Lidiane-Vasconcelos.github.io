@@ -1,10 +1,7 @@
 ---
-id: 3197
 title: 'Truques de decoração para sala de estar pequena: aprenda todos!'
-date: 2012-10-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/10/10/decoracao-sala-estar-pequena/
 permalink: /2012/10/10/decoracao-sala-estar-pequena/
 categories:
   - Pequenos Espaços
@@ -43,7 +40,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/10/10/decoracao-sala-estar-pequena/decoracao-sala-estar-pequena-2/" rel="attachment wp-att-9219"><img class="alignnone size-full wp-image-9219" title="DECORACAO-SALA-ESTAR-PEQUENA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/DECORACAO-SALA-ESTAR-PEQUENA.png" alt="" width="214" height="316" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/2012/10/10/decoracao-sala-estar-pequena/decoracao-sala-estar-pequena-2/" rel="attachment wp-att-9219"><img class="alignnone size-full wp-image-9219" title="DECORACAO-SALA-ESTAR-PEQUENA" src="https://www.trololodemulher.com.br/2012/10/DECORACAO-SALA-ESTAR-PEQUENA.png" alt="" width="214" height="316" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">Stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
@@ -99,17 +96,17 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12866" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/ADRIANA-MAGRE.jpg" alt="ADRIANA MAGRE" width="800" height="197" />
+  <img class="alignnone size-full wp-image-12866" src="https://www.trololodemulher.com.br/2016/08/ADRIANA-MAGRE.jpg" alt="ADRIANA MAGRE" width="800" height="197" />
 </p>
 
 &nbsp;
 
 <p align="justify">
-  A <strong>Adriana</strong> edita seu blog com tanta informação útil e de qualidade que eu acredito ser leitura obrigatória para quem curte decoração e todo o universo que envolve a casa. Tanto no blog – <strong><a href="http://www.coresdacasa.com.br/" target="_blank">Cores da Casa</a></strong> – quanto na fanpage do Facebook – <strong><a href="https://www.facebook.com/coresdacasa" target="_blank">curta e acompanhe</a></strong> – as fontes são de informação da melhor qualidade, pode apostar! Quer tirar a prova? Se joga, conheça e confira!
+  A <strong>Adriana</strong> edita seu blog com tanta informação útil e de qualidade que eu acredito ser leitura obrigatória para quem curte decoração e todo o universo que envolve a casa. Tanto no blog – <strong><a href="http://www.coresdacasa.com.br/" target="_blank" rel="noopener noreferrer">Cores da Casa</a></strong> – quanto na fanpage do Facebook – <strong><a href="https://www.facebook.com/coresdacasa" target="_blank" rel="noopener noreferrer">curta e acompanhe</a></strong> – as fontes são de informação da melhor qualidade, pode apostar! Quer tirar a prova? Se joga, conheça e confira!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

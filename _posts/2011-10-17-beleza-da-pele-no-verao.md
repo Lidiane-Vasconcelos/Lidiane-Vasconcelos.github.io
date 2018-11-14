@@ -1,10 +1,7 @@
 ---
-id: 3064
 title: 'Pescoço, costas e cotovelo: beleza da pele no Verão.'
-date: 2011-10-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/10/17/beleza-da-pele-no-verao/
 permalink: /2011/10/17/beleza-da-pele-no-verao/
 categories:
   - Beleza
@@ -38,7 +35,7 @@ Antes de você sair toda faceira, serelepe e saltitante, vestida com roupas leve
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/beleza-da-pele.jpg"><img class="alignnone size-full wp-image-7017" title="beleza da pele" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/beleza-da-pele.jpg" alt="" width="600" height="425" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/10/beleza-da-pele.jpg"><img class="alignnone size-full wp-image-7017" title="beleza da pele" src="https://www.trololodemulher.com.br/2011/10/beleza-da-pele.jpg" alt="" width="600" height="425" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></strong>
 </p>
 
 &nbsp;
@@ -100,7 +97,7 @@ Antes de você sair toda faceira, serelepe e saltitante, vestida com roupas leve
 </p>
 
 <p align="justify">
-  Para ficar toda <em>bonitona</em> e com a pele “nos trinques” a gente precisa, antes de mais nada, estar bem informada sobre como fazer isso da maneira certa e com segurança, não é? Então, bonita, uma forma inteligente de fazer isso é acompanhar as atualizações da <strong>Dra. Fernanda</strong> em seu blog, o <strong><a href="http://dicasdepele.blogspot.com/" target="_blank">Dicas de Pele</a></strong>. Ela criou o espaço para seus pacientes e quem mais tiver interesse em cuidar bem da pele, com dicas de produtos e tratamentos dermatológicos específicos. Se joga!
+  Para ficar toda <em>bonitona</em> e com a pele “nos trinques” a gente precisa, antes de mais nada, estar bem informada sobre como fazer isso da maneira certa e com segurança, não é? Então, bonita, uma forma inteligente de fazer isso é acompanhar as atualizações da <strong>Dra. Fernanda</strong> em seu blog, o <strong><a href="http://dicasdepele.blogspot.com/" target="_blank" rel="noopener noreferrer">Dicas de Pele</a></strong>. Ela criou o espaço para seus pacientes e quem mais tiver interesse em cuidar bem da pele, com dicas de produtos e tratamentos dermatológicos específicos. Se joga!
 </p>
 
 &nbsp;
@@ -113,13 +110,13 @@ Antes de você sair toda faceira, serelepe e saltitante, vestida com roupas leve
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/beleza-da-pele-acne200.jpg"><img class="alignnone size-full wp-image-6895" title="beleza da pele acne200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/beleza-da-pele-acne200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/09/12/acne-beleza-pele/"><span style="font-size: small;">Verão á vista: como evitar a acne e garantir a beleza da pele?</span></a></strong>
+        <a href="https://www.trololodemulher.com.br/2011/09/beleza-da-pele-acne200.jpg"><img class="alignnone size-full wp-image-6895" title="beleza da pele acne200" src="https://www.trololodemulher.com.br/2011/09/beleza-da-pele-acne200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/09/12/acne-beleza-pele/"><span style="font-size: small;">Verão á vista: como evitar a acne e garantir a beleza da pele?</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza200.jpg"><img class="alignnone size-full wp-image-6823" title="beleza200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza200.jpg" alt="" width="200" height="200" /><br /> </a><a href="http://www.trololodemulher.com.br/2011/08/24/beleza-da-pele/"><span style="font-size: small;">Tônico facial: você sabe a importância desse produto para a beleza da pele?</span></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2011/08/beleza200.jpg"><img class="alignnone size-full wp-image-6823" title="beleza200" src="https://www.trololodemulher.com.br/2011/08/beleza200.jpg" alt="" width="200" height="200" /><br /> </a><a href="http://www.trololodemulher.com.br/2011/08/24/beleza-da-pele/"><span style="font-size: small;">Tônico facial: você sabe a importância desse produto para a beleza da pele?</span></a></strong>
       </p>
     </td>
   </tr>
@@ -129,19 +126,19 @@ Antes de você sair toda faceira, serelepe e saltitante, vestida com roupas leve
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cabelos200.jpg"><img class="alignnone size-thumbnail wp-image-5235" title="cabelos200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cabelos200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/09/27/dicas-beleza-verao/"><span style="font-size: small;">Acne nas costas e no colo: dicas de beleza para o Verão.</span></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2010/09/cabelos200.jpg"><img class="alignnone size-thumbnail wp-image-5235" title="cabelos200" src="https://www.trololodemulher.com.br/2010/09/cabelos200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/09/27/dicas-beleza-verao/"><span style="font-size: small;">Acne nas costas e no colo: dicas de beleza para o Verão.</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/verao-200.jpg"><img class="alignnone size-thumbnail wp-image-5172" title="verão 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/verao-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/09/13/dicas-de-beleza/"><span style="font-size: small;">Primavera – Verão: dicas de beleza</span></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2010/09/verao-200.jpg"><img class="alignnone size-thumbnail wp-image-5172" title="verão 200" src="https://www.trololodemulher.com.br/2010/09/verao-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/09/13/dicas-de-beleza/"><span style="font-size: small;">Primavera – Verão: dicas de beleza</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/saude-e-beleza-da-pele200.jpg"><img class="alignnone size-thumbnail wp-image-6555" title="saúde e beleza da pele200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/saude-e-beleza-da-pele200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/06/29/saude-beleza-da-pele/"><span style="font-size: small;">Saúde da pele: é exagero usar tantos tipos de sabonete?</span></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2011/06/saude-e-beleza-da-pele200.jpg"><img class="alignnone size-thumbnail wp-image-6555" title="saúde e beleza da pele200" src="https://www.trololodemulher.com.br/2011/06/saude-e-beleza-da-pele200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/06/29/saude-beleza-da-pele/"><span style="font-size: small;">Saúde da pele: é exagero usar tantos tipos de sabonete?</span></a></strong>
       </p>
     </td>
   </tr>

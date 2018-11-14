@@ -1,10 +1,7 @@
 ---
-id: 3117
 title: 'Sustentabilidade na casa de cada uma de nós: é possível?'
-date: 2012-03-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/03/02/sustentabilidade-casa/
 permalink: /2012/03/02/sustentabilidade-casa/
 categories:
   - Comportamento
@@ -48,7 +45,7 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/02/SUSTENTABILIDADE-EM-CASA.jpg"><img class="alignnone size-full wp-image-8556" title="SUSTENTABILIDADE EM CASA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/02/SUSTENTABILIDADE-EM-CASA.jpg" alt="" width="600" height="363" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  <a href="https://www.trololodemulher.com.br/2012/02/SUSTENTABILIDADE-EM-CASA.jpg"><img class="alignnone size-full wp-image-8556" title="SUSTENTABILIDADE EM CASA" src="https://www.trololodemulher.com.br/2012/02/SUSTENTABILIDADE-EM-CASA.jpg" alt="" width="600" height="363" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></strong>
 </p>
 
 &nbsp;
@@ -66,13 +63,13 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
 &nbsp;
 
 > <p align="justify">
->   “<em>No meu dia a dia e no dia a dia da minha família, acho que contribuímos bastante com a sustentabilidade. Eu e meu marido, por termos que fazer atividades físicas recomendadas pelo médico, optamos em fazer a pé alguns percursos que antes fazíamos de carro&#8230;ou seja, além de cuidar da saúde também contribuímos com a sustentabilidade.”</em> <strong>Vânia Pinho</strong> | <strong><a href="http://www.casadebonecadecor.blogspot.com/" target="_blank">Casa de Boneca</a></strong>
+>   “<em>No meu dia a dia e no dia a dia da minha família, acho que contribuímos bastante com a sustentabilidade. Eu e meu marido, por termos que fazer atividades físicas recomendadas pelo médico, optamos em fazer a pé alguns percursos que antes fazíamos de carro&#8230;ou seja, além de cuidar da saúde também contribuímos com a sustentabilidade.”</em> <strong>Vânia Pinho</strong> | <strong><a href="http://www.casadebonecadecor.blogspot.com/" target="_blank" rel="noopener noreferrer">Casa de Boneca</a></strong>
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  Da mesma forma que andar a pé contribui para diminuir a emissão de poluentes, <strong>optar por transporte público</strong> sempre que possível é uma forma de contribuir nesse sentido. Sabe quem já tem consciência disso? A <strong>Carina</strong>, do blog <strong><a href="http://zumzumverde.blogspot.com/" target="_blank">Zum Zum Verde</a></strong>, e a <strong>Rosana Silva | <a href="http://www.simplesdecoracao.com.br/" target="_blank">Simples Decoração</a></strong>. E quanto a você?
+  Da mesma forma que andar a pé contribui para diminuir a emissão de poluentes, <strong>optar por transporte público</strong> sempre que possível é uma forma de contribuir nesse sentido. Sabe quem já tem consciência disso? A <strong>Carina</strong>, do blog <strong><a href="http://zumzumverde.blogspot.com/" target="_blank" rel="noopener noreferrer">Zum Zum Verde</a></strong>, e a <strong>Rosana Silva | <a href="http://www.simplesdecoracao.com.br/" target="_blank" rel="noopener noreferrer">Simples Decoração</a></strong>. E quanto a você?
 </p>
 
 &nbsp;
@@ -88,11 +85,11 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
 </p>
 
 > <p align="justify">
->   “<em>Quero falar como representante da Maternagem na web, sobre um hábito muito bobo, mas que poderia ser adotado por todas, causando certamente algum impacto: <strong>reutilizar a água do banho do bebê para dar descarga</strong>!”</em> <strong>Anne Rammi</strong> | <strong><a href="http://www.mamatraca.com.br/" target="_blank">Mamatraca</a></strong>
+>   “<em>Quero falar como representante da Maternagem na web, sobre um hábito muito bobo, mas que poderia ser adotado por todas, causando certamente algum impacto: <strong>reutilizar a água do banho do bebê para dar descarga</strong>!”</em> <strong>Anne Rammi</strong> | <strong><a href="http://www.mamatraca.com.br/" target="_blank" rel="noopener noreferrer">Mamatraca</a></strong>
 > </p>
 
 <p align="justify">
-  Sabe quem mais reutiliza a água, e de que forma? <strong>Carina | </strong><strong><a href="http://zumzumverde.blogspot.com/" target="_blank">Zum Zum Verde</a></strong>, reaproveita a água da máquina de lavar roupa para <strong>limpar o chão da cozinha</strong>. No caso da <strong>Rogéria Thompson | <a href="http://umespaoprachamardemeu.blogspot.com/" target="_blank">Um espaço pra chamar de meu</a></strong>, o reaproveitamento serve para <strong>lavar o quintal</strong>. Já a <strong>Vânia Pinho | </strong><strong><a href="http://www.casadebonecadecor.blogspot.com/" target="_blank">Casa de Boneca</a></strong>, <strong>lava a varanda do apartamento</strong> usando novamente a água do enxágue da máquina e a <strong>Mara</strong>, por sua vez, economiza a água nesse sentido na hora de <strong>lavar a área de serviço</strong>. Fica a dica!
+  Sabe quem mais reutiliza a água, e de que forma? <strong>Carina | </strong><strong><a href="http://zumzumverde.blogspot.com/" target="_blank" rel="noopener noreferrer">Zum Zum Verde</a></strong>, reaproveita a água da máquina de lavar roupa para <strong>limpar o chão da cozinha</strong>. No caso da <strong>Rogéria Thompson | <a href="http://umespaoprachamardemeu.blogspot.com/" target="_blank" rel="noopener noreferrer">Um espaço pra chamar de meu</a></strong>, o reaproveitamento serve para <strong>lavar o quintal</strong>. Já a <strong>Vânia Pinho | </strong><strong><a href="http://www.casadebonecadecor.blogspot.com/" target="_blank" rel="noopener noreferrer">Casa de Boneca</a></strong>, <strong>lava a varanda do apartamento</strong> usando novamente a água do enxágue da máquina e a <strong>Mara</strong>, por sua vez, economiza a água nesse sentido na hora de <strong>lavar a área de serviço</strong>. Fica a dica!
 </p>
 
 <p align="justify">
@@ -128,7 +125,7 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
 &nbsp;
 
 <p align="justify">
-  Além disso, a <strong>Vânia Pinho | <a href="http://www.casadebonecadecor.blogspot.com/" target="_blank">Casa de Boneca</a></strong>, <strong>evita o chuveiro elétrico</strong> sempre que possível. Inspire-se!
+  Além disso, a <strong>Vânia Pinho | <a href="http://www.casadebonecadecor.blogspot.com/" target="_blank" rel="noopener noreferrer">Casa de Boneca</a></strong>, <strong>evita o chuveiro elétrico</strong> sempre que possível. Inspire-se!
 </p>
 
 &nbsp;
@@ -140,19 +137,19 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/02/COMPOSTAGEM.jpg"><img class="alignnone size-full wp-image-8555" title="COMPOSTAGEM" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/02/COMPOSTAGEM.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/02/COMPOSTAGEM.jpg"><img class="alignnone size-full wp-image-8555" title="COMPOSTAGEM" src="https://www.trololodemulher.com.br/2012/02/COMPOSTAGEM.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Recentemente, comecei a <strong>compostar </strong>o meu <strong>lixo orgânico</strong> e, apesar de morar em apartamento,  a experiência tem dado muito certo! Já estou enviando menos lixo para os aterros sanitários e em breve terei um adubo orgânico de qualidade para as minhas plantinhas!”</em> <strong>Carina |</strong> <strong><a href="http://zumzumverde.blogspot.com/" target="_blank">Zum Zum Verde</a></strong>
+>   “<em>Recentemente, comecei a <strong>compostar </strong>o meu <strong>lixo orgânico</strong> e, apesar de morar em apartamento,  a experiência tem dado muito certo! Já estou enviando menos lixo para os aterros sanitários e em breve terei um adubo orgânico de qualidade para as minhas plantinhas!”</em> <strong>Carina |</strong> <strong><a href="http://zumzumverde.blogspot.com/" target="_blank" rel="noopener noreferrer">Zum Zum Verde</a></strong>
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Quem já experimentou <strong>aproveitar coisas</strong> descobre o quanto é surpreendente e gratificante o resultado imediato que se pode alcançar <strong>dando cara nova às coisas velhas</strong>, sem contar que está sim colaborando com as causas ambientais. </em><em>Gosto de guardar as caixas de presente, papel de seda, laços e fitas etc., há anos  que não preciso comprar esses itens de novo”</em> <strong>Yvone | <a href="http://casaspossiveis.blogspot.com/" target="_blank">Casas Possíveis</a></strong>
+>   “<em>Quem já experimentou <strong>aproveitar coisas</strong> descobre o quanto é surpreendente e gratificante o resultado imediato que se pode alcançar <strong>dando cara nova às coisas velhas</strong>, sem contar que está sim colaborando com as causas ambientais. </em><em>Gosto de guardar as caixas de presente, papel de seda, laços e fitas etc., há anos  que não preciso comprar esses itens de novo”</em> <strong>Yvone | <a href="http://casaspossiveis.blogspot.com/" target="_blank" rel="noopener noreferrer">Casas Possíveis</a></strong>
 > </p>
 
 &nbsp;
@@ -170,7 +167,7 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
 &nbsp;
 
 <p align="justify">
-  Também é super interessante, nesse sentido, evitar o consumo dos produtos industrializados. Quando não for possível evitá-los, a gente pode fazer como a<strong> Adelaide | </strong><a href="http://euseivoucontar.blogspot.com/" target="_blank"><strong>Eu sei… vou contar!</strong></a> , que dá a dica: “<em>evito o uso de produtos industrializados e procuro comprar de empresas que tenham preocupação com o meio ambiente</em>”.
+  Também é super interessante, nesse sentido, evitar o consumo dos produtos industrializados. Quando não for possível evitá-los, a gente pode fazer como a<strong> Adelaide | </strong><a href="http://euseivoucontar.blogspot.com/" target="_blank" rel="noopener noreferrer"><strong>Eu sei… vou contar!</strong></a> , que dá a dica: “<em>evito o uso de produtos industrializados e procuro comprar de empresas que tenham preocupação com o meio ambiente</em>”.
 </p>
 
 &nbsp;
@@ -199,13 +196,13 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/agua-planeta-terra200.jpg"><img class="alignnone size-full wp-image-5130" title="image description" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/agua-planeta-terra200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2010/09/03/dicas-economizar-agua/"><strong><span style="font-size: small;"><br /> 6 dicas para economizar água nas atividades domésticas</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2010/08/agua-planeta-terra200.jpg"><img class="alignnone size-full wp-image-5130" title="image description" src="https://www.trololodemulher.com.br/2010/08/agua-planeta-terra200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2010/09/03/dicas-economizar-agua/"><strong><span style="font-size: small;"><br /> 6 dicas para economizar água nas atividades domésticas</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/Mae-e-filha200.jpg"><img class="alignnone size-full wp-image-4651" title="Mãe e filha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/Mae-e-filha200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2010/05/19/educacao-ecologica-criancas/"><strong><span style="font-size: small;"><br /> Bichas fêmeas em debate: filho de ecomãe, ecofilho é?</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2010/05/Mae-e-filha200.jpg"><img class="alignnone size-full wp-image-4651" title="Mãe e filha200" src="https://www.trololodemulher.com.br/2010/05/Mae-e-filha200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2010/05/19/educacao-ecologica-criancas/"><strong><span style="font-size: small;"><br /> Bichas fêmeas em debate: filho de ecomãe, ecofilho é?</span></strong></a>
       </p>
     </td>
   </tr>
@@ -216,7 +213,7 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -231,13 +228,13 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

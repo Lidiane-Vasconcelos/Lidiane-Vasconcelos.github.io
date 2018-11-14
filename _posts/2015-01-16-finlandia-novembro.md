@@ -1,10 +1,7 @@
 ---
-id: 3386
 title: 'Dias e dias sem sol: o temido Novembro na Finlândia.'
-date: 2015-01-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/01/16/finlandia-novembro/
 permalink: /2015/01/16/finlandia-novembro/
 categories:
   - Adriana Minhoto
@@ -19,7 +16,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/VIAGEM-FINLANDIA.jpg"><img class="alignnone size-full wp-image-10703" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/VIAGEM-FINLANDIA.jpg" alt="VIAGEM-FINLANDIA" width="800" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/VIAGEM-FINLANDIA.jpg"><img class="alignnone size-full wp-image-10703" src="https://www.trololodemulher.com.br/2015/01/VIAGEM-FINLANDIA.jpg" alt="VIAGEM-FINLANDIA" width="800" height="449" /></a>
 </p>
 
 > <p align="justify">
@@ -35,7 +32,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/VIAGEM-FINLANDIA3.jpg"><img class="alignnone size-full wp-image-10706" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/VIAGEM-FINLANDIA3.jpg" alt="VIAGEM-FINLANDIA[3]" width="597" height="796" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/VIAGEM-FINLANDIA3.jpg"><img class="alignnone size-full wp-image-10706" src="https://www.trololodemulher.com.br/2015/01/VIAGEM-FINLANDIA3.jpg" alt="VIAGEM-FINLANDIA[3]" width="597" height="796" /></a>
 </p>
 
 > <p align="justify">
@@ -47,7 +44,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/VIAGEM-FINLANDIA4.jpg"><img class="alignnone size-full wp-image-10707" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/VIAGEM-FINLANDIA4.jpg" alt="VIAGEM-FINLANDIA[4]" width="447" height="796" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/VIAGEM-FINLANDIA4.jpg"><img class="alignnone size-full wp-image-10707" src="https://www.trololodemulher.com.br/2015/01/VIAGEM-FINLANDIA4.jpg" alt="VIAGEM-FINLANDIA[4]" width="447" height="796" /></a>
 </p>
 
 <p align="center">
@@ -67,7 +64,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/VIAGEM-FINLANDIA2.jpg"><img class="alignnone size-full wp-image-10704" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/VIAGEM-FINLANDIA2.jpg" alt="VIAGEM-FINLANDIA[2]" width="800" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/VIAGEM-FINLANDIA2.jpg"><img class="alignnone size-full wp-image-10704" src="https://www.trololodemulher.com.br/2015/01/VIAGEM-FINLANDIA2.jpg" alt="VIAGEM-FINLANDIA[2]" width="800" height="449" /></a>
 </p>
 
 <p align="center">
@@ -79,7 +76,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ADRIANA-MINHOTO.png"><img class="alignnone size-full wp-image-10378" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ADRIANA-MINHOTO.png" alt="ADRIANA MINHOTO" width="800" height="227" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/ADRIANA-MINHOTO.png"><img class="alignnone size-full wp-image-10378" src="https://www.trololodemulher.com.br/2014/09/ADRIANA-MINHOTO.png" alt="ADRIANA MINHOTO" width="800" height="227" /></a>
 </p>
 
 <p align="justify">
@@ -87,7 +84,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank" rel="noopener noreferrer">As voltas que a vida dá nos leva a lugares inimagináveis!</a></strong>
 </p>
 
 <p align="justify">
@@ -95,19 +92,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank">Educação, ordem e progresso: lá na Finlândia é assim!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank" rel="noopener noreferrer">Educação, ordem e progresso: lá na Finlândia é assim!</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/10/10/compras-finlandia/" target="_blank">Fazer compras é simples, a menos que seja na Finlândia!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/10/10/compras-finlandia/" target="_blank" rel="noopener noreferrer">Fazer compras é simples, a menos que seja na Finlândia!</a></strong>
 </p>
 
 <p align="justify">
-  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai!
+  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank" rel="noopener noreferrer">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank" rel="noopener noreferrer">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer">clicar aqui e se jogar</a>! Vai!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

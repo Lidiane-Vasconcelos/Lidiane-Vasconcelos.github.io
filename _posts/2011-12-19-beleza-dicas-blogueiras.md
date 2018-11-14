@@ -1,10 +1,7 @@
 ---
-id: 3097
 title: 'Beleza… só no trololó: segredos das blogueiras'
-date: 2011-12-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/12/19/beleza-dicas-blogueiras/
 permalink: /2011/12/19/beleza-dicas-blogueiras/
 categories:
   - Beleza
@@ -20,13 +17,13 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/MUSA-MAGALHÃES.jpg"><img class="alignnone size-full wp-image-8354" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/MUSA-MAGALHÃES.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/MUSA-MAGALHÃES.jpg"><img class="alignnone size-full wp-image-8354" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2011/12/MUSA-MAGALHÃES.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong>Musa Magalhães</strong> comanda o blog <strong><a href="http://donamusa.blogspot.com/" target="_blank">Dona Musa</a></strong>, um espaço virtual delicioso de ser acompanhado porque a moça conta o seu dia a dia de uma forma bem particular, isto é, bem humorada na medida certa. Casada, e agora grávida de um menino, a bonita “compacta”, como ela mesma se classifica por ser pequena, dá suas dicas de cuidados de beleza para que a gente ponha em prática também… olha só:
+  <strong>Musa Magalhães</strong> comanda o blog <strong><a href="http://donamusa.blogspot.com/" target="_blank" rel="noopener noreferrer">Dona Musa</a></strong>, um espaço virtual delicioso de ser acompanhado porque a moça conta o seu dia a dia de uma forma bem particular, isto é, bem humorada na medida certa. Casada, e agora grávida de um menino, a bonita “compacta”, como ela mesma se classifica por ser pequena, dá suas dicas de cuidados de beleza para que a gente ponha em prática também… olha só:
 </p>
 
 &nbsp;
@@ -38,53 +35,53 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Body-Concept-Hidratante-in-Shower-da-Dermatus.jpg"><img class="alignnone size-full wp-image-8348" title="Body Concept - Hidratante in Shower, da Dermatus" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Body-Concept-Hidratante-in-Shower-da-Dermatus.jpg" alt="" width="250" height="250" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/Body-Concept-Hidratante-in-Shower-da-Dermatus.jpg"><img class="alignnone size-full wp-image-8348" title="Body Concept - Hidratante in Shower, da Dermatus" src="https://www.trololodemulher.com.br/2011/12/Body-Concept-Hidratante-in-Shower-da-Dermatus.jpg" alt="" width="250" height="250" /></a>
 </p>
 
 > <p align="justify">
->   “…<em>Para essa minha dificuldade de passar hidratente, encontrei o <strong><a href="http://www.dermatus.com.br/produto.asp?id=78" target="_blank">Body Concept &#8211; Hidratante in Shower, da Dermatus</a></strong>, que me permite espalhá-lo pelo corpo ainda no banho, antes do último enxágue. …</em>
+>   “…<em>Para essa minha dificuldade de passar hidratente, encontrei o <strong><a href="http://www.dermatus.com.br/produto.asp?id=78" target="_blank" rel="noopener noreferrer">Body Concept &#8211; Hidratante in Shower, da Dermatus</a></strong>, que me permite espalhá-lo pelo corpo ainda no banho, antes do último enxágue. …</em>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Mater-Skin-da-Cosmiatric.jpg"><img class="alignnone size-full wp-image-8353" title="Mater Skin, da Cosmiatric" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Mater-Skin-da-Cosmiatric.jpg" alt="" width="238" height="340" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/Mater-Skin-da-Cosmiatric.jpg"><img class="alignnone size-full wp-image-8353" title="Mater Skin, da Cosmiatric" src="https://www.trololodemulher.com.br/2011/12/Mater-Skin-da-Cosmiatric.jpg" alt="" width="238" height="340" /></a>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “…<em>Agora que estou grávida, não dá pra ter preguiça, se não o fantasma da estria aparece. Então, depois do banho, revezo entre o <strong><a href="http://www.cosmiatric.com.br/materskin.htm" target="_blank">Mater Skin, da Cosmiatric</a></strong>, …</em>
+>   “…<em>Agora que estou grávida, não dá pra ter preguiça, se não o fantasma da estria aparece. Então, depois do banho, revezo entre o <strong><a href="http://www.cosmiatric.com.br/materskin.htm" target="_blank" rel="noopener noreferrer">Mater Skin, da Cosmiatric</a></strong>, …</em>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Body-Concept-Óleo-Corporal-da-Dermatus.jpg"><img class="alignnone size-full wp-image-8349" title="Body Concept - Óleo Corporal, da Dermatus" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Body-Concept-Óleo-Corporal-da-Dermatus.jpg" alt="" width="250" height="250" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/Body-Concept-Óleo-Corporal-da-Dermatus.jpg"><img class="alignnone size-full wp-image-8349" title="Body Concept - Óleo Corporal, da Dermatus" src="https://www.trololodemulher.com.br/2011/12/Body-Concept-Óleo-Corporal-da-Dermatus.jpg" alt="" width="250" height="250" /></a>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   <em>“…e o <strong><a href="http://www.dermatus.com.br/produto.asp?id=79" target="_blank">Body Concept &#8211; Óleo Corporal, da Dermatus</a></strong>. Não sou fã de óleos, mas eu gosto desse porque não é muito grudento. Com o rosto sou mais preocupada. Vou à dermatologista regularmente (não deixo passar de 6 meses). Minha pele é mista, então preciso ter cuidados com a acne na zona T. Alguns produtos, por conterem diferentes tipos de ácidos, tiveram de ser deixados de lado durante a gestação para darem lugar a outros.</em> …
+>   <em>“…e o <strong><a href="http://www.dermatus.com.br/produto.asp?id=79" target="_blank" rel="noopener noreferrer">Body Concept &#8211; Óleo Corporal, da Dermatus</a></strong>. Não sou fã de óleos, mas eu gosto desse porque não é muito grudento. Com o rosto sou mais preocupada. Vou à dermatologista regularmente (não deixo passar de 6 meses). Minha pele é mista, então preciso ter cuidados com a acne na zona T. Alguns produtos, por conterem diferentes tipos de ácidos, tiveram de ser deixados de lado durante a gestação para darem lugar a outros.</em> …
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/sabonete-líquido-Cetaphil-.png"><img class="alignnone size-full wp-image-8355" title="sabonete líquido Cetaphil" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/sabonete-líquido-Cetaphil-.png" alt="" width="153" height="224" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/sabonete-líquido-Cetaphil-.png"><img class="alignnone size-full wp-image-8355" title="sabonete líquido Cetaphil" src="https://www.trololodemulher.com.br/2011/12/sabonete-líquido-Cetaphil-.png" alt="" width="153" height="224" /></a>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “…<em>Lavo o rosto duas vezes ao dia com o <strong><a href="http://www.cetaphil.com.br/Site/Produtos/Higienizadores/SabonetePeleOleosa.aspx" target="_blank">sabonete líquido Cetaphil</a></strong>, depois passo uma loção manipulada que foi indicada pela médica. É como se fosse um tônico de limpeza com &#8220;ingredientes&#8221; específicos para a gravidez…</em>
+>   “…<em>Lavo o rosto duas vezes ao dia com o <strong><a href="http://www.cetaphil.com.br/Site/Produtos/Higienizadores/SabonetePeleOleosa.aspx" target="_blank" rel="noopener noreferrer">sabonete líquido Cetaphil</a></strong>, depois passo uma loção manipulada que foi indicada pela médica. É como se fosse um tônico de limpeza com &#8220;ingredientes&#8221; específicos para a gravidez…</em>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Hydracid-C20.jpg"><img class="alignnone size-full wp-image-8351" title="Hydracid C20" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Hydracid-C20.jpg" alt="" width="200" height="386" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/Hydracid-C20.jpg"><img class="alignnone size-full wp-image-8351" title="Hydracid C20" src="https://www.trololodemulher.com.br/2011/12/Hydracid-C20.jpg" alt="" width="200" height="386" /></a>
 </p>
 
 &nbsp;
@@ -96,7 +93,7 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/VICHY-CAPITAL-SOLEIL-PROTETOR-SOLAR.jpg"><img class="alignnone size-full wp-image-8171" title="VICHY CAPITAL SOLEIL PROTETOR SOLAR" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/VICHY-CAPITAL-SOLEIL-PROTETOR-SOLAR.jpg" alt="" width="500" height="500" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/VICHY-CAPITAL-SOLEIL-PROTETOR-SOLAR.jpg"><img class="alignnone size-full wp-image-8171" title="VICHY CAPITAL SOLEIL PROTETOR SOLAR" src="https://www.trololodemulher.com.br/2011/11/VICHY-CAPITAL-SOLEIL-PROTETOR-SOLAR.jpg" alt="" width="500" height="500" /></a>
 </p>
 
 &nbsp;
@@ -108,7 +105,7 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/gel-Dermazelaic.jpg"><img class="alignnone size-full wp-image-8350" title="gel Dermazelaic" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/gel-Dermazelaic.jpg" alt="" width="200" height="200" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/gel-Dermazelaic.jpg"><img class="alignnone size-full wp-image-8350" title="gel Dermazelaic" src="https://www.trololodemulher.com.br/2011/12/gel-Dermazelaic.jpg" alt="" width="200" height="200" /></a>
 </p>
 
 &nbsp;
@@ -120,25 +117,25 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/linha-Absolut-Repair-da-Loreal-Professional.jpg"><img class="alignnone size-full wp-image-8352" title="linha Absolut Repair, da L'oreal Professional" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/linha-Absolut-Repair-da-Loreal-Professional.jpg" alt="" width="600" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/linha-Absolut-Repair-da-Loreal-Professional.jpg"><img class="alignnone size-full wp-image-8352" title="linha Absolut Repair, da L'oreal Professional" src="https://www.trololodemulher.com.br/2011/12/linha-Absolut-Repair-da-Loreal-Professional.jpg" alt="" width="600" height="600" /></a>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   <em>“… Cabelos: atualmente estou usando a <strong><a href="http://www.lorealprofessionnel.com.br/_pt/_br/products/fam_Product00_S.aspx?Catcode=Axe_Salon%5EAxe_Shampoing_S%5EF1_Sha_AbsoRepair_S&prdcode=CI3&tc=Navigation%5ENav_Produits_et_conseils%5ENav_Produits_et_services" target="_blank">linha Absolut Repair, da L´oreal Professional</a></strong>.”</em>
+>   <em>“… Cabelos: atualmente estou usando a <strong><a href="http://www.lorealprofessionnel.com.br/_pt/_br/products/fam_Product00_S.aspx?Catcode=Axe_Salon%5EAxe_Shampoing_S%5EF1_Sha_AbsoRepair_S&prdcode=CI3&tc=Navigation%5ENav_Produits_et_conseils%5ENav_Produits_et_services" target="_blank" rel="noopener noreferrer">linha Absolut Repair, da L´oreal Professional</a></strong>.”</em>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Renata-Becker.jpg"><img class="alignnone size-full wp-image-8356" title="Renata Becker" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Renata-Becker.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/Renata-Becker.jpg"><img class="alignnone size-full wp-image-8356" title="Renata Becker" src="https://www.trololodemulher.com.br/2011/12/Renata-Becker.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong>Renata Becker</strong> é uma blogueira que acompanho há um certo tempo, e acho super criativas as suas ideias de baixíssimo custo para deixar a casa com sua cara, e é o que ela mais gosta de mostrar em seu blog <strong><a href="http://vidaloucadecasada.blogspot.com/" target="_blank">Vida Louca de Casada</a></strong>. Bonita que só ela, repara só nas diquinhas que ela separou para nos contar:
+  <strong>Renata Becker</strong> é uma blogueira que acompanho há um certo tempo, e acho super criativas as suas ideias de baixíssimo custo para deixar a casa com sua cara, e é o que ela mais gosta de mostrar em seu blog <strong><a href="http://vidaloucadecasada.blogspot.com/" target="_blank" rel="noopener noreferrer">Vida Louca de Casada</a></strong>. Bonita que só ela, repara só nas diquinhas que ela separou para nos contar:
 </p>
 
 &nbsp;
@@ -182,13 +179,13 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Talita-Cavalcante.png"><img class="alignnone size-full wp-image-8357" title="Talita Cavalcante" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Talita-Cavalcante.png" alt="" width="510" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/Talita-Cavalcante.png"><img class="alignnone size-full wp-image-8357" title="Talita Cavalcante" src="https://www.trololodemulher.com.br/2011/12/Talita-Cavalcante.png" alt="" width="510" height="600" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Alguma dúvida do quanto essa moça é bonita? Pois é… essa é a bela <strong>Talita Cavalcante</strong>, editora do blog <strong><a href="http://www.donaperfeitinha.com/" target="_blank">Dona Perfeitinha</a></strong>. Seu blog é <em>superultramega</em> variado quanto aos assuntos abordados, todos dentro do universo feminino. Falar sobre beleza faz parte de seu dia a dia <em>bloguístico</em>, e porque gosta desse tema, ela topou dividir o que sabe conosco:
+  Alguma dúvida do quanto essa moça é bonita? Pois é… essa é a bela <strong>Talita Cavalcante</strong>, editora do blog <strong><a href="http://www.donaperfeitinha.com/" target="_blank" rel="noopener noreferrer">Dona Perfeitinha</a></strong>. Seu blog é <em>superultramega</em> variado quanto aos assuntos abordados, todos dentro do universo feminino. Falar sobre beleza faz parte de seu dia a dia <em>bloguístico</em>, e porque gosta desse tema, ela topou dividir o que sabe conosco:
 </p>
 
 &nbsp;
@@ -200,7 +197,7 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/truque-do-lápis2.jpg"><img class="alignnone size-full wp-image-8358" title="truque do lápis2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/truque-do-lápis2.jpg" alt="" width="526" height="362" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/truque-do-lápis2.jpg"><img class="alignnone size-full wp-image-8358" title="truque do lápis2" src="https://www.trololodemulher.com.br/2011/12/truque-do-lápis2.jpg" alt="" width="526" height="362" /></a>
 </p>
 
 &nbsp;
@@ -212,13 +209,13 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Keka.png"><img class="alignnone size-full wp-image-8345" title="Keka" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Keka.png" alt="" width="432" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/Keka.png"><img class="alignnone size-full wp-image-8345" title="Keka" src="https://www.trololodemulher.com.br/2011/12/Keka.png" alt="" width="432" height="600" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Esta bonitona aí logo acima é a<strong> Keka</strong>, a blogueira que comanda o <strong><a href="http://coisas-para-meninas.blogspot.com/" target="_blank">Coisas de Meninas</a></strong>. O blog é uma mistura de feminices gostosas, com destaque para o universo da casa e decoração. É essa blogueira talentosa e com modestia proporcional a sua beleza quem revela uma dica super simples e, ao mesmo tempo, <em>superultramega glamourosa</em>… confere!
+  Esta bonitona aí logo acima é a<strong> Keka</strong>, a blogueira que comanda o <strong><a href="http://coisas-para-meninas.blogspot.com/" target="_blank" rel="noopener noreferrer">Coisas de Meninas</a></strong>. O blog é uma mistura de feminices gostosas, com destaque para o universo da casa e decoração. É essa blogueira talentosa e com modestia proporcional a sua beleza quem revela uma dica super simples e, ao mesmo tempo, <em>superultramega glamourosa</em>… confere!
 </p>
 
 &nbsp;
@@ -239,13 +236,13 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/12/05/produtos-de-beleza/"><img class="alignnone size-full wp-image-8273" title="pauline-costa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/pauline-costa200.jpg" alt="" width="200" height="200" /></a><br /> <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/12/05/produtos-de-beleza/">Produtinhos de beleza recomendados pela blogueira Pauline Costa</a></span></strong>
+        <a href="http://www.trololodemulher.com.br/2011/12/05/produtos-de-beleza/"><img class="alignnone size-full wp-image-8273" title="pauline-costa200" src="https://www.trololodemulher.com.br/2011/12/pauline-costa200.jpg" alt="" width="200" height="200" /></a><br /> <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/12/05/produtos-de-beleza/">Produtinhos de beleza recomendados pela blogueira Pauline Costa</a></span></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/"><img class="alignnone size-full wp-image-8213" title="Batom YVS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Batom-YVS200.jpg" alt="" width="200" height="200" /></a><br /> <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/">Esmalte, batom e sombra… uma explosão de cores no Bicha Fêmea!</a></span></strong>
+        <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/"><img class="alignnone size-full wp-image-8213" title="Batom YVS200" src="https://www.trololodemulher.com.br/2011/11/Batom-YVS200.jpg" alt="" width="200" height="200" /></a><br /> <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/">Esmalte, batom e sombra… uma explosão de cores no Bicha Fêmea!</a></span></strong>
       </p>
     </td>
   </tr>
@@ -253,13 +250,13 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/beleza-da-pele200.jpg"><img class="alignnone size-full wp-image-7019" title="beleza da pele200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/beleza-da-pele200.jpg" alt="" width="200" height="200" /><br /> </a><strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/10/17/beleza-da-pele-no-verao/">Pescoço, costas e cotovelo: beleza da pele no Verão.</a></span></strong>
+        <a href="https://www.trololodemulher.com.br/2011/10/beleza-da-pele200.jpg"><img class="alignnone size-full wp-image-7019" title="beleza da pele200" src="https://www.trololodemulher.com.br/2011/10/beleza-da-pele200.jpg" alt="" width="200" height="200" /><br /> </a><strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/10/17/beleza-da-pele-no-verao/">Pescoço, costas e cotovelo: beleza da pele no Verão.</a></span></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem2200.jpg"><img class="alignnone size-full wp-image-6981" title="maquiagem[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem2200.jpg" alt="" width="200" height="200" /></a><br /> <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/10/03/dicas-de-maquiagem/">Dicas de maquiagem para um visual… “melhor, impossível”!</a></span></strong>
+        <a href="https://www.trololodemulher.com.br/2011/09/maquiagem2200.jpg"><img class="alignnone size-full wp-image-6981" title="maquiagem[2]200" src="https://www.trololodemulher.com.br/2011/09/maquiagem2200.jpg" alt="" width="200" height="200" /></a><br /> <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/10/03/dicas-de-maquiagem/">Dicas de maquiagem para um visual… “melhor, impossível”!</a></span></strong>
       </p>
     </td>
   </tr>
@@ -283,13 +280,13 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="http://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     

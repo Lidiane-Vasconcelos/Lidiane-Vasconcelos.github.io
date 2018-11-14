@@ -1,10 +1,7 @@
 ---
-id: 3343
 title: 'Bonitas e funcionais: 4 dicas de organização de bijus.'
-date: 2014-09-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/09/15/dicas-organizacao-bijus/
 permalink: /2014/09/15/dicas-organizacao-bijus/
 categories:
   - Moda
@@ -23,7 +20,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR-BIJUS.jpg"><img class="alignnone size-full wp-image-10398" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR-BIJUS.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DO LAR-BIJUS" width="550" height="733" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR-BIJUS.jpg"><img class="alignnone size-full wp-image-10398" src="https://www.trololodemulher.com.br/2014/09/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR-BIJUS.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DO LAR-BIJUS" width="550" height="733" /></a>
 </p>
 
 <p align="justify">
@@ -35,7 +32,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR-BIJUS2.jpg"><img class="alignnone size-full wp-image-10399" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR-BIJUS2.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DO LAR-BIJUS[2]" width="550" height="733" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR-BIJUS2.jpg"><img class="alignnone size-full wp-image-10399" src="https://www.trololodemulher.com.br/2014/09/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR-BIJUS2.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DO LAR-BIJUS[2]" width="550" height="733" /></a>
 </p>
 
 <p align="justify">
@@ -43,7 +40,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR-BIJUS3.jpg"><img class="alignnone size-full wp-image-10400" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR-BIJUS3.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DO LAR-BIJUS[3]" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR-BIJUS3.jpg"><img class="alignnone size-full wp-image-10400" src="https://www.trololodemulher.com.br/2014/09/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR-BIJUS3.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DO LAR-BIJUS[3]" width="550" height="550" /></a>
 </p>
 
 <p align="justify">
@@ -55,7 +52,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR-BIJUS4.jpg"><img class="alignnone size-full wp-image-10401" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR-BIJUS4.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DO LAR-BIJUS[4]" width="550" height="733" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR-BIJUS4.jpg"><img class="alignnone size-full wp-image-10401" src="https://www.trololodemulher.com.br/2014/09/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DO-LAR-BIJUS4.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DO LAR-BIJUS[4]" width="550" height="733" /></a>
 </p>
 
 <p align="justify">
@@ -67,27 +64,27 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/04/29/organizar-produtos-beleza/" target="_blank"><strong>5 dicas para organizar seus produtos de beleza.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/04/29/organizar-produtos-beleza/" target="_blank" rel="noopener noreferrer"><strong>5 dicas para organizar seus produtos de beleza.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/02/16/ideias-organizar-esmaltes/" target="_blank"><strong>5 ideias para organizar esmaltes.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/02/16/ideias-organizar-esmaltes/" target="_blank" rel="noopener noreferrer"><strong>5 ideias para organizar esmaltes.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/07/30/dicas-organizacao-maquiagem/" target="_blank"><strong>Dicas para organizar sua maquiagem.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/07/30/dicas-organizacao-maquiagem/" target="_blank" rel="noopener noreferrer"><strong>Dicas para organizar sua maquiagem.</strong></a>
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagens: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
+  <a href="http://www.decoracaodacasa.com/" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10262" src="https://www.trololodemulher.com.br/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
 </p>
 
 &nbsp;

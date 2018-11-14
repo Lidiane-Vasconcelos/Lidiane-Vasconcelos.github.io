@@ -1,10 +1,7 @@
 ---
-id: 3255
 title: 'Resultado do sorteio da blogagem coletiva [ATUALIZADO]'
-date: 2013-08-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/08/29/resultado-do-sorteio-2/
 permalink: /2013/08/29/resultado-do-sorteio-2/
 categories:
   - Promoção
@@ -20,7 +17,7 @@ A blogagem coletiva acabou e me deixou saudade, porque eu estava curtindo a ades
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/08/Resultado-Sorteio.png"><img class="alignnone size-full wp-image-9743" alt="Resultado Sorteio" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/08/Resultado-Sorteio.png" width="477" height="384" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/08/Resultado-Sorteio.png"><img class="alignnone size-full wp-image-9743" alt="Resultado Sorteio" src="https://www.trololodemulher.com.br/2013/08/Resultado-Sorteio.png" width="477" height="384" /></a>
 </p>
 
 &nbsp;
@@ -45,7 +42,7 @@ A blogagem coletiva acabou e me deixou saudade, porque eu estava curtindo a ades
 
 <p align="justify">
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/Resultado-SorteioII.png"><img class="alignnone size-full wp-image-9752" alt="Resultado Sorteio[II]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/Resultado-SorteioII.png" width="474" height="356" /></a>
+    <a href="https://www.trololodemulher.com.br/2013/09/Resultado-SorteioII.png"><img class="alignnone size-full wp-image-9752" alt="Resultado Sorteio[II]" src="https://www.trololodemulher.com.br/2013/09/Resultado-SorteioII.png" width="474" height="356" /></a>
   </p>
   
   <p align="justify">

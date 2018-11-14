@@ -1,10 +1,7 @@
 ---
-id: 3783
 title: 'Papel de parede na cabeceira da cama: inspirações.'
-date: 2017-08-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/08/15/papel-de-parede-na-cabeceira/
 permalink: /2017/08/15/papel-de-parede-na-cabeceira/
 categories:
   - Quarto
@@ -22,11 +19,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/03/10/papel-de-parede-no-quarto/" target="_blank">Papel de parede no quarto: como decorar?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/03/10/papel-de-parede-no-quarto/" target="_blank" rel="noopener noreferrer">Papel de parede no quarto: como decorar?</a></strong>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13983" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/DECORACAO-QUARTO-CABECEIRA-PAPEL-DE-PAREDE.jpeg" alt="DECORACAO-QUARTO-CABECEIRA-PAPEL DE PAREDE" width="584" height="800" />
+  <img class="alignnone size-full wp-image-13983" src="https://www.trololodemulher.com.br/2017/08/DECORACAO-QUARTO-CABECEIRA-PAPEL-DE-PAREDE.jpeg" alt="DECORACAO-QUARTO-CABECEIRA-PAPEL DE PAREDE" width="584" height="800" />
 </p>
 
 <p align="justify">
@@ -34,7 +31,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13984" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/DECORACAO-QUARTO-CABECEIRA-PAPEL-DE-PAREDE2.jpeg" alt="DECORACAO-QUARTO-CABECEIRA-PAPEL DE PAREDE[2]" width="800" height="538" />
+  <img class="alignnone size-full wp-image-13984" src="https://www.trololodemulher.com.br/2017/08/DECORACAO-QUARTO-CABECEIRA-PAPEL-DE-PAREDE2.jpeg" alt="DECORACAO-QUARTO-CABECEIRA-PAPEL DE PAREDE[2]" width="800" height="538" />
 </p>
 
 <p align="center">
@@ -42,7 +39,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13987" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/DECORACAO-QUARTO-CABECEIRA-PAPEL-DE-PAREDE3.jpeg" alt="DECORACAO-QUARTO-CABECEIRA-PAPEL DE PAREDE[3]" width="800" height="600" />
+  <img class="alignnone size-full wp-image-13987" src="https://www.trololodemulher.com.br/2017/08/DECORACAO-QUARTO-CABECEIRA-PAPEL-DE-PAREDE3.jpeg" alt="DECORACAO-QUARTO-CABECEIRA-PAPEL DE PAREDE[3]" width="800" height="600" />
 </p>
 
 <p align="center">
@@ -50,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13988" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/DECORACAO-QUARTO-CABECEIRA-PAPEL-DE-PAREDE4.jpeg" alt="DECORACAO-QUARTO-CABECEIRA-PAPEL DE PAREDE[4]" width="800" height="509" />
+  <img class="alignnone size-full wp-image-13988" src="https://www.trololodemulher.com.br/2017/08/DECORACAO-QUARTO-CABECEIRA-PAPEL-DE-PAREDE4.jpeg" alt="DECORACAO-QUARTO-CABECEIRA-PAPEL DE PAREDE[4]" width="800" height="509" />
 </p>
 
 <p align="center">
@@ -58,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13989" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/DECORACAO-QUARTO-CABECEIRA-PAPEL-DE-PAREDE5.jpeg" alt="DECORACAO-QUARTO-CABECEIRA-PAPEL DE PAREDE[5]" width="561" height="600" />
+  <img class="alignnone size-full wp-image-13989" src="https://www.trololodemulher.com.br/2017/08/DECORACAO-QUARTO-CABECEIRA-PAPEL-DE-PAREDE5.jpeg" alt="DECORACAO-QUARTO-CABECEIRA-PAPEL DE PAREDE[5]" width="561" height="600" />
 </p>
 
 <p align="center">
@@ -66,7 +63,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13991" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/DECORACAO-QUARTO-CABECEIRA-PAPEL-DE-PAREDE7.jpeg" alt="DECORACAO-QUARTO-CABECEIRA-PAPEL DE PAREDE[7]" width="800" height="719" />
+  <img class="alignnone size-full wp-image-13991" src="https://www.trololodemulher.com.br/2017/08/DECORACAO-QUARTO-CABECEIRA-PAPEL-DE-PAREDE7.jpeg" alt="DECORACAO-QUARTO-CABECEIRA-PAPEL DE PAREDE[7]" width="800" height="719" />
 </p>
 
 <p align="center">
@@ -74,15 +71,15 @@ categories:
 </p>
 
 <p align="left">
-  Imagens: <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
+  Imagens: <a href="http://casa.abril.com.br/" target="_blank" rel="noopener noreferrer">Casa Abril</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13990" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/DECORACAO-QUARTO-CABECEIRA-PAPEL-DE-PAREDE6.jpeg" alt="DECORACAO-QUARTO-CABECEIRA-PAPEL DE PAREDE[6]" width="513" height="550" />
+  <img class="alignnone size-full wp-image-13990" src="https://www.trololodemulher.com.br/2017/08/DECORACAO-QUARTO-CABECEIRA-PAPEL-DE-PAREDE6.jpeg" alt="DECORACAO-QUARTO-CABECEIRA-PAPEL DE PAREDE[6]" width="513" height="550" />
 </p>
 
 <p align="center">
-  Via <a href="http://dicasnainternet.com/" target="_blank">Dicas na Internet</a>
+  Via <a href="http://dicasnainternet.com/" target="_blank" rel="noopener noreferrer">Dicas na Internet</a>
 </p>
 
 <p align="center">
@@ -90,11 +87,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13992" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/DECORACAO-QUARTO-CABECEIRA-PAPEL-DE-PAREDE8.jpeg" alt="DECORACAO-QUARTO-CABECEIRA-PAPEL DE PAREDE[8]" width="640" height="432" />
+  <img class="alignnone size-full wp-image-13992" src="https://www.trololodemulher.com.br/2017/08/DECORACAO-QUARTO-CABECEIRA-PAPEL-DE-PAREDE8.jpeg" alt="DECORACAO-QUARTO-CABECEIRA-PAPEL DE PAREDE[8]" width="640" height="432" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.decorsalteado.com/" target="_blank">Decor Salteado</a>
+  Via <a href="http://www.decorsalteado.com/" target="_blank" rel="noopener noreferrer">Decor Salteado</a>
 </p>
 
 <p align="center">
@@ -106,9 +103,9 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/03/23/decoracao-de-quarto-pequeno/" target="_blank"><strong>O que fazer na decoração de quarto pequeno?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/03/23/decoracao-de-quarto-pequeno/" target="_blank" rel="noopener noreferrer"><strong>O que fazer na decoração de quarto pequeno?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

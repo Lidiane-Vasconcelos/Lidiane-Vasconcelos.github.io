@@ -1,10 +1,7 @@
 ---
-id: 2955
 title: Como incrementar a decoração de uma cozinha com armários claros?
-date: 2011-02-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/02/28/decoracao-de-cozinha-clara/
 permalink: /2011/02/28/decoracao-de-cozinha-clara/
 categories:
   - Cozinha
@@ -22,7 +19,7 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/armarios-de-cozinha-planejada-brancos.jpg"><img class="alignnone size-full wp-image-5972" title="armários de cozinha planejada brancos" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/armarios-de-cozinha-planejada-brancos.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/armarios-de-cozinha-planejada-brancos.jpg"><img class="alignnone size-full wp-image-5972" title="armários de cozinha planejada brancos" src="https://www.trololodemulher.com.br/2011/02/armarios-de-cozinha-planejada-brancos.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -40,7 +37,7 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Placa-Galinha-Country200.jpg"><img class="alignnone size-full wp-image-5303" title="Placa Galinha Country200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Placa-Galinha-Country200.jpg" alt="" width="200" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/10/Placa-Galinha-Country200.jpg"><img class="alignnone size-full wp-image-5303" title="Placa Galinha Country200" src="https://www.trololodemulher.com.br/2010/10/Placa-Galinha-Country200.jpg" alt="" width="200" height="200" /></a>
     </td>
     
     <td width="300" valign="top">
@@ -53,7 +50,7 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
       </p>
       
       <p style="text-align: justify;">
-        <em>A <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/" target="_blank">Placa Galinha Country</a></strong> está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/" target="_blank">basta clicar</a></strong>!</em>
+        <em>A <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/" target="_blank" rel="noopener noreferrer">Placa Galinha Country</a></strong> está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
       </p>
     </td>
   </tr>
@@ -69,12 +66,12 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
       </p>
       
       <p style="text-align: justify;">
-        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank">Móbile Galinha Country</a></strong><strong> </strong> está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank"><strong><em>basta clicar</em></strong></a><em>!</em>
+        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank" rel="noopener noreferrer">Móbile Galinha Country</a></strong><strong> </strong> está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank" rel="noopener noreferrer"><strong><em>basta clicar</em></strong></a><em>!</em>
       </p>
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Galinha-Country2200.jpg"><img class="alignnone size-full wp-image-5268" title="Móbile Galinha Country2200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Galinha-Country2200.jpg" alt="" width="200" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/09/Mobile-Galinha-Country2200.jpg"><img class="alignnone size-full wp-image-5268" title="Móbile Galinha Country2200" src="https://www.trololodemulher.com.br/2010/09/Mobile-Galinha-Country2200.jpg" alt="" width="200" height="200" /></a>
     </td>
   </tr>
 </table>
@@ -82,7 +79,7 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
  
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/armarios-de-cozinha-planejada-brancos-2.jpg"><img class="alignnone size-full wp-image-5973" title="armários de cozinha planejada brancos 2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/armarios-de-cozinha-planejada-brancos-2.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/armarios-de-cozinha-planejada-brancos-2.jpg"><img class="alignnone size-full wp-image-5973" title="armários de cozinha planejada brancos 2" src="https://www.trololodemulher.com.br/2011/02/armarios-de-cozinha-planejada-brancos-2.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -100,7 +97,7 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Quadro-Cenario-Cozinha200.jpg"><img class="alignnone size-full wp-image-5563" title="Quadro Cenário Cozinha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Quadro-Cenario-Cozinha200.jpg" alt="" width="200" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/12/Quadro-Cenario-Cozinha200.jpg"><img class="alignnone size-full wp-image-5563" title="Quadro Cenário Cozinha200" src="https://www.trololodemulher.com.br/2010/12/Quadro-Cenario-Cozinha200.jpg" alt="" width="200" height="200" /></a>
     </td>
     
     <td width="300" valign="top">
@@ -109,7 +106,7 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
       </p>
       
       <p style="text-align: justify;">
-        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank">Quadro Cenário Cozinha</a></strong> está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank"><strong><em>basta clicar</em></strong></a><em>!</em>
+        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank" rel="noopener noreferrer">Quadro Cenário Cozinha</a></strong> está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank" rel="noopener noreferrer"><strong><em>basta clicar</em></strong></a><em>!</em>
       </p>
     </td>
   </tr>
@@ -125,18 +122,18 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
       </p>
       
       <p style="text-align: justify;">
-        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank">Regador Provençal</a></strong> está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank"><strong><em>basta clicar</em></strong></a><em>!</em>
+        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank" rel="noopener noreferrer">Regador Provençal</a></strong> está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank" rel="noopener noreferrer"><strong><em>basta clicar</em></strong></a><em>!</em>
       </p>
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Regador-Provencal200.jpg"><img class="alignnone size-full wp-image-5441" title="Regador Provençal200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Regador-Provencal200.jpg" alt="" width="200" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/11/Regador-Provencal200.jpg"><img class="alignnone size-full wp-image-5441" title="Regador Provençal200" src="https://www.trololodemulher.com.br/2010/11/Regador-Provencal200.jpg" alt="" width="200" height="200" /></a>
     </td>
   </tr>
   
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Telas-Mediterraneo200.jpg"><img class="alignnone size-full wp-image-5564" title="Telas Mediterrâneo200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Telas-Mediterraneo200.jpg" alt="" width="200" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/12/Telas-Mediterraneo200.jpg"><img class="alignnone size-full wp-image-5564" title="Telas Mediterrâneo200" src="https://www.trololodemulher.com.br/2010/12/Telas-Mediterraneo200.jpg" alt="" width="200" height="200" /></a>
     </td>
     
     <td width="300" valign="top">
@@ -149,7 +146,7 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
       </p>
       
       <p style="text-align: justify;">
-        <em>As <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank">Telas Mediterrâneo</a></strong> estão a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank"><strong><em>basta clicar</em></strong></a><em>!</em>
+        <em>As <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank" rel="noopener noreferrer">Telas Mediterrâneo</a></strong> estão a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank" rel="noopener noreferrer"><strong><em>basta clicar</em></strong></a><em>!</em>
       </p>
     </td>
   </tr>
@@ -165,12 +162,12 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
       </p>
       
       <p style="text-align: justify;">
-        <em>Os <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank">Quadros Cenário Copa & Café</a></strong> estão a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>><strong> </strong></em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"><strong><em>basta clicar</em></strong></a><em>!</em>
+        <em>Os <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank" rel="noopener noreferrer">Quadros Cenário Copa & Café</a></strong> estão a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>><strong> </strong></em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank" rel="noopener noreferrer"><strong><em>basta clicar</em></strong></a><em>!</em>
       </p>
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-CopaCafe200.jpg"><img class="alignnone size-full wp-image-5304" title="Quadro Cenário Copa&Café200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-CopaCafe200.jpg" alt="" width="200" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/10/Quadro-Cenario-CopaCafe200.jpg"><img class="alignnone size-full wp-image-5304" title="Quadro Cenário Copa&Café200" src="https://www.trololodemulher.com.br/2010/10/Quadro-Cenario-CopaCafe200.jpg" alt="" width="200" height="200" /></a>
     </td>
   </tr>
 </table>
@@ -178,7 +175,7 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
  
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/armarios-de-cozinha-planejada-brancos-3.jpg"><img class="alignnone size-full wp-image-5974" title="armários de cozinha planejada brancos 3" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/armarios-de-cozinha-planejada-brancos-3.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/armarios-de-cozinha-planejada-brancos-3.jpg"><img class="alignnone size-full wp-image-5974" title="armários de cozinha planejada brancos 3" src="https://www.trololodemulher.com.br/2011/02/armarios-de-cozinha-planejada-brancos-3.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -186,7 +183,7 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/armarios-de-cozinha-planejada-brancos-4.jpg"><img class="alignnone size-full wp-image-5975" title="armários de cozinha planejada brancos 4" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/armarios-de-cozinha-planejada-brancos-4.jpg" alt="" width="300" height="250" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/armarios-de-cozinha-planejada-brancos-4.jpg"><img class="alignnone size-full wp-image-5975" title="armários de cozinha planejada brancos 4" src="https://www.trololodemulher.com.br/2011/02/armarios-de-cozinha-planejada-brancos-4.jpg" alt="" width="300" height="250" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -198,20 +195,20 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/armarios-de-cozinha-planejada-cremes.jpg"><img class="alignnone size-full wp-image-5978" title="armários de cozinha planejada cremes" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/armarios-de-cozinha-planejada-cremes.jpg" alt="" width="300" height="250" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/armarios-de-cozinha-planejada-cremes.jpg"><img class="alignnone size-full wp-image-5978" title="armários de cozinha planejada cremes" src="https://www.trololodemulher.com.br/2011/02/armarios-de-cozinha-planejada-cremes.jpg" alt="" width="300" height="250" /></a>
 </p>
 
 Não foi um branco que você escolheu para seus armários, mas algo bem perto disso? Ganhe em elegância combinando esta tonalidade com um balcão marrom e escolhendo um revestimento para a parede entre os armários de baixo e de cima que tenham detalhes em azul. Repare bem no ambiente e veja que esses tons combinam perfeitamente. Se seu espaço permitir, capriche nas cortinas também na tonalidade marrom e _voilá_!
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/armarios-de-cozinha-planejada-cremes-2.jpg"><img class="alignnone size-full wp-image-5979" title="armários de cozinha planejada cremes 2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/armarios-de-cozinha-planejada-cremes-2.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/armarios-de-cozinha-planejada-cremes-2.jpg"><img class="alignnone size-full wp-image-5979" title="armários de cozinha planejada cremes 2" src="https://www.trololodemulher.com.br/2011/02/armarios-de-cozinha-planejada-cremes-2.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
   Deixe sua cozinha de armários e paredes creme com um foco de atenção bonito cobrindo a área atrás do fogão e da pia com um revestimento que tenha tonalidade marrom, com pinceladas de creme e vermelho. Pouco charme é bobagem num ambiente assim! Aproveite para pincelar sua cozinha de vermelho com alguns objetos, e não duvide de que  esse ambiente vai arrasar!
 </p>
 
-_Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Gardens</em></a>
+_Imagens:_ <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer"><em>Better Homes and Gardens</em></a>
 
 **Mais no Bicha Fêmea…**
 

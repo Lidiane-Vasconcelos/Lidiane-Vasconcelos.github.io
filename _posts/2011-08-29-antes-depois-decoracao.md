@@ -1,10 +1,7 @@
 ---
-id: 3043
 title: 'Antes &#038; Depois de mesa + camiseta na decoração da casa…'
-date: 2011-08-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/08/29/antes-depois-decoracao/
 permalink: /2011/08/29/antes-depois-decoracao/
 categories:
   - Decoração
@@ -21,17 +18,17 @@ Uma das delícias de quem curte navegar por blogs que falam de decoração é se
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/surpresa.jpg"><img class="alignnone size-full wp-image-6838" title="surpresa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/surpresa.jpg" alt="" width="559" height="600" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/08/surpresa.jpg"><img class="alignnone size-full wp-image-6838" title="surpresa" src="https://www.trololodemulher.com.br/2011/08/surpresa.jpg" alt="" width="559" height="600" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">Stock.xchng</a></strong>
 </p>
 
 <p align="justify">
-  Basta um pouco de jeito com as atividades manuais, e menos dinheiro ainda, para que você pegue um móvel condenado ao lixo por muitos e transforme ele em algo novo, totalmente renovado. Foi exatamente o que fez a <strong>Lilly</strong>, editora do <strong><a href="http://blogdareforma.wordpress.com/" target="_blank">Blog da Reforma</a></strong>, quando resolveu dar um <em>up</em> nessa mesinha, bem acabadinha, logo a seguir…
+  Basta um pouco de jeito com as atividades manuais, e menos dinheiro ainda, para que você pegue um móvel condenado ao lixo por muitos e transforme ele em algo novo, totalmente renovado. Foi exatamente o que fez a <strong>Lilly</strong>, editora do <strong><a href="http://blogdareforma.wordpress.com/" target="_blank" rel="noopener noreferrer">Blog da Reforma</a></strong>, quando resolveu dar um <em>up</em> nessa mesinha, bem acabadinha, logo a seguir…
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/mesinha-antes.jpg"><img class="alignnone size-full wp-image-6841" title="mesinha antes" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/mesinha-antes.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/mesinha-antes.jpg"><img class="alignnone size-full wp-image-6841" title="mesinha antes" src="https://www.trololodemulher.com.br/2011/08/mesinha-antes.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 &nbsp;
@@ -43,7 +40,7 @@ Uma das delícias de quem curte navegar por blogs que falam de decoração é se
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/mesinha-depois.jpg"><img class="alignnone size-full wp-image-6842" title="mesinha depois" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/mesinha-depois.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/mesinha-depois.jpg"><img class="alignnone size-full wp-image-6842" title="mesinha depois" src="https://www.trololodemulher.com.br/2011/08/mesinha-depois.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -59,25 +56,25 @@ Uma das delícias de quem curte navegar por blogs que falam de decoração é se
 </p>
 
 <p align="justify">
-  Mais do que te inspirar para renovar um móvel de sua casa, esse post de <strong>Antes&Depois</strong> quer mostrar que algumas coisas podem mesmo se transformar, ganhar nova função. Sabe o que a <strong>Renata Becker</strong>, que comanda o blog <strong><a href="http://vidaloucadecasada.blogspot.com/" target="_blank">Vida Louca de Casada</a></strong>, fez na casa dela? Ela usou uma camiseta para confeccionar uma almofada… pois, é! Se você tiver uma camiseta abandonada no fundo do armário, corre e veja se ela tem potencial. A inspiração para isso? Veja a seguir…
+  Mais do que te inspirar para renovar um móvel de sua casa, esse post de <strong>Antes&Depois</strong> quer mostrar que algumas coisas podem mesmo se transformar, ganhar nova função. Sabe o que a <strong>Renata Becker</strong>, que comanda o blog <strong><a href="http://vidaloucadecasada.blogspot.com/" target="_blank" rel="noopener noreferrer">Vida Louca de Casada</a></strong>, fez na casa dela? Ela usou uma camiseta para confeccionar uma almofada… pois, é! Se você tiver uma camiseta abandonada no fundo do armário, corre e veja se ela tem potencial. A inspiração para isso? Veja a seguir…
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/camiseta-antes.jpg"><img class="alignnone size-full wp-image-6844" title="Camera" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/camiseta-antes.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/camiseta-antes.jpg"><img class="alignnone size-full wp-image-6844" title="Camera" src="https://www.trololodemulher.com.br/2011/08/camiseta-antes.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Foi numa dessas arrumações do armário que a <strong>Renata</strong> encontrou a camiseta esquecida. Empolgada com o achado, como conta em detalhes<strong> <a href="http://vidaloucadecasada.blogspot.com/2011/07/faca-vc-mesmo-almofada-de-camiseta.html" target="_blank">neste post publicado em seu blog</a></strong>, ela resolveu investir na transformação…
+  Foi numa dessas arrumações do armário que a <strong>Renata</strong> encontrou a camiseta esquecida. Empolgada com o achado, como conta em detalhes<strong> <a href="http://vidaloucadecasada.blogspot.com/2011/07/faca-vc-mesmo-almofada-de-camiseta.html" target="_blank" rel="noopener noreferrer">neste post publicado em seu blog</a></strong>, ela resolveu investir na transformação…
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/almofada-depois.jpg"><img class="alignnone size-full wp-image-6843" title="Camera" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/almofada-depois.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/almofada-depois.jpg"><img class="alignnone size-full wp-image-6843" title="Camera" src="https://www.trololodemulher.com.br/2011/08/almofada-depois.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;

@@ -1,17 +1,14 @@
 ---
-id: 3647
 title: '{dance} Festa para meninas crescidinhas: dicas e ideias.'
-date: 2016-08-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/08/23/festa-para-meninas/
 permalink: /2016/08/23/festa-para-meninas/
 categories:
   - Festas Infantis
   - Maternidade
 ---
 <p align="justify">
-  Uma hora a menininha da mamãe cresce e, <em>pá</em>: já é uma mocinha! Ter uma festinha pra comemorar com as amigas continua sendo um presente mais que perfeito que a mãe possa proporcionar, claro! Mas não pode ter traços de bebê, hein? …<em>rsrsrsrs</em>… e agora: como organizar uma festa para meninas, que cresceram, e tudo o que querem é dançar muito? Este foi um pedido bem específico de uma leitora mais que querida no Trololó de Mulher. No post sobre <a href="http://www.trololodemulher.com.br/2016/03/30/festa-infantil-caseira/" target="_blank">inspirações de mesas para festas caseiras</a>, Marlene escreveu assim:
+  Uma hora a menininha da mamãe cresce e, <em>pá</em>: já é uma mocinha! Ter uma festinha pra comemorar com as amigas continua sendo um presente mais que perfeito que a mãe possa proporcionar, claro! Mas não pode ter traços de bebê, hein? …<em>rsrsrsrs</em>… e agora: como organizar uma festa para meninas, que cresceram, e tudo o que querem é dançar muito? Este foi um pedido bem específico de uma leitora mais que querida no Trololó de Mulher. No post sobre <a href="http://www.trololodemulher.com.br/2016/03/30/festa-infantil-caseira/" target="_blank" rel="noopener noreferrer">inspirações de mesas para festas caseiras</a>, Marlene escreveu assim:
 </p>
 
 <p align="justify">
@@ -24,7 +21,7 @@ categories:
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12813" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS" width="720" height="960" />
+    <img class="alignnone size-full wp-image-12813" src="https://www.trololodemulher.com.br/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS" width="720" height="960" />
   </p>
   
   <p align="center">
@@ -32,11 +29,11 @@ categories:
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12828" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS16.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[16]" width="800" height="600" />
+    <img class="alignnone size-full wp-image-12828" src="https://www.trololodemulher.com.br/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS16.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[16]" width="800" height="600" />
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12814" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS2.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[2]" width="720" height="960" />
+    <img class="alignnone size-full wp-image-12814" src="https://www.trololodemulher.com.br/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS2.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[2]" width="720" height="960" />
   </p>
   
   <p align="center">
@@ -44,15 +41,15 @@ categories:
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12815" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS3.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[3]" width="800" height="600" />
+    <img class="alignnone size-full wp-image-12815" src="https://www.trololodemulher.com.br/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS3.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[3]" width="800" height="600" />
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12816" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS4.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[4]" width="720" height="960" />
+    <img class="alignnone size-full wp-image-12816" src="https://www.trololodemulher.com.br/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS4.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[4]" width="720" height="960" />
   </p>
   
   <p align="center">
-    Cantinho das sacolinhas com guloseimas e tudo o mais. Claro que a mamãe pode caprichar num modelo similar, ou preparar outro. Para dar uma mãozinha, não deixe de conferir as <a href="http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/" target="_blank">9 ideias de sacolas de festa infantil “faça você mesma”</a> publicadas por aqui.
+    Cantinho das sacolinhas com guloseimas e tudo o mais. Claro que a mamãe pode caprichar num modelo similar, ou preparar outro. Para dar uma mãozinha, não deixe de conferir as <a href="http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/" target="_blank" rel="noopener noreferrer">9 ideias de sacolas de festa infantil “faça você mesma”</a> publicadas por aqui.
   </p>
   
   <p align="justify">
@@ -60,23 +57,23 @@ categories:
   </p>
   
   <p align="justify">
-    <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">Sacolinha de festa infantil: faça você mesma!</a>
+    <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank" rel="noopener noreferrer">Sacolinha de festa infantil: faça você mesma!</a>
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12817" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS5.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[5]" width="720" height="960" />
+    <img class="alignnone size-full wp-image-12817" src="https://www.trololodemulher.com.br/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS5.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[5]" width="720" height="960" />
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12818" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS6.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[6]" width="800" height="600" />
+    <img class="alignnone size-full wp-image-12818" src="https://www.trololodemulher.com.br/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS6.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[6]" width="800" height="600" />
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12825" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS13.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[13]" width="800" height="600" />
+    <img class="alignnone size-full wp-image-12825" src="https://www.trololodemulher.com.br/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS13.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[13]" width="800" height="600" />
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12819" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS7.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[7]" width="800" height="600" />
+    <img class="alignnone size-full wp-image-12819" src="https://www.trololodemulher.com.br/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS7.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[7]" width="800" height="600" />
   </p>
   
   <p align="center">
@@ -84,7 +81,7 @@ categories:
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12820" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS8.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[8]" width="800" height="600" />
+    <img class="alignnone size-full wp-image-12820" src="https://www.trololodemulher.com.br/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS8.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[8]" width="800" height="600" />
   </p>
   
   <p align="center">
@@ -92,7 +89,7 @@ categories:
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12821" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS9.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[9]" width="800" height="600" />
+    <img class="alignnone size-full wp-image-12821" src="https://www.trololodemulher.com.br/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS9.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[9]" width="800" height="600" />
   </p>
   
   <p align="center">
@@ -100,7 +97,7 @@ categories:
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12822" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS10.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[10]" width="720" height="960" />
+    <img class="alignnone size-full wp-image-12822" src="https://www.trololodemulher.com.br/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS10.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[10]" width="720" height="960" />
   </p>
   
   <p align="center">
@@ -108,31 +105,31 @@ categories:
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12831" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS17.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[17]" width="800" height="600" />
+    <img class="alignnone size-full wp-image-12831" src="https://www.trololodemulher.com.br/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS17.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[17]" width="800" height="600" />
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12823" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS11.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[11]" width="800" height="1067" />
+    <img class="alignnone size-full wp-image-12823" src="https://www.trololodemulher.com.br/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS11.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[11]" width="800" height="1067" />
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12826" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS14.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[14]" width="800" height="600" />
+    <img class="alignnone size-full wp-image-12826" src="https://www.trololodemulher.com.br/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS14.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[14]" width="800" height="600" />
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12827" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS15.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[15]" width="800" height="600" />
+    <img class="alignnone size-full wp-image-12827" src="https://www.trololodemulher.com.br/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS15.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[15]" width="800" height="600" />
   </p>
   
   <p align="center">
-    <img class="alignnone size-full wp-image-12824" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS12.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[12]" width="800" height="600" />
+    <img class="alignnone size-full wp-image-12824" src="https://www.trololodemulher.com.br/2016/08/FESTA-INFANTIL-FESTA-CASEIRA-FESTA-DE-MENINAS12.jpg" alt="FESTA INFANTIL-FESTA CASEIRA-FESTA DE MENINAS[12]" width="800" height="600" />
   </p>
   
   <p align="justify">
-    Veja todas as <a href="http://catchmyparty.com/parties/reeses-7th-birthday" target="_blank">fotos aqui, no blog Catch My Party</a>. Inspire-se!
+    Veja todas as <a href="http://catchmyparty.com/parties/reeses-7th-birthday" target="_blank" rel="noopener noreferrer">fotos aqui, no blog Catch My Party</a>. Inspire-se!
   </p>
   
   <p align="center">
-    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
   </p>
   
   <p align="justify">

@@ -1,10 +1,7 @@
 ---
-id: 3764
 title: 'Cozinha inteligente, prática e funcional: dicas profissionais.'
-date: 2017-05-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/05/16/cozinha-dicas-decoracao/
 permalink: /2017/05/16/cozinha-dicas-decoracao/
 categories:
   - Cozinha
@@ -22,7 +19,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/09/13/revestimento-da-cozinha/" target="_blank"><strong>Como combinar cor da pedra do balcão com revestimento na cozinha?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/09/13/revestimento-da-cozinha/" target="_blank" rel="noopener noreferrer"><strong>Como combinar cor da pedra do balcão com revestimento na cozinha?</strong></a>
 </p>
 
 <p align="center">
@@ -70,11 +67,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/02/21/revestimento-piso-cozinha/" target="_blank"><strong>Decoração de cozinha: 4 dúvidas sobre revestimentos de piso respondidas!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/02/21/revestimento-piso-cozinha/" target="_blank" rel="noopener noreferrer"><strong>Decoração de cozinha: 4 dúvidas sobre revestimentos de piso respondidas!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/" target="_blank"><strong>Decoração da cozinha: +2 dúvidas sobre revestimentos respondidas!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/" target="_blank" rel="noopener noreferrer"><strong>Decoração da cozinha: +2 dúvidas sobre revestimentos respondidas!</strong></a>
 </p>
 
 <p align="center">
@@ -82,9 +79,9 @@ categories:
 </p>
 
 <p align="justify">
-  A equipe da MA Arquitetura está em Recife, atuando lindamente na área de design de interiores, elaborando projetos que tenham a ver com você, sua vida e seu estilo. O resultado do trabalho lindo de viver desse pessoal pode ser conferido em <a href="http://www.maarquitetura.net/" target="_blank">seu site, clicando bem aqui</a>. Além do mais, no <a href="https://www.facebook.com/maarquitetura/timeline" target="_blank">Facebook você pode curtir a fanpage</a> desses queridos e ficar por dentro de ideias e inspirações incríveis pra viver bem em sua casa, seu ninho, seu mundo. Não deixe de conferir o Instagram deles, <a href="https://www.instagram.com/ma.arquitetura/" target="_blank">clique aqui, siga</a> e inspire-se!
+  A equipe da MA Arquitetura está em Recife, atuando lindamente na área de design de interiores, elaborando projetos que tenham a ver com você, sua vida e seu estilo. O resultado do trabalho lindo de viver desse pessoal pode ser conferido em <a href="http://www.maarquitetura.net/" target="_blank" rel="noopener noreferrer">seu site, clicando bem aqui</a>. Além do mais, no <a href="https://www.facebook.com/maarquitetura/timeline" target="_blank" rel="noopener noreferrer">Facebook você pode curtir a fanpage</a> desses queridos e ficar por dentro de ideias e inspirações incríveis pra viver bem em sua casa, seu ninho, seu mundo. Não deixe de conferir o Instagram deles, <a href="https://www.instagram.com/ma.arquitetura/" target="_blank" rel="noopener noreferrer">clique aqui, siga</a> e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

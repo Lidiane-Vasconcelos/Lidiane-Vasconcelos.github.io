@@ -1,10 +1,7 @@
 ---
-id: 3131
 title: Um casamento… e a sogra!
-date: 2012-04-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/04/20/casamento-sogra-nora/
 permalink: /2012/04/20/casamento-sogra-nora/
 categories:
   - Comportamento
@@ -27,7 +24,7 @@ Não é de hoje que a relação entre sogras e noras é tensa em algumas famíli
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/RELACIONAMENTO-SOGRA-NORA.jpg"><img class="alignnone size-full wp-image-8687" title="RELACIONAMENTO SOGRA NORA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/RELACIONAMENTO-SOGRA-NORA.jpg" alt="" width="600" height="563" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="https://www.trololodemulher.com.br/2012/04/RELACIONAMENTO-SOGRA-NORA.jpg"><img class="alignnone size-full wp-image-8687" title="RELACIONAMENTO SOGRA NORA" src="https://www.trololodemulher.com.br/2012/04/RELACIONAMENTO-SOGRA-NORA.jpg" alt="" width="600" height="563" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
@@ -52,13 +49,13 @@ Não é de hoje que a relação entre sogras e noras é tensa em algumas famíli
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/mulher-pensativa200.jpg"><img class="alignnone size-full wp-image-5612" title="mulher pensativa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/mulher-pensativa200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2010/12/10/problemas-nora-sogra/"><strong><span style="font-size: small;"><br /> Você também tem problemas com a sogra?</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2010/12/mulher-pensativa200.jpg"><img class="alignnone size-full wp-image-5612" title="mulher pensativa200" src="https://www.trololodemulher.com.br/2010/12/mulher-pensativa200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2010/12/10/problemas-nora-sogra/"><strong><span style="font-size: small;"><br /> Você também tem problemas com a sogra?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/MADRASTA-ENTEADO200.jpg"><img class="alignnone size-full wp-image-8664" title="MADRASTA ENTEADO200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/MADRASTA-ENTEADO200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/04/06/enteados-problematicos/"><strong><span style="font-size: small;"><br /> Enteados problemáticos podem causar a separação do casal?</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2012/04/MADRASTA-ENTEADO200.jpg"><img class="alignnone size-full wp-image-8664" title="MADRASTA ENTEADO200" src="https://www.trololodemulher.com.br/2012/04/MADRASTA-ENTEADO200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/04/06/enteados-problematicos/"><strong><span style="font-size: small;"><br /> Enteados problemáticos podem causar a separação do casal?</span></strong></a>
       </p>
     </td>
   </tr>
@@ -66,13 +63,13 @@ Não é de hoje que a relação entre sogras e noras é tensa em algumas famíli
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/debate-200.jpg"><img class="alignnone size-full wp-image-4628" title="debate 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/debate-200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2010/05/12/enteado-casamento/"><strong><span style="font-size: small;"><br /> Bichas fêmeas em debate: enteado á vista no casamento. E agora?</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2010/05/debate-200.jpg"><img class="alignnone size-full wp-image-4628" title="debate 200" src="https://www.trololodemulher.com.br/2010/05/debate-200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2010/05/12/enteado-casamento/"><strong><span style="font-size: small;"><br /> Bichas fêmeas em debate: enteado á vista no casamento. E agora?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/mulher-pensando200.jpg"><img class="alignnone size-full wp-image-5776" title="mulher pensando200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/mulher-pensando200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/01/28/como-lidar-enteado-mal-educado/"><strong><span style="font-size: small;">E se fosse você? Como lidaria com um enteado mal educado?</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2011/01/mulher-pensando200.jpg"><img class="alignnone size-full wp-image-5776" title="mulher pensando200" src="https://www.trololodemulher.com.br/2011/01/mulher-pensando200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/01/28/como-lidar-enteado-mal-educado/"><strong><span style="font-size: small;">E se fosse você? Como lidaria com um enteado mal educado?</span></strong></a>
       </p>
     </td>
   </tr>
@@ -80,13 +77,13 @@ Não é de hoje que a relação entre sogras e noras é tensa em algumas famíli
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/casal-de-noivos200.jpg"><img class="alignnone size-full wp-image-5314" title="casal de noivos200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/casal-de-noivos200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/12/09/casamento-relacionamento/"><strong><span style="font-size: small;"><br /> Casamento… por que te quero?</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2010/10/casal-de-noivos200.jpg"><img class="alignnone size-full wp-image-5314" title="casal de noivos200" src="https://www.trololodemulher.com.br/2010/10/casal-de-noivos200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/12/09/casamento-relacionamento/"><strong><span style="font-size: small;"><br /> Casamento… por que te quero?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/relacionamento2200.jpg"><img class="alignnone size-full wp-image-6851" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/relacionamento2200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/08/31/relacionamento/"><strong><span style="font-size: small;">Um relacionamento tem mais chance de surgir se a gente não procura?</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2011/08/relacionamento2200.jpg"><img class="alignnone size-full wp-image-6851" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2011/08/relacionamento2200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/08/31/relacionamento/"><strong><span style="font-size: small;">Um relacionamento tem mais chance de surgir se a gente não procura?</span></strong></a>
       </p>
     </td>
   </tr>
@@ -97,7 +94,7 @@ Não é de hoje que a relação entre sogras e noras é tensa em algumas famíli
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -112,13 +109,13 @@ Não é de hoje que a relação entre sogras e noras é tensa em algumas famíli
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

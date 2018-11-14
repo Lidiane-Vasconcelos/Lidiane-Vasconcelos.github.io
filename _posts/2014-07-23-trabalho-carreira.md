@@ -1,10 +1,7 @@
 ---
-id: 3325
 title: “Amo tanto o meu trabalho!”… será mesmo amor?
-date: 2014-07-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/07/23/trabalho-carreira/
 permalink: /2014/07/23/trabalho-carreira/
 categories:
   - Comportamento
@@ -46,11 +43,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/TRABALHO-CARREIRA-WORKAHOLIC-COMPORTAMENTO.jpg"><img class="alignnone size-full wp-image-10237" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/TRABALHO-CARREIRA-WORKAHOLIC-COMPORTAMENTO.jpg" alt="TRABALHO-CARREIRA-WORKAHOLIC-COMPORTAMENTO" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/07/TRABALHO-CARREIRA-WORKAHOLIC-COMPORTAMENTO.jpg"><img class="alignnone size-full wp-image-10237" src="https://www.trololodemulher.com.br/2014/07/TRABALHO-CARREIRA-WORKAHOLIC-COMPORTAMENTO.jpg" alt="TRABALHO-CARREIRA-WORKAHOLIC-COMPORTAMENTO" width="600" height="450" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
+  Imagem: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">free images</a>
 </p>
 
 &nbsp;
@@ -104,15 +101,15 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/GEISA-MACHADO.png"><img class="alignnone size-full wp-image-9029" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/GEISA-MACHADO.png" alt="GEISA MACHADO" width="516" height="212" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/08/GEISA-MACHADO.png"><img class="alignnone size-full wp-image-9029" src="https://www.trololodemulher.com.br/2012/08/GEISA-MACHADO.png" alt="GEISA MACHADO" width="516" height="212" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Geisa também é blogueira, sabia? Pois é… seus textos podem ser acompanhados através de seu blog <a href="http://geisamachado.blogspot.com.br/" target="_blank">A Força e a Beleza de ser Mulher</a>. Sua proposta é analisar os reflexos positivos, e também negativos, decorrentes do movimento femininsta. Alguma dúvida de que essa leitura pode ser bastante esclarecedora? Então se joga e <a href="http://geisamachado.blogspot.com.br/" target="_blank">clica aqui</a>!
+  Geisa também é blogueira, sabia? Pois é… seus textos podem ser acompanhados através de seu blog <a href="http://geisamachado.blogspot.com.br/" target="_blank" rel="noopener noreferrer">A Força e a Beleza de ser Mulher</a>. Sua proposta é analisar os reflexos positivos, e também negativos, decorrentes do movimento femininsta. Alguma dúvida de que essa leitura pode ser bastante esclarecedora? Então se joga e <a href="http://geisamachado.blogspot.com.br/" target="_blank" rel="noopener noreferrer">clica aqui</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

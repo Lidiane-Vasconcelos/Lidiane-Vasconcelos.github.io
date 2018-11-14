@@ -1,10 +1,7 @@
 ---
-id: 2703
 title: Ideia Para Mini-Horta Em Um “Apertamento”…
-date: 2009-08-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/08/24/horta-para-apartamento/
 permalink: /2009/08/24/horta-para-apartamento/
 categories:
   - Faça Você Mesma
@@ -18,9 +15,9 @@ Pois, não é que é possível, bonita?! Eu mesma nunca vi ideia tão original! 
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="Instructables" src="http://cache.gawker.com/assets/images/lifehacker/2009/07/2009-07-19_110541.jpg" alt="Instructables" />
 </p>
 
-Fala sério! Não é interessante essa ideia? O marido viu essa solução no <a href="http://lifehacker.com/" target="_blank">Life Hacker</a>, <a href="http://lifehacker.com/5311492/turn-a-shoe-organizer-into-a-vertical-herb-garden" target="_blank">neste post aqui</a>, e me enviou para que eu pudesse compartilhar contigo.
+Fala sério! Não é interessante essa ideia? O marido viu essa solução no <a href="http://lifehacker.com/" target="_blank" rel="noopener noreferrer">Life Hacker</a>, <a href="http://lifehacker.com/5311492/turn-a-shoe-organizer-into-a-vertical-herb-garden" target="_blank" rel="noopener noreferrer">neste post aqui</a>, e me enviou para que eu pudesse compartilhar contigo.
 
-Os detalhes a serem observados quanto a montagem da horta vertical estão <a href="http://www.instructables.com/id/VERTICAL-VEGETABLES-quotGrow-upquot-in-a-smal/" target="_blank">nesta página</a> do site <a href="http://www.instructables.com/" target="_blank">Instructables</a>.
+Os detalhes a serem observados quanto a montagem da horta vertical estão <a href="http://www.instructables.com/id/VERTICAL-VEGETABLES-quotGrow-upquot-in-a-smal/" target="_blank" rel="noopener noreferrer">nesta página</a> do site <a href="http://www.instructables.com/" target="_blank" rel="noopener noreferrer">Instructables</a>.
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="Instructables" src="http://www.instructables.com/files/deriv/F0Q/04ZJ/FWEGJTEC/F0Q04ZJFWEGJTEC.MEDIUM.jpg" alt="Instructables" />
@@ -60,7 +57,7 @@ Ah! É para colocar a água com calma, hein? Se não for assim, vai tranbordar e
 
 _ÊÊÊÊÊ_!!! Agora dá para ter hortinha no _apertamento_, hã?
 
-Imagens: <a href="http://www.instructables.com/" target="_blank">Instructables</a>
+Imagens: <a href="http://www.instructables.com/" target="_blank" rel="noopener noreferrer">Instructables</a>
 
 <p style="text-align: center;">
   <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>

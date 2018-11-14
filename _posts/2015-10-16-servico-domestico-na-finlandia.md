@@ -1,10 +1,7 @@
 ---
-id: 3501
 title: 'Serviço doméstico na Finlândia: quem cuida disso?'
-date: 2015-10-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/10/16/servico-domestico-na-finlandia/
 permalink: /2015/10/16/servico-domestico-na-finlandia/
 categories:
   - Adriana Minhoto
@@ -15,11 +12,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/FINLANDIA-SERVICO-DOMESTICO4.jpg"><img class="alignnone size-full wp-image-11597" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/FINLANDIA-SERVICO-DOMESTICO4.jpg" alt="FINLANDIA-SERVICO DOMESTICO[4]" width="800" height="601" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/FINLANDIA-SERVICO-DOMESTICO4.jpg"><img class="alignnone size-full wp-image-11597" src="https://www.trololodemulher.com.br/2015/10/FINLANDIA-SERVICO-DOMESTICO4.jpg" alt="FINLANDIA-SERVICO DOMESTICO[4]" width="800" height="601" /></a>
 </p>
 
 <p align="center">
-  Via <a href="https://www.flickr.com/photos/wakalani/215930579/" target="_blank">wakalani</a> /<b> </b><a href="http://foter.com/" target="_blank">Foter</a> / <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">CC BY-NC-SA</a>
+  Via <a href="https://www.flickr.com/photos/wakalani/215930579/" target="_blank" rel="noopener noreferrer">wakalani</a> /<b> </b><a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a> / <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA</a>
 </p>
 
 <p align="justify">
@@ -47,7 +44,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/FINLANDIA-SERVICO-DOMESTICO2.jpg"><img class="alignnone size-full wp-image-11595" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/FINLANDIA-SERVICO-DOMESTICO2.jpg" alt="FINLANDIA-SERVICO DOMESTICO[2]" width="597" height="796" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/FINLANDIA-SERVICO-DOMESTICO2.jpg"><img class="alignnone size-full wp-image-11595" src="https://www.trololodemulher.com.br/2015/10/FINLANDIA-SERVICO-DOMESTICO2.jpg" alt="FINLANDIA-SERVICO DOMESTICO[2]" width="597" height="796" /></a>
 </p>
 
 <p align="justify">
@@ -59,7 +56,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/FINLANDIA-SERVICO-DOMESTICO.jpg"><img class="alignnone size-full wp-image-11594" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/FINLANDIA-SERVICO-DOMESTICO.jpg" alt="FINLANDIA-SERVICO DOMESTICO" width="800" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/FINLANDIA-SERVICO-DOMESTICO.jpg"><img class="alignnone size-full wp-image-11594" src="https://www.trololodemulher.com.br/2015/10/FINLANDIA-SERVICO-DOMESTICO.jpg" alt="FINLANDIA-SERVICO DOMESTICO" width="800" height="600" /></a>
 </p>
 
 &nbsp;
@@ -71,20 +68,20 @@ _* O fogão, em grande parte, é elétrico ou por indução. Em um ano que estou
 _* Sabe aquele lixinho de pia que nós usamos aí no Brasil? Aqui ele não existe! O lixo fica em um armário, embaixo da pia. Assim, para jogar qualquer coisa, é só abrir o armário!_”
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/FINLANDIA-SERVICO-DOMESTICO3.jpg"><img class="alignnone size-full wp-image-11596" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/FINLANDIA-SERVICO-DOMESTICO3.jpg" alt="FINLANDIA-SERVICO DOMESTICO[3]" width="597" height="796" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/FINLANDIA-SERVICO-DOMESTICO3.jpg"><img class="alignnone size-full wp-image-11596" src="https://www.trololodemulher.com.br/2015/10/FINLANDIA-SERVICO-DOMESTICO3.jpg" alt="FINLANDIA-SERVICO DOMESTICO[3]" width="597" height="796" /></a>
 </p>
 
 <p align="justify">
-  *Dados retirados do site <a href="http://www.stat.fi/" target="_blank">Tilastokekus</a>
+  *Dados retirados do site <a href="http://www.stat.fi/" target="_blank" rel="noopener noreferrer">Tilastokekus</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ADRIANA-MINHOTO.jpg"><img class="alignnone size-full wp-image-11365" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/ADRIANA-MINHOTO.jpg"><img class="alignnone size-full wp-image-11365" src="https://www.trololodemulher.com.br/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" /></a>
 </p>
 
 **Entenda como tudo começou:**
 
-**<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
+**<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank" rel="noopener noreferrer">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
 
 &nbsp;
 
@@ -92,18 +89,18 @@ _* Sabe aquele lixinho de pia que nós usamos aí no Brasil? Aqui ele não exist
 
 &nbsp;
 
-**<a href="http://www.trololodemulher.com.br/2015/09/18/morar-na-finlandia/" target="_blank">Casa e decoração: o jeito de morar na Finlândia.</a>**
+**<a href="http://www.trololodemulher.com.br/2015/09/18/morar-na-finlandia/" target="_blank" rel="noopener noreferrer">Casa e decoração: o jeito de morar na Finlândia.</a>**
 
-**<a href="http://www.trololodemulher.com.br/2015/08/21/mulheres-brasileiras-na-finlandia/" target="_blank">Mulheres brasileiras na Finlândia: histórias da vida real.</a>**
+**<a href="http://www.trololodemulher.com.br/2015/08/21/mulheres-brasileiras-na-finlandia/" target="_blank" rel="noopener noreferrer">Mulheres brasileiras na Finlândia: histórias da vida real.</a>**
 
-**<a href="http://www.trololodemulher.com.br/2015/07/24/verao-na-finlandia-2/" target="_blank">É julho… ops… é Verão na Finlândia!</a>**
+**<a href="http://www.trololodemulher.com.br/2015/07/24/verao-na-finlandia-2/" target="_blank" rel="noopener noreferrer">É julho… ops… é Verão na Finlândia!</a>**
 
 &nbsp;
 
-Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O **Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer">clicar aqui e se jogar</a>! Ah! O **Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank" rel="noopener noreferrer">página no Facebook, viu? Já curtiu?</a> Eu já!
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

@@ -1,10 +1,7 @@
 ---
-id: 3584
 title: Veja dicas de 5 mulheres empreendedoras e saia do lugar!
-date: 2016-04-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/04/07/mulheres-empreendedoras/
 permalink: /2016/04/07/mulheres-empreendedoras/
 categories:
   - Comportamento
@@ -25,11 +22,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12336" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/EMPREENDEDORISMO-FEMININO.jpg" alt="EMPREENDEDORISMO FEMININO" width="700" height="525" />
+  <img class="alignnone size-full wp-image-12336" src="https://www.trololodemulher.com.br/2016/04/EMPREENDEDORISMO-FEMININO.jpg" alt="EMPREENDEDORISMO FEMININO" width="700" height="525" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/bourne-bedweey/1299905340/" target="_blank">¤ [B~B] Bourne Bedweey [B~B] ¤ {Away}</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Imagem: <a href="https://www.flickr.com/photos/bourne-bedweey/1299905340/" target="_blank" rel="noopener noreferrer">¤ [B~B] Bourne Bedweey [B~B] ¤ {Away}</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND</a>
 </p>
 
 <p align="justify">
@@ -37,15 +34,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/01/29/empreendedorismo-2/" target="_blank">Empreendedorismo: 6 maneiras de agir e nunca desistir!</a>
+  <a href="http://www.trololodemulher.com.br/2016/01/29/empreendedorismo-2/" target="_blank" rel="noopener noreferrer">Empreendedorismo: 6 maneiras de agir e nunca desistir!</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12341" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/LUCIANA-RATIS-EMPREENDEDORISMO-FEMININO-DALU-LOJINHA.jpg" alt="LUCIANA RATIS-EMPREENDEDORISMO FEMININO-DALU LOJINHA" width="450" height="798" />
+  <img class="alignnone size-full wp-image-12341" src="https://www.trololodemulher.com.br/2016/04/LUCIANA-RATIS-EMPREENDEDORISMO-FEMININO-DALU-LOJINHA.jpg" alt="LUCIANA RATIS-EMPREENDEDORISMO FEMININO-DALU LOJINHA" width="450" height="798" />
 </p>
 
 <p align="center">
-  <strong>Luciana Ratis</strong> é <strong>Criativa Empreendedora</strong> dona da <a href="http://dalulojinha.divitae.com.br/home" target="_blank">Dalu Lojinha</a>, uma loja virtual especializada em papelaria de festa e para demais ocasiões especiais.
+  <strong>Luciana Ratis</strong> é <strong>Criativa Empreendedora</strong> dona da <a href="http://dalulojinha.divitae.com.br/home" target="_blank" rel="noopener noreferrer">Dalu Lojinha</a>, uma loja virtual especializada em papelaria de festa e para demais ocasiões especiais.
 </p>
 
 <p align="justify">
@@ -57,15 +54,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/09/25/empreendedorismo-criativo/" target="_blank">O que é empreendedorismo criativo?</a>
+  <a href="http://www.trololodemulher.com.br/2015/09/25/empreendedorismo-criativo/" target="_blank" rel="noopener noreferrer">O que é empreendedorismo criativo?</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12343" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/REGIANE-YUKI-SABANAI-EMPREENDEDORISMO-FEMININO-STUDIO-RYS.jpg" alt="REGIANE YUKI SABANAI-EMPREENDEDORISMO FEMININO-STUDIO RYS" width="449" height="798" />
+  <img class="alignnone size-full wp-image-12343" src="https://www.trololodemulher.com.br/2016/04/REGIANE-YUKI-SABANAI-EMPREENDEDORISMO-FEMININO-STUDIO-RYS.jpg" alt="REGIANE YUKI SABANAI-EMPREENDEDORISMO FEMININO-STUDIO RYS" width="449" height="798" />
 </p>
 
 <p align="center">
-  <strong>Regiane Yuki Sabanai</strong> é <strong>Arquiteta</strong>, criadora do <a href="http://www.studiorys.com/crbst_0.html" target="_blank">Studio Rys</a>, que atua no mercado de arquitetura e interiores  desde 1996, desenvolvendo projetos que buscam alternativas viáveis para promover o bem estar dos clientes.
+  <strong>Regiane Yuki Sabanai</strong> é <strong>Arquiteta</strong>, criadora do <a href="http://www.studiorys.com/crbst_0.html" target="_blank" rel="noopener noreferrer">Studio Rys</a>, que atua no mercado de arquitetura e interiores  desde 1996, desenvolvendo projetos que buscam alternativas viáveis para promover o bem estar dos clientes.
 </p>
 
 <p align="justify">
@@ -73,11 +70,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12342" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/MARCIA-DAMASCENO-EMPREENDEDORISMO-FEMININO-MAQUIAGEM-NAO-E-TUDO.jpg" alt="MARCIA DAMASCENO-EMPREENDEDORISMO FEMININO-MAQUIAGEM NAO E TUDO" width="800" height="533" />
+  <img class="alignnone size-full wp-image-12342" src="https://www.trololodemulher.com.br/2016/04/MARCIA-DAMASCENO-EMPREENDEDORISMO-FEMININO-MAQUIAGEM-NAO-E-TUDO.jpg" alt="MARCIA DAMASCENO-EMPREENDEDORISMO FEMININO-MAQUIAGEM NAO E TUDO" width="800" height="533" />
 </p>
 
 <p align="center">
-  <strong>Márcia Damasceno</strong> é <strong>Maquiadora</strong> e está a frente do projeto <a href="http://www.marciadamasceno.com.br/" target="_blank">Maquiagem Não é Tudo</a>, onde cuida de mulheres. Seu trabalho é desenvolvido através de maquiagens, cursos, consultorias, workshops, palestras e muito mais.
+  <strong>Márcia Damasceno</strong> é <strong>Maquiadora</strong> e está a frente do projeto <a href="http://www.marciadamasceno.com.br/" target="_blank" rel="noopener noreferrer">Maquiagem Não é Tudo</a>, onde cuida de mulheres. Seu trabalho é desenvolvido através de maquiagens, cursos, consultorias, workshops, palestras e muito mais.
 </p>
 
 <p align="justify">
@@ -137,15 +134,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/11/27/empreendedorismo/" target="_blank">Empreendedorismo: quais os 7 medos mais comuns?</a>
+  <a href="http://www.trololodemulher.com.br/2015/11/27/empreendedorismo/" target="_blank" rel="noopener noreferrer">Empreendedorismo: quais os 7 medos mais comuns?</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12339" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/LILIANE-BENATTI-EMPREENDEDORISMO-FEMININO-DESPERTAR-VOCE.jpg" alt="LILIANE BENATTI-EMPREENDEDORISMO FEMININO-DESPERTAR VOCE" width="639" height="640" />
+  <img class="alignnone size-full wp-image-12339" src="https://www.trololodemulher.com.br/2016/04/LILIANE-BENATTI-EMPREENDEDORISMO-FEMININO-DESPERTAR-VOCE.jpg" alt="LILIANE BENATTI-EMPREENDEDORISMO FEMININO-DESPERTAR VOCE" width="639" height="640" />
 </p>
 
 <p align="center">
-  <strong>Liliane Benatti</strong> é <strong>Coach</strong> no projeto <a href="http://www.despertarvoce.com.br/" target="_blank">Despertar Você</a>, onde oferece o serviço de coaching e treinamentos para o desenvolvimento e excelência humana através da PNL.
+  <strong>Liliane Benatti</strong> é <strong>Coach</strong> no projeto <a href="http://www.despertarvoce.com.br/" target="_blank" rel="noopener noreferrer">Despertar Você</a>, onde oferece o serviço de coaching e treinamentos para o desenvolvimento e excelência humana através da PNL.
 </p>
 
 <p align="justify">
@@ -153,11 +150,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12340" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/LIVIA-VIEIRA-EMPREENDEDORISMO-FEMININO-GINECOLOGISTA-OBSTETRA.jpg" alt="LIVIA VIEIRA-EMPREENDEDORISMO FEMININO-GINECOLOGISTA OBSTETRA" width="532" height="798" />
+  <img class="alignnone size-full wp-image-12340" src="https://www.trololodemulher.com.br/2016/04/LIVIA-VIEIRA-EMPREENDEDORISMO-FEMININO-GINECOLOGISTA-OBSTETRA.jpg" alt="LIVIA VIEIRA-EMPREENDEDORISMO FEMININO-GINECOLOGISTA OBSTETRA" width="532" height="798" />
 </p>
 
 <p align="center">
-  <strong>Dra. Livia A. Vieira</strong> é <strong>Ginecologista e Obstetra</strong>, e atende em São José do Rio Preto. Mantém <a href="http://www.liviaavieira.com/" target="_blank">site</a> e <a href="https://www.facebook.com/draliviaavieira/timeline" target="_blank">fanpage</a>, onde compartilha conteúdo sobre suas áreas de atuação: Saúde da mulher, Ginecologia, Pré natal, Estética genital, Sexualidade Feminina, Uroginecologia e Endoscopia ginecológica.
+  <strong>Dra. Livia A. Vieira</strong> é <strong>Ginecologista e Obstetra</strong>, e atende em São José do Rio Preto. Mantém <a href="http://www.liviaavieira.com/" target="_blank" rel="noopener noreferrer">site</a> e <a href="https://www.facebook.com/draliviaavieira/timeline" target="_blank" rel="noopener noreferrer">fanpage</a>, onde compartilha conteúdo sobre suas áreas de atuação: Saúde da mulher, Ginecologia, Pré natal, Estética genital, Sexualidade Feminina, Uroginecologia e Endoscopia ginecológica.
 </p>
 
 <p align="justify">
@@ -165,7 +162,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

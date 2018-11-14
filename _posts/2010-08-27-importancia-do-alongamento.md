@@ -1,10 +1,7 @@
 ---
-id: 2866
 title: Qual é a importância do alongamento?
-date: 2010-08-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/08/27/importancia-do-alongamento/
 permalink: /2010/08/27/importancia-do-alongamento/
 categories:
   - Saúde
@@ -26,7 +23,7 @@ O alongamento ainda não é muito utilizado, porém os benefícios que ele causa
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/alongamento.jpg"><img class="size-medium wp-image-5100 aligncenter" title="alongamento" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/alongamento-125x300.jpg" alt="" width="125" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/alongamento.jpg"><img class="size-medium wp-image-5100 aligncenter" title="alongamento" src="https://www.trololodemulher.com.br/2010/08/alongamento-125x300.jpg" alt="" width="125" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -41,7 +38,7 @@ O alongamento ainda não é muito utilizado, porém os benefícios que ele causa
   Tudo o que fazemos em melhoria para o nosso corpo será reflexo para o bem estar e a saúde, alongue-se com a ajuda de um profissional. Após o alongamento não esqueça de descontrair a musculatura para diminuir a tensão do local.
 </p>
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 
 _ _
 

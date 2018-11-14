@@ -1,10 +1,7 @@
 ---
-id: 3498
 title: Expert aponta erros frequentes em reforma e decoração.
-date: 2015-10-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/10/14/reforma-e-decoracao/
 permalink: /2015/10/14/reforma-e-decoracao/
 categories:
   - Dicas de Decoração
@@ -18,11 +15,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-REFORMA-DECORACAOEREFORMA.jpg"><img class="alignnone size-full wp-image-11569" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-REFORMA-DECORACAOEREFORMA.jpg" alt="DECORACAO-REFORMA-DECORACAOEREFORMA" width="800" height="532" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/DECORACAO-REFORMA-DECORACAOEREFORMA.jpg"><img class="alignnone size-full wp-image-11569" src="https://www.trololodemulher.com.br/2015/10/DECORACAO-REFORMA-DECORACAOEREFORMA.jpg" alt="DECORACAO-REFORMA-DECORACAOEREFORMA" width="800" height="532" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  <a href="http://www.laughandpee.com/" target="_blank" rel="noopener noreferrer">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank" rel="noopener noreferrer">Gratisography</a>
 </p>
 
 <p align="justify">
@@ -38,47 +35,47 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/dicas-profissionais-decoracao/" target="_blank">5 dicas profissionais de decoração que só nosso leitor sabe</a>
+  <a href="http://www.decoracaodacasa.com/dicas-profissionais-decoracao/" target="_blank" rel="noopener noreferrer">5 dicas profissionais de decoração que só nosso leitor sabe</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cozinha-decoracao-dicas/" target="_blank">Cozinha inteligente, prática e funcional: dicas profissionais</a>
+  <a href="http://www.decoracaodacasa.com/cozinha-decoracao-dicas/" target="_blank" rel="noopener noreferrer">Cozinha inteligente, prática e funcional: dicas profissionais</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/espaco-pequeno-decoracao/" target="_blank">Como fazer seu espaço pequeno parecer maior? 10 dicas</a>
+  <a href="http://www.decoracaodacasa.com/espaco-pequeno-decoracao/" target="_blank" rel="noopener noreferrer">Como fazer seu espaço pequeno parecer maior? 10 dicas</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-da-cozinha-2/" target="_blank">Decoração da cozinha: 7 profissionais dizem o que é top.</a>
+  <a href="http://www.decoracaodacasa.com/decoracao-da-cozinha-2/" target="_blank" rel="noopener noreferrer">Decoração da cozinha: 7 profissionais dizem o que é top.</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/moveis-planejados/" target="_blank">Móveis planejados: dicas para não errar na hora da escolha.</a>
+  <a href="http://www.decoracaodacasa.com/moveis-planejados/" target="_blank" rel="noopener noreferrer">Móveis planejados: dicas para não errar na hora da escolha.</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/revestimentos-piso-parede/" target="_blank">Revestimentos: piso e parede. Quais as opções?</a>
+  <a href="http://www.decoracaodacasa.com/revestimentos-piso-parede/" target="_blank" rel="noopener noreferrer">Revestimentos: piso e parede. Quais as opções?</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cor-decoracao/" target="_blank">Em qual cor você aposta na decoração?</a>
+  <a href="http://www.decoracaodacasa.com/cor-decoracao/" target="_blank" rel="noopener noreferrer">Em qual cor você aposta na decoração?</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/balcao-revestimento-cozinha/" target="_blank">Como combinar cor da pedra do balcão com o revestimento da cozinha?</a>
+  <a href="http://www.decoracaodacasa.com/balcao-revestimento-cozinha/" target="_blank" rel="noopener noreferrer">Como combinar cor da pedra do balcão com o revestimento da cozinha?</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/02/18/decoracao-reforma-dicas/" target="_blank">Decoração e reforma: 5 experts falam o que não fazer.</a>
+  <a href="http://www.trololodemulher.com.br/2014/02/18/decoracao-reforma-dicas/" target="_blank" rel="noopener noreferrer">Decoração e reforma: 5 experts falam o que não fazer.</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/" target="_blank">Decoração de cozinha: 2 dúvidas sobre revestimentos respondidas.</a>
+  <a href="http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/" target="_blank" rel="noopener noreferrer">Decoração de cozinha: 2 dúvidas sobre revestimentos respondidas.</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-DESIGNER-DE-INTERIORES-FLORIANOPOLIS-MARISTELA-LEONEL.png"><img class="alignnone size-full wp-image-11568" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-DESIGNER-DE-INTERIORES-FLORIANOPOLIS-MARISTELA-LEONEL.png" alt="DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-DESIGNER-DE-INTERIORES-FLORIANOPOLIS-MARISTELA-LEONEL" width="800" height="191" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-DESIGNER-DE-INTERIORES-FLORIANOPOLIS-MARISTELA-LEONEL.png"><img class="alignnone size-full wp-image-11568" src="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-DESIGNER-DE-INTERIORES-FLORIANOPOLIS-MARISTELA-LEONEL.png" alt="DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-DESIGNER-DE-INTERIORES-FLORIANOPOLIS-MARISTELA-LEONEL" width="800" height="191" /></a>
 </p>
 
 <p align="justify">
@@ -86,19 +83,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/papel-de-parede-no-quarto/" target="_blank"><strong>Papel de parede no quarto: como decorar?</strong></a>
+  <a href="http://www.decoracaodacasa.com/papel-de-parede-no-quarto/" target="_blank" rel="noopener noreferrer"><strong>Papel de parede no quarto: como decorar?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cores-decoracao-sala-estar/" target="_blank"><strong>Como usar cores vibrantes na sala de estar?</strong></a>
+  <a href="http://www.decoracaodacasa.com/cores-decoracao-sala-estar/" target="_blank" rel="noopener noreferrer"><strong>Como usar cores vibrantes na sala de estar?</strong></a>
 </p>
 
 <p align="justify">
-  <strong>Maristela </strong>atua em Florianópolis e região, empregando seu conhecimento para ajudar você na realização do que você sente como sendo seu sonho de morar bem. Você pode contar com a moça para reforma, construção, mobília e decoração residencial ou comercial, tudo de forma personalizada, de acordo com seu estilo. Conheça seu site, sua proposta de trabalho e formas de contato com a <em>designer</em> <a href="http://www.maristelaleonel.com.br/bem-vindo" target="_blank">clicando aqui</a>. Maristela também dispõe de uma página no <em>Facebook</em> onde apresenta seus projetos e compartilha informações. <a href="https://www.facebook.com/maristelaleoneldi/timeline" target="_blank">Eu já curti… vem também</a>!
+  <strong>Maristela </strong>atua em Florianópolis e região, empregando seu conhecimento para ajudar você na realização do que você sente como sendo seu sonho de morar bem. Você pode contar com a moça para reforma, construção, mobília e decoração residencial ou comercial, tudo de forma personalizada, de acordo com seu estilo. Conheça seu site, sua proposta de trabalho e formas de contato com a <em>designer</em> <a href="http://www.maristelaleonel.com.br/bem-vindo" target="_blank" rel="noopener noreferrer">clicando aqui</a>. Maristela também dispõe de uma página no <em>Facebook</em> onde apresenta seus projetos e compartilha informações. <a href="https://www.facebook.com/maristelaleoneldi/timeline" target="_blank" rel="noopener noreferrer">Eu já curti… vem também</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

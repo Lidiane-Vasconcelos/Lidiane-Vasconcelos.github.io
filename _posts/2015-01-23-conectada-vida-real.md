@@ -1,10 +1,7 @@
 ---
-id: 3391
 title: Você está conectada, mas com a vida real?
-date: 2015-01-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/01/23/conectada-vida-real/
 permalink: /2015/01/23/conectada-vida-real/
 categories:
   - Comportamento
@@ -19,11 +16,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/CONEXAO-VIDA-REAL.png"><img class="alignnone size-full wp-image-10741" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/CONEXAO-VIDA-REAL.png" alt="CONEXAO-VIDA-REAL" width="800" height="88" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/CONEXAO-VIDA-REAL.png"><img class="alignnone size-full wp-image-10741" src="https://www.trololodemulher.com.br/2015/01/CONEXAO-VIDA-REAL.png" alt="CONEXAO-VIDA-REAL" width="800" height="88" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-GLAUCIA3.png"><img class="alignnone size-full wp-image-10744" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-GLAUCIA3.png" alt="VIDA VIRTUAL-VIDA REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO FEMININO-LIFESTYLE-GLAUCIA[3]" width="586" height="340" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-GLAUCIA3.png"><img class="alignnone size-full wp-image-10744" src="https://www.trololodemulher.com.br/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-GLAUCIA3.png" alt="VIDA VIRTUAL-VIDA REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO FEMININO-LIFESTYLE-GLAUCIA[3]" width="586" height="340" /></a>
 </p>
 
 > <p align="justify">
@@ -31,15 +28,15 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-CAROL-CARNEIRO.jpg"><img class="alignnone size-full wp-image-10742" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-CAROL-CARNEIRO.jpg" alt="VIDA VIRTUAL-VIDA REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO FEMININO-LIFESTYLE-CAROL CARNEIRO" width="478" height="640" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-CAROL-CARNEIRO.jpg"><img class="alignnone size-full wp-image-10742" src="https://www.trololodemulher.com.br/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-CAROL-CARNEIRO.jpg" alt="VIDA VIRTUAL-VIDA REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO FEMININO-LIFESTYLE-CAROL CARNEIRO" width="478" height="640" /></a>
 </p>
 
 > <p align="justify">
->   <strong>Oi, Lidi! Minha gatinha é o que mais me faz ficar conectada com o mundo e a vida reais! Acredito que quem for mãe vai responder a mesma coisa..rss…olha ela aí!” </strong><a href="http://www.blogcarolcarneiro.blogspot.com.br/" target="_blank"><strong>Carol Carneiro | Blog Carol Carneiro</strong></a>
+>   <strong>Oi, Lidi! Minha gatinha é o que mais me faz ficar conectada com o mundo e a vida reais! Acredito que quem for mãe vai responder a mesma coisa..rss…olha ela aí!” </strong><a href="http://www.blogcarolcarneiro.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>Carol Carneiro | Blog Carol Carneiro</strong></a>
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-RITA.jpg"><img class="alignnone size-full wp-image-10745" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-RITA.jpg" alt="VIDA VIRTUAL-VIDA REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO FEMININO-LIFESTYLE-RITA" width="800" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-RITA.jpg"><img class="alignnone size-full wp-image-10745" src="https://www.trololodemulher.com.br/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-RITA.jpg" alt="VIDA VIRTUAL-VIDA REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO FEMININO-LIFESTYLE-RITA" width="800" height="600" /></a>
 </p>
 
 > <p align="justify">
@@ -47,15 +44,15 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-ROSANA6.jpg"><img class="alignnone size-full wp-image-10746" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-ROSANA6.jpg" alt="VIDA VIRTUAL-VIDA REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO FEMININO-LIFESTYLE-ROSANA[6]" width="800" height="501" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-ROSANA6.jpg"><img class="alignnone size-full wp-image-10746" src="https://www.trololodemulher.com.br/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-ROSANA6.jpg" alt="VIDA VIRTUAL-VIDA REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO FEMININO-LIFESTYLE-ROSANA[6]" width="800" height="501" /></a>
 </p>
 
 > <p align="justify">
->   <strong>Minha família &#8211; É o amor de uma forma absoluta. Vou sintetizar no rapazinho que acabou de chegar e nos encheu de alegria e amor, relembrando velhos tempos, o meu sobrinho-neto. Olhando para minha mãe (a bisavó) com ele no colo, tenho a certeza absoluta que a vida é muito, mas muito mais do que vivemos. Ela transcende a nós todos. A Natureza &#8211; Nada como uns minutinhos observando a beleza deste presente maravilhoso que é um caminho na mata para me conectar comigo e com o Todo de uma forma que nenhuma máquina conseguiria. Pintar &#8211; Conectando eu comigo mesma, de uma forma profunda e inexplicável. Ouvir música &#8211; Mas aí não tenho imagem para mostrar&#8230; A música me liga ao passado, ao futuro, ao além do tempo. A tudo que não compreendo mais sinto.” Rosana Silva | </strong><a href="http://www.simplesdecoracao.com.br/" target="_blank"><strong>Simples Decoração</strong></a>
+>   <strong>Minha família &#8211; É o amor de uma forma absoluta. Vou sintetizar no rapazinho que acabou de chegar e nos encheu de alegria e amor, relembrando velhos tempos, o meu sobrinho-neto. Olhando para minha mãe (a bisavó) com ele no colo, tenho a certeza absoluta que a vida é muito, mas muito mais do que vivemos. Ela transcende a nós todos. A Natureza &#8211; Nada como uns minutinhos observando a beleza deste presente maravilhoso que é um caminho na mata para me conectar comigo e com o Todo de uma forma que nenhuma máquina conseguiria. Pintar &#8211; Conectando eu comigo mesma, de uma forma profunda e inexplicável. Ouvir música &#8211; Mas aí não tenho imagem para mostrar&#8230; A música me liga ao passado, ao futuro, ao além do tempo. A tudo que não compreendo mais sinto.” Rosana Silva | </strong><a href="http://www.simplesdecoracao.com.br/" target="_blank" rel="noopener noreferrer"><strong>Simples Decoração</strong></a>
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-ELIANA4.jpg"><img class="alignnone size-full wp-image-10743" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-ELIANA4.jpg" alt="VIDA VIRTUAL-VIDA REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO FEMININO-LIFESTYLE-ELIANA[4]" width="800" height="669" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-ELIANA4.jpg"><img class="alignnone size-full wp-image-10743" src="https://www.trololodemulher.com.br/2015/01/VIDA-VIRTUAL-VIDA-REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO-FEMININO-LIFESTYLE-ELIANA4.jpg" alt="VIDA VIRTUAL-VIDA REAL-INTERNET-COMPORTAMENTO-COMPORTAMENTO FEMININO-LIFESTYLE-ELIANA[4]" width="800" height="669" /></a>
 </p>
 
 > <p align="justify">
@@ -63,7 +60,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

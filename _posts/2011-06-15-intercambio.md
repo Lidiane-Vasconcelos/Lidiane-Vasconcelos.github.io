@@ -1,10 +1,7 @@
 ---
-id: 3011
 title: Você receberia em casa um estrangeiro que nunca viu?
-date: 2011-06-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/06/15/intercambio/
 permalink: /2011/06/15/intercambio/
 categories:
   - Sem categoria
@@ -26,7 +23,7 @@ A pergunta parece sem sentido? Se é para você, também é para outras mulheres
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/mapa.jpg"><img class="alignnone size-full wp-image-6523" title="mapa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/mapa.jpg" alt="" width="600" height="600" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/06/mapa.jpg"><img class="alignnone size-full wp-image-6523" title="mapa" src="https://www.trololodemulher.com.br/2011/06/mapa.jpg" alt="" width="600" height="600" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -34,7 +31,7 @@ A pergunta parece sem sentido? Se é para você, também é para outras mulheres
 </p>
 
 <p style="text-align: justify;">
-  Em terras tupiniquins, se você quiser receber um estudante estrangeiro e vivenciar esse tipo de troca, é possível. Quem pode ajudar as famílias brasileiras nesse sentido é o pessoal do <strong><a href="http://www.yfu.com.br/index.shtml" target="_blank">YFU</a></strong>. Já ouviu falar? Eles se apresentam assim:
+  Em terras tupiniquins, se você quiser receber um estudante estrangeiro e vivenciar esse tipo de troca, é possível. Quem pode ajudar as famílias brasileiras nesse sentido é o pessoal do <strong><a href="http://www.yfu.com.br/index.shtml" target="_blank" rel="noopener noreferrer">YFU</a></strong>. Já ouviu falar? Eles se apresentam assim:
 </p>
 
 > <p style="text-align: justify;">
@@ -46,7 +43,7 @@ A pergunta parece sem sentido? Se é para você, também é para outras mulheres
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/intercambio.jpg"><img class="alignnone size-full wp-image-6521" title="intercâmbio" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/intercambio.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/intercambio.jpg"><img class="alignnone size-full wp-image-6521" title="intercâmbio" src="https://www.trololodemulher.com.br/2011/06/intercambio.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -58,7 +55,7 @@ A pergunta parece sem sentido? Se é para você, também é para outras mulheres
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/intercambio1.jpg"><img class="alignnone size-full wp-image-6522" title="intercâmbio[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/intercambio1.jpg" alt="" width="397" height="357" /></a><br /> ”<em>Lena e Marilia, minha filha mais nova, irmazinhas até hoje</em>”, Marluce conta, toda cheia de orgulho.
+  <a href="https://www.trololodemulher.com.br/2011/06/intercambio1.jpg"><img class="alignnone size-full wp-image-6522" title="intercâmbio[1]" src="https://www.trololodemulher.com.br/2011/06/intercambio1.jpg" alt="" width="397" height="357" /></a><br /> ”<em>Lena e Marilia, minha filha mais nova, irmazinhas até hoje</em>”, Marluce conta, toda cheia de orgulho.
 </p>
 
 <p style="text-align: justify;">
@@ -66,7 +63,7 @@ A pergunta parece sem sentido? Se é para você, também é para outras mulheres
 </p>
 
 <p style="text-align: justify;">
-  Ficou interessada, ao menos, em se informar melhor sobre o que é o programa de intercâmbio do YFU, bonita? Se joga no <strong><a href="http://www.yfu.com.br/index.shtml" target="_blank">site</a></strong>, explore as informações, pondere e pense a respeito. A Marluce também pode tirar suas dúvidas pelo <a href="mailto:marluce48@hotmail.com">marluce48@hotmail.com</a>. Quem sabe não está aí algo novo pela frente? Quem sabe…
+  Ficou interessada, ao menos, em se informar melhor sobre o que é o programa de intercâmbio do YFU, bonita? Se joga no <strong><a href="http://www.yfu.com.br/index.shtml" target="_blank" rel="noopener noreferrer">site</a></strong>, explore as informações, pondere e pense a respeito. A Marluce também pode tirar suas dúvidas pelo <a href="mailto:marluce48@hotmail.com">marluce48@hotmail.com</a>. Quem sabe não está aí algo novo pela frente? Quem sabe…
 </p>
 
 <p style="text-align: center;">

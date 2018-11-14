@@ -1,11 +1,8 @@
 ---
-id: 3879
 title: Pausa no blog + aviso
-date: 2018-09-25T00:00:00+00:00
-author: admin
+author: Lidiane
 excerpt: Esta semana não há post com conteúdo, e nem semana que vem. Será necessário um tempo de recolhimento e descanso. Para logo após o meu retorno, deixo um aviso.
 layout: post
-guid: http://localhost/wordpress/2018/09/25/pausa-no-blog/
 permalink: /2018/09/25/pausa-no-blog/
 categories:
   - Organização
@@ -16,7 +13,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14710" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/09/ROTINAS-DA-CASA6.png" alt="" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14710" src="https://www.trololodemulher.com.br/2018/09/ROTINAS-DA-CASA6.png" alt="" width="800" height="800" />
 </p>
 
 <p align="justify">

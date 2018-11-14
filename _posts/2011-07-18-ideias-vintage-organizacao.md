@@ -1,10 +1,7 @@
 ---
-id: 3022
 title: 3 ideias vintage que organizam seu ateliê com charme. Inspire-se!
-date: 2011-07-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/07/18/ideias-vintage-organizacao/
 permalink: /2011/07/18/ideias-vintage-organizacao/
 categories:
   - Escritório
@@ -21,7 +18,7 @@ categories:
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/organizacao.jpg"><img class="alignnone size-full wp-image-6633" title="organização" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/organizacao.jpg" alt="" width="360" height="360" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/07/organizacao.jpg"><img class="alignnone size-full wp-image-6633" title="organização" src="https://www.trololodemulher.com.br/2011/07/organizacao.jpg" alt="" width="360" height="360" /></a>
 </p>
 
 &nbsp;
@@ -33,7 +30,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/organizacao2.jpg"><img class="alignnone size-full wp-image-6634" title="organização[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/organizacao2.jpg" alt="" width="360" height="480" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/07/organizacao2.jpg"><img class="alignnone size-full wp-image-6634" title="organização[2]" src="https://www.trololodemulher.com.br/2011/07/organizacao2.jpg" alt="" width="360" height="480" /></a>
 </p>
 
 &nbsp;
@@ -45,7 +42,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/organizacao3.jpg"><img class="alignnone size-full wp-image-6635" title="organização[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/organizacao3.jpg" alt="" width="360" height="360" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/07/organizacao3.jpg"><img class="alignnone size-full wp-image-6635" title="organização[3]" src="https://www.trololodemulher.com.br/2011/07/organizacao3.jpg" alt="" width="360" height="360" /></a>
 </p>
 
 &nbsp;
@@ -56,12 +53,12 @@ categories:
 
 &nbsp;
 
-Imagens: **<a href="http://www.scrapbooksetc.com/" target="_blank">scrapbooks etc.</a>**
+Imagens: **<a href="http://www.scrapbooksetc.com/" target="_blank" rel="noopener noreferrer">scrapbooks etc.</a>**
 
 &nbsp;
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

@@ -1,10 +1,7 @@
 ---
-id: 2951
 title: + de 20 dicas de organização da casa by bichas fêmeas navegantes.
-date: 2011-02-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/02/18/dicas-organizacao-casa-2/
 permalink: /2011/02/18/dicas-organizacao-casa-2/
 categories:
   - Organização
@@ -45,31 +42,31 @@ Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo d
   <tr>
     <td width="300" valign="top">
       <p style="text-align: center;">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-de-Correio-Gatinho-no-Meu-Jardim200.jpg"><img class="size-full wp-image-5696 aligncenter" title="Caixa de Correio Gatinho no Meu Jardim200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-de-Correio-Gatinho-no-Meu-Jardim200.jpg" alt="" width="200" height="200" /></a>
+        <a href="https://www.trololodemulher.com.br/2010/12/Caixa-de-Correio-Gatinho-no-Meu-Jardim200.jpg"><img class="size-full wp-image-5696 aligncenter" title="Caixa de Correio Gatinho no Meu Jardim200" src="https://www.trololodemulher.com.br/2010/12/Caixa-de-Correio-Gatinho-no-Meu-Jardim200.jpg" alt="" width="200" height="200" /></a>
       </p>
     </td>
     
     <td width="300" valign="top">
-      <em> </em><em>As correspondências em sua casa podem ser recebidas em um local bem especial com uma caixa assim. Fica tudo organizado e bonito, como você gosta. </em><em>A <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/caixa-correspondencias-gatinho/" target="_blank">Caixa de Correspondências Gatinho no Meu Jardim</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/caixa-correspondencias-gatinho/" target="_blank">Basta clicar</a></strong>!</em>
+      <em> </em><em>As correspondências em sua casa podem ser recebidas em um local bem especial com uma caixa assim. Fica tudo organizado e bonito, como você gosta. </em><em>A <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/caixa-correspondencias-gatinho/" target="_blank" rel="noopener noreferrer">Caixa de Correspondências Gatinho no Meu Jardim</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/caixa-correspondencias-gatinho/" target="_blank" rel="noopener noreferrer">Basta clicar</a></strong>!</em>
     </td>
   </tr>
 </table>
 
 <blockquote style="text-align: justify;">
   <p>
-    “<em><strong>Antes de dormir</strong>, eu <strong>vou colocando cada coisa no seu lugar</strong>: <strong>roupas sujas vão para o cesto</strong>, <strong>roupa limpa no armário</strong>, <strong>ajeito almofadas e recolho revistas, pia sem louça, balcões limpinhos</strong>, e tem dia que até passo o mop pelo chão. Quando acordo a casa está em ordem, sei que não está limpíssima, apenas ajeitada, mas se chega alguém de fora logo cedo, não encontra bagunça.”</em> <strong>Lilly</strong> | <a href="http://coisadelilly.wordpress.com/" target="_blank">Isso é coisa de Lilly</a>
+    “<em><strong>Antes de dormir</strong>, eu <strong>vou colocando cada coisa no seu lugar</strong>: <strong>roupas sujas vão para o cesto</strong>, <strong>roupa limpa no armário</strong>, <strong>ajeito almofadas e recolho revistas, pia sem louça, balcões limpinhos</strong>, e tem dia que até passo o mop pelo chão. Quando acordo a casa está em ordem, sei que não está limpíssima, apenas ajeitada, mas se chega alguém de fora logo cedo, não encontra bagunça.”</em> <strong>Lilly</strong> | <a href="http://coisadelilly.wordpress.com/" target="_blank" rel="noopener noreferrer">Isso é coisa de Lilly</a>
   </p>
 </blockquote>
 
 <blockquote style="text-align: justify;">
   <p>
-    <strong>“<em>Forro caixas de leite vazias para usar dentro das gavetas como separadores e arrumar meias, calcinhas, papelaria</em></strong><em>&#8230; <strong>Pote de sorvete são ótimos para brinquedos miúdos e peças de jogos</strong>. Trabalho muito com feltro e <strong>separo os retalhinhos por cor, em saquinhos transparentes, numa cesta para facilitar a visualização</strong>.”</em> <strong>Tati</strong> | <a href="http://tutitati.blogspot.com/" target="_blank">Tutitati</a>
+    <strong>“<em>Forro caixas de leite vazias para usar dentro das gavetas como separadores e arrumar meias, calcinhas, papelaria</em></strong><em>&#8230; <strong>Pote de sorvete são ótimos para brinquedos miúdos e peças de jogos</strong>. Trabalho muito com feltro e <strong>separo os retalhinhos por cor, em saquinhos transparentes, numa cesta para facilitar a visualização</strong>.”</em> <strong>Tati</strong> | <a href="http://tutitati.blogspot.com/" target="_blank" rel="noopener noreferrer">Tutitati</a>
   </p>
 </blockquote>
 
 <blockquote style="text-align: justify;">
   <p>
-    “<em>Para <strong>organizar lápis e canetas</strong> eu costumo usar <strong>potes de plásticos</strong>. <strong>São potes de cappuccino que retiro o papel dele e colo papel de presente</strong>. </em><a href="http://mayaramonica.blogspot.com/2011/01/faxina.html" target="_blank"><em>Falei deles um dia desses no meu blog</em></a><em>. Ficam bem coloridos e ajuda a reciclar. </em>
+    “<em>Para <strong>organizar lápis e canetas</strong> eu costumo usar <strong>potes de plásticos</strong>. <strong>São potes de cappuccino que retiro o papel dele e colo papel de presente</strong>. </em><a href="http://mayaramonica.blogspot.com/2011/01/faxina.html" target="_blank" rel="noopener noreferrer"><em>Falei deles um dia desses no meu blog</em></a><em>. Ficam bem coloridos e ajuda a reciclar. </em>
   </p>
 </blockquote>
 
@@ -81,12 +78,12 @@ Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo d
 
 <blockquote style="text-align: justify;">
   <p>
-    <em>As <strong>contas pagas são colocadas dentro de uma gaveta</strong>. <strong>Quando o ano termina eu separo as doze faturas/contas grampeio e coloco uma etiqueta com o ano</strong>. Faço esse mesmo procedimento para todas as contas. Depois <strong>junto tudo e coloco dentro de uma caixa grande de arquivo, que fica na guardada na estante</strong></em>.” <strong>Mayara Mônica</strong> | <a href="http://mayaramonica.blogspot.com/" target="_blank">My Diary</a>
+    <em>As <strong>contas pagas são colocadas dentro de uma gaveta</strong>. <strong>Quando o ano termina eu separo as doze faturas/contas grampeio e coloco uma etiqueta com o ano</strong>. Faço esse mesmo procedimento para todas as contas. Depois <strong>junto tudo e coloco dentro de uma caixa grande de arquivo, que fica na guardada na estante</strong></em>.” <strong>Mayara Mônica</strong> | <a href="http://mayaramonica.blogspot.com/" target="_blank" rel="noopener noreferrer">My Diary</a>
   </p>
 </blockquote>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/quebra-cabeca.jpg"><img class="alignnone size-full wp-image-5925" title="quebra-cabeça" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/quebra-cabeca.jpg" alt="" width="480" height="480" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/quebra-cabeca.jpg"><img class="alignnone size-full wp-image-5925" title="quebra-cabeça" src="https://www.trololodemulher.com.br/2011/02/quebra-cabeca.jpg" alt="" width="480" height="480" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -101,7 +98,7 @@ Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo d
 
 <blockquote style="text-align: justify;">
   <p>
-    “<em><strong>Para organizar documentos, notas fiscais e manuais de aparelhos eletrônicos, coloco tudo em pastas separadas (de preferência de cores diferentes) e coloco etiquetas na capa de cada uma, de acordo com o tipo de material guardado dentro</strong>.”</em> <strong>Mayara Mônica</strong> | <a href="http://mayaramonica.blogspot.com/" target="_blank">My Diary</a>
+    “<em><strong>Para organizar documentos, notas fiscais e manuais de aparelhos eletrônicos, coloco tudo em pastas separadas (de preferência de cores diferentes) e coloco etiquetas na capa de cada uma, de acordo com o tipo de material guardado dentro</strong>.”</em> <strong>Mayara Mônica</strong> | <a href="http://mayaramonica.blogspot.com/" target="_blank" rel="noopener noreferrer">My Diary</a>
   </p>
 </blockquote>
 
@@ -137,7 +134,7 @@ Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo d
   </p>
   
   <p>
-    4º <strong>Separar as roupas por cor, assim fica mais harmônico e fácil de usar</strong>.” <strong>Andreia Lica</strong> | <a href="http://andreiarenovandoereciclando.blogspot.com/" target="_blank">Andreia Lica&#8230; Renovando e Reciclando</a>
+    4º <strong>Separar as roupas por cor, assim fica mais harmônico e fácil de usar</strong>.” <strong>Andreia Lica</strong> | <a href="http://andreiarenovandoereciclando.blogspot.com/" target="_blank" rel="noopener noreferrer">Andreia Lica&#8230; Renovando e Reciclando</a>
   </p>
 </blockquote>
 
@@ -160,7 +157,7 @@ Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo d
 </blockquote>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/roupa.jpg"><img class="alignnone size-full wp-image-5926" title="roupa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/roupa.jpg" alt="" width="588" height="392" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/roupa.jpg"><img class="alignnone size-full wp-image-5926" title="roupa" src="https://www.trololodemulher.com.br/2011/02/roupa.jpg" alt="" width="588" height="392" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -169,7 +166,7 @@ Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo d
 
 <blockquote style="text-align: justify;">
   <p>
-    “<em>Procuro<strong> guardar meus pares de calçados em ordem por estação do ano</strong>&#8230; <strong>estão em grandes gavetas, acondicionados em saquinhos, com buchas de papel dentro &#8211; para não deformar</strong>&#8230;”</em> <strong>Adriana</strong> | <a href="http://tititidadri.blogspot.com/" target="_blank">Ti Ti Ti da Dri</a>
+    “<em>Procuro<strong> guardar meus pares de calçados em ordem por estação do ano</strong>&#8230; <strong>estão em grandes gavetas, acondicionados em saquinhos, com buchas de papel dentro &#8211; para não deformar</strong>&#8230;”</em> <strong>Adriana</strong> | <a href="http://tititidadri.blogspot.com/" target="_blank" rel="noopener noreferrer">Ti Ti Ti da Dri</a>
   </p>
 </blockquote>
 
@@ -195,17 +192,17 @@ Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo d
 
 <blockquote style="text-align: justify;">
   <p style="text-align: justify;">
-    “<em>O <strong>espaço para o armazenamento dos livros deve ser arejado</strong>, com <strong>boa circulação de ar</strong>, mas <strong>longe dos raios solares e de janelas mal conservadas</strong>. De <strong>preferência em estantes abertas e metálicas</strong>…Os livros <strong>têm que ser limpos constantemente</strong>, com <strong>flanelas limpas e secas</strong>… <strong>nada de</strong> encapar seus livros com plástico ou papel, usando durex, ou contact. <strong>Se as páginas ou a capa soltarem, procure um restaurador, a restauração de obras literárias não é cara e conserva muito melhor as obras</strong>. A </em><strong><em>melhor forma de colocá-los na estante é em pé, retos, em paralelo, mas sem apertar.”</em> Beta</strong> | <a href="http://mixdeinformacao.blogspot.com/" target="_blank">MIX CULTURAL</a>
+    “<em>O <strong>espaço para o armazenamento dos livros deve ser arejado</strong>, com <strong>boa circulação de ar</strong>, mas <strong>longe dos raios solares e de janelas mal conservadas</strong>. De <strong>preferência em estantes abertas e metálicas</strong>…Os livros <strong>têm que ser limpos constantemente</strong>, com <strong>flanelas limpas e secas</strong>… <strong>nada de</strong> encapar seus livros com plástico ou papel, usando durex, ou contact. <strong>Se as páginas ou a capa soltarem, procure um restaurador, a restauração de obras literárias não é cara e conserva muito melhor as obras</strong>. A </em><strong><em>melhor forma de colocá-los na estante é em pé, retos, em paralelo, mas sem apertar.”</em> Beta</strong> | <a href="http://mixdeinformacao.blogspot.com/" target="_blank" rel="noopener noreferrer">MIX CULTURAL</a>
   </p>
 </blockquote>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/livros.jpg"><img class="alignnone size-full wp-image-5924" title="livros" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/livros.jpg" alt="" width="535" height="415" /></a><br /> Mantenha seus livros organizados, limpos e enfileirados em prateleiras onde haja circulação de ar. Identifique os livros com etiquetas nas suas prateleiras para que todos saibam onde é o lugar de cada um.</em>
+  <em><a href="https://www.trololodemulher.com.br/2011/02/livros.jpg"><img class="alignnone size-full wp-image-5924" title="livros" src="https://www.trololodemulher.com.br/2011/02/livros.jpg" alt="" width="535" height="415" /></a><br /> Mantenha seus livros organizados, limpos e enfileirados em prateleiras onde haja circulação de ar. Identifique os livros com etiquetas nas suas prateleiras para que todos saibam onde é o lugar de cada um.</em>
 </p>
 
 <blockquote style="text-align: justify;">
   <p>
-    “<em>Para <strong>organizar livros</strong> meu irmão colou <strong>pequenas etiquetas com os nomes das diciplinas na estante </strong>e <strong>organizou os livros de acordo com as etiquetas</strong>. Assim quando encontro algum livro espalhado pela casa (acredite,  isso é muito comum aqui em casa) basta procurar pela etiqueta e colocá-lo no lugar certo.”</em> <strong>Mayara Mônica</strong> | <a href="http://mayaramonica.blogspot.com/" target="_blank">My Diary</a>
+    “<em>Para <strong>organizar livros</strong> meu irmão colou <strong>pequenas etiquetas com os nomes das diciplinas na estante </strong>e <strong>organizou os livros de acordo com as etiquetas</strong>. Assim quando encontro algum livro espalhado pela casa (acredite,  isso é muito comum aqui em casa) basta procurar pela etiqueta e colocá-lo no lugar certo.”</em> <strong>Mayara Mônica</strong> | <a href="http://mayaramonica.blogspot.com/" target="_blank" rel="noopener noreferrer">My Diary</a>
   </p>
 </blockquote>
 
@@ -239,7 +236,7 @@ Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo d
 
 <blockquote style="text-align: justify;">
   <p style="text-align: justify;">
-    “<em>Estou vivendo exatamente neste momento uma situação inusitada para mim. Para dar continuidade a obra da minha casa em São Paulo, precisei (eu, o marido e duas cachorras), vir para o Rio de Janeiro, literalmente expulsar o inquilino que não estava pagando aluguel+condomínio, e colocar o imóvel para  vender. Sendo assim, fiquei no <strong>ap vazio</strong>, meus móveis na casa em São Paulo. E agora? <strong>Como sobreviver num imóvel vazio</strong>? <strong>Gavetas encontradas no lixo viraram armário, porta de guarda roupa virou prateleira para apoiar pratos e trecos, latas e garrafas viraram adereços e enfeites</strong>. <strong>Meus criados mudo são duas caixas de massa corrida reciclada com filtro de café, sem faltar flores na garrafa reaproveitada</strong>. Não precisamos de muito para ser feliz. Antes do blog eu não sabia o que era improvisar, reaproveitar, ser feliz com pouco.”</em> <strong>Nadja</strong> | <a href="http://nemacharmosa.blogspot.com/" target="_blank">Nema Charmosa</a>
+    “<em>Estou vivendo exatamente neste momento uma situação inusitada para mim. Para dar continuidade a obra da minha casa em São Paulo, precisei (eu, o marido e duas cachorras), vir para o Rio de Janeiro, literalmente expulsar o inquilino que não estava pagando aluguel+condomínio, e colocar o imóvel para  vender. Sendo assim, fiquei no <strong>ap vazio</strong>, meus móveis na casa em São Paulo. E agora? <strong>Como sobreviver num imóvel vazio</strong>? <strong>Gavetas encontradas no lixo viraram armário, porta de guarda roupa virou prateleira para apoiar pratos e trecos, latas e garrafas viraram adereços e enfeites</strong>. <strong>Meus criados mudo são duas caixas de massa corrida reciclada com filtro de café, sem faltar flores na garrafa reaproveitada</strong>. Não precisamos de muito para ser feliz. Antes do blog eu não sabia o que era improvisar, reaproveitar, ser feliz com pouco.”</em> <strong>Nadja</strong> | <a href="http://nemacharmosa.blogspot.com/" target="_blank" rel="noopener noreferrer">Nema Charmosa</a>
   </p>
 </blockquote>
 
@@ -259,13 +256,13 @@ Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo d
 
 <blockquote style="text-align: justify;">
   <p>
-    <em><strong>Compro toalhas rendadas de papel, descartáveis, que têm um ótimo preço e uso como jogo americano, ou até para valorizar uma sobremesa que vai ser servida</strong>. Elas são tão delicadas, que nem parecem de papel. Eu me sinto organizada e confortável, tendo à mão esses pequenos trunfos de anfitriã.”</em> <strong>Simone</strong> | <a href="http://simonescharamm.blogspot.com/" target="_blank">Festas e etc&#8230;</a>
+    <em><strong>Compro toalhas rendadas de papel, descartáveis, que têm um ótimo preço e uso como jogo americano, ou até para valorizar uma sobremesa que vai ser servida</strong>. Elas são tão delicadas, que nem parecem de papel. Eu me sinto organizada e confortável, tendo à mão esses pequenos trunfos de anfitriã.”</em> <strong>Simone</strong> | <a href="http://simonescharamm.blogspot.com/" target="_blank" rel="noopener noreferrer">Festas e etc&#8230;</a>
   </p>
 </blockquote>
 
 <p style="text-align: center;">
   <div style="text-align: center;">
-    <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/florais.jpg"><img class="alignnone size-full wp-image-5921" title="florais" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/florais.jpg" alt="" width="416" height="416" /></a></em>
+    <em><a href="https://www.trololodemulher.com.br/2011/02/florais.jpg"><img class="alignnone size-full wp-image-5921" title="florais" src="https://www.trololodemulher.com.br/2011/02/florais.jpg" alt="" width="416" height="416" /></a></em>
   </div>
   
   <div style="text-align: center;">
@@ -282,7 +279,7 @@ Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo d
     </p>
     
     <p style="text-align: justify;">
-      <em>Imagens: </em><a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+      <em>Imagens: </em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
     </p>
     
     <p style="text-align: justify;">

@@ -1,10 +1,7 @@
 ---
-id: 3467
 title: 'Mulheres brasileiras na Finlândia: histórias da vida real.'
-date: 2015-08-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/08/21/mulheres-brasileiras-na-finlandia/
 permalink: /2015/08/21/mulheres-brasileiras-na-finlandia/
 categories:
   - Adriana Minhoto
@@ -24,7 +21,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/FINLANDIA-SELMA3.jpg"><img class="alignnone size-full wp-image-11332" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/FINLANDIA-SELMA3.jpg" alt="FINLANDIA - SELMA[3]" width="800" height="594" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/FINLANDIA-SELMA3.jpg"><img class="alignnone size-full wp-image-11332" src="https://www.trololodemulher.com.br/2015/08/FINLANDIA-SELMA3.jpg" alt="FINLANDIA - SELMA[3]" width="800" height="594" /></a>
 </p>
 
 <p align="center">
@@ -64,7 +61,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/FINLANDIA-GISELE.jpg"><img class="alignnone size-full wp-image-11331" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/FINLANDIA-GISELE.jpg" alt="FINLANDIA - GISELE" width="261" height="373" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/FINLANDIA-GISELE.jpg"><img class="alignnone size-full wp-image-11331" src="https://www.trololodemulher.com.br/2015/08/FINLANDIA-GISELE.jpg" alt="FINLANDIA - GISELE" width="261" height="373" /></a>
 </p>
 
 <p align="center">
@@ -108,7 +105,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/FINLANDIA-FABIANE.jpg"><img class="alignnone size-full wp-image-11328" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/FINLANDIA-FABIANE.jpg" alt="FINLANDIA - FABIANE" width="800" height="533" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/FINLANDIA-FABIANE.jpg"><img class="alignnone size-full wp-image-11328" src="https://www.trololodemulher.com.br/2015/08/FINLANDIA-FABIANE.jpg" alt="FINLANDIA - FABIANE" width="800" height="533" /></a>
 </p>
 
 <p align="center">
@@ -124,7 +121,7 @@ categories:
 > </p>
 
 > <p align="justify">
->   <strong><em>“Meu coracão foi quem, a princípio, escolheu a Finlândia. Conheci meu ex-marido nos EUA, que é finlandês, quando eu estava estudando na Universidade do Texas, e ele fazendo estágio de trabalho. Nos apaixonamos e resolvi me mudar pra Finlândia caso passasse na Universidade de Helsinki para poder continuar os meus estudos da Língua Inglesa&#8230; Seis anos mais tarde fui eu quem escolhi ficar: pedi o divórcio e saí do casamento com praticamente a roupa do corpo. Eu tinha minha pequena empresa de dar aulas de inglês para crianças e foi aí que arregacei as mangas e lutei sozinha pra conseguir me manter aqui. Hoje minha empresa, a </em></strong><a href="http://www.4kids.fi/" target="_blank"><strong><em>4Kids Kielikerhot Oy</em></strong></a><strong><em> (clubes de língua para crianças) ajuda por volta de 500 crianças finlandesas por ano a aprender o básico do Inglês. Para mim é um orgulho não só conseguir me manter aqui, mas também poder oferecer emprego para outros finlandeses ou estrangeiros. Acredito que todo mundo tem um missão aqui na terra: a minha é de alegrar crianças no processo de ensinar pra elas o inglês, que é uma das línguas mais importantes do mundo, principalmente no campo profissional.”</em></strong>
+>   <strong><em>“Meu coracão foi quem, a princípio, escolheu a Finlândia. Conheci meu ex-marido nos EUA, que é finlandês, quando eu estava estudando na Universidade do Texas, e ele fazendo estágio de trabalho. Nos apaixonamos e resolvi me mudar pra Finlândia caso passasse na Universidade de Helsinki para poder continuar os meus estudos da Língua Inglesa&#8230; Seis anos mais tarde fui eu quem escolhi ficar: pedi o divórcio e saí do casamento com praticamente a roupa do corpo. Eu tinha minha pequena empresa de dar aulas de inglês para crianças e foi aí que arregacei as mangas e lutei sozinha pra conseguir me manter aqui. Hoje minha empresa, a </em></strong><a href="http://www.4kids.fi/" target="_blank" rel="noopener noreferrer"><strong><em>4Kids Kielikerhot Oy</em></strong></a><strong><em> (clubes de língua para crianças) ajuda por volta de 500 crianças finlandesas por ano a aprender o básico do Inglês. Para mim é um orgulho não só conseguir me manter aqui, mas também poder oferecer emprego para outros finlandeses ou estrangeiros. Acredito que todo mundo tem um missão aqui na terra: a minha é de alegrar crianças no processo de ensinar pra elas o inglês, que é uma das línguas mais importantes do mundo, principalmente no campo profissional.”</em></strong>
 > </p>
 
 > <p align="justify">
@@ -148,33 +145,33 @@ categories:
 > </p>
 
 > <p align="justify">
->   <strong><em>“Meu sonho é poder ver minha família com mais frequência, e que o Brasil foque em educação para que o país realmente possa ter uma melhora, pois sem a educação, país nenhum se desenvolve. Cantar também é minha outra paixão, e eu tinha o sonho de cantar no programa The Voice of Finland. Esse sonho se tornou realidade no ano passado e foi uma experiência fantástica ser treinada pela Tarja Turunen, ex-vocalista do Nightwish, que é uma das Finlandesas que mais admiro. </em></strong><a href="http://www.nelonen.fi/ohjelmat/the-voice-of-finland/1819630-fabiane-lauben-taivaallinen-laulu-vie-kuulijat-toiseen-maailmaan" target="_blank"><strong><em>Aqui vão uns clipes da minha participacão no programa</em></strong></a><strong><em>.”</em></strong>
+>   <strong><em>“Meu sonho é poder ver minha família com mais frequência, e que o Brasil foque em educação para que o país realmente possa ter uma melhora, pois sem a educação, país nenhum se desenvolve. Cantar também é minha outra paixão, e eu tinha o sonho de cantar no programa The Voice of Finland. Esse sonho se tornou realidade no ano passado e foi uma experiência fantástica ser treinada pela Tarja Turunen, ex-vocalista do Nightwish, que é uma das Finlandesas que mais admiro. </em></strong><a href="http://www.nelonen.fi/ohjelmat/the-voice-of-finland/1819630-fabiane-lauben-taivaallinen-laulu-vie-kuulijat-toiseen-maailmaan" target="_blank" rel="noopener noreferrer"><strong><em>Aqui vão uns clipes da minha participacão no programa</em></strong></a><strong><em>.”</em></strong>
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ADRIANA-MINHOTO-ENTRE-VODKA-E-CACHACA-FINLANDIA.jpg"><img class="alignnone size-full wp-image-11327" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ADRIANA-MINHOTO-ENTRE-VODKA-E-CACHACA-FINLANDIA.jpg" alt="ADRIANA MINHOTO - ENTRE VODKA E CACHACA - FINLANDIA" width="800" height="184" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/ADRIANA-MINHOTO-ENTRE-VODKA-E-CACHACA-FINLANDIA.jpg"><img class="alignnone size-full wp-image-11327" src="https://www.trololodemulher.com.br/2015/08/ADRIANA-MINHOTO-ENTRE-VODKA-E-CACHACA-FINLANDIA.jpg" alt="ADRIANA MINHOTO - ENTRE VODKA E CACHACA - FINLANDIA" width="800" height="184" /></a>
 </p>
 
 **Entenda como tudo começou:**
 
-**<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
+**<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank" rel="noopener noreferrer">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
 
 &nbsp;
 
 **Mais sobre a Finlândia, por Adriana Minhoto:**
 
-**<a href="http://www.trololodemulher.com.br/2015/07/24/verao-na-finlandia-2/" target="_blank">É julho… ops!… é Verão na Finlândia!</a>**
+**<a href="http://www.trololodemulher.com.br/2015/07/24/verao-na-finlandia-2/" target="_blank" rel="noopener noreferrer">É julho… ops!… é Verão na Finlândia!</a>**
 
-**<a href="http://www.trololodemulher.com.br/2015/06/19/primavera-finlandia/" target="_blank">Compare a diferença da Primavera entre Brasil e Finlândia.</a>**
+**<a href="http://www.trololodemulher.com.br/2015/06/19/primavera-finlandia/" target="_blank" rel="noopener noreferrer">Compare a diferença da Primavera entre Brasil e Finlândia.</a>**
 
 &nbsp;
 
-Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O **Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer">clicar aqui e se jogar</a>! Ah! O **Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank" rel="noopener noreferrer">página no Facebook, viu? Já curtiu?</a> Eu já!
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

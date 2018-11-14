@@ -1,10 +1,7 @@
 ---
-id: 3408
 title: Quando é que estamos bonitas, afinal?
-date: 2015-03-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/03/17/beleza-equilibrio/
 permalink: /2015/03/17/beleza-equilibrio/
 categories:
   - Beleza
@@ -15,7 +12,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/BELEZA-BELEZA-FEMININA-BELEZA-DA-MULHER-SAUDE-SAUDE-FEMININA-SAUDE-DA-MULHER-ENDOCRINOLOGIA-ENDOCRINOLOGISTA.jpg"><img class="alignnone size-full wp-image-10842" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/BELEZA-BELEZA-FEMININA-BELEZA-DA-MULHER-SAUDE-SAUDE-FEMININA-SAUDE-DA-MULHER-ENDOCRINOLOGIA-ENDOCRINOLOGISTA.jpg" alt="BELEZA-BELEZA FEMININA-BELEZA DA MULHER-SAUDE-SAUDE FEMININA-SAUDE DA MULHER-ENDOCRINOLOGIA-ENDOCRINOLOGISTA" width="800" height="524" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/BELEZA-BELEZA-FEMININA-BELEZA-DA-MULHER-SAUDE-SAUDE-FEMININA-SAUDE-DA-MULHER-ENDOCRINOLOGIA-ENDOCRINOLOGISTA.jpg"><img class="alignnone size-full wp-image-10842" src="https://www.trololodemulher.com.br/2015/03/BELEZA-BELEZA-FEMININA-BELEZA-DA-MULHER-SAUDE-SAUDE-FEMININA-SAUDE-DA-MULHER-ENDOCRINOLOGIA-ENDOCRINOLOGISTA.jpg" alt="BELEZA-BELEZA FEMININA-BELEZA DA MULHER-SAUDE-SAUDE FEMININA-SAUDE DA MULHER-ENDOCRINOLOGIA-ENDOCRINOLOGISTA" width="800" height="524" /></a>
 </p>
 
 <p align="center">
@@ -39,7 +36,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/BELEZA-BELEZA-FEMININA-BELEZA-DA-MULHER-SAUDE-SAUDE-FEMININA-SAUDE-DA-MULHER-ENDOCRINOLOGIA-ENDOCRINOLOGISTA2.jpg"><img class="alignnone size-full wp-image-10843" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/BELEZA-BELEZA-FEMININA-BELEZA-DA-MULHER-SAUDE-SAUDE-FEMININA-SAUDE-DA-MULHER-ENDOCRINOLOGIA-ENDOCRINOLOGISTA2.jpg" alt="BELEZA-BELEZA FEMININA-BELEZA DA MULHER-SAUDE-SAUDE FEMININA-SAUDE DA MULHER-ENDOCRINOLOGIA-ENDOCRINOLOGISTA[2]" width="640" height="427" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/BELEZA-BELEZA-FEMININA-BELEZA-DA-MULHER-SAUDE-SAUDE-FEMININA-SAUDE-DA-MULHER-ENDOCRINOLOGIA-ENDOCRINOLOGISTA2.jpg"><img class="alignnone size-full wp-image-10843" src="https://www.trololodemulher.com.br/2015/03/BELEZA-BELEZA-FEMININA-BELEZA-DA-MULHER-SAUDE-SAUDE-FEMININA-SAUDE-DA-MULHER-ENDOCRINOLOGIA-ENDOCRINOLOGISTA2.jpg" alt="BELEZA-BELEZA FEMININA-BELEZA DA MULHER-SAUDE-SAUDE FEMININA-SAUDE DA MULHER-ENDOCRINOLOGIA-ENDOCRINOLOGISTA[2]" width="640" height="427" /></a>
 </p>
 
 <p align="center">
@@ -55,11 +52,11 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/BELEZA-BELEZA-FEMININA-BELEZA-DA-MULHER-SAUDE-SAUDE-FEMININA-SAUDE-DA-MULHER-ENDOCRINOLOGIA-ENDOCRINOLOGISTA3.jpg"><img class="alignnone size-full wp-image-10846" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/BELEZA-BELEZA-FEMININA-BELEZA-DA-MULHER-SAUDE-SAUDE-FEMININA-SAUDE-DA-MULHER-ENDOCRINOLOGIA-ENDOCRINOLOGISTA3.jpg" alt="BELEZA-BELEZA FEMININA-BELEZA DA MULHER-SAUDE-SAUDE FEMININA-SAUDE DA MULHER-ENDOCRINOLOGIA-ENDOCRINOLOGISTA[3]" width="800" height="205" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/BELEZA-BELEZA-FEMININA-BELEZA-DA-MULHER-SAUDE-SAUDE-FEMININA-SAUDE-DA-MULHER-ENDOCRINOLOGIA-ENDOCRINOLOGISTA3.jpg"><img class="alignnone size-full wp-image-10846" src="https://www.trololodemulher.com.br/2015/03/BELEZA-BELEZA-FEMININA-BELEZA-DA-MULHER-SAUDE-SAUDE-FEMININA-SAUDE-DA-MULHER-ENDOCRINOLOGIA-ENDOCRINOLOGISTA3.jpg" alt="BELEZA-BELEZA FEMININA-BELEZA DA MULHER-SAUDE-SAUDE FEMININA-SAUDE DA MULHER-ENDOCRINOLOGIA-ENDOCRINOLOGISTA[3]" width="800" height="205" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://cienciaemserrinha.blogspot.com.br/2014/09/camb-indice-de-massa-corporal-imc-aula.html" target="_blank">Ciência em Serrinha</a>
+  Imagem: <a href="http://cienciaemserrinha.blogspot.com.br/2014/09/camb-indice-de-massa-corporal-imc-aula.html" target="_blank" rel="noopener noreferrer">Ciência em Serrinha</a>
 </p>
 
 <p align="justify">
@@ -90,15 +87,15 @@ categories:
 >   </blockquote> 
 >   
 >   <p align="center">
->     <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/MANUELA-ROCHA-BRAZ-ENDOCRINOLOGISTA-ENDOCRIONOLOGIA-SAO-PAULO.png"><img class="alignnone size-full wp-image-10845" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/MANUELA-ROCHA-BRAZ-ENDOCRINOLOGISTA-ENDOCRIONOLOGIA-SAO-PAULO.png" alt="MANUELA ROCHA BRAZ-ENDOCRINOLOGISTA-ENDOCRIONOLOGIA-SAO PAULO" width="800" height="203" /></a>
+>     <a href="https://www.trololodemulher.com.br/2015/03/MANUELA-ROCHA-BRAZ-ENDOCRINOLOGISTA-ENDOCRIONOLOGIA-SAO-PAULO.png"><img class="alignnone size-full wp-image-10845" src="https://www.trololodemulher.com.br/2015/03/MANUELA-ROCHA-BRAZ-ENDOCRINOLOGISTA-ENDOCRIONOLOGIA-SAO-PAULO.png" alt="MANUELA ROCHA BRAZ-ENDOCRINOLOGISTA-ENDOCRIONOLOGIA-SAO PAULO" width="800" height="203" /></a>
 >   </p>
 >   
 >   <p align="justify">
->     Se você está na cidade de São Paulo, poderá encontrar a Dra. Manuela pessoalmente em seu consultório. Todas as informações com endereço para localizá-la, telefone de contato ou e-mail estão em seu site. Aliás, lá também você encontra informações bem importantes para entender sobre como um médico endocrinologista pode te ajudar, bem como dúvidas frequentes referentes sobre o que trata esta especialidade da medicina. <a href="http://www.manuelarochabraz.com.br/" target="_blank">Clique aqui, se jogue</a> e fique por dentro de tudo! Ah! Não deixe de <a href="https://www.facebook.com/ManuelaRochaBrazEndocrinologista" target="_blank">curtir a página da Dra. Manuela no Facebook</a>, mais uma fonte de informação e conteúdo pra você manter sua saúde em dia!
+>     Se você está na cidade de São Paulo, poderá encontrar a Dra. Manuela pessoalmente em seu consultório. Todas as informações com endereço para localizá-la, telefone de contato ou e-mail estão em seu site. Aliás, lá também você encontra informações bem importantes para entender sobre como um médico endocrinologista pode te ajudar, bem como dúvidas frequentes referentes sobre o que trata esta especialidade da medicina. <a href="http://www.manuelarochabraz.com.br/" target="_blank" rel="noopener noreferrer">Clique aqui, se jogue</a> e fique por dentro de tudo! Ah! Não deixe de <a href="https://www.facebook.com/ManuelaRochaBrazEndocrinologista" target="_blank" rel="noopener noreferrer">curtir a página da Dra. Manuela no Facebook</a>, mais uma fonte de informação e conteúdo pra você manter sua saúde em dia!
 >   </p>
 >   
 >   <p align="center">
->     <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+>     <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 >   </p>
 >   
 >   <p align="justify">

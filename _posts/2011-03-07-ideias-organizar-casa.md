@@ -1,10 +1,7 @@
 ---
-id: 2958
 title: 5 ideias para organizar pequenos objetos em casa…
-date: 2011-03-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/03/07/ideias-organizar-casa/
 permalink: /2011/03/07/ideias-organizar-casa/
 categories:
   - Organização
@@ -22,7 +19,7 @@ Qual é a casa que não tem uma infinidade de **pequenos objetos**, a exemplo de
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/organizacao-de-pequenos-objetos.jpg"><img class="alignnone size-full wp-image-6005" title="organização de pequenos objetos" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/organizacao-de-pequenos-objetos.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/organizacao-de-pequenos-objetos.jpg"><img class="alignnone size-full wp-image-6005" title="organização de pequenos objetos" src="https://www.trololodemulher.com.br/2011/02/organizacao-de-pequenos-objetos.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -38,7 +35,7 @@ Qual é a casa que não tem uma infinidade de **pequenos objetos**, a exemplo de
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/organizacao-de-pequenos-objetos1.jpg"><img class="alignnone size-full wp-image-6008" title="organização de pequenos objetos[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/organizacao-de-pequenos-objetos1.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/organizacao-de-pequenos-objetos1.jpg"><img class="alignnone size-full wp-image-6008" title="organização de pequenos objetos[1]" src="https://www.trololodemulher.com.br/2011/02/organizacao-de-pequenos-objetos1.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -50,7 +47,7 @@ Qual é a casa que não tem uma infinidade de **pequenos objetos**, a exemplo de
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/organizacao-de-pequenos-objetos2.jpg"><img class="alignnone size-full wp-image-6009" title="organização de pequenos objetos[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/organizacao-de-pequenos-objetos2.jpg" alt="" width="300" height="250" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/organizacao-de-pequenos-objetos2.jpg"><img class="alignnone size-full wp-image-6009" title="organização de pequenos objetos[2]" src="https://www.trololodemulher.com.br/2011/02/organizacao-de-pequenos-objetos2.jpg" alt="" width="300" height="250" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -62,7 +59,7 @@ Qual é a casa que não tem uma infinidade de **pequenos objetos**, a exemplo de
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/organizacao-de-pequenos-objetos3.jpg"><img class="alignnone size-full wp-image-6010" title="organização de pequenos objetos[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/organizacao-de-pequenos-objetos3.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/organizacao-de-pequenos-objetos3.jpg"><img class="alignnone size-full wp-image-6010" title="organização de pequenos objetos[3]" src="https://www.trololodemulher.com.br/2011/02/organizacao-de-pequenos-objetos3.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -74,7 +71,7 @@ Qual é a casa que não tem uma infinidade de **pequenos objetos**, a exemplo de
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/organizacao-de-pequenos-objetos4.jpg"><img class="alignnone size-full wp-image-6011" title="organização de pequenos objetos[4]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/organizacao-de-pequenos-objetos4.jpg" alt="" width="300" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/organizacao-de-pequenos-objetos4.jpg"><img class="alignnone size-full wp-image-6011" title="organização de pequenos objetos[4]" src="https://www.trololodemulher.com.br/2011/02/organizacao-de-pequenos-objetos4.jpg" alt="" width="300" height="400" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -93,19 +90,19 @@ Qual é a casa que não tem uma infinidade de **pequenos objetos**, a exemplo de
   <tr>
     <td width="200" valign="top">
       <p style="text-align: center;">
-        <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200.jpg"><img class="alignnone size-thumbnail wp-image-5442" title="Caixa Moa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank">Caixa Moa</a></em></strong>
+        <strong><em><a href="https://www.trololodemulher.com.br/2010/11/Caixa-Moa200.jpg"><img class="alignnone size-thumbnail wp-image-5442" title="Caixa Moa200" src="https://www.trololodemulher.com.br/2010/11/Caixa-Moa200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank" rel="noopener noreferrer">Caixa Moa</a></em></strong>
       </p>
     </td>
     
     <td width="200" valign="top">
       <p style="text-align: center;">
-        <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Porta-Controle-Remoto-Primavera200.jpg"><img class="alignnone size-thumbnail wp-image-5624" title="Porta Controle Remoto Primavera200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Porta-Controle-Remoto-Primavera200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/porta-controle-remoto-primavera/" target="_blank">Porta Controle Remoto Primavera</a></em></strong>
+        <strong><em><a href="https://www.trololodemulher.com.br/2010/12/Porta-Controle-Remoto-Primavera200.jpg"><img class="alignnone size-thumbnail wp-image-5624" title="Porta Controle Remoto Primavera200" src="https://www.trololodemulher.com.br/2010/12/Porta-Controle-Remoto-Primavera200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/porta-controle-remoto-primavera/" target="_blank" rel="noopener noreferrer">Porta Controle Remoto Primavera</a></em></strong>
       </p>
     </td>
     
     <td width="200" valign="top">
       <p style="text-align: center;">
-        <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Porta-Controle-Remoto-Bolinha200.jpg"><img class="alignnone size-thumbnail wp-image-5625" title="Porta Controle Remoto Bolinha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Porta-Controle-Remoto-Bolinha200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-controle-remoto/" target="_blank">Porta Controle Remoto Bolinha</a></em></strong>
+        <strong><em><a href="https://www.trololodemulher.com.br/2010/12/Porta-Controle-Remoto-Bolinha200.jpg"><img class="alignnone size-thumbnail wp-image-5625" title="Porta Controle Remoto Bolinha200" src="https://www.trololodemulher.com.br/2010/12/Porta-Controle-Remoto-Bolinha200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-controle-remoto/" target="_blank" rel="noopener noreferrer">Porta Controle Remoto Bolinha</a></em></strong>
       </p>
     </td>
   </tr>
@@ -113,25 +110,25 @@ Qual é a casa que não tem uma infinidade de **pequenos objetos**, a exemplo de
   <tr>
     <td width="200" valign="top">
       <p style="text-align: center;">
-        <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Mini-Comoda-Gatinha-200.jpg"><img class="alignnone size-thumbnail wp-image-5349" title="Mini Cômoda Gatinha 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Mini-Comoda-Gatinha-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank">Mini Cômoda Gatinha</a></em></strong>
+        <strong><em><a href="https://www.trololodemulher.com.br/2010/10/Mini-Comoda-Gatinha-200.jpg"><img class="alignnone size-thumbnail wp-image-5349" title="Mini Cômoda Gatinha 200" src="https://www.trololodemulher.com.br/2010/10/Mini-Comoda-Gatinha-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank" rel="noopener noreferrer">Mini Cômoda Gatinha</a></em></strong>
       </p>
     </td>
     
     <td width="200" valign="top">
       <p style="text-align: center;">
-        <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Caixa-patchwork-200.jpg"><img class="alignnone size-thumbnail wp-image-5348" title="Caixa patchwork 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Caixa-patchwork-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-patchwork/" target="_blank">Caixa Patchwork</a></em></strong>
+        <strong><em><a href="https://www.trololodemulher.com.br/2010/10/Caixa-patchwork-200.jpg"><img class="alignnone size-thumbnail wp-image-5348" title="Caixa patchwork 200" src="https://www.trololodemulher.com.br/2010/10/Caixa-patchwork-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-patchwork/" target="_blank" rel="noopener noreferrer">Caixa Patchwork</a></em></strong>
       </p>
     </td>
     
     <td width="200" valign="top">
       <p style="text-align: center;">
-        <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-Redonda-Vintage200.jpg"><img class="alignnone size-thumbnail wp-image-5727" title="Caixa Redonda Vintage200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-Redonda-Vintage200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank">Caixa Redonda Vintage</a></em></strong>
+        <strong><em><a href="https://www.trololodemulher.com.br/2010/12/Caixa-Redonda-Vintage200.jpg"><img class="alignnone size-thumbnail wp-image-5727" title="Caixa Redonda Vintage200" src="https://www.trololodemulher.com.br/2010/12/Caixa-Redonda-Vintage200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank" rel="noopener noreferrer">Caixa Redonda Vintage</a></em></strong>
       </p>
     </td>
   </tr>
 </table>
 
-_Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Gardens</em></a>
+_Imagens:_ <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer"><em>Better Homes and Gardens</em></a>
 
 **Mais no Bicha Fêmea…**
 

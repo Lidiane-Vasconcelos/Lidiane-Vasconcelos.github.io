@@ -1,10 +1,7 @@
 ---
-id: 2793
 title: Hoje é dia de receber flores. É?!
-date: 2010-03-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/03/08/dia-internacional-da-mulher/
 permalink: /2010/03/08/dia-internacional-da-mulher/
 categories:
   - Social
@@ -20,7 +17,7 @@ Mas o dia de hoje não é só para isso, vamos combinar?
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/Mulher.jpg"><img class="aligncenter size-medium wp-image-4352" title="Mulher" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/Mulher-293x300.jpg" alt="" width="293" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/02/Mulher.jpg"><img class="aligncenter size-medium wp-image-4352" title="Mulher" src="https://www.trololodemulher.com.br/2010/02/Mulher-293x300.jpg" alt="" width="293" height="300" /></a>
     </td>
   </tr>
 </table>
@@ -36,7 +33,7 @@ Também é sabido o quanto a mulher ainda tolera humilhações verbais ou coisas
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/mulher-3.jpg"><img class="aligncenter size-medium wp-image-4354" title="mulher 3" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/mulher-3-293x300.jpg" alt="" width="293" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/02/mulher-3.jpg"><img class="aligncenter size-medium wp-image-4354" title="mulher 3" src="https://www.trololodemulher.com.br/2010/02/mulher-3-293x300.jpg" alt="" width="293" height="300" /></a>
     </td>
   </tr>
 </table>
@@ -48,7 +45,7 @@ Mas tudo começa com pequenos passos, não é? Por isso, bonita, no que for poss
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/Mulher-2.jpg"><img class="aligncenter size-medium wp-image-4353" title="Mulher 2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/Mulher-2-212x300.jpg" alt="" width="212" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/02/Mulher-2.jpg"><img class="aligncenter size-medium wp-image-4353" title="Mulher 2" src="https://www.trololodemulher.com.br/2010/02/Mulher-2-212x300.jpg" alt="" width="212" height="300" /></a>
     </td>
   </tr>
 </table>
@@ -59,7 +56,7 @@ Que a gente um dia, lá no futuro, receba flores nesta data. Apenas isso. O dia 
 
 Quem viver, verá!
 
-Imagens: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+Imagens: <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>
 
 **Mais no Bicha Fêmea…**
 

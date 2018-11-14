@@ -1,10 +1,7 @@
 ---
-id: 3597
 title: Risoto de limão siciliano com uvas assadas
-date: 2016-04-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/04/26/risoto-de-limao-siciliano/
 permalink: /2016/04/26/risoto-de-limao-siciliano/
 categories:
   - Receitas
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12436" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/RECEITA-RECEITA-SAUDAVEL-RECEITA-PRATICA-RECEITA-FACIL-RISOTO-RISOTO-DE-LIMAO.jpg" alt="RECEITA-RECEITA SAUDAVEL-RECEITA PRATICA-RECEITA FACIL-RISOTO-RISOTO DE LIMAO" width="800" height="602" />
+  <img class="alignnone size-full wp-image-12436" src="https://www.trololodemulher.com.br/2016/04/RECEITA-RECEITA-SAUDAVEL-RECEITA-PRATICA-RECEITA-FACIL-RISOTO-RISOTO-DE-LIMAO.jpg" alt="RECEITA-RECEITA SAUDAVEL-RECEITA PRATICA-RECEITA FACIL-RISOTO-RISOTO DE LIMAO" width="800" height="602" />
 </p>
 
 &nbsp;
@@ -62,23 +59,23 @@ Em uma forma coloque as uvas sem sementes, regue com azeite e leve ao forno. Vai
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11789" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/01/Carol-Vieira-Rubin.jpg" alt="Carol Vieira Rubin" width="800" height="181" />
+  <img class="alignnone size-full wp-image-11789" src="https://www.trololodemulher.com.br/2016/01/Carol-Vieira-Rubin.jpg" alt="Carol Vieira Rubin" width="800" height="181" />
 </p>
 
 &nbsp;
 
 **Mais receitas da Carol:**
 
-<a href="http://www.trololodemulher.com.br/2016/03/22/bolo-simples-integral/" target="_blank"><strong>Bolo simples integral com gotas de chocolate.</strong></a>
+<a href="http://www.trololodemulher.com.br/2016/03/22/bolo-simples-integral/" target="_blank" rel="noopener noreferrer"><strong>Bolo simples integral com gotas de chocolate.</strong></a>
 
-<a href="http://www.trololodemulher.com.br/2016/01/27/lasanha-de-berinjela/" target="_blank"><strong>Lasanha de berinjela</strong></a>
+<a href="http://www.trololodemulher.com.br/2016/01/27/lasanha-de-berinjela/" target="_blank" rel="noopener noreferrer"><strong>Lasanha de berinjela</strong></a>
 
-<a href="http://www.trololodemulher.com.br/2016/01/13/peixe-assado/" target="_blank"><strong>Peixe assado ao molho de abóbora</strong></a>
+<a href="http://www.trololodemulher.com.br/2016/01/13/peixe-assado/" target="_blank" rel="noopener noreferrer"><strong>Peixe assado ao molho de abóbora</strong></a>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank" rel="noopener noreferrer">clica aqui, oh</a>.
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -86,5 +83,5 @@ Em uma forma coloque as uvas sem sementes, regue com azeite e leve ao forno. Vai
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

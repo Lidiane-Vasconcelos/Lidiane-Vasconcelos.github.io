@@ -1,10 +1,7 @@
 ---
-id: 3030
 title: 'Móvel usado e antigo: dá mesmo para repaginá-lo?'
-date: 2011-08-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/08/01/movel-usado-antigo-restauracao/
 permalink: /2011/08/01/movel-usado-antigo-restauracao/
 categories:
   - Decoração
@@ -21,7 +18,7 @@ categories:
 <!--more-->
 
 <p align="justify">
-  Acho muito pouco provável que você não tenha ouvido falar dela ou navegado pelo seu blog, o <strong><a href="http://www.margaretss.com.br/" target="_blank">Magretss</a></strong>. Em todo caso, só por via das dúvidas, guarde esse nome e saiba que ela é uma inspiração para quem gosta de colocar a mão na massa quando o assunto é a decoração da casa. Se você é dessas, vale o clique no blog da bonita…
+  Acho muito pouco provável que você não tenha ouvido falar dela ou navegado pelo seu blog, o <strong><a href="http://www.margaretss.com.br/" target="_blank" rel="noopener noreferrer">Magretss</a></strong>. Em todo caso, só por via das dúvidas, guarde esse nome e saiba que ela é uma inspiração para quem gosta de colocar a mão na massa quando o assunto é a decoração da casa. Se você é dessas, vale o clique no blog da bonita…
 </p>
 
 <p align="justify">
@@ -33,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/moves-antigos-usados-restauracao.jpg"><img class="alignnone size-full wp-image-6690" title="móves antigos usados restauração" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/moves-antigos-usados-restauracao.jpg" alt="" width="494" height="600" /></a><br /> <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/07/moves-antigos-usados-restauracao.jpg"><img class="alignnone size-full wp-image-6690" title="móves antigos usados restauração" src="https://www.trololodemulher.com.br/2011/07/moves-antigos-usados-restauracao.jpg" alt="" width="494" height="600" /></a><br /> <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></strong>
 </p>
 
 &nbsp;
@@ -67,7 +64,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se você não tem um móvel antigo em casa e ficou doidinha para adquirir um  a fim de dar o seu toque pessoal e imprimir nele o seu estilo, a <strong>Ana Medeiros</strong> [<strong><a href="http://www.acasaqueaminhavoqueria.com/" target="_blank">A casa que a minha vó queria</a></strong>] preparou um <strong><a href="http://www.acasaqueaminhavoqueria.com/?p=2486" target="_blank">post com uma lista com lojas onde dá para comprar móveis usados, reformados, antigos e restaurados no Rio de Janeiro</a></strong>. Para as cariocas, fica a dica… se joga no garimpo!
+  Se você não tem um móvel antigo em casa e ficou doidinha para adquirir um  a fim de dar o seu toque pessoal e imprimir nele o seu estilo, a <strong>Ana Medeiros</strong> [<strong><a href="http://www.acasaqueaminhavoqueria.com/" target="_blank" rel="noopener noreferrer">A casa que a minha vó queria</a></strong>] preparou um <strong><a href="http://www.acasaqueaminhavoqueria.com/?p=2486" target="_blank" rel="noopener noreferrer">post com uma lista com lojas onde dá para comprar móveis usados, reformados, antigos e restaurados no Rio de Janeiro</a></strong>. Para as cariocas, fica a dica… se joga no garimpo!
 </p>
 
 <p align="justify">
@@ -99,5 +96,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

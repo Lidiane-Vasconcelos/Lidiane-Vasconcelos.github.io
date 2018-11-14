@@ -1,10 +1,7 @@
 ---
-id: 3527
 title: Peixe assado ao molho de abóbora
-date: 2016-01-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/01/13/peixe-assado/
 permalink: /2016/01/13/peixe-assado/
 categories:
   - Receitas
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/01/RECEITA-RECEITA-SAUDAVEL-PEIXE-PEIXE-ASSADO-MOLHO-ABOBORA2.jpg"><img class="alignnone size-full wp-image-11790" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/01/RECEITA-RECEITA-SAUDAVEL-PEIXE-PEIXE-ASSADO-MOLHO-ABOBORA2.jpg" alt="RECEITA-RECEITA SAUDAVEL-PEIXE-PEIXE ASSADO-MOLHO ABOBORA[2]" width="800" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2016/01/RECEITA-RECEITA-SAUDAVEL-PEIXE-PEIXE-ASSADO-MOLHO-ABOBORA2.jpg"><img class="alignnone size-full wp-image-11790" src="https://www.trololodemulher.com.br/2016/01/RECEITA-RECEITA-SAUDAVEL-PEIXE-PEIXE-ASSADO-MOLHO-ABOBORA2.jpg" alt="RECEITA-RECEITA SAUDAVEL-PEIXE-PEIXE ASSADO-MOLHO ABOBORA[2]" width="800" height="600" /></a>
 </p>
 
 **Ingredientes:**
@@ -54,7 +51,7 @@ Sal e pimenta-do-reino a gosto;
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/01/Carol-Vieira-Rubin.jpg"><img class="alignnone size-full wp-image-11789" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/01/Carol-Vieira-Rubin.jpg" alt="Carol Vieira Rubin" width="800" height="181" /></a>
+  <a href="https://www.trololodemulher.com.br/2016/01/Carol-Vieira-Rubin.jpg"><img class="alignnone size-full wp-image-11789" src="https://www.trololodemulher.com.br/2016/01/Carol-Vieira-Rubin.jpg" alt="Carol Vieira Rubin" width="800" height="181" /></a>
 </p>
 
 <p align="justify">
@@ -62,23 +59,23 @@ Sal e pimenta-do-reino a gosto;
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/11/25/bolo-de-chocolate/" target="_blank">Bolo de Chocolate funcional.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/11/25/bolo-de-chocolate/" target="_blank" rel="noopener noreferrer">Bolo de Chocolate funcional.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/11/11/beijinho-sem-leite-condensado/" target="_blank">Beijinho sem leite condensado.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/11/11/beijinho-sem-leite-condensado/" target="_blank" rel="noopener noreferrer">Beijinho sem leite condensado.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/10/28/receita-saudavel-2/" target="_blank">Suflê de couve-flor e cenoura.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/10/28/receita-saudavel-2/" target="_blank" rel="noopener noreferrer">Suflê de couve-flor e cenoura.</a></strong>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank" rel="noopener noreferrer">clica aqui, oh</a>.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

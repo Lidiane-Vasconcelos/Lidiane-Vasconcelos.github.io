@@ -1,10 +1,7 @@
 ---
-id: 3770
 title: Como usar calça cigarrete no dia a dia?
-date: 2017-05-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/05/29/como-usar-calca-cigarrete/
 permalink: /2017/05/29/como-usar-calca-cigarrete/
 categories:
   - Moda
@@ -14,11 +11,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13875" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/MODA-ESTILO-CALCA-CIGARRETE3800.jpg" alt="MODA-ESTILO-CALCA CIGARRETE[3]800" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13875" src="https://www.trololodemulher.com.br/2017/05/MODA-ESTILO-CALCA-CIGARRETE3800.jpg" alt="MODA-ESTILO-CALCA CIGARRETE[3]800" width="800" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/paulnich/16190178028/" target="_blank">Paul Nicholson</a> via <a href="http://foter.com/re/b8593c" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC BY-NC</a>
+  Imagem: <a href="https://www.flickr.com/photos/paulnich/16190178028/" target="_blank" rel="noopener noreferrer">Paul Nicholson</a> via <a href="http://foter.com/re/b8593c" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC</a>
 </p>
 
 <p align="center">
@@ -38,27 +35,27 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13868" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/MODA-ESTILO-CALCA-CIGARRETE.jpg" alt="MODA-ESTILO-CALCA CIGARRETE" width="700" height="1050" />
+  <img class="alignnone size-full wp-image-13868" src="https://www.trololodemulher.com.br/2017/05/MODA-ESTILO-CALCA-CIGARRETE.jpg" alt="MODA-ESTILO-CALCA CIGARRETE" width="700" height="1050" />
 </p>
 
 <p align="center">
-  Via <a href="http://modanotrabalho.com.br/2015/look-de-trabalho-com-blusa-estampada-e-calca-cigarrete/" target="_blank">Moda no Tabalho</a>
+  Via <a href="http://modanotrabalho.com.br/2015/look-de-trabalho-com-blusa-estampada-e-calca-cigarrete/" target="_blank" rel="noopener noreferrer">Moda no Tabalho</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13869" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/MODA-ESTILO-CALCA-CIGARRETE2.jpg" alt="MODA-ESTILO-CALCA CIGARRETE[2]" width="600" height="956" />
+  <img class="alignnone size-full wp-image-13869" src="https://www.trololodemulher.com.br/2017/05/MODA-ESTILO-CALCA-CIGARRETE2.jpg" alt="MODA-ESTILO-CALCA CIGARRETE[2]" width="600" height="956" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.gosto-disto.com/2015/09/como-usar-jeans-no-trabalho-estilo-de.html" target="_blank">Gosto disto!</a>
+  Via <a href="http://www.gosto-disto.com/2015/09/como-usar-jeans-no-trabalho-estilo-de.html" target="_blank" rel="noopener noreferrer">Gosto disto!</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13872" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/MODA-ESTILO-CALCA-CIGARRETE4.jpg" alt="MODA-ESTILO-CALCA CIGARRETE[4]" width="535" height="847" />
+  <img class="alignnone size-full wp-image-13872" src="https://www.trololodemulher.com.br/2017/05/MODA-ESTILO-CALCA-CIGARRETE4.jpg" alt="MODA-ESTILO-CALCA CIGARRETE[4]" width="535" height="847" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.hojevouassimoff.com.br/" target="_blank">Hoje Vou Assim Off</a>
+  Via <a href="http://www.hojevouassimoff.com.br/" target="_blank" rel="noopener noreferrer">Hoje Vou Assim Off</a>
 </p>
 
 <p align="center">
@@ -70,15 +67,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13873" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/TATIANE-VELASQUES-CONSULTORA-DE-IMAGEM-E-ESTILO.jpg" alt="TATIANE VELASQUES-CONSULTORA DE IMAGEM E ESTILO" width="800" height="210" />
+  <img class="alignnone size-full wp-image-13873" src="https://www.trololodemulher.com.br/2017/05/TATIANE-VELASQUES-CONSULTORA-DE-IMAGEM-E-ESTILO.jpg" alt="TATIANE VELASQUES-CONSULTORA DE IMAGEM E ESTILO" width="800" height="210" />
 </p>
 
 <p style="text-align: justify;">
-  Tatiane presta consultoria de imagem e estilo, cujo serviço oferece uma ótima relação custo/benefício e traz resultados rápidos. Trata-se de uma Consultoria de Estilo Virtual com resultados reais. Você pode obter mais informações pelo telefone (71) 99332-2895 ou e-mail <a href="mailto:valasquesconsultoria@gmail.com">valasquesconsultoria@gmail.com</a>. Em sua Página no Facebook, a consultora oferece conteúdo frequente sobre moda e estilo, para você ficar antenada e de bem consigo mesma. <a href="https://www.facebook.com/valasquesconsultoria/?ref=page_internal" target="_blank">Clique aqui, curta e acompanhe</a>!
+  Tatiane presta consultoria de imagem e estilo, cujo serviço oferece uma ótima relação custo/benefício e traz resultados rápidos. Trata-se de uma Consultoria de Estilo Virtual com resultados reais. Você pode obter mais informações pelo telefone (71) 99332-2895 ou e-mail <a href="mailto:valasquesconsultoria@gmail.com">valasquesconsultoria@gmail.com</a>. Em sua Página no Facebook, a consultora oferece conteúdo frequente sobre moda e estilo, para você ficar antenada e de bem consigo mesma. <a href="https://www.facebook.com/valasquesconsultoria/?ref=page_internal" target="_blank" rel="noopener noreferrer">Clique aqui, curta e acompanhe</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

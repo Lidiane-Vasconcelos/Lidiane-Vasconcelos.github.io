@@ -1,10 +1,7 @@
 ---
-id: 3708
 title: Biscoitos Amaretti, com gostinho de família.
-date: 2016-11-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/11/23/biscoitos-amaretti-com-gostinho-de-familia/
 permalink: /2016/11/23/biscoitos-amaretti-com-gostinho-de-familia/
 categories:
   - Receitas
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13305" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/RECEITA-RECEITA-PRATICA-RECEITA-RAPIDA-RECEITA-FACIL-BISCOITOS-CASEIROS-BISCOITOS-AMARETTI3.jpg" alt="receita-receita-pratica-receita-rapida-receita-facil-biscoitos-caseiros-biscoitos-amaretti3" width="800" height="534" />
+  <img class="alignnone size-full wp-image-13305" src="https://www.trololodemulher.com.br/2016/11/RECEITA-RECEITA-PRATICA-RECEITA-RAPIDA-RECEITA-FACIL-BISCOITOS-CASEIROS-BISCOITOS-AMARETTI3.jpg" alt="receita-receita-pratica-receita-rapida-receita-facil-biscoitos-caseiros-biscoitos-amaretti3" width="800" height="534" />
 </p>
 
 <p align="justify">
@@ -22,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13301" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/RECEITA-RECEITA-PRATICA-RECEITA-RAPIDA-RECEITA-FACIL-BISCOITOS-CASEIROS-BISCOITOS-AMARETTI2.jpg" alt="receita-receita-pratica-receita-rapida-receita-facil-biscoitos-caseiros-biscoitos-amaretti2" width="800" height="534" />
+  <img class="alignnone size-full wp-image-13301" src="https://www.trololodemulher.com.br/2016/11/RECEITA-RECEITA-PRATICA-RECEITA-RAPIDA-RECEITA-FACIL-BISCOITOS-CASEIROS-BISCOITOS-AMARETTI2.jpg" alt="receita-receita-pratica-receita-rapida-receita-facil-biscoitos-caseiros-biscoitos-amaretti2" width="800" height="534" />
 </p>
 
 <p align="justify">
@@ -78,7 +75,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13037" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/TANIA-TEVA-I-WANT-TO-BE-A-COOK-RECEITAS.jpg" alt="tania-teva-i-want-to-be-a-cook-receitas" width="800" height="154" />
+  <img class="alignnone size-full wp-image-13037" src="https://www.trololodemulher.com.br/2016/10/TANIA-TEVA-I-WANT-TO-BE-A-COOK-RECEITAS.jpg" alt="tania-teva-i-want-to-be-a-cook-receitas" width="800" height="154" />
 </p>
 
 <p align="justify">
@@ -86,23 +83,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/11/18/receita-de-frango/" target="_blank"><strong>Receita de frango com azeitonas, pra tornar festiva a comida caseira.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/11/18/receita-de-frango/" target="_blank" rel="noopener noreferrer"><strong>Receita de frango com azeitonas, pra tornar festiva a comida caseira.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/11/08/pao-de-queijo/" target="_blank"><strong>Pão de queijo pra ser feliz no café da tarde.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/11/08/pao-de-queijo/" target="_blank" rel="noopener noreferrer"><strong>Pão de queijo pra ser feliz no café da tarde.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/11/03/picole-caseiro/" target="_blank"><strong>Por um Verão perfeito: picolé caseiro de morango e iogurte.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/11/03/picole-caseiro/" target="_blank" rel="noopener noreferrer"><strong>Por um Verão perfeito: picolé caseiro de morango e iogurte.</strong></a>
 </p>
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank" rel="noopener noreferrer">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

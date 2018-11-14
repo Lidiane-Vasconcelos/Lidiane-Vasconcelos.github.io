@@ -1,10 +1,7 @@
 ---
-id: 3372
 title: Como usar gaiolas na decoração? Veja três ideias…
-date: 2014-12-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/12/01/gaiolas-na-decoracao/
 permalink: /2014/12/01/gaiolas-na-decoracao/
 categories:
   - Dicas de Decoração
@@ -18,11 +15,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/DECORACAO-GAIOLAS-GAIOLA-DECORATIVA-HOME-OFFICE-ESCRITORIO.jpg"><img class="alignnone size-full wp-image-10618" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/DECORACAO-GAIOLAS-GAIOLA-DECORATIVA-HOME-OFFICE-ESCRITORIO.jpg" alt="DECORACAO-GAIOLAS-GAIOLA DECORATIVA-HOME OFFICE-ESCRITORIO" width="562" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/DECORACAO-GAIOLAS-GAIOLA-DECORATIVA-HOME-OFFICE-ESCRITORIO.jpg"><img class="alignnone size-full wp-image-10618" src="https://www.trololodemulher.com.br/2014/11/DECORACAO-GAIOLAS-GAIOLA-DECORATIVA-HOME-OFFICE-ESCRITORIO.jpg" alt="DECORACAO-GAIOLAS-GAIOLA DECORATIVA-HOME OFFICE-ESCRITORIO" width="562" height="800" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.homedit.com/" target="_blank">homedit</a>
+  Imagem: <a href="http://www.homedit.com/" target="_blank" rel="noopener noreferrer">homedit</a>
 </p>
 
 <p align="justify">
@@ -34,15 +31,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/home-office-2/" target="_blank"><strong>Para um home office cheio de bossa, inspire-se na Lia!</strong></a>
+  <a href="http://www.decoracaodacasa.com/home-office-2/" target="_blank" rel="noopener noreferrer"><strong>Para um home office cheio de bossa, inspire-se na Lia!</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/DECORACAO-GAIOLAS-GAIOLA-DECORATIVA-QUARTO-MESA-CABECEIRA.jpg"><img class="alignnone size-full wp-image-10619" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/DECORACAO-GAIOLAS-GAIOLA-DECORATIVA-QUARTO-MESA-CABECEIRA.jpg" alt="DECORACAO-GAIOLAS-GAIOLA DECORATIVA-QUARTO-MESA CABECEIRA" width="800" height="501" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/DECORACAO-GAIOLAS-GAIOLA-DECORATIVA-QUARTO-MESA-CABECEIRA.jpg"><img class="alignnone size-full wp-image-10619" src="https://www.trololodemulher.com.br/2014/11/DECORACAO-GAIOLAS-GAIOLA-DECORATIVA-QUARTO-MESA-CABECEIRA.jpg" alt="DECORACAO-GAIOLAS-GAIOLA DECORATIVA-QUARTO-MESA CABECEIRA" width="800" height="501" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.homedit.com/" target="_blank">homedit</a>
+  Imagem: <a href="http://www.homedit.com/" target="_blank" rel="noopener noreferrer">homedit</a>
 </p>
 
 <p align="justify">
@@ -54,15 +51,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/08/moveis-quarto/" target="_blank"><strong>Móveis da casa: falta a mesa de cabeceira no quarto? Improvisa!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/05/08/moveis-quarto/" target="_blank" rel="noopener noreferrer"><strong>Móveis da casa: falta a mesa de cabeceira no quarto? Improvisa!</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/DECORACAO-GAIOLAS-GAIOLA-DECORATIVA.jpg"><img class="alignnone size-full wp-image-10616" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/DECORACAO-GAIOLAS-GAIOLA-DECORATIVA.jpg" alt="DECORACAO-GAIOLAS-GAIOLA DECORATIVA" width="532" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/DECORACAO-GAIOLAS-GAIOLA-DECORATIVA.jpg"><img class="alignnone size-full wp-image-10616" src="https://www.trololodemulher.com.br/2014/11/DECORACAO-GAIOLAS-GAIOLA-DECORATIVA.jpg" alt="DECORACAO-GAIOLAS-GAIOLA DECORATIVA" width="532" height="800" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.etsy.com/listing/204570660/bird-cage-cream-white-set-of-3-brid-cage" target="_blank">etsy</a>
+  Imagem: <a href="https://www.etsy.com/listing/204570660/bird-cage-cream-white-set-of-3-brid-cage" target="_blank" rel="noopener noreferrer">etsy</a>
 </p>
 
 <p align="justify">
@@ -74,15 +71,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-na-mesa-de-jantar/" target="_blank"><strong>2 ideias superultramega simples de decoração na mesa de jantar.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-na-mesa-de-jantar/" target="_blank" rel="noopener noreferrer"><strong>2 ideias superultramega simples de decoração na mesa de jantar.</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
+  <a href="http://www.decoracaodacasa.com/" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10262" src="https://www.trololodemulher.com.br/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
 </p>
 
 <p align="justify">

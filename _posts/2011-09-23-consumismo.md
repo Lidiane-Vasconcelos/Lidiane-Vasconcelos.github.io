@@ -1,10 +1,7 @@
 ---
-id: 3054
 title: 'Consumismo: você ficaria 365 dias sem compras?'
-date: 2011-09-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/09/23/consumismo/
 permalink: /2011/09/23/consumismo/
 categories:
   - Comportamento
@@ -23,7 +20,7 @@ Numa conversa informal por _e-mail_ com a **Júlia Vieira**, leitora do **Bicha 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/carteira.jpg"><img class="alignnone size-full wp-image-6931" title="carteira" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/carteira.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/09/carteira.jpg"><img class="alignnone size-full wp-image-6931" title="carteira" src="https://www.trololodemulher.com.br/2011/09/carteira.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -33,7 +30,7 @@ Numa conversa informal por _e-mail_ com a **Júlia Vieira**, leitora do **Bicha 
 </p>
 
 <p align="justify">
-  Pois é, esta <strong>Psicóloga mineira</strong> resolveu experimentar passar um ano de sua vida sem compras… parece loucura? Ela encarou o desafio. E como se não bastasse, assumiu esse compromisso em público ao <em>blogar</em> sobre esse projeto pessoal no “<strong><a href="http://umanosemcompras.blogspot.com/" target="_blank">Um ano sem compras</a></strong>”, e por incrível que pareça, vem contagiando muita gente com sua atitude.
+  Pois é, esta <strong>Psicóloga mineira</strong> resolveu experimentar passar um ano de sua vida sem compras… parece loucura? Ela encarou o desafio. E como se não bastasse, assumiu esse compromisso em público ao <em>blogar</em> sobre esse projeto pessoal no “<strong><a href="http://umanosemcompras.blogspot.com/" target="_blank" rel="noopener noreferrer">Um ano sem compras</a></strong>”, e por incrível que pareça, vem contagiando muita gente com sua atitude.
 </p>
 
 <p align="justify">
@@ -67,7 +64,7 @@ Numa conversa informal por _e-mail_ com a **Júlia Vieira**, leitora do **Bicha 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/carteira2.jpg"><img class="alignnone size-full wp-image-6932" title="carteira[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/carteira2.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/09/carteira2.jpg"><img class="alignnone size-full wp-image-6932" title="carteira[2]" src="https://www.trololodemulher.com.br/2011/09/carteira2.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -94,7 +91,7 @@ Numa conversa informal por _e-mail_ com a **Júlia Vieira**, leitora do **Bicha 
 
 &nbsp;
 
-Imagens: **<a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a>**
+Imagens: **<a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">Stock.xchng</a>**
 
 &nbsp;
 
@@ -106,13 +103,13 @@ Imagens: **<a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a>**
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/calculadora200.jpg"><img class="alignnone size-full wp-image-6398" title="calculadora200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/calculadora200.jpg" alt="" width="200" height="200" /><br /> </a><strong><a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/"><span style="font-size: small;">Suas finanças pessoais estão no azul ou no vermelho?</span></a></strong>
+        <a href="https://www.trololodemulher.com.br/2011/05/calculadora200.jpg"><img class="alignnone size-full wp-image-6398" title="calculadora200" src="https://www.trololodemulher.com.br/2011/05/calculadora200.jpg" alt="" width="200" height="200" /><br /> </a><strong><a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/"><span style="font-size: small;">Suas finanças pessoais estão no azul ou no vermelho?</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ser-verde200.jpg"><img class="alignnone size-full wp-image-5839" title="ser verde200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ser-verde200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2009/02/04/5-dicas-para-ser-verde-em-casa/"><span style="font-size: small;">5 dicas para ser “verde” e economizar nas finanças do lar.</span></a></strong>
+        <a href="https://www.trololodemulher.com.br/2011/01/ser-verde200.jpg"><img class="alignnone size-full wp-image-5839" title="ser verde200" src="https://www.trololodemulher.com.br/2011/01/ser-verde200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2009/02/04/5-dicas-para-ser-verde-em-casa/"><span style="font-size: small;">5 dicas para ser “verde” e economizar nas finanças do lar.</span></a></strong>
       </p>
     </td>
   </tr>

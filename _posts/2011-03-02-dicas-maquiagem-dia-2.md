@@ -1,10 +1,7 @@
 ---
-id: 2956
 title: Dicas de maquiagem para ficar básica e linda no dia a dia…
-date: 2011-03-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/03/02/dicas-maquiagem-dia-2/
 permalink: /2011/03/02/dicas-maquiagem-dia-2/
 categories:
   - Beleza
@@ -22,11 +19,11 @@ Seja pouco ou bastante acentuada, a verdade é que é difícil encontrar uma mul
 </p>
 
 <p style="text-align: justify;">
-  A consultora para este post é nada menos que a maquiadora <strong>Beth Ribeiro</strong>. A moça é mesmo profissional no assunto, deixa noivas belíssimas e com a <em>make</em> pronta para o grande dia, além de maquiar para ensaios fotográficos os mais diversos possíveis. Seu site, o <a href="http://www.bethribeiro.com.br/maquiagem_profissional_rj_rio_de_janeiro_niteroi/pagina/home" target="_blank">Beth Ribeiro Beauty Artist</a>, tem uma galeria de fotos onde a gente pode babar nas produções, e no seu blog, o <a href="http://blog.bethribeiro.com.br/" target="_blank">Blog da Beth Ribeiro Beauty Artist</a>, é onde ela divide sua paixão pela maquiagem, troca ideias e conta histórias. Imperdível!
+  A consultora para este post é nada menos que a maquiadora <strong>Beth Ribeiro</strong>. A moça é mesmo profissional no assunto, deixa noivas belíssimas e com a <em>make</em> pronta para o grande dia, além de maquiar para ensaios fotográficos os mais diversos possíveis. Seu site, o <a href="http://www.bethribeiro.com.br/maquiagem_profissional_rj_rio_de_janeiro_niteroi/pagina/home" target="_blank" rel="noopener noreferrer">Beth Ribeiro Beauty Artist</a>, tem uma galeria de fotos onde a gente pode babar nas produções, e no seu blog, o <a href="http://blog.bethribeiro.com.br/" target="_blank" rel="noopener noreferrer">Blog da Beth Ribeiro Beauty Artist</a>, é onde ela divide sua paixão pela maquiagem, troca ideias e conta histórias. Imperdível!
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/maquiagem-1.jpg"><img class="alignnone size-full wp-image-5987" title="maquiagem 1" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/maquiagem-1.jpg" alt="" width="560" height="420" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/maquiagem-1.jpg"><img class="alignnone size-full wp-image-5987" title="maquiagem 1" src="https://www.trololodemulher.com.br/2011/02/maquiagem-1.jpg" alt="" width="560" height="420" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -60,7 +57,7 @@ Seja pouco ou bastante acentuada, a verdade é que é difícil encontrar uma mul
 Ficou empolgada e quer fazer diferente de hoje em diante, ou rever seus hábitos? Anota aí que as dicas são preciosas:
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/maquiagem.jpg"><img class="alignnone size-full wp-image-5986" title="maquiagem" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/maquiagem.jpg" alt="" width="552" height="261" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/maquiagem.jpg"><img class="alignnone size-full wp-image-5986" title="maquiagem" src="https://www.trololodemulher.com.br/2011/02/maquiagem.jpg" alt="" width="552" height="261" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -88,7 +85,7 @@ Ficou empolgada e quer fazer diferente de hoje em diante, ou rever seus hábitos
 Ficou atenta? A partir de amanhã, lembre delas na hora de se arrumar e se jogar na vida. E dessa vez, como uma bicha fêmea mais bonita que nunca!
 
 <p style="text-align: justify;">
-  <em>Imagens: </em><a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+  <em>Imagens: </em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 </p>
 
 <p style="text-align: justify;">

@@ -1,10 +1,7 @@
 ---
-id: 2896
 title: 4 passos e sua “gaveta da bagunça” ficará impecável!
-date: 2010-10-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/10/27/4-passos-gaveta-organizada/
 permalink: /2010/10/27/4-passos-gaveta-organizada/
 categories:
   - Organização
@@ -20,11 +17,11 @@ categories:
 <!--more-->
 
 <p style="text-align: justify;">
-  É preciso que se diga, antes de qualquer coisa, que aprendi os quatro passos lendo um dos meus blogs preferidos: o <a href="http://unclutterer.com/" target="_blank">Unclutterer</a>. O aprendizado me fez tão bem, que não abro mão de um <em>post it</em> diante dos meus olhos, com os quatro passos básicos para “limpar” a gaveta da bagunça, no meu painel de lembretes. Se cair na fraqueza de tornar uma gaveta bagunçada novamente, vou recorrer a essas dicas infalíveis:
+  É preciso que se diga, antes de qualquer coisa, que aprendi os quatro passos lendo um dos meus blogs preferidos: o <a href="http://unclutterer.com/" target="_blank" rel="noopener noreferrer">Unclutterer</a>. O aprendizado me fez tão bem, que não abro mão de um <em>post it</em> diante dos meus olhos, com os quatro passos básicos para “limpar” a gaveta da bagunça, no meu painel de lembretes. Se cair na fraqueza de tornar uma gaveta bagunçada novamente, vou recorrer a essas dicas infalíveis:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/bagunca.jpg"><img class="alignnone size-full wp-image-5350" title="bagunça" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/bagunca.jpg" alt="" width="578" height="415" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/bagunca.jpg"><img class="alignnone size-full wp-image-5350" title="bagunça" src="https://www.trololodemulher.com.br/2010/10/bagunca.jpg" alt="" width="578" height="415" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -91,10 +88,10 @@ categories:
   Viu? Os passos são básicos e não há nada de muito difícil em aplicar. Isso pode ser adaptado ao que mais você tiver em casa, ou no trabalho, e que você reconheça ser um local que virou um depósito bagunçado de inutilidades. Isso está te incomodando? Então, mãos á obra!!!
 </p>
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

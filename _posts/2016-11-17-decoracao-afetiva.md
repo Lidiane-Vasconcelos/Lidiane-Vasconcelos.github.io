@@ -1,10 +1,7 @@
 ---
-id: 3704
 title: Decoração afetiva é a que conta sua história.
-date: 2016-11-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/11/17/decoracao-afetiva/
 permalink: /2016/11/17/decoracao-afetiva/
 categories:
   - Casa
@@ -15,7 +12,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13269" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/DECORACAO-AFETIVA.jpg" alt="decoracao-afetiva" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13269" src="https://www.trololodemulher.com.br/2016/11/DECORACAO-AFETIVA.jpg" alt="decoracao-afetiva" width="800" height="800" />
 </p>
 
 <p align="center">
@@ -27,7 +24,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13272" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/TROLOLO-MULHER-MULHER612.jpg" alt="trololo-mulher-mulher612" width="800" height="671" />
+  <img class="alignnone size-full wp-image-13272" src="https://www.trololodemulher.com.br/2016/11/TROLOLO-MULHER-MULHER612.jpg" alt="trololo-mulher-mulher612" width="800" height="671" />
 </p>
 
 <p align="justify">
@@ -35,7 +32,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

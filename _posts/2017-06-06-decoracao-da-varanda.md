@@ -1,10 +1,7 @@
 ---
-id: 3773
 title: Como escolher tecidos pra decoração da varanda?
-date: 2017-06-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/06/06/decoracao-da-varanda/
 permalink: /2017/06/06/decoracao-da-varanda/
 categories:
   - 'Varanda &amp; Jardim'
@@ -28,7 +25,7 @@ categories:
 > </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13900" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/06/DECORACAO-VARANDA.jpg" alt="DECORACAO-VARANDA" width="600" height="450" />
+  <img class="alignnone size-full wp-image-13900" src="https://www.trololodemulher.com.br/2017/06/DECORACAO-VARANDA.jpg" alt="DECORACAO-VARANDA" width="600" height="450" />
 </p>
 
 &nbsp;
@@ -50,19 +47,19 @@ categories:
 > </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12959" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/CAROL-CARNEIRO-DESIGNER-DE-INTERIORES-BELO-HORIZONTE-MG.jpg" alt="carol-carneiro-designer-de-interiores-belo-horizonte-mg" width="800" height="187" />
+  <img class="alignnone size-full wp-image-12959" src="https://www.trololodemulher.com.br/2016/09/CAROL-CARNEIRO-DESIGNER-DE-INTERIORES-BELO-HORIZONTE-MG.jpg" alt="carol-carneiro-designer-de-interiores-belo-horizonte-mg" width="800" height="187" />
 </p>
 
 **Mais uma consultoria de Carol Carneiro:**
 
-**<a href="http://www.trololodemulher.com.br/2016/09/20/armario-de-ferro/" target="_blank">Como reformar um armário de ferro que está velho?</a>**
+**<a href="http://www.trololodemulher.com.br/2016/09/20/armario-de-ferro/" target="_blank" rel="noopener noreferrer">Como reformar um armário de ferro que está velho?</a>**
 
 <p style="text-align: justify;">
-  Carol Carneiro é uma Designer de Ambientes apaixonada por reutilização de materiais. <a href="http://blogcarolcarneiro.blogspot.com.br/" target="_blank">No blog que ela edita</a> dá pra ver muito mais do que ela já andou produzindo, além de suas ideias transformadas em posts. Além disso, há muito mais em <a href="https://www.facebook.com/Blog-Carol-Carneiro-185450341509448/" target="_blank">sua página no Facebook. É só clicar aqui</a>, curtir e acompanhar.
+  Carol Carneiro é uma Designer de Ambientes apaixonada por reutilização de materiais. <a href="http://blogcarolcarneiro.blogspot.com.br/" target="_blank" rel="noopener noreferrer">No blog que ela edita</a> dá pra ver muito mais do que ela já andou produzindo, além de suas ideias transformadas em posts. Além disso, há muito mais em <a href="https://www.facebook.com/Blog-Carol-Carneiro-185450341509448/" target="_blank" rel="noopener noreferrer">sua página no Facebook. É só clicar aqui</a>, curtir e acompanhar.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

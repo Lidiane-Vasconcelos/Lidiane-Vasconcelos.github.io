@@ -1,10 +1,7 @@
 ---
-id: 3344
 title: Quibe rústico assado de abóbora + sua salada do coração.
-date: 2014-09-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/09/17/quibe-rustico-assado-abobora/
 permalink: /2014/09/17/quibe-rustico-assado-abobora/
 categories:
   - Receitas
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-QUIBE-ASSADO.jpg"><img class="alignnone size-full wp-image-10406" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-QUIBE-ASSADO.jpg" alt="RECEITA-RECEITA FACIL-RECEITA SAUDAVEL-QUIBE ASSADO" width="800" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-QUIBE-ASSADO.jpg"><img class="alignnone size-full wp-image-10406" src="https://www.trololodemulher.com.br/2014/09/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-QUIBE-ASSADO.jpg" alt="RECEITA-RECEITA FACIL-RECEITA SAUDAVEL-QUIBE ASSADO" width="800" height="450" /></a>
 </p>
 
 <p align="justify">
@@ -70,27 +67,27 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/09/03/pao-de-beterraba/" target="_blank"><strong>Pão de beterraba com chia: fácil, bonito de viver, e nem precisa sovar!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/09/03/pao-de-beterraba/" target="_blank" rel="noopener noreferrer"><strong>Pão de beterraba com chia: fácil, bonito de viver, e nem precisa sovar!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank"><strong>Canelone de berinjela + queijo cottage (no molho caseiro)</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank" rel="noopener noreferrer"><strong>Canelone de berinjela + queijo cottage (no molho caseiro)</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/14/arroz-integral-file-frango/" target="_blank"><strong>Arroz integral (fora do comum) + filé de frango (no molho delícia!)</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/14/arroz-integral-file-frango/" target="_blank" rel="noopener noreferrer"><strong>Arroz integral (fora do comum) + filé de frango (no molho delícia!)</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/CAROL-VIEIRA.png"><img class="alignnone size-full wp-image-10204" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/CAROL-VIEIRA.png" alt="CAROL VIEIRA" width="600" height="251" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/07/CAROL-VIEIRA.png"><img class="alignnone size-full wp-image-10204" src="https://www.trololodemulher.com.br/2014/07/CAROL-VIEIRA.png" alt="CAROL VIEIRA" width="600" height="251" /></a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank" rel="noopener noreferrer">clica aqui, oh</a>.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 <p align="justify">

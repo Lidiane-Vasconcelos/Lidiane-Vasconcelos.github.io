@@ -1,10 +1,7 @@
 ---
-id: 2771
 title: Do projeto do nosso escritório ou home office.
-date: 2010-01-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/01/25/projeto-escritorio-home-office/
 permalink: /2010/01/25/projeto-escritorio-home-office/
 categories:
   - Escritório
@@ -28,7 +25,7 @@ _
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC01974-leve.jpg"><img class="aligncenter size-medium wp-image-4177" title="DSC01974 leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC01974-leve-300x200.jpg" alt="" width="300" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/DSC01974-leve.jpg"><img class="aligncenter size-medium wp-image-4177" title="DSC01974 leve" src="https://www.trololodemulher.com.br/2010/01/DSC01974-leve-300x200.jpg" alt="" width="300" height="200" /></a>
     </td>
   </tr>
 </table>
@@ -40,7 +37,7 @@ Veja que ele criou um desnível na parte de cima, para que não ficasse uma linh
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC01977-leve.jpg"><img class="aligncenter size-medium wp-image-4178" title="DSC01977 leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC01977-leve-200x300.jpg" alt="" width="200" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/DSC01977-leve.jpg"><img class="aligncenter size-medium wp-image-4178" title="DSC01977 leve" src="https://www.trololodemulher.com.br/2010/01/DSC01977-leve-200x300.jpg" alt="" width="200" height="300" /></a>
     </td>
   </tr>
 </table>
@@ -48,7 +45,7 @@ Veja que ele criou um desnível na parte de cima, para que não ficasse uma linh
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC01978-leve.jpg"><img class="aligncenter size-medium wp-image-4179" title="DSC01978 leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC01978-leve-300x200.jpg" alt="" width="300" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/DSC01978-leve.jpg"><img class="aligncenter size-medium wp-image-4179" title="DSC01978 leve" src="https://www.trololodemulher.com.br/2010/01/DSC01978-leve-300x200.jpg" alt="" width="300" height="200" /></a>
     </td>
   </tr>
 </table>
@@ -58,12 +55,12 @@ Logo abaixo dos armários superiores há um nicho em toda a extensão que ele cr
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC01979leve1.jpg"><img class="aligncenter size-medium wp-image-4181" title="DSC01979leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC01979leve1-300x200.jpg" alt="" width="300" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/DSC01979leve1.jpg"><img class="aligncenter size-medium wp-image-4181" title="DSC01979leve" src="https://www.trololodemulher.com.br/2010/01/DSC01979leve1-300x200.jpg" alt="" width="300" height="200" /></a>
     </td>
   </tr>
 </table>
 
-Cada um de nós procura dar um pouco de si nos detalhes em cada um dos cantos que nós ficamos. Acho importante que seja assim, que cada um mantenha coisas com suas características pessoais. A Nana &#8211; <a href="http://www.mangacompimenta.blogspot.com/" target="_blank">Manga com Pimenta </a>&#8211; está pensando em fazer o seu cantinho de onde pretende blogar e usar seu computador, e <a href="http://mangacompimenta.blogspot.com/2010/01/faca-um-cantinho-para-chamar-de-seu.html" target="_blank">já busca inspirações</a>.  Ela vem usando um cantinho que, na verdade, parece ter mais a cara do marido:
+Cada um de nós procura dar um pouco de si nos detalhes em cada um dos cantos que nós ficamos. Acho importante que seja assim, que cada um mantenha coisas com suas características pessoais. A Nana &#8211; <a href="http://www.mangacompimenta.blogspot.com/" target="_blank" rel="noopener noreferrer">Manga com Pimenta </a>&#8211; está pensando em fazer o seu cantinho de onde pretende blogar e usar seu computador, e <a href="http://mangacompimenta.blogspot.com/2010/01/faca-um-cantinho-para-chamar-de-seu.html" target="_blank" rel="noopener noreferrer">já busca inspirações</a>.  Ela vem usando um cantinho que, na verdade, parece ter mais a cara do marido:
 
 &#8220;&#8230;_eu aprendi depois de seis anos que todo mundo precisa de um cantinho para chamar de seu, aprendi tarde, o meu marido sempre teve o dele que é dentro do quarto, um mini escritório podemos dizer, tem até rotas e quadros de avião, fotos tiradas por ele. Eu sempre usei o seu cantinho, mas agora decidi ter o meu e tento arquitetar o que eu posso fazer na sala_&#8230;&#8221;
 
@@ -72,17 +69,17 @@ Acho que a Nana está certa. Como aqui em casa o escritório é um só, é nos d
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC02118-leve.jpg"><img class="aligncenter size-medium wp-image-4182" title="DSC02118 leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC02118-leve-200x300.jpg" alt="" width="200" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/DSC02118-leve.jpg"><img class="aligncenter size-medium wp-image-4182" title="DSC02118 leve" src="https://www.trololodemulher.com.br/2010/01/DSC02118-leve-200x300.jpg" alt="" width="200" height="300" /></a>
     </td>
   </tr>
 </table>
 
-Entre o nicho dos bonecos e a mesa está o painel com tecido, onde fixamos com alfinetes a nossa papelada de lembretes e afins. É nesse painel que faço a festa com meus _post-its_, e foi onde coloquei meu calendário de 2010 feito pela Luci – <a href="http://artesdaluci.blogspot.com/" target="_blank">Artes da Luci </a>& <a href="http://reencontrandoaspalavras.blogspot.com/" target="_blank">Vida</a> – um mimo enviado por ela para o meu e-mail. Onde e como ela fez eu não sei, só sei que isso é coisa de bicha fêmea _high tech_, sabe?
+Entre o nicho dos bonecos e a mesa está o painel com tecido, onde fixamos com alfinetes a nossa papelada de lembretes e afins. É nesse painel que faço a festa com meus _post-its_, e foi onde coloquei meu calendário de 2010 feito pela Luci – <a href="http://artesdaluci.blogspot.com/" target="_blank" rel="noopener noreferrer">Artes da Luci </a>& <a href="http://reencontrandoaspalavras.blogspot.com/" target="_blank" rel="noopener noreferrer">Vida</a> – um mimo enviado por ela para o meu e-mail. Onde e como ela fez eu não sei, só sei que isso é coisa de bicha fêmea _high tech_, sabe?
 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC02119-leve.jpg"><img class="aligncenter size-medium wp-image-4183" title="DSC02119 leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC02119-leve-300x200.jpg" alt="" width="300" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/DSC02119-leve.jpg"><img class="aligncenter size-medium wp-image-4183" title="DSC02119 leve" src="https://www.trololodemulher.com.br/2010/01/DSC02119-leve-300x200.jpg" alt="" width="300" height="200" /></a>
     </td>
   </tr>
 </table>
@@ -92,7 +89,7 @@ Ao meu lado ficam 4 gavetas simples. Já ao lado do marido, há 3 gavetas. Na pr
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC02110-leve.jpg"><img class="aligncenter size-medium wp-image-4184" title="DSC02110 leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC02110-leve-300x200.jpg" alt="" width="300" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/DSC02110-leve.jpg"><img class="aligncenter size-medium wp-image-4184" title="DSC02110 leve" src="https://www.trololodemulher.com.br/2010/01/DSC02110-leve-300x200.jpg" alt="" width="300" height="200" /></a>
     </td>
   </tr>
 </table>
@@ -100,7 +97,7 @@ Ao meu lado ficam 4 gavetas simples. Já ao lado do marido, há 3 gavetas. Na pr
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC02112-leve.jpg"><img class="aligncenter size-medium wp-image-4185" title="DSC02112 leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC02112-leve-300x200.jpg" alt="" width="300" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/DSC02112-leve.jpg"><img class="aligncenter size-medium wp-image-4185" title="DSC02112 leve" src="https://www.trololodemulher.com.br/2010/01/DSC02112-leve-300x200.jpg" alt="" width="300" height="200" /></a>
     </td>
   </tr>
 </table>
@@ -108,7 +105,7 @@ Ao meu lado ficam 4 gavetas simples. Já ao lado do marido, há 3 gavetas. Na pr
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC02114-leve.jpg"><img class="aligncenter size-medium wp-image-4186" title="DSC02114 leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC02114-leve-300x200.jpg" alt="" width="300" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/DSC02114-leve.jpg"><img class="aligncenter size-medium wp-image-4186" title="DSC02114 leve" src="https://www.trololodemulher.com.br/2010/01/DSC02114-leve-300x200.jpg" alt="" width="300" height="200" /></a>
     </td>
   </tr>
 </table>
@@ -118,7 +115,7 @@ Na segunda gaveta não há nada demais, ela é simples como as que estão no gav
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC02115-leve.jpg"><img class="aligncenter size-medium wp-image-4187" title="DSC02115 leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC02115-leve-300x200.jpg" alt="" width="300" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/DSC02115-leve.jpg"><img class="aligncenter size-medium wp-image-4187" title="DSC02115 leve" src="https://www.trololodemulher.com.br/2010/01/DSC02115-leve-300x200.jpg" alt="" width="300" height="200" /></a>
     </td>
   </tr>
 </table>
@@ -132,7 +129,7 @@ No lado esquerdo há 6 pequenos espaços para objetos eletrônicos, com buracos 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC02116-leve.jpg"><img class="aligncenter size-medium wp-image-4188" title="DSC02116 leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC02116-leve-200x300.jpg" alt="" width="200" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/DSC02116-leve.jpg"><img class="aligncenter size-medium wp-image-4188" title="DSC02116 leve" src="https://www.trololodemulher.com.br/2010/01/DSC02116-leve-200x300.jpg" alt="" width="200" height="300" /></a>
     </td>
   </tr>
 </table>
@@ -140,7 +137,7 @@ No lado esquerdo há 6 pequenos espaços para objetos eletrônicos, com buracos 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC01995-leve.jpg"><img class="aligncenter size-medium wp-image-4189" title="DSC01995 leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC01995-leve-300x200.jpg" alt="" width="300" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/DSC01995-leve.jpg"><img class="aligncenter size-medium wp-image-4189" title="DSC01995 leve" src="https://www.trololodemulher.com.br/2010/01/DSC01995-leve-300x200.jpg" alt="" width="300" height="200" /></a>
     </td>
   </tr>
 </table>
@@ -148,7 +145,7 @@ No lado esquerdo há 6 pequenos espaços para objetos eletrônicos, com buracos 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC01996-leve.jpg"><img class="aligncenter size-medium wp-image-4190" title="DSC01996 leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC01996-leve-300x200.jpg" alt="" width="300" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/DSC01996-leve.jpg"><img class="aligncenter size-medium wp-image-4190" title="DSC01996 leve" src="https://www.trololodemulher.com.br/2010/01/DSC01996-leve-300x200.jpg" alt="" width="300" height="200" /></a>
     </td>
   </tr>
 </table>

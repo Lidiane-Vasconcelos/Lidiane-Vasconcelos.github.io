@@ -1,10 +1,7 @@
 ---
-id: 2599
 title: 'Resoluções de beleza, saúde e bem viver&#8230;'
-date: 2009-01-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/01/04/dica-beleza-saude/
 permalink: /2009/01/04/dica-beleza-saude/
 categories:
   - Beleza
@@ -14,7 +11,7 @@ categories:
 Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações diretamente ligadas aos cuidados com beleza, saúde e bem viver? Será que elas te inspiram a pô-las em prática na sua rotina? Lógico, antes é preciso acreditar que isso pode fazer alguma diferença&#8230;
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/beleza.jpg"><img class="size-medium wp-image-4912 aligncenter" title="beleza" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/beleza-219x300.jpg" alt="" width="219" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/beleza.jpg"><img class="size-medium wp-image-4912 aligncenter" title="beleza" src="https://www.trololodemulher.com.br/2010/07/beleza-219x300.jpg" alt="" width="219" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -22,7 +19,7 @@ Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações dire
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/vestido.jpg"><img class="alignnone size-medium wp-image-4913" title="vestido" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/vestido-219x300.jpg" alt="" width="219" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/vestido.jpg"><img class="alignnone size-medium wp-image-4913" title="vestido" src="https://www.trololodemulher.com.br/2010/07/vestido-219x300.jpg" alt="" width="219" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -30,7 +27,7 @@ Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações dire
 </p>
 
 <p style="text-align: center;">
-   <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/cuidado-com-unhas.jpg"><img class="size-medium wp-image-4914 aligncenter" title="cuidado com unhas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/cuidado-com-unhas-219x300.jpg" alt="" width="219" height="300" /></a>
+   <a href="https://www.trololodemulher.com.br/2010/07/cuidado-com-unhas.jpg"><img class="size-medium wp-image-4914 aligncenter" title="cuidado com unhas" src="https://www.trololodemulher.com.br/2010/07/cuidado-com-unhas-219x300.jpg" alt="" width="219" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -38,7 +35,7 @@ Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações dire
 </p>
 
 <p style="text-align: center;">
-   <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/beber-mais-agua.jpg"><img class="size-medium wp-image-4915 aligncenter" title="beber mais água" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/beber-mais-agua-219x300.jpg" alt="" width="219" height="300" /></a>
+   <a href="https://www.trololodemulher.com.br/2010/07/beber-mais-agua.jpg"><img class="size-medium wp-image-4915 aligncenter" title="beber mais água" src="https://www.trololodemulher.com.br/2010/07/beber-mais-agua-219x300.jpg" alt="" width="219" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -46,7 +43,7 @@ Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações dire
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/usar-menos-maquiagem.jpg"><img class="alignnone size-medium wp-image-4916" title="usar menos maquiagem" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/usar-menos-maquiagem-219x300.jpg" alt="" width="219" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/usar-menos-maquiagem.jpg"><img class="alignnone size-medium wp-image-4916" title="usar menos maquiagem" src="https://www.trololodemulher.com.br/2010/07/usar-menos-maquiagem-219x300.jpg" alt="" width="219" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -54,7 +51,7 @@ Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações dire
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/dieta-saudavel.jpg"><img class="alignnone size-medium wp-image-4917" title="dieta saudável" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/dieta-saudavel-219x300.jpg" alt="" width="219" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/dieta-saudavel.jpg"><img class="alignnone size-medium wp-image-4917" title="dieta saudável" src="https://www.trololodemulher.com.br/2010/07/dieta-saudavel-219x300.jpg" alt="" width="219" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -62,7 +59,7 @@ Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações dire
 </p>
 
 <p style="text-align: left;">
-  <em>Imagens: </em><a href="http://www.ivillage.com/beauty-style" target="_blank"><em>beauty.ivillage</em></a>
+  <em>Imagens: </em><a href="http://www.ivillage.com/beauty-style" target="_blank" rel="noopener noreferrer"><em>beauty.ivillage</em></a>
 </p>
 
 **Quer ver mais coisas simples que você pode fazer por sua beleza e saúde?**

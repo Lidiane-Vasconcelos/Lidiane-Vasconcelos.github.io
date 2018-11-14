@@ -1,11 +1,8 @@
 ---
-id: 3882
 title: Mexa-se em atividade física e seja mais produtiva!
-date: 2018-10-16T00:00:00+00:00
-author: admin
+author: Lidiane
 excerpt: Atividade física é algo que faz bem, e quem pratica sabe disso. Mas há a necessidade de organização para inserir isso na rotina. Por onde começar?
 layout: post
-guid: http://localhost/wordpress/2018/10/16/atividade-fisica/
 permalink: /2018/10/16/atividade-fisica/
 categories:
   - Bem viver
@@ -21,7 +18,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14728" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/10/ATIVIDADE-FÍSICA-EXERCICIO-FISICO-SAUDE-BEM-ESTAR-PRODUTIVIDADE-GESTAO-DO-TEMPO-ORGANIZACAO-PESSOAL-BEM-VIVER-BLOG.jpg" alt="" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14728" src="https://www.trololodemulher.com.br/2018/10/ATIVIDADE-FÍSICA-EXERCICIO-FISICO-SAUDE-BEM-ESTAR-PRODUTIVIDADE-GESTAO-DO-TEMPO-ORGANIZACAO-PESSOAL-BEM-VIVER-BLOG.jpg" alt="" width="800" height="800" />
 </p>
 
 <p align="center">

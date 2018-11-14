@@ -1,10 +1,7 @@
 ---
-id: 3603
 title: 'Cores pasteis na decoração: 3 maneiras simples de usá-las.'
-date: 2016-05-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/05/04/cores-pasteis-decoracao/
 permalink: /2016/05/04/cores-pasteis-decoracao/
 categories:
   - Dicas de Decoração
@@ -18,11 +15,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12482" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-CORES-CORES-NA-DECORACAO-CORES-PASTEIS-CANDY-COLOR.png" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-CORES-CORES NA DECORACAO-CORES PASTEIS-CANDY COLOR" width="536" height="800" />
+  <img class="alignnone size-full wp-image-12482" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-CORES-CORES-NA-DECORACAO-CORES-PASTEIS-CANDY-COLOR.png" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-CORES-CORES NA DECORACAO-CORES PASTEIS-CANDY COLOR" width="536" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://entermyattic.blogspot.nl/2014/12/a-happy-home-happy-new-year.html" target="_blank">My Attic</a>
+  Imagem: <a href="http://entermyattic.blogspot.nl/2014/12/a-happy-home-happy-new-year.html" target="_blank" rel="noopener noreferrer">My Attic</a>
 </p>
 
 <p align="justify">
@@ -30,11 +27,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12484" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-CORES-CORES-NA-DECORACAO-CORES-PASTEIS-CANDY-COLOR2.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-CORES-CORES NA DECORACAO-CORES PASTEIS-CANDY COLOR[2]" width="536" height="788" />
+  <img class="alignnone size-full wp-image-12484" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-CORES-CORES-NA-DECORACAO-CORES-PASTEIS-CANDY-COLOR2.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-CORES-CORES NA DECORACAO-CORES PASTEIS-CANDY COLOR[2]" width="536" height="788" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://donkeyandthecarrot.blogspot.gr/2013/10/a-tour-in-house-of-donkey-and-carrot.html" target="_blank">Donkey and the Carrot</a>
+  Imagem: <a href="http://donkeyandthecarrot.blogspot.gr/2013/10/a-tour-in-house-of-donkey-and-carrot.html" target="_blank" rel="noopener noreferrer">Donkey and the Carrot</a>
 </p>
 
 <p align="justify">
@@ -42,11 +39,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12488" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-CORES-CORES-NA-DECORACAO-CORES-PASTEIS-CANDY-COLOR4.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-CORES-CORES NA DECORACAO-CORES PASTEIS-CANDY COLOR[4]" width="533" height="789" />
+  <img class="alignnone size-full wp-image-12488" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-CORES-CORES-NA-DECORACAO-CORES-PASTEIS-CANDY-COLOR4.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-CORES-CORES NA DECORACAO-CORES PASTEIS-CANDY COLOR[4]" width="533" height="789" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.brightbazaarblog.com/2014/02/10-things-i-learned-loved-this-weekend-111.html" target="_blank">bright . bazaar</a>
+  Imagem: <a href="http://www.brightbazaarblog.com/2014/02/10-things-i-learned-loved-this-weekend-111.html" target="_blank" rel="noopener noreferrer">bright . bazaar</a>
 </p>
 
 <p align="justify">
@@ -54,7 +51,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

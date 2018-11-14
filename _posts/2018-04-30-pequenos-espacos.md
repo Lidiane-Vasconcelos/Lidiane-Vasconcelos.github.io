@@ -1,10 +1,7 @@
 ---
-id: 3861
 title: Sobre bem viver em pequenos espaços.
-date: 2018-04-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2018/04/30/pequenos-espacos/
 permalink: /2018/04/30/pequenos-espacos/
 categories:
   - Dicas de Decoração
@@ -17,7 +14,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14613" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/04/TROLOLODEMULHER-BLOG18.jpg" alt="TROLOLODEMULHER-BLOG[18]" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14613" src="https://www.trololodemulher.com.br/2018/04/TROLOLODEMULHER-BLOG18.jpg" alt="TROLOLODEMULHER-BLOG[18]" width="800" height="800" />
 </p>
 
 <p align="justify">
@@ -25,15 +22,15 @@ categories:
 </p>
 
 <p align="justify">
-  1 – <a href="http://www.trololodemulher.com.br/2016/03/07/decoracao-de-cozinha-pequena/" target="_blank">Decoração de cozinha pequena: dicas e imagens.</a>
+  1 – <a href="http://www.trololodemulher.com.br/2016/03/07/decoracao-de-cozinha-pequena/" target="_blank" rel="noopener noreferrer">Decoração de cozinha pequena: dicas e imagens.</a>
 </p>
 
 <p align="justify">
-  2 – <a href="http://www.trololodemulher.com.br/2016/02/19/banheiro-pequeno/" target="_blank">Faça seu banheiro pequeno parecer maior com 5 truques.</a>
+  2 – <a href="http://www.trololodemulher.com.br/2016/02/19/banheiro-pequeno/" target="_blank" rel="noopener noreferrer">Faça seu banheiro pequeno parecer maior com 5 truques.</a>
 </p>
 
 <p align="justify">
-  3 – <a href="http://www.trololodemulher.com.br/2014/11/17/receber-espaco-pequeno/" target="_blank">Como receber em um espaço pequeno? Dicas valiosas.</a>
+  3 – <a href="http://www.trololodemulher.com.br/2014/11/17/receber-espaco-pequeno/" target="_blank" rel="noopener noreferrer">Como receber em um espaço pequeno? Dicas valiosas.</a>
 </p>
 
 <p align="center">
@@ -53,11 +50,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14610" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/04/NEWSLETTER.png" alt="NEWSLETTER" width="556" height="150" />
+  <img class="alignnone size-full wp-image-14610" src="https://www.trololodemulher.com.br/2018/04/NEWSLETTER.png" alt="NEWSLETTER" width="556" height="150" />
 </p>
 
 <p align="justify">
-  Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de <strong>gestão do tempo, organização pessoal, produtividade, vida simples e bem viver</strong>. Para isso, preciso que você entre na minha lista de relacionamento. <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">Avise que quer, neste post</a>. É grátis!
+  Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de <strong>gestão do tempo, organização pessoal, produtividade, vida simples e bem viver</strong>. Para isso, preciso que você entre na minha lista de relacionamento. <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank" rel="noopener noreferrer">Avise que quer, neste post</a>. É grátis!
 </p>
 
 <p align="justify">

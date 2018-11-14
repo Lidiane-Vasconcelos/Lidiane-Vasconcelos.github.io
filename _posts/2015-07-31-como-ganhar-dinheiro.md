@@ -1,10 +1,7 @@
 ---
-id: 3453
 title: 'De hobby a trabalho: como ganhar dinheiro?'
-date: 2015-07-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/07/31/como-ganhar-dinheiro/
 permalink: /2015/07/31/como-ganhar-dinheiro/
 categories:
   - Empreendedorismo Feminino
@@ -20,11 +17,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/" target="_blank"><strong>O que faz uma mãe decidir pelo trabalho autônomo?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/" target="_blank" rel="noopener noreferrer"><strong>O que faz uma mãe decidir pelo trabalho autônomo?</strong></a>
 </p>
 
 <p align="justify">
-  <strong>Jê Souza Pereira</strong>, a <strong>Rainha da Chita</strong>, é uma moça bonita de trinta e poucos anos – ela não revela nem por decreto quantos são esses poucos anos a mais! – que nasceu em Mossóró, RN. Nordestina forte que só ela, foi morar nos EUA há mais de 13 anos com o amor de sua vida, e lá aprendeu a costurar com o objetivo de interagir com outras pessoas e aprender a língua, já que trabalhar formalmente não era possível naquele momento, porque seu visto de esposa não permitia. A costura, que no início era hobby, passou a ser mais que isso: virou terapia. Jê perdeu a sua mãe, e junto com ela o chão e a alegria de viver. Vieram a depressão e a síndrome do pânico, e o que sua terapeuta recomendou foi: use suas mãos! O poder das artes manuais resgatou essa bonita do fundo do poço e, aos poucos, a levou para um lugar que ela jamais imaginou. “<em>Vender a minha arte não foi planejado. Aconteceu de uma forma rápida e motivadora. Quanto mais eu postava meus produtos mais as minhas amigas me perguntavam se era pra vender. Eu respondia que não. Afinal, era apenas um hobby para passar o meu tempo de uma forma agradável. E em uma determinada situação me vi passando o número de minha conta para depósito bancário e logo então abri a <strong><a href="http://www.dreamsfactorybyjeane.com/" target="_blank">Dreams Factory by Jeane</a></strong>, minha loja virtual nos USA que vendia para o mundo inteiro. Fiz envios para o Brasil, vários países da Europa e Japão</em>”, conta a Jê.
+  <strong>Jê Souza Pereira</strong>, a <strong>Rainha da Chita</strong>, é uma moça bonita de trinta e poucos anos – ela não revela nem por decreto quantos são esses poucos anos a mais! – que nasceu em Mossóró, RN. Nordestina forte que só ela, foi morar nos EUA há mais de 13 anos com o amor de sua vida, e lá aprendeu a costurar com o objetivo de interagir com outras pessoas e aprender a língua, já que trabalhar formalmente não era possível naquele momento, porque seu visto de esposa não permitia. A costura, que no início era hobby, passou a ser mais que isso: virou terapia. Jê perdeu a sua mãe, e junto com ela o chão e a alegria de viver. Vieram a depressão e a síndrome do pânico, e o que sua terapeuta recomendou foi: use suas mãos! O poder das artes manuais resgatou essa bonita do fundo do poço e, aos poucos, a levou para um lugar que ela jamais imaginou. “<em>Vender a minha arte não foi planejado. Aconteceu de uma forma rápida e motivadora. Quanto mais eu postava meus produtos mais as minhas amigas me perguntavam se era pra vender. Eu respondia que não. Afinal, era apenas um hobby para passar o meu tempo de uma forma agradável. E em uma determinada situação me vi passando o número de minha conta para depósito bancário e logo então abri a <strong><a href="http://www.dreamsfactorybyjeane.com/" target="_blank" rel="noopener noreferrer">Dreams Factory by Jeane</a></strong>, minha loja virtual nos USA que vendia para o mundo inteiro. Fiz envios para o Brasil, vários países da Europa e Japão</em>”, conta a Jê.
 </p>
 
 <p align="justify">
@@ -32,7 +29,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-COMO-GANHAR-DINHEIRO-CARREIRA-NEGOCIOS3.jpg"><img class="alignnone size-full wp-image-11203" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-COMO-GANHAR-DINHEIRO-CARREIRA-NEGOCIOS3.jpg" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-COMO GANHAR DINHEIRO-CARREIRA-NEGOCIOS[3]" width="800" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-COMO-GANHAR-DINHEIRO-CARREIRA-NEGOCIOS3.jpg"><img class="alignnone size-full wp-image-11203" src="https://www.trololodemulher.com.br/2015/07/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-COMO-GANHAR-DINHEIRO-CARREIRA-NEGOCIOS3.jpg" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-COMO GANHAR DINHEIRO-CARREIRA-NEGOCIOS[3]" width="800" height="600" /></a>
 </p>
 
 <p align="justify">
@@ -72,7 +69,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/06/15/trabalhar-sem-sair-da-casa/" target="_blank"><strong>Quer trabalhar sem sair de casa? Abra sua loja na Divitae!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/06/15/trabalhar-sem-sair-da-casa/" target="_blank" rel="noopener noreferrer"><strong>Quer trabalhar sem sair de casa? Abra sua loja na Divitae!</strong></a>
 </p>
 
 <p align="justify">
@@ -88,7 +85,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-COMO-GANHAR-DINHEIRO-CARREIRA-NEGOCIOS2.jpg"><img class="alignnone size-full wp-image-11202" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-COMO-GANHAR-DINHEIRO-CARREIRA-NEGOCIOS2.jpg" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-COMO GANHAR DINHEIRO-CARREIRA-NEGOCIOS[2]" width="800" height="688" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-COMO-GANHAR-DINHEIRO-CARREIRA-NEGOCIOS2.jpg"><img class="alignnone size-full wp-image-11202" src="https://www.trololodemulher.com.br/2015/07/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-COMO-GANHAR-DINHEIRO-CARREIRA-NEGOCIOS2.jpg" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-COMO GANHAR DINHEIRO-CARREIRA-NEGOCIOS[2]" width="800" height="688" /></a>
 </p>
 
 <p align="center">
@@ -148,11 +145,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/12/12/empreendedorismo-feminino/" target="_blank"><strong>Empreendedorismo feminino: 3 mulheres contaram tudo!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/12/12/empreendedorismo-feminino/" target="_blank" rel="noopener noreferrer"><strong>Empreendedorismo feminino: 3 mulheres contaram tudo!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/08/16/margaret-empreendedorismo/" target="_blank"><strong>Qual é o mistério do sucesso da Margaret?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/08/16/margaret-empreendedorismo/" target="_blank" rel="noopener noreferrer"><strong>Qual é o mistério do sucesso da Margaret?</strong></a>
 </p>
 
 <p align="justify">
@@ -192,7 +189,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank"><strong>Produtividade e gestão do tempo: chega de correria!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank" rel="noopener noreferrer"><strong>Produtividade e gestão do tempo: chega de correria!</strong></a>
 </p>
 
 <p align="justify">
@@ -204,7 +201,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-COMO-GANHAR-DINHEIRO-CARREIRA-NEGOCIOS5.jpg"><img class="alignnone size-full wp-image-11207" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-COMO-GANHAR-DINHEIRO-CARREIRA-NEGOCIOS5.jpg" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-COMO GANHAR DINHEIRO-CARREIRA-NEGOCIOS[5]" width="800" height="603" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-COMO-GANHAR-DINHEIRO-CARREIRA-NEGOCIOS5.jpg"><img class="alignnone size-full wp-image-11207" src="https://www.trololodemulher.com.br/2015/07/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-COMO-GANHAR-DINHEIRO-CARREIRA-NEGOCIOS5.jpg" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-COMO GANHAR DINHEIRO-CARREIRA-NEGOCIOS[5]" width="800" height="603" /></a>
 </p>
 
 <p style="text-align: center;" align="justify">
@@ -217,11 +214,11 @@ categories:
   </p>
   
   <p style="text-align: left;" align="justify">
-    <strong><a href="http://www.trololodemulher.com.br/2011/08/08/dicas-de-organizacao/" target="_blank">Seu ateliê: 3 dicas de marcenaria para melhorar a organização.</a></strong>
+    <strong><a href="http://www.trololodemulher.com.br/2011/08/08/dicas-de-organizacao/" target="_blank" rel="noopener noreferrer">Seu ateliê: 3 dicas de marcenaria para melhorar a organização.</a></strong>
   </p>
   
   <p style="text-align: left;" align="justify">
-    <strong><a href="http://www.trololodemulher.com.br/2011/07/18/ideias-vintage-organizacao/" target="_blank">3 ideias vintage que organizam o seu ateliê com charme. Inspire-se!</a></strong>
+    <strong><a href="http://www.trololodemulher.com.br/2011/07/18/ideias-vintage-organizacao/" target="_blank" rel="noopener noreferrer">3 ideias vintage que organizam o seu ateliê com charme. Inspire-se!</a></strong>
   </p>
   
   <p align="justify">
@@ -253,7 +250,7 @@ categories:
   </p>
   
   <p align="justify">
-    <a href="http://www.trololodemulher.com.br/2014/07/23/trabalho-carreira/" target="_blank"><strong>“Amo tanto o meu trabalho!”… será mesmo amor?</strong></a>
+    <a href="http://www.trololodemulher.com.br/2014/07/23/trabalho-carreira/" target="_blank" rel="noopener noreferrer"><strong>“Amo tanto o meu trabalho!”… será mesmo amor?</strong></a>
   </p>
   
   <p align="justify">
@@ -271,11 +268,11 @@ categories:
   </p>
   
   <p align="justify">
-    <a href="http://www.trololodemulher.com.br/2014/06/13/empreendedorismo-feminino-2/" target="_blank"><strong>Empreendedorismo feminino: o que é mais importante?</strong></a>
+    <a href="http://www.trololodemulher.com.br/2014/06/13/empreendedorismo-feminino-2/" target="_blank" rel="noopener noreferrer"><strong>Empreendedorismo feminino: o que é mais importante?</strong></a>
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-COMO-GANHAR-DINHEIRO-CARREIRA-NEGOCIOS.png"><img class="alignnone size-full wp-image-11201" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-COMO-GANHAR-DINHEIRO-CARREIRA-NEGOCIOS.png" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-COMO GANHAR DINHEIRO-CARREIRA-NEGOCIOS" width="646" height="83" /></a>
+    <a href="https://www.trololodemulher.com.br/2015/07/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-COMO-GANHAR-DINHEIRO-CARREIRA-NEGOCIOS.png"><img class="alignnone size-full wp-image-11201" src="https://www.trololodemulher.com.br/2015/07/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-COMO-GANHAR-DINHEIRO-CARREIRA-NEGOCIOS.png" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-COMO GANHAR DINHEIRO-CARREIRA-NEGOCIOS" width="646" height="83" /></a>
   </p>
   
   <blockquote>
@@ -301,7 +298,7 @@ categories:
   </blockquote>
   
   <p align="justify">
-    Jê está espalhada pela internet e você pode vê-la nos lugares mais agitados. Confira o que essa moça vem desenvolvendo, aprenda muito mais com ela e comece a trilhar o seu caminho também, fazendo de suas habilidades manuais um meio para ganhar o seu sustento. Impossível não é… e pra começar: <a href="https://www.facebook.com/DreamsFactoryByJeane" target="_blank">curta a fanpage Dreams Facotory no Facebook</a>, acompanhe o <a href="http://www.dreamsfactorybyjeane.com/" target="_blank">blog da Jê</a> e <a href="https://www.youtube.com/user/DreamsFactoryByJeane" target="_blank">inscreva-se no canal da Jê no Youtube</a>, re-ple-to de vídeos com PAPs, dicas e muito mais.
+    Jê está espalhada pela internet e você pode vê-la nos lugares mais agitados. Confira o que essa moça vem desenvolvendo, aprenda muito mais com ela e comece a trilhar o seu caminho também, fazendo de suas habilidades manuais um meio para ganhar o seu sustento. Impossível não é… e pra começar: <a href="https://www.facebook.com/DreamsFactoryByJeane" target="_blank" rel="noopener noreferrer">curta a fanpage Dreams Facotory no Facebook</a>, acompanhe o <a href="http://www.dreamsfactorybyjeane.com/" target="_blank" rel="noopener noreferrer">blog da Jê</a> e <a href="https://www.youtube.com/user/DreamsFactoryByJeane" target="_blank" rel="noopener noreferrer">inscreva-se no canal da Jê no Youtube</a>, re-ple-to de vídeos com PAPs, dicas e muito mais.
   </p>
   
   <p align="justify">
@@ -309,13 +306,13 @@ categories:
   </p>
   
   <p align="justify">
-    <a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/" target="_blank"><strong>O talento na cozinha pode virar uma fonte de renda?</strong></a>
+    <a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/" target="_blank" rel="noopener noreferrer"><strong>O talento na cozinha pode virar uma fonte de renda?</strong></a>
   </p>
   
   <p align="justify">
-    <a href="http://www.trololodemulher.com.br/2011/09/09/trabalhar-home-office/" target="_blank"><strong>Quer trabalhar sem sair de casa mas não sabe como?</strong></a>
+    <a href="http://www.trololodemulher.com.br/2011/09/09/trabalhar-home-office/" target="_blank" rel="noopener noreferrer"><strong>Quer trabalhar sem sair de casa mas não sabe como?</strong></a>
   </p>
   
   <p align="center">
-    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
   </p>

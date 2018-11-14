@@ -1,10 +1,7 @@
 ---
-id: 3805
 title: 'Biquíni para cada tipo de corpo: saiba escolher.'
-date: 2017-09-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/09/25/biquini-para-cada-tipo-de-corpo/
 permalink: /2017/09/25/biquini-para-cada-tipo-de-corpo/
 categories:
   - Moda
@@ -22,15 +19,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Confira lista de <a href="https://www.gearweare.com/review/best-flip-flop-sandals/" target="_blank">sandálias</a>, com dicas para realizar melhores escolhas. </strong>
+  <strong>Confira lista de <a href="https://www.gearweare.com/review/best-flip-flop-sandals/" target="_blank" rel="noopener noreferrer">sandálias</a>, com dicas para realizar melhores escolhas. </strong>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14189" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/BIQUINI-TIPO-DE-CORPO-MODA-PRAIA.jpg" alt="BIQUINI-TIPO DE CORPO-MODA PRAIA" width="800" height="600" />
+  <img class="alignnone size-full wp-image-14189" src="https://www.trololodemulher.com.br/2017/09/BIQUINI-TIPO-DE-CORPO-MODA-PRAIA.jpg" alt="BIQUINI-TIPO DE CORPO-MODA PRAIA" width="800" height="600" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/anap/3177177124/" target="_blank">Ana Patrícia Almeida</a> via <a href="http://foter.com/re/5fbcb1" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Imagem: <a href="https://www.flickr.com/photos/anap/3177177124/" target="_blank" rel="noopener noreferrer">Ana Patrícia Almeida</a> via <a href="http://foter.com/re/5fbcb1" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener noreferrer">CC BY</a>
 </p>
 
 <p align="justify">
@@ -38,11 +35,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14193" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/Cinturinha-de-pilão.png" alt="Cinturinha de pilão" width="652" height="57" />
+  <img class="alignnone size-full wp-image-14193" src="https://www.trololodemulher.com.br/2017/09/Cinturinha-de-pilão.png" alt="Cinturinha de pilão" width="652" height="57" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14179" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/BIQUINI-AFINAR-CINTURA.jpg" alt="BIQUINI-AFINAR CINTURA" width="800" height="559" />
+  <img class="alignnone size-full wp-image-14179" src="https://www.trololodemulher.com.br/2017/09/BIQUINI-AFINAR-CINTURA.jpg" alt="BIQUINI-AFINAR CINTURA" width="800" height="559" />
 </p>
 
 <p align="justify">
@@ -50,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14178" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/barriga-diminuir.png" alt="barriga diminuir" width="659" height="49" />
+  <img class="alignnone size-full wp-image-14178" src="https://www.trololodemulher.com.br/2017/09/barriga-diminuir.png" alt="barriga diminuir" width="659" height="49" />
 </p>
 
 <p align="justify">
@@ -58,11 +55,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14180" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/BIQUINI-AFINAR-CINTURA-DIMINUIR-BARRIGA.jpg" alt="BIQUINI-AFINAR CINTURA-DIMINUIR BARRIGA" width="750" height="750" />
+  <img class="alignnone size-full wp-image-14180" src="https://www.trololodemulher.com.br/2017/09/BIQUINI-AFINAR-CINTURA-DIMINUIR-BARRIGA.jpg" alt="BIQUINI-AFINAR CINTURA-DIMINUIR BARRIGA" width="750" height="750" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14181" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/BIQUINI-AFINAR-CINTURA-DIMINUIR-BARRIGA2.jpg" alt="BIQUINI-AFINAR CINTURA-DIMINUIR BARRIGA[2]" width="620" height="372" />
+  <img class="alignnone size-full wp-image-14181" src="https://www.trololodemulher.com.br/2017/09/BIQUINI-AFINAR-CINTURA-DIMINUIR-BARRIGA2.jpg" alt="BIQUINI-AFINAR CINTURA-DIMINUIR BARRIGA[2]" width="620" height="372" />
 </p>
 
 <p align="justify">
@@ -70,7 +67,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14177" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/afinar-tudo.png" alt="afinar tudo" width="425" height="61" />
+  <img class="alignnone size-full wp-image-14177" src="https://www.trololodemulher.com.br/2017/09/afinar-tudo.png" alt="afinar tudo" width="425" height="61" />
 </p>
 
 <p align="justify">
@@ -78,7 +75,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14186" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/BIQUINI-DIMINUIR-BUSTO.jpg" alt="BIQUINI-DIMINUIR BUSTO" width="716" height="541" />
+  <img class="alignnone size-full wp-image-14186" src="https://www.trololodemulher.com.br/2017/09/BIQUINI-DIMINUIR-BUSTO.jpg" alt="BIQUINI-DIMINUIR BUSTO" width="716" height="541" />
 </p>
 
 <p align="justify">
@@ -90,11 +87,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14187" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/BIQUINI-DIMINUIR-QUADRIL.jpg" alt="BIQUINI-DIMINUIR QUADRIL" width="564" height="800" />
+  <img class="alignnone size-full wp-image-14187" src="https://www.trololodemulher.com.br/2017/09/BIQUINI-DIMINUIR-QUADRIL.jpg" alt="BIQUINI-DIMINUIR QUADRIL" width="564" height="800" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14188" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/BIQUINI-DIMINUIR-QUADRIL2.jpg" alt="BIQUINI-DIMINUIR QUADRIL[2]" width="800" height="600" />
+  <img class="alignnone size-full wp-image-14188" src="https://www.trololodemulher.com.br/2017/09/BIQUINI-DIMINUIR-QUADRIL2.jpg" alt="BIQUINI-DIMINUIR QUADRIL[2]" width="800" height="600" />
 </p>
 
 <p align="justify">
@@ -102,7 +99,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14192" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/bumbum-aumentar.png" alt="bumbum aumentar" width="622" height="50" />
+  <img class="alignnone size-full wp-image-14192" src="https://www.trololodemulher.com.br/2017/09/bumbum-aumentar.png" alt="bumbum aumentar" width="622" height="50" />
 </p>
 
 <p align="justify">
@@ -110,11 +107,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14182" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/BIQUINI-AUMENTAR-BUMBUM.jpg" alt="BIQUINI-AUMENTAR BUMBUM" width="630" height="420" />
+  <img class="alignnone size-full wp-image-14182" src="https://www.trololodemulher.com.br/2017/09/BIQUINI-AUMENTAR-BUMBUM.jpg" alt="BIQUINI-AUMENTAR BUMBUM" width="630" height="420" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14183" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/BIQUINI-AUMENTAR-BUMBUM2.jpg" alt="BIQUINI-AUMENTAR BUMBUM[2]" width="800" height="558" />
+  <img class="alignnone size-full wp-image-14183" src="https://www.trololodemulher.com.br/2017/09/BIQUINI-AUMENTAR-BUMBUM2.jpg" alt="BIQUINI-AUMENTAR BUMBUM[2]" width="800" height="558" />
 </p>
 
 <p align="justify">
@@ -122,7 +119,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14194" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/seios-aumentar.png" alt="seios aumentar" width="415" height="53" />
+  <img class="alignnone size-full wp-image-14194" src="https://www.trololodemulher.com.br/2017/09/seios-aumentar.png" alt="seios aumentar" width="415" height="53" />
 </p>
 
 <p align="justify">
@@ -130,11 +127,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14184" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/BIQUINI-AUMENTAR-SEIOS.jpg" alt="BIQUINI-AUMENTAR SEIOS" width="460" height="640" />
+  <img class="alignnone size-full wp-image-14184" src="https://www.trololodemulher.com.br/2017/09/BIQUINI-AUMENTAR-SEIOS.jpg" alt="BIQUINI-AUMENTAR SEIOS" width="460" height="640" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14185" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/BIQUINI-AUMENTAR-SEIOS2.jpg" alt="BIQUINI-AUMENTAR SEIOS[2]" width="578" height="596" />
+  <img class="alignnone size-full wp-image-14185" src="https://www.trololodemulher.com.br/2017/09/BIQUINI-AUMENTAR-SEIOS2.jpg" alt="BIQUINI-AUMENTAR SEIOS[2]" width="578" height="596" />
 </p>
 
 <p align="justify">
@@ -146,7 +143,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12207" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/SARAH-TAPIAS-CONSULTORA-IMAGEM-ESTILO-FLORIANOPOLIS-SANTA-CATARINA.jpg" alt="SARAH TAPIAS-CONSULTORA IMAGEM ESTILO-FLORIANOPOLIS-SANTA CATARINA" width="800" height="179" />
+  <img class="alignnone size-full wp-image-12207" src="https://www.trololodemulher.com.br/2016/03/SARAH-TAPIAS-CONSULTORA-IMAGEM-ESTILO-FLORIANOPOLIS-SANTA-CATARINA.jpg" alt="SARAH TAPIAS-CONSULTORA IMAGEM ESTILO-FLORIANOPOLIS-SANTA CATARINA" width="800" height="179" />
 </p>
 
 <p align="justify">
@@ -154,15 +151,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/03/28/calca-flare/" target="_blank"><strong>Calça flare: aprenda como combinar o modelo da vez!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/03/28/calca-flare/" target="_blank" rel="noopener noreferrer"><strong>Calça flare: aprenda como combinar o modelo da vez!</strong></a>
 </p>
 
 <p align="justify">
-  Sarah é super presente nas redes sociais, e  se eu fosse você não perderia tempo algum e já trataria de acompanhá-la. A proposta da Sarah, com o seu trabalho, é auxiliar mulheres a conhecer sua própria imagem de maneira correta e equilibrada, transmitindo à sociedade sua maneira de pensar, sua personalidade, seus objetivos, através do modo de se vestir, com mais confiança e segurança. Seu conteúdo é publicado no <a href="https://www.facebook.com/Sarah-Tapias-Consultoria-de-Imagem-1377996229185974/" target="_blank">Facebook</a> e em seu perfil do <a href="https://www.instagram.com/sarah_tapias/?hl=pt-br" target="_blank">Instagram</a>. Acompanhe e aproveite!
+  Sarah é super presente nas redes sociais, e  se eu fosse você não perderia tempo algum e já trataria de acompanhá-la. A proposta da Sarah, com o seu trabalho, é auxiliar mulheres a conhecer sua própria imagem de maneira correta e equilibrada, transmitindo à sociedade sua maneira de pensar, sua personalidade, seus objetivos, através do modo de se vestir, com mais confiança e segurança. Seu conteúdo é publicado no <a href="https://www.facebook.com/Sarah-Tapias-Consultoria-de-Imagem-1377996229185974/" target="_blank" rel="noopener noreferrer">Facebook</a> e em seu perfil do <a href="https://www.instagram.com/sarah_tapias/?hl=pt-br" target="_blank" rel="noopener noreferrer">Instagram</a>. Acompanhe e aproveite!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="justify">

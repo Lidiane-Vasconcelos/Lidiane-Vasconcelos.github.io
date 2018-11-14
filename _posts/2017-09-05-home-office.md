@@ -1,10 +1,7 @@
 ---
-id: 3793
 title: Para um home office cheio de bossa, inspire-se na Lia!
-date: 2017-09-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/09/05/home-office/
 permalink: /2017/09/05/home-office/
 categories:
   - Escritório
@@ -38,11 +35,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/08/15/decoracao-faca-voce-mesma-5/" target="_blank"><strong>Decoração “faça você mesma” bem barata? É com a Keilla Colombo!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/15/decoracao-faca-voce-mesma-5/" target="_blank" rel="noopener noreferrer"><strong>Decoração “faça você mesma” bem barata? É com a Keilla Colombo!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2013/05/08/moveis-quarto/" target="_blank"><strong>Móveis da casa: falta mesa de cabeceira no quarto? Improvisa!</strong></a>
+  <a href="http://www.bichafemea.com/2013/05/08/moveis-quarto/" target="_blank" rel="noopener noreferrer"><strong>Móveis da casa: falta mesa de cabeceira no quarto? Improvisa!</strong></a>
 </p>
 
 <p align="center">
@@ -58,7 +55,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2009/10/27/organizacao-escritorio/" target="_blank"><strong>Organização do escritório ou home office: dicas.</strong></a>
+  <a href="http://www.bichafemea.com/2009/10/27/organizacao-escritorio/" target="_blank" rel="noopener noreferrer"><strong>Organização do escritório ou home office: dicas.</strong></a>
 </p>
 
 <p align="center">
@@ -98,13 +95,13 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/08/17/washi-tapes/" target="_blank"><strong>Washi tapes: 3 ideias de decoração “faça você mesma”.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/08/17/washi-tapes/" target="_blank" rel="noopener noreferrer"><strong>Washi tapes: 3 ideias de decoração “faça você mesma”.</strong></a>
 </p>
 
 <p align="justify">
-  Difícil não viver de amores pelos detalhes do home office dessa blogueira, não é? Bem que eu falei! Se você quer espiar muito mais de seu espaços, <a href="http://liagriffith.com/my-home-tour-the-updated-office-space-how-we-use-our-intel-tablet/" target="_blank">há muitas outras fotos bem aqui</a>. Inspire-se!
+  Difícil não viver de amores pelos detalhes do home office dessa blogueira, não é? Bem que eu falei! Se você quer espiar muito mais de seu espaços, <a href="http://liagriffith.com/my-home-tour-the-updated-office-space-how-we-use-our-intel-tablet/" target="_blank" rel="noopener noreferrer">há muitas outras fotos bem aqui</a>. Inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>

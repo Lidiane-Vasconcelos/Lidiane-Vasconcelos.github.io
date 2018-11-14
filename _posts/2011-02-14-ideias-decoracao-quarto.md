@@ -1,10 +1,7 @@
 ---
-id: 2943
 title: Ideias econômicas para a decoração do quarto. Inspire-se!
-date: 2011-02-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/02/14/ideias-decoracao-quarto/
 permalink: /2011/02/14/ideias-decoracao-quarto/
 categories:
   - Quarto
@@ -24,7 +21,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/decoracao-do-quarto.jpg"><img class="alignnone size-full wp-image-5802" title="decoração do quarto" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/decoracao-do-quarto.jpg" alt="" width="400" height="420" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/decoracao-do-quarto.jpg"><img class="alignnone size-full wp-image-5802" title="decoração do quarto" src="https://www.trololodemulher.com.br/2011/01/decoracao-do-quarto.jpg" alt="" width="400" height="420" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -32,7 +29,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/decoracao-do-quarto-espelho.jpg"><img class="alignnone size-full wp-image-5807" title="decoração do quarto - espelho" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/decoracao-do-quarto-espelho.jpg" alt="" width="400" height="420" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/decoracao-do-quarto-espelho.jpg"><img class="alignnone size-full wp-image-5807" title="decoração do quarto - espelho" src="https://www.trololodemulher.com.br/2011/01/decoracao-do-quarto-espelho.jpg" alt="" width="400" height="420" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -40,11 +37,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  A cor que você vai usar na muldura pode ser determinada pela que você usa na parede. Que tal? Se você tem dúvidas sobre qual cor escolher para o seu quarto, confira as <strong><em><a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/" target="_blank">dicas sobre cores na parede</a></em></strong> já publicadas anteriormente e defina a sua. Em seguida, escolha alguns tons acima para a moldura do seu espelho, e <em>voilá</em>!
+  A cor que você vai usar na muldura pode ser determinada pela que você usa na parede. Que tal? Se você tem dúvidas sobre qual cor escolher para o seu quarto, confira as <strong><em><a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/" target="_blank" rel="noopener noreferrer">dicas sobre cores na parede</a></em></strong> já publicadas anteriormente e defina a sua. Em seguida, escolha alguns tons acima para a moldura do seu espelho, e <em>voilá</em>!
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/decoracao-do-quarto-comoda.jpg"><img class="size-full wp-image-5805   aligncenter" title="decoração do quarto - cômoda" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/decoracao-do-quarto-comoda.jpg" alt="" width="400" height="420" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/decoracao-do-quarto-comoda.jpg"><img class="size-full wp-image-5805   aligncenter" title="decoração do quarto - cômoda" src="https://www.trololodemulher.com.br/2011/01/decoracao-do-quarto-comoda.jpg" alt="" width="400" height="420" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -52,7 +49,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  O <strong><em><a href="http://www.trololodemulher.com.br/2010/10/15/papel-de-parede/" target="_blank">uso da sobra de papel de parede na decoração</a></em></strong> já foi tratado anteriormente no Trololó de Mulher.. Confira o conteúdo do post que trata desse assunto, e não deixe de espiar o desenrolar dos comentários que surgiram, a exemplo do que disse a <strong>Yvone</strong>, do blog <a href="http://www.casaspossiveis.blogspot.com/" target="_blank">Casas Possíveis</a>:
+  O <strong><em><a href="http://www.trololodemulher.com.br/2010/10/15/papel-de-parede/" target="_blank" rel="noopener noreferrer">uso da sobra de papel de parede na decoração</a></em></strong> já foi tratado anteriormente no Trololó de Mulher.. Confira o conteúdo do post que trata desse assunto, e não deixe de espiar o desenrolar dos comentários que surgiram, a exemplo do que disse a <strong>Yvone</strong>, do blog <a href="http://www.casaspossiveis.blogspot.com/" target="_blank" rel="noopener noreferrer">Casas Possíveis</a>:
 </p>
 
 <blockquote style="text-align: justify;">
@@ -66,11 +63,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Se não for com sobras de papel de parede, a reforma do seu móvel usado pode ser feita através de uma belíssima pintura cheia de estilo. A artista <strong>Veronica Kraemer</strong>, que já teve seu trabalho apresentado no <strong><em><a href="http://www.trololodemulher.com.br/2010/10/13/alem-da-rua-atelier/" target="_blank">Trololó de Mulher</a></em></strong>, é um exemplo de profissional que pode te ajudar quanto a isso. Fica a dica!
+  Se não for com sobras de papel de parede, a reforma do seu móvel usado pode ser feita através de uma belíssima pintura cheia de estilo. A artista <strong>Veronica Kraemer</strong>, que já teve seu trabalho apresentado no <strong><em><a href="http://www.trololodemulher.com.br/2010/10/13/alem-da-rua-atelier/" target="_blank" rel="noopener noreferrer">Trololó de Mulher</a></em></strong>, é um exemplo de profissional que pode te ajudar quanto a isso. Fica a dica!
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/decoracao-do-quarto-comoda-com-tampo-de-vidro.jpg"><img class="alignnone size-full wp-image-5806" title="decoração do quarto - cômoda com tampo de vidro" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/decoracao-do-quarto-comoda-com-tampo-de-vidro.jpg" alt="" width="400" height="420" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/decoracao-do-quarto-comoda-com-tampo-de-vidro.jpg"><img class="alignnone size-full wp-image-5806" title="decoração do quarto - cômoda com tampo de vidro" src="https://www.trololodemulher.com.br/2011/01/decoracao-do-quarto-comoda-com-tampo-de-vidro.jpg" alt="" width="400" height="420" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -82,7 +79,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/decoracao-do-quarto-mesa-de-cabeceira.jpg"><img class="alignnone size-full wp-image-5808" title="decoração do quarto - cortinas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/decoracao-do-quarto-mesa-de-cabeceira.jpg" alt="" width="400" height="420" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/decoracao-do-quarto-mesa-de-cabeceira.jpg"><img class="alignnone size-full wp-image-5808" title="decoração do quarto - cortinas" src="https://www.trololodemulher.com.br/2011/01/decoracao-do-quarto-mesa-de-cabeceira.jpg" alt="" width="400" height="420" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -94,17 +91,17 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/decoracao-do-quarto-mesa-de-cabeceira1.jpg"><img class="alignnone size-full wp-image-5809" title="decoração do quarto - mesa de cabeceira" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/decoracao-do-quarto-mesa-de-cabeceira1.jpg" alt="" width="400" height="420" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/decoracao-do-quarto-mesa-de-cabeceira1.jpg"><img class="alignnone size-full wp-image-5809" title="decoração do quarto - mesa de cabeceira" src="https://www.trololodemulher.com.br/2011/01/decoracao-do-quarto-mesa-de-cabeceira1.jpg" alt="" width="400" height="420" /></a>
 </p>
 
 <p style="text-align: justify;">
   E para seu quarto ficar completo, as mesinhas de cabeceira dão um toque final, certo? Novamente, elas podem sair baratinhas com a aplicação da seguinte ideia: compre bancos retráteis de madeira, desses bem baratinhos, e transforme-os! Depois de ganharem uma nova cor, você pode mandar fazer tampos de vidro para eles também. Se você tiver restos de papel de parede ou até algum tecido que você goste muito, pode cortar nas dimensões do assento do banco e colocar sob o vidro, formando um tampo diferente para ele. Inspire-se!
 </p>
 
-Imagens: <a href="http://www.myhomeideas.com/" target="_blank">myhomeideas</a>
+Imagens: <a href="http://www.myhomeideas.com/" target="_blank" rel="noopener noreferrer">myhomeideas</a>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

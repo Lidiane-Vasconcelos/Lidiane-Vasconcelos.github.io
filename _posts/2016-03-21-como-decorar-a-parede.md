@@ -1,10 +1,7 @@
 ---
-id: 3569
 title: Como decorar a parede sem uma galeria de quadros?
-date: 2016-03-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/03/21/como-decorar-a-parede/
 permalink: /2016/03/21/como-decorar-a-parede/
 categories:
   - Dicas de Decoração
@@ -14,15 +11,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12158" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-PAREDE-FOTOGRAFIA2.png" alt="DECORACAO-PAREDE-FOTOGRAFIA[2]" width="623" height="88" />
+  <img class="alignnone size-full wp-image-12158" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-PAREDE-FOTOGRAFIA2.png" alt="DECORACAO-PAREDE-FOTOGRAFIA[2]" width="623" height="88" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12157" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-PAREDE-FOTOGRAFIA.jpg" alt="DECORACAO-PAREDE-FOTOGRAFIA" width="541" height="800" />
+  <img class="alignnone size-full wp-image-12157" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-PAREDE-FOTOGRAFIA.jpg" alt="DECORACAO-PAREDE-FOTOGRAFIA" width="541" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.dreamgreendiy.com/blog/" target="_blank">Dream Green DIY</a>
+  Imagem: <a href="http://www.dreamgreendiy.com/blog/" target="_blank" rel="noopener noreferrer">Dream Green DIY</a>
 </p>
 
 <p align="justify">
@@ -34,23 +31,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-fotos/" target="_blank"><strong>Puro charme: decoração da parede com fotos.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-fotos/" target="_blank" rel="noopener noreferrer"><strong>Puro charme: decoração da parede com fotos.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/" target="_blank"><strong>Decoração da parede com fotos: faça a sua!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/" target="_blank" rel="noopener noreferrer"><strong>Decoração da parede com fotos: faça a sua!</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12154" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-PAREDE-ESPELHO2.png" alt="DECORACAO-PAREDE-ESPELHO[2]" width="536" height="82" />
+  <img class="alignnone size-full wp-image-12154" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-PAREDE-ESPELHO2.png" alt="DECORACAO-PAREDE-ESPELHO[2]" width="536" height="82" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12153" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-PAREDE-ESPELHO.jpg" alt="DECORACAO-PAREDE-ESPELHO" width="517" height="800" />
+  <img class="alignnone size-full wp-image-12153" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-PAREDE-ESPELHO.jpg" alt="DECORACAO-PAREDE-ESPELHO" width="517" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://knightmovesblog.blogspot.com.br/" target="_blank">Knight Moves</a>
+  Imagem: <a href="http://knightmovesblog.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Knight Moves</a>
 </p>
 
 <p align="justify">
@@ -58,23 +55,23 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12160" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-PAREDE-PRATOS2.png" alt="DECORACAO-PAREDE-PRATOS[2]" width="604" height="89" />
+  <img class="alignnone size-full wp-image-12160" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-PAREDE-PRATOS2.png" alt="DECORACAO-PAREDE-PRATOS[2]" width="604" height="89" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12159" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-PAREDE-PRATOS.jpg" alt="DECORACAO-PAREDE-PRATOS" width="550" height="384" />
+  <img class="alignnone size-full wp-image-12159" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-PAREDE-PRATOS.jpg" alt="DECORACAO-PAREDE-PRATOS" width="550" height="384" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.thenester.com/" target="_blank">Nesting Place</a>
+  Imagem: <a href="http://www.thenester.com/" target="_blank" rel="noopener noreferrer">Nesting Place</a>
 </p>
 
 <p align="justify">
-  Se você tem pratos de formatos diferentes ou cores ou estampas, enfim, um conjunto de peças que, juntas, podem surtir um efeito bem legal, pendure-os! Nessa imagem, para sua inspiração, eles estão na sala de estar. Pessoalmente, gosto da ideia para ser aplicada na sala de jantar ou na cozinha. Você ficou superultramega a fim de fazer algo parecido? Você pode comprar os suportes, eu fazê-los. No blog <a href="http://juportogusman.blogspot.com.br/2012/06/suporte-para-pratos-na-parede-com-pap.html" target="_blank">Atelier Criatividade EVA tem um PAP e você acessa clicando aqui</a>. Há outro passo-a-passo sobre como fazer suportes para pendurar quadros na parede, mas de um jeito diferente, no <a href="http://casadejuntados.blogspot.com.br/2009/10/pap-suporte-de-parede-para-pratos.html" target="_blank">blog Casa de Juntados, e você confere clicando aqui</a>. Fica a dica.
+  Se você tem pratos de formatos diferentes ou cores ou estampas, enfim, um conjunto de peças que, juntas, podem surtir um efeito bem legal, pendure-os! Nessa imagem, para sua inspiração, eles estão na sala de estar. Pessoalmente, gosto da ideia para ser aplicada na sala de jantar ou na cozinha. Você ficou superultramega a fim de fazer algo parecido? Você pode comprar os suportes, eu fazê-los. No blog <a href="http://juportogusman.blogspot.com.br/2012/06/suporte-para-pratos-na-parede-com-pap.html" target="_blank" rel="noopener noreferrer">Atelier Criatividade EVA tem um PAP e você acessa clicando aqui</a>. Há outro passo-a-passo sobre como fazer suportes para pendurar quadros na parede, mas de um jeito diferente, no <a href="http://casadejuntados.blogspot.com.br/2009/10/pap-suporte-de-parede-para-pratos.html" target="_blank" rel="noopener noreferrer">blog Casa de Juntados, e você confere clicando aqui</a>. Fica a dica.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

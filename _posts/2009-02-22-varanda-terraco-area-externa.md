@@ -1,19 +1,16 @@
 ---
-id: 2626
 title: Varanda, terraço, área externa…é tudo de bom!
-date: 2009-02-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/02/22/varanda-terraco-area-externa/
 permalink: /2009/02/22/varanda-terraco-area-externa/
 categories:
   - 'Varanda &amp; Jardim'
 ---
 Feliz daquele que tem uma área externa, por menor que seja, para ter onde respirar fundo, olhar o céu, abrir os braços e sentir-se vivo. Não que seja impossível fazer isso dentro de casa olhando pela janela, mas não dá para discutir que uma área assim nos domínios domésticos tem o seu valor, não? Já pensou em fazer refeições numa varanda? Inspire-se com**_ <a href="http://www.trololodemulher.com.br/2009/04/06/refeicao-ao-ar-livre/" target="_self">ideias para encontros ao ar livre</a>_**!
 
-E quando a varanda ganha _status_ de extensão da casa no sentido de receber cuidados especiais, é certo que os momentos passados ali vão ser muito mais gostosos. Não é bom estar num espaço bem cuidado? Então…[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image001415.gif)
+E quando a varanda ganha _status_ de extensão da casa no sentido de receber cuidados especiais, é certo que os momentos passados ali vão ser muito mais gostosos. Não é bom estar num espaço bem cuidado? Então…[](https://www.trololodemulher.com.br/2009/02/clip-image001415.gif)
 
-Abaixo há imagens de espaços como esses para a gente buscar elementos inspiradores e vermos o que é possível de aplicar também em nossos ninhos. Quem sabe uma cor? Um detalhe de um móvel? A disposição de algum objeto? Enfim, os ambientes são lindos e ricos de detalhes para a gente explorar nossa imaginação. _Bora_ ver?[<img style="display: inline;" title="clip_image001[6]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image0016-thumb14.gif" alt="clip_image001[6]" width="23" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image001614.gif)
+Abaixo há imagens de espaços como esses para a gente buscar elementos inspiradores e vermos o que é possível de aplicar também em nossos ninhos. Quem sabe uma cor? Um detalhe de um móvel? A disposição de algum objeto? Enfim, os ambientes são lindos e ricos de detalhes para a gente explorar nossa imaginação. _Bora_ ver?[<img style="display: inline;" title="clip_image001[6]" src="https://www.trololodemulher.com.br/2009/02/clip-image0016-thumb14.gif" alt="clip_image001[6]" width="23" height="18" />](https://www.trololodemulher.com.br/2009/02/clip-image001614.gif)
 
 <p style="text-align: center;">
    <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="www.countryliving.com" src="http://www.countryliving.com/cm/countryliving/images/CLX0606HOM099-de.jpg" alt="www.countryliving.com" />
@@ -47,7 +44,7 @@ Varanda, terraço ou área externa sem rede tem razão de existir?
 
 Se o balanço não for na rede, pode ser num móvel projetado para isso. Por que não? Almofadas para colorir o ambiente, um móvel de apoio para uma bebida ou petisco, e um belo cesto de palha para deixar as revistas ali, displicentemente…
 
-Imagens: <a href="http://www.countryliving.com/" target="_blank">Country Living</a>
+Imagens: <a href="http://www.countryliving.com/" target="_blank" rel="noopener noreferrer">Country Living</a>
 
 <span style="color: #800080;">Diz aí, você tem uma área externa nos seus domínios? O que você costuma fazer por lá?</span>
 

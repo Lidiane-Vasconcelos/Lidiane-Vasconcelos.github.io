@@ -1,10 +1,7 @@
 ---
-id: 2774
 title: 'A idade certa de ter filhos&#8230;'
-date: 2010-01-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/01/27/convidada-luciana-casado/
 permalink: /2010/01/27/convidada-luciana-casado/
 categories:
   - Comportamento
@@ -39,7 +36,7 @@ Agora, imagina colocar um lindo e inocente bebê no mundo e ficar pensando na qu
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/reflexao-feminina.jpg"><img class="aligncenter size-medium wp-image-4201" title="reflexão feminina" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/reflexao-feminina-226x300.jpg" alt="" width="226" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/reflexao-feminina.jpg"><img class="aligncenter size-medium wp-image-4201" title="reflexão feminina" src="https://www.trololodemulher.com.br/2010/01/reflexao-feminina-226x300.jpg" alt="" width="226" height="300" /></a>
     </td>
   </tr>
 </table>
@@ -50,7 +47,7 @@ Eu sei que a cobrança faz parte da vida mas eu não me sinto confortável com e
 
 Ainda não tenho certeza se quero, mas quando quiser, que seja uma vontade vinda de dentro de mim, compartilhada com o _maridex_, um bebê muito desejado e no momento certo!&#8221;
 
-Imagem: <a href="http://www.sxc.hu/" target="_blank">stck.xchng</a>
+Imagem: <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stck.xchng</a>
 
 **Mais no Bicha Fêmea sobre dilemas femininos…**
 

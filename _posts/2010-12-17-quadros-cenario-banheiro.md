@@ -1,10 +1,7 @@
 ---
-id: 2928
 title: 'Mercado de Artes: Quadros Cenário Banheiro Arabesco e Listrado.'
-date: 2010-12-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/12/17/quadros-cenario-banheiro/
 permalink: /2010/12/17/quadros-cenario-banheiro/
 categories:
   - Sem categoria
@@ -18,31 +15,31 @@ Que o **_Quadro Cenário Banheiro_** virou o queridinho do **_Mercado de Artes_*
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Quadro-Cenario-Banheiro-Marrom-Listrado.jpg"><img class="alignnone size-full wp-image-5654" title="Quadro Cenário Banheiro Marrom Listrado" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Quadro-Cenario-Banheiro-Marrom-Listrado.jpg" alt="" width="648" height="432" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/Quadro-Cenario-Banheiro-Marrom-Listrado.jpg"><img class="alignnone size-full wp-image-5654" title="Quadro Cenário Banheiro Marrom Listrado" src="https://www.trololodemulher.com.br/2010/12/Quadro-Cenario-Banheiro-Marrom-Listrado.jpg" alt="" width="648" height="432" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/12/16/quadro-cenario-banheiro-3/" target="_blank">Quadro Cenário Banheiro Marrom Listrado</a></em></strong>
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/12/16/quadro-cenario-banheiro-3/" target="_blank" rel="noopener noreferrer">Quadro Cenário Banheiro Marrom Listrado</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Quadro-Cenario-Banheiro-Marrom-Arabesco.jpg"><img class="alignnone size-full wp-image-5655" title="Quadro Cenário Banheiro Marrom Arabesco" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Quadro-Cenario-Banheiro-Marrom-Arabesco.jpg" alt="" width="648" height="432" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/Quadro-Cenario-Banheiro-Marrom-Arabesco.jpg"><img class="alignnone size-full wp-image-5655" title="Quadro Cenário Banheiro Marrom Arabesco" src="https://www.trololodemulher.com.br/2010/12/Quadro-Cenario-Banheiro-Marrom-Arabesco.jpg" alt="" width="648" height="432" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/12/16/quadro-cenario-banheiro-2/" target="_blank">Quadro Cenário Banheiro Marrom Arabesco</a></em></strong>
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/12/16/quadro-cenario-banheiro-2/" target="_blank" rel="noopener noreferrer">Quadro Cenário Banheiro Marrom Arabesco</a></em></strong>
 </p>
 
 <p style="text-align: justify;">
-  Os <strong><em>Quadros Cenário Banheiro Marrom </em><a href="http://www.trololodemulher.com.br/loja/2010/12/16/quadro-cenario-banheiro-2/" target="_blank"><em>Arabesco</em></a></strong> e <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/12/16/quadro-cenario-banheiro-3/" target="_blank">Listrado</a></em></strong> foram produtos encomendados. São exclusivos! Mas quem vê a lista de quadros cenário que já foi encomendada antes, acaba querendo um igualzinho. Foi o que aconteceu com a bicha fêmea navegante que viu um desses sendo azul, como o que está abaixo:
+  Os <strong><em>Quadros Cenário Banheiro Marrom </em><a href="http://www.trololodemulher.com.br/loja/2010/12/16/quadro-cenario-banheiro-2/" target="_blank" rel="noopener noreferrer"><em>Arabesco</em></a></strong> e <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/12/16/quadro-cenario-banheiro-3/" target="_blank" rel="noopener noreferrer">Listrado</a></em></strong> foram produtos encomendados. São exclusivos! Mas quem vê a lista de quadros cenário que já foi encomendada antes, acaba querendo um igualzinho. Foi o que aconteceu com a bicha fêmea navegante que viu um desses sendo azul, como o que está abaixo:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Quadro-Cenario-Banheiro.jpg"><img class="alignnone size-full wp-image-5658" title="Quadro Cenário Banheiro" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Quadro-Cenario-Banheiro.jpg" alt="" width="518" height="346" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/Quadro-Cenario-Banheiro.jpg"><img class="alignnone size-full wp-image-5658" title="Quadro Cenário Banheiro" src="https://www.trololodemulher.com.br/2010/12/Quadro-Cenario-Banheiro.jpg" alt="" width="518" height="346" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-banheiro/" target="_blank">Quadro Cenário Banheiro Azul</a></em></strong>
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-banheiro/" target="_blank" rel="noopener noreferrer">Quadro Cenário Banheiro Azul</a></em></strong>
 </p>
 
 <p style="text-align: justify;">

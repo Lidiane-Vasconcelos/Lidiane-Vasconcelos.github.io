@@ -1,10 +1,7 @@
 ---
-id: 3109
 title: 'Viagem: qual o seu refúgio para fugir do agito da cidade?'
-date: 2012-01-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/01/27/viagem-destinos-brasil/
 permalink: /2012/01/27/viagem-destinos-brasil/
 categories:
   - Bem-estar
@@ -20,7 +17,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/PAO-DE-ACUCAR-VISTA-LIN-SOUSA-RIO-DE-JANEIRO.jpg"><img class="alignnone size-full wp-image-8491" title="PAO DE ACUCAR - VISTA - LIN SOUSA - RIO DE JANEIRO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/PAO-DE-ACUCAR-VISTA-LIN-SOUSA-RIO-DE-JANEIRO.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/PAO-DE-ACUCAR-VISTA-LIN-SOUSA-RIO-DE-JANEIRO.jpg"><img class="alignnone size-full wp-image-8491" title="PAO DE ACUCAR - VISTA - LIN SOUSA - RIO DE JANEIRO" src="https://www.trololodemulher.com.br/2012/01/PAO-DE-ACUCAR-VISTA-LIN-SOUSA-RIO-DE-JANEIRO.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -32,7 +29,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/ITAPETINGA-CANDIDA-NOLASCO-BAHIA-.jpg"><img class="alignnone size-full wp-image-8488" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/ITAPETINGA-CANDIDA-NOLASCO-BAHIA-.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/ITAPETINGA-CANDIDA-NOLASCO-BAHIA-.jpg"><img class="alignnone size-full wp-image-8488" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2012/01/ITAPETINGA-CANDIDA-NOLASCO-BAHIA-.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 &nbsp;
@@ -44,7 +41,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/ILHA-DO-MEL-GEISA-PARANA.jpg"><img class="alignnone size-full wp-image-8487" title="ILHA DO MEL - GEISA - PARANA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/ILHA-DO-MEL-GEISA-PARANA.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/ILHA-DO-MEL-GEISA-PARANA.jpg"><img class="alignnone size-full wp-image-8487" title="ILHA DO MEL - GEISA - PARANA" src="https://www.trololodemulher.com.br/2012/01/ILHA-DO-MEL-GEISA-PARANA.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -56,11 +53,11 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  Sinceramente, vendo as fotos não te deu vontade de largar tudo e planejar as suas férias em uma <strong><a href="http://www.expedia.com.br/hoteis" target="_blank">pousada</a></strong> ou um hotel-fazenda com sua família longe de toda a agitação da cidade grande? Todos nós precisamos de um lugar para descansar e ficar em em paz de vez em quando. Certas experiências funcionam como um bálsamo para o nosso corpo e mente, tudo em prol do bem viver… há como não se inspirar?
+  Sinceramente, vendo as fotos não te deu vontade de largar tudo e planejar as suas férias em uma <strong><a href="http://www.expedia.com.br/hoteis" target="_blank" rel="noopener noreferrer">pousada</a></strong> ou um hotel-fazenda com sua família longe de toda a agitação da cidade grande? Todos nós precisamos de um lugar para descansar e ficar em em paz de vez em quando. Certas experiências funcionam como um bálsamo para o nosso corpo e mente, tudo em prol do bem viver… há como não se inspirar?
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

@@ -1,10 +1,7 @@
 ---
-id: 2946
 title: 'Prateleira do Bicha Fêmea: Katia Bonfadini'
-date: 2011-02-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/02/09/katia-bonfadini/
 permalink: /2011/02/09/katia-bonfadini/
 categories:
   - Sem categoria
@@ -22,7 +19,7 @@ Você que já viu outras **Prateleiras do Bicha Fêmea** está acostumada com co
 </p>
 
 <p style="text-align: justify;">
-  Ou seja, você que está lendo esse post agora pode se dar ao luxo de ter sua empresa, seu casamento, sua comemoração ou seu blog com um visual ‘<em>pra</em> lá de especial, se as mãos e mente inventivas de <strong>Katia Bonfadini</strong>, a moça bonita que também edita o <a href="http://casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a>, tocarem o seu projeto.
+  Ou seja, você que está lendo esse post agora pode se dar ao luxo de ter sua empresa, seu casamento, sua comemoração ou seu blog com um visual ‘<em>pra</em> lá de especial, se as mãos e mente inventivas de <strong>Katia Bonfadini</strong>, a moça bonita que também edita o <a href="http://casosecoisasdabonfa.blogspot.com/" target="_blank" rel="noopener noreferrer">Casos e Coisas da Bonfa</a>, tocarem o seu projeto.
 </p>
 
 <p style="text-align: justify;">
@@ -30,15 +27,15 @@ Você que já viu outras **Prateleiras do Bicha Fêmea** está acostumada com co
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/blog-feito-a-mao.png"><img class="alignnone size-full wp-image-5854" title="blog feito a mão" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/blog-feito-a-mao.png" alt="" width="549" height="386" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2011/01/blog-feito-a-mao.png"><img class="alignnone size-full wp-image-5854" title="blog feito a mão" src="https://www.trololodemulher.com.br/2011/01/blog-feito-a-mao.png" alt="" width="549" height="386" /></a></em>
 </p>
 
 <p style="text-align: center;">
-  <em>Ilustração exclusiva para o blog </em><a href="http://claudinha-feitoamo.blogspot.com/" target="_blank"><em>Feito a Mão</em></a><em>.</em>
+  <em>Ilustração exclusiva para o blog </em><a href="http://claudinha-feitoamo.blogspot.com/" target="_blank" rel="noopener noreferrer"><em>Feito a Mão</em></a><em>.</em>
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/identidade-visual-para-marcas.jpg"><img class="alignnone size-full wp-image-5855" title="identidade visual para marcas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/identidade-visual-para-marcas.jpg" alt="" width="420" height="338" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2011/01/identidade-visual-para-marcas.jpg"><img class="alignnone size-full wp-image-5855" title="identidade visual para marcas" src="https://www.trololodemulher.com.br/2011/01/identidade-visual-para-marcas.jpg" alt="" width="420" height="338" /></a></em>
 </p>
 
 <p style="text-align: center;">
@@ -46,7 +43,7 @@ Você que já viu outras **Prateleiras do Bicha Fêmea** está acostumada com co
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ilustracao-casamento-convite-2.png"><img class="alignnone size-full wp-image-5856" title="ilustração casamento convite (2)" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ilustracao-casamento-convite-2.png" alt="" width="360" height="587" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2011/01/ilustracao-casamento-convite-2.png"><img class="alignnone size-full wp-image-5856" title="ilustração casamento convite (2)" src="https://www.trololodemulher.com.br/2011/01/ilustracao-casamento-convite-2.png" alt="" width="360" height="587" /></a></em>
 </p>
 
 <p style="text-align: center;">
@@ -54,7 +51,7 @@ Você que já viu outras **Prateleiras do Bicha Fêmea** está acostumada com co
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ilustracao-para-varias-aplicacoes.png"><img class="alignnone size-full wp-image-5857" title="ilustração para várias aplicações" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ilustracao-para-varias-aplicacoes.png" alt="" width="500" height="517" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2011/01/ilustracao-para-varias-aplicacoes.png"><img class="alignnone size-full wp-image-5857" title="ilustração para várias aplicações" src="https://www.trololodemulher.com.br/2011/01/ilustracao-para-varias-aplicacoes.png" alt="" width="500" height="517" /></a></em>
 </p>
 
 <p style="text-align: center;">
@@ -89,36 +86,36 @@ Você que já viu outras **Prateleiras do Bicha Fêmea** está acostumada com co
   <tr>
     <td width="59" valign="top">
       <div>
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/e-mail.jpg"><img class="size-full wp-image-5845 alignleft" title="e-mail" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/e-mail.jpg" alt="" width="40" height="40" /></a>
+        <a href="https://www.trololodemulher.com.br/2011/01/e-mail.jpg"><img class="size-full wp-image-5845 alignleft" title="e-mail" src="https://www.trololodemulher.com.br/2011/01/e-mail.jpg" alt="" width="40" height="40" /></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/e-mail.jpg"></a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/e-mail.jpg"></a>
+        <a href="https://www.trololodemulher.com.br/2011/01/e-mail.jpg"></a><a href="https://www.trololodemulher.com.br/2011/01/e-mail.jpg"></a>
       </div>
     </td>
     
     <td style="text-align: justify;" width="541" valign="top">
-      Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">Assine. É grátis!</a></em></strong>
+      Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer">Assine. É grátis!</a></em></strong>
     </td>
   </tr>
   
   <tr>
     <td width="59" valign="top">
-      <img class="size-full wp-image-5850 alignleft" title="twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/twitter1.jpg" alt="" width="40" height="39" />
+      <img class="size-full wp-image-5850 alignleft" title="twitter" src="https://www.trololodemulher.com.br/2011/01/twitter1.jpg" alt="" width="40" height="39" />
     </td>
     
     <td style="text-align: right;" width="541" valign="top">
-      Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a></em></strong>
+      Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea" target="_blank" rel="noopener noreferrer">@bichafemea</a></em></strong>
     </td>
   </tr>
   
   <tr>
     <td width="59" valign="top">
-      <img class="size-full wp-image-5849 alignleft" title="orkut" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/orkut.jpg" alt="" width="40" height="39" />
+      <img class="size-full wp-image-5849 alignleft" title="orkut" src="https://www.trololodemulher.com.br/2011/01/orkut.jpg" alt="" width="40" height="39" />
     </td>
     
     <td style="text-align: right;" width="541" valign="top">
-      Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900" target="_blank">Adicione!</a></em></strong>
+      Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900" target="_blank" rel="noopener noreferrer">Adicione!</a></em></strong>
     </td>
   </tr>
 </table>

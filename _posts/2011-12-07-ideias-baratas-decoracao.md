@@ -1,10 +1,7 @@
 ---
-id: 3089
 title: Ideias baratas para decorar a casa by leitoras do blog.
-date: 2011-12-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/12/07/ideias-baratas-decoracao/
 permalink: /2011/12/07/ideias-baratas-decoracao/
 categories:
   - Decoração
@@ -15,7 +12,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  As bonitas são a<strong> Vanessa</strong> e a <strong>Vânia Pinho</strong>, que edita o blog <strong><a href="http://casadebonecadecor.blogspot.com/" target="_blank">Casa de Boneca</a></strong>. Ambas deram uma renovada nos móveis da casa, cada uma delas imprimindo o seu estilo e talento para deixar seus ambientes com sua cara e dizerem com orgulho: eu que fiz! Confere…
+  As bonitas são a<strong> Vanessa</strong> e a <strong>Vânia Pinho</strong>, que edita o blog <strong><a href="http://casadebonecadecor.blogspot.com/" target="_blank" rel="noopener noreferrer">Casa de Boneca</a></strong>. Ambas deram uma renovada nos móveis da casa, cada uma delas imprimindo o seu estilo e talento para deixar seus ambientes com sua cara e dizerem com orgulho: eu que fiz! Confere…
 </p>
 
 <!--more-->
@@ -33,7 +30,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/forro-cadeira-antes-e-depois.jpg"><img class="alignnone size-full wp-image-8279" title="Samsung NV3, Samsung VLUU NV3" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/forro-cadeira-antes-e-depois.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/forro-cadeira-antes-e-depois.jpg"><img class="alignnone size-full wp-image-8279" title="Samsung NV3, Samsung VLUU NV3" src="https://www.trololodemulher.com.br/2011/12/forro-cadeira-antes-e-depois.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -47,11 +44,11 @@ categories:
 > </p>
 > 
 > <p align="center">
->   <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/DECORACAO-FACA-VOCE-MESMA.jpg"><img class="alignnone size-full wp-image-8537" title="DECORACAO FACA VOCE MESMA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/DECORACAO-FACA-VOCE-MESMA.jpg" alt="" width="600" height="450" /></a></em>
+>   <em><a href="https://www.trololodemulher.com.br/2012/01/DECORACAO-FACA-VOCE-MESMA.jpg"><img class="alignnone size-full wp-image-8537" title="DECORACAO FACA VOCE MESMA" src="https://www.trololodemulher.com.br/2012/01/DECORACAO-FACA-VOCE-MESMA.jpg" alt="" width="600" height="450" /></a></em>
 > </p>
 > 
 > <p align="justify">
->   <em><strong>&#8220;Já fiz em uma cadeira, adorei, comprei um tecido baratinho de 3,99 a vendedora da loja de tecido é minha amiga e disse que fez nas cadeiras dela com o mesmo tecido… ficou legal, estou pensando se coloco plástico, mas acho que no calor aqui do Rio de Janeiro vamos ficar colando nas cadeiras &#8230; rsrsrs…</strong>&#8221; <strong>Rogeria Thompson | <a href="http://umespaoprachamardemeu.blogspot.com/" target="_blank">Um espaço pra chamar de meu</a></strong></em>
+>   <em><strong>&#8220;Já fiz em uma cadeira, adorei, comprei um tecido baratinho de 3,99 a vendedora da loja de tecido é minha amiga e disse que fez nas cadeiras dela com o mesmo tecido… ficou legal, estou pensando se coloco plástico, mas acho que no calor aqui do Rio de Janeiro vamos ficar colando nas cadeiras &#8230; rsrsrs…</strong>&#8221; <strong>Rogeria Thompson | <a href="http://umespaoprachamardemeu.blogspot.com/" target="_blank" rel="noopener noreferrer">Um espaço pra chamar de meu</a></strong></em>
 > </p>
 > 
 > <p align="justify">
@@ -61,13 +58,13 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/rack-rústico-de-madeira.jpg"><img class="alignnone size-full wp-image-8280" title="Samsung NV3, Samsung VLUU NV3" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/rack-rústico-de-madeira.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/rack-rústico-de-madeira.jpg"><img class="alignnone size-full wp-image-8280" title="Samsung NV3, Samsung VLUU NV3" src="https://www.trololodemulher.com.br/2011/12/rack-rústico-de-madeira.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   <strong>…<em>Envio também a foto de um painel para tv + rack que meu marido e eu fizemos. Compramos tábuas macho e fêmea, montamos o painel que foi pintado com tinta chamada <a href="http://www.ppgbrasil.com.br/architectural/br/produtos/list/por-nome/marca/43-majestic.html" target="_blank">Majestic, da renner</a>. Tem de vários tons. Parafusamos o painel na parede, assim como o rack. De início colocaríamos pés, mas não achamos nada que combinasse. Ainda falta esconder os fios da tomada, mas vai a dica. Também foi barato, se comparado aos painéis prontos. Se não me engano, cada tábua custou R$ 6,00 e a tinta próximo de R$ 50,00”</em></strong>
+>   <strong>…<em>Envio também a foto de um painel para tv + rack que meu marido e eu fizemos. Compramos tábuas macho e fêmea, montamos o painel que foi pintado com tinta chamada <a href="http://www.ppgbrasil.com.br/architectural/br/produtos/list/por-nome/marca/43-majestic.html" target="_blank" rel="noopener noreferrer">Majestic, da renner</a>. Tem de vários tons. Parafusamos o painel na parede, assim como o rack. De início colocaríamos pés, mas não achamos nada que combinasse. Ainda falta esconder os fios da tomada, mas vai a dica. Também foi barato, se comparado aos painéis prontos. Se não me engano, cada tábua custou R$ 6,00 e a tinta próximo de R$ 50,00”</em></strong>
 > </p>
 
 &nbsp;
@@ -109,7 +106,7 @@ Como se não bastasse, Vanessa tem mais ideias…
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/adega-rústica.jpg"><img class="alignnone size-full wp-image-8278" title="Samsung NV3, Samsung VLUU NV3" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/adega-rústica.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/adega-rústica.jpg"><img class="alignnone size-full wp-image-8278" title="Samsung NV3, Samsung VLUU NV3" src="https://www.trololodemulher.com.br/2011/12/adega-rústica.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 &nbsp;
@@ -153,25 +150,25 @@ E a moça, para nossa alegria, respondeu:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/antes-e-depois-decoração-bancos.jpg"><img class="alignnone size-full wp-image-8281" title="SAMSUNG DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/antes-e-depois-decoração-bancos.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/antes-e-depois-decoração-bancos.jpg"><img class="alignnone size-full wp-image-8281" title="SAMSUNG DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2011/12/antes-e-depois-decoração-bancos.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<strong><em>Esses banquinhos eu já tenho há bastante tempo e eu estava entediada de olhar para eles… hehehehe…então resolvi dar uma repaginada neles e me inspirei na querida </em><a href="http://alemdaruaatelier.com.br/" target="_blank"><em>Vero</em></a><em>, que faz maravilhas!!!!…</em></strong>
+>   “<strong><em>Esses banquinhos eu já tenho há bastante tempo e eu estava entediada de olhar para eles… hehehehe…então resolvi dar uma repaginada neles e me inspirei na querida </em><a href="http://alemdaruaatelier.com.br/" target="_blank" rel="noopener noreferrer"><em>Vero</em></a><em>, que faz maravilhas!!!!…</em></strong>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/antes-e-depois-decoração-bancos2.jpg"><img class="alignnone size-full wp-image-8282" title="SAMSUNG DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/antes-e-depois-decoração-bancos2.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/antes-e-depois-decoração-bancos2.jpg"><img class="alignnone size-full wp-image-8282" title="SAMSUNG DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2011/12/antes-e-depois-decoração-bancos2.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   <strong>…<em>Ah&#8230;não posso me esquecer de dizer que a cor AMARELA fiz em homenagem a querida </em><a href="http://www.organizandoarrumando.com/"><em>Cibele</em></a><em>, que tem uma relação de amor com essa cor!!! Espero que gostem!!!”</em> Vânia Pinho</strong> | <strong><a href="http://casadebonecadecor.blogspot.com/" target="_blank">Casa de Boneca</a></strong>
+>   <strong>…<em>Ah&#8230;não posso me esquecer de dizer que a cor AMARELA fiz em homenagem a querida </em><a href="http://www.organizandoarrumando.com/"><em>Cibele</em></a><em>, que tem uma relação de amor com essa cor!!! Espero que gostem!!!”</em> Vânia Pinho</strong> | <strong><a href="http://casadebonecadecor.blogspot.com/" target="_blank" rel="noopener noreferrer">Casa de Boneca</a></strong>
 > </p>
 
 &nbsp;
@@ -181,5 +178,5 @@ Há como não aprovar totalmente as ideias dessas leitoras arteiras, criativas 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

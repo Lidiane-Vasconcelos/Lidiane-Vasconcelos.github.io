@@ -1,10 +1,7 @@
 ---
-id: 3259
 title: 'Decoração da parede com fotos: faça a sua!'
-date: 2013-09-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/09/11/decoracao-parede-fotos/
 permalink: /2013/09/11/decoracao-parede-fotos/
 categories:
   - Dicas de Decoração
@@ -23,7 +20,7 @@ categories:
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/DECORACAO-SALA-FOTOS.jpg"><img class="alignnone size-full wp-image-9764" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/DECORACAO-SALA-FOTOS.jpg" alt="DECORACAO-SALA-FOTOS" width="400" height="600" /></a>
+    <a href="https://www.trololodemulher.com.br/2013/09/DECORACAO-SALA-FOTOS.jpg"><img class="alignnone size-full wp-image-9764" src="https://www.trololodemulher.com.br/2013/09/DECORACAO-SALA-FOTOS.jpg" alt="DECORACAO-SALA-FOTOS" width="400" height="600" /></a>
   </p>
   
   <p>
@@ -51,7 +48,7 @@ categories:
   </p>
   
   <p>
-    Imagem: <strong><em><a href="http://www.homedit.com/" target="_blank">Homedit</a></em></strong>
+    Imagem: <strong><em><a href="http://www.homedit.com/" target="_blank" rel="noopener noreferrer">Homedit</a></em></strong>
   </p>
   
   <p>
@@ -63,5 +60,5 @@ categories:
   </p>
   
   <p align="center">
-    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
   </p>

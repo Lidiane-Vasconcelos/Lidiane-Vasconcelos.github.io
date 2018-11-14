@@ -1,10 +1,7 @@
 ---
-id: 2910
 title: Arrume sua mesa para receber ou encantar os olhos!
-date: 2010-11-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/11/24/ponha-a-mesa-decoracao/
 permalink: /2010/11/24/ponha-a-mesa-decoracao/
 categories:
   - Rotina da Casa
@@ -19,7 +16,7 @@ A **decoração de uma mesa** para uma ocasião especial pode ser diferente, sim
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/arranjo-para-mesa-com-velas.jpg"><img class="alignnone size-full wp-image-5457" title="arranjo para mesa com velas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/arranjo-para-mesa-com-velas.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/arranjo-para-mesa-com-velas.jpg"><img class="alignnone size-full wp-image-5457" title="arranjo para mesa com velas" src="https://www.trololodemulher.com.br/2010/11/arranjo-para-mesa-com-velas.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -27,7 +24,7 @@ A **decoração de uma mesa** para uma ocasião especial pode ser diferente, sim
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/descanso-para-copo.jpg"><img class="alignnone size-full wp-image-5458" title="descanso para copo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/descanso-para-copo.jpg" alt="" width="300" height="333" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/descanso-para-copo.jpg"><img class="alignnone size-full wp-image-5458" title="descanso para copo" src="https://www.trololodemulher.com.br/2010/11/descanso-para-copo.jpg" alt="" width="300" height="333" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -35,7 +32,7 @@ A **decoração de uma mesa** para uma ocasião especial pode ser diferente, sim
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/flores-enfeitando-a-mesa.jpg"><img class="alignnone size-full wp-image-5459" title="flores enfeitando a mesa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/flores-enfeitando-a-mesa.jpg" alt="" width="300" height="301" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/flores-enfeitando-a-mesa.jpg"><img class="alignnone size-full wp-image-5459" title="flores enfeitando a mesa" src="https://www.trololodemulher.com.br/2010/11/flores-enfeitando-a-mesa.jpg" alt="" width="300" height="301" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -43,7 +40,7 @@ A **decoração de uma mesa** para uma ocasião especial pode ser diferente, sim
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/jogo-americano.jpg"><img class="alignnone size-full wp-image-5462" title="jogo americano" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/jogo-americano.jpg" alt="" width="300" height="270" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/jogo-americano.jpg"><img class="alignnone size-full wp-image-5462" title="jogo americano" src="https://www.trololodemulher.com.br/2010/11/jogo-americano.jpg" alt="" width="300" height="270" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -51,7 +48,7 @@ A **decoração de uma mesa** para uma ocasião especial pode ser diferente, sim
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/jogo-americano-redondo.jpg"><img class="alignnone size-full wp-image-5464" title="jogo americano redondo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/jogo-americano-redondo.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/jogo-americano-redondo.jpg"><img class="alignnone size-full wp-image-5464" title="jogo americano redondo" src="https://www.trololodemulher.com.br/2010/11/jogo-americano-redondo.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 Quem disse que o apoio para pratos precisa ser, necessariamente, o retangular? O que é menos óbvio encanta, sim. A imagem serve como inspiração e arranca meus suspiros&#8230; é que um jogo assim, redondo, também não tenho (ainda)&#8230;
@@ -64,7 +61,7 @@ Quem disse que o apoio para pratos precisa ser, necessariamente, o retangular? O
   <tr>
     <td width="300" valign="top">
       <p style="text-align: center;">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Porta-Guardanapo-Arabesco200.jpg"><img class="alignnone size-full wp-image-5465" title="Porta Guardanapo Arabesco200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Porta-Guardanapo-Arabesco200.jpg" alt="" width="200" height="201" /></a>
+        <a href="https://www.trololodemulher.com.br/2010/11/Porta-Guardanapo-Arabesco200.jpg"><img class="alignnone size-full wp-image-5465" title="Porta Guardanapo Arabesco200" src="https://www.trololodemulher.com.br/2010/11/Porta-Guardanapo-Arabesco200.jpg" alt="" width="200" height="201" /></a>
       </p>
     </td>
     
@@ -78,7 +75,7 @@ Quem disse que o apoio para pratos precisa ser, necessariamente, o retangular? O
       </p>
       
       <p style="text-align: justify;">
-        <em>O porta guardanapo está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/porta-guardanapo-arabesco/" target="_blank"><strong><em>Basta clicar</em></strong></a><em>!</em>
+        <em>O porta guardanapo está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/porta-guardanapo-arabesco/" target="_blank" rel="noopener noreferrer"><strong><em>Basta clicar</em></strong></a><em>!</em>
       </p>
     </td>
   </tr>
@@ -94,13 +91,13 @@ Quem disse que o apoio para pratos precisa ser, necessariamente, o retangular? O
       </p>
       
       <p style="text-align: justify;">
-        <em>O porta chá está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/porta-cha-poa/" target="_blank"><strong><em>Basta clicar</em></strong></a><em>!</em>
+        <em>O porta chá está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/porta-cha-poa/" target="_blank" rel="noopener noreferrer"><strong><em>Basta clicar</em></strong></a><em>!</em>
       </p>
     </td>
     
     <td width="300" valign="top">
       <p style="text-align: center;">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Porta-Cha-Poa200.jpg"><img class="alignnone size-full wp-image-5466" title="Porta Chá Poá200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Porta-Cha-Poa200.jpg" alt="" width="200" height="200" /></a>
+        <a href="https://www.trololodemulher.com.br/2010/11/Porta-Cha-Poa200.jpg"><img class="alignnone size-full wp-image-5466" title="Porta Chá Poá200" src="https://www.trololodemulher.com.br/2010/11/Porta-Cha-Poa200.jpg" alt="" width="200" height="200" /></a>
       </p>
     </td>
   </tr>
@@ -115,14 +112,14 @@ Quem disse que o apoio para pratos precisa ser, necessariamente, o retangular? O
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/jogo-americano-infantil.jpg"><img class="alignnone size-full wp-image-5463" title="jogo americano infantil" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/jogo-americano-infantil.jpg" alt="" width="300" height="270" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/jogo-americano-infantil.jpg"><img class="alignnone size-full wp-image-5463" title="jogo americano infantil" src="https://www.trololodemulher.com.br/2010/11/jogo-americano-infantil.jpg" alt="" width="300" height="270" /></a>
 </p>
 
 <p style="text-align: justify;">
   Será que existe forma mais didática de ensinar a criançada a forma básica de disposição dos objetos para a refeição quanto jogos americanos assim? Seja confeccionado com papel colorido ou EVA, com o lugar para cada item (prato, copo e talheres) recortados e colados onde devem ficar, as mães criativas têm na imagem uma sugestão para tornar a refeição das crianças ainda mais divertida, e elas nem se darão conta de que estão aprendendo algo novo&#8230;
 </p>
 
-_Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Gardens</em></a>
+_Imagens:_ <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer"><em>Better Homes and Gardens</em></a>
 
 **Mais no Bicha Fêmea…**
 

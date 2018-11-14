@@ -1,10 +1,7 @@
 ---
-id: 2821
 title: 'Uma Bicha Fêmea por Outra: Mara Porto'
-date: 2010-05-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/05/26/mara-porto/
 permalink: /2010/05/26/mara-porto/
 categories:
   - Comportamento
@@ -16,14 +13,14 @@ Influências? _Hum_… sim, de suas avós materna e paterna. Vê-las _crochetand
 
 <!--more-->
 
-Artista teimosa e perfeccionista, Mara não descansa enquanto não materializa o que vai pela sua imaginação. De alma inventiva e inquieta, essa artista, que já participou de grandes eventos como a Mega Artesanal de São Paulo, sente-se genuinamente artesã criando. Apenas isso. E delicia-se com coisas simples, como criar mimos para sua própria casa. Sim, quem acompanha seu blog, o “<a href="http://maraporto.blogspot.com/" target="_blank">Mara Porto</a>”, sabe que o ditado popular “casa de ferreiro, espeto de pau” não aplica-se aos seus domínios. Assim é Mara Porto, uma mulher de 45 anos, certa de suas opiniões e amante do que faz, porque faz com gosto e com a alma:
+Artista teimosa e perfeccionista, Mara não descansa enquanto não materializa o que vai pela sua imaginação. De alma inventiva e inquieta, essa artista, que já participou de grandes eventos como a Mega Artesanal de São Paulo, sente-se genuinamente artesã criando. Apenas isso. E delicia-se com coisas simples, como criar mimos para sua própria casa. Sim, quem acompanha seu blog, o “<a href="http://maraporto.blogspot.com/" target="_blank" rel="noopener noreferrer">Mara Porto</a>”, sabe que o ditado popular “casa de ferreiro, espeto de pau” não aplica-se aos seus domínios. Assim é Mara Porto, uma mulher de 45 anos, certa de suas opiniões e amante do que faz, porque faz com gosto e com a alma:
 
 > _“Muita coisa eu aprendi sozinha, na minha época não tinha tantos recursos como tem hoje. A primeira vez que vi um bordado em ponto cruz foi em uma revista Pais e Filhos, quando eu estava grávida de minha segunda filha. Eu peguei linhas e um tecido, e bordei pela revista sem saber a técnica, depois fui atrás de material. Quer dizer, mesmo sem recursos existe a possibilidade de você aprender a fazer alguma coisa, basta ter força de vontade. Ás vezes as pessoas querem tudo de mão beijada e isso eu não concordo, se eu posso gastar meu tempo pesquisando para aprender, acho que todo mundo pode. Minhas peças não são perfeitas, mas procuro fazer sempre melhor, acho que o que torna minhas peças bonitas é a simplicidade.”_
 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/Mara-Porto.jpg"><img class="alignnone size-medium wp-image-4672" title="Mara Porto" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/Mara-Porto-300x254.jpg" alt="" width="300" height="254" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/05/Mara-Porto.jpg"><img class="alignnone size-medium wp-image-4672" title="Mara Porto" src="https://www.trololodemulher.com.br/2010/05/Mara-Porto-300x254.jpg" alt="" width="300" height="254" /></a>
     </td>
     
     <td>
@@ -75,7 +72,7 @@ _“Acho que tive sorte porque meus filhos não me dão muitos problemas, são b
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/Mara-Porto-Feira-Artesanato.jpg"><img class="alignnone size-medium wp-image-4675" title="Mara Porto - Feira Artesanato" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/Mara-Porto-Feira-Artesanato-300x200.jpg" alt="" width="300" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/05/Mara-Porto-Feira-Artesanato.jpg"><img class="alignnone size-medium wp-image-4675" title="Mara Porto - Feira Artesanato" src="https://www.trololodemulher.com.br/2010/05/Mara-Porto-Feira-Artesanato-300x200.jpg" alt="" width="300" height="200" /></a>
     </td>
     
     <td>

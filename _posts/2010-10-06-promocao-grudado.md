@@ -1,10 +1,7 @@
 ---
-id: 2888
 title: Promoção “Renove seu ambiente!” Grudado – adesivos decorativos + Bicha Fêmea
-date: 2010-10-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/10/06/promocao-grudado/
 permalink: /2010/10/06/promocao-grudado/
 categories:
   - Publieditorial
@@ -12,7 +9,7 @@ categories:
 Você que frequenta o Bicha Fêmea desconfiava que logo logo apareceria uma excelente oportunidade por aqui? Então você acertou, bonita! E essa é das boas porque quem agradece é sua casa, e você vai ficar toda feliz. Eu aposto!
 
 <p style="text-align: justify;">
-  Já ouviu falar da <strong><em><a href="http://www.grudado.com.br/" target="_blank">Grudado – adesivos decorativos</a></em></strong>? Deixa eu te contar: a <strong><em>Grudado</em></strong> traz um novo conceito em decoração ligado a praticidade e facilidade de aplicação dos adesivos de parede.
+  Já ouviu falar da <strong><em><a href="http://www.grudado.com.br/" target="_blank" rel="noopener noreferrer">Grudado – adesivos decorativos</a></em></strong>? Deixa eu te contar: a <strong><em>Grudado</em></strong> traz um novo conceito em decoração ligado a praticidade e facilidade de aplicação dos adesivos de parede.
 </p>
 
 <!--more-->
@@ -42,7 +39,7 @@ Você que frequenta o Bicha Fêmea desconfiava que logo logo apareceria uma exce
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/bambu_ambiente1.jpg"><img class="size-full wp-image-5283 aligncenter" title="bambu_ambiente[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/bambu_ambiente1.jpg" alt="" width="350" height="350" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/bambu_ambiente1.jpg"><img class="size-full wp-image-5283 aligncenter" title="bambu_ambiente[1]" src="https://www.trololodemulher.com.br/2010/10/bambu_ambiente1.jpg" alt="" width="350" height="350" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -54,7 +51,7 @@ Você que frequenta o Bicha Fêmea desconfiava que logo logo apareceria uma exce
 </p>
 
 <p style="text-align: justify;">
-  Vai perder a chance, bonita? Tudo que você tem a fazer é visitar o site da <strong><em><a href="http://www.grudado.com.br/" target="_blank">Grudado &#8211; adesivos decorativos</a></em></strong>, conhecer as linhas já disponíveis e a partir daí, pensar na sua sugestão. Sua criatividade, nesta hora, vai contar muito a seu favor. Capricha!!!
+  Vai perder a chance, bonita? Tudo que você tem a fazer é visitar o site da <strong><em><a href="http://www.grudado.com.br/" target="_blank" rel="noopener noreferrer">Grudado &#8211; adesivos decorativos</a></em></strong>, conhecer as linhas já disponíveis e a partir daí, pensar na sua sugestão. Sua criatividade, nesta hora, vai contar muito a seu favor. Capricha!!!
 </p>
 
 <p style="text-align: center;">

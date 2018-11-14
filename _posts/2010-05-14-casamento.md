@@ -1,10 +1,7 @@
 ---
-id: 2816
 title: 'Quando a gente resolve se casar&#8230;'
-date: 2010-05-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/05/14/casamento/
 permalink: /2010/05/14/casamento/
 categories:
   - Comportamento
@@ -39,7 +36,7 @@ Um dia você conhece aquele rapaz&#8230; Tanta coisa pode acontecer:
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/namorados-2.jpg"><img class="aligncenter size-medium wp-image-4632" title="namorados 2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/namorados-2-300x200.jpg" alt="" width="300" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/05/namorados-2.jpg"><img class="aligncenter size-medium wp-image-4632" title="namorados 2" src="https://www.trololodemulher.com.br/2010/05/namorados-2-300x200.jpg" alt="" width="300" height="200" /></a>
     </td>
     
     <td>
@@ -57,7 +54,7 @@ Comecei a pensar no amor de uma forma diferente, minha, única e exclusivamente 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/namorados.jpg"><img class="aligncenter size-medium wp-image-4631" title="namorados" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/namorados-300x200.jpg" alt="" width="300" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/05/namorados.jpg"><img class="aligncenter size-medium wp-image-4631" title="namorados" src="https://www.trololodemulher.com.br/2010/05/namorados-300x200.jpg" alt="" width="300" height="200" /></a>
     </td>
     
     <td>
@@ -78,7 +75,7 @@ _Imagens:_ [_www.loveandlavender.com_](http://www.loveandlavender.com)
 
 **_Letícia Lodi (Lelê)_**
 
-Blog <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>
+Blog <a href="http://blog.casadecatarina.com.br/" target="_blank" rel="noopener noreferrer">Casa de Catarina</a>
 
 _ _
 
@@ -86,7 +83,7 @@ _Ei! Quer ver seu post publicado no Bicha Fêmea? **[Clica aqui](http://www.trol
 
 _**Mais no Bicha Fêmea sobre amor e relacionamento…**_
 
-_&#8230;ai, ai… [<img class="alignnone size-full wp-image-3334" title="EmoticonShy_thumb.gif" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/emoticonshy_thumb1.gif" alt="" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/emoticonshy_thumb1.gif)_
+_&#8230;ai, ai… [<img class="alignnone size-full wp-image-3334" title="EmoticonShy_thumb.gif" src="https://www.trololodemulher.com.br/2009/11/emoticonshy_thumb1.gif" alt="" width="18" height="18" />](https://www.trololodemulher.com.br/2009/11/emoticonshy_thumb1.gif)_
 
 _**[Do que a boa conversa pode fazer por um casal…](http://www.trololodemulher.com.br/2009/08/27/do-que-a-boa-conversa-pode-fazer-por-um-casal/)**_
 

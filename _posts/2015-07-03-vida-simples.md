@@ -1,10 +1,7 @@
 ---
-id: 3441
 title: 'Vida simples: menos é mais e a gente vive melhor…'
-date: 2015-07-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/07/03/vida-simples/
 permalink: /2015/07/03/vida-simples/
 categories:
   - Bem-estar
@@ -21,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank"><strong>Redes sociais e produtividade no dia a dia: qual o impacto?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank" rel="noopener noreferrer"><strong>Redes sociais e produtividade no dia a dia: qual o impacto?</strong></a>
 </p>
 
 <p align="justify">
@@ -37,11 +34,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/COMPORTAMENTO-VIDA-SIMPLES.jpg"><img class="alignnone size-full wp-image-11076" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/COMPORTAMENTO-VIDA-SIMPLES.jpg" alt="COMPORTAMENTO-VIDA SIMPLES" width="800" height="533" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/COMPORTAMENTO-VIDA-SIMPLES.jpg"><img class="alignnone size-full wp-image-11076" src="https://www.trololodemulher.com.br/2015/06/COMPORTAMENTO-VIDA-SIMPLES.jpg" alt="COMPORTAMENTO-VIDA SIMPLES" width="800" height="533" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/lng0004/6978693751/" target="_blank">Linh H. Nguyen</a><b> / </b><a href="http://foter.com/" target="_blank">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Imagem: <a href="https://www.flickr.com/photos/lng0004/6978693751/" target="_blank" rel="noopener noreferrer">Linh H. Nguyen</a><b> / </b><a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND</a>
 </p>
 
 <p align="justify">
@@ -61,7 +58,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

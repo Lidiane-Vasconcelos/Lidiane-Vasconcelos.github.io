@@ -1,10 +1,7 @@
 ---
-id: 2974
 title: Siga 10 passos e o canto da bagunça deixará de existir!
-date: 2011-04-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/04/01/bagunca-organizacao/
 permalink: /2011/04/01/bagunca-organizacao/
 categories:
   - Organização
@@ -18,7 +15,7 @@ categories:
 <!--more-->
 
 <p style="text-align: justify;">
-  Antes de mais nada, é preciso que se diga que esse post foi inspirado pela leitura que fiz do artigo <em><a href="http://www.ivillage.com/say-goodbye-garage-clutter-just-10-steps-ivillage/7-a-219144?nlcid=hh|07-27-2010|" target="_blank">Get Rid of Garage Clutter | go from chaos to contained in just 10 steps</a></em>, publicado no site <em><a href="http://www.ivillage.com/home-garden" target="_blank">iVillage Home & Garden</a></em>. Sim! Eu sempre leio artigos que eu julgue que irão facilitar o meu dia a dia na manutenção da ordem mínima por aqui, porque acredito que sempre posso aprender mais com isso, e sentir que a casa está mais harmonizada. Eu não gosto de viver na bagunça, e se você é das minhas, certamente vai querer aplicar essas dicas bem fáceis de serem colocadas em prática.
+  Antes de mais nada, é preciso que se diga que esse post foi inspirado pela leitura que fiz do artigo <em><a href="http://www.ivillage.com/say-goodbye-garage-clutter-just-10-steps-ivillage/7-a-219144?nlcid=hh|07-27-2010|" target="_blank" rel="noopener noreferrer">Get Rid of Garage Clutter | go from chaos to contained in just 10 steps</a></em>, publicado no site <em><a href="http://www.ivillage.com/home-garden" target="_blank" rel="noopener noreferrer">iVillage Home & Garden</a></em>. Sim! Eu sempre leio artigos que eu julgue que irão facilitar o meu dia a dia na manutenção da ordem mínima por aqui, porque acredito que sempre posso aprender mais com isso, e sentir que a casa está mais harmonizada. Eu não gosto de viver na bagunça, e se você é das minhas, certamente vai querer aplicar essas dicas bem fáceis de serem colocadas em prática.
 </p>
 
 <p style="text-align: center;">
@@ -34,7 +31,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/reciclagem.jpg"><img class="alignnone size-full wp-image-6192" title="reciclagem" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/reciclagem.jpg" alt="" width="600" height="600" /></a></span>
+  <span style="font-size: medium;"><a href="https://www.trololodemulher.com.br/2011/03/reciclagem.jpg"><img class="alignnone size-full wp-image-6192" title="reciclagem" src="https://www.trololodemulher.com.br/2011/03/reciclagem.jpg" alt="" width="600" height="600" /></a></span>
 </p>
 
 Nenhuma! Concorda? Então, se elas não têm conserto, por que você ainda guarda? Tenha a coragem de se desfazer disso tudo. **Desapegue e destine esses brinquedos, equipamentos ou o que quer que seja que estejam quebrados para a reciclagem**.
@@ -56,7 +53,7 @@ Nenhuma! Concorda? Então, se elas não têm conserto, por que você ainda guard
 </p>
 
 <p style="text-align: justify;">
-  *<strong>Quer vender o que tem? Promova um bazar num encontro real, ou você pode promover algo no espaço virtual</strong>. A blogueira <strong>Dani Garlet</strong>, que tem um <strong><a href="http://www.danigarlet.com/" target="_blank">blog que leva seu nome</a></strong>, sempre promove a venda de roupas no <strong>brechó via Orkut</strong> que ela criou. Isso serve de exemplo para você, que pode se inspirar e promover a venda de suas coisas que estejam em bom uso. Faça como a Dani e use a criatividade!
+  *<strong>Quer vender o que tem? Promova um bazar num encontro real, ou você pode promover algo no espaço virtual</strong>. A blogueira <strong>Dani Garlet</strong>, que tem um <strong><a href="http://www.danigarlet.com/" target="_blank" rel="noopener noreferrer">blog que leva seu nome</a></strong>, sempre promove a venda de roupas no <strong>brechó via Orkut</strong> que ela criou. Isso serve de exemplo para você, que pode se inspirar e promover a venda de suas coisas que estejam em bom uso. Faça como a Dani e use a criatividade!
 </p>
 
 <p style="text-align: center;">
@@ -84,7 +81,7 @@ Nenhuma! Concorda? Então, se elas não têm conserto, por que você ainda guard
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/organizacao1.jpg"><img class="size-full wp-image-6193 aligncenter" title="organização" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/organizacao1.jpg" alt="" width="447" height="442" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/organizacao1.jpg"><img class="size-full wp-image-6193 aligncenter" title="organização" src="https://www.trololodemulher.com.br/2011/03/organizacao1.jpg" alt="" width="447" height="442" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -124,14 +121,14 @@ Nenhuma! Concorda? Então, se elas não têm conserto, por que você ainda guard
 </p>
 
 <p style="text-align: center;">
-  <span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/organizacao2.jpg"><img class="alignnone size-full wp-image-6191" title="organização[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/organizacao2.jpg" alt="" width="600" height="400" /></a></span>
+  <span style="font-size: medium;"><a href="https://www.trololodemulher.com.br/2011/03/organizacao2.jpg"><img class="alignnone size-full wp-image-6191" title="organização[2]" src="https://www.trololodemulher.com.br/2011/03/organizacao2.jpg" alt="" width="600" height="400" /></a></span>
 </p>
 
 <p style="text-align: justify;">
   Agora que está tudo em ordem, <strong>aprenda a</strong> <strong>tirar as coisas do lugar, usá-las e devolvê-las para o lugar certo</strong>. Se você voltar a jogar tudo por lá de qualquer jeito, como fazia antes, todo esse trabalho terá sido em vão. Daqui <em>‘pra</em> frente, a escolha é sua…
 </p>
 
-Imagens: _<a href="http://www.sxc.hu/" target="_blank"><strong>stock.xchng</strong></a>_
+Imagens: _<a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><strong>stock.xchng</strong></a>_
 
 **Mais no Bicha Fêmea…**
 

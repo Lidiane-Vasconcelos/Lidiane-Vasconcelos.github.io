@@ -1,26 +1,23 @@
 ---
-id: 3079
 title: 'Sorteio Bicha Fêmea &#038; Casa da Claudia entre amigas!'
-date: 2011-11-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/11/16/sorteio-casa-da-claudia/
 permalink: /2011/11/16/sorteio-casa-da-claudia/
 categories:
   - Publieditorial
 ---
-A **comemoração dos 3 anos do Bicha Fêmea neste mês de Novembro** está ficando cada vez melhor. Desta vez é sua casa que poderá ser mimada. Aliás, sua casa e a da sua melhor amiga! Tudo isso via **<a href="http://www.casadaclaudia.com.br/index.php/" target="_blank">Casa da Claudia</a>**. Repare quantas _fofurices_…repare mesmo!
+A **comemoração dos 3 anos do Bicha Fêmea neste mês de Novembro** está ficando cada vez melhor. Desta vez é sua casa que poderá ser mimada. Aliás, sua casa e a da sua melhor amiga! Tudo isso via **<a href="http://www.casadaclaudia.com.br/index.php/" target="_blank" rel="noopener noreferrer">Casa da Claudia</a>**. Repare quantas _fofurices_…repare mesmo!
 
 &nbsp;
 
 <p align="justify">
-  Antes de te deixar viver de amores pelo que você vai ver, permita-me apresentar a moça por trás dessa loja virtual: <strong>Claudia Medeiros</strong>, do blog <strong><a href="http://sefossenaminhacasa.blogspot.com/" target="_blank">Se fosse na minha casa</a></strong>. Sim! Ela também é blogueira de corpo e alma, e teve a ideia de nos facilitar a aquisição de <em>belezuras</em> decorativas e de utilidade para casa. Confere!
+  Antes de te deixar viver de amores pelo que você vai ver, permita-me apresentar a moça por trás dessa loja virtual: <strong>Claudia Medeiros</strong>, do blog <strong><a href="http://sefossenaminhacasa.blogspot.com/" target="_blank" rel="noopener noreferrer">Se fosse na minha casa</a></strong>. Sim! Ela também é blogueira de corpo e alma, e teve a ideia de nos facilitar a aquisição de <em>belezuras</em> decorativas e de utilidade para casa. Confere!
 </p>
 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Casa-da-Claudia.png"><img class="alignnone size-full wp-image-8188" title="Casa da Claudia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Casa-da-Claudia.png" alt="" width="529" height="95" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/Casa-da-Claudia.png"><img class="alignnone size-full wp-image-8188" title="Casa da Claudia" src="https://www.trololodemulher.com.br/2011/11/Casa-da-Claudia.png" alt="" width="529" height="95" /></a>
 </p>
 
 &nbsp;
@@ -40,7 +37,7 @@ A **comemoração dos 3 anos do Bicha Fêmea neste mês de Novembro** está fica
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/TERRINA-SOPEIRA-PRATO-LOUCA-BOLINHA-POA.jpg"><img class="alignnone size-full wp-image-8189" title="TERRINA SOPEIRA PRATO LOUCA BOLINHA POA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/TERRINA-SOPEIRA-PRATO-LOUCA-BOLINHA-POA.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/TERRINA-SOPEIRA-PRATO-LOUCA-BOLINHA-POA.jpg"><img class="alignnone size-full wp-image-8189" title="TERRINA SOPEIRA PRATO LOUCA BOLINHA POA" src="https://www.trololodemulher.com.br/2011/11/TERRINA-SOPEIRA-PRATO-LOUCA-BOLINHA-POA.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -54,7 +51,7 @@ A **comemoração dos 3 anos do Bicha Fêmea neste mês de Novembro** está fica
 </p>
 
 <p align="justify">
-  Para ganhar? Faça o seguinte: vá até o <strong><a href="http://www.casadaclaudia.com.br/index.php/" target="_blank">site da Casa da Claudia</a></strong>, dê uma olhada nos produtos, volte aqui nos comentários e me diga:
+  Para ganhar? Faça o seguinte: vá até o <strong><a href="http://www.casadaclaudia.com.br/index.php/" target="_blank" rel="noopener noreferrer">site da Casa da Claudia</a></strong>, dê uma olhada nos produtos, volte aqui nos comentários e me diga:
 </p>
 
 <p style="text-align: center;" align="justify">

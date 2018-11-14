@@ -1,10 +1,7 @@
 ---
-id: 3725
 title: Como usar cores na decoração com alegria e bom gosto?
-date: 2017-02-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/02/17/cores-na-decoracao-4/
 permalink: /2017/02/17/cores-na-decoracao-4/
 categories:
   - Dicas de Decoração
@@ -15,11 +12,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13465" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/DECORACAO-CORES.jpg" alt="DECORACAO-CORES" width="800" height="534" />
+  <img class="alignnone size-full wp-image-13465" src="https://www.trololodemulher.com.br/2017/02/DECORACAO-CORES.jpg" alt="DECORACAO-CORES" width="800" height="534" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/soikkoratamo/32708248422/" target="_blank">soikkoratamo</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Imagem: <a href="https://www.flickr.com/photos/soikkoratamo/32708248422/" target="_blank" rel="noopener noreferrer">soikkoratamo</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND</a>
 </p>
 
 <p align="center">
@@ -31,11 +28,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13470" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/DECORACAO-CORES-CINZA.jpg" alt="DECORACAO-CORES-CINZA" width="800" height="566" />
+  <img class="alignnone size-full wp-image-13470" src="https://www.trololodemulher.com.br/2017/02/DECORACAO-CORES-CINZA.jpg" alt="DECORACAO-CORES-CINZA" width="800" height="566" />
 </p>
 
 <p align="center">
-  Imagens via <a href="http://www.homedit.com/" target="_blank">Homedit</a>
+  Imagens via <a href="http://www.homedit.com/" target="_blank" rel="noopener noreferrer">Homedit</a>
 </p>
 
 <p align="justify">
@@ -43,11 +40,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13384" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-ALMOFADAS.jpg" alt="decoracao-almofadas" width="800" height="237" />
+  <img class="alignnone size-full wp-image-13384" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-ALMOFADAS.jpg" alt="decoracao-almofadas" width="800" height="237" />
 </p>
 
 <p align="center">
-  <em>Capas de almofadas em tapeçaria e retalhos coloridos, na ordem: verde, laranja e terra. Essas lindezas são peças que <strong>você encontra online na Xique Xique Brasil</strong>. <a href="https://www.xiquexiquebrasil.com.br/casa/almofada/?ref=trololodemulher" target="_blank">Clique aqui para ver estes e outros modelos disponíveis</a></em><em>.</em>
+  <em>Capas de almofadas em tapeçaria e retalhos coloridos, na ordem: verde, laranja e terra. Essas lindezas são peças que <strong>você encontra online na Xique Xique Brasil</strong>. <a href="https://www.xiquexiquebrasil.com.br/casa/almofada/?ref=trololodemulher" target="_blank" rel="noopener noreferrer">Clique aqui para ver estes e outros modelos disponíveis</a></em><em>.</em>
 </p>
 
 <p align="justify">
@@ -55,19 +52,19 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13472" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/DECORACAO-CORES-TURQUESA-TOALHA-LAVABO.jpg" alt="DECORACAO-CORES-TURQUESA-TOALHA LAVABO" width="800" height="495" />
+  <img class="alignnone size-full wp-image-13472" src="https://www.trololodemulher.com.br/2017/02/DECORACAO-CORES-TURQUESA-TOALHA-LAVABO.jpg" alt="DECORACAO-CORES-TURQUESA-TOALHA LAVABO" width="800" height="495" />
 </p>
 
 <p align="center">
-  <em>O <strong>turquesa</strong> é das cores mais lindas e instigantes, daquelas perfeitas para ser um ponto de destaque num ambiente. Acima, toalha labirinto azul turquesa, para ser usada no lavabo, banheiro, cozinha ou copa. A peça artesanal está disponível online na <strong>XiqueXique Brasil</strong>. </em><a href="https://www.xiquexiquebrasil.com.br/casa/toalha-labirinto-azul-turquesa" target="_blank"><em>Clique aqui para ver mais detalhes sobre esse item</em></a><em>.</em>
+  <em>O <strong>turquesa</strong> é das cores mais lindas e instigantes, daquelas perfeitas para ser um ponto de destaque num ambiente. Acima, toalha labirinto azul turquesa, para ser usada no lavabo, banheiro, cozinha ou copa. A peça artesanal está disponível online na <strong>XiqueXique Brasil</strong>. </em><a href="https://www.xiquexiquebrasil.com.br/casa/toalha-labirinto-azul-turquesa" target="_blank" rel="noopener noreferrer"><em>Clique aqui para ver mais detalhes sobre esse item</em></a><em>.</em>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12526" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-APARTAMENTO-CORES-AMARELO.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-APARTAMENTO-CORES-AMARELO" width="800" height="450" />
+  <img class="alignnone size-full wp-image-12526" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-APARTAMENTO-CORES-AMARELO.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-APARTAMENTO-CORES-AMARELO" width="800" height="450" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.home-designing.com/" target="_blank">Home Designing</a>
+  Via <a href="http://www.home-designing.com/" target="_blank" rel="noopener noreferrer">Home Designing</a>
 </p>
 
 <p align="justify">
@@ -75,11 +72,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13468" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/DECORACAO-CORES-AMARELO.jpg" alt="DECORACAO-CORES-AMARELO" width="800" height="971" />
+  <img class="alignnone size-full wp-image-13468" src="https://www.trololodemulher.com.br/2017/02/DECORACAO-CORES-AMARELO.jpg" alt="DECORACAO-CORES-AMARELO" width="800" height="971" />
 </p>
 
 <p align="center">
-  <em>1 &#8211; Toalha Bordado Manual Buquê Amarelo, em tecido linho. </em><a href="https://www.xiquexiquebrasil.com.br/casa/Toalha-Bordado-Manual-Buque-Amarelo" target="_blank"><em>Clique aqui para mais detalhes sobre o produto</em></a><em>. | 2 &#8211; Toalha Bordado Manual Amarela Buquê, em tecido linho amarelo. </em><a href="https://www.xiquexiquebrasil.com.br/casa/Toalha-Bordado-Manual-Amarela-Buque" target="_blank"><em>Clique aqui para mais detalhes sobre o produto</em></a><em>. | 3 &#8211; Toalha de Bandeja Renda Renascença Amarela Abacaxi, desenvolvida manualmente com lacê, agulha e linha, com tingimento artesanal. </em><a href="https://www.xiquexiquebrasil.com.br/casa/bandeja-e-jogo-americano/toalha-de-bandeja-renascenca-amarela-abacaxi" target="_blank"><em>Clique aqui para mais detalhes sobre esse produto</em></a><em>. Todas as peças são da loja virtual <strong>XiqueXique Brasil</strong>.</em>
+  <em>1 &#8211; Toalha Bordado Manual Buquê Amarelo, em tecido linho. </em><a href="https://www.xiquexiquebrasil.com.br/casa/Toalha-Bordado-Manual-Buque-Amarelo" target="_blank" rel="noopener noreferrer"><em>Clique aqui para mais detalhes sobre o produto</em></a><em>. | 2 &#8211; Toalha Bordado Manual Amarela Buquê, em tecido linho amarelo. </em><a href="https://www.xiquexiquebrasil.com.br/casa/Toalha-Bordado-Manual-Amarela-Buque" target="_blank" rel="noopener noreferrer"><em>Clique aqui para mais detalhes sobre o produto</em></a><em>. | 3 &#8211; Toalha de Bandeja Renda Renascença Amarela Abacaxi, desenvolvida manualmente com lacê, agulha e linha, com tingimento artesanal. </em><a href="https://www.xiquexiquebrasil.com.br/casa/bandeja-e-jogo-americano/toalha-de-bandeja-renascenca-amarela-abacaxi" target="_blank" rel="noopener noreferrer"><em>Clique aqui para mais detalhes sobre esse produto</em></a><em>. Todas as peças são da loja virtual <strong>XiqueXique Brasil</strong>.</em>
 </p>
 
 <p align="justify">
@@ -87,33 +84,33 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13474" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/DECORACAO-CORES-VERDE3.jpg" alt="DECORACAO-CORES-VERDE[3]" width="800" height="469" />
+  <img class="alignnone size-full wp-image-13474" src="https://www.trololodemulher.com.br/2017/02/DECORACAO-CORES-VERDE3.jpg" alt="DECORACAO-CORES-VERDE[3]" width="800" height="469" />
 </p>
 
 <p align="center">
-  <em>Guardanapo cambraia cana, em linho na cor verde. Bordado de cana de açúcar em uma das pontas. Acabamento em ponto ajour. O produto é enviado em embalagem contendo seis unidades. </em><a href="https://www.xiquexiquebrasil.com.br/casa/guardanapo/guardanapo-cambraia-cana-6-unid" target="_blank"><em>Clique aqui para mais detalhes sobre esse produto</em></a>, que está disponível na loja virtual <strong>XiqueXique Brasil</strong>.
+  <em>Guardanapo cambraia cana, em linho na cor verde. Bordado de cana de açúcar em uma das pontas. Acabamento em ponto ajour. O produto é enviado em embalagem contendo seis unidades. </em><a href="https://www.xiquexiquebrasil.com.br/casa/guardanapo/guardanapo-cambraia-cana-6-unid" target="_blank" rel="noopener noreferrer"><em>Clique aqui para mais detalhes sobre esse produto</em></a>, que está disponível na loja virtual <strong>XiqueXique Brasil</strong>.
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13473" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/DECORACAO-CORES-VERDE2.jpg" alt="DECORACAO-CORES-VERDE[2]" width="800" height="671" />
+  <img class="alignnone size-full wp-image-13473" src="https://www.trololodemulher.com.br/2017/02/DECORACAO-CORES-VERDE2.jpg" alt="DECORACAO-CORES-VERDE[2]" width="800" height="671" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13471" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/DECORACAO-CORES-ROSA.jpg" alt="DECORACAO-CORES-ROSA" width="800" height="311" />
+  <img class="alignnone size-full wp-image-13471" src="https://www.trololodemulher.com.br/2017/02/DECORACAO-CORES-ROSA.jpg" alt="DECORACAO-CORES-ROSA" width="800" height="311" />
 </p>
 
 <p align="center">
-  <em>1 &#8211; Centro de mesa crivo rosa, em linho branco. Bordados crivo, sombreado e mini ponto cruz. Contorno com matame branco. </em><a href="https://www.xiquexiquebrasil.com.br/casa/centro-de-mesa-crivo-rosa-o75cm" target="_blank"><em>Clique aqui e veja mais detalhes sobre a peça</em></a><em>. | 2 &#8211; Toalha Lavabo Crivo Rosas, em tecido linho. Peça bordada em crivo e mini ponto de cruz. </em><a href="https://www.xiquexiquebrasil.com.br/casa/Toalha-Lavabo-Crivo-Rosas" target="_blank"><em>Clique aqui para mais detalhes sobre o produto</em></a><em>. | 3 &#8211; Toalha Bordado Manual Trio Floral Rosa, em tecido linho. Peça com bordado manual. </em><a href="https://www.xiquexiquebrasil.com.br/casa/toalha-bordado-manual-trio-floral-rosa" target="_blank"><em>Clique aqui para mais detalhes sobre o produto</em></a><em>. Todas as peças são da loja virtual <strong>XiqueXique Brasil</strong>.</em>
+  <em>1 &#8211; Centro de mesa crivo rosa, em linho branco. Bordados crivo, sombreado e mini ponto cruz. Contorno com matame branco. </em><a href="https://www.xiquexiquebrasil.com.br/casa/centro-de-mesa-crivo-rosa-o75cm" target="_blank" rel="noopener noreferrer"><em>Clique aqui e veja mais detalhes sobre a peça</em></a><em>. | 2 &#8211; Toalha Lavabo Crivo Rosas, em tecido linho. Peça bordada em crivo e mini ponto de cruz. </em><a href="https://www.xiquexiquebrasil.com.br/casa/Toalha-Lavabo-Crivo-Rosas" target="_blank" rel="noopener noreferrer"><em>Clique aqui para mais detalhes sobre o produto</em></a><em>. | 3 &#8211; Toalha Bordado Manual Trio Floral Rosa, em tecido linho. Peça com bordado manual. </em><a href="https://www.xiquexiquebrasil.com.br/casa/toalha-bordado-manual-trio-floral-rosa" target="_blank" rel="noopener noreferrer"><em>Clique aqui para mais detalhes sobre o produto</em></a><em>. Todas as peças são da loja virtual <strong>XiqueXique Brasil</strong>.</em>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13423" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-JOGO-AMERICANO-RENDA-FILE.jpg" alt="decoracao-jogo-americano-renda-file" width="800" height="400" />
+  <img class="alignnone size-full wp-image-13423" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-JOGO-AMERICANO-RENDA-FILE.jpg" alt="decoracao-jogo-americano-renda-file" width="800" height="400" />
 </p>
 
 <p align="center">
-  <em>Leve o colorido à mesa usando jogos americanos lindos e alegres, como esses, de Renda Filé. As peças ricamente trabalhadas são da <strong>Xique Xique Brasil, </strong>você encontra todas online, e elas são enviadas para todo o Brasil. </em><a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank"><em>Clique aqui</em></a><em>, veja esses e mais produtos.</em>
+  <em>Leve o colorido à mesa usando jogos americanos lindos e alegres, como esses, de Renda Filé. As peças ricamente trabalhadas são da <strong>Xique Xique Brasil, </strong>você encontra todas online, e elas são enviadas para todo o Brasil. </em><a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank" rel="noopener noreferrer"><em>Clique aqui</em></a><em>, veja esses e mais produtos.</em>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

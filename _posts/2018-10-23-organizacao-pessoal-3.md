@@ -1,11 +1,8 @@
 ---
-id: 3883
 title: Que diferença faz a organização pessoal?
-date: 2018-10-23T00:00:00+00:00
-author: admin
+author: Lidiane
 excerpt: Você enxerga valor em desenvolver a organização pessoal? Eu posso te garantir que isso faz diferença, vale muito à pena, e te conto o porquê.
 layout: post
-guid: http://localhost/wordpress/2018/10/23/organizacao-pessoal-3/
 permalink: /2018/10/23/organizacao-pessoal-3/
 categories:
   - Bem viver
@@ -21,7 +18,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14733" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/10/ORGANIZACAO-PESSOAL-PESSOA-ORGANIZADA-GESTAO-DO-TEMPO-PRODUTIVIDADE-BLOG.jpg" alt="" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14733" src="https://www.trololodemulher.com.br/2018/10/ORGANIZACAO-PESSOAL-PESSOA-ORGANIZADA-GESTAO-DO-TEMPO-PRODUTIVIDADE-BLOG.jpg" alt="" width="800" height="800" />
 </p>
 
 <p align="center">

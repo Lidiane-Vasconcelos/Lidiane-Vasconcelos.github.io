@@ -1,10 +1,7 @@
 ---
-id: 3165
 title: '3 ideias simples de decoração e aconchego na sua sala de estar: aplique já!'
-date: 2012-08-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/08/03/ideias-decoracao-sala-estar/
 permalink: /2012/08/03/ideias-decoracao-sala-estar/
 categories:
   - Salas
@@ -13,12 +10,12 @@ Pois é, bonita! Não é de ideias de execução bem fácil que a gente gosta? E
 
 &nbsp;
 
-Trata-se de uma imagem garimpada no site **_<a href="http://www.ivillage.com/" target="_blank">iVillage</a>_**, e **nesta única imagem há 3 ideias** que eu consegui enxergar como sendo bacanas para aplicar na sala de estar de qualquer uma de nós. De repente, você até enxerga mais… quem sabe? O bacana de ver imagens assim é exercitar o olho e aprender dessa forma: apenas vendo… inspire-se!
+Trata-se de uma imagem garimpada no site **_<a href="http://www.ivillage.com/" target="_blank" rel="noopener noreferrer">iVillage</a>_**, e **nesta única imagem há 3 ideias** que eu consegui enxergar como sendo bacanas para aplicar na sala de estar de qualquer uma de nós. De repente, você até enxerga mais… quem sabe? O bacana de ver imagens assim é exercitar o olho e aprender dessa forma: apenas vendo… inspire-se!
 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=8970" rel="attachment wp-att-8970"><img class="alignnone size-full wp-image-8970" title="DECORACAO-SALA-ESTAR" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-SALA-ESTAR.jpg" alt="" width="400" height="300" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=8970" rel="attachment wp-att-8970"><img class="alignnone size-full wp-image-8970" title="DECORACAO-SALA-ESTAR" src="https://www.trololodemulher.com.br/2012/08/DECORACAO-SALA-ESTAR.jpg" alt="" width="400" height="300" /></a>
 </p>
 
 &nbsp;
@@ -53,13 +50,13 @@ Trata-se de uma imagem garimpada no site **_<a href="http://www.ivillage.com/" t
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/decoracao-sala-de-estar-almofada-artesanato200/" rel="attachment wp-att-8855"><img class="alignnone size-full wp-image-8855" title="DECORACAO-SALA DE ESTAR-ALMOFADA-ARTESANATO200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/DECORACAO-SALA-DE-ESTAR-ALMOFADA-ARTESANATO200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/07/09/decoracao-sala-de-estar-barata/"><strong><span style="font-size: medium;">Decoração da sala de estar com detalhes bem baratos… é possível?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/decoracao-sala-de-estar-almofada-artesanato200/" rel="attachment wp-att-8855"><img class="alignnone size-full wp-image-8855" title="DECORACAO-SALA DE ESTAR-ALMOFADA-ARTESANATO200" src="https://www.trololodemulher.com.br/2012/07/DECORACAO-SALA-DE-ESTAR-ALMOFADA-ARTESANATO200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/07/09/decoracao-sala-de-estar-barata/"><strong><span style="font-size: medium;">Decoração da sala de estar com detalhes bem baratos… é possível?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/camera-8/" rel="attachment wp-att-6592"><img class="alignnone size-full wp-image-6592" title="Camera" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar6200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2011/07/12/decoracao-faca-voce-mesma-2/"><strong><span style="font-size: medium;"><br /> Quer uma mesinha? Improvisa!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/camera-8/" rel="attachment wp-att-6592"><img class="alignnone size-full wp-image-6592" title="Camera" src="https://www.trololodemulher.com.br/2011/07/sala-de-estar6200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2011/07/12/decoracao-faca-voce-mesma-2/"><strong><span style="font-size: medium;"><br /> Quer uma mesinha? Improvisa!</span></strong></a>
       </p>
     </td>
   </tr>
@@ -67,13 +64,13 @@ Trata-se de uma imagem garimpada no site **_<a href="http://www.ivillage.com/" t
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/decoracao-sala2200/" rel="attachment wp-att-6163"><img class="alignnone size-full wp-image-6163" title="decoração sala[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-sala2200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/03/16/decoracao-da-sala-de-estar/"><strong><span style="font-size: medium;">Decoração da sala de estar: cores e combinações.</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/decoracao-sala2200/" rel="attachment wp-att-6163"><img class="alignnone size-full wp-image-6163" title="decoração sala[2]200" src="https://www.trololodemulher.com.br/2011/03/decoracao-sala2200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/03/16/decoracao-da-sala-de-estar/"><strong><span style="font-size: medium;">Decoração da sala de estar: cores e combinações.</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/sala-de-estar-amarela2200/" rel="attachment wp-att-5867"><img class="alignnone size-full wp-image-5867" title="sala de estar amarela2200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/sala-de-estar-amarela2200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
+        <a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/sala-de-estar-amarela2200/" rel="attachment wp-att-5867"><img class="alignnone size-full wp-image-5867" title="sala de estar amarela2200" src="https://www.trololodemulher.com.br/2011/01/sala-de-estar-amarela2200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
       </p>
       
       <p align="center">
@@ -85,7 +82,7 @@ Trata-se de uma imagem garimpada no site **_<a href="http://www.ivillage.com/" t
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2012/07/09/decoracao-sala-de-estar-barata/sala-de-estar-cor-azul-turquesa200/" rel="attachment wp-att-5621"><img class="alignnone size-full wp-image-5621" title="sala de estar -cor  azul turquesa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/sala-de-estar-cor-azul-turquesa200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2012/07/09/decoracao-sala-de-estar-barata/sala-de-estar-cor-azul-turquesa200/" rel="attachment wp-att-5621"><img class="alignnone size-full wp-image-5621" title="sala de estar -cor  azul turquesa200" src="https://www.trololodemulher.com.br/2010/12/sala-de-estar-cor-azul-turquesa200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -95,7 +92,7 @@ Trata-se de uma imagem garimpada no site **_<a href="http://www.ivillage.com/" t
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/mesa-de-centro-estilo-cottage-200/" rel="attachment wp-att-5023"><img class="alignnone size-full wp-image-5023" title="mesa de centro estilo cottage 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/mesa-de-centro-estilo-cottage-200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/mesa-de-centro-estilo-cottage-200/" rel="attachment wp-att-5023"><img class="alignnone size-full wp-image-5023" title="mesa de centro estilo cottage 200" src="https://www.trololodemulher.com.br/2010/08/mesa-de-centro-estilo-cottage-200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -110,7 +107,7 @@ Trata-se de uma imagem garimpada no site **_<a href="http://www.ivillage.com/" t
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -125,13 +122,13 @@ Trata-se de uma imagem garimpada no site **_<a href="http://www.ivillage.com/" t
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

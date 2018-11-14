@@ -1,10 +1,7 @@
 ---
-id: 3720
 title: Ciclo fechado, agradecimento, férias.
-date: 2016-12-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/12/23/ciclo-fechado/
 permalink: /2016/12/23/ciclo-fechado/
 categories:
   - Trololó
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13429" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/TROLOLO-MULHER-MULHER131.jpg" alt="trololo-mulher-mulher131" width="800" height="671" />
+  <img class="alignnone size-full wp-image-13429" src="https://www.trololodemulher.com.br/2016/12/TROLOLO-MULHER-MULHER131.jpg" alt="trololo-mulher-mulher131" width="800" height="671" />
 </p>
 
 <p align="justify">
@@ -26,7 +23,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13428" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/IMG_7279-800.jpg" alt="img_7279-800" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13428" src="https://www.trololodemulher.com.br/2016/12/IMG_7279-800.jpg" alt="img_7279-800" width="800" height="800" />
 </p>
 
 <p align="justify">
@@ -50,5 +47,5 @@ Beijos e beijos,
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

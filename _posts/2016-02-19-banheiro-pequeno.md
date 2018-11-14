@@ -1,10 +1,7 @@
 ---
-id: 3545
 title: Faça seu banheiro pequeno parecer maior com 5 truques.
-date: 2016-02-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/02/19/banheiro-pequeno/
 permalink: /2016/02/19/banheiro-pequeno/
 categories:
   - Banheiro
@@ -15,7 +12,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11959" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-BANHEIRO-PEQUENO-BANHEIRO-CLARO9.jpg" alt="DECORACAO-BANHEIRO PEQUENO-BANHEIRO CLARO[9]" width="558" height="747" />
+  <img class="alignnone size-full wp-image-11959" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-BANHEIRO-PEQUENO-BANHEIRO-CLARO9.jpg" alt="DECORACAO-BANHEIRO PEQUENO-BANHEIRO CLARO[9]" width="558" height="747" />
 </p>
 
 <p align="justify">
@@ -23,11 +20,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-banheiro/" target="_blank"><strong>Dicas e imagens: como maximizar o banheiro.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-banheiro/" target="_blank" rel="noopener noreferrer"><strong>Dicas e imagens: como maximizar o banheiro.</strong></a>
 </p>
 
 <p align="justify">
-  <strong>1 – Você precisa ter tantos itens? </strong>Considere o número de toalhas, produtos de beleza e higiene: é preciso tudo isso? Ter seu balcão repleto de coisas, os armários lotados de caixas organizadoras, as paredes cheias de ganchos e prateleiras, as portas suportando roupas e mais roupas, bolsas, cintos, etc. Quanta coisa! Veja bem: instalar prateleiras, ganchos e usar caixas organizadoras para colocar ordem no banheiro é uma boa estratégia, sim. Mas isso não significa que está tudo bem ter o máximo de coisas lá porque, afinal de contas, “tudo tem o seu lugar”. A melhor das estratégias é você aprender a aceitar que seu espaço é pequeno e, por isso, precisa desapegar de coisas que, pensando bem, não são tão necessárias assim. Faça bom uso do espaço que você tem de armazenamento, livrando-se de tanta tralha, e tenha um ambiente mais leve! Para isso, não deixe de espiar o post que te mostra <a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank">6 ideias para ganhar mais espaço em seu banheiro</a>.
+  <strong>1 – Você precisa ter tantos itens? </strong>Considere o número de toalhas, produtos de beleza e higiene: é preciso tudo isso? Ter seu balcão repleto de coisas, os armários lotados de caixas organizadoras, as paredes cheias de ganchos e prateleiras, as portas suportando roupas e mais roupas, bolsas, cintos, etc. Quanta coisa! Veja bem: instalar prateleiras, ganchos e usar caixas organizadoras para colocar ordem no banheiro é uma boa estratégia, sim. Mas isso não significa que está tudo bem ter o máximo de coisas lá porque, afinal de contas, “tudo tem o seu lugar”. A melhor das estratégias é você aprender a aceitar que seu espaço é pequeno e, por isso, precisa desapegar de coisas que, pensando bem, não são tão necessárias assim. Faça bom uso do espaço que você tem de armazenamento, livrando-se de tanta tralha, e tenha um ambiente mais leve! Para isso, não deixe de espiar o post que te mostra <a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank" rel="noopener noreferrer">6 ideias para ganhar mais espaço em seu banheiro</a>.
 </p>
 
 <p align="justify">
@@ -35,7 +32,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank"><strong>Decoração de banheiro para poupar/ganhar espaço: 4 dicas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank" rel="noopener noreferrer"><strong>Decoração de banheiro para poupar/ganhar espaço: 4 dicas.</strong></a>
 </p>
 
 <p align="justify">
@@ -43,7 +40,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11951" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-BANHEIRO-PEQUENO-BANHEIRO-CLARO.jpg" alt="DECORACAO-BANHEIRO PEQUENO-BANHEIRO CLARO" width="534" height="800" />
+  <img class="alignnone size-full wp-image-11951" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-BANHEIRO-PEQUENO-BANHEIRO-CLARO.jpg" alt="DECORACAO-BANHEIRO PEQUENO-BANHEIRO CLARO" width="534" height="800" />
 </p>
 
 <p align="center">
@@ -51,11 +48,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11952" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-BANHEIRO-PEQUENO-BANHEIRO-CLARO2.jpg" alt="DECORACAO-BANHEIRO PEQUENO-BANHEIRO CLARO[2]" width="421" height="632" />
+  <img class="alignnone size-full wp-image-11952" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-BANHEIRO-PEQUENO-BANHEIRO-CLARO2.jpg" alt="DECORACAO-BANHEIRO PEQUENO-BANHEIRO CLARO[2]" width="421" height="632" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.macedoecovolo.com.br/" target="_blank">Giselle Macedo & Patricia Covolo</a>.
+  Via <a href="http://www.macedoecovolo.com.br/" target="_blank" rel="noopener noreferrer">Giselle Macedo & Patricia Covolo</a>.
 </p>
 
 <p align="justify">
@@ -63,7 +60,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/" target="_blank"><strong>4 ideias para decoração de banheiro pequeno.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/" target="_blank" rel="noopener noreferrer"><strong>4 ideias para decoração de banheiro pequeno.</strong></a>
 </p>
 
 <p align="justify">
@@ -71,7 +68,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11953" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-BANHEIRO-PEQUENO-BANHEIRO-CLARO3.jpg" alt="DECORACAO-BANHEIRO PEQUENO-BANHEIRO CLARO[3]" width="533" height="800" />
+  <img class="alignnone size-full wp-image-11953" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-BANHEIRO-PEQUENO-BANHEIRO-CLARO3.jpg" alt="DECORACAO-BANHEIRO PEQUENO-BANHEIRO CLARO[3]" width="533" height="800" />
 </p>
 
 <p align="center">
@@ -79,7 +76,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11954" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-BANHEIRO-PEQUENO-BANHEIRO-CLARO4.jpg" alt="DECORACAO-BANHEIRO PEQUENO-BANHEIRO CLARO[4]" width="534" height="800" />
+  <img class="alignnone size-full wp-image-11954" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-BANHEIRO-PEQUENO-BANHEIRO-CLARO4.jpg" alt="DECORACAO-BANHEIRO PEQUENO-BANHEIRO CLARO[4]" width="534" height="800" />
 </p>
 
 <p align="center">
@@ -91,19 +88,19 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11955" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-BANHEIRO-PEQUENO-BANHEIRO-CLARO5.jpg" alt="DECORACAO-BANHEIRO PEQUENO-BANHEIRO CLARO[5]" width="526" height="768" />
+  <img class="alignnone size-full wp-image-11955" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-BANHEIRO-PEQUENO-BANHEIRO-CLARO5.jpg" alt="DECORACAO-BANHEIRO PEQUENO-BANHEIRO CLARO[5]" width="526" height="768" />
 </p>
 
 <p align="center">
-  Iluminação sobre o balcão e geral, inclusive dentro do box. Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>.
+  Iluminação sobre o balcão e geral, inclusive dentro do box. Via <a href="http://casa.abril.com.br/" target="_blank" rel="noopener noreferrer">Casa Abril</a>.
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11956" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-BANHEIRO-PEQUENO-BANHEIRO-CLARO6.jpg" alt="DECORACAO-BANHEIRO PEQUENO-BANHEIRO CLARO[6]" width="600" height="800" />
+  <img class="alignnone size-full wp-image-11956" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-BANHEIRO-PEQUENO-BANHEIRO-CLARO6.jpg" alt="DECORACAO-BANHEIRO PEQUENO-BANHEIRO CLARO[6]" width="600" height="800" />
 </p>
 
 <p align="center">
-  Via <a href="http://pro.casa.abril.com.br/" target="_blank">CasaPro</a>
+  Via <a href="http://pro.casa.abril.com.br/" target="_blank" rel="noopener noreferrer">CasaPro</a>
 </p>
 
 <p align="justify">
@@ -111,19 +108,19 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11957" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-BANHEIRO-PEQUENO-BANHEIRO-CLARO7.jpg" alt="DECORACAO-BANHEIRO PEQUENO-BANHEIRO CLARO[7]" width="600" height="600" />
+  <img class="alignnone size-full wp-image-11957" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-BANHEIRO-PEQUENO-BANHEIRO-CLARO7.jpg" alt="DECORACAO-BANHEIRO PEQUENO-BANHEIRO CLARO[7]" width="600" height="600" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.leroymerlin.com.br/regions/create" target="_blank">Leroy Merlin</a>
+  Via <a href="http://www.leroymerlin.com.br/regions/create" target="_blank" rel="noopener noreferrer">Leroy Merlin</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11958" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-BANHEIRO-PEQUENO-BANHEIRO-CLARO8.jpg" alt="DECORACAO-BANHEIRO PEQUENO-BANHEIRO CLARO[8]" width="800" height="600" />
+  <img class="alignnone size-full wp-image-11958" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-BANHEIRO-PEQUENO-BANHEIRO-CLARO8.jpg" alt="DECORACAO-BANHEIRO PEQUENO-BANHEIRO CLARO[8]" width="800" height="600" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.magazineluiza.com.br/" target="_blank">Magazine Luiza</a>
+  Via <a href="http://www.magazineluiza.com.br/" target="_blank" rel="noopener noreferrer">Magazine Luiza</a>
 </p>
 
 <p align="justify">
@@ -131,11 +128,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/armario-de-banheiro/" target="_blank"><strong>Armário de banheiro. Falta ideia? Veja 6 bonitos e simples.</strong></a>
+  <a href="http://www.decoracaodacasa.com/armario-de-banheiro/" target="_blank" rel="noopener noreferrer"><strong>Armário de banheiro. Falta ideia? Veja 6 bonitos e simples.</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

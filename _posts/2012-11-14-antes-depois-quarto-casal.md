@@ -1,10 +1,7 @@
 ---
-id: 3209
 title: Antes x Depois de quarto de casal com a ajuda de uma expert
-date: 2012-11-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/11/14/antes-depois-quarto-casal/
 permalink: /2012/11/14/antes-depois-quarto-casal/
 categories:
   - Quarto
@@ -32,7 +29,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/decoracao-quarto-antes-depois-designer-interiores-campinas/" rel="attachment wp-att-9314"><img class="alignnone size-full wp-image-9314" title="DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS.jpg" alt="" width="600" height="338" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/decoracao-quarto-antes-depois-designer-interiores-campinas/" rel="attachment wp-att-9314"><img class="alignnone size-full wp-image-9314" title="DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS" src="https://www.trololodemulher.com.br/2012/11/DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS.jpg" alt="" width="600" height="338" /></a>
 </p>
 
 &nbsp;
@@ -50,7 +47,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/decoracao-quarto-antes-depois-designer-interiores-campinas2/" rel="attachment wp-att-9315"><img class="alignnone size-full wp-image-9315" title="DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS2.jpg" alt="" width="600" height="338" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/decoracao-quarto-antes-depois-designer-interiores-campinas2/" rel="attachment wp-att-9315"><img class="alignnone size-full wp-image-9315" title="DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS[2]" src="https://www.trololodemulher.com.br/2012/11/DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS2.jpg" alt="" width="600" height="338" /></a>
 </p>
 
 &nbsp;
@@ -62,7 +59,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/decoracao-quarto-antes-depois-designer-interiores-campinas3/" rel="attachment wp-att-9316"><img class="alignnone size-full wp-image-9316" title="DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS3.jpg" alt="" width="600" height="338" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/decoracao-quarto-antes-depois-designer-interiores-campinas3/" rel="attachment wp-att-9316"><img class="alignnone size-full wp-image-9316" title="DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS[3]" src="https://www.trololodemulher.com.br/2012/11/DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS3.jpg" alt="" width="600" height="338" /></a>
 </p>
 
 &nbsp;
@@ -74,7 +71,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/decoracao-quarto-antes-depois-designer-interiores-campinas4/" rel="attachment wp-att-9317"><img class="alignnone size-full wp-image-9317" title="DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS[4]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS4.jpg" alt="" width="600" height="338" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/decoracao-quarto-antes-depois-designer-interiores-campinas4/" rel="attachment wp-att-9317"><img class="alignnone size-full wp-image-9317" title="DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS[4]" src="https://www.trololodemulher.com.br/2012/11/DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS4.jpg" alt="" width="600" height="338" /></a>
 </p>
 
 &nbsp;
@@ -90,7 +87,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/decoracao-quarto-antes-depois-designer-interiores-campinas5/" rel="attachment wp-att-9318"><img class="alignnone size-full wp-image-9318" title="DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS[5]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS5.jpg" alt="" width="600" height="1067" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/decoracao-quarto-antes-depois-designer-interiores-campinas5/" rel="attachment wp-att-9318"><img class="alignnone size-full wp-image-9318" title="DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS[5]" src="https://www.trololodemulher.com.br/2012/11/DECORACAO-QUARTO-ANTES-DEPOIS-DESIGNER-INTERIORES-CAMPINAS5.jpg" alt="" width="600" height="1067" /></a>
 </p>
 
 &nbsp;
@@ -108,7 +105,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/claudia-medeiros-3/" rel="attachment wp-att-9313"><img class="alignnone size-full wp-image-9313" title="CLAUDIA MEDEIROS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/CLAUDIA-MEDEIROS.png" alt="" width="554" height="298" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/claudia-medeiros-3/" rel="attachment wp-att-9313"><img class="alignnone size-full wp-image-9313" title="CLAUDIA MEDEIROS" src="https://www.trololodemulher.com.br/2012/11/CLAUDIA-MEDEIROS.png" alt="" width="554" height="298" /></a>
 </p>
 
 &nbsp;
@@ -116,11 +113,11 @@ categories:
 &nbsp;
 
 <p align="justify">
-  A <strong>Claudia Medeiros</strong> é uma leitora talentosa que eu conheço, oh: faz tempo… inclusive tive o prazer de conhecê-la pessoalmente, num encontro de blogueiras. Sim! Essa bonitona também tem um blog, o <strong><a href="http://sefossenaminhacasa.blogspot.com.br/" target="_blank">Se fosse na minha casa</a></strong>. Quer conhecer? Se joga!
+  A <strong>Claudia Medeiros</strong> é uma leitora talentosa que eu conheço, oh: faz tempo… inclusive tive o prazer de conhecê-la pessoalmente, num encontro de blogueiras. Sim! Essa bonitona também tem um blog, o <strong><a href="http://sefossenaminhacasa.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Se fosse na minha casa</a></strong>. Quer conhecer? Se joga!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

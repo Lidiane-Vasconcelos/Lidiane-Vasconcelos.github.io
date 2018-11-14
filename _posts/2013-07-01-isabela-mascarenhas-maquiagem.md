@@ -1,15 +1,12 @@
 ---
-id: 3232
 title: Apresentando… Isabela Mascarenhas e o Delineado Gatinho
-date: 2013-07-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/07/01/isabela-mascarenhas-maquiagem/
 permalink: /2013/07/01/isabela-mascarenhas-maquiagem/
 categories:
   - Beleza
 ---
-Ela é a editora dele: **<a href="http://delineadogatinho.com.br/" target="_blank">Delineado Gatinho</a>**, um blog de beleza que, oh, certeza que veio para ficar. Essa moça toda bonita edita vídeos _superultramega_ didáticos para ensinar todas nós, leigas e mortais, a aplicar maquiagem e sair por aí serelepes e saltitantes.
+Ela é a editora dele: **<a href="http://delineadogatinho.com.br/" target="_blank" rel="noopener noreferrer">Delineado Gatinho</a>**, um blog de beleza que, oh, certeza que veio para ficar. Essa moça toda bonita edita vídeos _superultramega_ didáticos para ensinar todas nós, leigas e mortais, a aplicar maquiagem e sair por aí serelepes e saltitantes.
 
 &nbsp;
 
@@ -20,7 +17,7 @@ Ela é a editora dele: **<a href="http://delineadogatinho.com.br/" target="_blan
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/ISABELA-MASCARENHAS.jpg"><img class="alignnone size-full wp-image-9505" alt="ISABELA MASCARENHAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/ISABELA-MASCARENHAS.jpg" width="600" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/06/ISABELA-MASCARENHAS.jpg"><img class="alignnone size-full wp-image-9505" alt="ISABELA MASCARENHAS" src="https://www.trololodemulher.com.br/2013/06/ISABELA-MASCARENHAS.jpg" width="600" height="600" /></a>
 </p>
 
 &nbsp;
@@ -88,7 +85,7 @@ Ela é a editora dele: **<a href="http://delineadogatinho.com.br/" target="_blan
 
 
 <p align="justify">
-  Para ver muito mais vídeos, posts e tudo o mais que a Isabela tem para mostrar? Se joga no <strong><a href="http://delineadogatinho.com.br/" target="_blank">blog</a> </strong>da moça e aproveita!
+  Para ver muito mais vídeos, posts e tudo o mais que a Isabela tem para mostrar? Se joga no <strong><a href="http://delineadogatinho.com.br/" target="_blank" rel="noopener noreferrer">blog</a> </strong>da moça e aproveita!
 </p>
 
 &nbsp;
@@ -101,13 +98,13 @@ Ela é a editora dele: **<a href="http://delineadogatinho.com.br/" target="_blan
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL-LEQUE-FAN200.jpg"><img class="alignnone size-full wp-image-9267" alt="BELEZA-MAQUIAGEM-PINCEL-LEQUE-FAN200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL-LEQUE-FAN200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/10/22/beleza-pincel-maquiagem/"><strong><span style="font-size: medium;">Usar pincel na maquiagem faz diferença? [Parte II]</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2012/10/BELEZA-MAQUIAGEM-PINCEL-LEQUE-FAN200.jpg"><img class="alignnone size-full wp-image-9267" alt="BELEZA-MAQUIAGEM-PINCEL-LEQUE-FAN200" src="https://www.trololodemulher.com.br/2012/10/BELEZA-MAQUIAGEM-PINCEL-LEQUE-FAN200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/10/22/beleza-pincel-maquiagem/"><strong><span style="font-size: medium;">Usar pincel na maquiagem faz diferença? [Parte II]</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL2200.png"><img class="alignnone size-full wp-image-9232" alt="BELEZA-MAQUIAGEM-PINCEL[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL2200.png" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/10/12/pincel-na-maquiagem/"><strong><span style="font-size: medium;"><br /> Usar pincel na maquiagem faz diferença? [Parte I]</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2012/10/BELEZA-MAQUIAGEM-PINCEL2200.png"><img class="alignnone size-full wp-image-9232" alt="BELEZA-MAQUIAGEM-PINCEL[2]200" src="https://www.trololodemulher.com.br/2012/10/BELEZA-MAQUIAGEM-PINCEL2200.png" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/10/12/pincel-na-maquiagem/"><strong><span style="font-size: medium;"><br /> Usar pincel na maquiagem faz diferença? [Parte I]</span></strong></a>
       </p>
     </td>
   </tr>
@@ -115,13 +112,13 @@ Ela é a editora dele: **<a href="http://delineadogatinho.com.br/" target="_blan
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/batom-mate-maybelline-maquiagem-boca200.jpeg"><img class="alignnone size-full wp-image-9172" alt="batom-mate-maybelline-maquiagem-boca200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/batom-mate-maybelline-maquiagem-boca200.jpeg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/09/24/dicas-de-maquiagem-2/"><strong><span style="font-size: medium;">Sabe aquela amiga que sabe dar dicas de maquiagem?</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2012/09/batom-mate-maybelline-maquiagem-boca200.jpeg"><img class="alignnone size-full wp-image-9172" alt="batom-mate-maybelline-maquiagem-boca200" src="https://www.trololodemulher.com.br/2012/09/batom-mate-maybelline-maquiagem-boca200.jpeg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/09/24/dicas-de-maquiagem-2/"><strong><span style="font-size: medium;">Sabe aquela amiga que sabe dar dicas de maquiagem?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/BELEZA-MAQUIAGEM-NATURAL200.png"><img class="alignnone size-full wp-image-9070" alt="BELEZA-MAQUIAGEM-NATURAL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/BELEZA-MAQUIAGEM-NATURAL200.png" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/08/31/maquiagem-natural/"><strong><span style="font-size: medium;"><br /> Maquiagem como se a gente estivesse sem ela: isso é mesmo possível?</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2012/08/BELEZA-MAQUIAGEM-NATURAL200.png"><img class="alignnone size-full wp-image-9070" alt="BELEZA-MAQUIAGEM-NATURAL200" src="https://www.trololodemulher.com.br/2012/08/BELEZA-MAQUIAGEM-NATURAL200.png" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/08/31/maquiagem-natural/"><strong><span style="font-size: medium;"><br /> Maquiagem como se a gente estivesse sem ela: isso é mesmo possível?</span></strong></a>
       </p>
     </td>
   </tr>
@@ -132,7 +129,7 @@ Ela é a editora dele: **<a href="http://delineadogatinho.com.br/" target="_blan
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -147,13 +144,13 @@ Ela é a editora dele: **<a href="http://delineadogatinho.com.br/" target="_blan
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

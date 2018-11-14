@@ -1,10 +1,7 @@
 ---
-id: 3153
 title: Você sabe onde tem um salão de beleza bem pertinho de você?
-date: 2012-07-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/07/12/sao-paulo-guia/
 permalink: /2012/07/12/sao-paulo-guia/
 categories:
   - Publieditorial
@@ -20,15 +17,15 @@ Já te contei que sou uma pernambucana desgarrada em terras paulistas desde 2005
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/07/12/sao-paulo-guia/vivo-guia-sao-paulo-perto-de-voce2/" rel="attachment wp-att-8871"><img class="alignnone size-full wp-image-8871" title="VIVO - GUIA - SAO PAULO - PERTO DE VOCE[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/VIVO-GUIA-SAO-PAULO-PERTO-DE-VOCE2.jpg" alt="" width="515" height="207" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/12/sao-paulo-guia/vivo-guia-sao-paulo-perto-de-voce2/" rel="attachment wp-att-8871"><img class="alignnone size-full wp-image-8871" title="VIVO - GUIA - SAO PAULO - PERTO DE VOCE[2]" src="https://www.trololodemulher.com.br/2012/07/VIVO-GUIA-SAO-PAULO-PERTO-DE-VOCE2.jpg" alt="" width="515" height="207" /></a>
 </p>
 
 <p align="justify">
-  Já ouviu falar do <strong>serviço da Vivo</strong> que te informa o que há <strong>Perto de Você</strong>, literalmente? Pois é: o <a href="http://www.pertodevoce.com.br/" target="_blank"><strong>Perto de Você </strong></a>é um site de busca inteligente criado para facilitar sua vida na hora de encontrar <strong><a href="http://www.pertodevoce.com.br/sao-paulo/cabeleireiro-e-instituto-de-beleza" target="_blank">salões de beleza</a>, </strong>manicure<strong>, <a href="http://www.pertodevoce.com.br/sao-paulo/clinica-estetica" target="_blank">clínicas de estética</a>, </strong>academias<strong>, <a href="http://www.pertodevoce.com.br/sao-paulo/spa" target="_blank">SPA´s</a>, </strong>etc. Enfim, tudo que uma bicha fêmea que gosta de praticidade precisa para localizar empresas bem pertinho dela.
+  Já ouviu falar do <strong>serviço da Vivo</strong> que te informa o que há <strong>Perto de Você</strong>, literalmente? Pois é: o <a href="http://www.pertodevoce.com.br/" target="_blank" rel="noopener noreferrer"><strong>Perto de Você </strong></a>é um site de busca inteligente criado para facilitar sua vida na hora de encontrar <strong><a href="http://www.pertodevoce.com.br/sao-paulo/cabeleireiro-e-instituto-de-beleza" target="_blank" rel="noopener noreferrer">salões de beleza</a>, </strong>manicure<strong>, <a href="http://www.pertodevoce.com.br/sao-paulo/clinica-estetica" target="_blank" rel="noopener noreferrer">clínicas de estética</a>, </strong>academias<strong>, <a href="http://www.pertodevoce.com.br/sao-paulo/spa" target="_blank" rel="noopener noreferrer">SPA´s</a>, </strong>etc. Enfim, tudo que uma bicha fêmea que gosta de praticidade precisa para localizar empresas bem pertinho dela.
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/07/12/sao-paulo-guia/vivo-guia-sao-paulo-perto-de-voce/" rel="attachment wp-att-8869"><img class="alignnone size-full wp-image-8869" title="VIVO - GUIA - SAO PAULO - PERTO DE VOCE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/VIVO-GUIA-SAO-PAULO-PERTO-DE-VOCE.png" alt="" width="469" height="227" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/12/sao-paulo-guia/vivo-guia-sao-paulo-perto-de-voce/" rel="attachment wp-att-8869"><img class="alignnone size-full wp-image-8869" title="VIVO - GUIA - SAO PAULO - PERTO DE VOCE" src="https://www.trololodemulher.com.br/2012/07/VIVO-GUIA-SAO-PAULO-PERTO-DE-VOCE.png" alt="" width="469" height="227" /></a>
 </p>
 
 <p align="justify">
@@ -40,7 +37,7 @@ Já te contei que sou uma pernambucana desgarrada em terras paulistas desde 2005
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/07/12/sao-paulo-guia/vivo-guia-sao-paulo-perto-de-voce1/" rel="attachment wp-att-8870"><img class="alignnone size-full wp-image-8870" title="VIVO - GUIA - SAO PAULO - PERTO DE VOCE[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/VIVO-GUIA-SAO-PAULO-PERTO-DE-VOCE1.jpg" alt="" width="453" height="597" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/2012/07/12/sao-paulo-guia/vivo-guia-sao-paulo-perto-de-voce1/" rel="attachment wp-att-8870"><img class="alignnone size-full wp-image-8870" title="VIVO - GUIA - SAO PAULO - PERTO DE VOCE[1]" src="https://www.trololodemulher.com.br/2012/07/VIVO-GUIA-SAO-PAULO-PERTO-DE-VOCE1.jpg" alt="" width="453" height="597" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">Stock.xchng</a></em></strong>
 </p>
 
 <p align="justify">

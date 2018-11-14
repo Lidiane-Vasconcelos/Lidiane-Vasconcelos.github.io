@@ -1,10 +1,7 @@
 ---
-id: 3781
 title: 'Presentes criativos online: veja 5 motivos para comprá-los.'
-date: 2017-08-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/08/11/presentes-criativos/
 permalink: /2017/08/11/presentes-criativos/
 categories:
   - Publieditorial
@@ -22,15 +19,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13960" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/Pros-pequenos....jpg" alt="Pros pequenos..." width="366" height="96" />
+  <img class="alignnone size-full wp-image-13960" src="https://www.trololodemulher.com.br/2017/08/Pros-pequenos....jpg" alt="Pros pequenos..." width="366" height="96" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13957" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/PRESENTES-CRIATIVOS-PRESENTE-INFANTIL-PRESENTE-PRA-CRIANCA.jpg" alt="PRESENTES CRIATIVOS-PRESENTE INFANTIL-PRESENTE PRA CRIANCA" width="800" height="1552" />
+  <img class="alignnone size-full wp-image-13957" src="https://www.trololodemulher.com.br/2017/08/PRESENTES-CRIATIVOS-PRESENTE-INFANTIL-PRESENTE-PRA-CRIANCA.jpg" alt="PRESENTES CRIATIVOS-PRESENTE INFANTIL-PRESENTE PRA CRIANCA" width="800" height="1552" />
 </p>
 
 <p style="text-align: center;">
-  1 – <a href="https://www.thisdream.com.br/bolsas-e-lancheiras/lancheira-de-neoprene-zoo-tigre" target="_blank">Lancheira de neoprene zoo tigre</a> | 2 – <a href="https://www.thisdream.com.br/infantil/almofada-mania-hipopotamo" target="_blank">Almofada mania hipopótamo</a> | 3 – <a href="https://www.thisdream.com.br/infantil/copo-canudo-2-em-1-jujuba-e-marceline" target="_blank">Copo canudo 2 em 1  &#8211; Jujuba e Marceline</a> | 4 – <a href="https://www.thisdream.com.br/infantil/copo-canudo-2-em-1-homem-aranha" target="_blank">Copo canudo 2 em 1 – Homem Aranha</a> | 5 – <a href="https://www.thisdream.com.br/casa-e-decoracao/garrafa-canudo-panda" target="_blank">Garrafa canudo Panda</a> | 6 – <a href="https://www.thisdream.com.br/casa-e-decoracao/garrafa-canudo-girafa" target="_blank">Garrafa canudo girafa</a>
+  1 – <a href="https://www.thisdream.com.br/bolsas-e-lancheiras/lancheira-de-neoprene-zoo-tigre" target="_blank" rel="noopener noreferrer">Lancheira de neoprene zoo tigre</a> | 2 – <a href="https://www.thisdream.com.br/infantil/almofada-mania-hipopotamo" target="_blank" rel="noopener noreferrer">Almofada mania hipopótamo</a> | 3 – <a href="https://www.thisdream.com.br/infantil/copo-canudo-2-em-1-jujuba-e-marceline" target="_blank" rel="noopener noreferrer">Copo canudo 2 em 1  &#8211; Jujuba e Marceline</a> | 4 – <a href="https://www.thisdream.com.br/infantil/copo-canudo-2-em-1-homem-aranha" target="_blank" rel="noopener noreferrer">Copo canudo 2 em 1 – Homem Aranha</a> | 5 – <a href="https://www.thisdream.com.br/casa-e-decoracao/garrafa-canudo-panda" target="_blank" rel="noopener noreferrer">Garrafa canudo Panda</a> | 6 – <a href="https://www.thisdream.com.br/casa-e-decoracao/garrafa-canudo-girafa" target="_blank" rel="noopener noreferrer">Garrafa canudo girafa</a>
 </p>
 
 <p style="text-align: center;">
@@ -46,15 +43,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13954" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/Pra-você.jpg" alt="Pra você" width="261" height="105" />
+  <img class="alignnone size-full wp-image-13954" src="https://www.trololodemulher.com.br/2017/08/Pra-você.jpg" alt="Pra você" width="261" height="105" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13956" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/PRESENTES-CRIATIVOS-PRESENTE-FEMININO.jpg" alt="PRESENTES CRIATIVOS-PRESENTE FEMININO" width="800" height="1151" />
+  <img class="alignnone size-full wp-image-13956" src="https://www.trololodemulher.com.br/2017/08/PRESENTES-CRIATIVOS-PRESENTE-FEMININO.jpg" alt="PRESENTES CRIATIVOS-PRESENTE FEMININO" width="800" height="1151" />
 </p>
 
 <p style="text-align: center;">
-  <em>1 – </em><a href="https://www.thisdream.com.br/book-bag-pin-up" target="_blank"><em>Book bag Pin-Up</em></a><em> | 2 – </em><a href="https://www.thisdream.com.br/fitness/marmita-lunch-time" target="_blank"><em>Marmita lunch time</em></a><em> | 3 – </em><a href="https://www.thisdream.com.br/necessaire-trip-frida" target="_blank"><em>Necessaire trip Frida</em></a><em> | 4 – </em><a href="https://www.thisdream.com.br/fitness/mala-utilitaria-matrioska" target="_blank"><em>Mala utilitária Matrioska</em></a><em> | 5 – </em><a href="https://www.thisdream.com.br/necessaires-e-carteiras/carteira-pocket-humores-da-maria" target="_blank"><em>Carteira pocket – Humores da Maria</em></a><em> </em>
+  <em>1 – </em><a href="https://www.thisdream.com.br/book-bag-pin-up" target="_blank" rel="noopener noreferrer"><em>Book bag Pin-Up</em></a><em> | 2 – </em><a href="https://www.thisdream.com.br/fitness/marmita-lunch-time" target="_blank" rel="noopener noreferrer"><em>Marmita lunch time</em></a><em> | 3 – </em><a href="https://www.thisdream.com.br/necessaire-trip-frida" target="_blank" rel="noopener noreferrer"><em>Necessaire trip Frida</em></a><em> | 4 – </em><a href="https://www.thisdream.com.br/fitness/mala-utilitaria-matrioska" target="_blank" rel="noopener noreferrer"><em>Mala utilitária Matrioska</em></a><em> | 5 – </em><a href="https://www.thisdream.com.br/necessaires-e-carteiras/carteira-pocket-humores-da-maria" target="_blank" rel="noopener noreferrer"><em>Carteira pocket – Humores da Maria</em></a><em> </em>
 </p>
 
 <p style="text-align: center;">
@@ -70,15 +67,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13953" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/casa-e-amores.jpg" alt="casa e amores" width="488" height="84" />
+  <img class="alignnone size-full wp-image-13953" src="https://www.trololodemulher.com.br/2017/08/casa-e-amores.jpg" alt="casa e amores" width="488" height="84" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13955" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/PRESENTES-CRIATIVOS-DECORACAO-CRIATIVA.jpg" alt="PRESENTES CRIATIVOS-DECORACAO CRIATIVA" width="800" height="952" />
+  <img class="alignnone size-full wp-image-13955" src="https://www.trololodemulher.com.br/2017/08/PRESENTES-CRIATIVOS-DECORACAO-CRIATIVA.jpg" alt="PRESENTES CRIATIVOS-DECORACAO CRIATIVA" width="800" height="952" />
 </p>
 
 <p style="text-align: center;">
-  <em>1 – </em><a href="https://www.thisdream.com.br/casa-e-decoracao/caneca-avo-coruja" target="_blank"><em>Caneca avó coruja</em></a><em> | 2 – </em><a href="https://www.thisdream.com.br/casa-e-decoracao/caneca-na-lata-mimos-do-avo" target="_blank"><em>Caneca na lata – Mimos do avô</em></a><em> | 3 – </em><a href="https://www.thisdream.com.br/casa-e-decoracao/cafeteira-mini-expresso-cafe-fresquinho" target="_blank"><em>Cafeteira mini expresso – café fresquinho</em></a><em> | 4 – </em><a href="https://www.thisdream.com.br/casa-e-decoracao/cofre-kombi" target="_blank"><em>Cofre Kombi</em></a><em> | 5 – </em><a href="https://www.thisdream.com.br/kits-diversos/kit-vinho-menu" target="_blank"><em>Kit vinho menu</em></a><em> | 6 – </em><em><a href="https://www.thisdream.com.br/infantil/mala-weekend-chove-chuva" target="_blank">Mala weekend – Chove chuva</a></em>
+  <em>1 – </em><a href="https://www.thisdream.com.br/casa-e-decoracao/caneca-avo-coruja" target="_blank" rel="noopener noreferrer"><em>Caneca avó coruja</em></a><em> | 2 – </em><a href="https://www.thisdream.com.br/casa-e-decoracao/caneca-na-lata-mimos-do-avo" target="_blank" rel="noopener noreferrer"><em>Caneca na lata – Mimos do avô</em></a><em> | 3 – </em><a href="https://www.thisdream.com.br/casa-e-decoracao/cafeteira-mini-expresso-cafe-fresquinho" target="_blank" rel="noopener noreferrer"><em>Cafeteira mini expresso – café fresquinho</em></a><em> | 4 – </em><a href="https://www.thisdream.com.br/casa-e-decoracao/cofre-kombi" target="_blank" rel="noopener noreferrer"><em>Cofre Kombi</em></a><em> | 5 – </em><a href="https://www.thisdream.com.br/kits-diversos/kit-vinho-menu" target="_blank" rel="noopener noreferrer"><em>Kit vinho menu</em></a><em> | 6 – </em><em><a href="https://www.thisdream.com.br/infantil/mala-weekend-chove-chuva" target="_blank" rel="noopener noreferrer">Mala weekend – Chove chuva</a></em>
 </p>
 
 <p style="text-align: justify;">
@@ -86,11 +83,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Para navegar e se deliciar escolhendo presentes criativos online, <a href="https://www.thisdream.com.br/" target="_blank">clique aqui e fique à vontade para conhecer a loja virtual This Dream</a>. Acompanhe através das redes sociais todas as novidades: <a href="https://www.facebook.com/this.dreamoficial/" target="_blank">clique aqui e curta no Facebook</a>, <a href="https://www.instagram.com/this.dream/" target="_blank">clique aqui e siga no Instagram</a>.
+  Para navegar e se deliciar escolhendo presentes criativos online, <a href="https://www.thisdream.com.br/" target="_blank" rel="noopener noreferrer">clique aqui e fique à vontade para conhecer a loja virtual This Dream</a>. Acompanhe através das redes sociais todas as novidades: <a href="https://www.facebook.com/this.dreamoficial/" target="_blank" rel="noopener noreferrer">clique aqui e curta no Facebook</a>, <a href="https://www.instagram.com/this.dream/" target="_blank" rel="noopener noreferrer">clique aqui e siga no Instagram</a>.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p style="text-align: justify;">

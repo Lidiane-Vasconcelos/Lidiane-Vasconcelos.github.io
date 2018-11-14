@@ -1,10 +1,7 @@
 ---
-id: 2865
 title: 'Prateleira do Bicha Fêmea: Bird Crafts'
-date: 2010-08-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/08/25/kit-festas-bird-crafts/
 permalink: /2010/08/25/kit-festas-bird-crafts/
 categories:
   - Sem categoria
@@ -18,7 +15,7 @@ Lembra quando você era criança e tinha festas de aniversário em casa, ou era 
 <!--more-->
 
 <p style="text-align: justify;">
-  Já pensou nisso? Pois se isso passa por tua cabeça, você vai ficar encantada com as possibilidades para personalizar encontros festivos com amigos, ou amiguinhos de sua criança, todos disponibilizados pela Cris, através de seu lindo projeto: <a href="http://birdcrafts.blogspot.com/" target="_blank">Bird Crafts</a>.
+  Já pensou nisso? Pois se isso passa por tua cabeça, você vai ficar encantada com as possibilidades para personalizar encontros festivos com amigos, ou amiguinhos de sua criança, todos disponibilizados pela Cris, através de seu lindo projeto: <a href="http://birdcrafts.blogspot.com/" target="_blank" rel="noopener noreferrer">Bird Crafts</a>.
 </p>
 
 <p style="text-align: justify;">
@@ -30,11 +27,11 @@ Lembra quando você era criança e tinha festas de aniversário em casa, ou era 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/kit-festa-cherry-cupcake.jpg"><img class="size-medium wp-image-5093 aligncenter" title="kit festa cherry cupcake" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/kit-festa-cherry-cupcake-235x300.jpg" alt="" width="235" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/kit-festa-cherry-cupcake.jpg"><img class="size-medium wp-image-5093 aligncenter" title="kit festa cherry cupcake" src="https://www.trololodemulher.com.br/2010/08/kit-festa-cherry-cupcake-235x300.jpg" alt="" width="235" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/forminha-kit-cherry-cupcake-para-envolver-cupcakes.jpg"><img class="size-medium wp-image-5090 aligncenter" title="forminha kit cherry cupcake para envolver cupcakes" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/forminha-kit-cherry-cupcake-para-envolver-cupcakes-225x300.jpg" alt="" width="225" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/forminha-kit-cherry-cupcake-para-envolver-cupcakes.jpg"><img class="size-medium wp-image-5090 aligncenter" title="forminha kit cherry cupcake para envolver cupcakes" src="https://www.trololodemulher.com.br/2010/08/forminha-kit-cherry-cupcake-para-envolver-cupcakes-225x300.jpg" alt="" width="225" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -42,11 +39,11 @@ Lembra quando você era criança e tinha festas de aniversário em casa, ou era 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/kit-festa-ice-cream-and-candy.jpg"><img class="size-medium wp-image-5094 aligncenter" title="kit festa ice cream and candy" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/kit-festa-ice-cream-and-candy-225x300.jpg" alt="" width="225" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/kit-festa-ice-cream-and-candy.jpg"><img class="size-medium wp-image-5094 aligncenter" title="kit festa ice cream and candy" src="https://www.trololodemulher.com.br/2010/08/kit-festa-ice-cream-and-candy-225x300.jpg" alt="" width="225" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/bandeirolas-kit-festa-ice-cream-and-candy.jpg"><img class="size-medium wp-image-5089 aligncenter" title="bandeirolas kit festa ice cream and candy" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/bandeirolas-kit-festa-ice-cream-and-candy-225x300.jpg" alt="" width="225" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/bandeirolas-kit-festa-ice-cream-and-candy.jpg"><img class="size-medium wp-image-5089 aligncenter" title="bandeirolas kit festa ice cream and candy" src="https://www.trololodemulher.com.br/2010/08/bandeirolas-kit-festa-ice-cream-and-candy-225x300.jpg" alt="" width="225" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -54,11 +51,11 @@ Lembra quando você era criança e tinha festas de aniversário em casa, ou era 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/kit-festa-pink-garden.jpg"><img class="size-medium wp-image-5095 aligncenter" title="kit festa pink garden" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/kit-festa-pink-garden-225x300.jpg" alt="" width="225" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/kit-festa-pink-garden.jpg"><img class="size-medium wp-image-5095 aligncenter" title="kit festa pink garden" src="https://www.trololodemulher.com.br/2010/08/kit-festa-pink-garden-225x300.jpg" alt="" width="225" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/kit-festa-pink-garden-enfeites-para-canudos.jpg"><img class="size-medium wp-image-5096 aligncenter" title="kit festa pink garden enfeites para canudos" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/kit-festa-pink-garden-enfeites-para-canudos-225x300.jpg" alt="" width="225" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/kit-festa-pink-garden-enfeites-para-canudos.jpg"><img class="size-medium wp-image-5096 aligncenter" title="kit festa pink garden enfeites para canudos" src="https://www.trololodemulher.com.br/2010/08/kit-festa-pink-garden-enfeites-para-canudos-225x300.jpg" alt="" width="225" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">

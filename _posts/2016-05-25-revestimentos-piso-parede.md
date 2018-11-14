@@ -1,10 +1,7 @@
 ---
-id: 3616
 title: 'Revestimentos: piso e parede… quais as opções?'
-date: 2016-05-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/05/25/revestimentos-piso-parede/
 permalink: /2016/05/25/revestimentos-piso-parede/
 categories:
   - Dicas de Decoração
@@ -22,11 +19,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/" target="_blank">Pitacos de decoração: revestimentos de cozinha.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/" target="_blank" rel="noopener noreferrer">Pitacos de decoração: revestimentos de cozinha.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/" target="_blank">Decoração de cozinha: +2 dúvidas sobre revestimentos respondidas.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/" target="_blank" rel="noopener noreferrer">Decoração de cozinha: +2 dúvidas sobre revestimentos respondidas.</a></strong>
 </p>
 
 <p align="justify">
@@ -34,11 +31,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12587" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-REVESTIMENTO-PISO-PAREDE-PATCHWORK-LADRILHO-HIDRAULICO-CERAMICA-TECIDO-PAPEL-DE-PAREDE600.jpg" alt="DECORACAO-REVESTIMENTO-PISO-PAREDE-PATCHWORK-LADRILHO HIDRAULICO-CERAMICA-TECIDO-PAPEL DE PAREDE600" width="600" height="600" />
+  <img class="alignnone size-full wp-image-12587" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-REVESTIMENTO-PISO-PAREDE-PATCHWORK-LADRILHO-HIDRAULICO-CERAMICA-TECIDO-PAPEL-DE-PAREDE600.jpg" alt="DECORACAO-REVESTIMENTO-PISO-PAREDE-PATCHWORK-LADRILHO HIDRAULICO-CERAMICA-TECIDO-PAPEL DE PAREDE600" width="600" height="600" />
 </p>
 
 <p align="center">
-  [1] <a href="http://home-boxer.blogspot.com.br/2009/08/colando-tecido.html" target="_blank">Casa Coisas e Tal</a> | [2] <a href="http://casa.abril.com.br/materia/ares-rusticos-no-campo?utm_source=redesabril_casas&utm_medium=facebook&utm_campaign=redesabril_casacombr" target="_blank">Casa Abril</a> | [3] <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Galeria-de-fotos/fotos/2013/07/patchwork.html#F8" target="_blank">Casa e Jardim</a> | [4] <a href="http://www.decoracaoeideias.com/2013/05/paredes-e-chao-com-ceramica-efeito.html" target="_blank">Decoração e ideias</a>
+  [1] <a href="http://home-boxer.blogspot.com.br/2009/08/colando-tecido.html" target="_blank" rel="noopener noreferrer">Casa Coisas e Tal</a> | [2] <a href="http://casa.abril.com.br/materia/ares-rusticos-no-campo?utm_source=redesabril_casas&utm_medium=facebook&utm_campaign=redesabril_casacombr" target="_blank" rel="noopener noreferrer">Casa Abril</a> | [3] <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Galeria-de-fotos/fotos/2013/07/patchwork.html#F8" target="_blank" rel="noopener noreferrer">Casa e Jardim</a> | [4] <a href="http://www.decoracaoeideias.com/2013/05/paredes-e-chao-com-ceramica-efeito.html" target="_blank" rel="noopener noreferrer">Decoração e ideias</a>
 </p>
 
 <p align="justify">
@@ -54,7 +51,7 @@ categories:
 > </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12578" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-REVESTIMENTO.png" alt="DECORACAO-REVESTIMENTO" width="706" height="81" />
+  <img class="alignnone size-full wp-image-12578" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-REVESTIMENTO.png" alt="DECORACAO-REVESTIMENTO" width="706" height="81" />
 </p>
 
 <p align="justify">
@@ -66,11 +63,11 @@ categories:
 > </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12585" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-REVESTIMENTO-PISO-PAREDE-LADRILHO-HIDRAULICO.jpg" alt="DECORACAO-REVESTIMENTO-PISO-PAREDE-LADRILHO HIDRAULICO" width="800" height="527" />
+  <img class="alignnone size-full wp-image-12585" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-REVESTIMENTO-PISO-PAREDE-LADRILHO-HIDRAULICO.jpg" alt="DECORACAO-REVESTIMENTO-PISO-PAREDE-LADRILHO HIDRAULICO" width="800" height="527" />
 </p>
 
 <p align="center">
-  [1] no piso – <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Galeria-de-fotos/fotos/2013/09/ladrilho-hidraulico.html#F26" target="_blank">Casa e Jardim</a> | [2] na parede – <a href="http://casa.abril.com.br/materia/ladrilho-hidraulico-6-modelos-ambientados-e-7-pecas-individuais" target="_blank">Casa.com.br</a>
+  [1] no piso – <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Galeria-de-fotos/fotos/2013/09/ladrilho-hidraulico.html#F26" target="_blank" rel="noopener noreferrer">Casa e Jardim</a> | [2] na parede – <a href="http://casa.abril.com.br/materia/ladrilho-hidraulico-6-modelos-ambientados-e-7-pecas-individuais" target="_blank" rel="noopener noreferrer">Casa.com.br</a>
 </p>
 
 <p align="justify">
@@ -114,11 +111,11 @@ categories:
 > </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12584" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-REVESTIMENTO-PISO-CIMENTICIO-PORCELANATO-CIMENTO-QUEIMADO.jpg" alt="DECORACAO-REVESTIMENTO-PISO-CIMENTICIO-PORCELANATO-CIMENTO QUEIMADO" width="735" height="924" />
+  <img class="alignnone size-full wp-image-12584" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-REVESTIMENTO-PISO-CIMENTICIO-PORCELANATO-CIMENTO-QUEIMADO.jpg" alt="DECORACAO-REVESTIMENTO-PISO-CIMENTICIO-PORCELANATO-CIMENTO QUEIMADO" width="735" height="924" />
 </p>
 
 <p align="center">
-  [1] piso em cimento queimado – <a href="http://casa.abril.com.br/materia/estrutura-envidracada-conecta-o-refugio-na-praia-a-paisagem-ao-redor?utm_source=redesabril_casas&utm_medium=plus&utm_campaign=redesabril_casacombr#3" target="_blank">Casa.com.br</a> | [2] piso em cimento queimado – <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Decoracao/Ambientes/Varanda-e-terraco/Varanda-gourmet/noticia/2013/05/varandas-gourmets.html" target="_blank">Casa e Jardim</a> | [3] porcelanato com acabamento cimentício – <a href="http://casa.abril.com.br/materia/porcelanatos-33-opcoes-a-partir-de-r-29-o-m2" target="_blank">Casa.com.br</a>
+  [1] piso em cimento queimado – <a href="http://casa.abril.com.br/materia/estrutura-envidracada-conecta-o-refugio-na-praia-a-paisagem-ao-redor?utm_source=redesabril_casas&utm_medium=plus&utm_campaign=redesabril_casacombr#3" target="_blank" rel="noopener noreferrer">Casa.com.br</a> | [2] piso em cimento queimado – <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Decoracao/Ambientes/Varanda-e-terraco/Varanda-gourmet/noticia/2013/05/varandas-gourmets.html" target="_blank" rel="noopener noreferrer">Casa e Jardim</a> | [3] porcelanato com acabamento cimentício – <a href="http://casa.abril.com.br/materia/porcelanatos-33-opcoes-a-partir-de-r-29-o-m2" target="_blank" rel="noopener noreferrer">Casa.com.br</a>
 </p>
 
 <p align="justify">
@@ -134,11 +131,11 @@ categories:
 > </p>
 > 
 > <p align="justify">
->   <strong><a href="http://www.trololodemulher.com.br/2011/02/21/revestimento-piso-cozinha/" target="_blank">Decoração de cozinha: 4 dúvidas sobre revestimento de pisos respondidas.</a></strong>
+>   <strong><a href="http://www.trololodemulher.com.br/2011/02/21/revestimento-piso-cozinha/" target="_blank" rel="noopener noreferrer">Decoração de cozinha: 4 dúvidas sobre revestimento de pisos respondidas.</a></strong>
 > </p>
 > 
 > <p align="justify">
->   <strong><a href="http://www.trololodemulher.com.br/2014/06/25/banheiro-revestimento/" target="_blank">Banheiro: 4 ideias de paginação para o revestimento.</a></strong>
+>   <strong><a href="http://www.trololodemulher.com.br/2014/06/25/banheiro-revestimento/" target="_blank" rel="noopener noreferrer">Banheiro: 4 ideias de paginação para o revestimento.</a></strong>
 > </p>
 
 <p align="center">
@@ -150,15 +147,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cozinha-decoracao-dicas/" target="_blank"><strong>Cozinha inteligente, prática e funcional: dicas profissionais</strong></a>
+  <a href="http://www.decoracaodacasa.com/cozinha-decoracao-dicas/" target="_blank" rel="noopener noreferrer"><strong>Cozinha inteligente, prática e funcional: dicas profissionais</strong></a>
 </p>
 
 <p align="justify">
-  A equipe da MA Arquitetura está em Recife, atuando lindamente na área de design de interiores, elaborando projetos que tenham a ver com você, sua vida e seu estilo. O resultado do trabalho lindo de viver desse pessoal pode ser conferido em <a href="http://www.maarquitetura.net/" target="_blank">seu site, clicando bem aqui</a>. Além do mais, no <a href="https://www.facebook.com/maarquitetura/timeline" target="_blank">Facebook você pode curtir a fanpage</a> desses queridos e ficar por dentro de ideias e inspirações incríveis pra viver bem em sua casa, seu ninho, seu mundo.
+  A equipe da MA Arquitetura está em Recife, atuando lindamente na área de design de interiores, elaborando projetos que tenham a ver com você, sua vida e seu estilo. O resultado do trabalho lindo de viver desse pessoal pode ser conferido em <a href="http://www.maarquitetura.net/" target="_blank" rel="noopener noreferrer">seu site, clicando bem aqui</a>. Além do mais, no <a href="https://www.facebook.com/maarquitetura/timeline" target="_blank" rel="noopener noreferrer">Facebook você pode curtir a fanpage</a> desses queridos e ficar por dentro de ideias e inspirações incríveis pra viver bem em sua casa, seu ninho, seu mundo.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

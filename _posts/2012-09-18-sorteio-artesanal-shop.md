@@ -1,10 +1,7 @@
 ---
-id: 3186
 title: Houve sorteio nos bastidores do Bicha Fêmea… e haverá mais!
-date: 2012-09-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/09/18/sorteio-artesanal-shop/
 permalink: /2012/09/18/sorteio-artesanal-shop/
 categories:
   - Dicas de Decoração
@@ -33,13 +30,13 @@ Como assim você não navega pelos bastidores do **Bicha Fêmea**, bonita?! Pois
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/07/31/artesanal-shop-loja-decoracao/artesanal-shop/" rel="attachment wp-att-8955"><img class="alignnone size-full wp-image-8955" title="ARTESANAL SHOP" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/ARTESANAL-SHOP.png" alt="" width="600" height="265" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/31/artesanal-shop-loja-decoracao/artesanal-shop/" rel="attachment wp-att-8955"><img class="alignnone size-full wp-image-8955" title="ARTESANAL SHOP" src="https://www.trololodemulher.com.br/2012/07/ARTESANAL-SHOP.png" alt="" width="600" height="265" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Já escrevi sobre a loja no Bicha Fêmea <strong><a href="http://www.trololodemulher.com.br/2012/07/31/artesanal-shop-loja-decoracao/">aqui</a></strong>. Se quiser conhecer a empresa ainda mais de perto, pode <strong><a href="http://www.artesanalshop.com.br/" target="_blank">clicar aqui</a></strong>.
+  Já escrevi sobre a loja no Bicha Fêmea <strong><a href="http://www.trololodemulher.com.br/2012/07/31/artesanal-shop-loja-decoracao/">aqui</a></strong>. Se quiser conhecer a empresa ainda mais de perto, pode <strong><a href="http://www.artesanalshop.com.br/" target="_blank" rel="noopener noreferrer">clicar aqui</a></strong>.
 </p>
 
 <p align="center">
@@ -49,7 +46,7 @@ Como assim você não navega pelos bastidores do **Bicha Fêmea**, bonita?! Pois
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/09/18/sorteio-artesanal-shop/manta-sofa-artesanal-shop/" rel="attachment wp-att-9134"><img class="alignnone size-full wp-image-9134" title="MANTA-SOFA-ARTESANAL SHOP" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/MANTA-SOFA-ARTESANAL-SHOP.jpg" alt="" width="300" height="300" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/09/18/sorteio-artesanal-shop/manta-sofa-artesanal-shop/" rel="attachment wp-att-9134"><img class="alignnone size-full wp-image-9134" title="MANTA-SOFA-ARTESANAL SHOP" src="https://www.trololodemulher.com.br/2012/09/MANTA-SOFA-ARTESANAL-SHOP.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 &nbsp;
@@ -57,7 +54,7 @@ Como assim você não navega pelos bastidores do **Bicha Fêmea**, bonita?! Pois
 Isso mesmo, meninas, uma **<span style="font-size: large;">manta para sofá</span>**. E sabe qual a sortuda que vai receber essa _belezura_ em casa?
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2012/09/18/sorteio-artesanal-shop/resultado-sorteio-mailing/" rel="attachment wp-att-9136"><img class="alignnone size-full wp-image-9136" title="Resultado Sorteio Mailing" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/Resultado-Sorteio-Mailing.png" alt="" width="600" height="266" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/09/18/sorteio-artesanal-shop/resultado-sorteio-mailing/" rel="attachment wp-att-9136"><img class="alignnone size-full wp-image-9136" title="Resultado Sorteio Mailing" src="https://www.trololodemulher.com.br/2012/09/Resultado-Sorteio-Mailing.png" alt="" width="600" height="266" /></a>
 </p>
 
 &nbsp;
@@ -79,13 +76,13 @@ A **<span style="font-size: large;">Neli Rodrigues</span>**!!!!!
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/09/18/sorteio-artesanal-shop/decoracao-casa-toalha-mesa/" rel="attachment wp-att-9131"><img class="alignnone size-full wp-image-9131" title="DECORACAO-CASA-TOALHA-MESA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/DECORACAO-CASA-TOALHA-MESA.png" alt="" width="557" height="524" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/09/18/sorteio-artesanal-shop/decoracao-casa-toalha-mesa/" rel="attachment wp-att-9131"><img class="alignnone size-full wp-image-9131" title="DECORACAO-CASA-TOALHA-MESA" src="https://www.trololodemulher.com.br/2012/09/DECORACAO-CASA-TOALHA-MESA.png" alt="" width="557" height="524" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Viu? É uma <strong><span style="font-size: large;">TOALHA DE MESA DEGRADÊ</span></strong> de 140X220 cm, 100% algodão. A <strong>cor da toalha fica a gosto de quem ganhá-la</strong>, e você pode conferir as cores <strong><a href="http://www.artesanalshop.com.br/toalha-de-mesa-jogo-americano/toalha-de-mesa/toalha-de-mesa-degrade-220.html#" target="_blank">clicando bem aqui</a></strong> e já começar a sonhar com ela deixando sua casa linda de viver, <em>viu</em>?
+  Viu? É uma <strong><span style="font-size: large;">TOALHA DE MESA DEGRADÊ</span></strong> de 140X220 cm, 100% algodão. A <strong>cor da toalha fica a gosto de quem ganhá-la</strong>, e você pode conferir as cores <strong><a href="http://www.artesanalshop.com.br/toalha-de-mesa-jogo-americano/toalha-de-mesa/toalha-de-mesa-degrade-220.html#" target="_blank" rel="noopener noreferrer">clicando bem aqui</a></strong> e já começar a sonhar com ela deixando sua casa linda de viver, <em>viu</em>?
 </p>
 
 &nbsp;
@@ -97,7 +94,7 @@ A **<span style="font-size: large;">Neli Rodrigues</span>**!!!!!
 &nbsp;
 
 <p align="justify">
-  <strong>Visite a loja virtual Artesanal Shop</strong>, <strong><a href="http://www.artesanalshop.com.br/" target="_blank">clicando bem aqui</a></strong>, e responda:
+  <strong>Visite a loja virtual Artesanal Shop</strong>, <strong><a href="http://www.artesanalshop.com.br/" target="_blank" rel="noopener noreferrer">clicando bem aqui</a></strong>, e responda:
 </p>
 
 &nbsp;

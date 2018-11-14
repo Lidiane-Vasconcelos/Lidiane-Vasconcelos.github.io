@@ -1,10 +1,7 @@
 ---
-id: 2973
 title: 5 ideias para uma decoração de quarto ainda mais feminina…
-date: 2011-03-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/03/30/decoracao-quarto-feminino/
 permalink: /2011/03/30/decoracao-quarto-feminino/
 categories:
   - Quarto
@@ -22,7 +19,7 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-quartos.jpg"><img class="alignnone size-full wp-image-6177" title="decoração quartos" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-quartos.jpg" alt="" width="300" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-quartos.jpg"><img class="alignnone size-full wp-image-6177" title="decoração quartos" src="https://www.trololodemulher.com.br/2011/03/decoracao-quartos.jpg" alt="" width="300" height="400" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -34,7 +31,7 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 </p>
 
 <p style="text-align: justify;">
-  As minhas foram dessa forma, sob encomenda, e o resultado me deixou bastante satisfeita. Para quem está na <strong>região de Campinas</strong>, recomendo o pessoal da <strong><a href="http://www.jolyscortinas.com.br/" target="_blank">Joly’s Persianas e Cortinas</a></strong>, cujo atendimento me encantou bastante. Além do mais, eles têm uma variedade de tecidos enorme e o preço é justo. Tudo o que uma bicha fêmea inteligente gosta, busca e merece!
+  As minhas foram dessa forma, sob encomenda, e o resultado me deixou bastante satisfeita. Para quem está na <strong>região de Campinas</strong>, recomendo o pessoal da <strong><a href="http://www.jolyscortinas.com.br/" target="_blank" rel="noopener noreferrer">Joly’s Persianas e Cortinas</a></strong>, cujo atendimento me encantou bastante. Além do mais, eles têm uma variedade de tecidos enorme e o preço é justo. Tudo o que uma bicha fêmea inteligente gosta, busca e merece!
 </p>
 
 <p style="text-align: justify;">
@@ -46,7 +43,7 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-quartos1.jpg"><img class="alignnone size-full wp-image-6179" title="decoração quartos[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-quartos1.jpg" alt="" width="300" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-quartos1.jpg"><img class="alignnone size-full wp-image-6179" title="decoração quartos[1]" src="https://www.trololodemulher.com.br/2011/03/decoracao-quartos1.jpg" alt="" width="300" height="400" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -62,7 +59,7 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-quartos-comoda.jpg"><img class="alignnone size-full wp-image-6178" title="decoração quartos - cômoda" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-quartos-comoda.jpg" alt="" width="600" height="457" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-quartos-comoda.jpg"><img class="alignnone size-full wp-image-6178" title="decoração quartos - cômoda" src="https://www.trololodemulher.com.br/2011/03/decoracao-quartos-comoda.jpg" alt="" width="600" height="457" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -78,7 +75,7 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-quartos2.jpg"><img class="alignnone size-full wp-image-6180" title="decoração quartos[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-quartos2.jpg" alt="" width="300" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-quartos2.jpg"><img class="alignnone size-full wp-image-6180" title="decoração quartos[2]" src="https://www.trololodemulher.com.br/2011/03/decoracao-quartos2.jpg" alt="" width="300" height="400" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -94,15 +91,15 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="200" valign="top">
-      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200.jpg"><img class="alignnone size-thumbnail wp-image-5442" title="Caixa Moa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank">Caixa Moa</a></strong>
+      <strong><a href="https://www.trololodemulher.com.br/2010/11/Caixa-Moa200.jpg"><img class="alignnone size-thumbnail wp-image-5442" title="Caixa Moa200" src="https://www.trololodemulher.com.br/2010/11/Caixa-Moa200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank" rel="noopener noreferrer">Caixa Moa</a></strong>
     </td>
     
     <td style="text-align: center;" width="200" valign="top">
-      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Porta-Absorvente-ou-Cha-Cereja-Florida-200.jpg"><img class="alignnone size-thumbnail wp-image-5305" title="Porta Absorvente ou Chá Cereja Florida 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Porta-Absorvente-ou-Cha-Cereja-Florida-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/absorvente-cha-cereja-florida/" target="_blank">Porta Absorvente Cereja</a></strong>
+      <strong><a href="https://www.trololodemulher.com.br/2010/10/Porta-Absorvente-ou-Cha-Cereja-Florida-200.jpg"><img class="alignnone size-thumbnail wp-image-5305" title="Porta Absorvente ou Chá Cereja Florida 200" src="https://www.trololodemulher.com.br/2010/10/Porta-Absorvente-ou-Cha-Cereja-Florida-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/absorvente-cha-cereja-florida/" target="_blank" rel="noopener noreferrer">Porta Absorvente Cereja</a></strong>
     </td>
     
     <td style="text-align: center;" width="200" valign="top">
-      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-Redonda-Vintage200.jpg"><img class="alignnone size-thumbnail wp-image-5727" title="Caixa Redonda Vintage200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-Redonda-Vintage200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank">Caixa Redonda Vintage</a></strong>
+      <strong><a href="https://www.trololodemulher.com.br/2010/12/Caixa-Redonda-Vintage200.jpg"><img class="alignnone size-thumbnail wp-image-5727" title="Caixa Redonda Vintage200" src="https://www.trololodemulher.com.br/2010/12/Caixa-Redonda-Vintage200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank" rel="noopener noreferrer">Caixa Redonda Vintage</a></strong>
     </td>
   </tr>
 </table>
@@ -110,7 +107,7 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
  
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-quartos3.jpg"><img class="alignnone size-full wp-image-6183" title="decoração quartos[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-quartos3.jpg" alt="" width="300" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-quartos3.jpg"><img class="alignnone size-full wp-image-6183" title="decoração quartos[3]" src="https://www.trololodemulher.com.br/2011/03/decoracao-quartos3.jpg" alt="" width="300" height="400" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -118,7 +115,7 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/almofada-Love.jpg"><img class="alignnone size-full wp-image-4739" title="almofada Love" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/almofada-Love.jpg" alt="" width="400" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/06/almofada-Love.jpg"><img class="alignnone size-full wp-image-4739" title="almofada Love" src="https://www.trololodemulher.com.br/2010/06/almofada-Love.jpg" alt="" width="400" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -132,22 +129,22 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="200" valign="top">
-      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Espelho-Provencal200.jpg"><img class="alignnone size-thumbnail wp-image-5409" title="Espelho Provençal200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Espelho-Provencal200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/">Espelho Provençal</a></strong>
+      <strong><a href="https://www.trololodemulher.com.br/2010/11/Espelho-Provencal200.jpg"><img class="alignnone size-thumbnail wp-image-5409" title="Espelho Provençal200" src="https://www.trololodemulher.com.br/2010/11/Espelho-Provencal200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/">Espelho Provençal</a></strong>
     </td>
     
     <td style="text-align: center;" width="200" valign="top">
-      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Aparador-de-Porta-Scarpin-2-200.jpg"><img class="alignnone size-thumbnail wp-image-5307" title="Aparador de Porta Scarpin 2 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Aparador-de-Porta-Scarpin-2-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-de-porta-scarpin/">Aparador de Porta Scarpin</a></strong>
+      <strong><a href="https://www.trololodemulher.com.br/2010/10/Aparador-de-Porta-Scarpin-2-200.jpg"><img class="alignnone size-thumbnail wp-image-5307" title="Aparador de Porta Scarpin 2 200" src="https://www.trololodemulher.com.br/2010/10/Aparador-de-Porta-Scarpin-2-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-de-porta-scarpin/">Aparador de Porta Scarpin</a></strong>
     </td>
     
     <td style="text-align: center;" width="200" valign="top">
-      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-Bolsinha200.jpg"><img class="alignnone size-thumbnail wp-image-5325" title="Quadro Cenário Bolsinha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-Bolsinha200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/">Quadro Cenário Bolsinha</a></strong>
+      <strong><a href="https://www.trololodemulher.com.br/2010/10/Quadro-Cenario-Bolsinha200.jpg"><img class="alignnone size-thumbnail wp-image-5325" title="Quadro Cenário Bolsinha200" src="https://www.trololodemulher.com.br/2010/10/Quadro-Cenario-Bolsinha200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/">Quadro Cenário Bolsinha</a></strong>
     </td>
   </tr>
 </table>
 
  
 
-Imagens: <a href="http://www.bhg.com/" target="_blank"><strong><em>Better Homes and Gardens</em></strong></a>
+Imagens: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer"><strong><em>Better Homes and Gardens</em></strong></a>
 
 **Mais no Bicha Fêmea…**
 

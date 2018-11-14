@@ -1,10 +1,7 @@
 ---
-id: 2814
 title: Como você lê posts de decoração?
-date: 2010-05-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/05/10/blog-dicas-decoracao/
 permalink: /2010/05/10/blog-dicas-decoracao/
 categories:
   - Trololó
@@ -22,7 +19,7 @@ Sendo assim, não me interesso por referências de decoração excessivamente c�
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/gaiola.jpg"><img class="aligncenter size-medium wp-image-4618" title="gaiola" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/gaiola-300x216.jpg" alt="" width="300" height="216" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/05/gaiola.jpg"><img class="aligncenter size-medium wp-image-4618" title="gaiola" src="https://www.trololodemulher.com.br/2010/05/gaiola-300x216.jpg" alt="" width="300" height="216" /></a>
     </td>
     
     <td>
@@ -32,7 +29,7 @@ Sendo assim, não me interesso por referências de decoração excessivamente c�
 </table>
 
 <p style="text-align: center;">
-  Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+  Imagem: <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>
 </p>
 
 Por que estou escrevendo tudo isso? _Hum_… na verdade, no fundo, esse post é um aviso a alguma bicha fêmea navegante desavisada.
@@ -44,7 +41,7 @@ Vai por mim, e você não vai se arrepender!  É que eu não faço o Bicha Fêm
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/mulheres.jpg"><img class="aligncenter size-medium wp-image-4619" title="mulheres" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/mulheres-300x163.jpg" alt="" width="300" height="163" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/05/mulheres.jpg"><img class="aligncenter size-medium wp-image-4619" title="mulheres" src="https://www.trololodemulher.com.br/2010/05/mulheres-300x163.jpg" alt="" width="300" height="163" /></a>
     </td>
     
     <td>
@@ -54,7 +51,7 @@ Vai por mim, e você não vai se arrepender!  É que eu não faço o Bicha Fêm
 </table>
 
 <p style="text-align: center;">
-  Imagem: <a href="http://www.sxc.hu/profile/biewoef" target="_blank">Hilde Vanstraelen</a> via <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a> 
+  Imagem: <a href="http://www.sxc.hu/profile/biewoef" target="_blank" rel="noopener noreferrer">Hilde Vanstraelen</a> via <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a> 
 </p>
 
 **Ver imagens por si só num blog, sem ler nada, sem trocar informações, experiências e impressões é absorver dados, não é produzir/construir informação, o que é bem diferente! Isso é o que acredito. E você?**

@@ -1,10 +1,7 @@
 ---
-id: 3285
 title: '16 dicas de 6 blogueiras: decore gastando pouco.'
-date: 2014-03-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/03/11/decoracao-barata-2/
 permalink: /2014/03/11/decoracao-barata-2/
 categories:
   - Dicas de Decoração
@@ -24,7 +21,7 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/BLOGUEIRAS-DECORACAO.png"><img class="alignnone size-full wp-image-9956" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/BLOGUEIRAS-DECORACAO.png" alt="BLOGUEIRAS-DECORACAO" width="505" height="497" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/02/BLOGUEIRAS-DECORACAO.png"><img class="alignnone size-full wp-image-9956" src="https://www.trololodemulher.com.br/2014/02/BLOGUEIRAS-DECORACAO.png" alt="BLOGUEIRAS-DECORACAO" width="505" height="497" /></a>
 </p>
 
 &nbsp;
@@ -36,17 +33,17 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/DECORACAO-BARATA-PAREDE-CROCHET.jpg"><img class="alignnone size-full wp-image-9958" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/DECORACAO-BARATA-PAREDE-CROCHET.jpg" alt="DECORACAO-BARATA-PAREDE-CROCHET" width="600" height="463" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/02/DECORACAO-BARATA-PAREDE-CROCHET.jpg"><img class="alignnone size-full wp-image-9958" src="https://www.trololodemulher.com.br/2014/02/DECORACAO-BARATA-PAREDE-CROCHET.jpg" alt="DECORACAO-BARATA-PAREDE-CROCHET" width="600" height="463" /></a>
 </p>
 
 <p align="center">
-  Imagem: <strong><a href="http://www.arquitrecos.com/" target="_blank">Arquitrecos</a></strong>
+  Imagem: <strong><a href="http://www.arquitrecos.com/" target="_blank" rel="noopener noreferrer">Arquitrecos</a></strong>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <em>“E a outra é <strong>crochetar alguns pedaços de crochet filé, com motivos florais, em cores variadas (peças de 15&#215;15 – 15&#215;20, etc), engomar e pendurar na parede da sala, como quadros [2]</strong>&#8230;e ainda, se tiver coragem e tempo, <strong>replicar as cores e motivos nas almofadas da sala [3]</strong>! Mãos arteiras!!!”</em> <strong>Carol Santana | </strong><a href="http://inspiracaodacasa.wordpress.com/" target="_blank"><strong>Inspiração da Casa</strong></a>
+  <em>“E a outra é <strong>crochetar alguns pedaços de crochet filé, com motivos florais, em cores variadas (peças de 15&#215;15 – 15&#215;20, etc), engomar e pendurar na parede da sala, como quadros [2]</strong>&#8230;e ainda, se tiver coragem e tempo, <strong>replicar as cores e motivos nas almofadas da sala [3]</strong>! Mãos arteiras!!!”</em> <strong>Carol Santana | </strong><a href="http://inspiracaodacasa.wordpress.com/" target="_blank" rel="noopener noreferrer"><strong>Inspiração da Casa</strong></a>
 </p>
 
 &nbsp;
@@ -58,11 +55,11 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/DECORACAO-SALA-BARATA-MOVEIS-CUSTOMIZACAO-PINTURA.jpg"><img class="alignnone size-full wp-image-9964" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/DECORACAO-SALA-BARATA-MOVEIS-CUSTOMIZACAO-PINTURA.jpg" alt="DECORACAO-SALA-BARATA-MOVEIS-CUSTOMIZACAO-PINTURA" width="513" height="314" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/02/DECORACAO-SALA-BARATA-MOVEIS-CUSTOMIZACAO-PINTURA.jpg"><img class="alignnone size-full wp-image-9964" src="https://www.trololodemulher.com.br/2014/02/DECORACAO-SALA-BARATA-MOVEIS-CUSTOMIZACAO-PINTURA.jpg" alt="DECORACAO-SALA-BARATA-MOVEIS-CUSTOMIZACAO-PINTURA" width="513" height="314" /></a>
 </p>
 
 <p align="center">
-  Imagem: <strong><a href="http://www.reciclaredecorar.com/" target="_blank">Fabiana Tardochi via Reciclar e Decorar</a></strong>
+  Imagem: <strong><a href="http://www.reciclaredecorar.com/" target="_blank" rel="noopener noreferrer">Fabiana Tardochi via Reciclar e Decorar</a></strong>
 </p>
 
 <p style="text-align: center;">
@@ -70,17 +67,17 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/DECORACAO-SALA-BARATA-MOVEIS-CUSTOMIZACAO-PINTURA2.jpg"><img class="alignnone size-full wp-image-9965" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/DECORACAO-SALA-BARATA-MOVEIS-CUSTOMIZACAO-PINTURA2.jpg" alt="DECORACAO-SALA-BARATA-MOVEIS-CUSTOMIZACAO-PINTURA[2]" width="400" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/02/DECORACAO-SALA-BARATA-MOVEIS-CUSTOMIZACAO-PINTURA2.jpg"><img class="alignnone size-full wp-image-9965" src="https://www.trololodemulher.com.br/2014/02/DECORACAO-SALA-BARATA-MOVEIS-CUSTOMIZACAO-PINTURA2.jpg" alt="DECORACAO-SALA-BARATA-MOVEIS-CUSTOMIZACAO-PINTURA[2]" width="400" height="600" /></a>
 </p>
 
 <p style="text-align: center;">
-  Imagem: <strong><a href="http://www.reciclaredecorar.com/" target="_blank">Fabiana Tardochi via Reciclar e Decorar</a></strong>
+  Imagem: <strong><a href="http://www.reciclaredecorar.com/" target="_blank" rel="noopener noreferrer">Fabiana Tardochi via Reciclar e Decorar</a></strong>
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  <em>“…e como ele ficou depois de lixar e pintar. O buffet tem nas portas uma pintura diferenciada que imita madeira. Depois de tudo pintado de branco eu achei que faltava um pouco de &#8220;personalidade&#8221;, então peguei goma laca incolor, purpurina cobre e purpurina ouro e fiz uma pátina com as duas cores nas portas para ficarem manchadas. O acabamento foi feito com hidrobetume e é o responsável por unificar a cor. Para pintar os móveis eu faço assim: lixo bem até retirar todo o verniz  (se a peça tiver), corrijo as imperfeições com massa acrílica se necessário, lixo novamente, limpo e começo a aplicação de tinta esmalte sintético a base de água com rolinho. Duas ou 3 demãos e o trabalho fica perfeito</em>.” <strong>Fabiana Tardochi | </strong><a href="http://www.reciclaredecorar.com/" target="_blank"><strong>Reciclar e Decorar</strong></a>
+  <em>“…e como ele ficou depois de lixar e pintar. O buffet tem nas portas uma pintura diferenciada que imita madeira. Depois de tudo pintado de branco eu achei que faltava um pouco de &#8220;personalidade&#8221;, então peguei goma laca incolor, purpurina cobre e purpurina ouro e fiz uma pátina com as duas cores nas portas para ficarem manchadas. O acabamento foi feito com hidrobetume e é o responsável por unificar a cor. Para pintar os móveis eu faço assim: lixo bem até retirar todo o verniz  (se a peça tiver), corrijo as imperfeições com massa acrílica se necessário, lixo novamente, limpo e começo a aplicação de tinta esmalte sintético a base de água com rolinho. Duas ou 3 demãos e o trabalho fica perfeito</em>.” <strong>Fabiana Tardochi | </strong><a href="http://www.reciclaredecorar.com/" target="_blank" rel="noopener noreferrer"><strong>Reciclar e Decorar</strong></a>
 </p>
 
 &nbsp;
@@ -92,21 +89,21 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/DECORACAO-VARANDA-BARATA-MOVEIS-CUSTOMIZACAO-TECIDO.jpg"><img class="alignnone size-full wp-image-9966" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/DECORACAO-VARANDA-BARATA-MOVEIS-CUSTOMIZACAO-TECIDO.jpg" alt="DECORACAO-VARANDA-BARATA-MOVEIS-CUSTOMIZACAO-TECIDO" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/02/DECORACAO-VARANDA-BARATA-MOVEIS-CUSTOMIZACAO-TECIDO.jpg"><img class="alignnone size-full wp-image-9966" src="https://www.trololodemulher.com.br/2014/02/DECORACAO-VARANDA-BARATA-MOVEIS-CUSTOMIZACAO-TECIDO.jpg" alt="DECORACAO-VARANDA-BARATA-MOVEIS-CUSTOMIZACAO-TECIDO" width="600" height="450" /></a>
 </p>
 
 <p align="center">
-  Imagem: <strong><a href="http://blogdareforma.wordpress.com/" target="_blank">Lilian Rose (Lilly) via Blog da Reforma</a></strong>
+  Imagem: <strong><a href="http://blogdareforma.wordpress.com/" target="_blank" rel="noopener noreferrer">Lilian Rose (Lilly) via Blog da Reforma</a></strong>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <em>“<strong>Em varandas, por exemplo, lá na minha foi só forrar um sofá que ficou super colorido [8]</strong>: os tons de vermelho e verde junto ao beginho favorecem as plantinhas. Então minha varanda era uma coisa com os tecidos brancos no sofá,  e hoje é super alegre!”</em> <strong>Lilian Rose (Lilly) | </strong><a href="http://blogdareforma.wordpress.com/" target="_blank"><strong>Blog da Reforma</strong></a>
+  <em>“<strong>Em varandas, por exemplo, lá na minha foi só forrar um sofá que ficou super colorido [8]</strong>: os tons de vermelho e verde junto ao beginho favorecem as plantinhas. Então minha varanda era uma coisa com os tecidos brancos no sofá,  e hoje é super alegre!”</em> <strong>Lilian Rose (Lilly) | </strong><a href="http://blogdareforma.wordpress.com/" target="_blank" rel="noopener noreferrer"><strong>Blog da Reforma</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/BLOGUEIRAS-DECORACAO2.png"><img class="alignnone size-full wp-image-9957" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/BLOGUEIRAS-DECORACAO2.png" alt="BLOGUEIRAS-DECORACAO[2]" width="511" height="515" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/02/BLOGUEIRAS-DECORACAO2.png"><img class="alignnone size-full wp-image-9957" src="https://www.trololodemulher.com.br/2014/02/BLOGUEIRAS-DECORACAO2.png" alt="BLOGUEIRAS-DECORACAO[2]" width="511" height="515" /></a>
 </p>
 
 &nbsp;
@@ -118,7 +115,7 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/DECORACAO-SALA-BARATA-ALMOFADAS.jpg"><img class="alignnone size-full wp-image-9959" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/DECORACAO-SALA-BARATA-ALMOFADAS.jpg" alt="DECORACAO-SALA-BARATA-ALMOFADAS" width="600" height="448" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/02/DECORACAO-SALA-BARATA-ALMOFADAS.jpg"><img class="alignnone size-full wp-image-9959" src="https://www.trololodemulher.com.br/2014/02/DECORACAO-SALA-BARATA-ALMOFADAS.jpg" alt="DECORACAO-SALA-BARATA-ALMOFADAS" width="600" height="448" /></a>
 </p>
 
 <p align="center">
@@ -128,11 +125,11 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/DECORACAO-SALA-BARATA-ALMOFADAS2.jpg"><img class="alignnone size-full wp-image-9960" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/DECORACAO-SALA-BARATA-ALMOFADAS2.jpg" alt="DECORACAO-SALA-BARATA-ALMOFADAS[2]" width="600" height="448" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/02/DECORACAO-SALA-BARATA-ALMOFADAS2.jpg"><img class="alignnone size-full wp-image-9960" src="https://www.trololodemulher.com.br/2014/02/DECORACAO-SALA-BARATA-ALMOFADAS2.jpg" alt="DECORACAO-SALA-BARATA-ALMOFADAS[2]" width="600" height="448" /></a>
 </p>
 
 <p align="center">
-  <em>“&#8230;.e depois com almofadas em tons de azul, tapete e manta amarela</em>” Imagens: <strong><a href="http://casadebonecadecor.blogspot.com.br/" target="_blank">Vânia Pinho via Casa de Boneca Decor</a></strong>
+  <em>“&#8230;.e depois com almofadas em tons de azul, tapete e manta amarela</em>” Imagens: <strong><a href="http://casadebonecadecor.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Vânia Pinho via Casa de Boneca Decor</a></strong>
 </p>
 
 &nbsp;
@@ -144,17 +141,17 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/DECORACAO-SALA-BARATA-CUSTOMIZACAO-PINTURA-GARRAFAS.jpg"><img class="alignnone size-full wp-image-9961" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/DECORACAO-SALA-BARATA-CUSTOMIZACAO-PINTURA-GARRAFAS.jpg" alt="DECORACAO-SALA-BARATA-CUSTOMIZACAO-PINTURA-GARRAFAS" width="448" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/02/DECORACAO-SALA-BARATA-CUSTOMIZACAO-PINTURA-GARRAFAS.jpg"><img class="alignnone size-full wp-image-9961" src="https://www.trololodemulher.com.br/2014/02/DECORACAO-SALA-BARATA-CUSTOMIZACAO-PINTURA-GARRAFAS.jpg" alt="DECORACAO-SALA-BARATA-CUSTOMIZACAO-PINTURA-GARRAFAS" width="448" height="600" /></a>
 </p>
 
 <p align="center">
-  Imagem: <strong><a href="http://casadebonecadecor.blogspot.com.br/" target="_blank">Vânia Pinho via Casa de Boneca Decor</a></strong>
+  Imagem: <strong><a href="http://casadebonecadecor.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Vânia Pinho via Casa de Boneca Decor</a></strong>
 </p>
 
 &nbsp;
 
 <p style="text-align: center;" align="justify">
-  <em>“Tenho aqui em casa um cantinho com minhas garrafinhas recicladas.”</em> <strong>Vânia Pinho | </strong><a href="http://casadebonecadecor.blogspot.com.br/" target="_blank"><strong>Casa de Boneca Decor</strong></a>
+  <em>“Tenho aqui em casa um cantinho com minhas garrafinhas recicladas.”</em> <strong>Vânia Pinho | </strong><a href="http://casadebonecadecor.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>Casa de Boneca Decor</strong></a>
 </p>
 
 &nbsp;
@@ -166,13 +163,13 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: small;">5</span></strong> – <em>“O que eu sempre costumo dizer: o jeito mais barato de renovar um ambiente, é com tinta! Monotonia, mesmice&#8230; <strong>pinta a parede que tudo se renova [11]</strong>! E o melhor, os próprios moradores podem pintar e acabar virando uma farra em família</em>.” <strong>Re Batista | </strong><a href="http://www.casacorpoecia.com/" target="_blank"><strong>Casa Corpo e Cia</strong></a>
+  <strong><span style="font-size: small;">5</span></strong> – <em>“O que eu sempre costumo dizer: o jeito mais barato de renovar um ambiente, é com tinta! Monotonia, mesmice&#8230; <strong>pinta a parede que tudo se renova [11]</strong>! E o melhor, os próprios moradores podem pintar e acabar virando uma farra em família</em>.” <strong>Re Batista | </strong><a href="http://www.casacorpoecia.com/" target="_blank" rel="noopener noreferrer"><strong>Casa Corpo e Cia</strong></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: small;">6</span></strong> – “<em><strong>Reaproveite os móveis: pinte, dê nova função a eles, troque de lugar [12]</strong>. Aposte nas cores para dar uma renovada rápida na decoração: <strong>pinte uma ou duas paredes [13]</strong>, isso já vai dar uma renovada na decoração rapidinho e sem você gastar muito $$$. Mude os objetos: <strong>compre almofadas novas, uma manta para o sofá [14]</strong> e voilá, a decoração já vai ficar diferente rapidinho. <strong>Mude a posição dos móveis [15]</strong>, experimente uma nova formatação para o ambiente. <strong>Invista em flores e plantas [16]</strong> para dar vida e graça na decoração</em>” <strong>Isabela Kastrup | </strong><a href="http://www.arrumadissimo.com.br/" target="_blank"><strong>Arrumadíssimo</strong></a>
+  <strong><span style="font-size: small;">6</span></strong> – “<em><strong>Reaproveite os móveis: pinte, dê nova função a eles, troque de lugar [12]</strong>. Aposte nas cores para dar uma renovada rápida na decoração: <strong>pinte uma ou duas paredes [13]</strong>, isso já vai dar uma renovada na decoração rapidinho e sem você gastar muito $$$. Mude os objetos: <strong>compre almofadas novas, uma manta para o sofá [14]</strong> e voilá, a decoração já vai ficar diferente rapidinho. <strong>Mude a posição dos móveis [15]</strong>, experimente uma nova formatação para o ambiente. <strong>Invista em flores e plantas [16]</strong> para dar vida e graça na decoração</em>” <strong>Isabela Kastrup | </strong><a href="http://www.arrumadissimo.com.br/" target="_blank" rel="noopener noreferrer"><strong>Arrumadíssimo</strong></a>
 </p>
 
 &nbsp;
@@ -196,11 +193,11 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-4/" target="_blank"><strong><span style="font-size: small;">Inove da decoração do seu quarto sem sair do orçamento!</span></strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-4/" target="_blank" rel="noopener noreferrer"><strong><span style="font-size: small;">Inove da decoração do seu quarto sem sair do orçamento!</span></strong></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

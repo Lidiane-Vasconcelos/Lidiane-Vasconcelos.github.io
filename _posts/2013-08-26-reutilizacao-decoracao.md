@@ -1,10 +1,7 @@
 ---
-id: 3254
 title: 'Reutilização de móveis e objetos na decoração: questão de estilo'
-date: 2013-08-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/08/26/reutilizacao-decoracao/
 permalink: /2013/08/26/reutilizacao-decoracao/
 categories:
   - Decoração
@@ -27,31 +24,31 @@ E quando a reutilização vai além e o que está sendo reaproveitado ganha uma 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/08/DECORACAO-REUTILIZACAO-CAIXOTE-CRIADO-MUDO.jpg"><img class="alignnone size-full wp-image-9729" alt="DECORACAO-REUTILIZACAO-CAIXOTE-CRIADO MUDO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/08/DECORACAO-REUTILIZACAO-CAIXOTE-CRIADO-MUDO.jpg" width="580" height="477" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/08/DECORACAO-REUTILIZACAO-CAIXOTE-CRIADO-MUDO.jpg"><img class="alignnone size-full wp-image-9729" alt="DECORACAO-REUTILIZACAO-CAIXOTE-CRIADO MUDO" src="https://www.trololodemulher.com.br/2013/08/DECORACAO-REUTILIZACAO-CAIXOTE-CRIADO-MUDO.jpg" width="580" height="477" /></a>
 </p>
 
 <p align="center">
-  <strong>Caixote de frutas</strong> agora é <strong>criado mudo</strong> na casa da <strong>Vero Kraemer | <a href="http://alemdaruaatelier.com.br/" target="_blank">Além da Rua Atelier</a></strong>
+  <strong>Caixote de frutas</strong> agora é <strong>criado mudo</strong> na casa da <strong>Vero Kraemer | <a href="http://alemdaruaatelier.com.br/" target="_blank" rel="noopener noreferrer">Além da Rua Atelier</a></strong>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/08/DECORACAO-REUTILIZACAO-PENTEADEIRA-MESA-APOIO.jpg"><img class="alignnone size-full wp-image-9731" alt="DECORACAO-REUTILIZACAO-PENTEADEIRA-MESA APOIO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/08/DECORACAO-REUTILIZACAO-PENTEADEIRA-MESA-APOIO.jpg" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/08/DECORACAO-REUTILIZACAO-PENTEADEIRA-MESA-APOIO.jpg"><img class="alignnone size-full wp-image-9731" alt="DECORACAO-REUTILIZACAO-PENTEADEIRA-MESA APOIO" src="https://www.trololodemulher.com.br/2013/08/DECORACAO-REUTILIZACAO-PENTEADEIRA-MESA-APOIO.jpg" width="600" height="450" /></a>
 </p>
 
 <p align="center">
-  <strong>Penteadeira</strong> (com espelho abaixado) agora é <strong>mesa de apoio</strong> na casa da <strong>Rosângela Mira | <a href="http://www.amigadamoda1.com/" target="_blank">Amiga da Moda</a></strong>
+  <strong>Penteadeira</strong> (com espelho abaixado) agora é <strong>mesa de apoio</strong> na casa da <strong>Rosângela Mira | <a href="http://www.amigadamoda1.com/" target="_blank" rel="noopener noreferrer">Amiga da Moda</a></strong>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/08/DECORACAO-REUTILIZACAO-PORTA-CABECEIRA.jpg"><img class="alignnone size-full wp-image-9734" alt="DECORACAO-REUTILIZACAO-PORTA-CABECEIRA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/08/DECORACAO-REUTILIZACAO-PORTA-CABECEIRA.jpg" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/08/DECORACAO-REUTILIZACAO-PORTA-CABECEIRA.jpg"><img class="alignnone size-full wp-image-9734" alt="DECORACAO-REUTILIZACAO-PORTA-CABECEIRA" src="https://www.trololodemulher.com.br/2013/08/DECORACAO-REUTILIZACAO-PORTA-CABECEIRA.jpg" width="600" height="450" /></a>
 </p>
 
 <p align="center">
-  <strong>Porta</strong> virou <strong>cabeceira </strong>na casa da <strong>Margaret | </strong><a href="http://www.margaretss.com.br/" target="_blank"><strong>Margaretss</strong></a>
+  <strong>Porta</strong> virou <strong>cabeceira </strong>na casa da <strong>Margaret | </strong><a href="http://www.margaretss.com.br/" target="_blank" rel="noopener noreferrer"><strong>Margaretss</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/08/DECORACAO-REUTILIZACAO-PENTEADEIRA.jpg"><img class="alignnone size-full wp-image-9730" alt="DECORACAO-REUTILIZACAO-PENTEADEIRA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/08/DECORACAO-REUTILIZACAO-PENTEADEIRA.jpg" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/08/DECORACAO-REUTILIZACAO-PENTEADEIRA.jpg"><img class="alignnone size-full wp-image-9730" alt="DECORACAO-REUTILIZACAO-PENTEADEIRA" src="https://www.trololodemulher.com.br/2013/08/DECORACAO-REUTILIZACAO-PENTEADEIRA.jpg" width="600" height="450" /></a>
 </p>
 
 <p align="center">
@@ -65,11 +62,11 @@ E quando a reutilização vai além e o que está sendo reaproveitado ganha uma 
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-de-jardins/" target="_blank"><strong><span style="font-size: large;">Decoração de jardins com objetos reutilizados</span></strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-de-jardins/" target="_blank" rel="noopener noreferrer"><strong><span style="font-size: large;">Decoração de jardins com objetos reutilizados</span></strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/reutilizacao-de-objetos/" target="_blank"><strong><span style="font-size: large;">Reutilização de objetos com novos usos</span></strong></a>
+  <a href="http://www.decoracaodacasa.com/reutilizacao-de-objetos/" target="_blank" rel="noopener noreferrer"><strong><span style="font-size: large;">Reutilização de objetos com novos usos</span></strong></a>
 </p>
 
 <p align="center">
@@ -79,7 +76,7 @@ E quando a reutilização vai além e o que está sendo reaproveitado ganha uma 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -94,13 +91,13 @@ E quando a reutilização vai além e o que está sendo reaproveitado ganha uma 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

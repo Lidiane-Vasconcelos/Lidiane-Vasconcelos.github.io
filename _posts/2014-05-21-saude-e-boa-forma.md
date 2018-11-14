@@ -1,10 +1,7 @@
 ---
-id: 3297
 title: Você quer saúde e boa forma mas…não gosta de academia.
-date: 2014-05-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/05/21/saude-e-boa-forma/
 permalink: /2014/05/21/saude-e-boa-forma/
 categories:
   - Publieditorial
@@ -25,7 +22,7 @@ Xiii… e agora? Essa parece ser uma equação bem difícil de ser resolvida, n�
 </p>
 
 <p style="text-align: center;" align="justify">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/05/Central-Fitness-SAO-PAULO.jpg"><img class="alignnone size-full wp-image-10038" alt="Central Fitness-SAO PAULO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/05/Central-Fitness-SAO-PAULO.jpg" width="338" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/05/Central-Fitness-SAO-PAULO.jpg"><img class="alignnone size-full wp-image-10038" alt="Central Fitness-SAO PAULO" src="https://www.trololodemulher.com.br/2014/05/Central-Fitness-SAO-PAULO.jpg" width="338" height="600" /></a>
 </p>
 
 <p align="justify">
@@ -33,11 +30,11 @@ Xiii… e agora? Essa parece ser uma equação bem difícil de ser resolvida, n�
 </p>
 
 <p style="text-align: center;" align="justify">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/05/Central-Fitness-SAO-PAULO2.jpg"><img class="alignnone size-full wp-image-10039" alt="Central Fitness-SAO PAULO[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/05/Central-Fitness-SAO-PAULO2.jpg" width="600" height="338" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/05/Central-Fitness-SAO-PAULO2.jpg"><img class="alignnone size-full wp-image-10039" alt="Central Fitness-SAO PAULO[2]" src="https://www.trololodemulher.com.br/2014/05/Central-Fitness-SAO-PAULO2.jpg" width="600" height="338" /></a>
 </p>
 
 <p align="justify">
-  Então, oh: bichas fêmeas paulistanas, essa é a hora de ficar bonitona e saudável de um jeito bem difernte de tudo que você imaginou. Curtiu? Conheça mais sobre a <strong>Central Fitness</strong> visitando o <strong><a href="http://www.dennyfitnesscenter.com.br/" target="_blank">site aqui</a></strong>, a <strong><a href="https://www.facebook.com/centralfitnesstudio?fref=ts" target="_blank">página do Facebook aqui</a></strong>, no endereço deles – <strong>Rua Santa Terezinha, 362, Largo do Socorro, São Paulo</strong> – , ou ainda pelo telefone <strong>(11) 5523-9309</strong>.
+  Então, oh: bichas fêmeas paulistanas, essa é a hora de ficar bonitona e saudável de um jeito bem difernte de tudo que você imaginou. Curtiu? Conheça mais sobre a <strong>Central Fitness</strong> visitando o <strong><a href="http://www.dennyfitnesscenter.com.br/" target="_blank" rel="noopener noreferrer">site aqui</a></strong>, a <strong><a href="https://www.facebook.com/centralfitnesstudio?fref=ts" target="_blank" rel="noopener noreferrer">página do Facebook aqui</a></strong>, no endereço deles – <strong>Rua Santa Terezinha, 362, Largo do Socorro, São Paulo</strong> – , ou ainda pelo telefone <strong>(11) 5523-9309</strong>.
 </p>
 
 <p align="justify">

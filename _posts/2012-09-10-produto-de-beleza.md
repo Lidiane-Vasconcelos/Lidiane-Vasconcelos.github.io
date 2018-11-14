@@ -1,10 +1,7 @@
 ---
-id: 3183
 title: Qual produto de beleza vale a pena experimentar?
-date: 2012-09-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/09/10/produto-de-beleza/
 permalink: /2012/09/10/produto-de-beleza/
 categories:
   - Beleza
@@ -24,7 +21,7 @@ Todas nós gostamos de experimentar produtos de beleza, certo? Quando esse produ
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9110" rel="attachment wp-att-9110"><img class="alignnone size-full wp-image-9110" title="PRODUTOS-BELEZA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/PRODUTOS-BELEZA.png" alt="" width="301" height="296" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9110" rel="attachment wp-att-9110"><img class="alignnone size-full wp-image-9110" title="PRODUTOS-BELEZA" src="https://www.trololodemulher.com.br/2012/09/PRODUTOS-BELEZA.png" alt="" width="301" height="296" /></a>
 </p>
 
 &nbsp;
@@ -36,7 +33,7 @@ Todas nós gostamos de experimentar produtos de beleza, certo? Quando esse produ
 &nbsp;
 
 > <p align="justify">
->   <strong>2</strong> &#8211; “<em>Olá! Estou usando o <strong>bbcream super plus da skin 79</strong> e esse vale a pena experimentar&#8230;  minha pele está super boa com ele&#8230;” </em><strong><a href="http://heidilanzellotti.wordpress.com/" target="_blank">Heidi Lanzellotti</a></strong>
+>   <strong>2</strong> &#8211; “<em>Olá! Estou usando o <strong>bbcream super plus da skin 79</strong> e esse vale a pena experimentar&#8230;  minha pele está super boa com ele&#8230;” </em><strong><a href="http://heidilanzellotti.wordpress.com/" target="_blank" rel="noopener noreferrer">Heidi Lanzellotti</a></strong>
 > </p>
 
 <p align="center">
@@ -53,13 +50,13 @@ Todas nós gostamos de experimentar produtos de beleza, certo? Quando esse produ
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/?attachment_id=9078" rel="attachment wp-att-9078"><img class="alignnone size-full wp-image-9078" title="mulher pensando200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/mulher-pensando200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/09/03/produto-de-beleza-compras/"><span style="font-size: medium;"><br /> Qual o próximo produto de beleza você vai comprar?</span></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/?attachment_id=9078" rel="attachment wp-att-9078"><img class="alignnone size-full wp-image-9078" title="mulher pensando200" src="https://www.trololodemulher.com.br/2012/08/mulher-pensando200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/09/03/produto-de-beleza-compras/"><span style="font-size: medium;"><br /> Qual o próximo produto de beleza você vai comprar?</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2012/08/13/creme-para-a-area-dos-olhos/beleza-produtos-recomendados200/" rel="attachment wp-att-8978"><img class="alignnone size-full wp-image-8978" title="BELEZA-PRODUTOS-RECOMENDADOS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/BELEZA-PRODUTOS-RECOMENDADOS200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/08/06/produto-beleza-recomendado/"><span style="font-size: medium;"><br /> Alguma mulher resiste a uma nova aquisição de beleza?</span></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2012/08/13/creme-para-a-area-dos-olhos/beleza-produtos-recomendados200/" rel="attachment wp-att-8978"><img class="alignnone size-full wp-image-8978" title="BELEZA-PRODUTOS-RECOMENDADOS200" src="https://www.trololodemulher.com.br/2012/08/BELEZA-PRODUTOS-RECOMENDADOS200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/08/06/produto-beleza-recomendado/"><span style="font-size: medium;"><br /> Alguma mulher resiste a uma nova aquisição de beleza?</span></a></strong>
       </p>
     </td>
   </tr>
@@ -67,13 +64,13 @@ Todas nós gostamos de experimentar produtos de beleza, certo? Quando esse produ
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/cosmetica-sustentavel200/" rel="attachment wp-att-8754"><img class="alignnone size-full wp-image-8754" title="COSMETICA SUSTENTAVEL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/COSMETICA-SUSTENTAVEL200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/"><span style="font-size: medium;">Cosmética Sustentável: a natureza agradece, mas a beleza muito mais!</span></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/cosmetica-sustentavel200/" rel="attachment wp-att-8754"><img class="alignnone size-full wp-image-8754" title="COSMETICA SUSTENTAVEL200" src="https://www.trololodemulher.com.br/2012/06/COSMETICA-SUSTENTAVEL200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/"><span style="font-size: medium;">Cosmética Sustentável: a natureza agradece, mas a beleza muito mais!</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/corpo/mel200/" rel="attachment wp-att-8508"><img class="alignnone size-full wp-image-8508" title="MEL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/MEL200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/02/06/beleza/"><span style="font-size: medium;"><br /> Mel: bom para a saúde, melhor ainda para sua beleza…</span></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/corpo/mel200/" rel="attachment wp-att-8508"><img class="alignnone size-full wp-image-8508" title="MEL200" src="https://www.trololodemulher.com.br/2012/01/MEL200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/02/06/beleza/"><span style="font-size: medium;"><br /> Mel: bom para a saúde, melhor ainda para sua beleza…</span></a></strong>
       </p>
     </td>
   </tr>
@@ -81,7 +78,7 @@ Todas nós gostamos de experimentar produtos de beleza, certo? Quando esse produ
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2012/01/02/maos-e-unhas/keka200/" rel="attachment wp-att-8347"><img class="alignnone size-full wp-image-8347" title="Keka200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Keka200.png" alt="" width="200" height="200" /></a> </strong>
+        <strong><a href="http://www.trololodemulher.com.br/2012/01/02/maos-e-unhas/keka200/" rel="attachment wp-att-8347"><img class="alignnone size-full wp-image-8347" title="Keka200" src="https://www.trololodemulher.com.br/2011/12/Keka200.png" alt="" width="200" height="200" /></a> </strong>
       </p>
       
       <p align="center">
@@ -91,7 +88,7 @@ Todas nós gostamos de experimentar produtos de beleza, certo? Quando esse produ
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/corpo/pauline-costa200/" rel="attachment wp-att-8273"><img class="alignnone size-full wp-image-8273" title="pauline-costa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/pauline-costa200.jpg" alt="" width="200" height="200" /></a> </strong>
+        <strong><a href="http://www.trololodemulher.com.br/corpo/pauline-costa200/" rel="attachment wp-att-8273"><img class="alignnone size-full wp-image-8273" title="pauline-costa200" src="https://www.trololodemulher.com.br/2011/12/pauline-costa200.jpg" alt="" width="200" height="200" /></a> </strong>
       </p>
       
       <p align="center">
@@ -106,7 +103,7 @@ Todas nós gostamos de experimentar produtos de beleza, certo? Quando esse produ
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -121,13 +118,13 @@ Todas nós gostamos de experimentar produtos de beleza, certo? Quando esse produ
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

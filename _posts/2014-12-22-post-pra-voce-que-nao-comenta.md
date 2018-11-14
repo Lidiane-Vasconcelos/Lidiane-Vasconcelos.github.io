@@ -1,10 +1,7 @@
 ---
-id: 3380
 title: Post pra você que não comenta…
-date: 2014-12-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/12/22/post-pra-voce-que-nao-comenta/
 permalink: /2014/12/22/post-pra-voce-que-nao-comenta/
 categories:
   - Trololó
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="justify">
-  Então, seja você a leitora mais chegada, ou a mais quietinha, a razão desse blog existir é a sua presença nele, de alguma forma. Aliás, não só por aqui, mas nos outros dois blogs que edito: o <a href="http://www.decoracaodacasa.com/" target="_blank">Decoração da Casa</a> e o <a href="http://www.belezacorpoecia.com/" target="_blank">BelezaCorpo&Cia</a>… você os conhece também? Se não, já está convidada a passar por lá e deixar sua energia positiva também, <em>viu</em>?
+  Então, seja você a leitora mais chegada, ou a mais quietinha, a razão desse blog existir é a sua presença nele, de alguma forma. Aliás, não só por aqui, mas nos outros dois blogs que edito: o <a href="http://www.decoracaodacasa.com/" target="_blank" rel="noopener noreferrer">Decoração da Casa</a> e o <a href="http://www.belezacorpoecia.com/" target="_blank" rel="noopener noreferrer">BelezaCorpo&Cia</a>… você os conhece também? Se não, já está convidada a passar por lá e deixar sua energia positiva também, <em>viu</em>?
 </p>
 
 <p align="justify">
@@ -26,11 +23,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/MENSAGEM-NATAL-MENSAGEM-FIM-DE-ANO-FELIZ-NATAL-FELIZ-ANO-NOVO.jpg"><img class="alignnone size-full wp-image-10668" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/MENSAGEM-NATAL-MENSAGEM-FIM-DE-ANO-FELIZ-NATAL-FELIZ-ANO-NOVO.jpg" alt="MENSAGEM NATAL-MENSAGEM FIM DE ANO-FELIZ NATAL-FELIZ ANO NOVO" width="307" height="578" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/MENSAGEM-NATAL-MENSAGEM-FIM-DE-ANO-FELIZ-NATAL-FELIZ-ANO-NOVO.jpg"><img class="alignnone size-full wp-image-10668" src="https://www.trololodemulher.com.br/2014/12/MENSAGEM-NATAL-MENSAGEM-FIM-DE-ANO-FELIZ-NATAL-FELIZ-ANO-NOVO.jpg" alt="MENSAGEM NATAL-MENSAGEM FIM DE ANO-FELIZ NATAL-FELIZ ANO NOVO" width="307" height="578" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://freestylehippiesoul.tumblr.com/post/104263852304" target="_blank">Free Style Hippie Soul</a>
+  Imagem: <a href="http://freestylehippiesoul.tumblr.com/post/104263852304" target="_blank" rel="noopener noreferrer">Free Style Hippie Soul</a>
 </p>
 
 <p align="justify">
@@ -58,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

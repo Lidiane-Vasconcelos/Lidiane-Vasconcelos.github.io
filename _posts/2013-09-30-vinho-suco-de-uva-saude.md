@@ -1,10 +1,7 @@
 ---
-id: 3265
 title: Vinho e suco de uva oferecem os mesmos benefícios para a saúde?
-date: 2013-09-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/09/30/vinho-suco-de-uva-saude/
 permalink: /2013/09/30/vinho-suco-de-uva-saude/
 categories:
   - Saúde
@@ -53,11 +50,11 @@ Você já deve ter ouvido falar dos inúmeros benefícios para a saúde quando o
 >       </blockquote> 
 >       
 >       <p align="center">
->         <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/VINHO-SUCO-DE-UVA.jpg"><img class="alignnone size-full wp-image-9798" alt="VINHO - SUCO DE UVA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/VINHO-SUCO-DE-UVA.jpg" width="402" height="600" /></a>
+>         <a href="https://www.trololodemulher.com.br/2013/09/VINHO-SUCO-DE-UVA.jpg"><img class="alignnone size-full wp-image-9798" alt="VINHO - SUCO DE UVA" src="https://www.trololodemulher.com.br/2013/09/VINHO-SUCO-DE-UVA.jpg" width="402" height="600" /></a>
 >       </p>
 >       
 >       <p align="center">
->         Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+>         Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em></strong>
 >       </p>
 >       
 >       <p>
@@ -109,11 +106,11 @@ Você já deve ter ouvido falar dos inúmeros benefícios para a saúde quando o
 >           </blockquote>
 >           
 >           <p align="center">
->             <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/NUTRICIONISTA-PAMELA-MIGUEL-SAO-PAULO.png"><img class="alignnone size-full wp-image-9797" alt="NUTRICIONISTA-PAMELA MIGUEL-SAO PAULO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/NUTRICIONISTA-PAMELA-MIGUEL-SAO-PAULO.png" width="518" height="304" /></a>
+>             <a href="https://www.trololodemulher.com.br/2013/09/NUTRICIONISTA-PAMELA-MIGUEL-SAO-PAULO.png"><img class="alignnone size-full wp-image-9797" alt="NUTRICIONISTA-PAMELA MIGUEL-SAO PAULO" src="https://www.trololodemulher.com.br/2013/09/NUTRICIONISTA-PAMELA-MIGUEL-SAO-PAULO.png" width="518" height="304" /></a>
 >           </p>
 >           
 >           <p align="justify">
->             A <strong>Dra. Pâmela Miguel</strong> também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <strong><a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a></strong>. Se joga, informe-se, coma melhor e sinta-se bem.
+>             A <strong>Dra. Pâmela Miguel</strong> também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <strong><a href="http://www.drafernandagranja.com/" target="_blank" rel="noopener noreferrer">blog onde há suas atualizações</a></strong>. Se joga, informe-se, coma melhor e sinta-se bem.
 >           </p>
 >           
 >           <p align="center">
@@ -133,7 +130,7 @@ Você já deve ter ouvido falar dos inúmeros benefícios para a saúde quando o
 >           </p>
 >           
 >           <p align="center">
->             <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+>             <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" width="600" height="59" /></a>
 >           </p>
 >           
 >           <p>
@@ -156,13 +153,13 @@ Você já deve ter ouvido falar dos inúmeros benefícios para a saúde quando o
 >             <tr>
 >               <td valign="top" width="300">
 >                 <p align="center">
->                   <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+>                   <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" width="49" height="49" /></a>
 >                 </p>
 >               </td>
 >               
 >               <td valign="top" width="300">
 >                 <p align="center">
->                   <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+>                   <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" width="49" height="49" /></a>
 >                 </p>
 >               </td>
 >             </tr>

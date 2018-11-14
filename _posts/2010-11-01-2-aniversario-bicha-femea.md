@@ -1,10 +1,7 @@
 ---
-id: 2899
 title: Mês de aniversário do Bicha Fêmea = super sorteio!
-date: 2010-11-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/11/01/2-aniversario-bicha-femea/
 permalink: /2010/11/01/2-aniversario-bicha-femea/
 categories:
   - Promoção
@@ -30,7 +27,7 @@ Pois é… vai fazer 2 anos, dia 22 de Novembro, que o Bicha Fêmea está no ar 
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/bolo-de-aniversario.jpg"><img class="alignnone size-full wp-image-5364" title="bolo de aniversário" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/bolo-de-aniversario.jpg" alt="" width="512" height="384" /></a></span></em></strong>
+  <strong><em><span style="font-size: medium;"><a href="https://www.trololodemulher.com.br/2010/10/bolo-de-aniversario.jpg"><img class="alignnone size-full wp-image-5364" title="bolo de aniversário" src="https://www.trololodemulher.com.br/2010/10/bolo-de-aniversario.jpg" alt="" width="512" height="384" /></a></span></em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -54,12 +51,12 @@ Pois é… vai fazer 2 anos, dia 22 de Novembro, que o Bicha Fêmea está no ar 
         <em>Quer ganhar um conjunto com duas toalhas de lavabo, importadas dos EUA, e que são super charmosas? Elas são da <strong>Espaço Home</strong>, e para ganhar, entenda como fazer <strong><a href="http://www.trololodemulher.com.br/2010/11/01/parceria-espaco-home/" target="_self">clicando aqui</a></strong>.</em></td> 
         
         <td style="text-align: center;" width="300" valign="top">
-           <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Toalhas-Lavabo-Finger-003200.jpg"><img class="alignnone size-full wp-image-5369" title="Toalhas Lavabo Finger 003200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Toalhas-Lavabo-Finger-003200.jpg" alt="" width="200" height="200" /></a>
+           <a href="https://www.trololodemulher.com.br/2010/10/Toalhas-Lavabo-Finger-003200.jpg"><img class="alignnone size-full wp-image-5369" title="Toalhas Lavabo Finger 003200" src="https://www.trololodemulher.com.br/2010/10/Toalhas-Lavabo-Finger-003200.jpg" alt="" width="200" height="200" /></a>
         </td></tr> 
         
         <tr>
           <td style="text-align: center;" width="300" valign="top">
-             <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Kit-Manta-e-Ursinho-Menina200.jpg"><img class="alignnone size-full wp-image-5372" title="Kit Manta e Ursinho Menina200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Kit-Manta-e-Ursinho-Menina200.jpg" alt="" width="200" height="200" /></a>
+             <a href="https://www.trololodemulher.com.br/2010/10/Kit-Manta-e-Ursinho-Menina200.jpg"><img class="alignnone size-full wp-image-5372" title="Kit Manta e Ursinho Menina200" src="https://www.trololodemulher.com.br/2010/10/Kit-Manta-e-Ursinho-Menina200.jpg" alt="" width="200" height="200" /></a>
           </td>
           
           <td style="text-align: justify;" width="300" valign="top">
@@ -84,12 +81,12 @@ Pois é… vai fazer 2 anos, dia 22 de Novembro, que o Bicha Fêmea está no ar 
                     <em>Quer ter a chance de experimentar uma massagem relaxante ou um peeling de diamante, e ficar ainda mais bonita? Os tratamentos são na <strong>Oligoflora</strong>, e para ganhar, entenda como fazer <strong><a href="http://www.trololodemulher.com.br/2010/11/01/parceria-oligoflora/" target="_self">clicando aqui</a></strong>.</em></td> 
                     
                     <td style="text-align: center;" width="300" valign="top">
-                       <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Oligoflora-Logo200.jpg"><img class="alignnone size-full wp-image-5376" title="Oligoflora Logo200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Oligoflora-Logo200.jpg" alt="" width="200" height="200" /></a>
+                       <a href="https://www.trololodemulher.com.br/2010/10/Oligoflora-Logo200.jpg"><img class="alignnone size-full wp-image-5376" title="Oligoflora Logo200" src="https://www.trololodemulher.com.br/2010/10/Oligoflora-Logo200.jpg" alt="" width="200" height="200" /></a>
                     </td></tr> 
                     
                     <tr>
                       <td style="text-align: center;" width="300" valign="top">
-                         <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Chaveiro-Closone-Acessorios200.jpg"><img class="alignnone size-full wp-image-5380" title="Chaveiro Closonê Acessórios200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Chaveiro-Closone-Acessorios200.jpg" alt="" width="200" height="200" /></a>
+                         <a href="https://www.trololodemulher.com.br/2010/10/Chaveiro-Closone-Acessorios200.jpg"><img class="alignnone size-full wp-image-5380" title="Chaveiro Closonê Acessórios200" src="https://www.trololodemulher.com.br/2010/10/Chaveiro-Closone-Acessorios200.jpg" alt="" width="200" height="200" /></a>
                       </td>
                       
                       <td style="text-align: justify;" width="300" valign="top">
@@ -114,7 +111,7 @@ Pois é… vai fazer 2 anos, dia 22 de Novembro, que o Bicha Fêmea está no ar 
                                 <em>Quer entrar no clima de Natal com mimos artesanais exclusivos como os que estão neste kit? Isto tudo é da <strong>Catavento Artes</strong>, e para ganhar, entenda como fazer <strong><a href="http://www.trololodemulher.com.br/2010/11/01/parceria-catavento-artes/" target="_self">clicando aqui</a>.</strong></em></td> 
                                 
                                 <td style="text-align: center;" width="300" valign="top">
-                                   <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Kit-Natal-Catavento-Artes200.jpg"><img class="alignnone size-full wp-image-5383" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Kit-Natal-Catavento-Artes200.jpg" alt="" width="200" height="200" /></a>
+                                   <a href="https://www.trololodemulher.com.br/2010/10/Kit-Natal-Catavento-Artes200.jpg"><img class="alignnone size-full wp-image-5383" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2010/10/Kit-Natal-Catavento-Artes200.jpg" alt="" width="200" height="200" /></a>
                                 </td></tr> </tbody> </table> 
                                 
                                 <p style="text-align: justify;">
@@ -134,7 +131,7 @@ Pois é… vai fazer 2 anos, dia 22 de Novembro, que o Bicha Fêmea está no ar 
                                 </p>
                                 
                                 <p style="text-align: justify;">
-                                  <em>Imagem: </em><a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+                                  <em>Imagem: </em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
                                 </p>
                                 
                                 <p style="text-align: center;">

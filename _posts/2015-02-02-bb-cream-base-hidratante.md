@@ -1,10 +1,7 @@
 ---
-id: 3390
 title: 'BB Cream x Base x Hidratante com Cor: qual usar?'
-date: 2015-02-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/02/02/bb-cream-base-hidratante/
 permalink: /2015/02/02/bb-cream-base-hidratante/
 categories:
   - Beleza
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/BELEZA-MAQUIAGEM-BB-CREAM-BASE-HIDRATANTE-COM-COR2.png"><img class="alignnone size-full wp-image-10736" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/BELEZA-MAQUIAGEM-BB-CREAM-BASE-HIDRATANTE-COM-COR2.png" alt="BELEZA-MAQUIAGEM-BB CREAM-BASE-HIDRATANTE COM COR[2]" width="266" height="72" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/BELEZA-MAQUIAGEM-BB-CREAM-BASE-HIDRATANTE-COM-COR2.png"><img class="alignnone size-full wp-image-10736" src="https://www.trololodemulher.com.br/2015/01/BELEZA-MAQUIAGEM-BB-CREAM-BASE-HIDRATANTE-COM-COR2.png" alt="BELEZA-MAQUIAGEM-BB CREAM-BASE-HIDRATANTE COM COR[2]" width="266" height="72" /></a>
 </p>
 
 <p align="justify">
@@ -34,7 +31,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/07/22/bb-cream/" target="_blank"><strong>BB Cream pra cá… BB Cream pra lá…</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/07/22/bb-cream/" target="_blank" rel="noopener noreferrer"><strong>BB Cream pra cá… BB Cream pra lá…</strong></a>
 </p>
 
 <p align="justify">
@@ -62,15 +59,15 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/BELEZA-MAQUIAGEM-BB-CREAM-BASE-HIDRATANTE-COM-COR.jpg"><img class="alignnone size-full wp-image-10732" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/BELEZA-MAQUIAGEM-BB-CREAM-BASE-HIDRATANTE-COM-COR.jpg" alt="BELEZA-MAQUIAGEM-BB CREAM-BASE-HIDRATANTE COM COR" width="566" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/BELEZA-MAQUIAGEM-BB-CREAM-BASE-HIDRATANTE-COM-COR.jpg"><img class="alignnone size-full wp-image-10732" src="https://www.trololodemulher.com.br/2015/01/BELEZA-MAQUIAGEM-BB-CREAM-BASE-HIDRATANTE-COM-COR.jpg" alt="BELEZA-MAQUIAGEM-BB CREAM-BASE-HIDRATANTE COM COR" width="566" height="800" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.cosmopolitan.com/style-beauty/beauty/how-to/a32305/genius-concealer-hacks-every-woman-needs-to-know/" target="_blank">Cosmopolitan</a>
+  Imagem: <a href="http://www.cosmopolitan.com/style-beauty/beauty/how-to/a32305/genius-concealer-hacks-every-woman-needs-to-know/" target="_blank" rel="noopener noreferrer">Cosmopolitan</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/BELEZA-MAQUIAGEM-BB-CREAM-BASE-HIDRATANTE-COM-COR3.png"><img class="alignnone size-full wp-image-10737" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/BELEZA-MAQUIAGEM-BB-CREAM-BASE-HIDRATANTE-COM-COR3.png" alt="BELEZA-MAQUIAGEM-BB CREAM-BASE-HIDRATANTE COM COR[3]" width="132" height="81" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/BELEZA-MAQUIAGEM-BB-CREAM-BASE-HIDRATANTE-COM-COR3.png"><img class="alignnone size-full wp-image-10737" src="https://www.trololodemulher.com.br/2015/01/BELEZA-MAQUIAGEM-BB-CREAM-BASE-HIDRATANTE-COM-COR3.png" alt="BELEZA-MAQUIAGEM-BB CREAM-BASE-HIDRATANTE COM COR[3]" width="132" height="81" /></a>
 </p>
 
 <p align="justify">
@@ -106,7 +103,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/BELEZA-MAQUIAGEM-BB-CREAM-BASE-HIDRATANTE-COM-COR4.png"><img class="alignnone size-full wp-image-10738" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/BELEZA-MAQUIAGEM-BB-CREAM-BASE-HIDRATANTE-COM-COR4.png" alt="BELEZA-MAQUIAGEM-BB CREAM-BASE-HIDRATANTE COM COR[4]" width="524" height="88" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/BELEZA-MAQUIAGEM-BB-CREAM-BASE-HIDRATANTE-COM-COR4.png"><img class="alignnone size-full wp-image-10738" src="https://www.trololodemulher.com.br/2015/01/BELEZA-MAQUIAGEM-BB-CREAM-BASE-HIDRATANTE-COM-COR4.png" alt="BELEZA-MAQUIAGEM-BB CREAM-BASE-HIDRATANTE COM COR[4]" width="524" height="88" /></a>
 </p>
 
 <p align="justify">
@@ -142,15 +139,15 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/CAMILLA-MORAES-MAQUIADORA-HAIR-STYLIST-SAO-PAULO.png"><img class="alignnone size-full wp-image-10734" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/CAMILLA-MORAES-MAQUIADORA-HAIR-STYLIST-SAO-PAULO.png" alt="CAMILLA MORAES-MAQUIADORA-HAIR STYLIST-SAO PAULO" width="800" height="189" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/CAMILLA-MORAES-MAQUIADORA-HAIR-STYLIST-SAO-PAULO.png"><img class="alignnone size-full wp-image-10734" src="https://www.trololodemulher.com.br/2015/01/CAMILLA-MORAES-MAQUIADORA-HAIR-STYLIST-SAO-PAULO.png" alt="CAMILLA MORAES-MAQUIADORA-HAIR STYLIST-SAO PAULO" width="800" height="189" /></a>
 </p>
 
 <p align="justify">
-  Camilla é uma profissional com talento inquestionável. Quer a prova? Dê uma espiadinha no seu portfólio e demais trabalhos de maquiagem para fotos de editoriais de moda&beleza: difícil discordar disso, <em>viu</em>? O melhor de tudo é que se você quer aprender mais com essa moça linda de viver, pode fazer seus cursos de auto maquiagem. Camilla atende em domicílio, faz maquiagens e penteados para festa, casamentos, batizados e demais ocasiões especiais. Vale frisar: ela não atende em salões, somente em domicílio. Para saber todos os detalhes sobre como encontrar a moça, não deixe de visitar o seu site e tomar nota de seus telefones e <em>e-mail</em>. <a href="http://www.camillamoraesmake.com/" target="_blank">Clique aqui e se jogue!</a>
+  Camilla é uma profissional com talento inquestionável. Quer a prova? Dê uma espiadinha no seu portfólio e demais trabalhos de maquiagem para fotos de editoriais de moda&beleza: difícil discordar disso, <em>viu</em>? O melhor de tudo é que se você quer aprender mais com essa moça linda de viver, pode fazer seus cursos de auto maquiagem. Camilla atende em domicílio, faz maquiagens e penteados para festa, casamentos, batizados e demais ocasiões especiais. Vale frisar: ela não atende em salões, somente em domicílio. Para saber todos os detalhes sobre como encontrar a moça, não deixe de visitar o seu site e tomar nota de seus telefones e <em>e-mail</em>. <a href="http://www.camillamoraesmake.com/" target="_blank" rel="noopener noreferrer">Clique aqui e se jogue!</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

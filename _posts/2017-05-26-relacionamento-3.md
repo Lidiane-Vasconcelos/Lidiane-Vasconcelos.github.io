@@ -1,10 +1,7 @@
 ---
-id: 3768
 title: Como um interesse em comum fortalece um relacionamento?
-date: 2017-05-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/05/26/relacionamento-3/
 permalink: /2017/05/26/relacionamento-3/
 categories:
   - Comportamento
@@ -19,35 +16,35 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13857" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/RELACIONAMENTO-CASAMENTO800.jpg" alt="RELACIONAMENTO-CASAMENTO800" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13857" src="https://www.trololodemulher.com.br/2017/05/RELACIONAMENTO-CASAMENTO800.jpg" alt="RELACIONAMENTO-CASAMENTO800" width="800" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/crazyozzy21/8057851412/" target="_blank">chummy_boi</a> via <a href="http://foter.com/re/b4d3c0" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Imagem: <a href="https://www.flickr.com/photos/crazyozzy21/8057851412/" target="_blank" rel="noopener noreferrer">chummy_boi</a> via <a href="http://foter.com/re/b4d3c0" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13846" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/ALEX.png" alt="ALEX" width="701" height="65" />
+  <img class="alignnone size-full wp-image-13846" src="https://www.trololodemulher.com.br/2017/05/ALEX.png" alt="ALEX" width="701" height="65" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13852" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/LIVIA-VIEIRA.jpg" alt="LIVIA VIEIRA" width="613" height="920" />
+  <img class="alignnone size-full wp-image-13852" src="https://www.trololodemulher.com.br/2017/05/LIVIA-VIEIRA.jpg" alt="LIVIA VIEIRA" width="613" height="920" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13853" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/LIVIA-VIEIRA2.jpg" alt="LIVIA VIEIRA[2]" width="591" height="887" />
+  <img class="alignnone size-full wp-image-13853" src="https://www.trololodemulher.com.br/2017/05/LIVIA-VIEIRA2.jpg" alt="LIVIA VIEIRA[2]" width="591" height="887" />
 </p>
 
 <p align="justify">
-  “<em>Meu marido é Educador Físico e já pratica esporte desde a infância. Já fez de um tudo&#8230; foi jogador de futebol, correu Maratona, Triathlon e bike. No momento está praticando esportes variados, mas sem competir. Eu também sempre fiz algum tipo de esporte desde a infância&#8230; já fiz dança, natação, luta, musculação. A corrida entrou na minha vida quando conheci meu marido, e a bike é a última novidade que estou amando! Quando nos conhecemos, meu marido tinha acabado de correr a Maratona do RJ, e estava se preparando para iniciar no Triathlon. Meu início na corrida foi sob orientação dele. Intensificamos a musculação e começamos com treinos intervalados de corrida com caminhada, para eu não sentir muito. Depois acabei pegando gosto e já se foram 3 Meia Maratonas nesse caminho. Fizemos algumas provas de corrida juntos, e os treinos fazíamos nos mesmos dias. É muito gostoso a preparação para as provas juntos, porque tem que ter uma certa disciplina de alimentação, horários de sono e preparo físico. Quando fazemos a dois fica bem mais fácil. Antes de nos conhecermos, apesar de sempre praticar alguma atividade física, eu não era tão disciplinada, principalmente com frequência de treinos e alimentação. Hoje temos uma alimentação balanceada, mas sem exageros. E treinamos regularmente. Ele me incentiva bastante e fazemos tudo juntos! Torna o relacionamento mais gostoso e a cumplicidade entre nós é enorme!”</em> <strong>Lívia Vieira é Médica Ginecologista e Obstetra, de São José do Rio Preto – SP |</strong> <a href="http://www.draliviaavieira.com/" target="_blank">Site</a>, <a href="https://www.facebook.com/draliviaavieira/?ref=page_internal" target="_blank">Fanpage</a> e <a href="https://www.instagram.com/draliviavieiraginecologista/" target="_blank">Instagram</a> da médica.
+  “<em>Meu marido é Educador Físico e já pratica esporte desde a infância. Já fez de um tudo&#8230; foi jogador de futebol, correu Maratona, Triathlon e bike. No momento está praticando esportes variados, mas sem competir. Eu também sempre fiz algum tipo de esporte desde a infância&#8230; já fiz dança, natação, luta, musculação. A corrida entrou na minha vida quando conheci meu marido, e a bike é a última novidade que estou amando! Quando nos conhecemos, meu marido tinha acabado de correr a Maratona do RJ, e estava se preparando para iniciar no Triathlon. Meu início na corrida foi sob orientação dele. Intensificamos a musculação e começamos com treinos intervalados de corrida com caminhada, para eu não sentir muito. Depois acabei pegando gosto e já se foram 3 Meia Maratonas nesse caminho. Fizemos algumas provas de corrida juntos, e os treinos fazíamos nos mesmos dias. É muito gostoso a preparação para as provas juntos, porque tem que ter uma certa disciplina de alimentação, horários de sono e preparo físico. Quando fazemos a dois fica bem mais fácil. Antes de nos conhecermos, apesar de sempre praticar alguma atividade física, eu não era tão disciplinada, principalmente com frequência de treinos e alimentação. Hoje temos uma alimentação balanceada, mas sem exageros. E treinamos regularmente. Ele me incentiva bastante e fazemos tudo juntos! Torna o relacionamento mais gostoso e a cumplicidade entre nós é enorme!”</em> <strong>Lívia Vieira é Médica Ginecologista e Obstetra, de São José do Rio Preto – SP |</strong> <a href="http://www.draliviaavieira.com/" target="_blank" rel="noopener noreferrer">Site</a>, <a href="https://www.facebook.com/draliviaavieira/?ref=page_internal" target="_blank" rel="noopener noreferrer">Fanpage</a> e <a href="https://www.instagram.com/draliviavieiraginecologista/" target="_blank" rel="noopener noreferrer">Instagram</a> da médica.
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13854" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/MOCHILEIROS.png" alt="MOCHILEIROS" width="762" height="62" />
+  <img class="alignnone size-full wp-image-13854" src="https://www.trololodemulher.com.br/2017/05/MOCHILEIROS.png" alt="MOCHILEIROS" width="762" height="62" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13847" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/KATIA-BONFADINI.png" alt="KATIA BONFADINI" width="545" height="778" />
+  <img class="alignnone size-full wp-image-13847" src="https://www.trololodemulher.com.br/2017/05/KATIA-BONFADINI.png" alt="KATIA BONFADINI" width="545" height="778" />
 </p>
 
 <p align="justify">
@@ -55,7 +52,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/KATIA-BONFADINI3.png" alt="KATIA BONFADINI[3]" width="545" height="754" />
+  <img class="alignnone size-full wp-image-13849" src="https://www.trololodemulher.com.br/2017/05/KATIA-BONFADINI3.png" alt="KATIA BONFADINI[3]" width="545" height="754" />
 </p>
 
 <p align="justify">
@@ -63,7 +60,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13850" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/KATIA-BONFADINI4.png" alt="KATIA BONFADINI[4]" width="545" height="751" />
+  <img class="alignnone size-full wp-image-13850" src="https://www.trololodemulher.com.br/2017/05/KATIA-BONFADINI4.png" alt="KATIA BONFADINI[4]" width="545" height="751" />
 </p>
 
 <p align="justify">
@@ -71,7 +68,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13851" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/KATIA-BONFADINI5.png" alt="KATIA BONFADINI[5]" width="545" height="336" />
+  <img class="alignnone size-full wp-image-13851" src="https://www.trololodemulher.com.br/2017/05/KATIA-BONFADINI5.png" alt="KATIA BONFADINI[5]" width="545" height="336" />
 </p>
 
 <p align="justify">
@@ -79,7 +76,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13848" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/KATIA-BONFADINI2.png" alt="KATIA BONFADINI[2]" width="545" height="371" />
+  <img class="alignnone size-full wp-image-13848" src="https://www.trololodemulher.com.br/2017/05/KATIA-BONFADINI2.png" alt="KATIA BONFADINI[2]" width="545" height="371" />
 </p>
 
 <p align="justify">
@@ -87,11 +84,11 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Não, os principais ingredientes são a cumplicidade, o respeito, a admiração e os valores que temos em comum. Acho que gostar de viajar é um dos interesses que compartilhamos. É maravilhoso poder dividir com quem você ama os momentos mais mágicos da sua vida! E é isso o que sinto quando vivenciamos experiências culturais tão ricas em outros cantos do mundo</em>.” <strong>Kátia Bonfadini é Designer Gráfico, do Rio de Janeiro – RJ, de mente inquieta e que respira criatividade</strong>. Conheça o <a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank">blog Casos e Coisas da Bonfa</a>, onde a moça conta sobre suas viagens, comes e bebes, festas e <em>lifestyle</em> | <a href="http://www.katiabonfadini.com.br/" target="_blank">Site (Portifólio)</a>, <a href="https://www.facebook.com/casosecoisasdabonfa/" target="_blank">Fanpage</a> e <a href="https://www.instagram.com/" target="_blank">Instagram</a> da criativa.
+  “<em>Não, os principais ingredientes são a cumplicidade, o respeito, a admiração e os valores que temos em comum. Acho que gostar de viajar é um dos interesses que compartilhamos. É maravilhoso poder dividir com quem você ama os momentos mais mágicos da sua vida! E é isso o que sinto quando vivenciamos experiências culturais tão ricas em outros cantos do mundo</em>.” <strong>Kátia Bonfadini é Designer Gráfico, do Rio de Janeiro – RJ, de mente inquieta e que respira criatividade</strong>. Conheça o <a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank" rel="noopener noreferrer">blog Casos e Coisas da Bonfa</a>, onde a moça conta sobre suas viagens, comes e bebes, festas e <em>lifestyle</em> | <a href="http://www.katiabonfadini.com.br/" target="_blank" rel="noopener noreferrer">Site (Portifólio)</a>, <a href="https://www.facebook.com/casosecoisasdabonfa/" target="_blank" rel="noopener noreferrer">Fanpage</a> e <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">Instagram</a> da criativa.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

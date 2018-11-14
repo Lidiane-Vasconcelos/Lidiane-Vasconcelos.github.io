@@ -1,10 +1,7 @@
 ---
-id: 3657
 title: 'Quarto infantil: como brincar com as cores?'
-date: 2016-09-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/09/05/quarto-infantil/
 permalink: /2016/09/05/quarto-infantil/
 categories:
   - Casa
@@ -22,7 +19,7 @@ categories:
 <!--more-->
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12885" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/DECORACAO-QUARTO-INFANTIL-CORES.jpg" alt="DECORACAO-QUARTO-INFANTIL-CORES" width="600" height="864" />
+  <img class="alignnone size-full wp-image-12885" src="https://www.trololodemulher.com.br/2016/09/DECORACAO-QUARTO-INFANTIL-CORES.jpg" alt="DECORACAO-QUARTO-INFANTIL-CORES" width="600" height="864" />
 </p>
 
 &nbsp;
@@ -33,10 +30,10 @@ categories:
 
 &nbsp;
 
-Imagem: <a href="http://www.homedit.com/" target="_blank"><strong><em>Homedit</em></strong></a>
+Imagem: <a href="http://www.homedit.com/" target="_blank" rel="noopener noreferrer"><strong><em>Homedit</em></strong></a>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

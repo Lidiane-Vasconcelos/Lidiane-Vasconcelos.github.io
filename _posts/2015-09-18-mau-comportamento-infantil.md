@@ -1,10 +1,7 @@
 ---
-id: 3487
 title: O mau comportamento infantil ocorre em sua família?
-date: 2015-09-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/09/18/mau-comportamento-infantil/
 permalink: /2015/09/18/mau-comportamento-infantil/
 categories:
   - Comportamento Infantil
@@ -19,11 +16,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/EDUCACAO-COMPORTAMENTO-INFANTIL.jpg"><img class="alignnone size-full wp-image-11476" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/EDUCACAO-COMPORTAMENTO-INFANTIL.jpg" alt="EDUCACAO-COMPORTAMENTO INFANTIL" width="542" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/EDUCACAO-COMPORTAMENTO-INFANTIL.jpg"><img class="alignnone size-full wp-image-11476" src="https://www.trololodemulher.com.br/2015/09/EDUCACAO-COMPORTAMENTO-INFANTIL.jpg" alt="EDUCACAO-COMPORTAMENTO INFANTIL" width="542" height="800" /></a>
 </p>
 
 <p align="center">
-  Via <b><a href="https://www.flickr.com/photos/pedrosimoes7/20170770335/" target="_blank">pedrosimoes7</a> / <a href="http://foter.com/" target="_blank">Foter</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a></b>
+  Via <b><a href="https://www.flickr.com/photos/pedrosimoes7/20170770335/" target="_blank" rel="noopener noreferrer">pedrosimoes7</a> / <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener noreferrer">CC BY</a></b>
 </p>
 
 <p align="justify">
@@ -83,17 +80,17 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/VIVIAN-HAGEN-PSICOLOGA-INFANTIL-JUIZ-DE-FORA-MG.jpg"><img class="alignnone size-full wp-image-11481" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/VIVIAN-HAGEN-PSICOLOGA-INFANTIL-JUIZ-DE-FORA-MG.jpg" alt="VIVIAN HAGEN-PSICOLOGA INFANTIL-JUIZ DE FORA-MG" width="800" height="173" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/VIVIAN-HAGEN-PSICOLOGA-INFANTIL-JUIZ-DE-FORA-MG.jpg"><img class="alignnone size-full wp-image-11481" src="https://www.trololodemulher.com.br/2015/09/VIVIAN-HAGEN-PSICOLOGA-INFANTIL-JUIZ-DE-FORA-MG.jpg" alt="VIVIAN HAGEN-PSICOLOGA INFANTIL-JUIZ DE FORA-MG" width="800" height="173" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Vívian atualiza um blog repleto de conteúdo para nós, mães ávidas por informação de qualidade que nos ajude a seguir essa jornada deliciosa e complexa, que a de criar e educar nossas crianças. <a href="http://www.vivianhagen.com.br/" target="_blank">Acesse clicando aqui</a> e, para complementar, <a href="https://www.facebook.com/V%C3%ADvian-Hagen-Psic%C3%B3loga-Infantil-1613817495525116/timeline/" target="_blank">curta sua fanpage no facebook</a> e acompanhe as atualizações da profissional por lá também. Vívian atende em Juiz de Fora – MG, e os dados de contato como telefone, endereço, e-mail e horários de atendimento estão no blog. Se houver dificuldade de locomoção até seu consultório, a Psicóloga também atende online. Entre em contato com ela para saber como isso é feito. Caminhando com respeito e amor em família, é certo que qualquer problema pode ser resolvido. Não deixe de procurar ajuda se você sente que é hora de fazer isso, <em>viu</em>?
+  Vívian atualiza um blog repleto de conteúdo para nós, mães ávidas por informação de qualidade que nos ajude a seguir essa jornada deliciosa e complexa, que a de criar e educar nossas crianças. <a href="http://www.vivianhagen.com.br/" target="_blank" rel="noopener noreferrer">Acesse clicando aqui</a> e, para complementar, <a href="https://www.facebook.com/V%C3%ADvian-Hagen-Psic%C3%B3loga-Infantil-1613817495525116/timeline/" target="_blank" rel="noopener noreferrer">curta sua fanpage no facebook</a> e acompanhe as atualizações da profissional por lá também. Vívian atende em Juiz de Fora – MG, e os dados de contato como telefone, endereço, e-mail e horários de atendimento estão no blog. Se houver dificuldade de locomoção até seu consultório, a Psicóloga também atende online. Entre em contato com ela para saber como isso é feito. Caminhando com respeito e amor em família, é certo que qualquer problema pode ser resolvido. Não deixe de procurar ajuda se você sente que é hora de fazer isso, <em>viu</em>?
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

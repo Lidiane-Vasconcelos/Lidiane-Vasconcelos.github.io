@@ -1,10 +1,7 @@
 ---
-id: 3675
 title: 'Mentira na infância: como lidar com essa situação?'
-date: 2016-09-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/09/28/mentira-na-infancia/
 permalink: /2016/09/28/mentira-na-infancia/
 categories:
   - Comportamento Infantil
@@ -15,11 +12,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13013" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/MATERNIDADE-FILHOS-COMPORTAMENTO-INFANTIL-MENTIRA-NA-INFANCIA.jpg" alt="maternidade-filhos-comportamento-infantil-mentira-na-infancia" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13013" src="https://www.trololodemulher.com.br/2016/09/MATERNIDADE-FILHOS-COMPORTAMENTO-INFANTIL-MENTIRA-NA-INFANCIA.jpg" alt="maternidade-filhos-comportamento-infantil-mentira-na-infancia" width="800" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/gestalteando/604554990/" target="_blank">Doug_Dax</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Imagem: <a href="https://www.flickr.com/photos/gestalteando/604554990/" target="_blank" rel="noopener noreferrer">Doug_Dax</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener noreferrer">CC BY</a>
 </p>
 
 <p align="justify">
@@ -115,15 +112,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13012" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/JENIFER-LONGO-PSICOLOGA-SAO-PAULO.jpg" alt="jenifer-longo-psicologa-sao-paulo" width="800" height="151" />
+  <img class="alignnone size-full wp-image-13012" src="https://www.trololodemulher.com.br/2016/09/JENIFER-LONGO-PSICOLOGA-SAO-PAULO.jpg" alt="jenifer-longo-psicologa-sao-paulo" width="800" height="151" />
 </p>
 
 <p align="justify">
-  Jenifer costuma escrever artigos com o objetivo de promover o bem-estar psicológico no contexto familiar, abordando temas como maternidade, desenvolvimento infantil e crianças com necessidades especiais. Esses artigos são publicados nos sites <a href="http://www.psicologiasdobrasil.com.br/author/jenifer-longo/" target="_blank">Psicologias do Brasil</a> e <a href="http://espacopsicologiaefamilia.com.br/blog/author/jeniferlongo/" target="_blank">Espaço Psicologia e Família</a>. Clique e confira os artigos da Psicóloga nessas duas páginas! O espaço Psicologia e Família, inclusive, dispõe de <strong>fanpage no Facebook</strong>. <a href="https://www.facebook.com/espacopsicologiaefamilia/" target="_blank">Clique aqui, curta e acompanhe</a>. Jenifer realiza seus atendimentos em São Paulo, para mais informações você pode entrar em contato pelo e-mail <a href="mailto:jeniferclongo@gmail.com">jeniferclongo@gmail.com</a> ou pelo telefone <strong><em>11 98824-7963</em></strong>.
+  Jenifer costuma escrever artigos com o objetivo de promover o bem-estar psicológico no contexto familiar, abordando temas como maternidade, desenvolvimento infantil e crianças com necessidades especiais. Esses artigos são publicados nos sites <a href="http://www.psicologiasdobrasil.com.br/author/jenifer-longo/" target="_blank" rel="noopener noreferrer">Psicologias do Brasil</a> e <a href="http://espacopsicologiaefamilia.com.br/blog/author/jeniferlongo/" target="_blank" rel="noopener noreferrer">Espaço Psicologia e Família</a>. Clique e confira os artigos da Psicóloga nessas duas páginas! O espaço Psicologia e Família, inclusive, dispõe de <strong>fanpage no Facebook</strong>. <a href="https://www.facebook.com/espacopsicologiaefamilia/" target="_blank" rel="noopener noreferrer">Clique aqui, curta e acompanhe</a>. Jenifer realiza seus atendimentos em São Paulo, para mais informações você pode entrar em contato pelo e-mail <a href="mailto:jeniferclongo@gmail.com">jeniferclongo@gmail.com</a> ou pelo telefone <strong><em>11 98824-7963</em></strong>.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

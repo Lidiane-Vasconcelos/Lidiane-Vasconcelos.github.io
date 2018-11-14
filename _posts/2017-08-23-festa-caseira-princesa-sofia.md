@@ -1,10 +1,7 @@
 ---
-id: 3788
 title: 'Festa caseira princesa sofia: Clarinha faz 3.'
-date: 2017-08-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/08/23/festa-caseira-princesa-sofia/
 permalink: /2017/08/23/festa-caseira-princesa-sofia/
 categories:
   - Festas Infantis
@@ -15,7 +12,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14020" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA" width="800" height="600" />
+  <img class="alignnone size-full wp-image-14020" src="https://www.trololodemulher.com.br/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA" width="800" height="600" />
 </p>
 
 <p align="center">
@@ -31,7 +28,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14021" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA2.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[2]" width="800" height="600" />
+  <img class="alignnone size-full wp-image-14021" src="https://www.trololodemulher.com.br/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA2.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[2]" width="800" height="600" />
 </p>
 
 <p align="center">
@@ -39,7 +36,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14022" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA3.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[3]" width="800" height="600" />
+  <img class="alignnone size-full wp-image-14022" src="https://www.trololodemulher.com.br/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA3.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[3]" width="800" height="600" />
 </p>
 
 <p align="center">
@@ -47,7 +44,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14023" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA4.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[4]" width="800" height="600" />
+  <img class="alignnone size-full wp-image-14023" src="https://www.trololodemulher.com.br/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA4.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[4]" width="800" height="600" />
 </p>
 
 <p align="center">
@@ -55,7 +52,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14024" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA5.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[5]" width="800" height="1067" />
+  <img class="alignnone size-full wp-image-14024" src="https://www.trololodemulher.com.br/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA5.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[5]" width="800" height="1067" />
 </p>
 
 <p align="center">
@@ -63,7 +60,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14025" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA6.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[6]" width="800" height="1067" />
+  <img class="alignnone size-full wp-image-14025" src="https://www.trololodemulher.com.br/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA6.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[6]" width="800" height="1067" />
 </p>
 
 <p align="center">
@@ -71,7 +68,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14026" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA7.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[7]" width="800" height="1067" />
+  <img class="alignnone size-full wp-image-14026" src="https://www.trololodemulher.com.br/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA7.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[7]" width="800" height="1067" />
 </p>
 
 <p align="center">
@@ -79,51 +76,51 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14027" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA8.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[8]" width="800" height="1067" />
+  <img class="alignnone size-full wp-image-14027" src="https://www.trololodemulher.com.br/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA8.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[8]" width="800" height="1067" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14028" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA9.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[9]" width="800" height="600" />
+  <img class="alignnone size-full wp-image-14028" src="https://www.trololodemulher.com.br/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA9.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[9]" width="800" height="600" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14029" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA10.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[10]" width="800" height="1067" />
+  <img class="alignnone size-full wp-image-14029" src="https://www.trololodemulher.com.br/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA10.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[10]" width="800" height="1067" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14030" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA11.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[11]" width="800" height="450" />
+  <img class="alignnone size-full wp-image-14030" src="https://www.trololodemulher.com.br/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA11.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[11]" width="800" height="450" />
 </p>
 
 <p align="center">
-  <em>As flores artificiais, e as peças que serviram de suporte para o bolo, doces e pirulitos, foram alugadas. Todas são da </em><a href="https://www.instagram.com/dreams4kidsfestasrecife/" target="_blank"><em>Dreams4kids Festas Recife</em></a><em>.</em>
+  <em>As flores artificiais, e as peças que serviram de suporte para o bolo, doces e pirulitos, foram alugadas. Todas são da </em><a href="https://www.instagram.com/dreams4kidsfestasrecife/" target="_blank" rel="noopener noreferrer"><em>Dreams4kids Festas Recife</em></a><em>.</em>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14031" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA12.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[12]" width="800" height="1067" />
+  <img class="alignnone size-full wp-image-14031" src="https://www.trololodemulher.com.br/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA12.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[12]" width="800" height="1067" />
 </p>
 
 <p align="center">
-  <em>Bolo de </em><a href="https://www.instagram.com/rogemelocakes/" target="_blank"><em>Roge Melo Cakes</em></a><em>, topo do bolo de </em><a href="https://www.instagram.com/jucruztoposdebolo/" target="_blank"><em>Ju Cruz Topos de bolo</em></a><em>, vela de </em><a href="https://www.instagram.com/torres_catia/" target="_blank"><em>Ateliê Cátia Torres</em></a><em>.</em>
+  <em>Bolo de </em><a href="https://www.instagram.com/rogemelocakes/" target="_blank" rel="noopener noreferrer"><em>Roge Melo Cakes</em></a><em>, topo do bolo de </em><a href="https://www.instagram.com/jucruztoposdebolo/" target="_blank" rel="noopener noreferrer"><em>Ju Cruz Topos de bolo</em></a><em>, vela de </em><a href="https://www.instagram.com/torres_catia/" target="_blank" rel="noopener noreferrer"><em>Ateliê Cátia Torres</em></a><em>.</em>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14032" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA13.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[13]" width="800" height="600" />
+  <img class="alignnone size-full wp-image-14032" src="https://www.trololodemulher.com.br/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA13.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[13]" width="800" height="600" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14033" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA14.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[14]" width="800" height="600" />
+  <img class="alignnone size-full wp-image-14033" src="https://www.trololodemulher.com.br/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA14.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[14]" width="800" height="600" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14034" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA15.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[15]" width="800" height="1067" />
+  <img class="alignnone size-full wp-image-14034" src="https://www.trololodemulher.com.br/2017/08/FESTA-CASEIRA-PRINCESA-SOFIA15.jpeg" alt="FESTA CASEIRA-PRINCESA SOFIA[15]" width="800" height="1067" />
 </p>
 
 <p align="center">
-  <em>A princesa sofia veio pra festa de Clarinha, e ficou mais ou menos 1 hora por lá. Cantou parabéns pra pequena, tirou fotos, dançou e brincou com Clarinha e as amiguinhas. A farra foi com os brinquedos que Clarinha ganhou de presente. A princesa é um dos personagens oferecidos como atração para festas infantis pela </em><a href="https://www.instagram.com/petequinhaeventos/" target="_blank"><em>Petequinha Eventos</em></a><em>.</em>
+  <em>A princesa sofia veio pra festa de Clarinha, e ficou mais ou menos 1 hora por lá. Cantou parabéns pra pequena, tirou fotos, dançou e brincou com Clarinha e as amiguinhas. A farra foi com os brinquedos que Clarinha ganhou de presente. A princesa é um dos personagens oferecidos como atração para festas infantis pela </em><a href="https://www.instagram.com/petequinhaeventos/" target="_blank" rel="noopener noreferrer"><em>Petequinha Eventos</em></a><em>.</em>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="justify">

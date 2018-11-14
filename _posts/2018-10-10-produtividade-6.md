@@ -1,11 +1,8 @@
 ---
-id: 3881
 title: Quer ter mais produtividade? Alimente-se melhor!
-date: 2018-10-10T00:00:00+00:00
-author: admin
+author: Lidiane
 excerpt: Como mãe, precisei focar na minha produtividade para fazer mais em menos tempo, e me alimentar melhor foi fundamental nesse processo. Veja como fiz isso!
 layout: post
-guid: http://localhost/wordpress/2018/10/10/produtividade-6/
 permalink: /2018/10/10/produtividade-6/
 categories:
   - Bem viver
@@ -19,7 +16,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14724" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/10/PRODUTIVIDADE-ALIMENTACAO-SAUDAVEL-ORGANIZACAO-PESSOAL-GESTAO-DO-TEMPO-BLOG.jpg" alt="" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14724" src="https://www.trololodemulher.com.br/2018/10/PRODUTIVIDADE-ALIMENTACAO-SAUDAVEL-ORGANIZACAO-PESSOAL-GESTAO-DO-TEMPO-BLOG.jpg" alt="" width="800" height="800" />
 </p>
 
 <p align="center">

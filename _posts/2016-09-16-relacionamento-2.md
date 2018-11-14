@@ -1,10 +1,7 @@
 ---
-id: 3666
 title: Como encontrar a pessoa certa para um relacionamento?
-date: 2016-09-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/09/16/relacionamento-2/
 permalink: /2016/09/16/relacionamento-2/
 categories:
   - Comportamento
@@ -15,11 +12,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12943" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/COMPORTAMENTO-CASAMENTO-RELACIONAMENTO.jpg" alt="comportamento-casamento-relacionamento" width="751" height="751" />
+  <img class="alignnone size-full wp-image-12943" src="https://www.trololodemulher.com.br/2016/09/COMPORTAMENTO-CASAMENTO-RELACIONAMENTO.jpg" alt="comportamento-casamento-relacionamento" width="751" height="751" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.flickr.com/photos/90389546@N00/" target="_blank">catlovers</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA</a>
+  Imagem: <a href="http://www.flickr.com/photos/90389546@N00/" target="_blank" rel="noopener noreferrer">catlovers</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank" rel="noopener noreferrer">CC BY-SA</a>
 </p>
 
 <p align="justify">
@@ -51,7 +48,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12109" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/ELAINE-SIBINELLI-PSICOLOGA-CAMPINAS.jpg" alt="ELAINE SIBINELLI - PSICOLOGA - CAMPINAS" width="800" height="179" />
+  <img class="alignnone size-full wp-image-12109" src="https://www.trololodemulher.com.br/2016/03/ELAINE-SIBINELLI-PSICOLOGA-CAMPINAS.jpg" alt="ELAINE SIBINELLI - PSICOLOGA - CAMPINAS" width="800" height="179" />
 </p>
 
 <p align="justify">
@@ -59,23 +56,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/08/12/intolerancia/" target="_blank"><strong>Como lidar com a intolerância, nossa e dos outros?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/08/12/intolerancia/" target="_blank" rel="noopener noreferrer"><strong>Como lidar com a intolerância, nossa e dos outros?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/05/13/relacionamento-com-as-pessoas/" target="_blank"><strong>Entenda por que é difícil o relacionamento com as pessoas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/05/13/relacionamento-com-as-pessoas/" target="_blank" rel="noopener noreferrer"><strong>Entenda por que é difícil o relacionamento com as pessoas.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/03/11/autoimagem-feminina/" target="_blank"><strong>Autoimagem feminina: por que mulheres tão insatisfeitas?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/03/11/autoimagem-feminina/" target="_blank" rel="noopener noreferrer"><strong>Autoimagem feminina: por que mulheres tão insatisfeitas?</strong></a>
 </p>
 
 <p align="justify">
-  Elaine atende na Av. Nossa Senhora da Consolação, 768, Jardim Aurélia – Campinas SP. Fones: (19) 3385-8241 ou (19) 99785-5505. Para mais informações junto à Psicóloga você ainda pode entrar em contato pelo e-mail <a href="mailto:sibinelllipsico@gmail.com">sibinelllipsico@gmail.com</a>. Ela também tem <strong>página do Facebook</strong>, onde há atualização de conteúdo sobre comportamento que, certamente, pode ajudar a todas nós. <a href="https://www.facebook.com/ElaineSibinelliPsicologaClinica/timeline" target="_blank">Clique aqui e curta</a>!
+  Elaine atende na Av. Nossa Senhora da Consolação, 768, Jardim Aurélia – Campinas SP. Fones: (19) 3385-8241 ou (19) 99785-5505. Para mais informações junto à Psicóloga você ainda pode entrar em contato pelo e-mail <a href="mailto:sibinelllipsico@gmail.com">sibinelllipsico@gmail.com</a>. Ela também tem <strong>página do Facebook</strong>, onde há atualização de conteúdo sobre comportamento que, certamente, pode ajudar a todas nós. <a href="https://www.facebook.com/ElaineSibinelliPsicologaClinica/timeline" target="_blank" rel="noopener noreferrer">Clique aqui e curta</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

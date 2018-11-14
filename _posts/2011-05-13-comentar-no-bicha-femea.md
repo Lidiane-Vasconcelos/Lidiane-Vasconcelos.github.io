@@ -1,10 +1,7 @@
 ---
-id: 2992
 title: Você tem medo de comentar no Bicha Fêmea?
-date: 2011-05-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/05/13/comentar-no-bicha-femea/
 permalink: /2011/05/13/comentar-no-bicha-femea/
 categories:
   - Trololó
@@ -38,7 +35,7 @@ Está pensando que fiquei louca porque te fiz uma pergunta dessa, não é? Parec
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/medo-de-comentar.jpg"><img class="alignnone size-full wp-image-6357" title="medo de comentar" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/medo-de-comentar.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/medo-de-comentar.jpg"><img class="alignnone size-full wp-image-6357" title="medo de comentar" src="https://www.trololodemulher.com.br/2011/05/medo-de-comentar.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -49,7 +46,7 @@ Está pensando que fiquei louca porque te fiz uma pergunta dessa, não é? Parec
   Agora, veja bem… sem estresse e pressão. Eu fico feliz da vida se você comentar, mas a felicidade é em dobro quando eu sinto que é um comentário espontâneo, sem forçar a barra para isso. Ou você pensa que eu não sinto…ô, se sinto! Até por que, comentar por comentar como quem assina um livro de presença, é <em>tãããão</em> chatinho, não é? Eu não faço isso no blog de ninguém, e não espero isso de você. Eu quero mesmo é que o seu recado seja dado porque você quis, de verdade, deixá-lo por aqui. Combinado?
 </p>
 
-Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+Imagem: **<a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>**
 
 <p style="text-align: center;">
   Receba todo dia, como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>

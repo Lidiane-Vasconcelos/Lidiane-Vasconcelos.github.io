@@ -1,10 +1,7 @@
 ---
-id: 3007
 title: Como organizar um home office?
-date: 2011-06-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/06/06/dicas-organizacao-3/
 permalink: /2011/06/06/dicas-organizacao-3/
 categories:
   - Escritório
@@ -23,7 +20,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/home-office.jpg"><img class="alignnone size-full wp-image-6490" title="home office" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/home-office.jpg" alt="" width="600" height="411" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/home-office.jpg"><img class="alignnone size-full wp-image-6490" title="home office" src="https://www.trololodemulher.com.br/2011/06/home-office.jpg" alt="" width="600" height="411" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -31,7 +28,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Está vendo o escritório de Joanna? Você se reconhece nele de alguma forma? Acho que muita gente se reconhece, para falar a verdade. E foi para ajudar muitas de nós que o caso dessa moça foi publicado <strong><a href="http://www.oprah.com/home/Peter-Walshs-Ten-Steps-to-Home-Office-Organization/1" target="_blank">nesta matéria</a></strong>, no <strong><a href="http://www.oprah.com/index.html" target="_blank">site da Oprah</a></strong>. Vamos aprender as dicas?
+  Está vendo o escritório de Joanna? Você se reconhece nele de alguma forma? Acho que muita gente se reconhece, para falar a verdade. E foi para ajudar muitas de nós que o caso dessa moça foi publicado <strong><a href="http://www.oprah.com/home/Peter-Walshs-Ten-Steps-to-Home-Office-Organization/1" target="_blank" rel="noopener noreferrer">nesta matéria</a></strong>, no <strong><a href="http://www.oprah.com/index.html" target="_blank" rel="noopener noreferrer">site da Oprah</a></strong>. Vamos aprender as dicas?
 </p>
 
 <p style="text-align: center;">
@@ -71,7 +68,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Confira mais ideias possíveis para o seu escritório lendo o <strong><a href="http://www.trololodemulher.com.br/2010/11/12/escritorio-decoracao/" target="_blank">post com soluções simples de decoração e organização para home offices</a></strong> já publicado no Trololó de Mulher.
+  Confira mais ideias possíveis para o seu escritório lendo o <strong><a href="http://www.trololodemulher.com.br/2010/11/12/escritorio-decoracao/" target="_blank" rel="noopener noreferrer">post com soluções simples de decoração e organização para home offices</a></strong> já publicado no Trololó de Mulher.
 </p>
 
 <p style="text-align: center;">
@@ -79,7 +76,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/home-office2.jpg"><img class="alignnone size-full wp-image-6493" title="home office[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/home-office2.jpg" alt="" width="600" height="411" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/home-office2.jpg"><img class="alignnone size-full wp-image-6493" title="home office[2]" src="https://www.trololodemulher.com.br/2011/06/home-office2.jpg" alt="" width="600" height="411" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -103,7 +100,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Imagens: <strong><a href="http://www.oprah.com/index.html" target="_blank">Oprah</a></strong>
+  Imagens: <strong><a href="http://www.oprah.com/index.html" target="_blank" rel="noopener noreferrer">Oprah</a></strong>
 </p>
 
 **Mais no Trololó de Mulher…**
@@ -115,5 +112,5 @@ categories:
 **[Organização de escritório ou home office: dicas.](http://www.trololodemulher.com.br/2009/10/27/organizacao-escritorio/)**
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

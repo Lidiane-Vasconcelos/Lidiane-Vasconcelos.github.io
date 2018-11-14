@@ -1,10 +1,7 @@
 ---
-id: 3842
 title: Quer ser mais produtiva e eficiente na rotina doméstica?
-date: 2017-12-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/12/12/rotina-domestica/
 permalink: /2017/12/12/rotina-domestica/
 categories:
   - Organização
@@ -15,11 +12,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14499" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/ROTINA-DOMESTICA.jpg" alt="ROTINA DOMESTICA" width="800" height="533" />
+  <img class="alignnone size-full wp-image-14499" src="https://www.trololodemulher.com.br/2017/12/ROTINA-DOMESTICA.jpg" alt="ROTINA DOMESTICA" width="800" height="533" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://foter.com/author/a4d011" target="_blank">kaichanvong</a> on <a href="http://foter.com/re/7fed48" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Imagem: <a href="http://foter.com/author/a4d011" target="_blank" rel="noopener noreferrer">kaichanvong</a> on <a href="http://foter.com/re/7fed48" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener noreferrer">CC BY</a>
 </p>
 
 <p align="justify">
@@ -103,9 +100,9 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>

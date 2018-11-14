@@ -1,10 +1,7 @@
 ---
-id: 3648
 title: Veja 6 dicas e evite erros na decoração da sua casa.
-date: 2016-08-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/08/24/erros-na-decoracao/
 permalink: /2016/08/24/erros-na-decoracao/
 categories:
   - Dicas de Decoração
@@ -34,11 +31,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2014/02/13/cores-na-decoracao/" target="_blank"><strong>Cores na decoração: veja 6 respostas e acabe com suas dúvidas!</strong></a>
+  <a href="http://www.bichafemea.com/2014/02/13/cores-na-decoracao/" target="_blank" rel="noopener noreferrer"><strong>Cores na decoração: veja 6 respostas e acabe com suas dúvidas!</strong></a>
 </p>
 
 <p style="text-align: center;" align="justify">
-  <strong>Dica da Wilma Banegas, do blog <a href="http://carinhoecasa.blogspot.com.br/" target="_blank">Carinho e Casa</a>:</strong>
+  <strong>Dica da Wilma Banegas, do blog <a href="http://carinhoecasa.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Carinho e Casa</a>:</strong>
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -50,27 +47,27 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2013/08/07/casa-lar-decoracao/" target="_blank"><strong>Casa é diferente de lar, certo?</strong></a>
+  <a href="http://www.bichafemea.com/2013/08/07/casa-lar-decoracao/" target="_blank" rel="noopener noreferrer"><strong>Casa é diferente de lar, certo?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-da-casa/" target="_blank"><strong>Casa de Tereza Ramos: detalhes pensados para fazer da casa um lar.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-da-casa/" target="_blank" rel="noopener noreferrer"><strong>Casa de Tereza Ramos: detalhes pensados para fazer da casa um lar.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2014/05/15/tua-casa-te-representa/" target="_blank"><strong>Tua casa te representa?</strong></a>
+  <a href="http://www.bichafemea.com/2014/05/15/tua-casa-te-representa/" target="_blank" rel="noopener noreferrer"><strong>Tua casa te representa?</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12833" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-DICAS-DE-DECORACAO.jpg" alt="DECORACAO-DICAS DE DECORACAO" width="494" height="600" />
+  <img class="alignnone size-full wp-image-12833" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-DICAS-DE-DECORACAO.jpg" alt="DECORACAO-DICAS DE DECORACAO" width="494" height="600" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
+  Imagem: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">free images</a>
 </p>
 
 <p align="center">
-  <strong>Dica da Fabiana Tardochi, do blog <a href="http://www.reciclaredecorar.com/" target="_blank">Reciclar e Decorar</a></strong>:
+  <strong>Dica da Fabiana Tardochi, do blog <a href="http://www.reciclaredecorar.com/" target="_blank" rel="noopener noreferrer">Reciclar e Decorar</a></strong>:
 </p>
 
 <p style="text-align: justify;">
@@ -78,7 +75,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <strong>Dica de Nena Lira, do blog <a href="http://lanacasademainha.blogspot.com.br/" target="_blank">Lá na casa de mainha</a>:</strong>
+  <strong>Dica de Nena Lira, do blog <a href="http://lanacasademainha.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Lá na casa de mainha</a>:</strong>
 </p>
 
 <p align="justify">
@@ -86,7 +83,7 @@ categories:
 </p>
 
 <p style="text-align: center;" align="justify">
-  <strong>Dica da Cris Dellani, do blog <a href="http://meupalaciode64m.blogspot.com.br/" target="_blank">Meu palácio de 64m²</a>:</strong>
+  <strong>Dica da Cris Dellani, do blog <a href="http://meupalaciode64m.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Meu palácio de 64m²</a>:</strong>
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -94,5 +91,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

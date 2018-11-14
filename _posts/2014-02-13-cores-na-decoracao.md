@@ -1,10 +1,7 @@
 ---
-id: 3280
 title: 'Cores na decoração: veja 6 respostas e acabe suas dúvidas.'
-date: 2014-02-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/02/13/cores-na-decoracao/
 permalink: /2014/02/13/cores-na-decoracao/
 categories:
   - Dicas de Decoração
@@ -58,11 +55,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/DECORACAO-CORES-2014.jpg"><img class="alignnone size-full wp-image-9921" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/DECORACAO-CORES-2014.jpg" alt="DECORACAO-CORES-2014" width="600" height="484" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/02/DECORACAO-CORES-2014.jpg"><img class="alignnone size-full wp-image-9921" src="https://www.trololodemulher.com.br/2014/02/DECORACAO-CORES-2014.jpg" alt="DECORACAO-CORES-2014" width="600" height="484" /></a>
 </p>
 
 <p style="text-align: center;">
-  Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
@@ -106,7 +103,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/Carol-Carneiro-Designer-Interiores-Belo-Horizonte-MG.png"><img class="alignnone size-full wp-image-9920" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/Carol-Carneiro-Designer-Interiores-Belo-Horizonte-MG.png" alt="Carol Carneiro - Designer Interiores - Belo Horizonte - MG" width="600" height="296" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/02/Carol-Carneiro-Designer-Interiores-Belo-Horizonte-MG.png"><img class="alignnone size-full wp-image-9920" src="https://www.trololodemulher.com.br/2014/02/Carol-Carneiro-Designer-Interiores-Belo-Horizonte-MG.png" alt="Carol Carneiro - Designer Interiores - Belo Horizonte - MG" width="600" height="296" /></a>
 </p>
 
 &nbsp;
@@ -114,7 +111,7 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  Carol Carneiro é uma Designer de Ambientes apaixonada pela reutilização de materiais. No <strong><a href="http://www.blogcarolcarneiro.blogspot.com.br/" target="_blank">blog que ela edita</a></strong> dá para ver muito do que essa<em> superultramega</em> profissional tem produzido, além de suas ideias transformadas em posts. Além disso, tem muito mais na <strong><a href="https://www.facebook.com/pages/Blog-Carol-Carneiro/185450341509448" target="_blank">página da Designer no Facebook</a></strong>, cujo talento pode estar na casa de qualquer um através de projetos e serviços de consultoria de decoração.
+  Carol Carneiro é uma Designer de Ambientes apaixonada pela reutilização de materiais. No <strong><a href="http://www.blogcarolcarneiro.blogspot.com.br/" target="_blank" rel="noopener noreferrer">blog que ela edita</a></strong> dá para ver muito do que essa<em> superultramega</em> profissional tem produzido, além de suas ideias transformadas em posts. Além disso, tem muito mais na <strong><a href="https://www.facebook.com/pages/Blog-Carol-Carneiro/185450341509448" target="_blank" rel="noopener noreferrer">página da Designer no Facebook</a></strong>, cujo talento pode estar na casa de qualquer um através de projetos e serviços de consultoria de decoração.
 </p>
 
 &nbsp;
@@ -122,5 +119,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

@@ -1,10 +1,7 @@
 ---
-id: 3256
 title: 'Decoração de banheiro pequeno para poupar/ganhar espaço: 4 dicas'
-date: 2013-09-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/09/02/decoracao-banheiro-pequeno-2/
 permalink: /2013/09/02/decoracao-banheiro-pequeno-2/
 categories:
   - Banheiro
@@ -15,7 +12,7 @@ categories:
 </p>
 
 <p align="justify">
-  Na hora de reformar/decorar seu banheiro mini, há soluções que podem fazer toda a diferença no dia a dia. Repare nestes detalhes garimpados no site <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a> e providencie a aplicação deles nos seus domínios. Espie e inspire-se!
+  Na hora de reformar/decorar seu banheiro mini, há soluções que podem fazer toda a diferença no dia a dia. Repare nestes detalhes garimpados no site <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a> e providencie a aplicação deles nos seus domínios. Espie e inspire-se!
 </p>
 
 &nbsp;
@@ -25,15 +22,15 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong><a href="http://www.decoracaodacasa.com/decoracao-banheiro/" target="_blank">Dicas e imagens: como maximizar o banheiro.</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/decoracao-banheiro/" target="_blank" rel="noopener noreferrer">Dicas e imagens: como maximizar o banheiro.</a></strong>
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2016/04/05/banheiro-pequeno-2/" target="_blank">Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/04/05/banheiro-pequeno-2/" target="_blank" rel="noopener noreferrer">Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</a></strong>
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2016/02/19/banheiro-pequeno/" target="_blank">Faça seu banheiro pequeno parecer maior com 5 truques.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/02/19/banheiro-pequeno/" target="_blank" rel="noopener noreferrer">Faça seu banheiro pequeno parecer maior com 5 truques.</a></strong>
 </p>
 
 <p align="center">
@@ -43,7 +40,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/DECORACAO-BANHEIRO-PEQUENO.jpg"><img class="alignnone size-full wp-image-9745" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/DECORACAO-BANHEIRO-PEQUENO.jpg" alt="DECORACAO-BANHEIRO-PEQUENO" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/09/DECORACAO-BANHEIRO-PEQUENO.jpg"><img class="alignnone size-full wp-image-9745" src="https://www.trololodemulher.com.br/2013/09/DECORACAO-BANHEIRO-PEQUENO.jpg" alt="DECORACAO-BANHEIRO-PEQUENO" width="450" height="600" /></a>
 </p>
 
 &nbsp;
@@ -57,7 +54,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/" target="_blank">4 passos e sua &#8220;gaveta da bagunça&#8221; ficará impecável!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/" target="_blank" rel="noopener noreferrer">4 passos e sua &#8220;gaveta da bagunça&#8221; ficará impecável!</a></strong>
 </p>
 
 &nbsp;
@@ -69,7 +66,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/DECORACAO-BANHEIRO-PEQUENO2.jpg"><img class="alignnone size-full wp-image-9746" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/DECORACAO-BANHEIRO-PEQUENO2.jpg" alt="DECORACAO-BANHEIRO-PEQUENO[2]" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/09/DECORACAO-BANHEIRO-PEQUENO2.jpg"><img class="alignnone size-full wp-image-9746" src="https://www.trololodemulher.com.br/2013/09/DECORACAO-BANHEIRO-PEQUENO2.jpg" alt="DECORACAO-BANHEIRO-PEQUENO[2]" width="450" height="600" /></a>
 </p>
 
 &nbsp;
@@ -87,7 +84,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/DECORACAO-BANHEIRO-PEQUENO3.jpg"><img class="alignnone size-full wp-image-9747" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/DECORACAO-BANHEIRO-PEQUENO3.jpg" alt="DECORACAO-BANHEIRO-PEQUENO[3]" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/09/DECORACAO-BANHEIRO-PEQUENO3.jpg"><img class="alignnone size-full wp-image-9747" src="https://www.trololodemulher.com.br/2013/09/DECORACAO-BANHEIRO-PEQUENO3.jpg" alt="DECORACAO-BANHEIRO-PEQUENO[3]" width="450" height="600" /></a>
 </p>
 
 &nbsp;
@@ -105,7 +102,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/DECORACAO-BANHEIRO-PEQUENO4.jpg"><img class="alignnone size-full wp-image-9748" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/DECORACAO-BANHEIRO-PEQUENO4.jpg" alt="DECORACAO-BANHEIRO-PEQUENO[4]" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/09/DECORACAO-BANHEIRO-PEQUENO4.jpg"><img class="alignnone size-full wp-image-9748" src="https://www.trololodemulher.com.br/2013/09/DECORACAO-BANHEIRO-PEQUENO4.jpg" alt="DECORACAO-BANHEIRO-PEQUENO[4]" width="450" height="600" /></a>
 </p>
 
 &nbsp;
@@ -119,21 +116,21 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/" target="_blank">4 ideias para decoração de banheiro pequeno.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/" target="_blank" rel="noopener noreferrer">4 ideias para decoração de banheiro pequeno.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/05/25/banheiro-bonito-dicas/" target="_blank">Como deixar o seu banheiro mais bonito em 4 dicas.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/05/25/banheiro-bonito-dicas/" target="_blank" rel="noopener noreferrer">Como deixar o seu banheiro mais bonito em 4 dicas.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/06/25/banheiro-revestimento/" target="_blank">Banheiro e revestimento: 4 ideias de paginação.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/06/25/banheiro-revestimento/" target="_blank" rel="noopener noreferrer">Banheiro e revestimento: 4 ideias de paginação.</a></strong>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>

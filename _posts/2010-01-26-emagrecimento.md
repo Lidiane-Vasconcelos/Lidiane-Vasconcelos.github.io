@@ -1,10 +1,7 @@
 ---
-id: 2772
 title: Emagrecimento e organização
-date: 2010-01-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/01/26/emagrecimento/
 permalink: /2010/01/26/emagrecimento/
 categories:
   - Saúde
@@ -58,7 +55,7 @@ Uma dica para quem realmente quer vencer esse processo, é buscar medidas que a 
 </div>
 
 <div style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/emagrecimento.jpg"><img class="alignnone size-full wp-image-6471" title="emagrecimento" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/emagrecimento.jpg" alt="" width="600" height="800" /></a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/05/emagrecimento.jpg"><img class="alignnone size-full wp-image-6471" title="emagrecimento" src="https://www.trololodemulher.com.br/2011/05/emagrecimento.jpg" alt="" width="600" height="800" /></a></strong>
 </div>
 
 <p style="text-align: justify;">
@@ -86,7 +83,7 @@ Uma dica para quem realmente quer vencer esse processo, é buscar medidas que a 
 </p>
 
 <p style="text-align: justify;">
-  Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  Imagem: <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -95,7 +92,7 @@ Uma dica para quem realmente quer vencer esse processo, é buscar medidas que a 
 
 Psicóloga &#8211; Curitiba
 
-<a href="http://www.comportamentomagro.com.br" target="_blank">WWW.comportamentomagro.com.br</a>
+<a href="http://www.comportamentomagro.com.br" target="_blank" rel="noopener noreferrer">WWW.comportamentomagro.com.br</a>
 
 <p style="text-align: center;">
   <strong>Quer ver seu texto publicado como o de uma bicha fêmea colaboradora? Clique <a href="http://www.trololodemulher.com.br/colabore/">aqui</a> e saiba como!</strong>
@@ -117,7 +114,7 @@ Psicóloga &#8211; Curitiba
 
 **As bichas fêmeas falam&#8230;**
 
-Dicas por parte das bichas fêmeas navegantes não faltam por aqui. Ainda bem! A Luma &#8211; <a href="http://luzdeluma.blogspot.com/" target="_blank">Luz de Luma, yes party!</a> &#8211; deixou alguns _pitacos_ infalíveis, que funcionam com ela, e podem funcionar conosco também, sabia? Olha só:
+Dicas por parte das bichas fêmeas navegantes não faltam por aqui. Ainda bem! A Luma &#8211; <a href="http://luzdeluma.blogspot.com/" target="_blank" rel="noopener noreferrer">Luz de Luma, yes party!</a> &#8211; deixou alguns _pitacos_ infalíveis, que funcionam com ela, e podem funcionar conosco também, sabia? Olha só:
 
 &#8220;_Evitar bebidas que contém cafeína para não aumentar a ansiedade e não ir ao supermercado com fome. São duas dicas que garanto, dão resultado!&#8230;&#8221;_
 
@@ -167,6 +164,6 @@ Gorduras: 5,2 g_
 
 _Receita extraída do livro: Anonymus Gourmet &#8211; Receitas da Família de José Antonio Pinheiros Machado. Editora: L&PM Pocket_
   
-_PS:_ <a href="http://www.minhavida.com.br/conteudo/1684-Barrinha-de-cereais.htm?utm_source=news_mv_rec&amp;utm_medium=10_01_27&amp;utm_term=dest&amp;utm_content=tem1&amp;utm_campaign=barrinha_cereal" target="_blank"><em>Receita</em></a> _extraida do site_ <a href="http://www.minhavida.com.br/" target="_blank"><em>MINHA VIDA</em></a>_.&#8221;_
+_PS:_ <a href="http://www.minhavida.com.br/conteudo/1684-Barrinha-de-cereais.htm?utm_source=news_mv_rec&amp;utm_medium=10_01_27&amp;utm_term=dest&amp;utm_content=tem1&amp;utm_campaign=barrinha_cereal" target="_blank" rel="noopener noreferrer"><em>Receita</em></a> _extraida do site_ <a href="http://www.minhavida.com.br/" target="_blank" rel="noopener noreferrer"><em>MINHA VIDA</em></a>_.&#8221;_
 
 Depois dessa, é ou não é para eu amar esse canto virtual aqui??

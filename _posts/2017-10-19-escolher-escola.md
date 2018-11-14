@@ -1,10 +1,7 @@
 ---
-id: 3816
 title: Sabe como escolher a escola da cria? Leia antes este post.
-date: 2017-10-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/10/19/escolher-escola/
 permalink: /2017/10/19/escolher-escola/
 categories:
   - Comportamento Infantil
@@ -19,15 +16,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/01/30/crianca-escola-bilingue/" target="_blank"><strong>Vale a pena matricular sua criança numa escola bilingue?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/01/30/crianca-escola-bilingue/" target="_blank" rel="noopener noreferrer"><strong>Vale a pena matricular sua criança numa escola bilingue?</strong></a>
 </p>
 
 <p align="center">
-  <img class="size-full wp-image-14281" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/ESCOLHER-ESCOLA-EDUCACAO-INFANTIL.jpg" alt="Merrimack College student Megan Donahue student teaching at the Lawrence Family Development Charter School, in Lawrence, MA on December 7, 2010." width="800" height="617" />
+  <img class="size-full wp-image-14281" src="https://www.trololodemulher.com.br/2017/10/ESCOLHER-ESCOLA-EDUCACAO-INFANTIL.jpg" alt="Merrimack College student Megan Donahue student teaching at the Lawrence Family Development Charter School, in Lawrence, MA on December 7, 2010." width="800" height="617" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/merrimack/5342563541/" target="_blank">Merrimack College</a> via <a href="http://foter.com/re/c63a20" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Imagem: <a href="https://www.flickr.com/photos/merrimack/5342563541/" target="_blank" rel="noopener noreferrer">Merrimack College</a> via <a href="http://foter.com/re/c63a20" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND</a>
 </p>
 
 <p align="justify">
@@ -35,7 +32,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14280" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/escola-ideal.png" alt="escola ideal" width="274" height="63" />
+  <img class="alignnone size-full wp-image-14280" src="https://www.trololodemulher.com.br/2017/10/escola-ideal.png" alt="escola ideal" width="274" height="63" />
 </p>
 
 <p align="justify">
@@ -43,7 +40,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14284" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/indicação.png" alt="indicação" width="317" height="59" />
+  <img class="alignnone size-full wp-image-14284" src="https://www.trololodemulher.com.br/2017/10/indicação.png" alt="indicação" width="317" height="59" />
 </p>
 
 <p align="justify">
@@ -51,7 +48,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14285" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/simplifique.png" alt="simplifique" width="256" height="68" />
+  <img class="alignnone size-full wp-image-14285" src="https://www.trololodemulher.com.br/2017/10/simplifique.png" alt="simplifique" width="256" height="68" />
 </p>
 
 <p align="justify">
@@ -59,7 +56,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14286" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/tecnologia.png" alt="tecnologia" width="229" height="68" />
+  <img class="alignnone size-full wp-image-14286" src="https://www.trololodemulher.com.br/2017/10/tecnologia.png" alt="tecnologia" width="229" height="68" />
 </p>
 
 <p align="justify">
@@ -107,7 +104,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13949" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ELIANE-VOLPE-PSICOPEDAGOGA-CURITIBA-PARANÁ.jpg" alt="ELIANE VOLPE-PSICOPEDAGOGA-CURITIBA-PARANÁ" width="800" height="217" />
+  <img class="alignnone size-full wp-image-13949" src="https://www.trololodemulher.com.br/2017/08/ELIANE-VOLPE-PSICOPEDAGOGA-CURITIBA-PARANÁ.jpg" alt="ELIANE VOLPE-PSICOPEDAGOGA-CURITIBA-PARANÁ" width="800" height="217" />
 </p>
 
 <p align="justify">
@@ -115,11 +112,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/08/09/dificuldade-de-aprendizagem/" target="_blank"><strong>Saiba como contornar a dificuldade de aprendizagem de sua cria.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/08/09/dificuldade-de-aprendizagem/" target="_blank" rel="noopener noreferrer"><strong>Saiba como contornar a dificuldade de aprendizagem de sua cria.</strong></a>
 </p>
 
 <p align="justify">
-  Eliane tem experiência de 20 anos na área de educação como Professora , Pedagoga e Diretora de Centro Municipal de Educação Infantil. Hoje atua como pedagoga da Rede Municipal de Ensino e como psicopedagoga clínica, com foco principal na Avaliação e Intervenção psicopedagógica para crianças, adolescentes e adultos com dificuldades de aprendizagem. Profere palestras para docentes e familiares sobre dificuldades de aprendizagem e desenvolvimento infantil. Para maiores detalhes sobre seu trabalho, acompanhe suas redes sociais: <a href="https://www.facebook.com/psicopedagogaelianevolpe/" target="_blank">FanPage no Facebook</a> e <a href="https://www.instagram.com/psicopedagogaelianevolpe/" target="_blank">perfil no Instagram</a>.
+  Eliane tem experiência de 20 anos na área de educação como Professora , Pedagoga e Diretora de Centro Municipal de Educação Infantil. Hoje atua como pedagoga da Rede Municipal de Ensino e como psicopedagoga clínica, com foco principal na Avaliação e Intervenção psicopedagógica para crianças, adolescentes e adultos com dificuldades de aprendizagem. Profere palestras para docentes e familiares sobre dificuldades de aprendizagem e desenvolvimento infantil. Para maiores detalhes sobre seu trabalho, acompanhe suas redes sociais: <a href="https://www.facebook.com/psicopedagogaelianevolpe/" target="_blank" rel="noopener noreferrer">FanPage no Facebook</a> e <a href="https://www.instagram.com/psicopedagogaelianevolpe/" target="_blank" rel="noopener noreferrer">perfil no Instagram</a>.
 </p>
 
 <p align="justify">
@@ -127,9 +124,9 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14278 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER.png" alt="LOJA TROLOLO DE MULHER" width="468" height="176" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14278 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER.png" alt="LOJA TROLOLO DE MULHER" width="468" height="176" /></a>
 </p>

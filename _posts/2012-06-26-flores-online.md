@@ -1,10 +1,7 @@
 ---
-id: 3141
 title: 'Flores Online: enviar flores pela internet é possível!'
-date: 2012-06-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/06/26/flores-online/
 permalink: /2012/06/26/flores-online/
 categories:
   - Publieditorial
@@ -20,7 +17,7 @@ Levanta o dedo quem vive de amores quando recebe flores… você aí, do outro l
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/26/flores-online/flores-online/" rel="attachment wp-att-8764"  rel="nofollow"><img class="alignnone size-full wp-image-8764" title="Flores Online" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/Flores-Online.jpg" width="336" height="269" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/06/26/flores-online/flores-online/" rel="attachment wp-att-8764"  rel="nofollow"><img class="alignnone size-full wp-image-8764" title="Flores Online" alt="" src="https://www.trololodemulher.com.br/2012/06/Flores-Online.jpg" width="336" height="269" /></a>
 </p>
 
 &nbsp;
@@ -32,19 +29,19 @@ Levanta o dedo quem vive de amores quando recebe flores… você aí, do outro l
 &nbsp;
 
 <p align="center">
-  <a href="http://www.floresonline.com.br/opcoes.asp?tipo=885" target="_blank" rel="attachment wp-att-8763"  rel="nofollow"><img class="alignnone size-full wp-image-8763" title="FLORES ONLINE - TULIPAS" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/FLORES-ONLINE-TULIPAS.png" width="561" height="236" /></a><br /> <em>Clique na imagem e confira a coleção!</em>
+  <a href="http://www.floresonline.com.br/opcoes.asp?tipo=885" target="_blank" rel="attachment wp-att-8763"  rel="nofollow"><img class="alignnone size-full wp-image-8763" title="FLORES ONLINE - TULIPAS" alt="" src="https://www.trololodemulher.com.br/2012/06/FLORES-ONLINE-TULIPAS.png" width="561" height="236" /></a><br /> <em>Clique na imagem e confira a coleção!</em>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  A infinidade de possibilidades e escolhas entre flores e presentes eu nem te conto, só <strong><a href="http://www.floresonline.com.br/" target="_blank">conferindo no site</a></strong> para você entender do que estou falando. Eu também digo presentes porque, além dos vários tipos de flores e arranjos que você pode escolher, também é possível acrescentar alguns carinhos como chocolates e trufas, outros tipos de guloseimas, pelúcias, perfumes, dentre outros presentes.
+  A infinidade de possibilidades e escolhas entre flores e presentes eu nem te conto, só <strong><a href="http://www.floresonline.com.br/" target="_blank" rel="noopener noreferrer">conferindo no site</a></strong> para você entender do que estou falando. Eu também digo presentes porque, além dos vários tipos de flores e arranjos que você pode escolher, também é possível acrescentar alguns carinhos como chocolates e trufas, outros tipos de guloseimas, pelúcias, perfumes, dentre outros presentes.
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.floresonline.com.br/opcoes.asp?tipo=1" target="_blank" rel="attachment wp-att-8762"  rel="nofollow"><img class="alignnone size-full wp-image-8762" title="FLORES ONLINE - BOMBONS" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/FLORES-ONLINE-BOMBONS.png" width="559" height="238" /></a><br /> <em>Clique na imagem e delicie-se!</em>
+  <a href="http://www.floresonline.com.br/opcoes.asp?tipo=1" target="_blank" rel="attachment wp-att-8762"  rel="nofollow"><img class="alignnone size-full wp-image-8762" title="FLORES ONLINE - BOMBONS" alt="" src="https://www.trololodemulher.com.br/2012/06/FLORES-ONLINE-BOMBONS.png" width="559" height="238" /></a><br /> <em>Clique na imagem e delicie-se!</em>
 </p>
 
 &nbsp;
@@ -56,7 +53,7 @@ Levanta o dedo quem vive de amores quando recebe flores… você aí, do outro l
 &nbsp;
 
 <p align="center">
-  <a href="http://www.floresonline.com.br/opcoes.asp?tipo=1" target="_blank" rel="attachment wp-att-8761"  rel="nofollow"><img class="alignnone size-full wp-image-8761" title="FLORES ONLINE - ANIVERSÁRIO" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/FLORES-ONLINE-ANIVERSÁRIO.png" width="558" height="237" /></a><br /> <em>Clique na imagem e comemore!</em>
+  <a href="http://www.floresonline.com.br/opcoes.asp?tipo=1" target="_blank" rel="attachment wp-att-8761"  rel="nofollow"><img class="alignnone size-full wp-image-8761" title="FLORES ONLINE - ANIVERSÁRIO" alt="" src="https://www.trololodemulher.com.br/2012/06/FLORES-ONLINE-ANIVERSÁRIO.png" width="558" height="237" /></a><br /> <em>Clique na imagem e comemore!</em>
 </p>
 
 &nbsp;

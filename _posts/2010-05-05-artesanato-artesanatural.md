@@ -1,10 +1,7 @@
 ---
-id: 2811
 title: 'Prateleira do Bicha Fêmea: Artesanatural'
-date: 2010-05-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/05/05/artesanato-artesanatural/
 permalink: /2010/05/05/artesanato-artesanatural/
 categories:
   - Sem categoria
@@ -18,7 +15,7 @@ A arteira que está por aqui hoje não é conhecida minha da blogosfera, digo, n
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/Logo-artesanatural.jpg"><img class="aligncenter size-medium wp-image-4591" title="Logo artesanatural" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/Logo-artesanatural-300x155.jpg" alt="" width="300" height="155" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/04/Logo-artesanatural.jpg"><img class="aligncenter size-medium wp-image-4591" title="Logo artesanatural" src="https://www.trololodemulher.com.br/2010/04/Logo-artesanatural-300x155.jpg" alt="" width="300" height="155" /></a>
     </td>
     
     <td>
@@ -35,7 +32,7 @@ E que peças mimosas a D. Edna faz, bonita! Que filha sortuda a Carol, que tem t
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/pano-de-prato-passaro.jpg"><img class="aligncenter size-medium wp-image-4595" title="pano de prato pássaro" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/pano-de-prato-passaro-300x198.jpg" alt="" width="300" height="198" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/04/pano-de-prato-passaro.jpg"><img class="aligncenter size-medium wp-image-4595" title="pano de prato pássaro" src="https://www.trololodemulher.com.br/2010/04/pano-de-prato-passaro-300x198.jpg" alt="" width="300" height="198" /></a>
     </td>
     
     <td>
@@ -46,7 +43,7 @@ E que peças mimosas a D. Edna faz, bonita! Que filha sortuda a Carol, que tem t
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/pano-de-prato-barra-colorida.jpg"><img class="aligncenter size-medium wp-image-4592" title="pano de prato barra colorida" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/pano-de-prato-barra-colorida-253x300.jpg" alt="" width="253" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/04/pano-de-prato-barra-colorida.jpg"><img class="aligncenter size-medium wp-image-4592" title="pano de prato barra colorida" src="https://www.trololodemulher.com.br/2010/04/pano-de-prato-barra-colorida-253x300.jpg" alt="" width="253" height="300" /></a>
     </td>
     
     <td>
@@ -59,7 +56,7 @@ Eu que ando numa porção diva do lar apaixonada por coisinhas que deixam a casa
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/pano-de-prato-barraso-lilas.jpg"><img class="aligncenter size-medium wp-image-4593" title="pano de prato barraso lilás" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/pano-de-prato-barraso-lilas-261x300.jpg" alt="" width="261" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/04/pano-de-prato-barraso-lilas.jpg"><img class="aligncenter size-medium wp-image-4593" title="pano de prato barraso lilás" src="https://www.trololodemulher.com.br/2010/04/pano-de-prato-barraso-lilas-261x300.jpg" alt="" width="261" height="300" /></a>
     </td>
     
     <td>
@@ -72,7 +69,7 @@ E além de pano de prato, tem pegador de panela fofo lá na Artesanatural**_ _*
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/pegador-de-panela-galinha.jpg"><img class="aligncenter size-medium wp-image-4596" title="pegador de panela galinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/pegador-de-panela-galinha-300x294.jpg" alt="" width="300" height="294" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/04/pegador-de-panela-galinha.jpg"><img class="aligncenter size-medium wp-image-4596" title="pegador de panela galinha" src="https://www.trololodemulher.com.br/2010/04/pegador-de-panela-galinha-300x294.jpg" alt="" width="300" height="294" /></a>
     </td>
     
     <td>
@@ -85,7 +82,7 @@ As belezuras para a casa são muitas, essa é que é a verdade. E dentre as tant
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/jogo-americano-fuxico-2.jpg"><img class="aligncenter size-medium wp-image-4590" title="jogo americano fuxico 2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/jogo-americano-fuxico-2-300x250.jpg" alt="" width="300" height="250" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/04/jogo-americano-fuxico-2.jpg"><img class="aligncenter size-medium wp-image-4590" title="jogo americano fuxico 2" src="https://www.trololodemulher.com.br/2010/04/jogo-americano-fuxico-2-300x250.jpg" alt="" width="300" height="250" /></a>
     </td>
     
     <td>

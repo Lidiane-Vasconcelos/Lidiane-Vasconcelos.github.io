@@ -1,10 +1,7 @@
 ---
-id: 3552
 title: 'Morando de aluguel: dá pra mudar a decoração do quarto?'
-date: 2016-03-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/03/01/morando-de-aluguel/
 permalink: /2016/03/01/morando-de-aluguel/
 categories:
   - Faça Você Mesma
@@ -20,7 +17,7 @@ categories:
 
 **Veja também:**
 
-**<a href="http://www.trololodemulher.com.br/2015/10/21/decoracao-da-casa-alugada/" target="_blank">Decoração da casa alugada: ideias temporárias.</a>**
+**<a href="http://www.trololodemulher.com.br/2015/10/21/decoracao-da-casa-alugada/" target="_blank" rel="noopener noreferrer">Decoração da casa alugada: ideias temporárias.</a>**
 
 <p align="center">
   <strong><span style="font-size: large;">Antes</span></strong>
@@ -45,7 +42,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   <strong>“<em>Olá! Como moro de aluguel e logo logo queremos nos mudar, tento não me prender muito a coisas grandes lá no apê, como por exemplo pintar paredes, fazer furos, etc… tento sempre dar um jeitinho de não precisar furar uma parede. Estava achando meu quarto sem graça e quis dar uma mudada. Somente com almofadas novas, papel contact, fita dupla face e uma boa dose de paciência transformei meu simples quarto em um ambiente temático com tema: FESTA! Segue fotos do <span style="font-size: large;">depois</span>…”</em> Rê Becker | <a href="http://vidaloucadecasada.blogspot.com.br/" target="_blank">Vida Louca de Casada</a></strong>
+>   <strong>“<em>Olá! Como moro de aluguel e logo logo queremos nos mudar, tento não me prender muito a coisas grandes lá no apê, como por exemplo pintar paredes, fazer furos, etc… tento sempre dar um jeitinho de não precisar furar uma parede. Estava achando meu quarto sem graça e quis dar uma mudada. Somente com almofadas novas, papel contact, fita dupla face e uma boa dose de paciência transformei meu simples quarto em um ambiente temático com tema: FESTA! Segue fotos do <span style="font-size: large;">depois</span>…”</em> Rê Becker | <a href="http://vidaloucadecasada.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Vida Louca de Casada</a></strong>
 > </p>
 
 <p align="justify">
@@ -53,7 +50,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/12/02/cozinha-de-casa-alugada/" target="_blank">Como ter uma cozinha de casa alugada mais bonita? Veja 5 dicas.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/12/02/cozinha-de-casa-alugada/" target="_blank" rel="noopener noreferrer">Como ter uma cozinha de casa alugada mais bonita? Veja 5 dicas.</a></strong>
 </p>
 
 &nbsp;
@@ -72,14 +69,14 @@ categories:
 
 **Veja também:**
 
-**<a href="http://www.trololodemulher.com.br/2011/09/27/decorar-casa-alugada/" target="_blank">Como decorar uma casa alugada gastando menos? Dicas, sugestões e pitacos.</a>**
+**<a href="http://www.trololodemulher.com.br/2011/09/27/decorar-casa-alugada/" target="_blank" rel="noopener noreferrer">Como decorar uma casa alugada gastando menos? Dicas, sugestões e pitacos.</a>**
 
 <p style="text-align: justify;" align="center">
-  Preciso dizer que eu estou sempre de olho no blog dessa moça bonita. Ela é super criativa e mostra que, mesmo num apartamento alugado, onde a gente acha que mudanças não valem a pena, ela mostra justamente o contrário. Ela é <em>expert</em> em brincar com a decoração da casa, atendendo ao seu estilo e, o melhor, gastando bem pouco. Quer acompanhar suas atualizações no blog <strong><a href="http://vidaloucadecasada.blogspot.com.br/" target="_blank">Vida Louca de Casada</a></strong>? Se joga!
+  Preciso dizer que eu estou sempre de olho no blog dessa moça bonita. Ela é super criativa e mostra que, mesmo num apartamento alugado, onde a gente acha que mudanças não valem a pena, ela mostra justamente o contrário. Ela é <em>expert</em> em brincar com a decoração da casa, atendendo ao seu estilo e, o melhor, gastando bem pouco. Quer acompanhar suas atualizações no blog <strong><a href="http://vidaloucadecasada.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Vida Louca de Casada</a></strong>? Se joga!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

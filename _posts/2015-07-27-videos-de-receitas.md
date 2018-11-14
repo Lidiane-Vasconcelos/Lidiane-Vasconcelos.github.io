@@ -1,10 +1,7 @@
 ---
-id: 3449
 title: 'Vídeos de receitas: novidade no Trololó de Mulher'
-date: 2015-07-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/07/27/videos-de-receitas/
 permalink: /2015/07/27/videos-de-receitas/
 categories:
   - Receitas
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/RECEITAS-VIDEOS-DE-RECEITAS-BLOG-DE-RECEITAS-DRICA-NA-COZINHA.jpg"><img class="alignnone size-full wp-image-11145" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/RECEITAS-VIDEOS-DE-RECEITAS-BLOG-DE-RECEITAS-DRICA-NA-COZINHA.jpg" alt="RECEITAS-VIDEOS DE RECEITAS-BLOG DE RECEITAS-DRICA NA COZINHA" width="800" height="534" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/RECEITAS-VIDEOS-DE-RECEITAS-BLOG-DE-RECEITAS-DRICA-NA-COZINHA.jpg"><img class="alignnone size-full wp-image-11145" src="https://www.trololodemulher.com.br/2015/07/RECEITAS-VIDEOS-DE-RECEITAS-BLOG-DE-RECEITAS-DRICA-NA-COZINHA.jpg" alt="RECEITAS-VIDEOS DE RECEITAS-BLOG DE RECEITAS-DRICA NA COZINHA" width="800" height="534" /></a>
 </p>
 
 <p align="justify">
@@ -29,15 +26,15 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/RECEITAS-VIDEOS-DE-RECEITAS-BLOG-DE-RECEITAS-DRICA-NA-COZINHA2.jpg"><img class="alignnone size-full wp-image-11146" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/RECEITAS-VIDEOS-DE-RECEITAS-BLOG-DE-RECEITAS-DRICA-NA-COZINHA2.jpg" alt="RECEITAS-VIDEOS DE RECEITAS-BLOG DE RECEITAS-DRICA NA COZINHA[2]" width="800" height="197" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/RECEITAS-VIDEOS-DE-RECEITAS-BLOG-DE-RECEITAS-DRICA-NA-COZINHA2.jpg"><img class="alignnone size-full wp-image-11146" src="https://www.trololodemulher.com.br/2015/07/RECEITAS-VIDEOS-DE-RECEITAS-BLOG-DE-RECEITAS-DRICA-NA-COZINHA2.jpg" alt="RECEITAS-VIDEOS DE RECEITAS-BLOG DE RECEITAS-DRICA NA COZINHA[2]" width="800" height="197" /></a>
 </p>
 
 <p align="justify">
-  Faz como eu, oh: <a href="http://www.dricanacozinha.com.br/" target="_blank">entre no blog</a> e espie o que tem de bom por lá, inclusive <a href="http://www.dricanacozinha.com.br/dicas/" target="_blank">dicas especiais e espertas bem aqui</a>. O <a href="https://www.youtube.com/channel/UC1mIECRirlkQIq0aqAsOk_A" target="_blank">canal da Drica no Youtube fica bem aqui</a>, basta fazer sua inscrição. E a <a href="https://www.facebook.com/dricanacozinha/timeline" target="_blank">página do blog no Facebook você encontra aqui</a>, é curtir e ficar por dentro de tudo! Se joga! Perde tempo não!
+  Faz como eu, oh: <a href="http://www.dricanacozinha.com.br/" target="_blank" rel="noopener noreferrer">entre no blog</a> e espie o que tem de bom por lá, inclusive <a href="http://www.dricanacozinha.com.br/dicas/" target="_blank" rel="noopener noreferrer">dicas especiais e espertas bem aqui</a>. O <a href="https://www.youtube.com/channel/UC1mIECRirlkQIq0aqAsOk_A" target="_blank" rel="noopener noreferrer">canal da Drica no Youtube fica bem aqui</a>, basta fazer sua inscrição. E a <a href="https://www.facebook.com/dricanacozinha/timeline" target="_blank" rel="noopener noreferrer">página do blog no Facebook você encontra aqui</a>, é curtir e ficar por dentro de tudo! Se joga! Perde tempo não!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

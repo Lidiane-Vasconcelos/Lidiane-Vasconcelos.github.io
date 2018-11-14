@@ -1,10 +1,7 @@
 ---
-id: 3251
 title: Qual é o mistério do sucesso da Margaret?
-date: 2013-08-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/08/16/margaret-empreendedorismo/
 permalink: /2013/08/16/margaret-empreendedorismo/
 categories:
   - Empreendedorismo Feminino
@@ -12,7 +9,7 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p style="text-align: justify;">
-  Tudo que ela posta no <strong><a href="https://www.facebook.com/margaretss50" target="_blank">Facebook</a></strong> ganha proporções admiráveis. O que publica em <strong><a href="http://www.margaretss.com.br/" target="_blank">seu blog</a></strong> tem uma visibilidade respeitável, e indiscutível. Até mesmo a <strong><a href="http://divitae.com.br/home" target="_blank">Divitae</a></strong>, empresa que abriu com a cara e a coragem, como ela mesma afirma, alcançou o sucesso visível, e em pouquíssimo tempo. Afinal, qual é o segredo da Margaret?
+  Tudo que ela posta no <strong><a href="https://www.facebook.com/margaretss50" target="_blank" rel="noopener noreferrer">Facebook</a></strong> ganha proporções admiráveis. O que publica em <strong><a href="http://www.margaretss.com.br/" target="_blank" rel="noopener noreferrer">seu blog</a></strong> tem uma visibilidade respeitável, e indiscutível. Até mesmo a <strong><a href="http://divitae.com.br/home" target="_blank" rel="noopener noreferrer">Divitae</a></strong>, empresa que abriu com a cara e a coragem, como ela mesma afirma, alcançou o sucesso visível, e em pouquíssimo tempo. Afinal, qual é o segredo da Margaret?
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -24,7 +21,7 @@ categories:
 > </p>
 
 <p align="justify">
-  Sem dúvida, esse é o maior trunfo da Margaret e, certamente por isso, a <strong><a href="http://divitae.com.br/home" target="_blank">Divitae</a></strong> cresceu tanto em tão pouco tempo. É fascinante ver como com tão pouco investimento em meios de <em>marketing</em> tradicional, uma empresa amplia seus negócios de forma consistente. A resposta para esse enigma a gente percebe vendo a atuação da Margaret em seu blog e no Facebook: muita criatividade e a cooperação apaixonada de seus fãs.
+  Sem dúvida, esse é o maior trunfo da Margaret e, certamente por isso, a <strong><a href="http://divitae.com.br/home" target="_blank" rel="noopener noreferrer">Divitae</a></strong> cresceu tanto em tão pouco tempo. É fascinante ver como com tão pouco investimento em meios de <em>marketing</em> tradicional, uma empresa amplia seus negócios de forma consistente. A resposta para esse enigma a gente percebe vendo a atuação da Margaret em seu blog e no Facebook: muita criatividade e a cooperação apaixonada de seus fãs.
 </p>
 
 <p align="justify">
@@ -46,7 +43,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/08/MARGARET-DIVITAE-EMPREENDEDORISMO.jpg"><img class="alignnone size-full wp-image-9695" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/08/MARGARET-DIVITAE-EMPREENDEDORISMO.jpg" alt="MARGARET - DIVITAE-EMPREENDEDORISMO" width="600" height="401" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/08/MARGARET-DIVITAE-EMPREENDEDORISMO.jpg"><img class="alignnone size-full wp-image-9695" src="https://www.trololodemulher.com.br/2013/08/MARGARET-DIVITAE-EMPREENDEDORISMO.jpg" alt="MARGARET - DIVITAE-EMPREENDEDORISMO" width="600" height="401" /></a>
 </p>
 
 &nbsp;
@@ -102,11 +99,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/08/REVISTA-DIVITAE.png"><img class="alignnone size-full wp-image-9698" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/08/REVISTA-DIVITAE.png" alt="REVISTA DIVITAE" width="363" height="515" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/08/REVISTA-DIVITAE.png"><img class="alignnone size-full wp-image-9698" src="https://www.trololodemulher.com.br/2013/08/REVISTA-DIVITAE.png" alt="REVISTA DIVITAE" width="363" height="515" /></a>
 </p>
 
 <p align="center">
-  <em>Capa da <strong><a href="http://issuu.com/divitaemagazine/docs/edicao01-aniversario" target="_blank">edição n° 1 da Revista Divitae</a></strong></em>
+  <em>Capa da <strong><a href="http://issuu.com/divitaemagazine/docs/edicao01-aniversario" target="_blank" rel="noopener noreferrer">edição n° 1 da Revista Divitae</a></strong></em>
 </p>
 
 &nbsp;
@@ -138,5 +135,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

@@ -1,10 +1,7 @@
 ---
-id: 3352
 title: 'Trololó do dia: moda para a vida real. Aprenda tudo!'
-date: 2014-10-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/10/06/moda-vida-real/
 permalink: /2014/10/06/moda-vida-real/
 categories:
   - Moda
@@ -22,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-LADY-LIKE-ESTILO-ROMANTICO.jpg"><img class="alignnone size-full wp-image-10458" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-LADY-LIKE-ESTILO-ROMANTICO.jpg" alt="MODA-PRIMAVERA-VERAO-2015-LADY LIKE-ESTILO-ROMANTICO" width="665" height="705" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-LADY-LIKE-ESTILO-ROMANTICO.jpg"><img class="alignnone size-full wp-image-10458" src="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-LADY-LIKE-ESTILO-ROMANTICO.jpg" alt="MODA-PRIMAVERA-VERAO-2015-LADY LIKE-ESTILO-ROMANTICO" width="665" height="705" /></a>
 </p>
 
 > <p align="justify">
@@ -42,7 +39,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-PLUS-SIZE.jpg"><img class="alignnone size-full wp-image-10461" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-PLUS-SIZE.jpg" alt="MODA-PRIMAVERA-VERAO-2015-PLUS SIZE" width="745" height="745" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-PLUS-SIZE.jpg"><img class="alignnone size-full wp-image-10461" src="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-PLUS-SIZE.jpg" alt="MODA-PRIMAVERA-VERAO-2015-PLUS SIZE" width="745" height="745" /></a>
 </p>
 
 > <p align="justify">
@@ -62,27 +59,27 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-LARANJA2.png"><img class="alignnone size-full wp-image-10456" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-LARANJA2.png" alt="MODA-PRIMAVERA-VERAO-2015-CORES-LARANJA[2]" width="695" height="660" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-LARANJA2.png"><img class="alignnone size-full wp-image-10456" src="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-LARANJA2.png" alt="MODA-PRIMAVERA-VERAO-2015-CORES-LARANJA[2]" width="695" height="660" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-PINK2.png"><img class="alignnone size-full wp-image-10464" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-PINK2.png" alt="MODA-PRIMAVERA-VERAO-2015-CORES-PINK[2]" width="692" height="668" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-PINK2.png"><img class="alignnone size-full wp-image-10464" src="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-PINK2.png" alt="MODA-PRIMAVERA-VERAO-2015-CORES-PINK[2]" width="692" height="668" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-AZUL3.png"><img class="alignnone size-full wp-image-10455" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-AZUL3.png" alt="MODA-PRIMAVERA-VERAO-2015-CORES-AZUL[3]" width="690" height="645" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-AZUL3.png"><img class="alignnone size-full wp-image-10455" src="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-AZUL3.png" alt="MODA-PRIMAVERA-VERAO-2015-CORES-AZUL[3]" width="690" height="645" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-AMARELO3.png"><img class="alignnone size-full wp-image-10462" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-AMARELO3.png" alt="MODA-PRIMAVERA-VERAO-2015-CORES-AMARELO[3]" width="689" height="667" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-AMARELO3.png"><img class="alignnone size-full wp-image-10462" src="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-AMARELO3.png" alt="MODA-PRIMAVERA-VERAO-2015-CORES-AMARELO[3]" width="689" height="667" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-TERROSOS2.png"><img class="alignnone size-full wp-image-10463" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-TERROSOS2.png" alt="MODA-PRIMAVERA-VERAO-2015-CORES-TERROSOS[2]" width="688" height="673" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-TERROSOS2.png"><img class="alignnone size-full wp-image-10463" src="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-TERROSOS2.png" alt="MODA-PRIMAVERA-VERAO-2015-CORES-TERROSOS[2]" width="688" height="673" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-PRETO-E-BRANCO2.png"><img class="alignnone size-full wp-image-10457" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-PRETO-E-BRANCO2.png" alt="MODA-PRIMAVERA-VERAO-2015-CORES-PRETO E BRANCO[2]" width="688" height="649" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-PRETO-E-BRANCO2.png"><img class="alignnone size-full wp-image-10457" src="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-CORES-PRETO-E-BRANCO2.png" alt="MODA-PRIMAVERA-VERAO-2015-CORES-PRETO E BRANCO[2]" width="688" height="649" /></a>
 </p>
 
 <p align="justify">
@@ -146,7 +143,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-CALCADOS-FEMININOS.jpg"><img class="alignnone size-full wp-image-10453" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-CALCADOS-FEMININOS.jpg" alt="MODA-PRIMAVERA-VERAO-2015-CALCADOS FEMININOS" width="800" height="782" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-CALCADOS-FEMININOS.jpg"><img class="alignnone size-full wp-image-10453" src="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-CALCADOS-FEMININOS.jpg" alt="MODA-PRIMAVERA-VERAO-2015-CALCADOS FEMININOS" width="800" height="782" /></a>
 </p>
 
 > <p align="justify">
@@ -154,7 +151,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-CALCADOS-FEMININOS-ALPARGATAS.jpg"><img class="alignnone size-full wp-image-10454" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-CALCADOS-FEMININOS-ALPARGATAS.jpg" alt="MODA-PRIMAVERA-VERAO-2015-CALCADOS FEMININOS-ALPARGATAS" width="600" height="261" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-CALCADOS-FEMININOS-ALPARGATAS.jpg"><img class="alignnone size-full wp-image-10454" src="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-CALCADOS-FEMININOS-ALPARGATAS.jpg" alt="MODA-PRIMAVERA-VERAO-2015-CALCADOS FEMININOS-ALPARGATAS" width="600" height="261" /></a>
 </p>
 
 > <p align="justify">
@@ -166,7 +163,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-MAXI-ANEIS-PULSEIRAS-COLARES-BRINCOS.jpg"><img class="alignnone size-full wp-image-10459" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/MODA-PRIMAVERA-VERAO-2015-MAXI-ANEIS-PULSEIRAS-COLARES-BRINCOS.jpg" alt="MODA-PRIMAVERA-VERAO-2015-MAXI-ANEIS-PULSEIRAS-COLARES-BRINCOS" width="800" height="586" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-MAXI-ANEIS-PULSEIRAS-COLARES-BRINCOS.jpg"><img class="alignnone size-full wp-image-10459" src="https://www.trololodemulher.com.br/2014/10/MODA-PRIMAVERA-VERAO-2015-MAXI-ANEIS-PULSEIRAS-COLARES-BRINCOS.jpg" alt="MODA-PRIMAVERA-VERAO-2015-MAXI-ANEIS-PULSEIRAS-COLARES-BRINCOS" width="800" height="586" /></a>
 </p>
 
 > <p align="justify">
@@ -178,23 +175,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/09/10/short-dias-de-sol/" target="_blank"><strong>O bom e velho short: peça certeira nos dias de sol.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/09/10/short-dias-de-sol/" target="_blank" rel="noopener noreferrer"><strong>O bom e velho short: peça certeira nos dias de sol.</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/LILIAN-JORDÃO-CONSULTORA-DE-IMAGEM-ESTILO.png"><img class="alignnone size-full wp-image-10388" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/LILIAN-JORDÃO-CONSULTORA-DE-IMAGEM-ESTILO.png" alt="LILIAN JORDÃO-CONSULTORA DE IMAGEM ESTILO" width="800" height="206" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/LILIAN-JORDÃO-CONSULTORA-DE-IMAGEM-ESTILO.png"><img class="alignnone size-full wp-image-10388" src="https://www.trololodemulher.com.br/2014/09/LILIAN-JORDÃO-CONSULTORA-DE-IMAGEM-ESTILO.png" alt="LILIAN JORDÃO-CONSULTORA DE IMAGEM ESTILO" width="800" height="206" /></a>
 </p>
 
 <p align="justify">
-  A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? <a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank">Clica aqui e se joga</a>!
+  A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? <a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank" rel="noopener noreferrer">Clica aqui e se joga</a>!
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://br.pinterest.com/" target="_blank">Pinterest</a>
+  Imagens: <a href="http://br.pinterest.com/" target="_blank" rel="noopener noreferrer">Pinterest</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=BichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=BichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

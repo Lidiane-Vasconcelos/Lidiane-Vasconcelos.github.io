@@ -1,10 +1,7 @@
 ---
-id: 2949
 title: 5 ideias para organizar esmaltes. Você já imaginou algo assim?
-date: 2011-02-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/02/16/ideias-organizar-esmaltes/
 permalink: /2011/02/16/ideias-organizar-esmaltes/
 categories:
   - Beleza
@@ -19,7 +16,7 @@ Você já viu quantos posts blogosfera afora abordam a mais nova mania entre as 
 <!--more-->
 
 <p style="text-align: justify;">
-  Antes de mais nada, é preciso que se diga que esse post surgiu das necessidades pessoais da <strong>Myriam Cedro</strong>, uma das editoras do blog <a href="http://www.coisasdemenininha.com.br/" target="_blank">Coisas de Menininha</a>, e da <strong>Raquel</strong>, ambas leitoras do Bicha Fêmea, e amantes dos vidrinhos cheios de cor. Elas deixaram suas sugestões para que esse tema, <strong>organização de esmaltes</strong>, fosse abordado por aqui. Depois de sair em busca de ideias, aqui estão todas as que foram reunidas para você se inspirar. Aproveite!
+  Antes de mais nada, é preciso que se diga que esse post surgiu das necessidades pessoais da <strong>Myriam Cedro</strong>, uma das editoras do blog <a href="http://www.coisasdemenininha.com.br/" target="_blank" rel="noopener noreferrer">Coisas de Menininha</a>, e da <strong>Raquel</strong>, ambas leitoras do Bicha Fêmea, e amantes dos vidrinhos cheios de cor. Elas deixaram suas sugestões para que esse tema, <strong>organização de esmaltes</strong>, fosse abordado por aqui. Depois de sair em busca de ideias, aqui estão todas as que foram reunidas para você se inspirar. Aproveite!
 </p>
 
 <p style="text-align: center;">
@@ -27,11 +24,11 @@ Você já viu quantos posts blogosfera afora abordam a mais nova mania entre as 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/caixas-organizadoras.jpg"><img class="alignnone size-full wp-image-5897" title="caixas organizadoras" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/caixas-organizadoras.jpg" alt="" width="400" height="420" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/caixas-organizadoras.jpg"><img class="alignnone size-full wp-image-5897" title="caixas organizadoras" src="https://www.trololodemulher.com.br/2011/01/caixas-organizadoras.jpg" alt="" width="400" height="420" /></a>
 </p>
 
 <p style="text-align: center;">
-  via <a href="http://www.myhomeideas.com/" target="_blank">myhomeideas</a>
+  via <a href="http://www.myhomeideas.com/" target="_blank" rel="noopener noreferrer">myhomeideas</a>
 </p>
 
 <p style="text-align: justify;">
@@ -43,11 +40,11 @@ Você já viu quantos posts blogosfera afora abordam a mais nova mania entre as 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/latas-organizadoras.jpg"><img class="alignnone size-full wp-image-5901" title="latas organizadoras" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/latas-organizadoras.jpg" alt="" width="400" height="420" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/latas-organizadoras.jpg"><img class="alignnone size-full wp-image-5901" title="latas organizadoras" src="https://www.trololodemulher.com.br/2011/01/latas-organizadoras.jpg" alt="" width="400" height="420" /></a>
 </p>
 
 <p style="text-align: center;">
-  via <a href="http://www.myhomeideas.com/" target="_blank">myhomeideas</a>
+  via <a href="http://www.myhomeideas.com/" target="_blank" rel="noopener noreferrer">myhomeideas</a>
 </p>
 
 <p style="text-align: justify;">
@@ -67,11 +64,11 @@ Você já viu quantos posts blogosfera afora abordam a mais nova mania entre as 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/caixas-organizadoras-de-sapatos.jpg"><img class="alignnone size-full wp-image-5898" title="caixas organizadoras de sapatos" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/caixas-organizadoras-de-sapatos.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/caixas-organizadoras-de-sapatos.jpg"><img class="alignnone size-full wp-image-5898" title="caixas organizadoras de sapatos" src="https://www.trololodemulher.com.br/2011/01/caixas-organizadoras-de-sapatos.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
-  via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  via <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p style="text-align: justify;">
@@ -83,11 +80,11 @@ Você já viu quantos posts blogosfera afora abordam a mais nova mania entre as 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/caixa-de-frutas-de-madeira.jpg"><img class="alignnone size-full wp-image-5904" title="caixa de frutas de madeira" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/caixa-de-frutas-de-madeira.jpg" alt="" width="300" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/caixa-de-frutas-de-madeira.jpg"><img class="alignnone size-full wp-image-5904" title="caixa de frutas de madeira" src="https://www.trololodemulher.com.br/2011/01/caixa-de-frutas-de-madeira.jpg" alt="" width="300" height="400" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p style="text-align: justify;">
@@ -95,11 +92,11 @@ Você já viu quantos posts blogosfera afora abordam a mais nova mania entre as 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/caixote-de-frutas-reciclado.jpg"><img class="alignnone size-full wp-image-5899" title="caixote de frutas reciclado" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/caixote-de-frutas-reciclado.jpg" alt="" width="500" height="269" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/caixote-de-frutas-reciclado.jpg"><img class="alignnone size-full wp-image-5899" title="caixote de frutas reciclado" src="https://www.trololodemulher.com.br/2011/01/caixote-de-frutas-reciclado.jpg" alt="" width="500" height="269" /></a>
 </p>
 
 <p style="text-align: justify;">
-  A <strong>Veronica Kraemer</strong>, que é artesã e está a frente do blog <a href="http://www.alemdaruaatelier.com.br/" target="_blank">Além da Rua Atelier</a>,  já pensou nisso por você, e mais: ela ensinou como reciclou este caixote de madeiras com o objetivo de organizar os esmaltes. Quer aprender como faz? Corre <a href="http://alemdaruaatelier.blogspot.com/2011/01/vamos-reciclar-patina-em-caixote-de.html" target="_blank">aqui</a> e confere!
+  A <strong>Veronica Kraemer</strong>, que é artesã e está a frente do blog <a href="http://www.alemdaruaatelier.com.br/" target="_blank" rel="noopener noreferrer">Além da Rua Atelier</a>,  já pensou nisso por você, e mais: ela ensinou como reciclou este caixote de madeiras com o objetivo de organizar os esmaltes. Quer aprender como faz? Corre <a href="http://alemdaruaatelier.blogspot.com/2011/01/vamos-reciclar-patina-em-caixote-de.html" target="_blank" rel="noopener noreferrer">aqui</a> e confere!
 </p>
 
 <p style="text-align: center;">
@@ -107,11 +104,11 @@ Você já viu quantos posts blogosfera afora abordam a mais nova mania entre as 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/caixa-organizadora-artesanal.jpg"><img class="alignnone size-full wp-image-5896" title="caixa organizadora artesanal" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/caixa-organizadora-artesanal.jpg" alt="" width="460" height="360" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/caixa-organizadora-artesanal.jpg"><img class="alignnone size-full wp-image-5896" title="caixa organizadora artesanal" src="https://www.trololodemulher.com.br/2011/01/caixa-organizadora-artesanal.jpg" alt="" width="460" height="360" /></a>
 </p>
 
 <p style="text-align: center;">
-  via <a href="http://www.countryliving.com/" target="_blank">Country Living</a>
+  via <a href="http://www.countryliving.com/" target="_blank" rel="noopener noreferrer">Country Living</a>
 </p>
 
 <p style="text-align: justify;">
@@ -119,7 +116,7 @@ Você já viu quantos posts blogosfera afora abordam a mais nova mania entre as 
 </p>
 
 <p style="text-align: justify;">
-  Quer ver mais ideias ainda? A <strong>Leticia Lodi</strong>, ou <strong>Lelê</strong> para quem conhece a moça mais de perto (como a bicha fêmea que vos escreve… <em>cof cof cof</em>…), e que comanda a <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>, reuniu mais algumas ideias de outras blogueiras sobre como organizar esmaltes. Confere <a href="http://blog.casadecatarina.com.br/eu-voc-ns-decoramos-organizao-de-esmaltes/" target="_blank">aqui</a>!
+  Quer ver mais ideias ainda? A <strong>Leticia Lodi</strong>, ou <strong>Lelê</strong> para quem conhece a moça mais de perto (como a bicha fêmea que vos escreve… <em>cof cof cof</em>…), e que comanda a <a href="http://blog.casadecatarina.com.br/" target="_blank" rel="noopener noreferrer">Casa de Catarina</a>, reuniu mais algumas ideias de outras blogueiras sobre como organizar esmaltes. Confere <a href="http://blog.casadecatarina.com.br/eu-voc-ns-decoramos-organizao-de-esmaltes/" target="_blank" rel="noopener noreferrer">aqui</a>!
 </p>
 
 <p style="text-align: justify;">

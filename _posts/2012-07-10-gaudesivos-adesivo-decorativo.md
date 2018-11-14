@@ -1,10 +1,7 @@
 ---
-id: 3148
 title: Bicha Fêmea presenteia leitora que comenta por aqui…
-date: 2012-07-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/07/10/gaudesivos-adesivo-decorativo/
 permalink: /2012/07/10/gaudesivos-adesivo-decorativo/
 categories:
   - Dicas de Decoração
@@ -25,11 +22,11 @@ Porque… _né_? Se você não comenta, como vou saber que você existe, bonita?
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/07/10/gaudesivos-adesivo-decorativo/presente-2/" rel="attachment wp-att-8830"><img class="alignnone size-full wp-image-8830" title="PRESENTE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/PRESENTE.jpg" alt="" width="300" height="230" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/10/gaudesivos-adesivo-decorativo/presente-2/" rel="attachment wp-att-8830"><img class="alignnone size-full wp-image-8830" title="PRESENTE" src="https://www.trololodemulher.com.br/2012/07/PRESENTE.jpg" alt="" width="300" height="230" /></a>
 </p>
 
 <p align="center">
-  Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></em></strong>
+  Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">Stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
@@ -53,13 +50,13 @@ Porque… _né_? Se você não comenta, como vou saber que você existe, bonita?
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/28/decoracao-adesivos-parede/gaudesivos/" rel="attachment wp-att-8789"><img class="alignnone size-full wp-image-8789" title="GAUDESIVOS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/GAUDESIVOS.png" alt="" width="393" height="145" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/06/28/decoracao-adesivos-parede/gaudesivos/" rel="attachment wp-att-8789"><img class="alignnone size-full wp-image-8789" title="GAUDESIVOS" src="https://www.trololodemulher.com.br/2012/06/GAUDESIVOS.png" alt="" width="393" height="145" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  A <strong>Irani</strong> terá a loja virtual de <strong>adesivos decorativos </strong><a href="http://www.gaudesivos.com.br/index.php" target="_blank"><strong>GAUDESIVOS</strong></a> para escolher. Isso mesmo! A loja <strong>IN-TEI-RA</strong>, cheia de opções, para ela e<strong>scolher um dos produtos que mais gostar, eleger a cor preferida do adesivo, e receber o presente em casa</strong>!
+  A <strong>Irani</strong> terá a loja virtual de <strong>adesivos decorativos </strong><a href="http://www.gaudesivos.com.br/index.php" target="_blank" rel="noopener noreferrer"><strong>GAUDESIVOS</strong></a> para escolher. Isso mesmo! A loja <strong>IN-TEI-RA</strong>, cheia de opções, para ela e<strong>scolher um dos produtos que mais gostar, eleger a cor preferida do adesivo, e receber o presente em casa</strong>!
 </p>
 
 <p align="justify">
@@ -71,17 +68,17 @@ Porque… _né_? Se você não comenta, como vou saber que você existe, bonita?
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/07/10/gaudesivos-adesivo-decorativo/presente-2/" rel="attachment wp-att-8830"><img class="alignnone size-full wp-image-8830" title="PRESENTE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/PRESENTE.jpg" alt="" width="300" height="230" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/10/gaudesivos-adesivo-decorativo/presente-2/" rel="attachment wp-att-8830"><img class="alignnone size-full wp-image-8830" title="PRESENTE" src="https://www.trololodemulher.com.br/2012/07/PRESENTE.jpg" alt="" width="300" height="230" /></a>
 </p>
 
 <p align="center">
-  Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></em></strong>
+  Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">Stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong>Você pode</strong>! Olha só: <strong>visite a loja <a href="http://www.gaudesivos.com.br/index.php" target="_blank">GAUDESIVOS clicando bem aqui</a> e escolha o adesivo que você mais gostar, além da cor que ele terá. Depois volta aqui e, nos comentários, responda:</strong>
+  <strong>Você pode</strong>! Olha só: <strong>visite a loja <a href="http://www.gaudesivos.com.br/index.php" target="_blank" rel="noopener noreferrer">GAUDESIVOS clicando bem aqui</a> e escolha o adesivo que você mais gostar, além da cor que ele terá. Depois volta aqui e, nos comentários, responda:</strong>
 </p>
 
 &nbsp;

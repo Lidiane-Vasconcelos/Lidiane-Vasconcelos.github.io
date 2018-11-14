@@ -1,10 +1,7 @@
 ---
-id: 3139
 title: 'Bolo: 8 receitas delícia para apreciar com café nos dias frios…'
-date: 2012-06-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/06/20/bolo-8-receitas-delicia/
 permalink: /2012/06/20/bolo-8-receitas-delicia/
 categories:
   - Receitas
@@ -26,7 +23,7 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/bolo-cavado-elisandra/" rel="attachment wp-att-8739"><img class="alignnone size-full wp-image-8739" title="BOLO CAVADO - ELISANDRA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/BOLO-CAVADO-ELISANDRA.jpg" alt="" width="600" height="450" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/bolo-cavado-elisandra/" rel="attachment wp-att-8739"><img class="alignnone size-full wp-image-8739" title="BOLO CAVADO - ELISANDRA" src="https://www.trololodemulher.com.br/2012/06/BOLO-CAVADO-ELISANDRA.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -64,7 +61,7 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
 > </p>
 
 > <p align="justify">
->   <em>Faça a cobertura, espere amornar e jogue sobre o bolo, deixando escorrer pelas laterais. Decore à gosto.”</em> <strong>Elisa Brait | </strong><a href="http://eliquemfaz.blogspot.com.br/" target="_blank"><strong>A Eli quem faz!</strong></a>
+>   <em>Faça a cobertura, espere amornar e jogue sobre o bolo, deixando escorrer pelas laterais. Decore à gosto.”</em> <strong>Elisa Brait | </strong><a href="http://eliquemfaz.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>A Eli quem faz!</strong></a>
 > </p>
 
 <p align="center">
@@ -72,7 +69,7 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/bolo-da-moca-lindalva/" rel="attachment wp-att-8740"><img class="alignnone size-full wp-image-8740" title="BOLO DA MOCA - LINDALVA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/BOLO-DA-MOCA-LINDALVA.jpg" alt="" width="600" height="901" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/bolo-da-moca-lindalva/" rel="attachment wp-att-8740"><img class="alignnone size-full wp-image-8740" title="BOLO DA MOCA - LINDALVA" src="https://www.trololodemulher.com.br/2012/06/BOLO-DA-MOCA-LINDALVA.jpg" alt="" width="600" height="901" /></a>
 </p>
 
 > <p align="justify">
@@ -92,7 +89,7 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/bolo-de-banana-sarah/" rel="attachment wp-att-8741"><img class="alignnone size-full wp-image-8741" title="BOLO DE BANANA-SARAH" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/BOLO-DE-BANANA-SARAH.jpg" alt="" width="600" height="450" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/bolo-de-banana-sarah/" rel="attachment wp-att-8741"><img class="alignnone size-full wp-image-8741" title="BOLO DE BANANA-SARAH" src="https://www.trololodemulher.com.br/2012/06/BOLO-DE-BANANA-SARAH.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 > <p align="justify">
@@ -104,7 +101,7 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
 > </p>
 
 > <p align="justify">
->   <strong><em>Preparo: </em></strong><em>Bater no liquidificador e depois misturar em uma tigela com 2 copos de farinha de trigo e 1 colher de fermento. Depois de pronto, polvilhar com açúcar e canela! Beijo!!!”</em> <strong>Sarah | </strong><a href="http://www.aquitemumpouquinhodemim.blogspot.com.br/" target="_blank"><strong>Aqui tem um pouco de mim…</strong></a>
+>   <strong><em>Preparo: </em></strong><em>Bater no liquidificador e depois misturar em uma tigela com 2 copos de farinha de trigo e 1 colher de fermento. Depois de pronto, polvilhar com açúcar e canela! Beijo!!!”</em> <strong>Sarah | </strong><a href="http://www.aquitemumpouquinhodemim.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>Aqui tem um pouco de mim…</strong></a>
 > </p>
 
 <p align="center">
@@ -112,7 +109,7 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/bolo-de-caneca-debora/" rel="attachment wp-att-8742"><img class="alignnone size-full wp-image-8742" title="BOLO DE CANECA - DEBORA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/BOLO-DE-CANECA-DEBORA.jpg" alt="" width="600" height="450" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/bolo-de-caneca-debora/" rel="attachment wp-att-8742"><img class="alignnone size-full wp-image-8742" title="BOLO DE CANECA - DEBORA" src="https://www.trololodemulher.com.br/2012/06/BOLO-DE-CANECA-DEBORA.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 > <p align="justify">
@@ -124,7 +121,7 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
 > </p>
 
 > <p align="justify">
->   <em><strong>Modo de preparo</strong>: </em><em>Na própria caneca onde irá consumir, coloque o ovo e bata bem com um garfo. Coloque o óleo, o açúcar, o leite, e o chocolate e bata mais. Coloque a farinha de trigo e o fermento e misture delicadamente até encorpar. Leve ao microondas por 3 minutos em potência alta. </em><em>Obs.: A massa é mais mole que a de um bolo normal, não acrescente mais farinha. É super prático e rápido. Perfeito para o café da manhã ou lanche da tarde. Dá pra duas canecas de 220 ml (fiz numa caneca de aproximadamente 350ml) e pode ser servido quente com coberturas. Neste friozinho é bom, néh?!rs Pode também surpreender alguém especial com um bolinho assim logo cedo. É só usar a imaginação&#8230;  Até mais, bjs</em>” <a href="http://deborarosper.blogspot.com.br/" target="_blank"><strong>Débora Rosper</strong></a>
+>   <em><strong>Modo de preparo</strong>: </em><em>Na própria caneca onde irá consumir, coloque o ovo e bata bem com um garfo. Coloque o óleo, o açúcar, o leite, e o chocolate e bata mais. Coloque a farinha de trigo e o fermento e misture delicadamente até encorpar. Leve ao microondas por 3 minutos em potência alta. </em><em>Obs.: A massa é mais mole que a de um bolo normal, não acrescente mais farinha. É super prático e rápido. Perfeito para o café da manhã ou lanche da tarde. Dá pra duas canecas de 220 ml (fiz numa caneca de aproximadamente 350ml) e pode ser servido quente com coberturas. Neste friozinho é bom, néh?!rs Pode também surpreender alguém especial com um bolinho assim logo cedo. É só usar a imaginação&#8230;  Até mais, bjs</em>” <a href="http://deborarosper.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>Débora Rosper</strong></a>
 > </p>
 
 &nbsp;
@@ -134,7 +131,7 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/bolo-de-laranja-danieli/" rel="attachment wp-att-8744"><img class="alignnone size-full wp-image-8744" title="BOLO DE LARANJA - DANIELI" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/BOLO-DE-LARANJA-DANIELI.jpg" alt="" width="400" height="300" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/bolo-de-laranja-danieli/" rel="attachment wp-att-8744"><img class="alignnone size-full wp-image-8744" title="BOLO DE LARANJA - DANIELI" src="https://www.trololodemulher.com.br/2012/06/BOLO-DE-LARANJA-DANIELI.jpg" alt="" width="400" height="300" /></a>
 </p>
 
 &nbsp;
@@ -152,7 +149,7 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
 > </p>
 
 > <p align="justify">
->   <em><strong>Modo de preparo</strong>:  Bata as claras em neve e reserve. Na batedeira, bata as gemas com o açúcar. Em seguida, misture a farinha e o suco de laranja (para todas as medidas, usei um copo de requeijão). Retire da batedeira e misture delicadamente o fermento e as claras em neve (esse é o segredo para que ele fique fofinho). Coloque em uma assadeira untada e enfarinhada, e asse em forno pré-aquecido por cerca de 40 minutos. Depois de assado, fure todo o bolo com a ajuda de um garfo e derrame sobre ele o leite condensado, seguido pelo leite de coco. Espalhe bem e finalize com o coco ralado. Ficou tão fofo, mas tão fofo, que o bolo mal conseguiu parar em pé para posar para a foto… hehehehe</em> “ <strong>Danieli Cascaes | </strong><a href="http://www.nossacozinhadani.blogspot.com.br/" target="_blank"><strong>Nossa Cozinha</strong></a>
+>   <em><strong>Modo de preparo</strong>:  Bata as claras em neve e reserve. Na batedeira, bata as gemas com o açúcar. Em seguida, misture a farinha e o suco de laranja (para todas as medidas, usei um copo de requeijão). Retire da batedeira e misture delicadamente o fermento e as claras em neve (esse é o segredo para que ele fique fofinho). Coloque em uma assadeira untada e enfarinhada, e asse em forno pré-aquecido por cerca de 40 minutos. Depois de assado, fure todo o bolo com a ajuda de um garfo e derrame sobre ele o leite condensado, seguido pelo leite de coco. Espalhe bem e finalize com o coco ralado. Ficou tão fofo, mas tão fofo, que o bolo mal conseguiu parar em pé para posar para a foto… hehehehe</em> “ <strong>Danieli Cascaes | </strong><a href="http://www.nossacozinhadani.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>Nossa Cozinha</strong></a>
 > </p>
 
 <p align="center">
@@ -160,7 +157,7 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/bolo-de-iogurte-carol-maia/" rel="attachment wp-att-8743"><img class="alignnone size-full wp-image-8743" title="BOLO DE IOGURTE - CAROL MAIA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/BOLO-DE-IOGURTE-CAROL-MAIA.jpg" alt="" width="600" height="450" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/bolo-de-iogurte-carol-maia/" rel="attachment wp-att-8743"><img class="alignnone size-full wp-image-8743" title="BOLO DE IOGURTE - CAROL MAIA" src="https://www.trololodemulher.com.br/2012/06/BOLO-DE-IOGURTE-CAROL-MAIA.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 > <p align="justify">
@@ -176,7 +173,7 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
 > </p>
 
 > <p align="justify">
->   <em>Acrescente 50g de coco ralado ou flocos de coco (esse fica mais gostoso) e leve pra assar em forno pré-aquecido a 180°C por mais ou menos 40 minutos. Fica prontinho para ser devorado!!! Beijinhos e espero que tenha gostado!!! P.S. Não tinha foto do gostosinho, então corri pra cozinha e&#8230; mãos na massa!!”</em> <strong>Carol Maia | </strong><a href="http://bloguitodacarolzita.blogspot.com.br/" target="_blank"><strong>Bloguito da Carolzita</strong></a>
+>   <em>Acrescente 50g de coco ralado ou flocos de coco (esse fica mais gostoso) e leve pra assar em forno pré-aquecido a 180°C por mais ou menos 40 minutos. Fica prontinho para ser devorado!!! Beijinhos e espero que tenha gostado!!! P.S. Não tinha foto do gostosinho, então corri pra cozinha e&#8230; mãos na massa!!”</em> <strong>Carol Maia | </strong><a href="http://bloguitodacarolzita.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>Bloguito da Carolzita</strong></a>
 > </p>
 
 <p align="center">
@@ -184,7 +181,7 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/bolo-fofo-de-canela-carol/" rel="attachment wp-att-8745"><img class="alignnone size-full wp-image-8745" title="BOLO FOFO DE CANELA - CAROL" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/BOLO-FOFO-DE-CANELA-CAROL.jpg" alt="" width="600" height="1064" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/bolo-fofo-de-canela-carol/" rel="attachment wp-att-8745"><img class="alignnone size-full wp-image-8745" title="BOLO FOFO DE CANELA - CAROL" src="https://www.trololodemulher.com.br/2012/06/BOLO-FOFO-DE-CANELA-CAROL.jpg" alt="" width="600" height="1064" /></a>
 </p>
 
 > <p align="justify">
@@ -198,7 +195,7 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
 &nbsp;
 
 > <p align="justify">
->   <em><strong>Modo de fazer</strong>: Primeiro bata as claras em neve e reserve. Coloque em uma vasilha a margarina, adoçante (ou açúcar) e as gemas. Bata até formar um creme, pode ser na mão mesmo como eu fiz ou na batedeira. Acrescente a farinha alternando com o leite e mexa até formar uma massa homogênea. Acrescente as claras em neve e o fermento. Vá misturando bem devagar de baixo para cima para não tirar todo o ar e a massa ficar leve. Depois coloque a quantidade que desejar de canela em pó. Eu coloquei bastante porque adoro o gostinho da canela. Coloque em uma forma untada e leve ao forno em 180 graus. Faça o teste do palitinho para saber se está pronto. Minha casa vai ficou bem perfumada com o aroma da canela e a sua ficará também</em>.” <strong>Carol Vieira | </strong><a href="http://mundocarolvieira.blogspot.com.br/" target="_blank"><strong>Mundo da Carol</strong></a>
+>   <em><strong>Modo de fazer</strong>: Primeiro bata as claras em neve e reserve. Coloque em uma vasilha a margarina, adoçante (ou açúcar) e as gemas. Bata até formar um creme, pode ser na mão mesmo como eu fiz ou na batedeira. Acrescente a farinha alternando com o leite e mexa até formar uma massa homogênea. Acrescente as claras em neve e o fermento. Vá misturando bem devagar de baixo para cima para não tirar todo o ar e a massa ficar leve. Depois coloque a quantidade que desejar de canela em pó. Eu coloquei bastante porque adoro o gostinho da canela. Coloque em uma forma untada e leve ao forno em 180 graus. Faça o teste do palitinho para saber se está pronto. Minha casa vai ficou bem perfumada com o aroma da canela e a sua ficará também</em>.” <strong>Carol Vieira | </strong><a href="http://mundocarolvieira.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>Mundo da Carol</strong></a>
 > </p>
 
 <p align="center">
@@ -206,11 +203,11 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/bolo-muffin-eva-caroline/" rel="attachment wp-att-8748"><img class="alignnone size-full wp-image-8748" title="BOLO MUFFIN - EVA CAROLINE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/BOLO-MUFFIN-EVA-CAROLINE.jpg" alt="" width="600" height="400" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/bolo-muffin-eva-caroline/" rel="attachment wp-att-8748"><img class="alignnone size-full wp-image-8748" title="BOLO MUFFIN - EVA CAROLINE" src="https://www.trololodemulher.com.br/2012/06/BOLO-MUFFIN-EVA-CAROLINE.jpg" alt="" width="600" height="400" /></a>
 </p>
 
 > <p align="justify">
->   “<em>Tenho! tenho! tenho! Mas é receita da <strong><a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a></strong> que eu me apossei, pode? Ela me mostrou e eu apaixonei! É na verdade um muffin super fácil de fazer e super delícia! </em><em>A história desse &#8220;bolinho&#8221; é a seguinte: dia desses no facebook eu escrevi &#8211; <strong>Sem ovo numa casa ficam reduzidas as possibilidades de preparar delícias. Crepe? not. | bolo? não! | Panquecas? nada disso. humpft &#8211; </strong>Aí minha amiguinha Juliana do <strong>Pitadinha</strong> me mostrou </em><a href="http://www.pitadinha.com/2011/04/muffin-donuts.html" target="_blank"><strong><em>essa receitinha</em></strong></a><em>.</em>
+>   “<em>Tenho! tenho! tenho! Mas é receita da <strong><a href="http://www.pitadinha.com/" target="_blank" rel="noopener noreferrer">Pitadinha</a></strong> que eu me apossei, pode? Ela me mostrou e eu apaixonei! É na verdade um muffin super fácil de fazer e super delícia! </em><em>A história desse &#8220;bolinho&#8221; é a seguinte: dia desses no facebook eu escrevi &#8211; <strong>Sem ovo numa casa ficam reduzidas as possibilidades de preparar delícias. Crepe? not. | bolo? não! | Panquecas? nada disso. humpft &#8211; </strong>Aí minha amiguinha Juliana do <strong>Pitadinha</strong> me mostrou </em><a href="http://www.pitadinha.com/2011/04/muffin-donuts.html" target="_blank" rel="noopener noreferrer"><strong><em>essa receitinha</em></strong></a><em>.</em>
 > </p>
 
 > <p align="justify">
@@ -220,7 +217,7 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
 &nbsp;
 
 > <p align="justify">
->   <em><strong>Preparo</strong>: </em><em>Misture todos os ingredientes em uma tigela. Transfira para cinco forminhas untadas e enfarinhadas (ou forminhas de papel dentro das formas de cupcake/muffin). Leve ao forno pré-aquecido a 180º por 20 minutos ou até passarem no teste do palito. Derreta uma colher de manteiga e em outro recipiente misture um pouco de açúcar com canela. Desenforme os bolinhos ainda mornos e passe o topo na manteiga e em seguida na mistura de açúcar. Ela diz que faz 5, mas os meus sempre dá uns 7!!! Esse bolinho é fantástico porque é uma massa bem básica e daí você pode variar muito e criar um bolinho diferente mudando um simples ingrediente! Eu já fiz misturando com coco, com chocolate (quebro pedacinhos e só coloco no meio da massa), com nozes, com amendoas, com passas&#8230; Já fiz, usando uma receita só, 4 sabores diferentes &#8211; é só colocar o ingrediente adicional no fim, depois que a massa já estiver na forminha. </em><em>O outro ponto alto é que é super rápido de fazer a massa e de assar, e não suja quase nada. Isadora faz sozinha (ela tem 9 anos), e eu só coloco no forno! Já virou nossa receitinha de ouro! Um xêro!</em> “ <strong>Eva Caroline | </strong><a href="http://asperipeciasdeeva.com.br/" target="_blank"><strong>As peripécias de Eva</strong></a>
+>   <em><strong>Preparo</strong>: </em><em>Misture todos os ingredientes em uma tigela. Transfira para cinco forminhas untadas e enfarinhadas (ou forminhas de papel dentro das formas de cupcake/muffin). Leve ao forno pré-aquecido a 180º por 20 minutos ou até passarem no teste do palito. Derreta uma colher de manteiga e em outro recipiente misture um pouco de açúcar com canela. Desenforme os bolinhos ainda mornos e passe o topo na manteiga e em seguida na mistura de açúcar. Ela diz que faz 5, mas os meus sempre dá uns 7!!! Esse bolinho é fantástico porque é uma massa bem básica e daí você pode variar muito e criar um bolinho diferente mudando um simples ingrediente! Eu já fiz misturando com coco, com chocolate (quebro pedacinhos e só coloco no meio da massa), com nozes, com amendoas, com passas&#8230; Já fiz, usando uma receita só, 4 sabores diferentes &#8211; é só colocar o ingrediente adicional no fim, depois que a massa já estiver na forminha. </em><em>O outro ponto alto é que é super rápido de fazer a massa e de assar, e não suja quase nada. Isadora faz sozinha (ela tem 9 anos), e eu só coloco no forno! Já virou nossa receitinha de ouro! Um xêro!</em> “ <strong>Eva Caroline | </strong><a href="http://asperipeciasdeeva.com.br/" target="_blank" rel="noopener noreferrer"><strong>As peripécias de Eva</strong></a>
 > </p>
 
 <p align="justify">
@@ -235,13 +232,13 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/caldo-verde-amarelo-adriana-magre200/" rel="attachment wp-att-8706"><img class="alignnone size-full wp-image-8706" title="CALDO VERDE AMARELO - ADRIANA MAGRE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/CALDO-VERDE-AMARELO-ADRIANA-MAGRE200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/06/06/sopa-e-caldo/"><strong><span style="font-size: small;"><br /> Comida para a família e o coração: sopa e caldo</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/caldo-verde-amarelo-adriana-magre200/" rel="attachment wp-att-8706"><img class="alignnone size-full wp-image-8706" title="CALDO VERDE AMARELO - ADRIANA MAGRE200" src="https://www.trololodemulher.com.br/2012/06/CALDO-VERDE-AMARELO-ADRIANA-MAGRE200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/06/06/sopa-e-caldo/"><strong><span style="font-size: small;"><br /> Comida para a família e o coração: sopa e caldo</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/03/28/cozinha-apartamento-pequeno/pano-de-copa-caroline200/" rel="attachment wp-att-8595"><img class="alignnone size-full wp-image-8595" title="Pano de Copa Caroline200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/Pano-de-Copa-Caroline200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/03/14/cozinha-utensilios/"><strong><span style="font-size: small;"><br /> A cozinha fica muito mais bonita assim…</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/03/28/cozinha-apartamento-pequeno/pano-de-copa-caroline200/" rel="attachment wp-att-8595"><img class="alignnone size-full wp-image-8595" title="Pano de Copa Caroline200" src="https://www.trololodemulher.com.br/2012/03/Pano-de-Copa-Caroline200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/03/14/cozinha-utensilios/"><strong><span style="font-size: small;"><br /> A cozinha fica muito mais bonita assim…</span></strong></a>
       </p>
     </td>
   </tr>
@@ -249,13 +246,13 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/batata-ao-forno-funghi-secchi200/" rel="attachment wp-att-8564"><img class="alignnone size-full wp-image-8564" title="BATATA AO FORNO FUNGHI SECCHI200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/BATATA-AO-FORNO-FUNGHI-SECCHI200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/03/07/receita-com-batata/"><strong><span style="font-size: small;">Tem receita com batata no Bicha Fêmea? Tem sim, bonita!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/batata-ao-forno-funghi-secchi200/" rel="attachment wp-att-8564"><img class="alignnone size-full wp-image-8564" title="BATATA AO FORNO FUNGHI SECCHI200" src="https://www.trololodemulher.com.br/2012/03/BATATA-AO-FORNO-FUNGHI-SECCHI200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/03/07/receita-com-batata/"><strong><span style="font-size: small;">Tem receita com batata no Bicha Fêmea? Tem sim, bonita!</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/laranja200/" rel="attachment wp-att-8516"><img class="alignnone size-full wp-image-8516" title="LARANJA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/LARANJA200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/01/25/receitas-laranja/"><strong><span style="font-size: small;"><br /> Quer aprender 3 receitas deliciosas com laranja nos ingredientes?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/laranja200/" rel="attachment wp-att-8516"><img class="alignnone size-full wp-image-8516" title="LARANJA200" src="https://www.trololodemulher.com.br/2012/01/LARANJA200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/01/25/receitas-laranja/"><strong><span style="font-size: small;"><br /> Quer aprender 3 receitas deliciosas com laranja nos ingredientes?</span></strong></a>
       </p>
     </td>
   </tr>
@@ -263,20 +260,20 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/copos-coloridos200/" rel="attachment wp-att-8379"><img class="alignnone size-full wp-image-8379" title="COPOS COLORIDOS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/COPOS-COLORIDOS200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/12/21/cozinha-utensilios-design/"><strong><span style="font-size: small;"><br /> Cozinha com estilo e design… quem não quer?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/copos-coloridos200/" rel="attachment wp-att-8379"><img class="alignnone size-full wp-image-8379" title="COPOS COLORIDOS200" src="https://www.trololodemulher.com.br/2011/12/COPOS-COLORIDOS200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/12/21/cozinha-utensilios-design/"><strong><span style="font-size: small;"><br /> Cozinha com estilo e design… quem não quer?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/12/21/cozinha-utensilios-design/medalhao-baby-beef-molho-mostarda200/" rel="attachment wp-att-8315"><img class="alignnone size-full wp-image-8315" title="Medalhão Baby Beef Molho Mostarda200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Medalhão-Baby-Beef-Molho-Mostarda200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2011/12/14/grelhados-receitas/"><strong><span style="font-size: small;"><br /> Trio de grelhados by blogueiras das panelas… receitas delícia!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/12/21/cozinha-utensilios-design/medalhao-baby-beef-molho-mostarda200/" rel="attachment wp-att-8315"><img class="alignnone size-full wp-image-8315" title="Medalhão Baby Beef Molho Mostarda200" src="https://www.trololodemulher.com.br/2011/12/Medalhão-Baby-Beef-Molho-Mostarda200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2011/12/14/grelhados-receitas/"><strong><span style="font-size: small;"><br /> Trio de grelhados by blogueiras das panelas… receitas delícia!</span></strong></a>
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -291,13 +288,13 @@ E quem resiste a essa combinação perfeita que há no bolo com café? E nas tar
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

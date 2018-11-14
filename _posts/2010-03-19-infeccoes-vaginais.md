@@ -1,10 +1,7 @@
 ---
-id: 2788
 title: Dicas para evitar infecções vaginais no verão.
-date: 2010-03-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/03/19/infeccoes-vaginais/
 permalink: /2010/03/19/infeccoes-vaginais/
 categories:
   - Saúde
@@ -15,7 +12,7 @@ Mas, oh! Não podemos dar moleza para os males que podem nos acometer causando i
 
 <!--more-->
 
-Já ouviu falar da candidíase não é, bonita? Pois é, essa é uma infecção muito comum entre as mulheres, e os sintomas mais comuns são a coceira e corrimento esbranquiçado. Eu estava lendo um artigo que fala sobre esse mal, no site <a href="http://www.atmosferafeminina.com.br/" target="_blank">Atmosfera Feminina</a>, e constatei que nunca tive esse problema. Pode acreditar!
+Já ouviu falar da candidíase não é, bonita? Pois é, essa é uma infecção muito comum entre as mulheres, e os sintomas mais comuns são a coceira e corrimento esbranquiçado. Eu estava lendo um artigo que fala sobre esse mal, no site <a href="http://www.atmosferafeminina.com.br/" target="_blank" rel="noopener noreferrer">Atmosfera Feminina</a>, e constatei que nunca tive esse problema. Pode acreditar!
 
 Mas, oh! Nem pense que é por que eu sou alguma alma iluminada ou qualquer coisa assim. Só posso atribuir minha falta de experiência com essa infecção (ainda bem!!!) por alguns detalhes que fazem a diferença no meu dia a dia.
 
@@ -40,7 +37,7 @@ _Bora_ ver?
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/mulher-na-praia.jpg"><img class="aligncenter size-full wp-image-4306" title="mulher na praia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/mulher-na-praia.jpg" alt="" width="225" height="159" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/02/mulher-na-praia.jpg"><img class="aligncenter size-full wp-image-4306" title="mulher na praia" src="https://www.trololodemulher.com.br/2010/02/mulher-na-praia.jpg" alt="" width="225" height="159" /></a>
     </td>
   </tr>
 </table>
@@ -55,7 +52,7 @@ Sempre digo a marido que ser mulher não é fácil. São muitos os detalhes para
 
 Então, bonita, informe-se! Sempre!!
 
-Imagem: <a href="http://www.sxc.hu/profile/duchesssa" target="_blank">Duchesssa</a>
+Imagem: <a href="http://www.sxc.hu/profile/duchesssa" target="_blank" rel="noopener noreferrer">Duchesssa</a>
 
 **Leia mais sobre saúde&#8230;**
 

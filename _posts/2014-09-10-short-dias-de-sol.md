@@ -1,10 +1,7 @@
 ---
-id: 3341
 title: 'O bom e velho short: peça certeira nos dias de sol.'
-date: 2014-09-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/09/10/short-dias-de-sol/
 permalink: /2014/09/10/short-dias-de-sol/
 categories:
   - Moda
@@ -26,11 +23,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/MODA-PRIMAVERA-VERÃO-2015-SHORT-ALFAIATARIA.jpg"><img class="alignnone size-full wp-image-10389" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/MODA-PRIMAVERA-VERÃO-2015-SHORT-ALFAIATARIA.jpg" alt="MODA-PRIMAVERA-VERÃO-2015-SHORT-ALFAIATARIA" width="800" height="724" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/MODA-PRIMAVERA-VERÃO-2015-SHORT-ALFAIATARIA.jpg"><img class="alignnone size-full wp-image-10389" src="https://www.trololodemulher.com.br/2014/09/MODA-PRIMAVERA-VERÃO-2015-SHORT-ALFAIATARIA.jpg" alt="MODA-PRIMAVERA-VERÃO-2015-SHORT-ALFAIATARIA" width="800" height="724" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.pinterest.com/" target="_blank">Pinterest</a>
+  Imagem: <a href="http://www.pinterest.com/" target="_blank" rel="noopener noreferrer">Pinterest</a>
 </p>
 
 > <p align="justify">
@@ -58,11 +55,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/MODA-PRIMAVERA-VERÃO-2015-SHORT-RUNNER.jpg"><img class="alignnone size-full wp-image-10391" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/MODA-PRIMAVERA-VERÃO-2015-SHORT-RUNNER.jpg" alt="MODA-PRIMAVERA-VERÃO-2015-SHORT-RUNNER" width="400" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/MODA-PRIMAVERA-VERÃO-2015-SHORT-RUNNER.jpg"><img class="alignnone size-full wp-image-10391" src="https://www.trololodemulher.com.br/2014/09/MODA-PRIMAVERA-VERÃO-2015-SHORT-RUNNER.jpg" alt="MODA-PRIMAVERA-VERÃO-2015-SHORT-RUNNER" width="400" height="600" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://br.pinterest.com/" target="_blank">Pinterest</a>
+  Imagem: <a href="http://br.pinterest.com/" target="_blank" rel="noopener noreferrer">Pinterest</a>
 </p>
 
 > <p align="justify">
@@ -70,15 +67,15 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/LILIAN-JORDÃO-CONSULTORA-DE-IMAGEM-ESTILO.png"><img class="alignnone size-full wp-image-10388" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/LILIAN-JORDÃO-CONSULTORA-DE-IMAGEM-ESTILO.png" alt="LILIAN JORDÃO-CONSULTORA DE IMAGEM ESTILO" width="800" height="206" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/LILIAN-JORDÃO-CONSULTORA-DE-IMAGEM-ESTILO.png"><img class="alignnone size-full wp-image-10388" src="https://www.trololodemulher.com.br/2014/09/LILIAN-JORDÃO-CONSULTORA-DE-IMAGEM-ESTILO.png" alt="LILIAN JORDÃO-CONSULTORA DE IMAGEM ESTILO" width="800" height="206" /></a>
 </p>
 
 <p align="justify">
-  A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? <a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank">Clica aqui e se joga</a>!
+  A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? <a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank" rel="noopener noreferrer">Clica aqui e se joga</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 <p align="justify">

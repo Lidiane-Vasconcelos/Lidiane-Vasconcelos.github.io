@@ -1,15 +1,12 @@
 ---
-id: 3076
 title: 'Sorteio Bicha Fêmea &#038; La Pomme entre amigas!'
-date: 2011-11-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/11/09/sorteio-la-pomme/
 permalink: /2011/11/09/sorteio-la-pomme/
 categories:
   - Publieditorial
 ---
-E a gente continua a comemoração de **aniversário dos 3 anos do Bicha Fêmea** de um jeito diferente… aliás, de um jeito personalizado! Quem não gosta de se sentir única? Eu gosto! E a **<a href="https://www.lojalapomme.com.br/" target="_blank">La Pomme</a>** sabe muito bem disso, por isso ela direciona o seu trabalho para que seus clientes sintam-se assim: exclusivos!
+E a gente continua a comemoração de **aniversário dos 3 anos do Bicha Fêmea** de um jeito diferente… aliás, de um jeito personalizado! Quem não gosta de se sentir única? Eu gosto! E a **<a href="https://www.lojalapomme.com.br/" target="_blank" rel="noopener noreferrer">La Pomme</a>** sabe muito bem disso, por isso ela direciona o seu trabalho para que seus clientes sintam-se assim: exclusivos!
 
 &nbsp;
 
@@ -62,7 +59,7 @@ E a gente continua a comemoração de **aniversário dos 3 anos do Bicha Fêmea*
 </p>
 
 <p align="justify">
-  Para ganhar? Faça o seguinte: vá até o <strong><a href="https://www.lojalapomme.com.br/" target="_blank">site da La Pomme</a></strong>, dê uma olhada nos produtos, volte aqui nos comentários e me diga:
+  Para ganhar? Faça o seguinte: vá até o <strong><a href="https://www.lojalapomme.com.br/" target="_blank" rel="noopener noreferrer">site da La Pomme</a></strong>, dê uma olhada nos produtos, volte aqui nos comentários e me diga:
 </p>
 
 <p align="justify">

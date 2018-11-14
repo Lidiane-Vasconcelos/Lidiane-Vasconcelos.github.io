@@ -1,10 +1,7 @@
 ---
-id: 2874
 title: 3 dúvidas sobre decoração solucionadas no Bicha Fêmea…
-date: 2010-09-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/09/08/dicas-decoracao-2/
 permalink: /2010/09/08/dicas-decoracao-2/
 categories:
   - Dicas de Decoração
@@ -12,7 +9,7 @@ categories:
 Quem não tem dúvidas sobre decoração? Qualquer bicha fêmea mortal tem, e as leitoras do blog, que são espertas, enviaram as suas. Fique atenta, porque a dúvida alheia pode ser sua também, assim teremos oportunidade de, juntas, aprendermos regras básicas para deixar a casa ainda mais bonita.
 
 <p style="text-align: justify;">
-  A <strong><em>Arquiteta e blogueira Larissa</em></strong>, que edita o delicioso espaço virtual <a href="http://fuimorarnumacasinha.blogspot.com/" target="_blank">“Fui morar numa casinha…”</a>, respondeu algumas dúvidas de leitoras do Bicha Fêmea, e os segredos da decoração podem deixar a SUA casa ainda mais aconchegante. Confira!
+  A <strong><em>Arquiteta e blogueira Larissa</em></strong>, que edita o delicioso espaço virtual <a href="http://fuimorarnumacasinha.blogspot.com/" target="_blank" rel="noopener noreferrer">“Fui morar numa casinha…”</a>, respondeu algumas dúvidas de leitoras do Bicha Fêmea, e os segredos da decoração podem deixar a SUA casa ainda mais aconchegante. Confira!
 </p>
 
 <!--more-->
@@ -36,11 +33,11 @@ Quem não tem dúvidas sobre decoração? Qualquer bicha fêmea mortal tem, e as
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/poltrona.jpg"><img class="alignnone size-medium wp-image-5178" title="poltrona" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/poltrona-300x300.jpg" alt="" width="300" height="300" /></a></em></strong>
+  <strong><em><a href="https://www.trololodemulher.com.br/2010/09/poltrona.jpg"><img class="alignnone size-medium wp-image-5178" title="poltrona" src="https://www.trololodemulher.com.br/2010/09/poltrona-300x300.jpg" alt="" width="300" height="300" /></a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>
+  <em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em>
 </p>
 
 <p style="text-align: justify;">
@@ -62,11 +59,11 @@ Quem não tem dúvidas sobre decoração? Qualquer bicha fêmea mortal tem, e as
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cozinha.jpg"><img class="size-medium wp-image-5177 aligncenter" title="Modern kitchen with granite countertops" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cozinha-199x300.jpg" alt="" width="199" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/cozinha.jpg"><img class="size-medium wp-image-5177 aligncenter" title="Modern kitchen with granite countertops" src="https://www.trololodemulher.com.br/2010/09/cozinha-199x300.jpg" alt="" width="199" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.photoxpress.com/" target="_blank">photoXpress</a></em>
+  <em><a href="http://www.photoxpress.com/" target="_blank" rel="noopener noreferrer">photoXpress</a></em>
 </p>
 
 <p style="text-align: justify;">
@@ -88,11 +85,11 @@ Quem não tem dúvidas sobre decoração? Qualquer bicha fêmea mortal tem, e as
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cortina.jpg"><img class="size-medium wp-image-5176 aligncenter" title="cortina" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cortina-300x225.jpg" alt="" width="300" height="225" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/cortina.jpg"><img class="size-medium wp-image-5176 aligncenter" title="cortina" src="https://www.trololodemulher.com.br/2010/09/cortina-300x225.jpg" alt="" width="300" height="225" /></a>
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>
+  <em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em>
 </p>
 
 <p style="text-align: justify;">

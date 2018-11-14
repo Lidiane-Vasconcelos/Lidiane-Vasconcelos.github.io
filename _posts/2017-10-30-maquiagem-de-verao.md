@@ -1,10 +1,7 @@
 ---
-id: 3820
 title: Dicas pra sua maquiagem de verão leve e suave.
-date: 2017-10-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/10/30/maquiagem-de-verao/
 permalink: /2017/10/30/maquiagem-de-verao/
 categories:
   - Beleza
@@ -14,11 +11,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14314" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/MAQUIAGEM-DE-VERÃO-MAQUIAGEM-LEVE-MAQUIAGEM-SUAVE.jpg" alt="MAQUIAGEM DE VERÃO-MAQUIAGEM LEVE-MAQUIAGEM SUAVE" width="500" height="551" />
+  <img class="alignnone size-full wp-image-14314" src="https://www.trololodemulher.com.br/2017/10/MAQUIAGEM-DE-VERÃO-MAQUIAGEM-LEVE-MAQUIAGEM-SUAVE.jpg" alt="MAQUIAGEM DE VERÃO-MAQUIAGEM LEVE-MAQUIAGEM SUAVE" width="500" height="551" />
 </p>
 
 <p align="center">
-  <a href="https://herefordcitycentric.com/2016/04/08/forever-the-english-rose-springs-pretty-in-pink-make-up-palette/" target="_blank">Via</a>
+  <a href="https://herefordcitycentric.com/2016/04/08/forever-the-english-rose-springs-pretty-in-pink-make-up-palette/" target="_blank" rel="noopener noreferrer">Via</a>
 </p>
 
 <p align="justify">
@@ -42,7 +39,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14315" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/MAQUIAGEM-DE-VERÃO-MAQUIAGEM-LEVE-MAQUIAGEM-SUAVE2.jpg" alt="MAQUIAGEM DE VERÃO-MAQUIAGEM LEVE-MAQUIAGEM SUAVE[2]" width="600" height="833" />
+  <img class="alignnone size-full wp-image-14315" src="https://www.trololodemulher.com.br/2017/10/MAQUIAGEM-DE-VERÃO-MAQUIAGEM-LEVE-MAQUIAGEM-SUAVE2.jpg" alt="MAQUIAGEM DE VERÃO-MAQUIAGEM LEVE-MAQUIAGEM SUAVE[2]" width="600" height="833" />
 </p>
 
 <p align="center">
@@ -62,7 +59,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14316" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/MAQUIAGEM-DE-VERÃO-MAQUIAGEM-LEVE-MAQUIAGEM-SUAVE3.jpg" alt="MAQUIAGEM DE VERÃO-MAQUIAGEM LEVE-MAQUIAGEM SUAVE[3]" width="564" height="849" />
+  <img class="alignnone size-full wp-image-14316" src="https://www.trololodemulher.com.br/2017/10/MAQUIAGEM-DE-VERÃO-MAQUIAGEM-LEVE-MAQUIAGEM-SUAVE3.jpg" alt="MAQUIAGEM DE VERÃO-MAQUIAGEM LEVE-MAQUIAGEM SUAVE[3]" width="564" height="849" />
 </p>
 
 <p align="center">
@@ -78,7 +75,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14317" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/MAQUIAGEM-DE-VERÃO-MAQUIAGEM-LEVE-MAQUIAGEM-SUAVE5.jpg" alt="MAQUIAGEM DE VERÃO-MAQUIAGEM LEVE-MAQUIAGEM SUAVE[5]" width="564" height="564" />
+  <img class="alignnone size-full wp-image-14317" src="https://www.trololodemulher.com.br/2017/10/MAQUIAGEM-DE-VERÃO-MAQUIAGEM-LEVE-MAQUIAGEM-SUAVE5.jpg" alt="MAQUIAGEM DE VERÃO-MAQUIAGEM LEVE-MAQUIAGEM SUAVE[5]" width="564" height="564" />
 </p>
 
 <p align="center">
@@ -102,7 +99,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14318" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/MAQUIAGEM-DE-VERÃO-MAQUIAGEM-LEVE-MAQUIAGEM-SUAVE6.jpg" alt="MAQUIAGEM DE VERÃO-MAQUIAGEM LEVE-MAQUIAGEM SUAVE[6]" width="800" height="514" />
+  <img class="alignnone size-full wp-image-14318" src="https://www.trololodemulher.com.br/2017/10/MAQUIAGEM-DE-VERÃO-MAQUIAGEM-LEVE-MAQUIAGEM-SUAVE6.jpg" alt="MAQUIAGEM DE VERÃO-MAQUIAGEM LEVE-MAQUIAGEM SUAVE[6]" width="800" height="514" />
 </p>
 
 <p align="center">
@@ -118,19 +115,19 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14321" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/PAMELA-CABRINI-MAQUIADORA-PROFISSIONAL-MAQUIADORA-DESIGNER-DE-SOBRANCELHAS-RECIFE.png" alt="PAMELA CABRINI-MAQUIADORA PROFISSIONAL-MAQUIADORA-DESIGNER DE SOBRANCELHAS-RECIFE" width="800" height="189" />
+  <img class="alignnone size-full wp-image-14321" src="https://www.trololodemulher.com.br/2017/10/PAMELA-CABRINI-MAQUIADORA-PROFISSIONAL-MAQUIADORA-DESIGNER-DE-SOBRANCELHAS-RECIFE.png" alt="PAMELA CABRINI-MAQUIADORA PROFISSIONAL-MAQUIADORA-DESIGNER DE SOBRANCELHAS-RECIFE" width="800" height="189" />
 </p>
 
 <p align="justify">
-  Pâmela atende em Recife, seja com maquigem ou delineando perfeitamente suas sobancelhas. A moça ainda promove cursos de maquiagem, exclusivo ou para grupos. Entre em contato via whatsapp e peça mais informações: <strong>81 9 9529-6189</strong>, ou ainda, fique por dentro de suas novidades pela <a href="https://www.instagram.com/pamelacabrinimakeup/" target="_blank">Instagram. Clique aqui e siga</a>!
+  Pâmela atende em Recife, seja com maquigem ou delineando perfeitamente suas sobancelhas. A moça ainda promove cursos de maquiagem, exclusivo ou para grupos. Entre em contato via whatsapp e peça mais informações: <strong>81 9 9529-6189</strong>, ou ainda, fique por dentro de suas novidades pela <a href="https://www.instagram.com/pamelacabrinimakeup/" target="_blank" rel="noopener noreferrer">Instagram. Clique aqui e siga</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14278 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER.png" alt="LOJA TROLOLO DE MULHER" width="468" height="176" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14278 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER.png" alt="LOJA TROLOLO DE MULHER" width="468" height="176" /></a>
 </p>
 
 <p align="justify">

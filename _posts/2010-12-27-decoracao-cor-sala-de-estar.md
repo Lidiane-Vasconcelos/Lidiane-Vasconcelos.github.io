@@ -1,10 +1,7 @@
 ---
-id: 2926
 title: 'Decoração: cor da sala de estar. Qual escolher?'
-date: 2010-12-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/12/27/decoracao-cor-sala-de-estar/
 permalink: /2010/12/27/decoracao-cor-sala-de-estar/
 categories:
   - Salas
@@ -20,7 +17,7 @@ categories:
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/sala-de-estar-cor-azul-turquesa.jpg"><img class="alignnone size-full wp-image-5619" title="sala de estar -cor  azul turquesa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/sala-de-estar-cor-azul-turquesa.jpg" alt="" width="616" height="821" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/sala-de-estar-cor-azul-turquesa.jpg"><img class="alignnone size-full wp-image-5619" title="sala de estar -cor  azul turquesa" src="https://www.trololodemulher.com.br/2010/12/sala-de-estar-cor-azul-turquesa.jpg" alt="" width="616" height="821" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -36,19 +33,19 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank">Cores na decoração: veja 6 respostas para suas dúvidas.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank" rel="noopener noreferrer">Cores na decoração: veja 6 respostas para suas dúvidas.</a></strong>
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.decoracaodacasa.com/decoracao-sala-estar-cores/" target="_blank">Decoração da sala de estar: como inserir detalhes coloridos?</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/decoracao-sala-estar-cores/" target="_blank" rel="noopener noreferrer">Decoração da sala de estar: como inserir detalhes coloridos?</a></strong>
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.decoracaodacasa.com/parede-sala-estar-cores/" target="_blank">Para sua sala de estar: quer ainda mais ideias de cores?</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/parede-sala-estar-cores/" target="_blank" rel="noopener noreferrer">Para sua sala de estar: quer ainda mais ideias de cores?</a></strong>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/sala-de-estar-cor-marrom.jpg"><img class="alignnone size-full wp-image-5618" title="sala de estar - cor marrom" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/sala-de-estar-cor-marrom.jpg" alt="" width="616" height="462" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/sala-de-estar-cor-marrom.jpg"><img class="alignnone size-full wp-image-5618" title="sala de estar - cor marrom" src="https://www.trololodemulher.com.br/2010/12/sala-de-estar-cor-marrom.jpg" alt="" width="616" height="462" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -60,7 +57,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2013/06/05/decoracao-basica-simples/" target="_blank">Decoração básica com graça e charme: aprenda os truques!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2013/06/05/decoracao-basica-simples/" target="_blank" rel="noopener noreferrer">Decoração básica com graça e charme: aprenda os truques!</a></strong>
 </p>
 
 <p align="center">
@@ -68,7 +65,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/sala-de-estar-cor-creme.jpg"><img class="alignnone size-full wp-image-5616" title="sala de estar - cor creme" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/sala-de-estar-cor-creme.jpg" alt="" width="616" height="462" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/sala-de-estar-cor-creme.jpg"><img class="alignnone size-full wp-image-5616" title="sala de estar - cor creme" src="https://www.trololodemulher.com.br/2010/12/sala-de-estar-cor-creme.jpg" alt="" width="616" height="462" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -76,7 +73,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/sala-de-estar-cor-cinza-e-roxo.jpg"><img class="alignnone size-full wp-image-5622" title="sala de estar- cor cinza e roxo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/sala-de-estar-cor-cinza-e-roxo.jpg" alt="" width="616" height="462" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/sala-de-estar-cor-cinza-e-roxo.jpg"><img class="alignnone size-full wp-image-5622" title="sala de estar- cor cinza e roxo" src="https://www.trololodemulher.com.br/2010/12/sala-de-estar-cor-cinza-e-roxo.jpg" alt="" width="616" height="462" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -84,17 +81,17 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/sala-de-estar-cor-creme-e-vermelho.jpg"><img class="alignnone size-full wp-image-5617" title="sala de estar - cor creme e vermelho" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/sala-de-estar-cor-creme-e-vermelho.jpg" alt="" width="616" height="462" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/sala-de-estar-cor-creme-e-vermelho.jpg"><img class="alignnone size-full wp-image-5617" title="sala de estar - cor creme e vermelho" src="https://www.trololodemulher.com.br/2010/12/sala-de-estar-cor-creme-e-vermelho.jpg" alt="" width="616" height="462" /></a>
 </p>
 
 <p style="text-align: justify;">
   Sua sala é totalmente creme e você tem dúvidas sobre qual cor escolher para os objetos e detalhes? Que tal o vermelho? Sim! Olha bem: você pode escolher um tapete com tons de vermelho, assim como as almofadas. Mas não só de vermelho suas almofadas viveriam, porque dá para pincelar uma ou outra na cor dourada também. Viu? Creme e vermelho, no geral, combinam sim, bonita!
 </p>
 
-_Imagens:_ <a href="http://www.hgtv.com/" target="_blank"><em>HGTV.Start at Home</em></a>
+_Imagens:_ <a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer"><em>HGTV.Start at Home</em></a>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

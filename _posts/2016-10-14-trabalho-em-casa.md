@@ -1,10 +1,7 @@
 ---
-id: 3686
 title: 'Trabalho em casa e rotina doméstica: como conciliá-los?'
-date: 2016-10-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/10/14/trabalho-em-casa/
 permalink: /2016/10/14/trabalho-em-casa/
 categories:
   - Empreendedorismo Feminino
@@ -15,11 +12,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13104" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/TRABALHO-EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-ROTINA-DOMÉSTICA.jpg" alt="trabalho-empreendedorismo-empreendedorismo-feminino-rotina-domestica" width="800" height="548" />
+  <img class="alignnone size-full wp-image-13104" src="https://www.trololodemulher.com.br/2016/10/TRABALHO-EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-ROTINA-DOMÉSTICA.jpg" alt="trabalho-empreendedorismo-empreendedorismo-feminino-rotina-domestica" width="800" height="548" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.flickr.com/photos/128763078@N04/" target="_blank">BettaLivingUK</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC BY-NC</a>
+  Imagem: <a href="http://www.flickr.com/photos/128763078@N04/" target="_blank" rel="noopener noreferrer">BettaLivingUK</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC</a>
 </p>
 
 <p align="justify">
@@ -39,7 +36,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>Na parte da alimentação faço algo que me ajuda muito na semana: <strong><span style="color: #f79646;">dedico algumas horas para adiantar algumas providências no preparo da comida</span></strong>. Separo um dia para temperar carnes, deixar cortadinhas e no potinho congeladas, já pensando no prato que irei fazer, assim será somente cozinhar, e não irei precisar dedicar este tempo para isto. Também faço isso com feijão: cozinho para semana toda, e congelo, e não perde nadinha do gosto de fresco. Outra coisa que também faço é com legumes: deixo cortadinho e limpos, e temperos caseiros como cebola e alho já deixo cortado e prontinhos para uso naquela semana, isso me ajuda muito a otimizar meu tempo</em>.” <strong>Aline Santana é artesã</strong>, e dona da loja virtual <strong><a href="http://www.elo7.com.br/boutiqueateline/loja" target="_blank">Boutique Ateline</a></strong>, loja especializada em objetos de MDF para decoração afetiva, e artigos personalizados.
+  <em>Na parte da alimentação faço algo que me ajuda muito na semana: <strong><span style="color: #f79646;">dedico algumas horas para adiantar algumas providências no preparo da comida</span></strong>. Separo um dia para temperar carnes, deixar cortadinhas e no potinho congeladas, já pensando no prato que irei fazer, assim será somente cozinhar, e não irei precisar dedicar este tempo para isto. Também faço isso com feijão: cozinho para semana toda, e congelo, e não perde nadinha do gosto de fresco. Outra coisa que também faço é com legumes: deixo cortadinho e limpos, e temperos caseiros como cebola e alho já deixo cortado e prontinhos para uso naquela semana, isso me ajuda muito a otimizar meu tempo</em>.” <strong>Aline Santana é artesã</strong>, e dona da loja virtual <strong><a href="http://www.elo7.com.br/boutiqueateline/loja" target="_blank" rel="noopener noreferrer">Boutique Ateline</a></strong>, loja especializada em objetos de MDF para decoração afetiva, e artigos personalizados.
 </p>
 
 <p align="justify">
@@ -83,7 +80,7 @@ categories:
     </div>
 
   * <div align="justify">
-      <em>Banco, mercado, contas levam mais tempo com eles, mas retire a pressão do tempo e transforme isso em passeios. <strong><span style="color: #f79646;">Envolva as crianças nas atividades também</span></strong>.</em>” <strong>Sara Fredrich é assistente virtual de <a href="http://www.simonemitjans.com.br/" target="_blank">Simone Mitjans</a></strong>, Mentora de Sucesso para Mulheres.
+      <em>Banco, mercado, contas levam mais tempo com eles, mas retire a pressão do tempo e transforme isso em passeios. <strong><span style="color: #f79646;">Envolva as crianças nas atividades também</span></strong>.</em>” <strong>Sara Fredrich é assistente virtual de <a href="http://www.simonemitjans.com.br/" target="_blank" rel="noopener noreferrer">Simone Mitjans</a></strong>, Mentora de Sucesso para Mulheres.
     </div>
 
 <p align="justify">
@@ -107,7 +104,7 @@ categories:
 </p>
 
 <p align="justify">
-  Então meus dias são assim, de manhã cuido da casa, á tarde trabalho na produção e à noite fico com a família. Eu tenho uma dificuldade enorme pra dormir cedo, então depois que coloco as crianças na cama aproveito esse tempinho para <strong><span style="color: #f79646;">assistir cursos, pesquisar tendências e me atualizar</span></strong>, sou inquieta e sempre estou querendo aprender algo novo, e esse tempinho à noite é ótimo pra isso!” <strong>Joyce Martins é artesã</strong> e dona da <strong><a href="http://www.elo7.com.br/detalhesemfoco/loja" target="_blank">Detalhes em Foco</a></strong>, loja virtual especializada em artigos em feltro e tecido, tudo para o universo infantil.
+  Então meus dias são assim, de manhã cuido da casa, á tarde trabalho na produção e à noite fico com a família. Eu tenho uma dificuldade enorme pra dormir cedo, então depois que coloco as crianças na cama aproveito esse tempinho para <strong><span style="color: #f79646;">assistir cursos, pesquisar tendências e me atualizar</span></strong>, sou inquieta e sempre estou querendo aprender algo novo, e esse tempinho à noite é ótimo pra isso!” <strong>Joyce Martins é artesã</strong> e dona da <strong><a href="http://www.elo7.com.br/detalhesemfoco/loja" target="_blank" rel="noopener noreferrer">Detalhes em Foco</a></strong>, loja virtual especializada em artigos em feltro e tecido, tudo para o universo infantil.
 </p>
 
 <p align="justify">
@@ -115,23 +112,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/04/07/mulheres-empreendedoras/" target="_blank"><strong>Veja dicas de 5 mulheres empreendedoras e saia do lugar!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/04/07/mulheres-empreendedoras/" target="_blank" rel="noopener noreferrer"><strong>Veja dicas de 5 mulheres empreendedoras e saia do lugar!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/01/29/empreendedorismo-2/" target="_blank"><strong>Empreendedorismo: 6 maneiras de agir, e nunca desistir!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/01/29/empreendedorismo-2/" target="_blank" rel="noopener noreferrer"><strong>Empreendedorismo: 6 maneiras de agir, e nunca desistir!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/10/30/produtividade-2/" target="_blank"><strong>Produtividade: 5 mulheres empreendedoras dão dicas top!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/10/30/produtividade-2/" target="_blank" rel="noopener noreferrer"><strong>Produtividade: 5 mulheres empreendedoras dão dicas top!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank"><strong>De hobby a trabalho: como ganhar dinheiro?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank" rel="noopener noreferrer"><strong>De hobby a trabalho: como ganhar dinheiro?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

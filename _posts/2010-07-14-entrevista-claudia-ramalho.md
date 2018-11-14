@@ -1,10 +1,7 @@
 ---
-id: 2846
 title: 'Uma Bicha Fêmea por Outra: Cláudia Ramalho'
-date: 2010-07-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/07/14/entrevista-claudia-ramalho/
 permalink: /2010/07/14/entrevista-claudia-ramalho/
 categories:
   - Comportamento
@@ -12,7 +9,7 @@ categories:
 ---
 Ela é editora de um dos blogs femininos de variedades mais bem escritos que se vê pela blogosfera, é casada há 11 anos com seu querido, e mãe de duas princesas muito fofas.
 
-Cláudia Ramalho, muito mais bonita que imagina aos 36 anos, blogueira cuidadosa em tudo o que posta em seu “<a href="http://claudinha-feitoamo.blogspot.com/" target="_blank">Feito a Mão</a>”, conta um pouco de sua vida cheia de alegrias e busca pelo equilíbio enquanto mulher, mãe e dona de casa.
+Cláudia Ramalho, muito mais bonita que imagina aos 36 anos, blogueira cuidadosa em tudo o que posta em seu “<a href="http://claudinha-feitoamo.blogspot.com/" target="_blank" rel="noopener noreferrer">Feito a Mão</a>”, conta um pouco de sua vida cheia de alegrias e busca pelo equilíbio enquanto mulher, mãe e dona de casa.
 
 <!--more-->
 
@@ -31,7 +28,7 @@ Quando se tem 20 e poucos anos, a vida tem certas cores. Aos 30 e poucos, as nua
 > _“Estamos sempre nos reinventando, e mudar faz parte do processo de amadurecimento individual e matrimonial. Hoje o que fazemos para nos divertir é muito diferente do que fazíamos no começo de nosso relacionamento. Nossa visão de mundo e valores mudaram. E estamos sempre afinando os instrumentos. Li certa vez uma entrevista com o ator Michael J. Fox na revista Seleções, onde ele explicava o segredo da felicidade de seu casamento, que já dura 22 anos, apesar de sua doença. Segundo ele, mais que afinidades, é importante combinar o modo como as diferenças se complementam. Achei interessante porque lembro de que me certifiquei de que realmente amava meu marido quando mesmo conhecendo seus maiores defeitos, eles me pareceram toleráveis.”_
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/Cladia-com-marido.jpg"><img class="size-medium wp-image-4887 aligncenter" title="Cládia com marido" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/Cladia-com-marido-300x225.jpg" alt="" width="300" height="225" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/Cladia-com-marido.jpg"><img class="size-medium wp-image-4887 aligncenter" title="Cládia com marido" src="https://www.trololodemulher.com.br/2010/07/Cladia-com-marido-300x225.jpg" alt="" width="300" height="225" /></a>
 </p>
 
 Cláudia deve saber das coisas e do companheiro que tem. Mais do que nunca, foi num dos momentos mais delicados de sua vida, que soube perceber o quanto valia a pena estar ao lado de quem estava: quando desejou seu segundo bebê, e ela teimava em não vir…
@@ -45,7 +42,7 @@ Cláudia deve saber das coisas e do companheiro que tem. Mais do que nunca, foi 
 Marido bom é o que é bom pai também, ora pois! Isso se comprova na rotina da casa da blogueira, que divide com o marido responsabilidades como a de buscar as meninas na escola.
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/Claudia-com-filhas.jpg"><img class="size-medium wp-image-4888 aligncenter" title="Cláudia com filhas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/Claudia-com-filhas-300x225.jpg" alt="" width="300" height="225" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/Claudia-com-filhas.jpg"><img class="size-medium wp-image-4888 aligncenter" title="Cláudia com filhas" src="https://www.trololodemulher.com.br/2010/07/Claudia-com-filhas-300x225.jpg" alt="" width="300" height="225" /></a>
 </p>
 
 A educação das crianças e o debate sobre o que vem a ser legal ou não já foi bastante discutido entre as mães que frequentam o **_“Feito a Mão”._** Muita experiência é trocada por lá, e o assunto parece mesmo ser algo que empolga a Cláudia, que se importa com tudo o que chega aos olhos das pequenas:
@@ -59,7 +56,7 @@ A educação das crianças e o debate sobre o que vem a ser legal ou não já fo
 Vaidade: que mulher não tem? Problemas de estresse por conta do desempenho de várias funções: qual mulher não sofre desse mal? Sinais do tempo ao olhar-se no espelho: qual de nós não percebe? Como Cláudia, tão real quanto você e eu, lida com isso? Ela explica:
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/Claudia-sozinha.jpg"><img class="size-medium wp-image-4889 aligncenter" title="Cláudia sozinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/Claudia-sozinha-225x300.jpg" alt="" width="225" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/Claudia-sozinha.jpg"><img class="size-medium wp-image-4889 aligncenter" title="Cláudia sozinha" src="https://www.trololodemulher.com.br/2010/07/Claudia-sozinha-225x300.jpg" alt="" width="225" height="300" /></a>
 </p>
 
 **_Estresse e adversidades_**: _“Não conheço ninguém na sociedade ocidental que não sofra de alguma forma com isso. Ele vem em forma de ansiedade, de insônia, de irritabilidade no trânsito. No meu caso, meu calcanhar de aquiles é o estômago. Se fico estressada, desenvolvo gastrite. Também é comum minhas defesas ficarem mais baixas em períodos tensos. Talvez por isso eu gripe com frequência. De uns tempos para cá, deu para aparecer muita novidade&#8230; Minha mãe diz que é a idade chegando. Pode ser&#8230; rsrs._

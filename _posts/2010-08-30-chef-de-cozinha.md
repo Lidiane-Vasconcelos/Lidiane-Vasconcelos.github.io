@@ -1,10 +1,7 @@
 ---
-id: 2867
 title: O que é ser um chef de cozinha…
-date: 2010-08-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/08/30/chef-de-cozinha/
 permalink: /2010/08/30/chef-de-cozinha/
 categories:
   - Sem categoria
@@ -30,7 +27,7 @@ Quem trabalha com gastronomia sabe muito bem que não dá para ficar só dentro 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/fouet.jpg"><img class="size-medium wp-image-5104 aligncenter" title="fouet" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/fouet-300x236.jpg" alt="" width="300" height="236" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/fouet.jpg"><img class="size-medium wp-image-5104 aligncenter" title="fouet" src="https://www.trololodemulher.com.br/2010/08/fouet-300x236.jpg" alt="" width="300" height="236" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -50,7 +47,7 @@ Quem trabalha com gastronomia sabe muito bem que não dá para ficar só dentro 
 </p>
 
 <p style="text-align: justify;">
-  <em>Imagem: </em><a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+  <em>Imagem: </em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -62,7 +59,7 @@ Quem trabalha com gastronomia sabe muito bem que não dá para ficar só dentro 
   
   <tr>
     <td width="600" valign="top">
-      <em><a href="http://chefdeboracordeiro.blogspot.com/" target="_blank">Mirepoix</a></em>
+      <em><a href="http://chefdeboracordeiro.blogspot.com/" target="_blank" rel="noopener noreferrer">Mirepoix</a></em>
     </td>
   </tr>
 </table>

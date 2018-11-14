@@ -1,10 +1,7 @@
 ---
-id: 3326
 title: Me diz o que comes…e te direi se és saudável, ou não.
-date: 2014-07-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/07/25/alimentacao-saudavel/
 permalink: /2014/07/25/alimentacao-saudavel/
 categories:
   - Saúde
@@ -20,7 +17,7 @@ categories:
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/SAUDE-ALIMENTACAO-SAUDAVEL-NUTRICAO.jpg"><img class="alignnone size-full wp-image-10242" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/SAUDE-ALIMENTACAO-SAUDAVEL-NUTRICAO.jpg" alt="SAUDE-ALIMENTACAO SAUDAVEL-NUTRICAO" width="600" height="902" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/07/SAUDE-ALIMENTACAO-SAUDAVEL-NUTRICAO.jpg"><img class="alignnone size-full wp-image-10242" src="https://www.trololodemulher.com.br/2014/07/SAUDE-ALIMENTACAO-SAUDAVEL-NUTRICAO.jpg" alt="SAUDE-ALIMENTACAO SAUDAVEL-NUTRICAO" width="600" height="902" /></a>
 </p>
 
 &nbsp;
@@ -86,7 +83,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/SAUDE-ALIMENTACAO-SAUDAVEL-NUTRICAO-COGUMELOS-AZEITE-IOGURTE-TOMATES-PEIXE-BROCOLI.png"><img class="alignnone size-full wp-image-10245" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/SAUDE-ALIMENTACAO-SAUDAVEL-NUTRICAO-COGUMELOS-AZEITE-IOGURTE-TOMATES-PEIXE-BROCOLI.png" alt="SAUDE-ALIMENTACAO SAUDAVEL-NUTRICAO-COGUMELOS-AZEITE-IOGURTE-TOMATES-PEIXE-BROCOLI" width="600" height="428" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/07/SAUDE-ALIMENTACAO-SAUDAVEL-NUTRICAO-COGUMELOS-AZEITE-IOGURTE-TOMATES-PEIXE-BROCOLI.png"><img class="alignnone size-full wp-image-10245" src="https://www.trololodemulher.com.br/2014/07/SAUDE-ALIMENTACAO-SAUDAVEL-NUTRICAO-COGUMELOS-AZEITE-IOGURTE-TOMATES-PEIXE-BROCOLI.png" alt="SAUDE-ALIMENTACAO SAUDAVEL-NUTRICAO-COGUMELOS-AZEITE-IOGURTE-TOMATES-PEIXE-BROCOLI" width="600" height="428" /></a>
 </p>
 
 &nbsp;
@@ -104,7 +101,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/" target="_blank"><strong>Azeite: o óleo que é amigo do peito, e é uma delícia!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/" target="_blank" rel="noopener noreferrer"><strong>Azeite: o óleo que é amigo do peito, e é uma delícia!</strong></a>
 </p>
 
 <p align="justify">
@@ -120,7 +117,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/" target="_blank"><strong>Você sabe como preparar um molho de tomate SSS?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/" target="_blank" rel="noopener noreferrer"><strong>Você sabe como preparar um molho de tomate SSS?</strong></a>
 </p>
 
 <p align="justify">
@@ -132,7 +129,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/09/23/coracao-doenca-cardiovascular/" target="_blank"><strong>Seu coração está protegido de doenças cardiovasculares?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/23/coracao-doenca-cardiovascular/" target="_blank" rel="noopener noreferrer"><strong>Seu coração está protegido de doenças cardiovasculares?</strong></a>
 </p>
 
 <p align="justify">
@@ -140,21 +137,21 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/NUTRICIONISTA-PAMELA-MIGUEL-SAO-PAULO.png"><img class="alignnone size-full wp-image-9797" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/NUTRICIONISTA-PAMELA-MIGUEL-SAO-PAULO.png" alt="NUTRICIONISTA-PAMELA MIGUEL-SAO PAULO" width="518" height="304" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/09/NUTRICIONISTA-PAMELA-MIGUEL-SAO-PAULO.png"><img class="alignnone size-full wp-image-9797" src="https://www.trololodemulher.com.br/2013/09/NUTRICIONISTA-PAMELA-MIGUEL-SAO-PAULO.png" alt="NUTRICIONISTA-PAMELA MIGUEL-SAO PAULO" width="518" height="304" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  A <strong>Dra. Pâmela Miguel</strong> também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
+  A <strong>Dra. Pâmela Miguel</strong> também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank" rel="noopener noreferrer">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
 </p>
 
 &nbsp;
 
-Imagens: <a href="http://www.freeimages.com/" target="_blank">Free Images</a>
+Imagens: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">Free Images</a>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

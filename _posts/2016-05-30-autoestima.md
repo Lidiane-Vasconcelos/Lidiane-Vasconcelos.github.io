@@ -1,10 +1,7 @@
 ---
-id: 3618
 title: Medidas práticas pra restaurar sua autoestima… já!
-date: 2016-05-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/05/30/autoestima/
 permalink: /2016/05/30/autoestima/
 categories:
   - Beleza
@@ -30,7 +27,7 @@ categories:
 </p>
 
 <p align="justify">
-  A melhor das notícias é que o Trololó de Mulher conta com consultorias pra lá de especiais, assim como a da <strong>Márcia Damasceno, maquiadora de Belo Horizonte – MG</strong>, cujo trabalho lindo desenvolvido junto às mulheres se amplia por questões que vão muito, mas muito além da estética. Mesmo! Aliás, desde já e para que você confirme o que estou falando, sugiro que você <a href="http://www.marciadamasceno.com.br/" target="_blank">visite o site da moça e deixe seu melhor e-mail para receber seu conteúdo gratuito</a>. Garanto! Você vai ficar grata.
+  A melhor das notícias é que o Trololó de Mulher conta com consultorias pra lá de especiais, assim como a da <strong>Márcia Damasceno, maquiadora de Belo Horizonte – MG</strong>, cujo trabalho lindo desenvolvido junto às mulheres se amplia por questões que vão muito, mas muito além da estética. Mesmo! Aliás, desde já e para que você confirme o que estou falando, sugiro que você <a href="http://www.marciadamasceno.com.br/" target="_blank" rel="noopener noreferrer">visite o site da moça e deixe seu melhor e-mail para receber seu conteúdo gratuito</a>. Garanto! Você vai ficar grata.
 </p>
 
 <p align="justify">
@@ -38,11 +35,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12593" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/COMPORTAMENTO-COMPORTAMENTO-FEMININO-BELEZA-AUTOESTIMA.jpg" alt="COMPORTAMENTO-COMPORTAMENTO FEMININO-BELEZA-AUTOESTIMA" width="752" height="750" />
+  <img class="alignnone size-full wp-image-12593" src="https://www.trololodemulher.com.br/2016/05/COMPORTAMENTO-COMPORTAMENTO-FEMININO-BELEZA-AUTOESTIMA.jpg" alt="COMPORTAMENTO-COMPORTAMENTO FEMININO-BELEZA-AUTOESTIMA" width="752" height="750" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: <a href="http://www.laughandpee.com/" target="_blank" rel="noopener noreferrer">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank" rel="noopener noreferrer">Gratisography</a>
 </p>
 
 <p align="justify">
@@ -80,19 +77,19 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11903" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/MARCIA-DAMASCENO-MAQUIADORA-BELO-HORIZONTE-MINAS-GERAIS-MAQUIAGEM-NAO-E-TUDO2.jpg" alt="MARCIA DAMASCENO-MAQUIADORA-BELO HORIZONTE-MINAS GERAIS-MAQUIAGEM NAO E TUDO[2]" width="800" height="204" />
+  <img class="alignnone size-full wp-image-11903" src="https://www.trololodemulher.com.br/2016/02/MARCIA-DAMASCENO-MAQUIADORA-BELO-HORIZONTE-MINAS-GERAIS-MAQUIAGEM-NAO-E-TUDO2.jpg" alt="MARCIA DAMASCENO-MAQUIADORA-BELO HORIZONTE-MINAS GERAIS-MAQUIAGEM NAO E TUDO[2]" width="800" height="204" />
 </p>
 
 **Mais consultoria da Márcia:**
 
-**<a href="http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/" target="_blank">Maquiagem leve e sofisticada: como conseguir esse efeito?</a>**
+**<a href="http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/" target="_blank" rel="noopener noreferrer">Maquiagem leve e sofisticada: como conseguir esse efeito?</a>**
 
 <p align="justify">
-  Bonita, preciso dizer que meu coração saltitou de alegria quando conheci o trabalho da Márcia. “<em>Como assim uma maquiadora diz que maquiagem não é tudo, sendo essa sua profissão?</em>”, foi o que pensei logo que tomei conhecimento dessa profissional linda de viver. Isso me instigou muito, principalmente porque sempre acreditei nessa máxima, mas nunca vi um <em>expert</em> em <em>makes</em> propor uma abordagem nessa área que fosse além da estética. Que achado! Você <em>pre-ci-sa</em> conhecer o <a href="http://www.marciadamasceno.com.br/" target="_blank">site da Márcia</a>, sua <a href="https://www.facebook.com/maquiagemnaoetudo/timeline" target="_blank">fanpage</a>, <a href="http://www.marciadamasceno.com.br/#blog" target="_blank">seu blog</a> e <a href="http://www.marciadamasceno.com.br/produtos-marcia-damasceno/" target="_blank">sua loja</a>… prepare-se para uma deliciosa imersão em dicas simples e diretas sobre maquiagem, bem-estar e tudo o mais que nos deixa inspiradas a se cuidar melhor. É conteúdo de primeira, imperdível e apaixonante. Se joga!
+  Bonita, preciso dizer que meu coração saltitou de alegria quando conheci o trabalho da Márcia. “<em>Como assim uma maquiadora diz que maquiagem não é tudo, sendo essa sua profissão?</em>”, foi o que pensei logo que tomei conhecimento dessa profissional linda de viver. Isso me instigou muito, principalmente porque sempre acreditei nessa máxima, mas nunca vi um <em>expert</em> em <em>makes</em> propor uma abordagem nessa área que fosse além da estética. Que achado! Você <em>pre-ci-sa</em> conhecer o <a href="http://www.marciadamasceno.com.br/" target="_blank" rel="noopener noreferrer">site da Márcia</a>, sua <a href="https://www.facebook.com/maquiagemnaoetudo/timeline" target="_blank" rel="noopener noreferrer">fanpage</a>, <a href="http://www.marciadamasceno.com.br/#blog" target="_blank" rel="noopener noreferrer">seu blog</a> e <a href="http://www.marciadamasceno.com.br/produtos-marcia-damasceno/" target="_blank" rel="noopener noreferrer">sua loja</a>… prepare-se para uma deliciosa imersão em dicas simples e diretas sobre maquiagem, bem-estar e tudo o mais que nos deixa inspiradas a se cuidar melhor. É conteúdo de primeira, imperdível e apaixonante. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

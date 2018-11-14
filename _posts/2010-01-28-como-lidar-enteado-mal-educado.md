@@ -1,10 +1,7 @@
 ---
-id: 2773
 title: E se fosse você? Como lidaria com um enteado mal educado?
-date: 2010-01-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/01/28/como-lidar-enteado-mal-educado/
 permalink: /2010/01/28/como-lidar-enteado-mal-educado/
 categories:
   - Comportamento
@@ -61,7 +58,7 @@ Eu respondi para ela assim:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/MADRASTA-ENTEADO.jpg"><img class="alignnone size-full wp-image-10690" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/MADRASTA-ENTEADO.jpg" alt="MADRASTA ENTEADO" width="549" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/MADRASTA-ENTEADO.jpg"><img class="alignnone size-full wp-image-10690" src="https://www.trololodemulher.com.br/2014/12/MADRASTA-ENTEADO.jpg" alt="MADRASTA ENTEADO" width="549" height="800" /></a>
 </p>
 
 **
@@ -72,10 +69,10 @@ Você já vivenciou algo parecido? Conhece alguém que já teve que lidar com es
   Opiniões podemos ter várias, caberá a Ana decidir o que será melhor para ela, para o casamento dela e, principalmente, para a saúde mental dela. Mas quanto mais possibilidades para ela avaliar, melhor, concorda? Então, ajuda aí…
 </p>
 
-Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+Imagem: <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

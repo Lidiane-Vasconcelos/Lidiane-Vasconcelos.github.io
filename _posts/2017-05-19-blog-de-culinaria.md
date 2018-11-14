@@ -1,10 +1,7 @@
 ---
-id: 3765
 title: Tânia Telva, o talento por trás de um blog de culinária incrível!
-date: 2017-05-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/05/19/blog-de-culinaria/
 permalink: /2017/05/19/blog-de-culinaria/
 categories:
   - Comportamento
@@ -14,7 +11,7 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p align="justify">
-  Quem entra no <strong>blog de culinária </strong><a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want To Be a Cook</a> pela primeira vez certamente imagina que há alguém de muito talento por trás dele, com posts de escrita envolvente, fotografias belíssimas, receitas que nos atraem pelo bom gosto, e nos surpreendem pela execução descomplicada. Tânia Telva, a moça bonita que idealizou o blog, é quem está por trás desse trabalho de qualidade inquestionável, com um espaço virtual dedicado a boa cozinha bastante atraente, e que vale a pena acompanhar.
+  Quem entra no <strong>blog de culinária </strong><a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">I Want To Be a Cook</a> pela primeira vez certamente imagina que há alguém de muito talento por trás dele, com posts de escrita envolvente, fotografias belíssimas, receitas que nos atraem pelo bom gosto, e nos surpreendem pela execução descomplicada. Tânia Telva, a moça bonita que idealizou o blog, é quem está por trás desse trabalho de qualidade inquestionável, com um espaço virtual dedicado a boa cozinha bastante atraente, e que vale a pena acompanhar.
 </p>
 
 <p align="justify">
@@ -22,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13829" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/BLOG-DE-CULINARIA-TANIA-TELVA.jpg" alt="BLOG DE CULINARIA-TANIA TELVA" width="800" height="314" />
+  <img class="alignnone size-full wp-image-13829" src="https://www.trololodemulher.com.br/2017/05/BLOG-DE-CULINARIA-TANIA-TELVA.jpg" alt="BLOG DE CULINARIA-TANIA TELVA" width="800" height="314" />
 </p>
 
 <p align="justify">
@@ -30,11 +27,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13226" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/RECEITA-RECEITA-FACIL-RECEITA-PRATICA-RECEITA-RAPIDA-PAO-DE-QUEIJO.jpg" alt="receita-receita-facil-receita-pratica-receita-rapida-pao-de-queijo" width="800" height="531" />
+  <img class="alignnone size-full wp-image-13226" src="https://www.trololodemulher.com.br/2016/11/RECEITA-RECEITA-FACIL-RECEITA-PRATICA-RECEITA-RAPIDA-PAO-DE-QUEIJO.jpg" alt="receita-receita-facil-receita-pratica-receita-rapida-pao-de-queijo" width="800" height="531" />
 </p>
 
 <p align="center">
-  A <strong>receita de maior sucesso, das que foram publicadas aqui no Trololó de Mulher</strong>, foi a de pão de queijo… <em>hummm</em>… <a href="https://iwanttobeacook.wordpress.com/2016/10/16/pao-de-queijo-brazilian-cheese-puffs/" target="_blank">clique aqui e veja no blog de Tânia</a> (post em inglês e português) como preparar em casa essa delícia!
+  A <strong>receita de maior sucesso, das que foram publicadas aqui no Trololó de Mulher</strong>, foi a de pão de queijo… <em>hummm</em>… <a href="https://iwanttobeacook.wordpress.com/2016/10/16/pao-de-queijo-brazilian-cheese-puffs/" target="_blank" rel="noopener noreferrer">clique aqui e veja no blog de Tânia</a> (post em inglês e português) como preparar em casa essa delícia!
 </p>
 
 <p align="justify">
@@ -50,11 +47,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13187" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/RECEITA-DOCE-BRIGADEIRO-BRIGADEIRO-GOURMET-BRIGADEIRO-DE-PISTACHE.jpg" alt="receita-doce-brigadeiro-brigadeiro-gourmet-brigadeiro-de-pistache" width="800" height="1200" />
+  <img class="alignnone size-full wp-image-13187" src="https://www.trololodemulher.com.br/2016/10/RECEITA-DOCE-BRIGADEIRO-BRIGADEIRO-GOURMET-BRIGADEIRO-DE-PISTACHE.jpg" alt="receita-doce-brigadeiro-brigadeiro-gourmet-brigadeiro-de-pistache" width="800" height="1200" />
 </p>
 
 <p align="center">
-  A <strong>segunda receita mais acessada aqui no blog</strong> é essa delícia: <strong>brigadeiro de pistache</strong>. <a href="https://iwanttobeacook.wordpress.com/2016/05/09/brigadeiro-brazilian-pistachio-truffles/" target="_blank">Clique aqui e delicie-se, lá no blog da moça, só de olhar</a>… e depois reproduza em seus domínios!
+  A <strong>segunda receita mais acessada aqui no blog</strong> é essa delícia: <strong>brigadeiro de pistache</strong>. <a href="https://iwanttobeacook.wordpress.com/2016/05/09/brigadeiro-brazilian-pistachio-truffles/" target="_blank" rel="noopener noreferrer">Clique aqui e delicie-se, lá no blog da moça, só de olhar</a>… e depois reproduza em seus domínios!
 </p>
 
 <p align="justify">
@@ -62,7 +59,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Meu blog nasceu faz um ano e poucos meses, por acaso. Eu estava estudando inglês, mas não tinha motivação para escrever os textos chatos que os professores pediam nas aulas, então comecei a pensar sobre que coisa eu gostaria de escrever naquela língua. Como eu amo cozinhar e também gosto de fotografia, surgiu a ideia do blog. Mas como uma boa pernambucana da gema, também queria que o blog fosse escrito em português, e o resultado é o </em><a href="https://iwanttobeacook.wordpress.com/" target="_blank"><em>I want to be a cook</em></a><em>, um blog bilíngue que fala sobre comida</em>.”
+  “<em>Meu blog nasceu faz um ano e poucos meses, por acaso. Eu estava estudando inglês, mas não tinha motivação para escrever os textos chatos que os professores pediam nas aulas, então comecei a pensar sobre que coisa eu gostaria de escrever naquela língua. Como eu amo cozinhar e também gosto de fotografia, surgiu a ideia do blog. Mas como uma boa pernambucana da gema, também queria que o blog fosse escrito em português, e o resultado é o </em><a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer"><em>I want to be a cook</em></a><em>, um blog bilíngue que fala sobre comida</em>.”
 </p>
 
 <p align="justify">
@@ -74,11 +71,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13506" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/RECEITA-FACIL-RECEITA-PRATICA-SOPA-DE-LENTILHA.jpg" alt="RECEITA FACIL-RECEITA PRATICA-SOPA DE LENTILHA" width="800" height="1206" />
+  <img class="alignnone size-full wp-image-13506" src="https://www.trololodemulher.com.br/2017/02/RECEITA-FACIL-RECEITA-PRATICA-SOPA-DE-LENTILHA.jpg" alt="RECEITA FACIL-RECEITA PRATICA-SOPA DE LENTILHA" width="800" height="1206" />
 </p>
 
 <p align="center">
-  A <strong>terceira gostosura da Tânia mais acessada no Trololó de Mulher</strong> é a <strong>sopa de lentilha</strong>, cuja receita é simples: aposte nisso! <a href="https://iwanttobeacook.wordpress.com/2017/01/13/lentil-soup/" target="_blank">Clique aqui, e lá no blog de Tânia</a>, você encontra mais imagens inspiradoras e a receita completa.
+  A <strong>terceira gostosura da Tânia mais acessada no Trololó de Mulher</strong> é a <strong>sopa de lentilha</strong>, cuja receita é simples: aposte nisso! <a href="https://iwanttobeacook.wordpress.com/2017/01/13/lentil-soup/" target="_blank" rel="noopener noreferrer">Clique aqui, e lá no blog de Tânia</a>, você encontra mais imagens inspiradoras e a receita completa.
 </p>
 
 <p align="justify">
@@ -90,11 +87,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13826" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/BLOG-DE-CULINARIA-I-WANT-TO-BE-A-COOK-TANIA-TELVA.jpg" alt="BLOG DE CULINARIA-I WANT TO BE A COOK-TANIA TELVA" width="800" height="533" />
+  <img class="alignnone size-full wp-image-13826" src="https://www.trololodemulher.com.br/2017/05/BLOG-DE-CULINARIA-I-WANT-TO-BE-A-COOK-TANIA-TELVA.jpg" alt="BLOG DE CULINARIA-I WANT TO BE A COOK-TANIA TELVA" width="800" height="533" />
 </p>
 
 > <p align="justify">
->   “<em><strong>Gosto de cozinhar para pessoas que não têm medo de experimentar um prato que nunca comeu. Daquelas pessoas que podem dizer: não sei se vou gostar, mas vou experimentar isso de paladar e mente aberta. Talvez eu goste de cozinhar para essas pessoas porque me identifico com elas. Lembro de uma vez que pedi língua de pato frita em um restaurante chinês, o garçom, que era chinês, ficou me olhando de olhos arregalados quando fiz o pedido, minutos depois voltou para confirmar se eu realmente queria aquele prato, eu respondi que sim. Quando comi a língua, não curti o sabor nem a textura, mas e daí?! Ao menos experimentei.  Para falar a verdade, mesmo não tendo gostado tenho a curiosidade de provar o mesmo prato outra vez, em outro restaurante, claro. Uma vez ouvi dizer que pra você ter certeza se gosta ou não de uma comida deveria prová-la, no mínimo por três vezes; então ainda me restam minimamente duas tentativas. Se você tiver coragem de provar, o que não significa necessariamente comer três vezes uma comida que não foi tão interessante na primeira vez, parabéns! Você faz parte do seleto grupo de pessoas que eu gostaria de cozinhar</strong></em>.” Tânia Telva – <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want To Be a Cook</a>
+>   “<em><strong>Gosto de cozinhar para pessoas que não têm medo de experimentar um prato que nunca comeu. Daquelas pessoas que podem dizer: não sei se vou gostar, mas vou experimentar isso de paladar e mente aberta. Talvez eu goste de cozinhar para essas pessoas porque me identifico com elas. Lembro de uma vez que pedi língua de pato frita em um restaurante chinês, o garçom, que era chinês, ficou me olhando de olhos arregalados quando fiz o pedido, minutos depois voltou para confirmar se eu realmente queria aquele prato, eu respondi que sim. Quando comi a língua, não curti o sabor nem a textura, mas e daí?! Ao menos experimentei.  Para falar a verdade, mesmo não tendo gostado tenho a curiosidade de provar o mesmo prato outra vez, em outro restaurante, claro. Uma vez ouvi dizer que pra você ter certeza se gosta ou não de uma comida deveria prová-la, no mínimo por três vezes; então ainda me restam minimamente duas tentativas. Se você tiver coragem de provar, o que não significa necessariamente comer três vezes uma comida que não foi tão interessante na primeira vez, parabéns! Você faz parte do seleto grupo de pessoas que eu gostaria de cozinhar</strong></em>.” Tânia Telva – <a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">I Want To Be a Cook</a>
 > </p>
 
 <p align="justify">
@@ -102,11 +99,11 @@ categories:
 </p>
 
 <p align="justify">
-  Se joga nas redes! <strong>I Want to Be a Cook</strong> <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">no Facebook</a>, e <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram</a>. Delicie-se!
+  Se joga nas redes! <strong>I Want to Be a Cook</strong> <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank" rel="noopener noreferrer">no Facebook</a>, e <a href="https://www.instagram.com/iwanttobeacook/" target="_blank" rel="noopener noreferrer">no Instagram</a>. Delicie-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

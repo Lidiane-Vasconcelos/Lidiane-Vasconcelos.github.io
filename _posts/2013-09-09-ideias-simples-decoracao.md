@@ -1,10 +1,7 @@
 ---
-id: 3258
 title: 2 ideias simples de decoração para copiar já!
-date: 2013-09-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/09/09/ideias-simples-decoracao/
 permalink: /2013/09/09/ideias-simples-decoracao/
 categories:
   - Dicas de Decoração
@@ -18,7 +15,7 @@ Então… bati o olho em dois cantinhos compostos de forma muito simples, mas qu
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/DECORACAO-CASA-APARTAMENTO-INTERIORES.jpg"><img class="alignnone size-full wp-image-9759" alt="DECORACAO-CASA-APARTAMENTO-INTERIORES" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/DECORACAO-CASA-APARTAMENTO-INTERIORES.jpg" width="400" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/09/DECORACAO-CASA-APARTAMENTO-INTERIORES.jpg"><img class="alignnone size-full wp-image-9759" alt="DECORACAO-CASA-APARTAMENTO-INTERIORES" src="https://www.trololodemulher.com.br/2013/09/DECORACAO-CASA-APARTAMENTO-INTERIORES.jpg" width="400" height="600" /></a>
 </p>
 
 &nbsp;
@@ -28,7 +25,7 @@ Então… bati o olho em dois cantinhos compostos de forma muito simples, mas qu
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/DECORACAO-CASA-APARTAMENTO-INTERIORES2.jpg"><img class="alignnone size-full wp-image-9760" alt="DECORACAO-CASA-APARTAMENTO-INTERIORES[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/DECORACAO-CASA-APARTAMENTO-INTERIORES2.jpg" width="400" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/09/DECORACAO-CASA-APARTAMENTO-INTERIORES2.jpg"><img class="alignnone size-full wp-image-9760" alt="DECORACAO-CASA-APARTAMENTO-INTERIORES[2]" src="https://www.trololodemulher.com.br/2013/09/DECORACAO-CASA-APARTAMENTO-INTERIORES2.jpg" width="400" height="600" /></a>
 </p>
 
 <p align="center">
@@ -36,7 +33,7 @@ Então… bati o olho em dois cantinhos compostos de forma muito simples, mas qu
 </p>
 
 <p align="justify">
-  Imagens: <strong><em><a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Therapy</a></em></strong>
+  Imagens: <strong><em><a href="http://www.apartmenttherapy.com/" target="_blank" rel="noopener noreferrer">Apartment Therapy</a></em></strong>
 </p>
 
 <p align="center">
@@ -60,7 +57,7 @@ Então… bati o olho em dois cantinhos compostos de forma muito simples, mas qu
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -77,13 +74,13 @@ Então… bati o olho em dois cantinhos compostos de forma muito simples, mas qu
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

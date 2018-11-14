@@ -1,10 +1,7 @@
 ---
-id: 2828
 title: 'Organização como blogueira: faz alguma diferença?'
-date: 2010-06-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/06/11/organizacao-blogosfera/
 permalink: /2010/06/11/organizacao-blogosfera/
 categories:
   - Comportamento
@@ -13,7 +10,7 @@ categories:
 ---
 Tenho certeza que você não tem dúvidas, assim como eu não tenho, de que o acesso a **informações** na **blogosfera** facilita muito a nossa vida. Mas o excesso delas, e a ausência de **gestão** sobre essa leva de dados, pode causar um certo estresse. É ou não é?
 
-Foi exatamente nisso que pensei quando a Lelê, que escreve no blog “<a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>”, me questionou como eu gerenciava as visitas _bloguísticas_ que faço, e sugeriu que esse fosse um tema a ser debatido aqui com você, que também navega pela blogosfera e visita inúmeros blogs.
+Foi exatamente nisso que pensei quando a Lelê, que escreve no blog “<a href="http://blog.casadecatarina.com.br/" target="_blank" rel="noopener noreferrer">Casa de Catarina</a>”, me questionou como eu gerenciava as visitas _bloguísticas_ que faço, e sugeriu que esse fosse um tema a ser debatido aqui com você, que também navega pela blogosfera e visita inúmeros blogs.
 
 <!--more-->
 
@@ -28,7 +25,7 @@ Eu visito prioritariamente, mas não exclusivamente, quem comenta no Bicha Fême
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/mulher-no-computador.jpg"><img class="alignnone size-medium wp-image-4710" title="mulher no computador" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/mulher-no-computador-300x224.jpg" alt="" width="300" height="224" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/mulher-no-computador.jpg"><img class="alignnone size-medium wp-image-4710" title="mulher no computador" src="https://www.trololodemulher.com.br/2010/06/mulher-no-computador-300x224.jpg" alt="" width="300" height="224" /></a>
     </td>
     
     <td>
@@ -39,13 +36,13 @@ Eu visito prioritariamente, mas não exclusivamente, quem comenta no Bicha Fême
 
  
 
-Uma vez que eu identifiquei qual a prioridade em minhas visitas, e o conteúdo pareceu interessante a ponto de me sentir motivada a comentar, eu **processo** e decido, aqui na minha cabecinha pensante… _cof cof cof_…, se quero **disseminar** o que eu li. Se eu decido que quero divulgar aquele conteúdo, eu **armazeno** aquela fonte para disseminá-la no Twitter (**_<a href="http://twitter.com/bichafemea" target="_blank">me segue</a>_**?!) e no Orkut (**_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900" target="_blank">me adiciona</a>_**?!). Quando eu completo o ciclo de **busca**, **identificação**, **classificação**, **processamento**, **armazenamento** e **disseminação** de conteúdo, eu concluo que **isso é aprender interagindo**, e é quando estar presente na blogosfera faz todo o sentido para mim.
+Uma vez que eu identifiquei qual a prioridade em minhas visitas, e o conteúdo pareceu interessante a ponto de me sentir motivada a comentar, eu **processo** e decido, aqui na minha cabecinha pensante… _cof cof cof_…, se quero **disseminar** o que eu li. Se eu decido que quero divulgar aquele conteúdo, eu **armazeno** aquela fonte para disseminá-la no Twitter (**_<a href="http://twitter.com/bichafemea" target="_blank" rel="noopener noreferrer">me segue</a>_**?!) e no Orkut (**_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900" target="_blank" rel="noopener noreferrer">me adiciona</a>_**?!). Quando eu completo o ciclo de **busca**, **identificação**, **classificação**, **processamento**, **armazenamento** e **disseminação** de conteúdo, eu concluo que **isso é aprender interagindo**, e é quando estar presente na blogosfera faz todo o sentido para mim.
 
 Esse é o meu jeito de gerenciar minhas ações na blogosfera, e não me perder num emaranhado de coisas para fazer no mundo virtual. Tem sido assim a forma que uso para me prevenir do estresse que estar na blogosfera pode causar, e creio que tem dado resultado, porque só tenho saldo positivo disso tudo.
 
 Espero ter ajudado a Lelê com minha experiência pessoal como blogueira, e tenho certeza que ela quer ouvir tua opinião também, bonita. Conta aí: **como você gerencia** as **visitas e comentários** que faz na blogosfera? A **quantidade de blogs a ser visitado** já **te causou estresse** e **ansiedade**?
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 
 **Organização facilita a vida de qualquer mulher, não é? Quer ler mais sobre o assunto?**
 

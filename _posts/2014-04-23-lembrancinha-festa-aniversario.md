@@ -1,10 +1,7 @@
 ---
-id: 3290
 title: 'Lembrancinhas de festas que saem da mesmice: dicas.'
-date: 2014-04-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/04/23/lembrancinha-festa-aniversario/
 permalink: /2014/04/23/lembrancinha-festa-aniversario/
 categories:
   - Festas Infantis
@@ -20,25 +17,25 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/" target="_blank">9 ideias de sacola de festa infanti: faça você mesma.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/" target="_blank" rel="noopener noreferrer">9 ideias de sacola de festa infanti: faça você mesma.</a></strong>
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">Sacolinha de festa infantil: faça você mesma.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank" rel="noopener noreferrer">Sacolinha de festa infantil: faça você mesma.</a></strong>
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Foi pensando nisso que a <a href="http://www.festaexpress.com/?Menu=PaginaInicial" target="_blank">Festa Express</a> reuniu dicas das mais bacanas para te ajudar a pensar de um jeito diferente a forma como você pode rechear esses saquinhos, oferecendo lembrancinhas interessantes para a gurizada, e que vão deixar a comemoração bonita e divertida. Quer ver? Confere:
+  Foi pensando nisso que a <a href="http://www.festaexpress.com/?Menu=PaginaInicial" target="_blank" rel="noopener noreferrer">Festa Express</a> reuniu dicas das mais bacanas para te ajudar a pensar de um jeito diferente a forma como você pode rechear esses saquinhos, oferecendo lembrancinhas interessantes para a gurizada, e que vão deixar a comemoração bonita e divertida. Quer ver? Confere:
 </p>
 
 <!--more-->
 
 <p align="justify">
-  <em>1 – <strong>Escolha um tema e personalize a lembrancinha</strong>: na maioria das vezes escolher um tema é a parte mais fácil. Seu filhote está fissurado com a galinha pintadinha, ama as princesas, quer assistir Toy Story três vezes por dia, ou quer ser o homem aranha quando crescer. Temas comuns como estes são encontrados sem problema e uma festa temática será um total sucesso. Se futebol for o tema, por exemplo, aproveite para entrar no clima da Copa e envie os convites animando os convidados a vestir a camisa canarinha. Invista no verde e amarelo em copos e pratos descartáveis, guardanapos e bexigas para a decoração, encomende um bolo personalizado com a bandeira do Brasil, improvise traves e organize uma competição entre a criançada (e os adultos também) com brindes para quem marcar mais gols, e arremate a festa com um saquinho surpresa cheio de coisas boas — <strong>bandeirinhas para que os pequenos também celebrem durante os jogos, brinquedos como um <a href="http://www.festaexpress.com/produto/2035089/Mini-brinquedo-Campo-de-Futebol-(12un)" target="_blank">mini campo de futebol</a></strong><strong>, que além de divertido, estimula a coordenação motora da garotada, adesivos e até bolas de futebol que vêm murchas para caber na sacolinha (que também não podem deixar de ser no tema da Copa).</strong></em>
+  <em>1 – <strong>Escolha um tema e personalize a lembrancinha</strong>: na maioria das vezes escolher um tema é a parte mais fácil. Seu filhote está fissurado com a galinha pintadinha, ama as princesas, quer assistir Toy Story três vezes por dia, ou quer ser o homem aranha quando crescer. Temas comuns como estes são encontrados sem problema e uma festa temática será um total sucesso. Se futebol for o tema, por exemplo, aproveite para entrar no clima da Copa e envie os convites animando os convidados a vestir a camisa canarinha. Invista no verde e amarelo em copos e pratos descartáveis, guardanapos e bexigas para a decoração, encomende um bolo personalizado com a bandeira do Brasil, improvise traves e organize uma competição entre a criançada (e os adultos também) com brindes para quem marcar mais gols, e arremate a festa com um saquinho surpresa cheio de coisas boas — <strong>bandeirinhas para que os pequenos também celebrem durante os jogos, brinquedos como um <a href="http://www.festaexpress.com/produto/2035089/Mini-brinquedo-Campo-de-Futebol-(12un)" target="_blank" rel="noopener noreferrer">mini campo de futebol</a></strong><strong>, que além de divertido, estimula a coordenação motora da garotada, adesivos e até bolas de futebol que vêm murchas para caber na sacolinha (que também não podem deixar de ser no tema da Copa).</strong></em>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/04/FESTA-ANIVERSARIO-INFANTIL-LEMBRANCINHAS.jpg"><img class="alignnone size-full wp-image-9999" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/04/FESTA-ANIVERSARIO-INFANTIL-LEMBRANCINHAS.jpg" alt="FESTA-ANIVERSARIO-INFANTIL-LEMBRANCINHAS" width="600" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/04/FESTA-ANIVERSARIO-INFANTIL-LEMBRANCINHAS.jpg"><img class="alignnone size-full wp-image-9999" src="https://www.trololodemulher.com.br/2014/04/FESTA-ANIVERSARIO-INFANTIL-LEMBRANCINHAS.jpg" alt="FESTA-ANIVERSARIO-INFANTIL-LEMBRANCINHAS" width="600" height="600" /></a>
 </p>
 
 <p align="justify">
@@ -50,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/04/FESTA-ANIVERSARIO-INFANTIL-LEMBRANCINHAS2.jpg"><img class="alignnone size-full wp-image-10000" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/04/FESTA-ANIVERSARIO-INFANTIL-LEMBRANCINHAS2.jpg" alt="FESTA-ANIVERSARIO-INFANTIL-LEMBRANCINHAS[2]" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/04/FESTA-ANIVERSARIO-INFANTIL-LEMBRANCINHAS2.jpg"><img class="alignnone size-full wp-image-10000" src="https://www.trololodemulher.com.br/2014/04/FESTA-ANIVERSARIO-INFANTIL-LEMBRANCINHAS2.jpg" alt="FESTA-ANIVERSARIO-INFANTIL-LEMBRANCINHAS[2]" width="600" height="450" /></a>
 </p>
 
 <p align="justify">
@@ -66,21 +63,21 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/category/festas-infantis/" target="_blank">Clique aqui</a></strong> e veja todo o <strong>conteúdo do Trololó de Mulher sobre festas infantis</strong>, editado com carinho para você. Se joga!
+  <strong><a href="http://www.trololodemulher.com.br/category/festas-infantis/" target="_blank" rel="noopener noreferrer">Clique aqui</a></strong> e veja todo o <strong>conteúdo do Trololó de Mulher sobre festas infantis</strong>, editado com carinho para você. Se joga!
 </p>
 
 &nbsp;
 
-Então, bonita, ficou animada? Então, oh: há uma infinidade de opções de lembrancinhas para a festa do seu pequeno, tudo a um clique, lá na **Festa Express**. Quer espiar? **_<a href="http://www.festaexpress.com/?Menu=PaginaInicial" target="_blank">Clica aqui</a>_**, se joga, aproveita as dicas e o precinho camarada.
+Então, bonita, ficou animada? Então, oh: há uma infinidade de opções de lembrancinhas para a festa do seu pequeno, tudo a um clique, lá na **Festa Express**. Quer espiar? **_<a href="http://www.festaexpress.com/?Menu=PaginaInicial" target="_blank" rel="noopener noreferrer">Clica aqui</a>_**, se joga, aproveita as dicas e o precinho camarada.
 
 &nbsp;
 
-Imagens: <a href="http://www.freeimages.com/" target="_blank">freeimages</a>
+Imagens: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">freeimages</a>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>

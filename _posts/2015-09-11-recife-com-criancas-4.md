@@ -1,10 +1,7 @@
 ---
-id: 3484
 title: 'Agenda Recife com crianças: 12 e 13 de Setembro'
-date: 2015-09-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/09/11/recife-com-criancas-4/
 permalink: /2015/09/11/recife-com-criancas-4/
 categories:
   - Sem categoria
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/AGENDA-CULTURAL-RECIFE-CRIANÇAS.jpg"><img class="alignnone size-full wp-image-11341" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/AGENDA-CULTURAL-RECIFE-CRIANÇAS.jpg" alt="AGENDA CULTURAL - RECIFE -CRIANÇAS" width="800" height="529" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/AGENDA-CULTURAL-RECIFE-CRIANÇAS.jpg"><img class="alignnone size-full wp-image-11341" src="https://www.trololodemulher.com.br/2015/08/AGENDA-CULTURAL-RECIFE-CRIANÇAS.jpg" alt="AGENDA CULTURAL - RECIFE -CRIANÇAS" width="800" height="529" /></a>
 </p>
 
 <p align="justify">
@@ -22,11 +19,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-CRIANCAS.jpg"><img class="alignnone size-full wp-image-11449" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-CRIANCAS.jpg" alt="RECIFE-CRIANCAS" width="612" height="612" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/RECIFE-CRIANCAS.jpg"><img class="alignnone size-full wp-image-11449" src="https://www.trololodemulher.com.br/2015/09/RECIFE-CRIANCAS.jpg" alt="RECIFE-CRIANCAS" width="612" height="612" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-CRIANCAS2.jpg"><img class="alignnone size-full wp-image-11450" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-CRIANCAS2.jpg" alt="RECIFE-CRIANCAS[2]" width="612" height="612" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/RECIFE-CRIANCAS2.jpg"><img class="alignnone size-full wp-image-11450" src="https://www.trololodemulher.com.br/2015/09/RECIFE-CRIANCAS2.jpg" alt="RECIFE-CRIANCAS[2]" width="612" height="612" /></a>
 </p>
 
 <p align="justify">
@@ -34,7 +31,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-CRIANCAS3.jpg"><img class="alignnone size-full wp-image-11451" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-CRIANCAS3.jpg" alt="RECIFE-CRIANCAS[3]" width="800" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/RECIFE-CRIANCAS3.jpg"><img class="alignnone size-full wp-image-11451" src="https://www.trololodemulher.com.br/2015/09/RECIFE-CRIANCAS3.jpg" alt="RECIFE-CRIANCAS[3]" width="800" height="800" /></a>
 </p>
 
 <p align="justify">
@@ -46,7 +43,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-CRIANCAS5.jpg"><img class="alignnone size-full wp-image-11453" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-CRIANCAS5.jpg" alt="RECIFE-CRIANCAS[5]" width="800" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/RECIFE-CRIANCAS5.jpg"><img class="alignnone size-full wp-image-11453" src="https://www.trololodemulher.com.br/2015/09/RECIFE-CRIANCAS5.jpg" alt="RECIFE-CRIANCAS[5]" width="800" height="800" /></a>
 </p>
 
 <p align="justify">
@@ -58,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-CRIANCAS6.jpg"><img class="alignnone size-full wp-image-11454" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-CRIANCAS6.jpg" alt="RECIFE-CRIANCAS[6]" width="800" height="427" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/RECIFE-CRIANCAS6.jpg"><img class="alignnone size-full wp-image-11454" src="https://www.trololodemulher.com.br/2015/09/RECIFE-CRIANCAS6.jpg" alt="RECIFE-CRIANCAS[6]" width="800" height="427" /></a>
 </p>
 
 <p align="justify">
@@ -70,7 +67,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-CRIANCAS4.jpg"><img class="alignnone size-full wp-image-11452" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-CRIANCAS4.jpg" alt="RECIFE-CRIANCAS[4]" width="800" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/RECIFE-CRIANCAS4.jpg"><img class="alignnone size-full wp-image-11452" src="https://www.trololodemulher.com.br/2015/09/RECIFE-CRIANCAS4.jpg" alt="RECIFE-CRIANCAS[4]" width="800" height="800" /></a>
 </p>
 
 <p align="justify">
@@ -82,7 +79,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-CRIANCAS7.jpg"><img class="alignnone size-full wp-image-11455" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-CRIANCAS7.jpg" alt="RECIFE-CRIANCAS[7]" width="800" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/RECIFE-CRIANCAS7.jpg"><img class="alignnone size-full wp-image-11455" src="https://www.trololodemulher.com.br/2015/09/RECIFE-CRIANCAS7.jpg" alt="RECIFE-CRIANCAS[7]" width="800" height="800" /></a>
 </p>
 
 <p align="justify">
@@ -94,15 +91,15 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/CAIXA-CULTURAL-SHTIMSHLIM.jpg"><img class="alignnone size-full wp-image-11386" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/CAIXA-CULTURAL-SHTIMSHLIM.jpg" alt="CAIXA CULTURAL - SHTIMSHLIM" width="720" height="483" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/CAIXA-CULTURAL-SHTIMSHLIM.jpg"><img class="alignnone size-full wp-image-11386" src="https://www.trololodemulher.com.br/2015/08/CAIXA-CULTURAL-SHTIMSHLIM.jpg" alt="CAIXA CULTURAL - SHTIMSHLIM" width="720" height="483" /></a>
 </p>
 
 <p align="justify">
-  Sábado: 10h às 20h e Domingo: 10h às 17h. Distribuição de ingressos meia hora antes de cada performance. <strong>Local:</strong> Galeria 2. <strong>Entrada:</strong> De terça a sexta, as performances destinam-se a grupos fechados de escolas. Sábados e domingos, para o público espontâneo. <strong>Valor do Ingresso:</strong> Entrada Gratuita. O público participa do projeto de duas maneiras principais: visitando a instalação interativa, que ficará em exposição diariamente ou participando das performances, que acontecem aos sábados e domingos às 15h. De terça a sexta, as performances destinam-se a grupos fechados de escolas, que devem agendar a visita pelo telefone (81) 3425-1906 ou pelo e-mail gentearteirape@gmail.com. A classificação indicativa é a partir dos 6 anos. Mais informações <a href="http://www.caixacultural.gov.br/SitePages/evento-detalhe.aspx?uid=5&eid=510" target="_blank">aqui</a>.
+  Sábado: 10h às 20h e Domingo: 10h às 17h. Distribuição de ingressos meia hora antes de cada performance. <strong>Local:</strong> Galeria 2. <strong>Entrada:</strong> De terça a sexta, as performances destinam-se a grupos fechados de escolas. Sábados e domingos, para o público espontâneo. <strong>Valor do Ingresso:</strong> Entrada Gratuita. O público participa do projeto de duas maneiras principais: visitando a instalação interativa, que ficará em exposição diariamente ou participando das performances, que acontecem aos sábados e domingos às 15h. De terça a sexta, as performances destinam-se a grupos fechados de escolas, que devem agendar a visita pelo telefone (81) 3425-1906 ou pelo e-mail gentearteirape@gmail.com. A classificação indicativa é a partir dos 6 anos. Mais informações <a href="http://www.caixacultural.gov.br/SitePages/evento-detalhe.aspx?uid=5&eid=510" target="_blank" rel="noopener noreferrer">aqui</a>.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

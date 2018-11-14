@@ -1,10 +1,7 @@
 ---
-id: 2889
 title: Sua casa também possui auto-estima.
-date: 2010-10-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/10/04/casa-auto-estima/
 permalink: /2010/10/04/casa-auto-estima/
 categories:
   - Comportamento
@@ -32,7 +29,7 @@ Não é preciso muito para deixar sua casa com uma super auto-estima. Em tempos 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/casa-auto-estima.jpg"><img class="alignnone size-full wp-image-5287" title="casa auto-estima" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/casa-auto-estima.jpg" alt="" width="313" height="417" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/casa-auto-estima.jpg"><img class="alignnone size-full wp-image-5287" title="casa auto-estima" src="https://www.trololodemulher.com.br/2010/10/casa-auto-estima.jpg" alt="" width="313" height="417" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -51,7 +48,7 @@ Não é preciso muito para deixar sua casa com uma super auto-estima. Em tempos 
   Controle-se. Comece a partir das coisas simples, de si mesmo, mas sem cobranças. Quando tudo começa a ficar em ordem, a paz ressurge.
 </p>
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock-xchng</em></a>
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock-xchng</em></a>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
@@ -62,7 +59,7 @@ _Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock-xchng</em></a>
   
   <tr>
     <td width="600" valign="top">
-      <strong><em><a href="http://milasville.blogspot.com/" target="_blank">Mila’s Ville – Open House!</a></em></strong>
+      <strong><em><a href="http://milasville.blogspot.com/" target="_blank" rel="noopener noreferrer">Mila’s Ville – Open House!</a></em></strong>
     </td>
   </tr>
 </table>

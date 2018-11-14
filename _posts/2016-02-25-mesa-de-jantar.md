@@ -1,10 +1,7 @@
 ---
-id: 3549
 title: Como escolher a mesa de jantar perfeita para seu lar?
-date: 2016-02-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/02/25/mesa-de-jantar/
 permalink: /2016/02/25/mesa-de-jantar/
 categories:
   - Salas
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11989" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR11.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[11]" width="800" height="605" />
+  <img class="alignnone size-full wp-image-11989" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR11.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[11]" width="800" height="605" />
 </p>
 
 <p align="justify">
@@ -22,7 +19,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/salas-de-jantar-modernas/" target="_blank"><strong>5 salas de jantar modernas pra viver de amores</strong></a>
+  <a href="http://www.decoracaodacasa.com/salas-de-jantar-modernas/" target="_blank" rel="noopener noreferrer"><strong>5 salas de jantar modernas pra viver de amores</strong></a>
 </p>
 
 <p align="justify">
@@ -34,7 +31,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11981" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR3.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[3]" width="600" height="400" />
+  <img class="alignnone size-full wp-image-11981" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR3.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[3]" width="600" height="400" />
 </p>
 
 <p align="center">
@@ -42,11 +39,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11984" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR6.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[6]" width="800" height="800" />
+  <img class="alignnone size-full wp-image-11984" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR6.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[6]" width="800" height="800" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.lojaskd.com.br/" target="_blank">Lojas KD</a>
+  Via <a href="http://www.lojaskd.com.br/" target="_blank" rel="noopener noreferrer">Lojas KD</a>
 </p>
 
 <p align="justify">
@@ -58,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11979" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR" width="600" height="743" />
+  <img class="alignnone size-full wp-image-11979" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR" width="600" height="743" />
 </p>
 
 <p align="center">
@@ -66,7 +63,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11983" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR5.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[5]" width="800" height="604" />
+  <img class="alignnone size-full wp-image-11983" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR5.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[5]" width="800" height="604" />
 </p>
 
 <p align="center">
@@ -78,7 +75,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-sala-mesa-de-jantar/" target="_blank"><strong>Qual mesa de jantar reinaria absoluta ne decoração sua casa?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-sala-mesa-de-jantar/" target="_blank" rel="noopener noreferrer"><strong>Qual mesa de jantar reinaria absoluta ne decoração sua casa?</strong></a>
 </p>
 
 <p align="justify">
@@ -94,19 +91,19 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11980" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR2.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[2]" width="600" height="397" />
+  <img class="alignnone size-full wp-image-11980" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR2.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[2]" width="600" height="397" />
 </p>
 
 <p align="center">
-  Via <a href="http://cravottainteriors.com/" target="_blank">Cravotta Interiors</a>
+  Via <a href="http://cravottainteriors.com/" target="_blank" rel="noopener noreferrer">Cravotta Interiors</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11982" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR4.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[4]" width="880" height="660" />
+  <img class="alignnone size-full wp-image-11982" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR4.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[4]" width="880" height="660" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.apartmentguide.com/blog/" target="_blank">Apartment Guide</a>
+  Via <a href="http://www.apartmentguide.com/blog/" target="_blank" rel="noopener noreferrer">Apartment Guide</a>
 </p>
 
 <p align="justify">
@@ -114,7 +111,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/ambientes-sala-de-jantar/" target="_blank"><strong>3 ambientes inspiradores para sua sala de jantar. Comprove!</strong></a>
+  <a href="http://www.decoracaodacasa.com/ambientes-sala-de-jantar/" target="_blank" rel="noopener noreferrer"><strong>3 ambientes inspiradores para sua sala de jantar. Comprove!</strong></a>
 </p>
 
 <p align="justify">
@@ -126,15 +123,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11985" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR7.png" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[7]" width="639" height="424" />
+  <img class="alignnone size-full wp-image-11985" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR7.png" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[7]" width="639" height="424" />
 </p>
 
 <p align="center">
-  Mesa na sala de jantar integrada ao ambiente de estar, via <a href="http://www.houzz.com/" target="_blank">Houzz</a>
+  Mesa na sala de jantar integrada ao ambiente de estar, via <a href="http://www.houzz.com/" target="_blank" rel="noopener noreferrer">Houzz</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11986" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR8.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[8]" width="600" height="380" />
+  <img class="alignnone size-full wp-image-11986" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR8.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[8]" width="600" height="380" />
 </p>
 
 <p align="center">
@@ -146,11 +143,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/dicas-decoracao-mesa-jantar/" target="_blank"><strong>Dicas para a decoração sobre sua mesa de jantar.</strong></a>
+  <a href="http://www.decoracaodacasa.com/dicas-decoracao-mesa-jantar/" target="_blank" rel="noopener noreferrer"><strong>Dicas para a decoração sobre sua mesa de jantar.</strong></a>
 </p>
 
 <p align="justify">
-  Se por um lado a mesa pode ser algo totalmente integrado ao espaço, por outro ela pode atuar como um ponto de atenção na decoração, sobretudo se sobre o móvel está o ponto de iluminação escolhido a dedo para ela. Não deixe de ler o post sobre <a href="http://www.decoracaodacasa.com/lustre-pendente/" target="_blank">como decorar a sala de jantar com lustre pendente</a> e facilite sua escolha nesse sentido também.
+  Se por um lado a mesa pode ser algo totalmente integrado ao espaço, por outro ela pode atuar como um ponto de atenção na decoração, sobretudo se sobre o móvel está o ponto de iluminação escolhido a dedo para ela. Não deixe de ler o post sobre <a href="http://www.decoracaodacasa.com/lustre-pendente/" target="_blank" rel="noopener noreferrer">como decorar a sala de jantar com lustre pendente</a> e facilite sua escolha nesse sentido também.
 </p>
 
 <p align="justify">
@@ -158,7 +155,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11987" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR9.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[9]" width="800" height="800" />
+  <img class="alignnone size-full wp-image-11987" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR9.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[9]" width="800" height="800" />
 </p>
 
 <p align="center">
@@ -166,7 +163,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11988" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR10.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[10]" width="524" height="800" />
+  <img class="alignnone size-full wp-image-11988" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-SALA-DE-JANTAR-MESA-DE-JANTAR10.jpg" alt="DECORACAO-SALA DE JANTAR-MESA DE JANTAR[10]" width="524" height="800" />
 </p>
 
 <p align="center">
@@ -182,7 +179,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cadeiras-sala-jantar/" target="_blank"><strong>Cadeiras vermelhas: 6 ambientes inspiradores para te encorajar a usá-las.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cadeiras-sala-jantar/" target="_blank" rel="noopener noreferrer"><strong>Cadeiras vermelhas: 6 ambientes inspiradores para te encorajar a usá-las.</strong></a>
 </p>
 
 <p align="justify">
@@ -190,7 +187,7 @@ categories:
 </p>
 
 <p align="justify">
-  Faça a medição do espaço que você tem antes de ir até uma loja, para ter certeza de que escolherá um móvel que caiba na sua casa. Lembre-se de considerar o espaço de circulação com as cadeiras recolhidas sob a mesa para que ela não se transforme num <em>trambolho</em> na sua sala. <a href="http://casa.abril.com.br/materia/como-calcular-o-tamanho-de-uma-mesa-de-jantar-com-seis-lugares" target="_blank">Confira neste post, do site Casa Abril</a>, as medidas a serem consideradas na sua escolha.
+  Faça a medição do espaço que você tem antes de ir até uma loja, para ter certeza de que escolherá um móvel que caiba na sua casa. Lembre-se de considerar o espaço de circulação com as cadeiras recolhidas sob a mesa para que ela não se transforme num <em>trambolho</em> na sua sala. <a href="http://casa.abril.com.br/materia/como-calcular-o-tamanho-de-uma-mesa-de-jantar-com-seis-lugares" target="_blank" rel="noopener noreferrer">Confira neste post, do site Casa Abril</a>, as medidas a serem consideradas na sua escolha.
 </p>
 
 <p align="justify">
@@ -198,7 +195,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/08/01/cadeiras-sala-mesa-jantar/" target="_blank"><strong>Quer misturar cadeiras diferentes na mesa da sala de jantar?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/01/cadeiras-sala-mesa-jantar/" target="_blank" rel="noopener noreferrer"><strong>Quer misturar cadeiras diferentes na mesa da sala de jantar?</strong></a>
 </p>
 
 <p align="justify">
@@ -206,7 +203,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

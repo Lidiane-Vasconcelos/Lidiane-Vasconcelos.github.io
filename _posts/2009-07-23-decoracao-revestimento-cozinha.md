@@ -1,16 +1,13 @@
 ---
-id: 2690
 title: '“Pitacos” de decoração: revestimentos de cozinha.'
-date: 2009-07-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/07/23/decoracao-revestimento-cozinha/
 permalink: /2009/07/23/decoracao-revestimento-cozinha/
 categories:
   - Cozinha
 ---
 <p style="text-align: justify;">
-  A gente já sabe que os desdobramentos do nosso <em>trololó</em> nos comentários do blog “rolam” soltos, não é? Como não foi diferente quando vimos dicas de<a href="http://www.trololodemulher.com.br/2009/07/13/alternativas-que-podem-transformar-sua-parede/" target="_self"> <strong><em>decoração para paredes</em></strong></a>, a conversa com a Rose, do blog “<a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank">Receitinhas e Frescurinhas</a>”, acabou desembocando na reforma da casa dela. Como mulher gosta de perguntar as coisas a outra, porque tudo é motivo para fomentar o <em>trololó</em>, a bonita me perguntou:
+  A gente já sabe que os desdobramentos do nosso <em>trololó</em> nos comentários do blog “rolam” soltos, não é? Como não foi diferente quando vimos dicas de<a href="http://www.trololodemulher.com.br/2009/07/13/alternativas-que-podem-transformar-sua-parede/" target="_self"> <strong><em>decoração para paredes</em></strong></a>, a conversa com a Rose, do blog “<a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank" rel="noopener noreferrer">Receitinhas e Frescurinhas</a>”, acabou desembocando na reforma da casa dela. Como mulher gosta de perguntar as coisas a outra, porque tudo é motivo para fomentar o <em>trololó</em>, a bonita me perguntou:
 </p>
 
 <p style="text-align: justify;">
@@ -46,7 +43,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DECORACAO-COZINHA-REVESTIMENTO-PAREDE.png"><img class="alignnone size-full wp-image-10140" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DECORACAO-COZINHA-REVESTIMENTO-PAREDE.png" alt="DECORACAO-COZINHA-REVESTIMENTO-PAREDE" width="600" height="640" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/06/DECORACAO-COZINHA-REVESTIMENTO-PAREDE.png"><img class="alignnone size-full wp-image-10140" src="https://www.trololodemulher.com.br/2014/06/DECORACAO-COZINHA-REVESTIMENTO-PAREDE.png" alt="DECORACAO-COZINHA-REVESTIMENTO-PAREDE" width="600" height="640" /></a>
 </p>
 
 Rose, trouxe para o post mais algumas opções de cozinhas para você se inspirar, _tá_? Espero que goste.
@@ -80,7 +77,7 @@ Rose, trouxe para o post mais algumas opções de cozinhas para você se inspira
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.decoracaodacasa.com/cozinha-revestimento/" target="_blank">Qual cor de revestimento da área molhada escolher?</a>
+  <a href="http://www.decoracaodacasa.com/cozinha-revestimento/" target="_blank" rel="noopener noreferrer">Qual cor de revestimento da área molhada escolher?</a>
 </p>
 
 <p style="text-align: center;">
@@ -96,7 +93,7 @@ Rose, trouxe para o post mais algumas opções de cozinhas para você se inspira
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.decoracaodacasa.com/balcao-revestimento-cozinha/" target="_blank">Como combinar cor do balcão com o revestimento da cozinha?</a>
+  <a href="http://www.decoracaodacasa.com/balcao-revestimento-cozinha/" target="_blank" rel="noopener noreferrer">Como combinar cor do balcão com o revestimento da cozinha?</a>
 </p>
 
 <p style="text-align: center;">
@@ -107,12 +104,12 @@ Rose, trouxe para o post mais algumas opções de cozinhas para você se inspira
   Essa mescla de pedras com amarelo um pouco mais acentuado e outros mais claros surtiu um efeito muito bonito e iluminado. Note que a parede sobre os armários também não é revestida, como aqui em casa.
 </p>
 
-Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
+Imagens: <a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer">HGTV.com</a>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

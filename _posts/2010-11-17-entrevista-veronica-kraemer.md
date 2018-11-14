@@ -1,10 +1,7 @@
 ---
-id: 2912
 title: 'Uma Bicha Fêmea por Outra: Veronica Kraemer'
-date: 2010-11-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/11/17/entrevista-veronica-kraemer/
 permalink: /2010/11/17/entrevista-veronica-kraemer/
 categories:
   - Comportamento
@@ -15,7 +12,7 @@ A artista Veronica Kraemer já é bem conhecida na blogosfera por suas criaçõe
 <!--more-->
 
 <p style="text-align: justify;">
-  O dia começa cedo para a Vero, como é conhecida pela grande maioria na blogosfera graças ao seu blog <a href="http://www.alemdaruaatelier.com.br/" target="_blank">Além da Rua Atelier</a>, e é na sua caminhada matinal, logo cedo e diariamente, que ela organiza as ideias e pensa em tudo o que está pela frente no seu dia a dia.
+  O dia começa cedo para a Vero, como é conhecida pela grande maioria na blogosfera graças ao seu blog <a href="http://www.alemdaruaatelier.com.br/" target="_blank" rel="noopener noreferrer">Além da Rua Atelier</a>, e é na sua caminhada matinal, logo cedo e diariamente, que ela organiza as ideias e pensa em tudo o que está pela frente no seu dia a dia.
 </p>
 
 > <p style="text-align: justify;">
@@ -31,7 +28,7 @@ A artista Veronica Kraemer já é bem conhecida na blogosfera por suas criaçõe
 > </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Vero.jpg"><img class="alignnone size-full wp-image-5490" title="Vero" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Vero.jpg" alt="" width="291" height="447" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/Vero.jpg"><img class="alignnone size-full wp-image-5490" title="Vero" src="https://www.trololodemulher.com.br/2010/11/Vero.jpg" alt="" width="291" height="447" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -63,7 +60,7 @@ A artista Veronica Kraemer já é bem conhecida na blogosfera por suas criaçõe
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/cadeira.jpg"><img class="alignnone size-full wp-image-5488" title="cadeira" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/cadeira.jpg" alt="" width="312" height="416" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/cadeira.jpg"><img class="alignnone size-full wp-image-5488" title="cadeira" src="https://www.trololodemulher.com.br/2010/11/cadeira.jpg" alt="" width="312" height="416" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -99,7 +96,7 @@ A artista Veronica Kraemer já é bem conhecida na blogosfera por suas criaçõe
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/criado.jpg"><img class="alignnone size-full wp-image-5489" title="criado" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/criado.jpg" alt="" width="416" height="408" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/criado.jpg"><img class="alignnone size-full wp-image-5489" title="criado" src="https://www.trololodemulher.com.br/2010/11/criado.jpg" alt="" width="416" height="408" /></a>
 </p>
 
 <p style="text-align: justify;">

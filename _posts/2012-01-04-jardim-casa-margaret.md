@@ -1,10 +1,7 @@
 ---
-id: 3101
 title: Tem jardim na casa de Margaret? Ô, se tem!
-date: 2012-01-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/01/04/jardim-casa-margaret/
 permalink: /2012/01/04/jardim-casa-margaret/
 categories:
   - Comportamento
@@ -22,7 +19,7 @@ E como tem, bonita! O jardim na casa da **Margaret**, blogueira das mais conheci
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Margaret-e-Bi.jpg"><img class="alignnone size-full wp-image-8408" title="Margaret e Bi" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Margaret-e-Bi.jpg" alt="" width="600" height="567" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/Margaret-e-Bi.jpg"><img class="alignnone size-full wp-image-8408" title="Margaret e Bi" src="https://www.trololodemulher.com.br/2012/01/Margaret-e-Bi.jpg" alt="" width="600" height="567" /></a>
 </p>
 
 <p align="center">
@@ -32,7 +29,7 @@ E como tem, bonita! O jardim na casa da **Margaret**, blogueira das mais conheci
 &nbsp;
 
 <p align="justify">
-  Quem conhece a Margaret sabe que ela é o tipo de pessoa que gosta de colocar a mão na massa, por isso ela virou referência para a ideia do “faça você mesma” na decoração. Todas estamos muito acostumadas a ver no seu blog, o <strong><a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a></strong>, suas ideias aplicadas em reaproveitamento de móveis e objetos, e este post mostra que ela também sabe das coisas quando o assunto é compor um ambiente externo que dê a sensação plena de aconchego.
+  Quem conhece a Margaret sabe que ela é o tipo de pessoa que gosta de colocar a mão na massa, por isso ela virou referência para a ideia do “faça você mesma” na decoração. Todas estamos muito acostumadas a ver no seu blog, o <strong><a href="http://www.margaretss.com.br/" target="_blank" rel="noopener noreferrer">Margaretss</a></strong>, suas ideias aplicadas em reaproveitamento de móveis e objetos, e este post mostra que ela também sabe das coisas quando o assunto é compor um ambiente externo que dê a sensação plena de aconchego.
 </p>
 
 <p align="justify">
@@ -42,7 +39,7 @@ E como tem, bonita! O jardim na casa da **Margaret**, blogueira das mais conheci
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/varanda3.jpg"><img class="alignnone size-full wp-image-8412" title="varanda3" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/varanda3.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/varanda3.jpg"><img class="alignnone size-full wp-image-8412" title="varanda3" src="https://www.trololodemulher.com.br/2012/01/varanda3.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -60,15 +57,15 @@ E como tem, bonita! O jardim na casa da **Margaret**, blogueira das mais conheci
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/jardim12.jpg"><img class="alignnone size-full wp-image-8405" title="jardim12" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/jardim12.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/jardim12.jpg"><img class="alignnone size-full wp-image-8405" title="jardim12" src="https://www.trololodemulher.com.br/2012/01/jardim12.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/jardim13.jpg"><img class="alignnone size-full wp-image-8406" title="jardim13" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/jardim13.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/jardim13.jpg"><img class="alignnone size-full wp-image-8406" title="jardim13" src="https://www.trololodemulher.com.br/2012/01/jardim13.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/pergolado2.jpg"><img class="alignnone size-full wp-image-8411" title="pergolado2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/pergolado2.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/pergolado2.jpg"><img class="alignnone size-full wp-image-8411" title="pergolado2" src="https://www.trololodemulher.com.br/2012/01/pergolado2.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p align="center">
@@ -78,11 +75,11 @@ E como tem, bonita! O jardim na casa da **Margaret**, blogueira das mais conheci
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/jardim4.jpg"><img class="alignnone size-full wp-image-8404" title="jardim4" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/jardim4.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/jardim4.jpg"><img class="alignnone size-full wp-image-8404" title="jardim4" src="https://www.trololodemulher.com.br/2012/01/jardim4.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/jardim14.jpg"><img class="alignnone size-full wp-image-8407" title="jardim14" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/jardim14.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/jardim14.jpg"><img class="alignnone size-full wp-image-8407" title="jardim14" src="https://www.trololodemulher.com.br/2012/01/jardim14.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -117,13 +114,13 @@ Depois de um post desse, difícil é não sair suspirando e desejando mais cores
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/09/07/decoracao-verao-jardim/"><img class="alignnone size-full wp-image-6881" title="Jardim - Carol Carneiro[3]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Jardim-Carol-Carneiro3200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/09/07/decoracao-verao-jardim/"><strong><span style="font-size: small;">Qual espaço na sua casa é a cara do Verão?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/09/07/decoracao-verao-jardim/"><img class="alignnone size-full wp-image-6881" title="Jardim - Carol Carneiro[3]200" src="https://www.trololodemulher.com.br/2011/09/Jardim-Carol-Carneiro3200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/09/07/decoracao-verao-jardim/"><strong><span style="font-size: small;">Qual espaço na sua casa é a cara do Verão?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/jardim200.jpg"><img class="alignnone size-full wp-image-5844" title="jardim200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/jardim200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/10/29/decoracao-jardim/"><strong><span style="font-size: small;">Decoração de jardins com objetos reutilizados</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2011/01/jardim200.jpg"><img class="alignnone size-full wp-image-5844" title="jardim200" src="https://www.trololodemulher.com.br/2011/01/jardim200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/10/29/decoracao-jardim/"><strong><span style="font-size: small;">Decoração de jardins com objetos reutilizados</span></strong></a>
       </p>
     </td>
   </tr>
@@ -147,13 +144,13 @@ Depois de um post desse, difícil é não sair suspirando e desejando mais cores
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="http://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     

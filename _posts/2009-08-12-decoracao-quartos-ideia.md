@@ -1,10 +1,7 @@
 ---
-id: 2696
 title: '“Pitacos” de Bicha Fêmea: decoração de quartos.'
-date: 2009-08-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/08/12/decoracao-quartos-ideia/
 permalink: /2009/08/12/decoracao-quartos-ideia/
 categories:
   - Quarto
@@ -12,7 +9,7 @@ categories:
 O Bicha é lugar de _trololó_, não é? Será que vai se transformar num _point_ virtual de _pitacos_ também? Explico: a Bianca, leitora do Bicha, pediu sugestões para o quarto dela nos comentários [deste post](http://www.trololodemulher.com.br/2009/03/05/ideias-essencialmente-femininas-para-a-decorao-do-nosso-quarto/), em que vemos algumas dicas para dar um “ar” feminino ao quarto. No pedido de sugestões, ela chamou atenção para o desejo de que o quarto fique organizado e bonito, e também com cara de jovem. E salienta que o quarto tem pouco espaço.
 
 <p style="text-align: justify;">
-  Como nós já ensaiamos antes uma boa sessão de <em>pitacos</em> para a cozinha da Rose <a href="http://www.trololodemulher.com.br/2009/07/23/pitacos-de-bicha-fmea-revestimentos-de-cozinha/">por aqui</a>, achei que também poderíamos dar nossas sugestões para a Bianca. Cheguei a enviar um e-mail para a bonita avisando que prepararia o post, mas não obtive resposta. Será que perdi a leitora? Pode até ser, mas a ideia para o post e as dicas? Isso não!<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/emoticonthumbsdown2.gif"><img style="display: inline;" title="EmoticonThumbsDown" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/emoticonthumbsdown_thumb2.gif" alt="EmoticonThumbsDown" width="23" height="18" /></a>
+  Como nós já ensaiamos antes uma boa sessão de <em>pitacos</em> para a cozinha da Rose <a href="http://www.trololodemulher.com.br/2009/07/23/pitacos-de-bicha-fmea-revestimentos-de-cozinha/">por aqui</a>, achei que também poderíamos dar nossas sugestões para a Bianca. Cheguei a enviar um e-mail para a bonita avisando que prepararia o post, mas não obtive resposta. Será que perdi a leitora? Pode até ser, mas a ideia para o post e as dicas? Isso não!<a href="https://www.trololodemulher.com.br/2009/08/emoticonthumbsdown2.gif"><img style="display: inline;" title="EmoticonThumbsDown" src="https://www.trololodemulher.com.br/2009/08/emoticonthumbsdown_thumb2.gif" alt="EmoticonThumbsDown" width="23" height="18" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -36,10 +33,10 @@ O Bicha é lugar de _trololó_, não é? Será que vai se transformar num _point
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Quadro-Cenario-Bolsinha.jpg"><img class="size-medium wp-image-5218 aligncenter" title="Quadro Cenário Bolsinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Quadro-Cenario-Bolsinha-300x200.jpg" alt="" width="300" height="200" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/Quadro-Cenario-Bolsinha.jpg"><img class="size-medium wp-image-5218 aligncenter" title="Quadro Cenário Bolsinha" src="https://www.trololodemulher.com.br/2010/09/Quadro-Cenario-Bolsinha-300x200.jpg" alt="" width="300" height="200" /></a>
 </p>
 
-Onde cabe, em seu quarto, um quadro TO-TAL-MEN-TE feminino assim? Está imaginando? Talvez seja esse o detalhe que está faltando no seu cantinho, _hã?! Para ver mais detalhes sobre esse quadro,_ <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/" target="_blank"><strong><em>basta clicar aqui</em></strong></a>_._
+Onde cabe, em seu quarto, um quadro TO-TAL-MEN-TE feminino assim? Está imaginando? Talvez seja esse o detalhe que está faltando no seu cantinho, _hã?! Para ver mais detalhes sobre esse quadro,_ <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/" target="_blank" rel="noopener noreferrer"><strong><em>basta clicar aqui</em></strong></a>_._
 
 <p style="text-align: center;">
   <img class="aligncenter" title="HGTV.com" src="http://img.hgtv.com/HGTV/2007/05/14/colorbedroom_Pinkbedroom_lg.jpg" alt="HGTV.com" />
@@ -54,11 +51,11 @@ Onde cabe, em seu quarto, um quadro TO-TAL-MEN-TE feminino assim? Está imaginan
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Caixa-Chita2.jpg"><img class="size-medium wp-image-5219 aligncenter" title="Caixa Chita2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Caixa-Chita2-300x240.jpg" alt="" width="300" height="240" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/Caixa-Chita2.jpg"><img class="size-medium wp-image-5219 aligncenter" title="Caixa Chita2" src="https://www.trololodemulher.com.br/2010/09/Caixa-Chita2-300x240.jpg" alt="" width="300" height="240" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Caixas organizam, porque cada uma delas ganha um propósito e tudo fica no seu devido lugar. E se além disso elas ainda pudessem decorar? Aquele canto da casa, do quarto ou de onde você imaginar pode ganhar charme com caixas artesanais e personalizadas. É ou não é? Esta caixa está a venda no <strong><em>Mercado de Artes</em></strong>, a loja virtual do Bicha Fêmea. Para saber maiores detalhes sobre ela, basta <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-chita/" target="_blank">clicar aqui</a></em></strong>.
+  Caixas organizam, porque cada uma delas ganha um propósito e tudo fica no seu devido lugar. E se além disso elas ainda pudessem decorar? Aquele canto da casa, do quarto ou de onde você imaginar pode ganhar charme com caixas artesanais e personalizadas. É ou não é? Esta caixa está a venda no <strong><em>Mercado de Artes</em></strong>, a loja virtual do Bicha Fêmea. Para saber maiores detalhes sobre ela, basta <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-chita/" target="_blank" rel="noopener noreferrer">clicar aqui</a></em></strong>.
 </p>
 
 <p style="text-align: center;">
@@ -77,9 +74,9 @@ Onde cabe, em seu quarto, um quadro TO-TAL-MEN-TE feminino assim? Está imaginan
   Nesse ambiente não há cabeceira. Essa pode ser uma boa estratégia para garantir alguns centímetros a mais, e para não ficar “em branco”, quadros podem cumprir essa função. Atente para o verde claro novamente, sendo a cortina numa tonalidade mais escura. Fica, então, a sugestão dessas cores…
 </p>
 
-E resta, então, a dúvida se a Bianca verá esse post…[<img style="display: inline;" title="EmoticonConfused" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/emoticonconfused_thumb.gif" alt="EmoticonConfused" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/emoticonconfused.gif)
+E resta, então, a dúvida se a Bianca verá esse post…[<img style="display: inline;" title="EmoticonConfused" src="https://www.trololodemulher.com.br/2009/08/emoticonconfused_thumb.gif" alt="EmoticonConfused" width="18" height="18" />](https://www.trololodemulher.com.br/2009/08/emoticonconfused.gif)
 
-Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
+Imagens: <a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer">HGTV.com</a>
 
 <p style="text-align: center;">
   <strong><em>Sugestões de Decoração & Organização para seu quarto</em></strong>
@@ -89,7 +86,7 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
   <tr>
     <td width="300" valign="top">
       <div style="text-align: center;">
-        <em><strong><a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-de-porta-scarpin/" target="_blank">Aparador de Porta Scarpin</a></strong></em>
+        <em><strong><a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-de-porta-scarpin/" target="_blank" rel="noopener noreferrer">Aparador de Porta Scarpin</a></strong></em>
       </div>
       
       <div>
@@ -120,10 +117,10 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
         </p></td> 
         
         <td width="300" valign="top">
-           <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Aparador-de-Porta-Scarpin-2-200.jpg"></p> 
+           <a href="https://www.trololodemulher.com.br/2010/10/Aparador-de-Porta-Scarpin-2-200.jpg"></p> 
           
           <p style="text-align: center;">
-            <img class="alignnone size-full wp-image-5307" title="Aparador de Porta Scarpin 2 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Aparador-de-Porta-Scarpin-2-200.jpg" alt="" width="200" height="200" />
+            <img class="alignnone size-full wp-image-5307" title="Aparador de Porta Scarpin 2 200" src="https://www.trololodemulher.com.br/2010/10/Aparador-de-Porta-Scarpin-2-200.jpg" alt="" width="200" height="200" />
           </p>
           
           <p>
@@ -135,10 +132,10 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
             
             <tr>
               <td width="300" valign="top">
-                 <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Primavera200.jpg"></p> 
+                 <a href="https://www.trololodemulher.com.br/2010/09/Mobile-Primavera200.jpg"></p> 
                 
                 <p style="text-align: center;">
-                  <img class="alignnone size-full wp-image-5279" title="Móbile Primavera200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Primavera200.jpg" alt="" width="200" height="200" />
+                  <img class="alignnone size-full wp-image-5279" title="Móbile Primavera200" src="https://www.trololodemulher.com.br/2010/09/Mobile-Primavera200.jpg" alt="" width="200" height="200" />
                 </p>
                 
                 <p>
@@ -150,7 +147,7 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
                   
                   <td width="300" valign="top">
                     <p style="text-align: center;">
-                      <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/" target="_blank">Móbile Primavera</a></em></strong>
+                      <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/" target="_blank" rel="noopener noreferrer">Móbile Primavera</a></em></strong>
                     </p>
                     
                     <div style="text-align: justify;">
@@ -175,7 +172,7 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
                       <tr>
                         <td width="300" valign="top">
                           <p style="text-align: center;">
-                            <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-vermelho/" target="_blank">Móbile Gatinho Vermelho</a></em></strong>
+                            <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-vermelho/" target="_blank" rel="noopener noreferrer">Móbile Gatinho Vermelho</a></em></strong>
                           </p>
                           
                           <p style="text-align: justify;">
@@ -188,14 +185,14 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
                         </td>
                         
                         <td width="300" valign="top">
-                           <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Mobile-Gatinho-Vermelho200.jpg"></p> 
+                           <a href="https://www.trololodemulher.com.br/2010/10/Mobile-Gatinho-Vermelho200.jpg"></p> 
                           
                           <p style="text-align: center;">
-                            <img class="alignnone size-full wp-image-5308" title="Móbile Gatinho Vermelho200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Mobile-Gatinho-Vermelho200.jpg" alt="" width="200" height="200" />
+                            <img class="alignnone size-full wp-image-5308" title="Móbile Gatinho Vermelho200" src="https://www.trololodemulher.com.br/2010/10/Mobile-Gatinho-Vermelho200.jpg" alt="" width="200" height="200" />
                           </p>
                           
                           <p>
-                            <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Gatinho-Vermelho.jpg"></a>
+                            <a href="https://www.trololodemulher.com.br/2010/09/Mobile-Gatinho-Vermelho.jpg"></a>
                           </p>
                           
                           <p>
@@ -203,10 +200,10 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
                             
                             <tr>
                               <td width="300" valign="top">
-                                <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-Safari200.jpg"></p> 
+                                <a href="https://www.trololodemulher.com.br/2010/10/Quadro-Cenario-Safari200.jpg"></p> 
                                 
                                 <p style="text-align: center;">
-                                  <img class="alignnone size-full wp-image-5309" title="Quadro Cenário Safári200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-Safari200.jpg" alt="" width="200" height="200" />
+                                  <img class="alignnone size-full wp-image-5309" title="Quadro Cenário Safári200" src="https://www.trololodemulher.com.br/2010/10/Quadro-Cenario-Safari200.jpg" alt="" width="200" height="200" />
                                 </p>
                                 
                                 <p>
@@ -218,7 +215,7 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
                                   
                                   <td width="300" valign="top">
                                     <p style="text-align: center;">
-                                      <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/quadro-cenario-safari/" target="_blank">Quadro Cenário Safári</a></em></strong>
+                                      <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/quadro-cenario-safari/" target="_blank" rel="noopener noreferrer">Quadro Cenário Safári</a></em></strong>
                                     </p>
                                     
                                     <p style="text-align: justify;">
@@ -233,7 +230,7 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
                                   <tr>
                                     <td width="300" valign="top">
                                       <p style="text-align: center;">
-                                        <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/porta-joia-bolsinha/" target="_blank">Porta Jóia Bolsinha</a></em></strong>
+                                        <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/porta-joia-bolsinha/" target="_blank" rel="noopener noreferrer">Porta Jóia Bolsinha</a></em></strong>
                                       </p>
                                       
                                       <p style="text-align: justify;">
@@ -246,10 +243,10 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
                                     </td>
                                     
                                     <td width="300" valign="top">
-                                       <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Porta-Joia-Bolsinha200.jpg"></p> 
+                                       <a href="https://www.trololodemulher.com.br/2010/10/Porta-Joia-Bolsinha200.jpg"></p> 
                                       
                                       <p style="text-align: center;">
-                                        <img class="alignnone size-full wp-image-5310" title="Porta Jóia Bolsinha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Porta-Joia-Bolsinha200.jpg" alt="" width="200" height="200" />
+                                        <img class="alignnone size-full wp-image-5310" title="Porta Jóia Bolsinha200" src="https://www.trololodemulher.com.br/2010/10/Porta-Joia-Bolsinha200.jpg" alt="" width="200" height="200" />
                                       </p>
                                       
                                       <p>
@@ -284,13 +281,13 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
                                         </p>
                                         
                                         <p style="text-align: center;">
-                                          <strong>Gostou desse post? Receba atualizações do Bicha Fêmea por <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><strong>e-mail</strong> </a>ou </strong><a href="http://feeds2.feedburner.com/blogbichafemea" target="_blank"><strong>feed</strong></a><strong> </strong><strong>.</strong>
+                                          <strong>Gostou desse post? Receba atualizações do Bicha Fêmea por <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><strong>e-mail</strong> </a>ou </strong><a href="http://feeds2.feedburner.com/blogbichafemea" target="_blank" rel="noopener noreferrer"><strong>feed</strong></a><strong> </strong><strong>.</strong>
                                         </p>
                                         
                                         <p style="text-align: center;">
-                                          <strong>Siga o Bicha Fêmea no Twitter &#8211; <a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a>.</strong>
+                                          <strong>Siga o Bicha Fêmea no Twitter &#8211; <a href="http://twitter.com/bichafemea" target="_blank" rel="noopener noreferrer">@bichafemea</a>.</strong>
                                         </p>
                                         
                                         <p style="text-align: center;">
-                                          <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank"><em>basta clicar</em></a><em>!</em></strong>
+                                          <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank" rel="noopener noreferrer"><em>basta clicar</em></a><em>!</em></strong>
                                         </p>

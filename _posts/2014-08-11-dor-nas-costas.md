@@ -1,10 +1,7 @@
 ---
-id: 3329
 title: 5 coisas que você precisa saber sobre dor nas costas.
-date: 2014-08-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/08/11/dor-nas-costas/
 permalink: /2014/08/11/dor-nas-costas/
 categories:
   - Bem-estar
@@ -21,11 +18,11 @@ Uma delas e talvez a que configura um mito, é de que os anos de vida virão aco
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/SAUDE-BEM-ESTAR-DOR-NAS-COSTAS-FISIOTERAPIA-FISIOTERAPEUTA-PILATES-YOGA.jpg"><img class="alignnone size-full wp-image-10266" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/SAUDE-BEM-ESTAR-DOR-NAS-COSTAS-FISIOTERAPIA-FISIOTERAPEUTA-PILATES-YOGA.jpg" alt="SAUDE-BEM ESTAR-DOR NAS COSTAS-FISIOTERAPIA-FISIOTERAPEUTA-PILATES-YOGA" width="600" height="921" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/07/SAUDE-BEM-ESTAR-DOR-NAS-COSTAS-FISIOTERAPIA-FISIOTERAPEUTA-PILATES-YOGA.jpg"><img class="alignnone size-full wp-image-10266" src="https://www.trololodemulher.com.br/2014/07/SAUDE-BEM-ESTAR-DOR-NAS-COSTAS-FISIOTERAPIA-FISIOTERAPEUTA-PILATES-YOGA.jpg" alt="SAUDE-BEM ESTAR-DOR NAS COSTAS-FISIOTERAPIA-FISIOTERAPEUTA-PILATES-YOGA" width="600" height="921" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
+  Imagem: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">free images</a>
 </p>
 
 <p align="justify">
@@ -85,15 +82,15 @@ Uma delas e talvez a que configura um mito, é de que os anos de vida virão aco
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DENISE-PRIPAS-FISIOTERAPIA-PILATES-SÃO-PAULO.png"><img class="alignnone size-full wp-image-10265" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DENISE-PRIPAS-FISIOTERAPIA-PILATES-SÃO-PAULO.png" alt="DENISE PRIPAS-FISIOTERAPIA-PILATES-SÃO PAULO" width="600" height="225" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/07/DENISE-PRIPAS-FISIOTERAPIA-PILATES-SÃO-PAULO.png"><img class="alignnone size-full wp-image-10265" src="https://www.trololodemulher.com.br/2014/07/DENISE-PRIPAS-FISIOTERAPIA-PILATES-SÃO-PAULO.png" alt="DENISE PRIPAS-FISIOTERAPIA-PILATES-SÃO PAULO" width="600" height="225" /></a>
 </p>
 
 <p align="justify">
-  Denise Pripas também é blogueira, viu? Você pode acompanhar todas as suas atualizações em seu blog, que leva seu nome, e que está ao alcance de um <a href="http://www.fisioterapiadenisepripas.blogspot.com.br/" target="_blank">clique bem aqui</a>. Fique por dentro de tudo o que ela posta sobre a saúde do corpo, e se beneficie de seu jeito gostoso e didático de falar sobre o assunto. Além do blog, Denise também atualiza uma <a href="https://www.facebook.com/fisioterapia.denisepripas/timeline" target="_blank">página no Facebook, bem aqui</a>. Curta, compartilhe e informe-se!
+  Denise Pripas também é blogueira, viu? Você pode acompanhar todas as suas atualizações em seu blog, que leva seu nome, e que está ao alcance de um <a href="http://www.fisioterapiadenisepripas.blogspot.com.br/" target="_blank" rel="noopener noreferrer">clique bem aqui</a>. Fique por dentro de tudo o que ela posta sobre a saúde do corpo, e se beneficie de seu jeito gostoso e didático de falar sobre o assunto. Além do blog, Denise também atualiza uma <a href="https://www.facebook.com/fisioterapia.denisepripas/timeline" target="_blank" rel="noopener noreferrer">página no Facebook, bem aqui</a>. Curta, compartilhe e informe-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;

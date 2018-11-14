@@ -1,18 +1,15 @@
 ---
-id: 2741
 title: Por que será que queremos ser sempre heroínas?
-date: 2009-11-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/11/26/mulher-heroina/
 permalink: /2009/11/26/mulher-heroina/
 categories:
   - Comportamento
   - Comportamento Feminino
 ---
-Li um post escrito pela Fernanda, do blog <a href="http://devaneiosdomesticos.blogspot.com/" target="_blank">Devaneios Domésticos</a>, e achei interessante porque mostra o relato do que aconteceu com ela, que levava uma vida acelerada (como a da imensa maioria das mulheres) e não parava sequer para prestar atenção no que estava acontecendo com o corpo dela.O ritmo de vida de Fernanda hoje em dia é outro, por escolha dela, porque felizmente foi possível ela dar espaço ao que era prioridade na sua vida.
+Li um post escrito pela Fernanda, do blog <a href="http://devaneiosdomesticos.blogspot.com/" target="_blank" rel="noopener noreferrer">Devaneios Domésticos</a>, e achei interessante porque mostra o relato do que aconteceu com ela, que levava uma vida acelerada (como a da imensa maioria das mulheres) e não parava sequer para prestar atenção no que estava acontecendo com o corpo dela.O ritmo de vida de Fernanda hoje em dia é outro, por escolha dela, porque felizmente foi possível ela dar espaço ao que era prioridade na sua vida.
 
-Fabiana, que edita o <a href="http://ideiasdetalhesedicas.blogspot.com/" target="_blank">Ideias, Detalhes & Dicas</a>, refletiu sobre o que leu, questionou aqui no Bicha Fêmea e no Twitter (<a href="http://twitter.com/bichafemea" target="_blank">me segue aí!! &#8211; @bichafemea</a>):
+Fabiana, que edita o <a href="http://ideiasdetalhesedicas.blogspot.com/" target="_blank" rel="noopener noreferrer">Ideias, Detalhes & Dicas</a>, refletiu sobre o que leu, questionou aqui no Bicha Fêmea e no Twitter (<a href="http://twitter.com/bichafemea" target="_blank" rel="noopener noreferrer">me segue aí!! &#8211; @bichafemea</a>):
 
 > _“&#8230;porque será que queremos ser sempre as heróinas?”_
 

@@ -1,10 +1,7 @@
 ---
-id: 2885
 title: 'Cozinha planejada: 8 espaços + combinações. Seu estilo está por aqui?'
-date: 2010-10-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/10/08/cozinha-planejada/
 permalink: /2010/10/08/cozinha-planejada/
 categories:
   - Cozinha
@@ -26,7 +23,7 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cozinha-planejada-cor-escura.jpg"><img class="alignnone size-full wp-image-5253" title="cozinha planejada cor escura" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cozinha-planejada-cor-escura.jpg" alt="" width="550" height="550" /></a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cozinha-planejada-cor-escura.jpg"></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/cozinha-planejada-cor-escura.jpg"><img class="alignnone size-full wp-image-5253" title="cozinha planejada cor escura" src="https://www.trololodemulher.com.br/2010/09/cozinha-planejada-cor-escura.jpg" alt="" width="550" height="550" /></a><a href="https://www.trololodemulher.com.br/2010/09/cozinha-planejada-cor-escura.jpg"></a>
 </p>
 
 <p style="text-align: justify;">
@@ -34,7 +31,7 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cozinha-planejada-na-cor-mel.jpg"><img class="alignnone size-full wp-image-5258" title="cozinha planejada na cor mel" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cozinha-planejada-na-cor-mel.jpg" alt="" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/cozinha-planejada-na-cor-mel.jpg"><img class="alignnone size-full wp-image-5258" title="cozinha planejada na cor mel" src="https://www.trololodemulher.com.br/2010/09/cozinha-planejada-na-cor-mel.jpg" alt="" width="550" height="550" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -42,7 +39,7 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cozinha-planejada-com-influencia-vintage.jpg"><img class="alignnone size-full wp-image-5252" title="cozinha planejada com influência vintage" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cozinha-planejada-com-influencia-vintage.jpg" alt="" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/cozinha-planejada-com-influencia-vintage.jpg"><img class="alignnone size-full wp-image-5252" title="cozinha planejada com influência vintage" src="https://www.trololodemulher.com.br/2010/09/cozinha-planejada-com-influencia-vintage.jpg" alt="" width="550" height="550" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -50,7 +47,7 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cozinha-planejada-moderna.jpg"><img class="alignnone size-full wp-image-5255" title="cozinha planejada moderna" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cozinha-planejada-moderna.jpg" alt="" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/cozinha-planejada-moderna.jpg"><img class="alignnone size-full wp-image-5255" title="cozinha planejada moderna" src="https://www.trololodemulher.com.br/2010/09/cozinha-planejada-moderna.jpg" alt="" width="550" height="550" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -58,7 +55,7 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Cozinha-Planejada-branca.jpg"><img class="alignnone size-full wp-image-5251" title="Cozinha Planejada branca" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Cozinha-Planejada-branca.jpg" alt="" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/Cozinha-Planejada-branca.jpg"><img class="alignnone size-full wp-image-5251" title="Cozinha Planejada branca" src="https://www.trololodemulher.com.br/2010/09/Cozinha-Planejada-branca.jpg" alt="" width="550" height="550" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -70,7 +67,7 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cozinha-planejada-cor-neutra.jpg"><img class="alignnone size-full wp-image-5254" title="cozinha planejada cor neutra" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cozinha-planejada-cor-neutra.jpg" alt="" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/cozinha-planejada-cor-neutra.jpg"><img class="alignnone size-full wp-image-5254" title="cozinha planejada cor neutra" src="https://www.trololodemulher.com.br/2010/09/cozinha-planejada-cor-neutra.jpg" alt="" width="550" height="550" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -78,7 +75,7 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Cozinha-planeja-cor-clara-com-detalhes-femininos.jpg"><img class="alignnone size-full wp-image-5250" title="Cozinha planeja cor clara com detalhes femininos" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Cozinha-planeja-cor-clara-com-detalhes-femininos.jpg" alt="" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/Cozinha-planeja-cor-clara-com-detalhes-femininos.jpg"><img class="alignnone size-full wp-image-5250" title="Cozinha planeja cor clara com detalhes femininos" src="https://www.trololodemulher.com.br/2010/09/Cozinha-planeja-cor-clara-com-detalhes-femininos.jpg" alt="" width="550" height="550" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -107,106 +104,106 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
       </p>
       
       <p style="text-align: justify;">
-        <em>Ele está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Se quiser dar uma espiada, é por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank">basta clicar</a></strong>!</em>
+        <em>Ele está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Se quiser dar uma espiada, é por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
       </p>
     </td>
     
     <td width="339" valign="top">
-      <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a></p> 
+      <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a></p> 
       
       <div>
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Aparador-de-Porta-Minha-Gatinha-2.jpg"></a>
+        <a href="https://www.trololodemulher.com.br/2010/09/Aparador-de-Porta-Minha-Gatinha-2.jpg"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></a>
       </div>
       
       <p>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></p> 
+        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank" rel="noopener noreferrer"></p> 
         
         <p style="text-align: center;">
-          <img class="alignnone size-medium wp-image-5207" title="Aparador de Porta Minha Gatinha 2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Aparador-de-Porta-Minha-Gatinha-2-300x266.jpg" alt="" width="300" height="266" />
+          <img class="alignnone size-medium wp-image-5207" title="Aparador de Porta Minha Gatinha 2" src="https://www.trololodemulher.com.br/2010/09/Aparador-de-Porta-Minha-Gatinha-2-300x266.jpg" alt="" width="300" height="266" />
         </p>
         
         <p>
@@ -219,10 +216,10 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
           <table border="0" cellspacing="0" cellpadding="0" width="600">
             <tr>
               <td width="300" valign="top">
-                <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Galinha-Country2200.jpg"></p> 
+                <a href="https://www.trololodemulher.com.br/2010/09/Mobile-Galinha-Country2200.jpg"></p> 
                 
                 <p style="text-align: center;">
-                  <img class="alignnone size-full wp-image-5268" title="Móbile Galinha Country2200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Galinha-Country2200.jpg" alt="" width="200" height="200" />
+                  <img class="alignnone size-full wp-image-5268" title="Móbile Galinha Country2200" src="https://www.trololodemulher.com.br/2010/09/Mobile-Galinha-Country2200.jpg" alt="" width="200" height="200" />
                 </p>
                 
                 <p>
@@ -240,12 +237,12 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
                     </p>
                     
                     <p style="text-align: justify;">
-                      <em>O móbile está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank">basta clicar</a></strong>!</em>
+                      <em>O móbile está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
                     </p>
                   </td></tr> </tbody> </table> 
                   
                   <p style="text-align: center;">
-                    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cozinha-planejada-pequena.jpg"><img class="alignnone size-full wp-image-5259" title="moss-clennell house shoot, n yorks. Jamie Mason Photographer 07899900241" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cozinha-planejada-pequena.jpg" alt="" width="550" height="550" /></a>
+                    <a href="https://www.trololodemulher.com.br/2010/09/cozinha-planejada-pequena.jpg"><img class="alignnone size-full wp-image-5259" title="moss-clennell house shoot, n yorks. Jamie Mason Photographer 07899900241" src="https://www.trololodemulher.com.br/2010/09/cozinha-planejada-pequena.jpg" alt="" width="550" height="550" /></a>
                   </p>
                   
                   <p style="text-align: justify;">
@@ -259,53 +256,53 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
                   <table border="0" cellspacing="0" cellpadding="0" width="600">
                     <tr>
                       <td width="331" valign="top">
-                        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a></p> 
+                        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank" rel="noopener noreferrer"></a></p> 
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank" rel="noopener noreferrer"></a>
                         </div>
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank" rel="noopener noreferrer"></a>
                         </div>
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank" rel="noopener noreferrer"></a>
                         </div>
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank" rel="noopener noreferrer"></a>
                         </div>
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank" rel="noopener noreferrer"></a>
                         </div>
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank" rel="noopener noreferrer"></a>
                         </div>
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank" rel="noopener noreferrer"></a>
                         </div>
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank" rel="noopener noreferrer"></a>
                         </div>
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank" rel="noopener noreferrer"></a>
                         </div>
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank" rel="noopener noreferrer"></a>
                         </div>
                         
                         <p>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></p> 
+                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank" rel="noopener noreferrer"></p> 
                           
                           <p style="text-align: center;">
-                            <img class="alignnone size-medium wp-image-5208" title="Quadro Cenário Copa&Café" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Quadro-Cenario-CopaCafe-300x200.jpg" alt="" width="300" height="200" />
+                            <img class="alignnone size-medium wp-image-5208" title="Quadro Cenário Copa&Café" src="https://www.trololodemulher.com.br/2010/09/Quadro-Cenario-CopaCafe-300x200.jpg" alt="" width="300" height="200" />
                           </p>
                           
                           <p>
@@ -323,12 +320,12 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
                               </p>
                               
                               <p style="text-align: justify;">
-                                <em>Ele está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Se quiser dar uma espiada, é por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank">basta clicar</a></strong>!</em>
+                                <em>Ele está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Se quiser dar uma espiada, é por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
                               </p>
                             </td></tr> </tbody> </table> 
                             
                             <p>
-                              <em>Imagens: </em><a href="http://www.idealhomemagazine.co.uk/" target="_blank"><em>Ideal Home</em></a>
+                              <em>Imagens: </em><a href="http://www.idealhomemagazine.co.uk/" target="_blank" rel="noopener noreferrer"><em>Ideal Home</em></a>
                             </p>
                             
                             <p>

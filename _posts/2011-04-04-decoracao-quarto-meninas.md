@@ -1,10 +1,7 @@
 ---
-id: 2975
 title: Decoração infantil para quarto de meninas…
-date: 2011-04-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/04/04/decoracao-quarto-meninas/
 permalink: /2011/04/04/decoracao-quarto-meninas/
 categories:
   - Decoração
@@ -19,7 +16,7 @@ Quem é mãe de menina gosta mesmo de caprichar na **decoração do quarto** da 
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-infantil-para-menina.jpg"><img class="alignnone size-full wp-image-6200" title="decoração infantil para menina" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-infantil-para-menina.jpg" alt="" width="400" height="420" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-infantil-para-menina.jpg"><img class="alignnone size-full wp-image-6200" title="decoração infantil para menina" src="https://www.trololodemulher.com.br/2011/03/decoracao-infantil-para-menina.jpg" alt="" width="400" height="420" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -31,7 +28,7 @@ Quem é mãe de menina gosta mesmo de caprichar na **decoração do quarto** da 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-infantil-para-menina1.jpg"><img class="alignnone size-full wp-image-6201" title="decoração infantil para menina[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-infantil-para-menina1.jpg" alt="" width="400" height="420" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-infantil-para-menina1.jpg"><img class="alignnone size-full wp-image-6201" title="decoração infantil para menina[1]" src="https://www.trololodemulher.com.br/2011/03/decoracao-infantil-para-menina1.jpg" alt="" width="400" height="420" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -47,19 +44,19 @@ Quem é mãe de menina gosta mesmo de caprichar na **decoração do quarto** da 
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Mobile-Sininho-Lilas.jpg"><img class="alignnone size-full wp-image-6208" title="Móbile Sininho Lilás" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Mobile-Sininho-Lilas.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-sininho-lilas/" target="_blank">Móbile Sininho Lilás</a></em></strong>
+  <strong><em><a href="https://www.trololodemulher.com.br/2011/03/Mobile-Sininho-Lilas.jpg"><img class="alignnone size-full wp-image-6208" title="Móbile Sininho Lilás" src="https://www.trololodemulher.com.br/2011/03/Mobile-Sininho-Lilas.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-sininho-lilas/" target="_blank" rel="noopener noreferrer">Móbile Sininho Lilás</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Gatinho-Rosa.jpg"><img class="alignnone size-full wp-image-6205" title="Gatinho Rosa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Gatinho-Rosa.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-rosa/" target="_blank">Móbile Gatinho Rosa</a></em></strong>
+  <strong><em><a href="https://www.trololodemulher.com.br/2011/03/Gatinho-Rosa.jpg"><img class="alignnone size-full wp-image-6205" title="Gatinho Rosa" src="https://www.trololodemulher.com.br/2011/03/Gatinho-Rosa.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-rosa/" target="_blank" rel="noopener noreferrer">Móbile Gatinho Rosa</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Mobile-Butterfly.jpg"><img class="alignnone size-full wp-image-6207" title="Móbile Butterfly" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Mobile-Butterfly.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-butterfly/" target="_blank">Móbile Butterfly</a></em></strong>
+  <strong><em><a href="https://www.trololodemulher.com.br/2011/03/Mobile-Butterfly.jpg"><img class="alignnone size-full wp-image-6207" title="Móbile Butterfly" src="https://www.trololodemulher.com.br/2011/03/Mobile-Butterfly.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-butterfly/" target="_blank" rel="noopener noreferrer">Móbile Butterfly</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-infantil-para-menina2.jpg"><img class="alignnone size-full wp-image-6204" title="decoração infantil para menina[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-infantil-para-menina2.jpg" alt="" width="400" height="420" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-infantil-para-menina2.jpg"><img class="alignnone size-full wp-image-6204" title="decoração infantil para menina[2]" src="https://www.trololodemulher.com.br/2011/03/decoracao-infantil-para-menina2.jpg" alt="" width="400" height="420" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -67,11 +64,11 @@ Quem é mãe de menina gosta mesmo de caprichar na **decoração do quarto** da 
 </p>
 
 <p style="text-align: justify;">
-  Você gosta das <strong>cebeceiras de tecido</strong>? Pensa que isso é algo de “quarto <em>gringo</em>”? A <strong>Margaret</strong>, uma blogueira muito criativa e <em>expert</em> em ensinar suas artes pelo seu blog – <strong><a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a> </strong>– provou que não. Ela fez uma cabeceira para a cama dela, toda de tecido e bem colorida. Olha só:
+  Você gosta das <strong>cebeceiras de tecido</strong>? Pensa que isso é algo de “quarto <em>gringo</em>”? A <strong>Margaret</strong>, uma blogueira muito criativa e <em>expert</em> em ensinar suas artes pelo seu blog – <strong><a href="http://www.margaretss.com.br/" target="_blank" rel="noopener noreferrer">Margaretss</a> </strong>– provou que não. Ela fez uma cabeceira para a cama dela, toda de tecido e bem colorida. Olha só:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/cabeceira-de-tecido.jpg"><img class="alignnone size-full wp-image-6196" title="cabeceira de tecido" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/cabeceira-de-tecido.jpg" alt="" width="538" height="432" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/cabeceira-de-tecido.jpg"><img class="alignnone size-full wp-image-6196" title="cabeceira de tecido" src="https://www.trololodemulher.com.br/2011/03/cabeceira-de-tecido.jpg" alt="" width="538" height="432" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -87,15 +84,15 @@ Quem é mãe de menina gosta mesmo de caprichar na **decoração do quarto** da 
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Mini-Comoda-Gatinha.jpg"><img class="alignnone size-full wp-image-6206" title="Mini Cômoda Gatinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Mini-Comoda-Gatinha.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank">Mini Cômoda Gatinha</a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/03/Mini-Comoda-Gatinha.jpg"><img class="alignnone size-full wp-image-6206" title="Mini Cômoda Gatinha" src="https://www.trololodemulher.com.br/2011/03/Mini-Comoda-Gatinha.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank" rel="noopener noreferrer">Mini Cômoda Gatinha</a></strong>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Caixa-Patchwork-2.jpg"><img class="alignnone size-full wp-image-6198" title="Caixa Patchwork 2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Caixa-Patchwork-2.jpg" alt="" width="600" height="400" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-patchwork/" target="_blank">Caixa Patchwork</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/03/Caixa-Patchwork-2.jpg"><img class="alignnone size-full wp-image-6198" title="Caixa Patchwork 2" src="https://www.trololodemulher.com.br/2011/03/Caixa-Patchwork-2.jpg" alt="" width="600" height="400" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-patchwork/" target="_blank" rel="noopener noreferrer">Caixa Patchwork</a></strong>
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Caixa-Melhores-Amigas.jpg"><img class="alignnone size-full wp-image-6197" title="Caixa Melhores Amigas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Caixa-Melhores-Amigas.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-melhores-amigas/" target="_blank">Caixa Melhores Amigas</a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/03/Caixa-Melhores-Amigas.jpg"><img class="alignnone size-full wp-image-6197" title="Caixa Melhores Amigas" src="https://www.trololodemulher.com.br/2011/03/Caixa-Melhores-Amigas.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-melhores-amigas/" target="_blank" rel="noopener noreferrer">Caixa Melhores Amigas</a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -103,7 +100,7 @@ Quem é mãe de menina gosta mesmo de caprichar na **decoração do quarto** da 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/canecas-personalizadas.jpg"><img class="alignnone size-full wp-image-6199" title="canecas personalizadas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/canecas-personalizadas.jpg" alt="" width="400" height="353" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/canecas-personalizadas.jpg"><img class="alignnone size-full wp-image-6199" title="canecas personalizadas" src="https://www.trololodemulher.com.br/2011/03/canecas-personalizadas.jpg" alt="" width="400" height="353" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -114,7 +111,7 @@ Quem é mãe de menina gosta mesmo de caprichar na **decoração do quarto** da 
   No mais, capriche na escolha das <strong>almofadas e roupa de cama</strong>, arremate com a escolha de <strong>quadros bem bonitos na parede</strong>, e <em>voilá</em>!
 </p>
 
-Imagens: **<a href="http://www.myhomeideas.com/" target="_blank">myhomeideas</a>**
+Imagens: **<a href="http://www.myhomeideas.com/" target="_blank" rel="noopener noreferrer">myhomeideas</a>**
 
 **Mais no Bicha Fêmea…**
 

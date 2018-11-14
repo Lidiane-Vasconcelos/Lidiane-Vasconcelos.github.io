@@ -1,10 +1,7 @@
 ---
-id: 3003
 title: Amamentar, um dom!
-date: 2011-05-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/05/31/amamentar-um-dom/
 permalink: /2011/05/31/amamentar-um-dom/
 categories:
   - Maternidade
@@ -19,7 +16,7 @@ Durante a **gestação**, nos preocupamos com tudo: chá de bebê, enxoval, o no
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/amamentacao.jpg"><img class="alignnone size-full wp-image-6452" title="amamentação" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/amamentacao.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/amamentacao.jpg"><img class="alignnone size-full wp-image-6452" title="amamentação" src="https://www.trololodemulher.com.br/2011/05/amamentacao.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -31,7 +28,7 @@ Durante a **gestação**, nos preocupamos com tudo: chá de bebê, enxoval, o no
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/amamentacao1.jpg"><img class="alignnone size-full wp-image-6453" title="amamentação[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/amamentacao1.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/amamentacao1.jpg"><img class="alignnone size-full wp-image-6453" title="amamentação[1]" src="https://www.trololodemulher.com.br/2011/05/amamentacao1.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -47,7 +44,7 @@ Durante a **gestação**, nos preocupamos com tudo: chá de bebê, enxoval, o no
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/amamentacao2.jpg"><img class="alignnone size-full wp-image-6454" title="amamentação[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/amamentacao2.jpg" alt="" width="600" height="420" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/amamentacao2.jpg"><img class="alignnone size-full wp-image-6454" title="amamentação[2]" src="https://www.trololodemulher.com.br/2011/05/amamentacao2.jpg" alt="" width="600" height="420" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -59,7 +56,7 @@ Durante a **gestação**, nos preocupamos com tudo: chá de bebê, enxoval, o no
 </p>
 
 <p style="text-align: justify;">
-  Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  Imagem: <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></strong>
 </p>
 
 ** **
@@ -68,12 +65,12 @@ Durante a **gestação**, nos preocupamos com tudo: chá de bebê, enxoval, o no
   <tr>
     <td width="300" valign="top">
       <p style="text-align: center;">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Josineide200.jpg"><img class="alignnone size-full wp-image-6458" title="Josineide200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Josineide200.jpg" alt="" width="200" height="200" /></a>
+        <a href="https://www.trololodemulher.com.br/2011/05/Josineide200.jpg"><img class="alignnone size-full wp-image-6458" title="Josineide200" src="https://www.trololodemulher.com.br/2011/05/Josineide200.jpg" alt="" width="200" height="200" /></a>
       </p>
     </td>
     
     <td style="text-align: justify;" width="300" valign="top">
-       Analista Fiscal, mãe da Sophia (2 meses) e da Daniele (18 anos), <strong>Josi Sousa</strong> tem  o Blog “<a href="http://mulhernota10josisousa.blogspot.com/" target="_blank"><strong>Mulher, mãe, esposa, profissional</strong></a>”, onde divide suas descobertas e anseios de toda mulher que sabe o quanto é dificil e prazeroso ao mesmo tempo ser: mãe, mulher, esposa e profissional.
+       Analista Fiscal, mãe da Sophia (2 meses) e da Daniele (18 anos), <strong>Josi Sousa</strong> tem  o Blog “<a href="http://mulhernota10josisousa.blogspot.com/" target="_blank" rel="noopener noreferrer"><strong>Mulher, mãe, esposa, profissional</strong></a>”, onde divide suas descobertas e anseios de toda mulher que sabe o quanto é dificil e prazeroso ao mesmo tempo ser: mãe, mulher, esposa e profissional.
     </td>
   </tr>
 </table>

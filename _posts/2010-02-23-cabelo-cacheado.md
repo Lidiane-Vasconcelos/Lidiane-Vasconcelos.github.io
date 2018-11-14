@@ -1,16 +1,13 @@
 ---
-id: 2796
 title: Cabelo cacheado tem corte, sim!
-date: 2010-02-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/02/23/cabelo-cacheado/
 permalink: /2010/02/23/cabelo-cacheado/
 categories:
   - Beleza
 ---
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/Foto-6-leve.jpg"></a>Cabelo enrolado tem corte sim!</strong>
+  <strong><a href="https://www.trololodemulher.com.br/2010/02/Foto-6-leve.jpg"></a>Cabelo enrolado tem corte sim!</strong>
 </p>
 
 Quem nunca quis ter outro cabelo, que atire a primeira pedra. Dizem por aí que mulher nunca está satisfeita com nada (o que acho particularmente uma injustiça), mas olha, vou te contar: quando você achar uma que ama o cabelo que deus lhe deu, emoldure e apresente à multidão!
@@ -22,7 +19,7 @@ Como a grande maioria da população no Brasil, nasci com o cabelo encaracolado,
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/Foto-1.jpg"><img class="aligncenter size-medium wp-image-4382" title="Foto 1" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/Foto-1-199x300.jpg" alt="" width="199" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/02/Foto-1.jpg"><img class="aligncenter size-medium wp-image-4382" title="Foto 1" src="https://www.trololodemulher.com.br/2010/02/Foto-1-199x300.jpg" alt="" width="199" height="300" /></a>
     </td>
   </tr>
 </table>
@@ -38,7 +35,7 @@ Quem tem cabelo enrolado só parou de sofrer no mundo dos cosméticos há alguns
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/foto-2.jpg"><img class="aligncenter size-medium wp-image-4383" title="foto 2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/foto-2-300x199.jpg" alt="" width="300" height="199" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/02/foto-2.jpg"><img class="aligncenter size-medium wp-image-4383" title="foto 2" src="https://www.trololodemulher.com.br/2010/02/foto-2-300x199.jpg" alt="" width="300" height="199" /></a>
     </td>
   </tr>
 </table>
@@ -56,7 +53,7 @@ Primeiro foi o corte da minha franja, que estava reta com o cabelo e ambos estav
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/foto-3.jpg"><img class="aligncenter size-medium wp-image-4384" title="foto 3" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/foto-3-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/02/foto-3.jpg"><img class="aligncenter size-medium wp-image-4384" title="foto 3" src="https://www.trololodemulher.com.br/2010/02/foto-3-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
   </tr>
 </table>
@@ -66,10 +63,10 @@ Primeiro foi o corte da minha franja, que estava reta com o cabelo e ambos estav
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/foto-4-leve.jpg"><img class="aligncenter size-medium wp-image-4386" title="foto 4 leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/foto-4-leve-300x224.jpg" alt="" width="300" height="224" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/02/foto-4-leve.jpg"><img class="aligncenter size-medium wp-image-4386" title="foto 4 leve" src="https://www.trololodemulher.com.br/2010/02/foto-4-leve-300x224.jpg" alt="" width="300" height="224" /></a>
 </p>
 
-[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/foto-4-leve.jpg)
+[](https://www.trololodemulher.com.br/2010/02/foto-4-leve.jpg)
 
 <p style="text-align: center;">
   Segundo corte: franja no queixo e camadas, só que agora mais curto
@@ -80,7 +77,7 @@ Chegou o verão e o calor úmido daqui de Curitiba não me deixava em paz. Todo 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/foto-5-leve.jpg"><img class="aligncenter size-medium wp-image-4387" title="foto 5 leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/foto-5-leve-300x224.jpg" alt="" width="300" height="224" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/02/foto-5-leve.jpg"><img class="aligncenter size-medium wp-image-4387" title="foto 5 leve" src="https://www.trololodemulher.com.br/2010/02/foto-5-leve-300x224.jpg" alt="" width="300" height="224" /></a>
     </td>
   </tr>
 </table>
@@ -96,7 +93,7 @@ Completei 27 anos alguns dias depois. Um ano que acredito ser de realizações, 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/Foto-6-leve.jpg"><img class="aligncenter size-medium wp-image-4388" title="Foto 6 leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/Foto-6-leve-300x200.jpg" alt="" width="300" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/02/Foto-6-leve.jpg"><img class="aligncenter size-medium wp-image-4388" title="Foto 6 leve" src="https://www.trololodemulher.com.br/2010/02/Foto-6-leve-300x200.jpg" alt="" width="300" height="200" /></a>
     </td>
   </tr>
 </table>
@@ -108,7 +105,7 @@ Completei 27 anos alguns dias depois. Um ano que acredito ser de realizações, 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/foto-7.jpg"><img class="aligncenter size-medium wp-image-4389" title="foto 7" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/foto-7-300x199.jpg" alt="" width="300" height="199" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/02/foto-7.jpg"><img class="aligncenter size-medium wp-image-4389" title="foto 7" src="https://www.trololodemulher.com.br/2010/02/foto-7-300x199.jpg" alt="" width="300" height="199" /></a>
     </td>
   </tr>
 </table>
@@ -121,7 +118,7 @@ Completei 27 anos alguns dias depois. Um ano que acredito ser de realizações, 
 
 Denise Somera, de Curitiba (PR)
 
-**_<a href="http://deniseescreve.wordpress.com/" target="_blank">Denise Escreve</a>_**
+**_<a href="http://deniseescreve.wordpress.com/" target="_blank" rel="noopener noreferrer">Denise Escreve</a>_**
 
 **_Quer publicar seu post no Bicha Fêmea? Seja uma <a href="http://www.trololodemulher.com.br/colabore/" target="_self">bicha fêmea colaboradora </a>você também!_**
 

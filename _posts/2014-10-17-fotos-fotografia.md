@@ -1,10 +1,7 @@
 ---
-id: 3358
 title: Há fotos… e fotos que inspiram.
-date: 2014-10-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/10/17/fotos-fotografia/
 permalink: /2014/10/17/fotos-fotografia/
 categories:
   - Comportamento
@@ -20,7 +17,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/LIDIANE-VASCONCELOS-TROLOLO-DE-MULHER.jpg"><img class="alignnone size-full wp-image-10499" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/LIDIANE-VASCONCELOS-TROLOLO-DE-MULHER.jpg" alt="LIDIANE VASCONCELOS-TROLOLO DE MULHER" width="800" height="533" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/LIDIANE-VASCONCELOS-TROLOLO-DE-MULHER.jpg"><img class="alignnone size-full wp-image-10499" src="https://www.trololodemulher.com.br/2014/10/LIDIANE-VASCONCELOS-TROLOLO-DE-MULHER.jpg" alt="LIDIANE VASCONCELOS-TROLOLO DE MULHER" width="800" height="533" /></a>
 </p>
 
 <p align="center">
@@ -32,7 +29,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/FILOMENA-NOGUEIRA-TROLOLO-DE-MULHER.jpg"><img class="alignnone size-full wp-image-10496" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/FILOMENA-NOGUEIRA-TROLOLO-DE-MULHER.jpg" alt="FILOMENA NOGUEIRA-TROLOLO DE MULHER" width="640" height="480" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/FILOMENA-NOGUEIRA-TROLOLO-DE-MULHER.jpg"><img class="alignnone size-full wp-image-10496" src="https://www.trololodemulher.com.br/2014/10/FILOMENA-NOGUEIRA-TROLOLO-DE-MULHER.jpg" alt="FILOMENA NOGUEIRA-TROLOLO DE MULHER" width="640" height="480" /></a>
 </p>
 
 <p align="justify">
@@ -40,31 +37,31 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/KATIA-PINHEIRO-TROLOLO-DE-MULHER.jpg"><img class="alignnone size-full wp-image-10498" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/KATIA-PINHEIRO-TROLOLO-DE-MULHER.jpg" alt="KATIA PINHEIRO-TROLOLO DE MULHER" width="800" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/KATIA-PINHEIRO-TROLOLO-DE-MULHER.jpg"><img class="alignnone size-full wp-image-10498" src="https://www.trololodemulher.com.br/2014/10/KATIA-PINHEIRO-TROLOLO-DE-MULHER.jpg" alt="KATIA PINHEIRO-TROLOLO DE MULHER" width="800" height="600" /></a>
 </p>
 
 <p align="justify">
-  <em>“Sim, há fotos que nos fazem, num simples instante, viajar na imaginação. Eu moro em Portugal, aqui há muitas praias, cada uma delas mais especial que a outra. Esta foto que envio é de Peniche (Portugal), um lugar lindo e que me faz pensar em como a natureza é perfeita, e em como somos tão pequeninos diante da grandiosidade do Oceano. Neste mundo somos apenas um grão de areia.”</em> <strong>Kátia Pinheiro – </strong><a href="http://www.bigviagem.com/" target="_blank"><strong>Blog de Viagens</strong></a><strong> | </strong><a href="http://femininous.com/" target="_blank"><strong>Femininous</strong></a>
+  <em>“Sim, há fotos que nos fazem, num simples instante, viajar na imaginação. Eu moro em Portugal, aqui há muitas praias, cada uma delas mais especial que a outra. Esta foto que envio é de Peniche (Portugal), um lugar lindo e que me faz pensar em como a natureza é perfeita, e em como somos tão pequeninos diante da grandiosidade do Oceano. Neste mundo somos apenas um grão de areia.”</em> <strong>Kátia Pinheiro – </strong><a href="http://www.bigviagem.com/" target="_blank" rel="noopener noreferrer"><strong>Blog de Viagens</strong></a><strong> | </strong><a href="http://femininous.com/" target="_blank" rel="noopener noreferrer"><strong>Femininous</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/ROBERTA-SOUZA-TROLOLO-DE-MULHER.jpg"><img class="alignnone size-full wp-image-10501" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/ROBERTA-SOUZA-TROLOLO-DE-MULHER.jpg" alt="ROBERTA SOUZA-TROLOLO DE MULHER" width="800" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/ROBERTA-SOUZA-TROLOLO-DE-MULHER.jpg"><img class="alignnone size-full wp-image-10501" src="https://www.trololodemulher.com.br/2014/10/ROBERTA-SOUZA-TROLOLO-DE-MULHER.jpg" alt="ROBERTA SOUZA-TROLOLO DE MULHER" width="800" height="600" /></a>
 </p>
 
 <p align="justify">
-  <em>“Este é meu tio Ronaldo. Foi o niver dele de 43 anos. E todo aniversário dele fazemos uma bela festa para ele e seus amiguinhos da APAE. É tão gostoso vê-los juntos! Eles não param. Dançam o tempo todo. Riem, brincam, adoram carinho e atenção. Na APAE não tem só anjinhos com síndrome de Down como meu tio, são várias crianças especiais. Tirei foto com muitos deles, e eles adoram uma Selfie! rs Estar no meio deles, ver sua alegria é algo que não tem preço. Como precisamos de mais amor, mais pessoas como eles! Pena que os que são assim tem eternamente a inocência de uma criança&#8230; não podíamos sermos todos assim?” </em><strong>Roberta Souza | </strong><a href="http://mixculturainformacaoearte.com/" target="_blank"><strong>Mix Cultural</strong></a>
+  <em>“Este é meu tio Ronaldo. Foi o niver dele de 43 anos. E todo aniversário dele fazemos uma bela festa para ele e seus amiguinhos da APAE. É tão gostoso vê-los juntos! Eles não param. Dançam o tempo todo. Riem, brincam, adoram carinho e atenção. Na APAE não tem só anjinhos com síndrome de Down como meu tio, são várias crianças especiais. Tirei foto com muitos deles, e eles adoram uma Selfie! rs Estar no meio deles, ver sua alegria é algo que não tem preço. Como precisamos de mais amor, mais pessoas como eles! Pena que os que são assim tem eternamente a inocência de uma criança&#8230; não podíamos sermos todos assim?” </em><strong>Roberta Souza | </strong><a href="http://mixculturainformacaoearte.com/" target="_blank" rel="noopener noreferrer"><strong>Mix Cultural</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/ADRIANA-MINHOTO-TROLOLO-DE-MULHER.jpg"><img class="alignnone size-full wp-image-10495" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/ADRIANA-MINHOTO-TROLOLO-DE-MULHER.jpg" alt="ADRIANA MINHOTO-TROLOLO DE MULHER" width="800" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/ADRIANA-MINHOTO-TROLOLO-DE-MULHER.jpg"><img class="alignnone size-full wp-image-10495" src="https://www.trololodemulher.com.br/2014/10/ADRIANA-MINHOTO-TROLOLO-DE-MULHER.jpg" alt="ADRIANA MINHOTO-TROLOLO DE MULHER" width="800" height="450" /></a>
 </p>
 
 <p align="justify">
-  <em>“Essa foto foi uma das primeiras que tirei aqui da Finlândia&#8230; Olhando para esse mar &#8211; sim, é um mar sem ondas.. rs.. &#8211; ficava imaginando como estariam as coisas ai no Brasil, como estaria minha família e amigos ai…”</em> <strong>Adriana Minhoto – </strong><a href="http://www.visivae.com.br/" target="_blank"><strong>Visivae</strong></a><strong> | </strong><a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank"><strong>Entre Vodka e Cachaça</strong></a>
+  <em>“Essa foto foi uma das primeiras que tirei aqui da Finlândia&#8230; Olhando para esse mar &#8211; sim, é um mar sem ondas.. rs.. &#8211; ficava imaginando como estariam as coisas ai no Brasil, como estaria minha família e amigos ai…”</em> <strong>Adriana Minhoto – </strong><a href="http://www.visivae.com.br/" target="_blank" rel="noopener noreferrer"><strong>Visivae</strong></a><strong> | </strong><a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer"><strong>Entre Vodka e Cachaça</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/KATHIA-MARIAMEDEIROS-DE-LIMA-TROLOLO-DE-MULHER.jpg"><img class="alignnone size-full wp-image-10497" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/KATHIA-MARIAMEDEIROS-DE-LIMA-TROLOLO-DE-MULHER.jpg" alt="KATHIA MARIAMEDEIROS DE LIMA-TROLOLO DE MULHER" width="640" height="640" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/KATHIA-MARIAMEDEIROS-DE-LIMA-TROLOLO-DE-MULHER.jpg"><img class="alignnone size-full wp-image-10497" src="https://www.trololodemulher.com.br/2014/10/KATHIA-MARIAMEDEIROS-DE-LIMA-TROLOLO-DE-MULHER.jpg" alt="KATHIA MARIAMEDEIROS DE LIMA-TROLOLO DE MULHER" width="640" height="640" /></a>
 </p>
 
 <p align="justify">
@@ -72,7 +69,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="left">

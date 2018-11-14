@@ -1,15 +1,12 @@
 ---
-id: 3056
 title: Como decorar uma casa alugada gastando menos? Dicas, sugestões e pitacos…
-date: 2011-09-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/09/27/decorar-casa-alugada/
 permalink: /2011/09/27/decorar-casa-alugada/
 categories:
   - Publieditorial
 ---
-Não faz tanto tempo assim, eu comecei uma vida em comum com o marido. Casal jovem sem imóvel próprio… conhece essa situação? Uma das primeiras providências é realizar uma busca por **<a href="http://www.olx.com.br/casa-apartamento-para-aluguel-cat-363" target="_blank">casas para alugar</a>**, não é verdade?
+Não faz tanto tempo assim, eu comecei uma vida em comum com o marido. Casal jovem sem imóvel próprio… conhece essa situação? Uma das primeiras providências é realizar uma busca por **<a href="http://www.olx.com.br/casa-apartamento-para-aluguel-cat-363" target="_blank" rel="noopener noreferrer">casas para alugar</a>**, não é verdade?
 
 &nbsp;
 
@@ -44,7 +41,7 @@ Não faz tanto tempo assim, eu comecei uma vida em comum com o marido. Casal jov
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Flores.jpg"><img class="alignnone size-full wp-image-6956" title="Flores" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Flores.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/09/Flores.jpg"><img class="alignnone size-full wp-image-6956" title="Flores" src="https://www.trololodemulher.com.br/2011/09/Flores.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 <p align="center">

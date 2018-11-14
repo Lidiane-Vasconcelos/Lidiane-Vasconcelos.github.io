@@ -1,10 +1,7 @@
 ---
-id: 2861
 title: 'Pitacos de bicha fêmea: decoração para quarto infantil'
-date: 2010-08-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/08/16/decoracao-quarto-infantil/
 permalink: /2010/08/16/decoracao-quarto-infantil/
 categories:
   - Decoração
@@ -21,7 +18,7 @@ categories:
 <!--more-->
 
 <p style="text-align: justify;">
-  A Rosi é editora do “<a href="http://mundinhodarosi.blogspot.com/" target="_blank">Mundinho Particular</a>”, está gravidíssima e mora num <em>apertamento</em>. Olha o comentário dela no post onde falamos <strong><em><a href="http://www.trololodemulher.com.br/2010/07/09/descartando-remedios-vencidos/">sobre como descartar remédios vencidos</a></em></strong>:
+  A Rosi é editora do “<a href="http://mundinhodarosi.blogspot.com/" target="_blank" rel="noopener noreferrer">Mundinho Particular</a>”, está gravidíssima e mora num <em>apertamento</em>. Olha o comentário dela no post onde falamos <strong><em><a href="http://www.trololodemulher.com.br/2010/07/09/descartando-remedios-vencidos/">sobre como descartar remédios vencidos</a></em></strong>:
 </p>
 
 > “…_moro atualmente numa kitnet, naquele estilo quarto e sala no mesmo ambiente, e meu apartamento só ficará pronto após o nascimento do baby…Que tal colocar ideias sobre aqui no blog? Vai me ajudar muito. Agradeço desde já_.”
@@ -37,7 +34,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/organizacao-sob-o-berco.jpg"><img class="size-medium wp-image-5063   aligncenter" title="organização sob o berço" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/organizacao-sob-o-berco-225x300.jpg" alt="" width="225" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/organizacao-sob-o-berco.jpg"><img class="size-medium wp-image-5063   aligncenter" title="organização sob o berço" src="https://www.trololodemulher.com.br/2010/08/organizacao-sob-o-berco-225x300.jpg" alt="" width="225" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -45,7 +42,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/almofadas.jpg"><img class="size-full wp-image-5059 aligncenter" title="almofadas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/almofadas.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/almofadas.jpg"><img class="size-full wp-image-5059 aligncenter" title="almofadas" src="https://www.trololodemulher.com.br/2010/08/almofadas.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -53,7 +50,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/cestos-empilhaveis-para-organizacao.jpg"><img class="size-medium wp-image-5060 aligncenter" title="cestos empilháveis para organização" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/cestos-empilhaveis-para-organizacao-225x300.jpg" alt="" width="225" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/cestos-empilhaveis-para-organizacao.jpg"><img class="size-medium wp-image-5060 aligncenter" title="cestos empilháveis para organização" src="https://www.trololodemulher.com.br/2010/08/cestos-empilhaveis-para-organizacao-225x300.jpg" alt="" width="225" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -61,7 +58,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/detalhes-em-cortina-infantis.jpg"><img class="size-medium wp-image-5062 aligncenter" title="detalhes em cortina infantis" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/detalhes-em-cortina-infantis-225x300.jpg" alt="" width="225" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/detalhes-em-cortina-infantis.jpg"><img class="size-medium wp-image-5062 aligncenter" title="detalhes em cortina infantis" src="https://www.trololodemulher.com.br/2010/08/detalhes-em-cortina-infantis-225x300.jpg" alt="" width="225" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -69,7 +66,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/painel-organizador-para-quarto-infantil.jpg"><img class="size-medium wp-image-5064 aligncenter" title="painel organizador para quarto infantil" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/painel-organizador-para-quarto-infantil-225x300.jpg" alt="" width="225" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/painel-organizador-para-quarto-infantil.jpg"><img class="size-medium wp-image-5064 aligncenter" title="painel organizador para quarto infantil" src="https://www.trololodemulher.com.br/2010/08/painel-organizador-para-quarto-infantil-225x300.jpg" alt="" width="225" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -77,7 +74,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/quadros-infantis.jpg"><img class="size-full wp-image-5065 aligncenter" title="quadros infantis" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/quadros-infantis.jpg" alt="" width="300" height="250" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/quadros-infantis.jpg"><img class="size-full wp-image-5065 aligncenter" title="quadros infantis" src="https://www.trololodemulher.com.br/2010/08/quadros-infantis.jpg" alt="" width="300" height="250" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -92,7 +89,7 @@ categories:
   <tr>
     <td width="300" valign="top">
       <p style="text-align: center;">
-        <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank">Quadro Meu Primeiro Carrinho</a></em></strong>
+        <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank" rel="noopener noreferrer">Quadro Meu Primeiro Carrinho</a></em></strong>
       </p>
       
       <p style="text-align: justify;">
@@ -100,18 +97,18 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        <em>O quadro está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Se quiser dar uma espiada, é por aqui >>>>> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank"><strong>basta clicar</strong></a>!</em>
+        <em>O quadro está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Se quiser dar uma espiada, é por aqui >>>>> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank" rel="noopener noreferrer"><strong>basta clicar</strong></a>!</em>
       </p>
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-       <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg"><img class="alignnone size-full wp-image-5330" title="Quadro Meu Primeiro Carrinho200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg" alt="" width="200" height="200" /></a>
+       <a href="https://www.trololodemulher.com.br/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg"><img class="alignnone size-full wp-image-5330" title="Quadro Meu Primeiro Carrinho200" src="https://www.trololodemulher.com.br/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg" alt="" width="200" height="200" /></a>
     </td>
   </tr>
 </table>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/adesivo-para-parede-de-quarto-infantil.jpg"><img class="size-full wp-image-5058 aligncenter" title="adesivo para parede de quarto infantil" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/adesivo-para-parede-de-quarto-infantil.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/adesivo-para-parede-de-quarto-infantil.jpg"><img class="size-full wp-image-5058 aligncenter" title="adesivo para parede de quarto infantil" src="https://www.trololodemulher.com.br/2010/08/adesivo-para-parede-de-quarto-infantil.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -119,7 +116,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/decoracao-parede-quarto-infantil.jpg"><img class="size-medium wp-image-5061 aligncenter" title="decoração parede quarto infantil" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/decoracao-parede-quarto-infantil-225x300.jpg" alt="" width="225" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/decoracao-parede-quarto-infantil.jpg"><img class="size-medium wp-image-5061 aligncenter" title="decoração parede quarto infantil" src="https://www.trololodemulher.com.br/2010/08/decoracao-parede-quarto-infantil-225x300.jpg" alt="" width="225" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -130,7 +127,7 @@ categories:
   Agora é chegada a melhor hora do Bicha Fêmea, a hora dos comentários, quando muitas ideias podem surgir! <strong><em>Você, que é bicha fêmea navegante, tem alguma sugestão? Conta aí…</em></strong>
 </p>
 
-_Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Gardens</em></a>
+_Imagens:_ <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer"><em>Better Homes and Gardens</em></a>
 
 **Mais no Bicha Fêmea…**
 

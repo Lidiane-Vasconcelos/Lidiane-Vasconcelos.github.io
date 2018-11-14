@@ -1,24 +1,21 @@
 ---
-id: 2994
 title: 'Prateleira do Bicha Fêmea: Estúdio Cereja'
-date: 2011-05-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/05/18/estudio-cereja/
 permalink: /2011/05/18/estudio-cereja/
 categories:
   - Sem categoria
 ---
-Você bem sabe que mensalmente tem uma **Prateleira do Bicha Fêmea** feita só para te inspirar, não é? Prepare-se porque a deste mês é de ficar babando, bonita! Se eu desconfio bem, você fica dodinha quando vê _fofurices_ para enfeitar a casa, não é verdade? Pois as coisas do **<a href="http://estudiocereja.tanlup.com/" target="_blank">Estúdio Cereja</a>** são imperdíveis de serem apreciadas…difícil é resistir a tanta coisa linda!
+Você bem sabe que mensalmente tem uma **Prateleira do Bicha Fêmea** feita só para te inspirar, não é? Prepare-se porque a deste mês é de ficar babando, bonita! Se eu desconfio bem, você fica dodinha quando vê _fofurices_ para enfeitar a casa, não é verdade? Pois as coisas do **<a href="http://estudiocereja.tanlup.com/" target="_blank" rel="noopener noreferrer">Estúdio Cereja</a>** são imperdíveis de serem apreciadas…difícil é resistir a tanta coisa linda!
 
 <p style="text-align: justify;">
-  Vem cá! Você sabe do que estou falando? Já ouviu falar do blog <strong><a href="http://www.acasaqueaminhavoqueria.com/" target="_blank">A casa que a minha vó queria</a></strong>, da <strong>Ana Medeiros</strong>? <em>Hum</em>… pois essa loja virtual de pôsteres e pinturas que embelezam a casa é uma <em>invencionice</em> dela, sabia? <em>Espia</em> só e veja se não foi uma ideia das boas…
+  Vem cá! Você sabe do que estou falando? Já ouviu falar do blog <strong><a href="http://www.acasaqueaminhavoqueria.com/" target="_blank" rel="noopener noreferrer">A casa que a minha vó queria</a></strong>, da <strong>Ana Medeiros</strong>? <em>Hum</em>… pois essa loja virtual de pôsteres e pinturas que embelezam a casa é uma <em>invencionice</em> dela, sabia? <em>Espia</em> só e veja se não foi uma ideia das boas…
 </p>
 
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/logo-estudio-cereja2.jpg"><img class="alignnone size-full wp-image-6379" title="logo estúdio cereja[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/logo-estudio-cereja2.jpg" alt="" width="167" height="164" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/logo-estudio-cereja2.jpg"><img class="alignnone size-full wp-image-6379" title="logo estúdio cereja[2]" src="https://www.trololodemulher.com.br/2011/05/logo-estudio-cereja2.jpg" alt="" width="167" height="164" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -30,15 +27,15 @@ Você bem sabe que mensalmente tem uma **Prateleira do Bicha Fêmea** feita só 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/pintura-estudio-cereja.jpg"><img class="alignnone size-full wp-image-6382" title="pintura - estúdio cereja" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/pintura-estudio-cereja.jpg" alt="" width="500" height="493" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/pintura-estudio-cereja.jpg"><img class="alignnone size-full wp-image-6382" title="pintura - estúdio cereja" src="https://www.trololodemulher.com.br/2011/05/pintura-estudio-cereja.jpg" alt="" width="500" height="493" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/pintura-pintura-estudio-cereja2.jpg"><img class="alignnone size-full wp-image-6383" title="pintura - pintura estúdio cereja[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/pintura-pintura-estudio-cereja2.jpg" alt="" width="500" height="503" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/pintura-pintura-estudio-cereja2.jpg"><img class="alignnone size-full wp-image-6383" title="pintura - pintura estúdio cereja[2]" src="https://www.trololodemulher.com.br/2011/05/pintura-pintura-estudio-cereja2.jpg" alt="" width="500" height="503" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/poster-estudio-cereja.jpg"><img class="alignnone size-full wp-image-6384" title="pôster - estúdio cereja" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/poster-estudio-cereja.jpg" alt="" width="400" height="570" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/poster-estudio-cereja.jpg"><img class="alignnone size-full wp-image-6384" title="pôster - estúdio cereja" src="https://www.trololodemulher.com.br/2011/05/poster-estudio-cereja.jpg" alt="" width="400" height="570" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -46,11 +43,11 @@ Você bem sabe que mensalmente tem uma **Prateleira do Bicha Fêmea** feita só 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/poster-estudio-cereja2.jpg"><img class="alignnone size-full wp-image-6385" title="pôster - estúdio cereja[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/poster-estudio-cereja2.jpg" alt="" width="450" height="636" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/poster-estudio-cereja2.jpg"><img class="alignnone size-full wp-image-6385" title="pôster - estúdio cereja[2]" src="https://www.trololodemulher.com.br/2011/05/poster-estudio-cereja2.jpg" alt="" width="450" height="636" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/poster-estudio-cereja3.jpg"><img class="alignnone size-full wp-image-6386" title="pôster - estúdio cereja[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/poster-estudio-cereja3.jpg" alt="" width="400" height="566" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/poster-estudio-cereja3.jpg"><img class="alignnone size-full wp-image-6386" title="pôster - estúdio cereja[3]" src="https://www.trololodemulher.com.br/2011/05/poster-estudio-cereja3.jpg" alt="" width="400" height="566" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -58,7 +55,7 @@ Você bem sabe que mensalmente tem uma **Prateleira do Bicha Fêmea** feita só 
 </p>
 
 <p style="text-align: justify;">
-  Então, olha só: dá para acompanhar todas as novidades através do <strong><a href="http://estudiocereja.com.br/" target="_blank">blog da loja</a></strong>, e se quiser ir direto ao ponto, saindo da prateleira do Bicha Fêmea para as prateleiras da loja virtual, <strong><a href="http://estudiocereja.tanlup.com/" target="_blank">clique aqui</a></strong> e delicie-se!
+  Então, olha só: dá para acompanhar todas as novidades através do <strong><a href="http://estudiocereja.com.br/" target="_blank" rel="noopener noreferrer">blog da loja</a></strong>, e se quiser ir direto ao ponto, saindo da prateleira do Bicha Fêmea para as prateleiras da loja virtual, <strong><a href="http://estudiocereja.tanlup.com/" target="_blank" rel="noopener noreferrer">clique aqui</a></strong> e delicie-se!
 </p>
 
 <p style="text-align: justify;">

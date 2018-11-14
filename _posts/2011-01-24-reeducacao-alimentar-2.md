@@ -1,10 +1,7 @@
 ---
-id: 2939
 title: Chutando o balde…
-date: 2011-01-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/01/24/reeducacao-alimentar-2/
 permalink: /2011/01/24/reeducacao-alimentar-2/
 categories:
   - Comportamento
@@ -24,7 +21,7 @@ Para muitas pessoas o fim de semana representa deixar todo o empreendimento real
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/biscoitos.jpg"><img class="alignnone size-full wp-image-5764" title="biscoitos" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/biscoitos.jpg" alt="" width="570" height="377" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/biscoitos.jpg"><img class="alignnone size-full wp-image-5764" title="biscoitos" src="https://www.trololodemulher.com.br/2011/01/biscoitos.jpg" alt="" width="570" height="377" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -43,7 +40,7 @@ Para muitas pessoas o fim de semana representa deixar todo o empreendimento real
   Vale a dica já para esse fim de semana, e boa sorte!
 </p>
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>

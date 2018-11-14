@@ -1,10 +1,7 @@
 ---
-id: 3367
 title: Educação, ordem e progresso… lá na Finlândia é assim!
-date: 2014-11-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/11/14/educacao-na-finlandia/
 permalink: /2014/11/14/educacao-na-finlandia/
 categories:
   - Adriana Minhoto
@@ -36,7 +33,7 @@ categories:
 > </p>
 
 > <p align="justify">
->   <strong>Conversei com uma amiga brasileira que mora aqui faz muito tempo e é consultora em educação, professora e pedagoga, a Evelyse Eerola, dona de um site voltado para educação, o </strong><a href="http://projetofinlandia.net/" target="_blank"><strong>Projeto Finlândia</strong></a><strong>. De acordo com ela, <em>“em meus quase dezoito anos de vivência na Finlândia, eu nunca vi uma greve de professores, uma reclamação, ou uma conversa de descontentamento neste sentido entre os meus colegas”.</em></strong>
+>   <strong>Conversei com uma amiga brasileira que mora aqui faz muito tempo e é consultora em educação, professora e pedagoga, a Evelyse Eerola, dona de um site voltado para educação, o </strong><a href="http://projetofinlandia.net/" target="_blank" rel="noopener noreferrer"><strong>Projeto Finlândia</strong></a><strong>. De acordo com ela, <em>“em meus quase dezoito anos de vivência na Finlândia, eu nunca vi uma greve de professores, uma reclamação, ou uma conversa de descontentamento neste sentido entre os meus colegas”.</em></strong>
 > </p>
 
 > <p align="justify">
@@ -44,11 +41,11 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/EDUCACAO-FINLANDIA.jpg"><img class="alignnone size-full wp-image-10563" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/EDUCACAO-FINLANDIA.jpg" alt="EDUCACAO-FINLANDIA" width="590" height="443" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/EDUCACAO-FINLANDIA.jpg"><img class="alignnone size-full wp-image-10563" src="https://www.trololodemulher.com.br/2014/11/EDUCACAO-FINLANDIA.jpg" alt="EDUCACAO-FINLANDIA" width="590" height="443" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.businessinsider.com/finland-education-school-2011-12?op=1" target="_blank">Business Insider</a>
+  Imagem: <a href="http://www.businessinsider.com/finland-education-school-2011-12?op=1" target="_blank" rel="noopener noreferrer">Business Insider</a>
 </p>
 
 > <p align="justify">
@@ -75,24 +72,24 @@ categories:
 
 **Mais sobre a Finlândia:**
 
-<a href="http://www.trololodemulher.com.br/2014/10/10/compras-finlandia/" target="_blank"><strong>Fazer compras é simples, a menos que seja na Finlândia!</strong></a>
+<a href="http://www.trololodemulher.com.br/2014/10/10/compras-finlandia/" target="_blank" rel="noopener noreferrer"><strong>Fazer compras é simples, a menos que seja na Finlândia!</strong></a>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ADRIANA-MINHOTO.png"><img class="alignnone size-full wp-image-10378" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ADRIANA-MINHOTO.png" alt="ADRIANA MINHOTO" width="800" height="227" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/ADRIANA-MINHOTO.png"><img class="alignnone size-full wp-image-10378" src="https://www.trololodemulher.com.br/2014/09/ADRIANA-MINHOTO.png" alt="ADRIANA MINHOTO" width="800" height="227" /></a>
 </p>
 
 &nbsp;
 
-Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai!
+Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank" rel="noopener noreferrer">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank" rel="noopener noreferrer">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer">clicar aqui e se jogar</a>! Vai!
 
 <p align="justify">
   <strong>*PISA</strong> (Programme for International Student Assessment) é um programa internacional de avaliação de estudantes, de avaliação comparada, aplicada em estudantes de 15 anos. O programa é desenvolvido e coordenado pela Organização para Cooperação e Desenvolvimento Econômico (OCDE).
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

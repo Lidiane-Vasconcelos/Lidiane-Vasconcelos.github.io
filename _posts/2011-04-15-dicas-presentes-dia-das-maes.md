@@ -1,10 +1,7 @@
 ---
-id: 2979
 title: Sua mãe gosta de mimos artesanais?
-date: 2011-04-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/04/15/dicas-presentes-dia-das-maes/
 permalink: /2011/04/15/dicas-presentes-dia-das-maes/
 categories:
   - Trololó
@@ -22,11 +19,11 @@ Você já se deu conta disso? Já reparou se ela gosta de **peças artesanais** 
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Divino-Rosas-Medias.jpg"><img class="alignnone size-full wp-image-6249" title="Divino Rosas Médias" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Divino-Rosas-Medias.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-divino-rosas-medias/" target="_blank">Quadro Divino Rosas Médias</a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/04/Divino-Rosas-Medias.jpg"><img class="alignnone size-full wp-image-6249" title="Divino Rosas Médias" src="https://www.trololodemulher.com.br/2011/04/Divino-Rosas-Medias.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-divino-rosas-medias/" target="_blank" rel="noopener noreferrer">Quadro Divino Rosas Médias</a></strong>
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Quadro-Divino-Rosas-Pequenas.jpg"><img class="alignnone size-full wp-image-6250" title="Quadro Divino Rosas Pequenas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Quadro-Divino-Rosas-Pequenas.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-divino-rosas-pequenas/" target="_blank">Quadro Divino Rosas Pequenas</a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/04/Quadro-Divino-Rosas-Pequenas.jpg"><img class="alignnone size-full wp-image-6250" title="Quadro Divino Rosas Pequenas" src="https://www.trololodemulher.com.br/2011/04/Quadro-Divino-Rosas-Pequenas.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-divino-rosas-pequenas/" target="_blank" rel="noopener noreferrer">Quadro Divino Rosas Pequenas</a></strong>
 </p>
 
 <p style="text-align: center;">
@@ -34,7 +31,7 @@ Você já se deu conta disso? Já reparou se ela gosta de **peças artesanais** 
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Porta-Joias-ou-Cha-Navy1.jpg"><img class="alignnone size-full wp-image-6251" title="Porta Jóias ou Chá Navy1" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Porta-Joias-ou-Cha-Navy1.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-joias-ou-cha-2/" target="_blank">Porta Jóias Navy</a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/04/Porta-Joias-ou-Cha-Navy1.jpg"><img class="alignnone size-full wp-image-6251" title="Porta Jóias ou Chá Navy1" src="https://www.trololodemulher.com.br/2011/04/Porta-Joias-ou-Cha-Navy1.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-joias-ou-cha-2/" target="_blank" rel="noopener noreferrer">Porta Jóias Navy</a></strong>
 </p>
 
 <p style="text-align: center;">
@@ -42,7 +39,7 @@ Você já se deu conta disso? Já reparou se ela gosta de **peças artesanais** 
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Caixa-Redonda-Vintage.jpg"><img class="alignnone size-full wp-image-6252" title="Caixa Redonda Vintage" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Caixa-Redonda-Vintage.jpg" alt="" width="474" height="411" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank">Caixa Redonda Vintage</a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/04/Caixa-Redonda-Vintage.jpg"><img class="alignnone size-full wp-image-6252" title="Caixa Redonda Vintage" src="https://www.trololodemulher.com.br/2011/04/Caixa-Redonda-Vintage.jpg" alt="" width="474" height="411" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank" rel="noopener noreferrer">Caixa Redonda Vintage</a></strong>
 </p>
 
 <p style="text-align: center;">
@@ -50,15 +47,15 @@ Você já se deu conta disso? Já reparou se ela gosta de **peças artesanais** 
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Regador-Provencal.jpg"><img class="alignnone size-full wp-image-6253" title="Regador Provençal" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Regador-Provencal.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank">Regador Provençal</a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/04/Regador-Provencal.jpg"><img class="alignnone size-full wp-image-6253" title="Regador Provençal" src="https://www.trololodemulher.com.br/2011/04/Regador-Provencal.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank" rel="noopener noreferrer">Regador Provençal</a></strong>
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Espelho-Provencal.jpg"><img class="alignnone size-full wp-image-6254" title="Espelho Provençal" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Espelho-Provencal.jpg" alt="" width="453" height="356" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/" target="_blank">Espelho Provençal</a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/04/Espelho-Provencal.jpg"><img class="alignnone size-full wp-image-6254" title="Espelho Provençal" src="https://www.trololodemulher.com.br/2011/04/Espelho-Provencal.jpg" alt="" width="453" height="356" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/" target="_blank" rel="noopener noreferrer">Espelho Provençal</a></strong>
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Placa-Lar-Doce-Lar.jpg"><img class="alignnone size-full wp-image-6255" title="Placa Lar Doce Lar" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Placa-Lar-Doce-Lar.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-lar-doce-lar/" target="_blank">Placa Lar Doce Lar</a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/04/Placa-Lar-Doce-Lar.jpg"><img class="alignnone size-full wp-image-6255" title="Placa Lar Doce Lar" src="https://www.trololodemulher.com.br/2011/04/Placa-Lar-Doce-Lar.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-lar-doce-lar/" target="_blank" rel="noopener noreferrer">Placa Lar Doce Lar</a></strong>
 </p>
 
 <p style="text-align: center;">
@@ -66,10 +63,10 @@ Você já se deu conta disso? Já reparou se ela gosta de **peças artesanais** 
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Caixa-Patchwork-2.jpg"><img class="alignnone size-full wp-image-6256" title="Caixa Patchwork 2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Caixa-Patchwork-2.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-patchwork/" target="_blank">Caixa Patchwork</a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/04/Caixa-Patchwork-2.jpg"><img class="alignnone size-full wp-image-6256" title="Caixa Patchwork 2" src="https://www.trololodemulher.com.br/2011/04/Caixa-Patchwork-2.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-patchwork/" target="_blank" rel="noopener noreferrer">Caixa Patchwork</a></strong>
 </p>
 
-**<span style="font-size: medium;">Se quiser dar uma espiada no Mercado de Artes, fique á vontade. É por aqui… <a href="http://www.trololodemulher.com.br/loja/" target="_blank">basta clicar</a>!</span>**
+**<span style="font-size: medium;">Se quiser dar uma espiada no Mercado de Artes, fique á vontade. É por aqui… <a href="http://www.trololodemulher.com.br/loja/" target="_blank" rel="noopener noreferrer">basta clicar</a>!</span>**
 
 <p style="text-align: center;">
   Receba todo dia, como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>

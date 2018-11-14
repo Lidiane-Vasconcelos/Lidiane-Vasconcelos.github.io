@@ -1,10 +1,7 @@
 ---
-id: 3211
 title: É aniversário do Bicha Fêmea… com despedida…
-date: 2012-11-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/11/22/bicha-femea-despedida/
 permalink: /2012/11/22/bicha-femea-despedida/
 categories:
   - Trololó
@@ -32,7 +29,7 @@ Pois é, bonita… hoje o **Bicha Fêmea faz 4 anos de vida**, e o que passa pel
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9336" rel="attachment wp-att-9336"><img class="alignnone size-full wp-image-9336" title="LIDIANE VASCONCELOS - BICHA FEMEA - 2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/LIDIANE-VASCONCELOS-BICHA-FEMEA-2.jpg" alt="" width="600" height="400" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9336" rel="attachment wp-att-9336"><img class="alignnone size-full wp-image-9336" title="LIDIANE VASCONCELOS - BICHA FEMEA - 2" src="https://www.trololodemulher.com.br/2012/11/LIDIANE-VASCONCELOS-BICHA-FEMEA-2.jpg" alt="" width="600" height="400" /></a>
 </p>
 
 <p align="justify">
@@ -40,7 +37,7 @@ Pois é, bonita… hoje o **Bicha Fêmea faz 4 anos de vida**, e o que passa pel
 </p>
 
 <p align="justify">
-  O Bicha Fêmea começou despretensiosamente, cresceu e apareceu. Em seguida surgiu o <strong><a href="http://www.decoracaodacasa.com/" target="_blank">Decoração da Casa</a></strong>, e a coisa toda foi ficando mais trabalhosa, com atividades <em>bloguísticas</em> que exigem todo o meu empenho. Hoje eles tomam todo o tempo que tenho disponível, e eu os levo a sério demais para tentar conciliá-los com a maternidade nesses primeiros meses, porque não quero fazer de qualquer jeito.
+  O Bicha Fêmea começou despretensiosamente, cresceu e apareceu. Em seguida surgiu o <strong><a href="http://www.decoracaodacasa.com/" target="_blank" rel="noopener noreferrer">Decoração da Casa</a></strong>, e a coisa toda foi ficando mais trabalhosa, com atividades <em>bloguísticas</em> que exigem todo o meu empenho. Hoje eles tomam todo o tempo que tenho disponível, e eu os levo a sério demais para tentar conciliá-los com a maternidade nesses primeiros meses, porque não quero fazer de qualquer jeito.
 </p>
 
 <p align="justify">
@@ -48,7 +45,7 @@ Pois é, bonita… hoje o **Bicha Fêmea faz 4 anos de vida**, e o que passa pel
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9339" rel="attachment wp-att-9339"><img class="alignnone size-full wp-image-9339" title="LIDIANE VASCONCELOS - BICHA FEMEA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/LIDIANE-VASCONCELOS-BICHA-FEMEA.jpg" alt="" width="600" height="607" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9339" rel="attachment wp-att-9339"><img class="alignnone size-full wp-image-9339" title="LIDIANE VASCONCELOS - BICHA FEMEA" src="https://www.trololodemulher.com.br/2012/11/LIDIANE-VASCONCELOS-BICHA-FEMEA.jpg" alt="" width="600" height="607" /></a>
 </p>
 
 <p align="justify">

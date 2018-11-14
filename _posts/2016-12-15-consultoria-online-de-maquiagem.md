@@ -1,10 +1,7 @@
 ---
-id: 3718
 title: Consultoria online de maquiagem pra ser você mesma.
-date: 2016-12-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/12/15/consultoria-online-de-maquiagem/
 permalink: /2016/12/15/consultoria-online-de-maquiagem/
 categories:
   - Beleza
@@ -30,11 +27,11 @@ categories:
 
 <p align="justify">
   <p align="justify">
-    A melhor das notícias é que qualquer mulher pode desfrutar desse encontro com a Márcia, porque a consultoria é dada online. Mulheres do Brasil e fora dele podem passar a ter esse contato tão rico com ela. <a href="http://www.marciadamasceno.com.br/produto/consultoria-online-de-automaquiagem-para-olhos/" target="_blank">Clique aqui e você já pode pedir a sua também</a>. O site da Márcia é cheio de informação das melhores pra você se sentir mais bonita e empoderada, <a href="http://www.marciadamasceno.com.br/" target="_blank">clique aqui e confirme</a>! No Facebook a Márcia divulga todas as novidades que você precisa saber sobre beleza e bem-estar. <a href="https://www.facebook.com/maquiagemnaoetudo/" target="_blank">Clique aqui, curta e acompanhe</a>. No Instagram essa moça linda de viver nos inspira muito a cuidar da beleza de dentro pra fora. <a href="https://www.instagram.com/maquiagemnaoetudo/" target="_blank">Clique aqui, siga e viva de amores</a>.
+    A melhor das notícias é que qualquer mulher pode desfrutar desse encontro com a Márcia, porque a consultoria é dada online. Mulheres do Brasil e fora dele podem passar a ter esse contato tão rico com ela. <a href="http://www.marciadamasceno.com.br/produto/consultoria-online-de-automaquiagem-para-olhos/" target="_blank" rel="noopener noreferrer">Clique aqui e você já pode pedir a sua também</a>. O site da Márcia é cheio de informação das melhores pra você se sentir mais bonita e empoderada, <a href="http://www.marciadamasceno.com.br/" target="_blank" rel="noopener noreferrer">clique aqui e confirme</a>! No Facebook a Márcia divulga todas as novidades que você precisa saber sobre beleza e bem-estar. <a href="https://www.facebook.com/maquiagemnaoetudo/" target="_blank" rel="noopener noreferrer">Clique aqui, curta e acompanhe</a>. No Instagram essa moça linda de viver nos inspira muito a cuidar da beleza de dentro pra fora. <a href="https://www.instagram.com/maquiagemnaoetudo/" target="_blank" rel="noopener noreferrer">Clique aqui, siga e viva de amores</a>.
   </p>
   
   <p align="center">
-    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
   </p>
   
   <p align="justify">

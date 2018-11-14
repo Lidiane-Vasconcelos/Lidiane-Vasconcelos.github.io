@@ -1,10 +1,7 @@
 ---
-id: 2997
 title: Ideias criativas e simples para festas de aniversário infantil
-date: 2011-05-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/05/23/festas-aniversario-infantil/
 permalink: /2011/05/23/festas-aniversario-infantil/
 categories:
   - Festas Infantis
@@ -25,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/convite-de-aniversario-infantil.jpg"><img class="alignnone size-full wp-image-6407" title="convite de aniversário infantil" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/convite-de-aniversario-infantil.jpg" alt="" width="360" height="360" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/convite-de-aniversario-infantil.jpg"><img class="alignnone size-full wp-image-6407" title="convite de aniversário infantil" src="https://www.trololodemulher.com.br/2011/05/convite-de-aniversario-infantil.jpg" alt="" width="360" height="360" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -41,7 +38,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-festa-infantil.jpg"><img class="alignnone size-full wp-image-6408" title="decoração de festa infantil" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-festa-infantil.jpg" alt="" width="360" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/decoracao-de-festa-infantil.jpg"><img class="alignnone size-full wp-image-6408" title="decoração de festa infantil" src="https://www.trololodemulher.com.br/2011/05/decoracao-de-festa-infantil.jpg" alt="" width="360" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -53,7 +50,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/chapeu-festa-aniversario-infantil1.jpg"><img class="alignnone size-full wp-image-6406" title="chapeú festa aniversário infantil[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/chapeu-festa-aniversario-infantil1.jpg" alt="" width="360" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/chapeu-festa-aniversario-infantil1.jpg"><img class="alignnone size-full wp-image-6406" title="chapeú festa aniversário infantil[1]" src="https://www.trololodemulher.com.br/2011/05/chapeu-festa-aniversario-infantil1.jpg" alt="" width="360" height="400" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -61,11 +58,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/chapeu-festa-aniversario-infantil.jpg"><img class="alignnone size-full wp-image-6405" title="chapeú festa aniversário infantil" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/chapeu-festa-aniversario-infantil.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/chapeu-festa-aniversario-infantil.jpg"><img class="alignnone size-full wp-image-6405" title="chapeú festa aniversário infantil" src="https://www.trololodemulher.com.br/2011/05/chapeu-festa-aniversario-infantil.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Esse chapeuzinho super simples e divertido foi mostrado pela <strong>Roberta Dalsenter</strong>, no seu delicioso e inspirador “<strong><a href="http://www.docesabobrinhas.com/" target="_blank">Doces Abobrinhas</a></strong>”. Tem até um <em>PAP</em> com imagens que ensinam a reproduzir algo assim. Quer ver como? Só clicar <strong><a href="http://docesabobrinhas.com/2011/05/fazendo-chapeuzinho/" target="_blank">bem aqui</a></strong>…
+  Esse chapeuzinho super simples e divertido foi mostrado pela <strong>Roberta Dalsenter</strong>, no seu delicioso e inspirador “<strong><a href="http://www.docesabobrinhas.com/" target="_blank" rel="noopener noreferrer">Doces Abobrinhas</a></strong>”. Tem até um <em>PAP</em> com imagens que ensinam a reproduzir algo assim. Quer ver como? Só clicar <strong><a href="http://docesabobrinhas.com/2011/05/fazendo-chapeuzinho/" target="_blank" rel="noopener noreferrer">bem aqui</a></strong>…
 </p>
 
 <p style="text-align: center;">
@@ -73,17 +70,17 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/festa-de-aniversario-infantil.jpg"><img class="alignnone size-full wp-image-6411" title="festa de aniversário infantil" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/festa-de-aniversario-infantil.jpg" alt="" width="360" height="480" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/festa-de-aniversario-infantil.jpg"><img class="alignnone size-full wp-image-6411" title="festa de aniversário infantil" src="https://www.trololodemulher.com.br/2011/05/festa-de-aniversario-infantil.jpg" alt="" width="360" height="480" /></a>
 </p>
 
 <p style="text-align: justify;">
   Tudo de colorido, bonito, simples e barato num lugar só! E precisa mais? Achei fan-tás-ti-ca a ideia de usar sacolinhas básicas de papel pardo enfeitadas com colagens coloridas. As que a minha mãe usava não eram de papel, mas eram bem coloridas também. Dentro não podia faltar guloseimas e pequenos presentinhos bem baratos, mas que faziam a alegria das crianças…
 </p>
 
-Imagens: **<a href="http://www.scrapbooksetc.com/" target="_blank">scrapbooks etc.</a>**
+Imagens: **<a href="http://www.scrapbooksetc.com/" target="_blank" rel="noopener noreferrer">scrapbooks etc.</a>**
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

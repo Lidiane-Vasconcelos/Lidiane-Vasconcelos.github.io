@@ -1,10 +1,7 @@
 ---
-id: 2927
 title: 'Prateleira do Bicha Fêmea: Infinita Arte for Baby'
-date: 2010-12-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/12/15/infinita-arte-for-baby/
 permalink: /2010/12/15/infinita-arte-for-baby/
 categories:
   - Enxoval
@@ -13,7 +10,7 @@ categories:
 Toda mulher, logo que engravida, já se imagina completamente diferente e apaixonada pelo bebezinho que logo começará a crescer na barriga, não é assim? É natural que ela comece a sonhar com o rostinho, a mãozinha, o quarto do bebê, e por aí vai…
 
 <p style="text-align: justify;">
-  E por falar em quartinho do bebê, da decoração dele e o conforto do ambiente, a mamãe que quer tudo exclusivo e lindo de viver, conta com o espaço apresentado na <strong><em>Prateleira do Bicha Fêmea</em></strong> de hoje: a <a href="http://www.infinitaarte.com.br/" target="_blank">Infinita Arte for Baby</a>.
+  E por falar em quartinho do bebê, da decoração dele e o conforto do ambiente, a mamãe que quer tudo exclusivo e lindo de viver, conta com o espaço apresentado na <strong><em>Prateleira do Bicha Fêmea</em></strong> de hoje: a <a href="http://www.infinitaarte.com.br/" target="_blank" rel="noopener noreferrer">Infinita Arte for Baby</a>.
 </p>
 
 <p style="text-align: justify;">
@@ -25,11 +22,11 @@ Toda mulher, logo que engravida, já se imagina completamente diferente e apaixo
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/lembrancinha-de-bebe-sache.jpg"><img class="alignnone size-full wp-image-5644" title="lembrancinha de bebê - sachê" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/lembrancinha-de-bebe-sache.jpg" alt="" width="533" height="537" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/lembrancinha-de-bebe-sache.jpg"><img class="alignnone size-full wp-image-5644" title="lembrancinha de bebê - sachê" src="https://www.trololodemulher.com.br/2010/12/lembrancinha-de-bebe-sache.jpg" alt="" width="533" height="537" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/ursinhos.jpg"><img class="alignnone size-full wp-image-5646" title="ursinhos" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/ursinhos.jpg" alt="" width="539" height="534" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/ursinhos.jpg"><img class="alignnone size-full wp-image-5646" title="ursinhos" src="https://www.trololodemulher.com.br/2010/12/ursinhos.jpg" alt="" width="539" height="534" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -37,11 +34,11 @@ Toda mulher, logo que engravida, já se imagina completamente diferente e apaixo
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/porta-treco.jpg"><img class="alignnone size-full wp-image-5645" title="porta treco" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/porta-treco.jpg" alt="" width="539" height="538" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/porta-treco.jpg"><img class="alignnone size-full wp-image-5645" title="porta treco" src="https://www.trololodemulher.com.br/2010/12/porta-treco.jpg" alt="" width="539" height="538" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/guirlanda.jpg"><img class="alignnone size-full wp-image-5640" title="guirlanda" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/guirlanda.jpg" alt="" width="536" height="537" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/guirlanda.jpg"><img class="alignnone size-full wp-image-5640" title="guirlanda" src="https://www.trololodemulher.com.br/2010/12/guirlanda.jpg" alt="" width="536" height="537" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -49,11 +46,11 @@ Toda mulher, logo que engravida, já se imagina completamente diferente e apaixo
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/decoracao-bebe.jpg"><img class="alignnone size-full wp-image-5638" title="decoração bebê" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/decoracao-bebe.jpg" alt="" width="540" height="538" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/decoracao-bebe.jpg"><img class="alignnone size-full wp-image-5638" title="decoração bebê" src="https://www.trololodemulher.com.br/2010/12/decoracao-bebe.jpg" alt="" width="540" height="538" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/decoracao-bebe-boneca.jpg"><img class="alignnone size-full wp-image-5639" title="decoração bebê boneca" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/decoracao-bebe-boneca.jpg" alt="" width="538" height="537" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/decoracao-bebe-boneca.jpg"><img class="alignnone size-full wp-image-5639" title="decoração bebê boneca" src="https://www.trololodemulher.com.br/2010/12/decoracao-bebe-boneca.jpg" alt="" width="538" height="537" /></a>
 </p>
 
 Tudo o que é criado na **_Infinita Arte for Baby_** é exclusivo e artesanal, por isso cada peça é pensada exatamente para seu bebê, de acordo com suas necessidades e sonhos…

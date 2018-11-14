@@ -1,10 +1,7 @@
 ---
-id: 3462
 title: Apartamento pequeno e lições de como viver com menos.
-date: 2015-08-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/08/12/apartamento-pequeno/
 permalink: /2015/08/12/apartamento-pequeno/
 categories:
   - Decoração
@@ -19,15 +16,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/apartamento-pequeno-2/" target="_blank"><strong>Apartamento mínimo, com tudo para viver bem: é possível?</strong></a>
+  <a href="http://www.decoracaodacasa.com/apartamento-pequeno-2/" target="_blank" rel="noopener noreferrer"><strong>Apartamento mínimo, com tudo para viver bem: é possível?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/apartamento-pequeno-2/" target="_blank"><strong>Dá para viver bem em pequenos espaços?</strong></a>
+  <a href="http://www.decoracaodacasa.com/apartamento-pequeno-2/" target="_blank" rel="noopener noreferrer"><strong>Dá para viver bem em pequenos espaços?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/Mathew-Herbert.jpg"><img class="alignnone size-full wp-image-11285" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/Mathew-Herbert.jpg" alt="Mathew Herbert" width="533" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/Mathew-Herbert.jpg"><img class="alignnone size-full wp-image-11285" src="https://www.trololodemulher.com.br/2015/08/Mathew-Herbert.jpg" alt="Mathew Herbert" width="533" height="800" /></a>
 </p>
 
 <p align="center">
@@ -35,7 +32,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-ENTRADA.jpg"><img class="alignnone size-full wp-image-11279" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-ENTRADA.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-ENTRADA" width="533" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-ENTRADA.jpg"><img class="alignnone size-full wp-image-11279" src="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-ENTRADA.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-ENTRADA" width="533" height="800" /></a>
 </p>
 
 <p align="center">
@@ -43,7 +40,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-ENTRADA2.jpg"><img class="alignnone size-full wp-image-11280" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-ENTRADA2.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-ENTRADA[2]" width="800" height="533" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-ENTRADA2.jpg"><img class="alignnone size-full wp-image-11280" src="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-ENTRADA2.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-ENTRADA[2]" width="800" height="533" /></a>
 </p>
 
 <p align="center">
@@ -51,7 +48,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA.jpg"><img class="alignnone size-full wp-image-11271" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-COZINHA" width="533" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA.jpg"><img class="alignnone size-full wp-image-11271" src="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-COZINHA" width="533" height="800" /></a>
 </p>
 
 <p align="center">
@@ -59,7 +56,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA2.jpg"><img class="alignnone size-full wp-image-11272" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA2.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-COZINHA[2]" width="533" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA2.jpg"><img class="alignnone size-full wp-image-11272" src="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA2.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-COZINHA[2]" width="533" height="800" /></a>
 </p>
 
 <p align="center">
@@ -67,7 +64,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA3.jpg"><img class="alignnone size-full wp-image-11273" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA3.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-COZINHA[3]" width="533" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA3.jpg"><img class="alignnone size-full wp-image-11273" src="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA3.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-COZINHA[3]" width="533" height="800" /></a>
 </p>
 
 <p align="center">
@@ -79,15 +76,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cozinha-pequena-decoracao/" target="_blank"><strong>Cozinha pequena: o grande charme da decoração está nos detalhes.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cozinha-pequena-decoracao/" target="_blank" rel="noopener noreferrer"><strong>Cozinha pequena: o grande charme da decoração está nos detalhes.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/03/28/cozinha-apartamento-pequeno/" target="_blank"><strong>Cozinha moderna em apartamento pequeno… tem jeito?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/03/28/cozinha-apartamento-pequeno/" target="_blank" rel="noopener noreferrer"><strong>Cozinha moderna em apartamento pequeno… tem jeito?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA4.jpg"><img class="alignnone size-full wp-image-11274" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA4.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-COZINHA[4]" width="800" height="533" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA4.jpg"><img class="alignnone size-full wp-image-11274" src="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA4.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-COZINHA[4]" width="800" height="533" /></a>
 </p>
 
 <p align="center">
@@ -99,19 +96,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/espaco-pequeno-decoracao/" target="_blank"><strong>Como fazer seu espaço pequeno parecer maior? 10 dicas.</strong></a>
+  <a href="http://www.decoracaodacasa.com/espaco-pequeno-decoracao/" target="_blank" rel="noopener noreferrer"><strong>Como fazer seu espaço pequeno parecer maior? 10 dicas.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-espacos-pequenos/" target="_blank"><strong>3 erros na decoração e organização de espaços pequenos: você os comete?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-espacos-pequenos/" target="_blank" rel="noopener noreferrer"><strong>3 erros na decoração e organização de espaços pequenos: você os comete?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-casa-pouco-espaco/" target="_blank"><strong>5 dicas de decoração para casas com pouco espaço.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-casa-pouco-espaco/" target="_blank" rel="noopener noreferrer"><strong>5 dicas de decoração para casas com pouco espaço.</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA5.jpg"><img class="alignnone size-full wp-image-11277" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA5.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-COZINHA[5]" width="800" height="533" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA5.jpg"><img class="alignnone size-full wp-image-11277" src="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA5.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-COZINHA[5]" width="800" height="533" /></a>
 </p>
 
 <p align="center">
@@ -119,7 +116,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA6.jpg"><img class="alignnone size-full wp-image-11278" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA6.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-COZINHA[6]" width="800" height="533" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA6.jpg"><img class="alignnone size-full wp-image-11278" src="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-COZINHA6.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-COZINHA[6]" width="800" height="533" /></a>
 </p>
 
 <p align="center">
@@ -127,7 +124,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-QUARTO-SALA.jpg"><img class="alignnone size-full wp-image-11282" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-QUARTO-SALA.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-QUARTO-SALA" width="800" height="533" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-QUARTO-SALA.jpg"><img class="alignnone size-full wp-image-11282" src="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-QUARTO-SALA.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-QUARTO-SALA" width="800" height="533" /></a>
 </p>
 
 <p align="left">
@@ -135,15 +132,15 @@ categories:
 </p>
 
 <p align="left">
-  <a href="http://www.trololodemulher.com.br/2011/05/11/quarto-pequeno-decoracao/" target="_blank"><strong>Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/05/11/quarto-pequeno-decoracao/" target="_blank" rel="noopener noreferrer"><strong>Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?</strong></a>
 </p>
 
 <p align="left">
-  <a href="http://www.decoracaodacasa.com/movel-funcional-sala-pequena/" target="_blank"><strong>Móvel funcional na sua sala de estar pequena é a melhor escolha.</strong></a>
+  <a href="http://www.decoracaodacasa.com/movel-funcional-sala-pequena/" target="_blank" rel="noopener noreferrer"><strong>Móvel funcional na sua sala de estar pequena é a melhor escolha.</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-QUARTO.jpg"><img class="alignnone size-full wp-image-11281" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-QUARTO.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-QUARTO" width="534" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-QUARTO.jpg"><img class="alignnone size-full wp-image-11281" src="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-QUARTO.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-QUARTO" width="534" height="800" /></a>
 </p>
 
 <p align="center">
@@ -151,7 +148,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-QUINTAL.jpg"><img class="alignnone size-full wp-image-11283" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-QUINTAL.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-QUINTAL" width="800" height="533" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-QUINTAL.jpg"><img class="alignnone size-full wp-image-11283" src="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-QUINTAL.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-QUINTAL" width="800" height="533" /></a>
 </p>
 
 <p align="center">
@@ -163,15 +160,15 @@ categories:
 </p>
 
 <p align="left">
-  <a href="http://www.decoracaodacasa.com/decoracao-varanda-pequena/" target="_blank"><strong>4 composições de cantinhos para sua varanda pequena.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-varanda-pequena/" target="_blank" rel="noopener noreferrer"><strong>4 composições de cantinhos para sua varanda pequena.</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-BANHEIRO.jpg"><img class="alignnone size-full wp-image-11269" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-BANHEIRO.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-BANHEIRO" width="533" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-BANHEIRO.jpg"><img class="alignnone size-full wp-image-11269" src="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-BANHEIRO.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-BANHEIRO" width="533" height="800" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-BANHEIRO2.jpg"><img class="alignnone size-full wp-image-11270" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-APARTAMENTO-PEQUENO-BANHEIRO2.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-BANHEIRO[2]" width="533" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-BANHEIRO2.jpg"><img class="alignnone size-full wp-image-11270" src="https://www.trololodemulher.com.br/2015/08/DECORACAO-APARTAMENTO-PEQUENO-BANHEIRO2.jpg" alt="DECORACAO-APARTAMENTO PEQUENO-BANHEIRO[2]" width="533" height="800" /></a>
 </p>
 
 <p align="center">
@@ -183,11 +180,11 @@ categories:
 </p>
 
 <p align="left">
-  <a href="http://www.trololodemulher.com.br/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank"><strong>Decoração de banheiro pequeno para poupar/ganhar espaço: 4 dicas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank" rel="noopener noreferrer"><strong>Decoração de banheiro pequeno para poupar/ganhar espaço: 4 dicas.</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-PLANTA-APARTAMENTO-PEQUENO.jpg"><img class="alignnone size-full wp-image-11284" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-PLANTA-APARTAMENTO-PEQUENO.jpg" alt="DECORACAO-PLANTA-APARTAMENTO PEQUENO" width="221" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/DECORACAO-PLANTA-APARTAMENTO-PEQUENO.jpg"><img class="alignnone size-full wp-image-11284" src="https://www.trololodemulher.com.br/2015/08/DECORACAO-PLANTA-APARTAMENTO-PEQUENO.jpg" alt="DECORACAO-PLANTA-APARTAMENTO PEQUENO" width="221" height="800" /></a>
 </p>
 
 <p align="center">
@@ -195,11 +192,11 @@ categories:
 </p>
 
 <p align="justify">
-  Ficou com água na boca para espiar um pouquinho mais? Espie no <a href="http://www.apartmenttherapy.com/matts-urban-studio-222013?utm_medium=email&utm_campaign=Apartment+Therapy+Daily+8315+5+New+Old+Trends&utm_content=Apartment+Therapy+Daily+8315+5+New+Old+Trends+CID_ae9f9dafcf817c99eef527ca2aa4ddc6&utm_source=email_newsletter" target="_blank">post original, no Apartment Therapy, bem aqui</a>. Delicie-se e continue se inspirando.
+  Ficou com água na boca para espiar um pouquinho mais? Espie no <a href="http://www.apartmenttherapy.com/matts-urban-studio-222013?utm_medium=email&utm_campaign=Apartment+Therapy+Daily+8315+5+New+Old+Trends&utm_content=Apartment+Therapy+Daily+8315+5+New+Old+Trends+CID_ae9f9dafcf817c99eef527ca2aa4ddc6&utm_source=email_newsletter" target="_blank" rel="noopener noreferrer">post original, no Apartment Therapy, bem aqui</a>. Delicie-se e continue se inspirando.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

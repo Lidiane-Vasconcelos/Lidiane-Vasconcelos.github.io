@@ -1,16 +1,13 @@
 ---
-id: 2648
 title: Dicas para beleza e saúde das unhas.
-date: 2009-04-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/04/14/unhas-dicas-cuidados/
 permalink: /2009/04/14/unhas-dicas-cuidados/
 categories:
   - Beleza
 ---
 <p style="text-align: justify;">
-  Qual a mulher que não gosta de dedicar atenção as suas unhas, <em>hã</em>?!  Para o cuidado com elas, descobri através da leitura <a href="http://beleza.terra.com.br/mulher/interna/0,,OI3613049-EI7617,00-Veja+dicas+de+como+cuidar+melhor+das+unhas.html" target="_blank">desta matéria</a>, publicada no portal <a href="http://www.terra.com.br/portal/" target="_blank">Terra,</a> truques e sugestões para tê-las bonitas e saudáveis.
+  Qual a mulher que não gosta de dedicar atenção as suas unhas, <em>hã</em>?!  Para o cuidado com elas, descobri através da leitura <a href="http://beleza.terra.com.br/mulher/interna/0,,OI3613049-EI7617,00-Veja+dicas+de+como+cuidar+melhor+das+unhas.html" target="_blank" rel="noopener noreferrer">desta matéria</a>, publicada no portal <a href="http://www.terra.com.br/portal/" target="_blank" rel="noopener noreferrer">Terra,</a> truques e sugestões para tê-las bonitas e saudáveis.
 </p>
 
 <p style="text-align: justify;">
@@ -46,7 +43,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/unhas300.bmp"><img class="size-full wp-image-4774 aligncenter" title="unhas300" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/unhas300.bmp" alt="" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/06/unhas300.bmp"><img class="size-full wp-image-4774 aligncenter" title="unhas300" src="https://www.trololodemulher.com.br/2010/06/unhas300.bmp" alt="" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -84,5 +81,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

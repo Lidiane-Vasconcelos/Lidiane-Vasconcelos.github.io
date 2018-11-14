@@ -1,10 +1,7 @@
 ---
-id: 2781
 title: Você já entrou no Twitter? Sabe como é? Me segue aí…
-date: 2010-02-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/02/05/voc-j-entrou-no-twitter-sabe-como-me-segue-a/
 permalink: /2010/02/05/voc-j-entrou-no-twitter-sabe-como-me-segue-a/
 categories:
   - Trololó
@@ -27,19 +24,19 @@ Além de divulgar o conteúdo do Bicha Fêmea, eu tenho usado muito o _Twitter_ 
 
 Pronto! É o suficiente para eu _twitar_ o post, e assim sigo fazendo… quer ver um exemplo do que _twitei_ esta semana?
 
-[<img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="tgm_twitter_icon_pink[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/tgm_twitter_icon_pink1_thumb.png" border="0" alt="tgm_twitter_icon_pink[1]" width="64" height="64" align="left" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/tgm_twitter_icon_pink1.png)
+[<img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="tgm_twitter_icon_pink[1]" src="https://www.trololodemulher.com.br/2010/02/tgm_twitter_icon_pink1_thumb.png" border="0" alt="tgm_twitter_icon_pink[1]" width="64" height="64" align="left" />](https://www.trololodemulher.com.br/2010/02/tgm_twitter_icon_pink1.png)
 
 **Caixa para esconder carregadores.** >>> <http://tinyurl.com/ylkfdwb> >>> **Isabela Figueiredo – Enfeitisando**
 
 **Unhas: faça você mesma.** >>> <http://tinyurl.com/yj6m88h> >>> **Ozenilda Amorim &#8211; Mil e Uma Coisas**
 
-[<img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="tgm_twitter_icon_pink[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/tgm_twitter_icon_pink1_thumb1.png" border="0" alt="tgm_twitter_icon_pink[1]" width="64" height="64" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/tgm_twitter_icon_pink11.png)
+[<img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="tgm_twitter_icon_pink[1]" src="https://www.trololodemulher.com.br/2010/02/tgm_twitter_icon_pink1_thumb1.png" border="0" alt="tgm_twitter_icon_pink[1]" width="64" height="64" align="right" />](https://www.trololodemulher.com.br/2010/02/tgm_twitter_icon_pink11.png)
 
 **Minorias.** >>> <http://tinyurl.com/ylfu662> >>> **Jussara Gehrke – Juju**
 
 **Primeira promoção do blog &#8211; mês de aniversário** >>> http://tinyurl.com/yzljvl2 >>> **Elaine Battistel &#8211; Elaine, suas ideias e tantas outras**
 
-[<img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="tgm_twitter_icon_pink[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/tgm_twitter_icon_pink1_thumb2.png" border="0" alt="tgm_twitter_icon_pink[1]" width="64" height="64" align="left" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/tgm_twitter_icon_pink12.png)
+[<img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="tgm_twitter_icon_pink[1]" src="https://www.trololodemulher.com.br/2010/02/tgm_twitter_icon_pink1_thumb2.png" border="0" alt="tgm_twitter_icon_pink[1]" width="64" height="64" align="left" />](https://www.trololodemulher.com.br/2010/02/tgm_twitter_icon_pink12.png)
 
 **RT** @[Luzdeluma](http://twitter.com/Luzdeluma): **Ecological Day &#8211; Comidinha refrescante!** <http://bit.ly/c9nncO>
 
@@ -47,6 +44,6 @@ Pronto! É o suficiente para eu _twitar_ o post, e assim sigo fazendo… quer ve
 
 Viu? Se você entrar no _Twitter_, imagine que você vai ver uma série de boas informações que podem ser muito úteis para você. Que tal experimentar?
 
-Me segue aí – **_<a href="http://twitter.com/bichafemea/" target="_blank">@bichafemea</a>_** – é de graça!!!
+Me segue aí – **_<a href="http://twitter.com/bichafemea/" target="_blank" rel="noopener noreferrer">@bichafemea</a>_** – é de graça!!!
 
 E bom fim de semana!!!

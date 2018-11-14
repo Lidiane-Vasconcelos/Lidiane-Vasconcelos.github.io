@@ -1,10 +1,7 @@
 ---
-id: 3761
 title: Receita de biscoito caseiro, de azeite e alecrim.
-date: 2017-05-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/05/09/receita-de-biscoito/
 permalink: /2017/05/09/receita-de-biscoito/
 categories:
   - Receitas
@@ -14,11 +11,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13797" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/BISCOITOS-CASEIROS-BISCOITOS-DE-ALECRIM-E-AZEITE.jpg" alt="BISCOITOS CASEIROS-BISCOITOS DE ALECRIM E AZEITE" width="800" height="1200" />
+  <img class="alignnone size-full wp-image-13797" src="https://www.trololodemulher.com.br/2017/05/BISCOITOS-CASEIROS-BISCOITOS-DE-ALECRIM-E-AZEITE.jpg" alt="BISCOITOS CASEIROS-BISCOITOS DE ALECRIM E AZEITE" width="800" height="1200" />
 </p>
 
 <p align="justify">
-  “<em>Eu penso que você pode adivinhar a primeira coisa que eu procuro quando viajo, não é mesmo? É comida! Eu já falei sobre isso </em><a href="https://iwanttobeacook.wordpress.com/" target="_blank"><em>no meu blog</em></a><em>. Para mim a comida é definitivamente uma das coisas que eu mais aprecio durante uma viagem.</em>
+  “<em>Eu penso que você pode adivinhar a primeira coisa que eu procuro quando viajo, não é mesmo? É comida! Eu já falei sobre isso </em><a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer"><em>no meu blog</em></a><em>. Para mim a comida é definitivamente uma das coisas que eu mais aprecio durante uma viagem.</em>
 </p>
 
 _A minha primeira viagem à Andaluzia, no sul da Espanha, foi incrível. Eu viajei com pessoas que eu adoro e vivemos grandes momentos juntos. Acabamos por conhecer apenas duas cidades na região, Córdoba e Sevilha, e ambas as experiências foram maravilhosas._
@@ -26,7 +23,7 @@ _A minha primeira viagem à Andaluzia, no sul da Espanha, foi incrível. Eu viaj
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13798" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/BISCOITOS-CASEIROS-BISCOITOS-DE-ALECRIM-E-AZEITE2.jpg" alt="BISCOITOS CASEIROS-BISCOITOS DE ALECRIM E AZEITE[2]" width="800" height="534" />
+  <img class="alignnone size-full wp-image-13798" src="https://www.trololodemulher.com.br/2017/05/BISCOITOS-CASEIROS-BISCOITOS-DE-ALECRIM-E-AZEITE2.jpg" alt="BISCOITOS CASEIROS-BISCOITOS DE ALECRIM E AZEITE[2]" width="800" height="534" />
 </p>
 
 &nbsp;
@@ -42,7 +39,7 @@ _A minha primeira viagem à Andaluzia, no sul da Espanha, foi incrível. Eu viaj
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13799" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/BISCOITOS-CASEIROS-BISCOITOS-DE-ALECRIM-E-AZEITE3.jpg" alt="BISCOITOS CASEIROS-BISCOITOS DE ALECRIM E AZEITE[3]" width="800" height="534" />
+  <img class="alignnone size-full wp-image-13799" src="https://www.trololodemulher.com.br/2017/05/BISCOITOS-CASEIROS-BISCOITOS-DE-ALECRIM-E-AZEITE3.jpg" alt="BISCOITOS CASEIROS-BISCOITOS DE ALECRIM E AZEITE[3]" width="800" height="534" />
 </p>
 
 &nbsp;
@@ -101,27 +98,27 @@ _Eu usei sementes de gergelim pretas, porque era o que eu tinha em casa, mas a r
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13037" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/TANIA-TEVA-I-WANT-TO-BE-A-COOK-RECEITAS.jpg" alt="tania-teva-i-want-to-be-a-cook-receitas" width="800" height="154" />
+  <img class="alignnone size-full wp-image-13037" src="https://www.trololodemulher.com.br/2016/10/TANIA-TEVA-I-WANT-TO-BE-A-COOK-RECEITAS.jpg" alt="tania-teva-i-want-to-be-a-cook-receitas" width="800" height="154" />
 </p>
 
 &nbsp;
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/05/02/abacaxi-assado/" target="_blank"><strong>Abacaxi assado: receita simples e surpreendente.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/05/02/abacaxi-assado/" target="_blank" rel="noopener noreferrer"><strong>Abacaxi assado: receita simples e surpreendente.</strong></a>
 
-<a href="http://www.trololodemulher.com.br/2017/04/25/couve-flor-assada/" target="_blank"><strong>Couve-flor assada com temperinhos… pra variar.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/04/25/couve-flor-assada/" target="_blank" rel="noopener noreferrer"><strong>Couve-flor assada com temperinhos… pra variar.</strong></a>
 
-<a href="http://www.trololodemulher.com.br/2017/04/18/bolo-de-alecrim/" target="_blank"><strong>Bolo de alecrim… e a delícia de experimentar o novo.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/04/18/bolo-de-alecrim/" target="_blank" rel="noopener noreferrer"><strong>Bolo de alecrim… e a delícia de experimentar o novo.</strong></a>
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no <strong>Instagram</strong>… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank" rel="noopener noreferrer">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no <strong>Instagram</strong>… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank" rel="noopener noreferrer">clique aqui e siga!</a> Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

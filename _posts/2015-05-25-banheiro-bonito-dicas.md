@@ -1,10 +1,7 @@
 ---
-id: 3427
 title: Como deixar o seu banheiro mais bonito em 4 dicas.
-date: 2015-05-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/05/25/banheiro-bonito-dicas/
 permalink: /2015/05/25/banheiro-bonito-dicas/
 categories:
   - Banheiro
@@ -18,11 +15,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS5.png"><img class="alignnone size-full wp-image-10968" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS5.png" alt="DECORACAO-BANHEIRO-ENFEITES-OBJETOS[5]" width="547" height="77" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS5.png"><img class="alignnone size-full wp-image-10968" src="https://www.trololodemulher.com.br/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS5.png" alt="DECORACAO-BANHEIRO-ENFEITES-OBJETOS[5]" width="547" height="77" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS.jpg"><img class="alignnone size-full wp-image-10963" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS.jpg" alt="DECORACAO-BANHEIRO-ENFEITES-OBJETOS" width="550" height="733" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS.jpg"><img class="alignnone size-full wp-image-10963" src="https://www.trololodemulher.com.br/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS.jpg" alt="DECORACAO-BANHEIRO-ENFEITES-OBJETOS" width="550" height="733" /></a>
 </p>
 
 <p align="justify">
@@ -34,15 +31,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank"><strong>Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</strong></a>
+  <a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank" rel="noopener noreferrer"><strong>Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS6.png"><img class="alignnone size-full wp-image-10969" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS6.png" alt="DECORACAO-BANHEIRO-ENFEITES-OBJETOS[6]" width="540" height="83" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS6.png"><img class="alignnone size-full wp-image-10969" src="https://www.trololodemulher.com.br/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS6.png" alt="DECORACAO-BANHEIRO-ENFEITES-OBJETOS[6]" width="540" height="83" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS2.jpg"><img class="alignnone size-full wp-image-10964" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS2.jpg" alt="DECORACAO-BANHEIRO-ENFEITES-OBJETOS[2]" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS2.jpg"><img class="alignnone size-full wp-image-10964" src="https://www.trololodemulher.com.br/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS2.jpg" alt="DECORACAO-BANHEIRO-ENFEITES-OBJETOS[2]" width="550" height="550" /></a>
 </p>
 
 <p align="justify">
@@ -54,15 +51,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/banheiro-de-decoracao/" target="_blank"><strong>Banheiro: dicas simples de decoração que custam quase nada!</strong></a>
+  <a href="http://www.decoracaodacasa.com/banheiro-de-decoracao/" target="_blank" rel="noopener noreferrer"><strong>Banheiro: dicas simples de decoração que custam quase nada!</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS7.jpg"><img class="alignnone size-full wp-image-10970" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS7.jpg" alt="DECORACAO-BANHEIRO-ENFEITES-OBJETOS[7]" width="800" height="54" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS7.jpg"><img class="alignnone size-full wp-image-10970" src="https://www.trololodemulher.com.br/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS7.jpg" alt="DECORACAO-BANHEIRO-ENFEITES-OBJETOS[7]" width="800" height="54" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS3.jpg"><img class="alignnone size-full wp-image-10965" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS3.jpg" alt="DECORACAO-BANHEIRO-ENFEITES-OBJETOS[3]" width="550" height="733" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS3.jpg"><img class="alignnone size-full wp-image-10965" src="https://www.trololodemulher.com.br/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS3.jpg" alt="DECORACAO-BANHEIRO-ENFEITES-OBJETOS[3]" width="550" height="733" /></a>
 </p>
 
 <p align="justify">
@@ -74,15 +71,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-bandejas/" target="_blank"><strong>Truques de decoração: bandejas… por que te quero?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-bandejas/" target="_blank" rel="noopener noreferrer"><strong>Truques de decoração: bandejas… por que te quero?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS8.png"><img class="alignnone size-full wp-image-10971" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS8.png" alt="DECORACAO-BANHEIRO-ENFEITES-OBJETOS[8]" width="661" height="100" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS8.png"><img class="alignnone size-full wp-image-10971" src="https://www.trololodemulher.com.br/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS8.png" alt="DECORACAO-BANHEIRO-ENFEITES-OBJETOS[8]" width="661" height="100" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS4.jpg"><img class="alignnone size-full wp-image-10966" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS4.jpg" alt="DECORACAO-BANHEIRO-ENFEITES-OBJETOS[4]" width="550" height="733" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS4.jpg"><img class="alignnone size-full wp-image-10966" src="https://www.trololodemulher.com.br/2015/05/DECORACAO-BANHEIRO-ENFEITES-OBJETOS4.jpg" alt="DECORACAO-BANHEIRO-ENFEITES-OBJETOS[4]" width="550" height="733" /></a>
 </p>
 
 <p align="justify">
@@ -94,15 +91,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank"><strong>5 ideias de organização do banheiro que favorecem a decoração.</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank" rel="noopener noreferrer"><strong>5 ideias de organização do banheiro que favorecem a decoração.</strong></a>
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagens: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

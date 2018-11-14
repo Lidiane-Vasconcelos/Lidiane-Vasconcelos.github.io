@@ -1,10 +1,7 @@
 ---
-id: 3051
 title: 'Uma bicha fêmea por outra: Luci Cardinelli'
-date: 2011-09-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/09/16/entrevista-luci-cardinelli/
 permalink: /2011/09/16/entrevista-luci-cardinelli/
 categories:
   - Entrevistas
@@ -20,7 +17,7 @@ Já ouviu falar na expressão “mineiroca”? Pois é como essa mineira por nas
 <!--more-->
 
 <p align="justify">
-  Você ainda não conhece a Luci? Ao final dessa entrevista, bonita, você certamente vai lamentar por não tê-la acompanhado em seus blogs – <strong><a href="http://artesdaluci.blogspot.com/" target="_blank">Artes da Luci</a></strong> | <strong><a href="http://postandosobreartes.blogspot.com/" target="_blank">Postando Sobre Artes</a></strong> | <strong><a href="http://lucicardinelli.blogspot.com/" target="_blank">Vida</a></strong> – todo esse tempo. Tanto como mulher, como pela profissional que é, ela tem muito a compartilhar e suas revelações falarão isso por si. Duvida? Acompanha e confere!
+  Você ainda não conhece a Luci? Ao final dessa entrevista, bonita, você certamente vai lamentar por não tê-la acompanhado em seus blogs – <strong><a href="http://artesdaluci.blogspot.com/" target="_blank" rel="noopener noreferrer">Artes da Luci</a></strong> | <strong><a href="http://postandosobreartes.blogspot.com/" target="_blank" rel="noopener noreferrer">Postando Sobre Artes</a></strong> | <strong><a href="http://lucicardinelli.blogspot.com/" target="_blank" rel="noopener noreferrer">Vida</a></strong> – todo esse tempo. Tanto como mulher, como pela profissional que é, ela tem muito a compartilhar e suas revelações falarão isso por si. Duvida? Acompanha e confere!
 </p>
 
 &nbsp;
@@ -34,13 +31,13 @@ Já ouviu falar na expressão “mineiroca”? Pois é como essa mineira por nas
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Luci.jpg"><img class="alignnone size-full wp-image-6910" title="Luci" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Luci.jpg" alt="" width="600" height="482" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/09/Luci.jpg"><img class="alignnone size-full wp-image-6910" title="Luci" src="https://www.trololodemulher.com.br/2011/09/Luci.jpg" alt="" width="600" height="482" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong>Você contou nos posts “</strong><a href="http://lucicardinelli.blogspot.com/2010/02/como-artesa-parte-i_15.html" target="_blank"><strong>Como artesã? I</strong></a><strong>” e “</strong><a href="http://lucicardinelli.blogspot.com/2010/04/como-artesa-parte-ii_05.html" target="_blank"><strong>Como artesã? II</strong></a><strong>” sua trajetória profissional que passou pela área financeira e desembocou na sua área de atuação hoje. Você admite num dos posts que sabe que há pessoas que têm dificuldade de abrir mão de coisas materiais, e para você essa mudança implicou nisso também. O que te motivou a ter coragem de mudar sua vida nesse sentido?</strong>
+  <strong>Você contou nos posts “</strong><a href="http://lucicardinelli.blogspot.com/2010/02/como-artesa-parte-i_15.html" target="_blank" rel="noopener noreferrer"><strong>Como artesã? I</strong></a><strong>” e “</strong><a href="http://lucicardinelli.blogspot.com/2010/04/como-artesa-parte-ii_05.html" target="_blank" rel="noopener noreferrer"><strong>Como artesã? II</strong></a><strong>” sua trajetória profissional que passou pela área financeira e desembocou na sua área de atuação hoje. Você admite num dos posts que sabe que há pessoas que têm dificuldade de abrir mão de coisas materiais, e para você essa mudança implicou nisso também. O que te motivou a ter coragem de mudar sua vida nesse sentido?</strong>
 </p>
 
 &nbsp;
@@ -52,7 +49,7 @@ Já ouviu falar na expressão “mineiroca”? Pois é como essa mineira por nas
 &nbsp;
 
 <p align="justify">
-  <strong>No post “</strong><a href="http://postandosobreartes.blogspot.com/2011/06/copiar-ou-nao-copiar.html" target="_blank"><strong>Copiar ou não copiar?</strong></a><strong>” você lançou uma discussão sobre alguns aspectos de quem está na área do artesanato, a exemplo da competitividade tão exagerada entre as profissionais da área ao ponto de que algumas, muitas vezes, sequer respondem e-mail com dúvidas sobre técnicas, materiais, etc. Contudo, você se mostra tão a parte nesse comportamento que até criou um blog para dividir o que você sabe com quem quiser aprender. Essa é a melhor das estratégias para permanecer neste ramo de negócio?</strong>
+  <strong>No post “</strong><a href="http://postandosobreartes.blogspot.com/2011/06/copiar-ou-nao-copiar.html" target="_blank" rel="noopener noreferrer"><strong>Copiar ou não copiar?</strong></a><strong>” você lançou uma discussão sobre alguns aspectos de quem está na área do artesanato, a exemplo da competitividade tão exagerada entre as profissionais da área ao ponto de que algumas, muitas vezes, sequer respondem e-mail com dúvidas sobre técnicas, materiais, etc. Contudo, você se mostra tão a parte nesse comportamento que até criou um blog para dividir o que você sabe com quem quiser aprender. Essa é a melhor das estratégias para permanecer neste ramo de negócio?</strong>
 </p>
 
 &nbsp;
@@ -62,19 +59,19 @@ Já ouviu falar na expressão “mineiroca”? Pois é como essa mineira por nas
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Luci3.jpg"><img class="alignnone size-full wp-image-6911" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Luci3.jpg" alt="" width="475" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/09/Luci3.jpg"><img class="alignnone size-full wp-image-6911" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2011/09/Luci3.jpg" alt="" width="475" height="600" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong>Você já tirou alguns de seus blogs do ar motivada por leitores que insistem em cobrar visitas e comentários, e que até alegam que essa é sua obrigação, a exemplo do que você publicou no post “</strong><a href="http://postandosobreartes.blogspot.com/2011/04/bom-dia-como-foram-de-feriadao-muito_3564.html" target="_blank"><strong>Atualizado – Reativando o blog</strong></a><strong>”. Com o tempo, você voltou&#8230; você se sente melhor preparada para lidar com esses leitores equivocados?</strong>
+  <strong>Você já tirou alguns de seus blogs do ar motivada por leitores que insistem em cobrar visitas e comentários, e que até alegam que essa é sua obrigação, a exemplo do que você publicou no post “</strong><a href="http://postandosobreartes.blogspot.com/2011/04/bom-dia-como-foram-de-feriadao-muito_3564.html" target="_blank" rel="noopener noreferrer"><strong>Atualizado – Reativando o blog</strong></a><strong>”. Com o tempo, você voltou&#8230; você se sente melhor preparada para lidar com esses leitores equivocados?</strong>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Sim, me sinto, amadureci em relação a isso. Eu quis acabar com algum blog meu diversas vezes e acabei descobrindo que muita gente que gosto e admiro também sentem isso. Elas se afastam do blog por um tempinho, eu logo queria acabar e pronto! Como diz minha amiga <strong>Elaine Gaspareto</strong> do blog <strong><a href="http://www.elainegaspareto.com/" target="_blank">Um Pouco de Mim</a></strong>, eu sou muito intensa. Quando escrevo tudo que sinto e me aborrece, me sinto bem melhor. Sou assim na vida virtual e na real. Impossível eu me aborrecer com algo ou alguém e ninguém perceber, sou muito transparente, o que pode ser bom e ruim. Também já saí do Twitter 2 vezes e antes disso saí trocentas do orkut. Porém não tenho vergonha nenhuma de voltar 2 dias depois, não me preocupo com o que pensam de mim. </em><em>De um tempo pra cá vim trabalhando isso em mim, ignorar o lado negativo da blogosfera, da vida virtual. Decidi não permitir mais que pessoas pequenas e pobres de espírito me magoem, gente que para lhe dizer coisas precisam se esconder atrás de perfis anônimos. Comecei a ter um olhar de pena sobre as pessoas que fazem cobranças descabidas e/ou agressões gratuitas. A gente sempre tem o que mudar, amadurecer e eu estou sempre me questionando e procurando onde posso melhorar.”</em>
+>   “<em>Sim, me sinto, amadureci em relação a isso. Eu quis acabar com algum blog meu diversas vezes e acabei descobrindo que muita gente que gosto e admiro também sentem isso. Elas se afastam do blog por um tempinho, eu logo queria acabar e pronto! Como diz minha amiga <strong>Elaine Gaspareto</strong> do blog <strong><a href="http://www.elainegaspareto.com/" target="_blank" rel="noopener noreferrer">Um Pouco de Mim</a></strong>, eu sou muito intensa. Quando escrevo tudo que sinto e me aborrece, me sinto bem melhor. Sou assim na vida virtual e na real. Impossível eu me aborrecer com algo ou alguém e ninguém perceber, sou muito transparente, o que pode ser bom e ruim. Também já saí do Twitter 2 vezes e antes disso saí trocentas do orkut. Porém não tenho vergonha nenhuma de voltar 2 dias depois, não me preocupo com o que pensam de mim. </em><em>De um tempo pra cá vim trabalhando isso em mim, ignorar o lado negativo da blogosfera, da vida virtual. Decidi não permitir mais que pessoas pequenas e pobres de espírito me magoem, gente que para lhe dizer coisas precisam se esconder atrás de perfis anônimos. Comecei a ter um olhar de pena sobre as pessoas que fazem cobranças descabidas e/ou agressões gratuitas. A gente sempre tem o que mudar, amadurecer e eu estou sempre me questionando e procurando onde posso melhorar.”</em>
 > </p>
 
 &nbsp;
@@ -117,13 +114,13 @@ Já ouviu falar na expressão “mineiroca”? Pois é como essa mineira por nas
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Tatiana-Panelaterapia200.jpg"><img class="alignnone size-full wp-image-6655" title="Tatiana - Panelaterapia200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Tatiana-Panelaterapia200.jpg" alt="" width="200" height="200" /><br /> </a><strong><a href="http://www.trololodemulher.com.br/2011/07/20/tatiana/"><span style="font-size: small;">Uma bicha fêmea por outra: Tatiana</span></a></strong>
+        <a href="https://www.trololodemulher.com.br/2011/07/Tatiana-Panelaterapia200.jpg"><img class="alignnone size-full wp-image-6655" title="Tatiana - Panelaterapia200" src="https://www.trololodemulher.com.br/2011/07/Tatiana-Panelaterapia200.jpg" alt="" width="200" height="200" /><br /> </a><strong><a href="http://www.trololodemulher.com.br/2011/07/20/tatiana/"><span style="font-size: small;">Uma bicha fêmea por outra: Tatiana</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/Juliana-Pitadinha200.jpg"><img class="alignnone size-full wp-image-6516" title="Juliana - Pitadinha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/Juliana-Pitadinha200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/06/10/juliana-stelli/"><span style="font-size: small;">Uma bicha fêmea por outra: Juliana Stelli</span></a></strong>
+        <a href="https://www.trololodemulher.com.br/2011/06/Juliana-Pitadinha200.jpg"><img class="alignnone size-full wp-image-6516" title="Juliana - Pitadinha200" src="https://www.trololodemulher.com.br/2011/06/Juliana-Pitadinha200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/06/10/juliana-stelli/"><span style="font-size: small;">Uma bicha fêmea por outra: Juliana Stelli</span></a></strong>
       </p>
     </td>
   </tr>
@@ -133,19 +130,19 @@ Já ouviu falar na expressão “mineiroca”? Pois é como essa mineira por nas
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Rejane-Casa-Corpo-e-Cia2200.jpg"><img class="alignnone size-thumbnail wp-image-6325" title="Rejane - Casa Corpo e Cia[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Rejane-Casa-Corpo-e-Cia2200-150x150.jpg" alt="" width="150" height="150" /><br /> </a><strong><a href="http://www.trololodemulher.com.br/2011/05/04/rejane-batista-casa-corpo-cia/"><span style="font-size: small;">Uma bicha fêmea por outra: Rejane Batista</span></a></strong>
+        <a href="https://www.trololodemulher.com.br/2011/05/Rejane-Casa-Corpo-e-Cia2200.jpg"><img class="alignnone size-thumbnail wp-image-6325" title="Rejane - Casa Corpo e Cia[2]200" src="https://www.trololodemulher.com.br/2011/05/Rejane-Casa-Corpo-e-Cia2200-150x150.jpg" alt="" width="150" height="150" /><br /> </a><strong><a href="http://www.trololodemulher.com.br/2011/05/04/rejane-batista-casa-corpo-cia/"><span style="font-size: small;">Uma bicha fêmea por outra: Rejane Batista</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Larissa200.jpg"><img class="alignnone size-thumbnail wp-image-5951" title="Larissa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Larissa200-150x150.jpg" alt="" width="150" height="150" /><br /> </a><strong><a href="http://www.trololodemulher.com.br/2011/02/23/entrevista-larissa-lieders/"><span style="font-size: small;">Uma bicha fêmea por outra: Larissa Lieders</span></a></strong>
+        <a href="https://www.trololodemulher.com.br/2011/02/Larissa200.jpg"><img class="alignnone size-thumbnail wp-image-5951" title="Larissa200" src="https://www.trololodemulher.com.br/2011/02/Larissa200-150x150.jpg" alt="" width="150" height="150" /><br /> </a><strong><a href="http://www.trololodemulher.com.br/2011/02/23/entrevista-larissa-lieders/"><span style="font-size: small;">Uma bicha fêmea por outra: Larissa Lieders</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Vero200.jpg"><img class="alignnone size-thumbnail wp-image-5492" title="Vero200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Vero200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2010/11/17/entrevista-veronica-kraemer/"><span style="font-size: small;">Uma bicha fêmea por outra: Veronica Kraemer</span></a></strong>
+        <a href="https://www.trololodemulher.com.br/2010/11/Vero200.jpg"><img class="alignnone size-thumbnail wp-image-5492" title="Vero200" src="https://www.trololodemulher.com.br/2010/11/Vero200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2010/11/17/entrevista-veronica-kraemer/"><span style="font-size: small;">Uma bicha fêmea por outra: Veronica Kraemer</span></a></strong>
       </p>
     </td>
   </tr>

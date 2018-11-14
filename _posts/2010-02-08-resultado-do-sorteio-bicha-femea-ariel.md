@@ -1,10 +1,7 @@
 ---
-id: 2783
 title: 'Resultado do sorteio Bicha Fêmea &#038; Ariel'
-date: 2010-02-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/02/08/resultado-do-sorteio-bicha-femea-ariel/
 permalink: /2010/02/08/resultado-do-sorteio-bicha-femea-ariel/
 categories:
   - Promoção
@@ -17,7 +14,7 @@ Foram 88 inscrições dentro do prazo. Como sempre, fico ansiosa para saber o no
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/sorteio-Bicha-Femea-Ariel.jpg"><img class="aligncenter size-medium wp-image-4271" title="sorteio Bicha Fêmea & Ariel" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/sorteio-Bicha-Femea-Ariel-300x187.jpg" alt="" width="300" height="187" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/02/sorteio-Bicha-Femea-Ariel.jpg"><img class="aligncenter size-medium wp-image-4271" title="sorteio Bicha Fêmea & Ariel" src="https://www.trololodemulher.com.br/2010/02/sorteio-Bicha-Femea-Ariel-300x187.jpg" alt="" width="300" height="187" /></a>
     </td>
   </tr>
 </table>

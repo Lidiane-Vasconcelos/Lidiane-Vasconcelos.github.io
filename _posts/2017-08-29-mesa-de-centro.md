@@ -1,10 +1,7 @@
 ---
-id: 3789
 title: 'Mesa de centro da sala de estar: compre sem erro!'
-date: 2017-08-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/08/29/mesa-de-centro/
 permalink: /2017/08/29/mesa-de-centro/
 categories:
   - Salas
@@ -22,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.designsponge.com/2012/10/sneak-peek-amy-erich-mcvey.html" target="_blank">Design Sponge</a>
+  Imagem: <a href="http://www.designsponge.com/2012/10/sneak-peek-amy-erich-mcvey.html" target="_blank" rel="noopener noreferrer">Design Sponge</a>
 </p>
 
 <p align="center">
@@ -38,7 +35,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decorar-mesa-centro-de-sala/" target="_blank"><strong>Como decorar a mesa de centro de sala.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decorar-mesa-centro-de-sala/" target="_blank" rel="noopener noreferrer"><strong>Como decorar a mesa de centro de sala.</strong></a>
 </p>
 
 <p align="center">
@@ -54,7 +51,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.simplesdecoracao.com.br/2015/02/as-mesas-de-centro-e-apoio-na-sala-de-estar/" target="_blank">Simples Decoração</a>
+  Imagem: <a href="http://www.simplesdecoracao.com.br/2015/02/as-mesas-de-centro-e-apoio-na-sala-de-estar/" target="_blank" rel="noopener noreferrer">Simples Decoração</a>
 </p>
 
 > <p align="justify">
@@ -94,7 +91,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/08/04/decoracao-mesa-de-centro/" target="_blank"><strong>Decoração na sala de estar: mesa de centro. Qual o seu estilo?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/08/04/decoracao-mesa-de-centro/" target="_blank" rel="noopener noreferrer"><strong>Decoração na sala de estar: mesa de centro. Qual o seu estilo?</strong></a>
 </p>
 
 <p align="justify">
@@ -102,11 +99,11 @@ categories:
 </p>
 
 <p align="justify">
-  A Rosana Silva edita um dos blogs de decoração com melhor conteúdo sobre o tema e, veja você, ela preparou um post completíssimo sobre mesas de centro e mesinhas laterais para sua sala ficar toda <em>nos trinques</em>. Claro que você não vai perder a chance de espiar esse post que, na verdade, é um guia, certo? <a href="http://www.simplesdecoracao.com.br/2015/02/as-mesas-de-centro-e-apoio-na-sala-de-estar/" target="_blank">Clique aqui e saiba tu-do</a>.
+  A Rosana Silva edita um dos blogs de decoração com melhor conteúdo sobre o tema e, veja você, ela preparou um post completíssimo sobre mesas de centro e mesinhas laterais para sua sala ficar toda <em>nos trinques</em>. Claro que você não vai perder a chance de espiar esse post que, na verdade, é um guia, certo? <a href="http://www.simplesdecoracao.com.br/2015/02/as-mesas-de-centro-e-apoio-na-sala-de-estar/" target="_blank" rel="noopener noreferrer">Clique aqui e saiba tu-do</a>.
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12936" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/ROSANA-SILVA-SIMPLES-DECORACAO.jpg" alt="rosana-silva-simples-decoracao" width="800" height="182" />
+  <img class="alignnone size-full wp-image-12936" src="https://www.trololodemulher.com.br/2016/09/ROSANA-SILVA-SIMPLES-DECORACAO.jpg" alt="rosana-silva-simples-decoracao" width="800" height="182" />
 </p>
 
 <p align="justify">
@@ -114,13 +111,13 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/09/14/moldura/" target="_blank"><strong>Moldura: coadjuvante ou protagonista na decoração?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/09/14/moldura/" target="_blank" rel="noopener noreferrer"><strong>Moldura: coadjuvante ou protagonista na decoração?</strong></a>
 </p>
 
 <p align="justify">
-  A Rosana edita o blog <a href="http://www.simplesdecoracao.com.br/" target="_blank">Simples Decoração</a>, uma fonte incrível de informações sobre casa e decoração. Quer acompanhar também? Então, <a href="http://www.simplesdecoracao.com.br/" target="_blank">clique bem aqui</a> e se jogue! Ah! O <a href="https://www.facebook.com/SimplesDecoracao?fref=ts" target="_blank">Simples Decoração também está no Facebook, com uma fanpage</a> muito bem atualizada com o melhor da decoração e do Design. Além do mais, também está no Instagram, com inspirações imperdíveis. <a href="https://www.instagram.com/simplesdecor/" target="_blank">Clique aqui e siga</a>!
+  A Rosana edita o blog <a href="http://www.simplesdecoracao.com.br/" target="_blank" rel="noopener noreferrer">Simples Decoração</a>, uma fonte incrível de informações sobre casa e decoração. Quer acompanhar também? Então, <a href="http://www.simplesdecoracao.com.br/" target="_blank" rel="noopener noreferrer">clique bem aqui</a> e se jogue! Ah! O <a href="https://www.facebook.com/SimplesDecoracao?fref=ts" target="_blank" rel="noopener noreferrer">Simples Decoração também está no Facebook, com uma fanpage</a> muito bem atualizada com o melhor da decoração e do Design. Além do mais, também está no Instagram, com inspirações imperdíveis. <a href="https://www.instagram.com/simplesdecor/" target="_blank" rel="noopener noreferrer">Clique aqui e siga</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>

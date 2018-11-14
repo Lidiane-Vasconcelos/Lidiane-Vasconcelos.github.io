@@ -1,10 +1,7 @@
 ---
-id: 3359
 title: 'Decoração de Natal: 5 centros de mesa “faça você mesma”.'
-date: 2014-10-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/10/20/decoracao-de-natal-2/
 permalink: /2014/10/20/decoracao-de-natal-2/
 categories:
   - Natal
@@ -22,11 +19,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-natal-2014/" target="_blank"><strong>Decoração de Natal com reutilização de janela velha: dica.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-natal-2014/" target="_blank" rel="noopener noreferrer"><strong>Decoração de Natal com reutilização de janela velha: dica.</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA.jpg"><img class="alignnone size-full wp-image-10504" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA.jpg" alt="DECORACAO-NATAL-DECORACAO NATALINA-CENTRO DE MESA" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA.jpg"><img class="alignnone size-full wp-image-10504" src="https://www.trololodemulher.com.br/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA.jpg" alt="DECORACAO-NATAL-DECORACAO NATALINA-CENTRO DE MESA" width="550" height="550" /></a>
 </p>
 
 <p align="justify">
@@ -38,11 +35,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-de-natal-3/" target="_blank"><strong>As crianças participam da decoração de Natal na sua casa?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-de-natal-3/" target="_blank" rel="noopener noreferrer"><strong>As crianças participam da decoração de Natal na sua casa?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA2.jpg"><img class="alignnone size-full wp-image-10505" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA2.jpg" alt="DECORACAO-NATAL-DECORACAO NATALINA-CENTRO DE MESA[2]" width="550" height="733" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA2.jpg"><img class="alignnone size-full wp-image-10505" src="https://www.trololodemulher.com.br/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA2.jpg" alt="DECORACAO-NATAL-DECORACAO NATALINA-CENTRO DE MESA[2]" width="550" height="733" /></a>
 </p>
 
 <p align="justify">
@@ -54,11 +51,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/enfeites-decoracao-natal/" target="_blank"><strong>2 elegantes (e simples!) enfeites para decoração de Natal… feitos por você!</strong></a>
+  <a href="http://www.decoracaodacasa.com/enfeites-decoracao-natal/" target="_blank" rel="noopener noreferrer"><strong>2 elegantes (e simples!) enfeites para decoração de Natal… feitos por você!</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA3.jpg"><img class="alignnone size-full wp-image-10506" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA3.jpg" alt="DECORACAO-NATAL-DECORACAO NATALINA-CENTRO DE MESA[3]" width="360" height="480" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA3.jpg"><img class="alignnone size-full wp-image-10506" src="https://www.trololodemulher.com.br/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA3.jpg" alt="DECORACAO-NATAL-DECORACAO NATALINA-CENTRO DE MESA[3]" width="360" height="480" /></a>
 </p>
 
 <p align="justify">
@@ -70,11 +67,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-natal/" target="_blank"><strong>Enfeites de Natal: você já sabe como decorar a mesa?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-natal/" target="_blank" rel="noopener noreferrer"><strong>Enfeites de Natal: você já sabe como decorar a mesa?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA4.jpg"><img class="alignnone size-full wp-image-10507" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA4.jpg" alt="DECORACAO-NATAL-DECORACAO NATALINA-CENTRO DE MESA[4]" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA4.jpg"><img class="alignnone size-full wp-image-10507" src="https://www.trololodemulher.com.br/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA4.jpg" alt="DECORACAO-NATAL-DECORACAO NATALINA-CENTRO DE MESA[4]" width="550" height="550" /></a>
 </p>
 
 <p align="justify">
@@ -86,11 +83,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/" target="_blank"><strong>Dicas para a decoração das salas no Natal.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/" target="_blank" rel="noopener noreferrer"><strong>Dicas para a decoração das salas no Natal.</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA5.jpg"><img class="alignnone size-full wp-image-10509" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA5.jpg" alt="DECORACAO-NATAL-DECORACAO NATALINA-CENTRO DE MESA[5]" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA5.jpg"><img class="alignnone size-full wp-image-10509" src="https://www.trololodemulher.com.br/2014/10/DECORACAO-NATAL-DECORACAO-NATALINA-CENTRO-DE-MESA5.jpg" alt="DECORACAO-NATAL-DECORACAO NATALINA-CENTRO DE MESA[5]" width="550" height="550" /></a>
 </p>
 
 <p align="justify">
@@ -98,11 +95,11 @@ categories:
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagens: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

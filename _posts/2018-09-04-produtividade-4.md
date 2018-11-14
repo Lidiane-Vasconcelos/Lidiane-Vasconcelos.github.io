@@ -1,11 +1,8 @@
 ---
-id: 3876
 title: Como ter disciplina e aumentar a produtividade?
-date: 2018-09-04T00:00:00+00:00
-author: admin
+author: Lidiane
 excerpt: Por mais que a gente aprenda sobre produtividade, a não execução do que foi planejado traz o gosto ruim da frustração. Como ter disciplina para fazer o que precisa ser feito?
 layout: post
-guid: http://localhost/wordpress/2018/09/04/produtividade-4/
 permalink: /2018/09/04/produtividade-4/
 categories:
   - Comportamento
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14695" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/09/PRODUTIVIDADE-DISCIPLINA-GESTAO-DO-TEMPO-ORGANIZACAO-PESSOAL-BLOG.jpg" alt="" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14695" src="https://www.trololodemulher.com.br/2018/09/PRODUTIVIDADE-DISCIPLINA-GESTAO-DO-TEMPO-ORGANIZACAO-PESSOAL-BLOG.jpg" alt="" width="800" height="800" />
 </p>
 
 <p align="center">

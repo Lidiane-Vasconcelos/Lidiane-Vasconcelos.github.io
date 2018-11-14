@@ -1,10 +1,7 @@
 ---
-id: 3067
 title: 'Mãe, faça a momografia por mim, sim? #outubrorosa'
-date: 2011-10-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/10/24/momografia-outubrorosa/
 permalink: /2011/10/24/momografia-outubrorosa/
 categories:
   - Saúde
@@ -33,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  Quando eu vi os vídeos produzidos pela <strong><a href="http://www.femama.org.br/novo/index.php" target="_blank">FEMAMA</a></strong> sob a ótica de quem ama uma mulher e pede que ela faça a mamografia por ela, a pessoa que a ama, me vi bastante representada, de certa forma, por este aqui, oh:
+  Quando eu vi os vídeos produzidos pela <strong><a href="http://www.femama.org.br/novo/index.php" target="_blank" rel="noopener noreferrer">FEMAMA</a></strong> sob a ótica de quem ama uma mulher e pede que ela faça a mamografia por ela, a pessoa que a ama, me vi bastante representada, de certa forma, por este aqui, oh:
 </p>
 
 
@@ -43,11 +40,11 @@ categories:
 </p>
 
 <p align="justify">
-  Se você acha que ainda te falta argumentos para isso, dá uma olhada nesta <strong><a href="http://www.femama.org.br/novo/cancer-mama.php?menu=can" target="_blank">página da FEMEMA</a> </strong>onde há informações simples e diretas sobre <strong>o que é a doença, como detectá-la, a diferença entre os vários tipos, como prevenir o câncer de mana e quais os tipos de tratamento.</strong> Faça isso, bonita!
+  Se você acha que ainda te falta argumentos para isso, dá uma olhada nesta <strong><a href="http://www.femama.org.br/novo/cancer-mama.php?menu=can" target="_blank" rel="noopener noreferrer">página da FEMEMA</a> </strong>onde há informações simples e diretas sobre <strong>o que é a doença, como detectá-la, a diferença entre os vários tipos, como prevenir o câncer de mana e quais os tipos de tratamento.</strong> Faça isso, bonita!
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/mamografia-outubrorosa-cancer-de-mama.jpg"><img class="alignnone size-full wp-image-7046" title="mamografia outubrorosa câncer de mama" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/mamografia-outubrorosa-cancer-de-mama.jpg" alt="" width="600" height="533" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/10/mamografia-outubrorosa-cancer-de-mama.jpg"><img class="alignnone size-full wp-image-7046" title="mamografia outubrorosa câncer de mama" src="https://www.trololodemulher.com.br/2011/10/mamografia-outubrorosa-cancer-de-mama.jpg" alt="" width="600" height="533" /></a>
 </p>
 
 <p align="justify">
@@ -61,5 +58,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

@@ -1,10 +1,7 @@
 ---
-id: 2871
 title: 'Sorteio Bicha Fêmea &#038; Espaço Home = casa bonita e organizada!'
-date: 2010-09-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/09/01/bicha-femea-espaco-home/
 permalink: /2010/09/01/bicha-femea-espaco-home/
 categories:
   - Publieditorial
@@ -13,7 +10,7 @@ categories:
   <strong><em><span style="color: #ff0000; font-size: small;">Aviso ás bichas fêmeas navegantes: esse sorteio está com prazo encerrado.</span></em></strong>
 </p>
 
-Você já ouviu falar da <a href="http://www.espacohome.com.br/" target="_blank">Espaço Home</a>, bonita! Claro que sim! E foi aqui mesmo no Bicha Fêmea quando em outra parceria fizemos o **_[sorteio de um organizador de bolsa](http://www.trololodemulher.com.br/2010/03/22/sorteio-bicha-femea-organizacao-com-estilo-by-espaco-home/)_**, e as bichas fêmeas navegantes ficaram empolgadíssimas. Lembra?
+Você já ouviu falar da <a href="http://www.espacohome.com.br/" target="_blank" rel="noopener noreferrer">Espaço Home</a>, bonita! Claro que sim! E foi aqui mesmo no Bicha Fêmea quando em outra parceria fizemos o **_[sorteio de um organizador de bolsa](http://www.trololodemulher.com.br/2010/03/22/sorteio-bicha-femea-organizacao-com-estilo-by-espaco-home/)_**, e as bichas fêmeas navegantes ficaram empolgadíssimas. Lembra?
 
 <p style="text-align: justify;">
   Pois agora, prepare-se! Através da  <strong><em>Parceria Bicha Fêmea & Espaço Home</em></strong>, a sua casa pode ficar ainda mais bonita e organizada com um mimo que será sorteado. E tem até desconto para compras&#8230;duvida?
@@ -26,7 +23,7 @@ Você já ouviu falar da <a href="http://www.espacohome.com.br/" target="_blank"
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/porta-toalha-creme.jpg"><img class="size-medium wp-image-5139 aligncenter" title="porta toalha creme" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/porta-toalha-creme-300x188.jpg" alt="" width="300" height="188" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2010/08/porta-toalha-creme.jpg"><img class="size-medium wp-image-5139 aligncenter" title="porta toalha creme" src="https://www.trololodemulher.com.br/2010/08/porta-toalha-creme-300x188.jpg" alt="" width="300" height="188" /></a></em>
 </p>
 
 <p style="text-align: center;">
@@ -38,7 +35,7 @@ Você já ouviu falar da <a href="http://www.espacohome.com.br/" target="_blank"
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/porta-toalha-ouro-velho.jpg"><img class="size-medium wp-image-5140 aligncenter" title="porta toalha ouro velho" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/porta-toalha-ouro-velho-300x229.jpg" alt="" width="300" height="229" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2010/08/porta-toalha-ouro-velho.jpg"><img class="size-medium wp-image-5140 aligncenter" title="porta toalha ouro velho" src="https://www.trololodemulher.com.br/2010/08/porta-toalha-ouro-velho-300x229.jpg" alt="" width="300" height="229" /></a></em>
 </p>
 
 <p style="text-align: center;">
@@ -54,7 +51,7 @@ Você já ouviu falar da <a href="http://www.espacohome.com.br/" target="_blank"
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/porta-toalha-prata.jpg"><img class="size-medium wp-image-5143 aligncenter" title="porta toalha prata" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/porta-toalha-prata-300x200.jpg" alt="" width="300" height="200" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2010/08/porta-toalha-prata.jpg"><img class="size-medium wp-image-5143 aligncenter" title="porta toalha prata" src="https://www.trololodemulher.com.br/2010/08/porta-toalha-prata-300x200.jpg" alt="" width="300" height="200" /></a></em>
 </p>
 
 <p style="text-align: center;">

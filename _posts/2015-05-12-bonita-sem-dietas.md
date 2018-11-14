@@ -1,10 +1,7 @@
 ---
-id: 3422
 title: Bonita, saudável e feliz… sem dietas!
-date: 2015-05-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/05/12/bonita-sem-dietas/
 permalink: /2015/05/12/bonita-sem-dietas/
 categories:
   - Beleza
@@ -20,7 +17,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/19/saude-beleza-sucos-funcionais/" target="_blank"><strong>Saúde e beleza no copo: sucos funcionais</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/03/19/saude-beleza-sucos-funcionais/" target="_blank" rel="noopener noreferrer"><strong>Saúde e beleza no copo: sucos funcionais</strong></a>
 </p>
 
 <p align="justify">
@@ -32,7 +29,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/" target="_blank"><strong>Mulher, alimentos e ansiedade: há algo familiar nisso?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/" target="_blank" rel="noopener noreferrer"><strong>Mulher, alimentos e ansiedade: há algo familiar nisso?</strong></a>
 </p>
 
 <p align="justify">
@@ -48,7 +45,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/10/10/emagrecer-mudancas-habitos/" target="_blank"><strong>É possível emagrecer apenas com mudanças de hábitos?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/10/10/emagrecer-mudancas-habitos/" target="_blank" rel="noopener noreferrer"><strong>É possível emagrecer apenas com mudanças de hábitos?</strong></a>
 </p>
 
 <p align="justify">
@@ -56,15 +53,15 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL.jpg"><img class="alignnone size-full wp-image-10935" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL.jpg" alt="SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO ALIMENTAR-OBESIDADE-TRANSTORNOS ALIMENTARES-ALIMENTACAO-ALIMENTACAO SAUDAVEL" width="400" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL.jpg"><img class="alignnone size-full wp-image-10935" src="https://www.trololodemulher.com.br/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL.jpg" alt="SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO ALIMENTAR-OBESIDADE-TRANSTORNOS ALIMENTARES-ALIMENTACAO-ALIMENTACAO SAUDAVEL" width="400" height="400" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.health.com/health/gallery/0,,20306719,00.html?crlt.pid=camp.N6StJlATsn0M" target="_blank">Health</a>
+  Imagem: <a href="http://www.health.com/health/gallery/0,,20306719,00.html?crlt.pid=camp.N6StJlATsn0M" target="_blank" rel="noopener noreferrer">Health</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL3.png"><img class="alignnone size-full wp-image-10938" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL3.png" alt="SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO ALIMENTAR-OBESIDADE-TRANSTORNOS ALIMENTARES-ALIMENTACAO-ALIMENTACAO SAUDAVEL[3]" width="621" height="81" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL3.png"><img class="alignnone size-full wp-image-10938" src="https://www.trololodemulher.com.br/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL3.png" alt="SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO ALIMENTAR-OBESIDADE-TRANSTORNOS ALIMENTARES-ALIMENTACAO-ALIMENTACAO SAUDAVEL[3]" width="621" height="81" /></a>
 </p>
 
 > <p align="justify">
@@ -72,7 +69,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL4.png"><img class="alignnone size-full wp-image-10939" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL4.png" alt="SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO ALIMENTAR-OBESIDADE-TRANSTORNOS ALIMENTARES-ALIMENTACAO-ALIMENTACAO SAUDAVEL[4]" width="743" height="80" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL4.png"><img class="alignnone size-full wp-image-10939" src="https://www.trololodemulher.com.br/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL4.png" alt="SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO ALIMENTAR-OBESIDADE-TRANSTORNOS ALIMENTARES-ALIMENTACAO-ALIMENTACAO SAUDAVEL[4]" width="743" height="80" /></a>
 </p>
 
 > <p align="justify">
@@ -80,7 +77,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL5.png"><img class="alignnone size-full wp-image-10940" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL5.png" alt="SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO ALIMENTAR-OBESIDADE-TRANSTORNOS ALIMENTARES-ALIMENTACAO-ALIMENTACAO SAUDAVEL[5]" width="591" height="82" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL5.png"><img class="alignnone size-full wp-image-10940" src="https://www.trololodemulher.com.br/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL5.png" alt="SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO ALIMENTAR-OBESIDADE-TRANSTORNOS ALIMENTARES-ALIMENTACAO-ALIMENTACAO SAUDAVEL[5]" width="591" height="82" /></a>
 </p>
 
 > <p align="justify">
@@ -88,15 +85,15 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL2.jpg"><img class="alignnone size-full wp-image-10936" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL2.jpg" alt="SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO ALIMENTAR-OBESIDADE-TRANSTORNOS ALIMENTARES-ALIMENTACAO-ALIMENTACAO SAUDAVEL[2]" width="347" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL2.jpg"><img class="alignnone size-full wp-image-10936" src="https://www.trololodemulher.com.br/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL2.jpg" alt="SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO ALIMENTAR-OBESIDADE-TRANSTORNOS ALIMENTARES-ALIMENTACAO-ALIMENTACAO SAUDAVEL[2]" width="347" height="800" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://lucydaveyillustration.blogspot.co.uk/" target="_blank">Lucy Davey</a> via Pinterest
+  Imagem: <a href="http://lucydaveyillustration.blogspot.co.uk/" target="_blank" rel="noopener noreferrer">Lucy Davey</a> via Pinterest
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL6.png"><img class="alignnone size-full wp-image-10941" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL6.png" alt="SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO ALIMENTAR-OBESIDADE-TRANSTORNOS ALIMENTARES-ALIMENTACAO-ALIMENTACAO SAUDAVEL[6]" width="723" height="73" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL6.png"><img class="alignnone size-full wp-image-10941" src="https://www.trololodemulher.com.br/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL6.png" alt="SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO ALIMENTAR-OBESIDADE-TRANSTORNOS ALIMENTARES-ALIMENTACAO-ALIMENTACAO SAUDAVEL[6]" width="723" height="73" /></a>
 </p>
 
 > <p align="justify">
@@ -104,7 +101,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL7.png"><img class="alignnone size-full wp-image-10942" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL7.png" alt="SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO ALIMENTAR-OBESIDADE-TRANSTORNOS ALIMENTARES-ALIMENTACAO-ALIMENTACAO SAUDAVEL[7]" width="347" height="81" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL7.png"><img class="alignnone size-full wp-image-10942" src="https://www.trololodemulher.com.br/2015/05/SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO-ALIMENTAR-OBESIDADE-TRANSTORNOS-ALIMENTARES-ALIMENTACAO-ALIMENTACAO-SAUDAVEL7.png" alt="SAUDE-DIETA-EMAGRECIMENTO-REEDUCACAO ALIMENTAR-OBESIDADE-TRANSTORNOS ALIMENTARES-ALIMENTACAO-ALIMENTACAO SAUDAVEL[7]" width="347" height="81" /></a>
 </p>
 
 > <p align="justify">
@@ -112,15 +109,15 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/LUCIANA-KOTAKA-PSICOLOGA-OBESIDADE-TRANSTORNOS-ALIMENTARES-CURITIBA.png"><img class="alignnone size-full wp-image-10934" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/LUCIANA-KOTAKA-PSICOLOGA-OBESIDADE-TRANSTORNOS-ALIMENTARES-CURITIBA.png" alt="LUCIANA KOTAKA-PSICOLOGA-OBESIDADE-TRANSTORNOS ALIMENTARES-CURITIBA" width="800" height="187" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/LUCIANA-KOTAKA-PSICOLOGA-OBESIDADE-TRANSTORNOS-ALIMENTARES-CURITIBA.png"><img class="alignnone size-full wp-image-10934" src="https://www.trololodemulher.com.br/2015/05/LUCIANA-KOTAKA-PSICOLOGA-OBESIDADE-TRANSTORNOS-ALIMENTARES-CURITIBA.png" alt="LUCIANA KOTAKA-PSICOLOGA-OBESIDADE-TRANSTORNOS ALIMENTARES-CURITIBA" width="800" height="187" /></a>
 </p>
 
 <p align="justify">
-  Luciana Kotaka desenvolve um trabalho incrível que pode ser conferido no seu site, <strong><a href="http://lucianakotaka.com.br/" target="_blank">Comportamento Magro</a></strong>. Lá você pode tomar conhecimento das várias áreas de atuação da profissional, pode ainda ficar por dentro de suas atualizações em <a href="http://lucianakotaka.com.br/?page_id=17747" target="_blank">seu blog</a>, ou ainda conhecer seus livros publicados sobre assuntos ligados a alimentação e emagrecimento com saúde. Claro! No site há todos os dados de contatos com a Psicóloga. Não deixe de conferir, também, sua <a href="https://www.facebook.com/ComportamentoMagro/timeline" target="_blank">página no Facebook: curta</a> e informe-se pelo bem de sua saúde.
+  Luciana Kotaka desenvolve um trabalho incrível que pode ser conferido no seu site, <strong><a href="http://lucianakotaka.com.br/" target="_blank" rel="noopener noreferrer">Comportamento Magro</a></strong>. Lá você pode tomar conhecimento das várias áreas de atuação da profissional, pode ainda ficar por dentro de suas atualizações em <a href="http://lucianakotaka.com.br/?page_id=17747" target="_blank" rel="noopener noreferrer">seu blog</a>, ou ainda conhecer seus livros publicados sobre assuntos ligados a alimentação e emagrecimento com saúde. Claro! No site há todos os dados de contatos com a Psicóloga. Não deixe de conferir, também, sua <a href="https://www.facebook.com/ComportamentoMagro/timeline" target="_blank" rel="noopener noreferrer">página no Facebook: curta</a> e informe-se pelo bem de sua saúde.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

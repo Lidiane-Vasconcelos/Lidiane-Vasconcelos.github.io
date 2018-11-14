@@ -1,15 +1,12 @@
 ---
-id: 2902
 title: Parceria Oligoflora no Aniversário do Bicha Fêmea!
-date: 2010-11-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/11/01/parceria-oligoflora/
 permalink: /2010/11/01/parceria-oligoflora/
 categories:
   - Publieditorial
 ---
-A <a href="http://www.oligoflora.com.br/" target="_blank">Oligoflora</a> é a mais nova parceira do Bicha Fêmea, e a estreia não poderia ter sido em ocasião melhor. E como não poderia deixar de ser, a empresa tem tudo a ver com você, que é uma bicha fêmea navegante inteligente. Através de seus serviços você experimenta algo de inovador em espaços de estética…
+A <a href="http://www.oligoflora.com.br/" target="_blank" rel="noopener noreferrer">Oligoflora</a> é a mais nova parceira do Bicha Fêmea, e a estreia não poderia ter sido em ocasião melhor. E como não poderia deixar de ser, a empresa tem tudo a ver com você, que é uma bicha fêmea navegante inteligente. Através de seus serviços você experimenta algo de inovador em espaços de estética…
 
 <!--more-->
 
@@ -22,7 +19,7 @@ A <a href="http://www.oligoflora.com.br/" target="_blank">Oligoflora</a> é a ma
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Presentes-Oligoflora.jpg"><img class="alignnone size-full wp-image-5377" title="Presentes Oligoflora" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Presentes-Oligoflora.jpg" alt="" width="331" height="265" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/Presentes-Oligoflora.jpg"><img class="alignnone size-full wp-image-5377" title="Presentes Oligoflora" src="https://www.trololodemulher.com.br/2010/10/Presentes-Oligoflora.jpg" alt="" width="331" height="265" /></a>
 </p>
 
 <p style="text-align: justify;">

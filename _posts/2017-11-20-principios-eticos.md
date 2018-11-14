@@ -1,10 +1,7 @@
 ---
-id: 3832
 title: Veja 5 princípios éticos básicos e universais para bem viver.
-date: 2017-11-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/11/20/principios-eticos/
 permalink: /2017/11/20/principios-eticos/
 categories:
   - Bem-estar
@@ -20,11 +17,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14435" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/PRINCIPIOS-ETICOS-800.jpg" alt="PRINCIPIOS ETICOS-800" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14435" src="https://www.trololodemulher.com.br/2017/11/PRINCIPIOS-ETICOS-800.jpg" alt="PRINCIPIOS ETICOS-800" width="800" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://foter.com/re/626e6f" target="_blank">Foter.com</a>
+  Imagem: <a href="http://foter.com/re/626e6f" target="_blank" rel="noopener noreferrer">Foter.com</a>
 </p>
 
 <p align="center">
@@ -32,7 +29,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Como visto </em><a href="http://www.trololodemulher.com.br/2017/10/16/vida-em-equilibrio/" target="_blank"><em>no post anterior</em></a><em>, Patanjali, um sábio indiano, compilou um sistema de oito passos para que possamos conhecer a nossa real natureza. Falamos do primeiro passo, os Yamas, que tratam do nosso relacionamento com o mundo exterior. Neste post abordaremos o passo seguinte, que são os Niyamas, relacionados com o nosso trabalho interno e a auto superação das nossas tendências. Eles representam as atitudes que devemos ter perante nós mesmos. Niyama significa &#8220;regras&#8221; ou &#8220;leis &#8220;. Estas são as regras prescritas para a observância da nossa conduta pessoal. Eles referem-se à atitude que adotamos para nós mesmos e como criar um sistema para viver plenamente. Como cuidamos e lidamos com nós mesmos. </em>
+  “<em>Como visto </em><a href="http://www.trololodemulher.com.br/2017/10/16/vida-em-equilibrio/" target="_blank" rel="noopener noreferrer"><em>no post anterior</em></a><em>, Patanjali, um sábio indiano, compilou um sistema de oito passos para que possamos conhecer a nossa real natureza. Falamos do primeiro passo, os Yamas, que tratam do nosso relacionamento com o mundo exterior. Neste post abordaremos o passo seguinte, que são os Niyamas, relacionados com o nosso trabalho interno e a auto superação das nossas tendências. Eles representam as atitudes que devemos ter perante nós mesmos. Niyama significa &#8220;regras&#8221; ou &#8220;leis &#8220;. Estas são as regras prescritas para a observância da nossa conduta pessoal. Eles referem-se à atitude que adotamos para nós mesmos e como criar um sistema para viver plenamente. Como cuidamos e lidamos com nós mesmos. </em>
 </p>
 
 <p align="justify">
@@ -116,7 +113,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-10568" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/YOGA-MEDITACAO-SAUDE-BEM-ESTAR-PROFESSORA-PAULA-ELISA2.png" alt="YOGA-MEDITACAO-SAUDE-BEM ESTAR-PROFESSORA-PAULA ELISA[2]" width="800" height="212" />
+  <img class="alignnone size-full wp-image-10568" src="https://www.trololodemulher.com.br/2014/11/YOGA-MEDITACAO-SAUDE-BEM-ESTAR-PROFESSORA-PAULA-ELISA2.png" alt="YOGA-MEDITACAO-SAUDE-BEM ESTAR-PROFESSORA-PAULA ELISA[2]" width="800" height="212" />
 </p>
 
 <p align="justify">
@@ -124,27 +121,27 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/10/16/vida-em-equilibrio/" target="_blank"><strong>Adote sábias atitudes para uma vida em equilíbrio.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/10/16/vida-em-equilibrio/" target="_blank" rel="noopener noreferrer"><strong>Adote sábias atitudes para uma vida em equilíbrio.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/08/21/meditacao/" target="_blank"><strong>Quer melhorar a sua prática de meditação? Faça Yoga!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/08/21/meditacao/" target="_blank" rel="noopener noreferrer"><strong>Quer melhorar a sua prática de meditação? Faça Yoga!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank"><strong>O que a meditação pode fazer por seu bem-estar e saúde?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank" rel="noopener noreferrer"><strong>O que a meditação pode fazer por seu bem-estar e saúde?</strong></a>
 </p>
 
 <p align="justify">
-  Paula edita um blog repleto de informações sobre a prática da Yoga e tudo o mais que está ligado a esse universo. Sua linguagem é simples, didática e incrivelmente gostosa de ser lida. Aproveite! Acompanhe suas atualizações pelo <strong>Namastê Yoga Blog</strong>, <a href="http://www.namasteyoga.com.br/" target="_blank">clicando aqui</a>. Não deixe de conferir suas postagens que fazem tanto bem em outro canal, no Facebook. <a href="https://www.facebook.com/namasteyoga2" target="_blank">Sua página está bem aqui, clique</a>, confira e curta! No Instagram suas atualizações ocorrem no <a href="https://www.instagram.com/espaconamasteyoga/" target="_blank">perfil Espaço Namastê Yoga. Clique aqui e siga</a>!
+  Paula edita um blog repleto de informações sobre a prática da Yoga e tudo o mais que está ligado a esse universo. Sua linguagem é simples, didática e incrivelmente gostosa de ser lida. Aproveite! Acompanhe suas atualizações pelo <strong>Namastê Yoga Blog</strong>, <a href="http://www.namasteyoga.com.br/" target="_blank" rel="noopener noreferrer">clicando aqui</a>. Não deixe de conferir suas postagens que fazem tanto bem em outro canal, no Facebook. <a href="https://www.facebook.com/namasteyoga2" target="_blank" rel="noopener noreferrer">Sua página está bem aqui, clique</a>, confira e curta! No Instagram suas atualizações ocorrem no <a href="https://www.instagram.com/espaconamasteyoga/" target="_blank" rel="noopener noreferrer">perfil Espaço Namastê Yoga. Clique aqui e siga</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>
 
 <p align="justify">

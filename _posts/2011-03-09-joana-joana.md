@@ -1,10 +1,7 @@
 ---
-id: 2959
 title: 'Prateleira do Bicha Fêmea: Joana Joana'
-date: 2011-03-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/03/09/joana-joana/
 permalink: /2011/03/09/joana-joana/
 categories:
   - Sem categoria
@@ -18,7 +15,7 @@ Em tempos de pressa em todos os aspectos da vida, tudo o que é produzido de man
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Agenda.jpg"><img class="alignnone size-full wp-image-6022" title="Agenda" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Agenda.jpg" alt="" width="512" height="512" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/Agenda.jpg"><img class="alignnone size-full wp-image-6022" title="Agenda" src="https://www.trololodemulher.com.br/2011/02/Agenda.jpg" alt="" width="512" height="512" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -30,7 +27,7 @@ Em tempos de pressa em todos os aspectos da vida, tudo o que é produzido de man
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/descanso-de-panela-ou-copo.jpg"><img class="alignnone size-full wp-image-6025" title="descanso de panela ou copo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/descanso-de-panela-ou-copo.jpg" alt="" width="564" height="431" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/descanso-de-panela-ou-copo.jpg"><img class="alignnone size-full wp-image-6025" title="descanso de panela ou copo" src="https://www.trololodemulher.com.br/2011/02/descanso-de-panela-ou-copo.jpg" alt="" width="564" height="431" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -42,19 +39,19 @@ Em tempos de pressa em todos os aspectos da vida, tudo o que é produzido de man
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/pimenta-artesanal-decorativa.jpg"><img class="alignnone size-full wp-image-6028" title="pimenta artesanal decorativa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/pimenta-artesanal-decorativa.jpg" alt="" width="454" height="528" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/pimenta-artesanal-decorativa.jpg"><img class="alignnone size-full wp-image-6028" title="pimenta artesanal decorativa" src="https://www.trololodemulher.com.br/2011/02/pimenta-artesanal-decorativa.jpg" alt="" width="454" height="528" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Quem curte a casa, a decoração e o prazer de enfeitá-la sabe que o encantamento fica nos pequenos detalhes. A linha de frutas, verduras e legumes artesanais, produzidas em tecido pela <strong>Joana Campos</strong>, a artesã por trás dessas peças e que também edita o blog <a href="http://www.joanacampos.com/" target="_blank">Joana Campos – de mim pra você…e de você pra mim</a>, tem revelado um charme rústico que traz muita graça a qualquer cozinha. Olha só:
+  Quem curte a casa, a decoração e o prazer de enfeitá-la sabe que o encantamento fica nos pequenos detalhes. A linha de frutas, verduras e legumes artesanais, produzidas em tecido pela <strong>Joana Campos</strong>, a artesã por trás dessas peças e que também edita o blog <a href="http://www.joanacampos.com/" target="_blank" rel="noopener noreferrer">Joana Campos – de mim pra você…e de você pra mim</a>, tem revelado um charme rústico que traz muita graça a qualquer cozinha. Olha só:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/morango-artesanal-decorativo.jpg"><img class="alignnone size-full wp-image-6027" title="morango artesanal decorativo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/morango-artesanal-decorativo.jpg" alt="" width="549" height="320" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/morango-artesanal-decorativo.jpg"><img class="alignnone size-full wp-image-6027" title="morango artesanal decorativo" src="https://www.trololodemulher.com.br/2011/02/morango-artesanal-decorativo.jpg" alt="" width="549" height="320" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/frutas-e-legumes-artesanais-decorativos.jpg"><img class="alignnone size-full wp-image-6026" title="frutas e legumes artesanais decorativos" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/frutas-e-legumes-artesanais-decorativos.jpg" alt="" width="592" height="334" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/frutas-e-legumes-artesanais-decorativos.jpg"><img class="alignnone size-full wp-image-6026" title="frutas e legumes artesanais decorativos" src="https://www.trololodemulher.com.br/2011/02/frutas-e-legumes-artesanais-decorativos.jpg" alt="" width="592" height="334" /></a>
 </p>
 
 <p style="text-align: justify;">

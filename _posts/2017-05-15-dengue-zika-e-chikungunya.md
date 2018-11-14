@@ -1,10 +1,7 @@
 ---
-id: 3763
 title: 'Dengue, zika e chikungunya: entenda as diferenças.'
-date: 2017-05-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/05/15/dengue-zika-e-chikungunya/
 permalink: /2017/05/15/dengue-zika-e-chikungunya/
 categories:
   - Saúde
@@ -18,11 +15,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13811" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/DENGUE-ZIKA-CHIKUNGUNYA2.jpg" alt="DENGUE-ZIKA-CHIKUNGUNYA[2]" width="800" height="534" />
+  <img class="alignnone size-full wp-image-13811" src="https://www.trololodemulher.com.br/2017/05/DENGUE-ZIKA-CHIKUNGUNYA2.jpg" alt="DENGUE-ZIKA-CHIKUNGUNYA[2]" width="800" height="534" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/ministeriodasaude/15961132911/" target="_blank">Ministério da Saúde</a> via <a href="http://foter.com/re/14d66a" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">CC BY-NC-SA</a>
+  Imagem: <a href="https://www.flickr.com/photos/ministeriodasaude/15961132911/" target="_blank" rel="noopener noreferrer">Ministério da Saúde</a> via <a href="http://foter.com/re/14d66a" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA</a>
 </p>
 
 <p align="justify">
@@ -78,7 +75,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13810" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/DENGUE-ZIKA-CHIKUNGUNYA.jpg" alt="DENGUE-ZIKA-CHIKUNGUNYA" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13810" src="https://www.trololodemulher.com.br/2017/05/DENGUE-ZIKA-CHIKUNGUNYA.jpg" alt="DENGUE-ZIKA-CHIKUNGUNYA" width="800" height="800" />
 </p>
 
 <p align="justify">
@@ -114,15 +111,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13813" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/DRA-MARINA-DA-ROS-MALACARNE-MEDICA-INFECTOLOGISTA-COLATINA-ES.jpg" alt="DRA MARINA DA ROS MALACARNE-MEDICA INFECTOLOGISTA-COLATINA-ES" width="800" height="153" />
+  <img class="alignnone size-full wp-image-13813" src="https://www.trololodemulher.com.br/2017/05/DRA-MARINA-DA-ROS-MALACARNE-MEDICA-INFECTOLOGISTA-COLATINA-ES.jpg" alt="DRA MARINA DA ROS MALACARNE-MEDICA INFECTOLOGISTA-COLATINA-ES" width="800" height="153" />
 </p>
 
 <p align="justify">
-  Você encontra a Dra. Marina na Rua Bartovino Costa, 80, 4• andar, Colatina, ES. Telefone (27) 3711-2512. O e-mail da Médica é <a href="mailto:marina.infectologia@gmail.com">marina.infectologia@gmail.com</a> e, nas redes sociais, você pode acompanhar a médica via Facebook – <a href="https://www.facebook.com/drainfectologista/" target="_blank">clique aqui e curta</a> – e ainda pelo Instagram, <a href="https://www.instagram.com/drainfectologista/" target="_blank">clique aqui e siga</a>!
+  Você encontra a Dra. Marina na Rua Bartovino Costa, 80, 4• andar, Colatina, ES. Telefone (27) 3711-2512. O e-mail da Médica é <a href="mailto:marina.infectologia@gmail.com">marina.infectologia@gmail.com</a> e, nas redes sociais, você pode acompanhar a médica via Facebook – <a href="https://www.facebook.com/drainfectologista/" target="_blank" rel="noopener noreferrer">clique aqui e curta</a> – e ainda pelo Instagram, <a href="https://www.instagram.com/drainfectologista/" target="_blank" rel="noopener noreferrer">clique aqui e siga</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

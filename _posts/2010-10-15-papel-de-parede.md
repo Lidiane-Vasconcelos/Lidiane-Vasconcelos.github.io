@@ -1,10 +1,7 @@
 ---
-id: 2884
 title: 'Papel de parede: 4 dicas de decoração com as sobras. Você tem alguma?'
-date: 2010-10-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/10/15/papel-de-parede/
 permalink: /2010/10/15/papel-de-parede/
 categories:
   - Decoração
@@ -19,7 +16,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2013/06/19/decoracao-papel-de-parede-3/" target="_blank">Decoração com papel de parede&#8230; sem cobrir a parede!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2013/06/19/decoracao-papel-de-parede-3/" target="_blank" rel="noopener noreferrer">Decoração com papel de parede&#8230; sem cobrir a parede!</a></strong>
 </p>
 
 <!--more-->
@@ -33,7 +30,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2014/09/18/papel-parede-cozinha/" target="_blank">Papel de parede na cozinha: bonito para os olhos e coração.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/09/18/papel-parede-cozinha/" target="_blank" rel="noopener noreferrer">Papel de parede na cozinha: bonito para os olhos e coração.</a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -45,7 +42,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2012/04/11/decoracao-papel-de-parede-2/" target="_blank">3 ideias criativas de uso do papel de parede&#8230; fora da parede!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2012/04/11/decoracao-papel-de-parede-2/" target="_blank" rel="noopener noreferrer">3 ideias criativas de uso do papel de parede&#8230; fora da parede!</a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -57,7 +54,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/gaveta-forrada-com-papel-de-parede.jpg"><img class="alignnone size-full wp-image-5243" title="gaveta forrada com papel de parede" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/gaveta-forrada-com-papel-de-parede.jpg" alt="" width="300" height="357" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/gaveta-forrada-com-papel-de-parede.jpg"><img class="alignnone size-full wp-image-5243" title="gaveta forrada com papel de parede" src="https://www.trololodemulher.com.br/2010/09/gaveta-forrada-com-papel-de-parede.jpg" alt="" width="300" height="357" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -69,11 +66,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.decoracaodacasa.com/decoracao-papel-de-parede-2/" target="_blank">Decoração de pequenos espaços com papel de parede: inspirações e ideias.</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/decoracao-papel-de-parede-2/" target="_blank" rel="noopener noreferrer">Decoração de pequenos espaços com papel de parede: inspirações e ideias.</a></strong>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/molduras-de-fotos-com-papel-de-parede.jpg"><img class="alignnone size-full wp-image-5248" title="molduras de fotos com papel de parede" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/molduras-de-fotos-com-papel-de-parede.jpg" alt="" width="300" height="357" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/molduras-de-fotos-com-papel-de-parede.jpg"><img class="alignnone size-full wp-image-5248" title="molduras de fotos com papel de parede" src="https://www.trololodemulher.com.br/2010/09/molduras-de-fotos-com-papel-de-parede.jpg" alt="" width="300" height="357" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -85,11 +82,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.decoracaodacasa.com/papel-parede-infantil/" target="_blank">Papel de parede infantil: divertidos, didáticos e criativos.</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/papel-parede-infantil/" target="_blank" rel="noopener noreferrer">Papel de parede infantil: divertidos, didáticos e criativos.</a></strong>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/livros-encapados-com-papel-de-parede.jpg"><img class="alignnone size-full wp-image-5247" title="livros encapados com papel de parede" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/livros-encapados-com-papel-de-parede.jpg" alt="" width="300" height="357" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/livros-encapados-com-papel-de-parede.jpg"><img class="alignnone size-full wp-image-5247" title="livros encapados com papel de parede" src="https://www.trololodemulher.com.br/2010/09/livros-encapados-com-papel-de-parede.jpg" alt="" width="300" height="357" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -97,7 +94,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/latas-cobertas-com-papel-de-parede.jpg"><img class="alignnone size-full wp-image-5244" title="latas cobertas com papel de parede" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/latas-cobertas-com-papel-de-parede.jpg" alt="" width="300" height="357" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/latas-cobertas-com-papel-de-parede.jpg"><img class="alignnone size-full wp-image-5244" title="latas cobertas com papel de parede" src="https://www.trololodemulher.com.br/2010/09/latas-cobertas-com-papel-de-parede.jpg" alt="" width="300" height="357" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -108,18 +105,18 @@ categories:
   Imagino que você deve ter alguma dica para compartilhar sobre o que fazer com sobras de papel de parede. Acertei? Então corre nos comentários e divide aí, porque o conteúdo deste post pode ficar ainda melhor com sua contribuição. Ah! As leitoras agradecem…
 </p>
 
-_Imagens:_ <a href="http://www.realsimple.com/" target="_blank"><em>Real Simple</em></a>
+_Imagens:_ <a href="http://www.realsimple.com/" target="_blank" rel="noopener noreferrer"><em>Real Simple</em></a>
 
 **_As leitoras falam&#8230;_**
 
-&#8230;e dão mais sugestões. Foi assim que a Luciana, editora do blog <a href="http://interiordodesign.blogspot.com/" target="_blank"><strong><em>Interior do Design</em></strong></a>, indicou uma imagem que serve de inspiração para mais uma possibilidade de uso das sobras do papel de parede. Confere aqui embaixo:
+&#8230;e dão mais sugestões. Foi assim que a Luciana, editora do blog <a href="http://interiordodesign.blogspot.com/" target="_blank" rel="noopener noreferrer"><strong><em>Interior do Design</em></strong></a>, indicou uma imagem que serve de inspiração para mais uma possibilidade de uso das sobras do papel de parede. Confere aqui embaixo:
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/mesa-com-papel-sob-vidro.jpg"><img class="alignnone size-full wp-image-5328" title="mesa com papel sob vidro" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/mesa-com-papel-sob-vidro.jpg" alt="" width="312" height="310" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/mesa-com-papel-sob-vidro.jpg"><img class="alignnone size-full wp-image-5328" title="mesa com papel sob vidro" src="https://www.trololodemulher.com.br/2010/10/mesa-com-papel-sob-vidro.jpg" alt="" width="312" height="310" /></a>
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.housetohome.co.uk/" target="_blank">House to Home</a></em>
+  <em><a href="http://www.housetohome.co.uk/" target="_blank" rel="noopener noreferrer">House to Home</a></em>
 </p>
 
 <p style="text-align: justify;">
@@ -127,9 +124,9 @@ _Imagens:_ <a href="http://www.realsimple.com/" target="_blank"><em>Real Simple<
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
+  <a href="http://www.decoracaodacasa.com/" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10262" src="https://www.trololodemulher.com.br/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
 </p>

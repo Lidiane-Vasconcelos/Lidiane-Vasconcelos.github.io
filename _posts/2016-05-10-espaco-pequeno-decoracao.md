@@ -1,10 +1,7 @@
 ---
-id: 3604
 title: Como fazer seu espaço pequeno parecer maior? 10 dicas.
-date: 2016-05-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/05/10/espaco-pequeno-decoracao/
 permalink: /2016/05/10/espaco-pequeno-decoracao/
 categories:
   - Decoração
@@ -19,7 +16,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.decoracaodacasa.com/apartamento-pequeno-2/" target="_blank">Apartamento mínimo com tudo pra viver bem&#8230; é possível?</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/apartamento-pequeno-2/" target="_blank" rel="noopener noreferrer">Apartamento mínimo com tudo pra viver bem&#8230; é possível?</a></strong>
 </p>
 
 <p align="justify">
@@ -31,27 +28,27 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.decoracaodacasa.com/pequenos-espacos/" target="_blank">Dá para viver bem em pequenos espaços?</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/pequenos-espacos/" target="_blank" rel="noopener noreferrer">Dá para viver bem em pequenos espaços?</a></strong>
 </p>
 
 <p align="justify">
-  A principal de todas as dicas, talvez a mais conhecida e, imagino, você desconfie qual seja, é o <strong>uso de espelhos [1]</strong>. Essa é uma orientação reforçada pela <strong>Arquiteta Caroline Willrich</strong>, editora do blog <a href="http://arquitetando-projetoseobjetos.blogspot.com.br/" target="_blank"><strong>Arquitetando – Projetos e Objetos</strong></a>. Aliado a esse recurso, é importante optar por <strong>cores claras nas paredes e móveis [2]</strong>. A dica é da <strong>Carol Carneiro</strong>, <strong>Designer de Inteiores</strong> cujo trabalho e dicas podem ser conferidos <strong><a href="http://www.blogcarolcarneiro.blogspot.com.br/" target="_blank">em seu blog, clicando aqui</a></strong>.
+  A principal de todas as dicas, talvez a mais conhecida e, imagino, você desconfie qual seja, é o <strong>uso de espelhos [1]</strong>. Essa é uma orientação reforçada pela <strong>Arquiteta Caroline Willrich</strong>, editora do blog <a href="http://arquitetando-projetoseobjetos.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>Arquitetando – Projetos e Objetos</strong></a>. Aliado a esse recurso, é importante optar por <strong>cores claras nas paredes e móveis [2]</strong>. A dica é da <strong>Carol Carneiro</strong>, <strong>Designer de Inteiores</strong> cujo trabalho e dicas podem ser conferidos <strong><a href="http://www.blogcarolcarneiro.blogspot.com.br/" target="_blank" rel="noopener noreferrer">em seu blog, clicando aqui</a></strong>.
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12491" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-PEQUENOS-ESPACOS-ESPELHO-NA-DECORACAO.jpg" alt="DECORACAO-PEQUENOS ESPACOS-ESPELHO NA DECORACAO" width="720" height="405" />
+  <img class="alignnone size-full wp-image-12491" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-PEQUENOS-ESPACOS-ESPELHO-NA-DECORACAO.jpg" alt="DECORACAO-PEQUENOS ESPACOS-ESPELHO NA DECORACAO" width="720" height="405" />
 </p>
 
 <p align="justify">
-  Sala de apartamento projetada pela <strong>Designer de Interiores Eliana Ricci</strong>, editora do blog <strong><a href="http://barraco-chic.blogspot.com.br/" target="_blank">Barraco Chic</a></strong>, fazendo uso do espelho em duas paredes.
+  Sala de apartamento projetada pela <strong>Designer de Interiores Eliana Ricci</strong>, editora do blog <strong><a href="http://barraco-chic.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Barraco Chic</a></strong>, fazendo uso do espelho em duas paredes.
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12492" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-PEQUENOS-ESPACOS-ESPELHO-NA-DECORACAO2.jpg" alt="DECORACAO-PEQUENOS ESPACOS-ESPELHO NA DECORACAO[2]" width="639" height="467" />
+  <img class="alignnone size-full wp-image-12492" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-PEQUENOS-ESPACOS-ESPELHO-NA-DECORACAO2.jpg" alt="DECORACAO-PEQUENOS ESPACOS-ESPELHO NA DECORACAO[2]" width="639" height="467" />
 </p>
 
 <p align="justify">
-  Sala projetada pela <strong>Arquiteta Regiane Yuki Sabanai</strong>, profissional que está a frente dos trabalhos no <strong><a href="http://www.studiorys.com/crbst_0.html" target="_blank">Studio Rys</a></strong>, e que vai adiante nas dicas: “<em>para criar uma sensação de ambientes maiores, o uso de elementos como o espelho é indispensável. Além disso, o <strong>papel de parede ou pintura com listra [3]</strong> passa a sensação de continuidade, com a aparência maior refletidas no espelho</em>.”
+  Sala projetada pela <strong>Arquiteta Regiane Yuki Sabanai</strong>, profissional que está a frente dos trabalhos no <strong><a href="http://www.studiorys.com/crbst_0.html" target="_blank" rel="noopener noreferrer">Studio Rys</a></strong>, e que vai adiante nas dicas: “<em>para criar uma sensação de ambientes maiores, o uso de elementos como o espelho é indispensável. Além disso, o <strong>papel de parede ou pintura com listra [3]</strong> passa a sensação de continuidade, com a aparência maior refletidas no espelho</em>.”
 </p>
 
 <p align="justify">
@@ -59,7 +56,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.decoracaodacasa.com/decoracao-espacos-pequenos/" target="_blank">3 erros na decoração e organização de espaços pequenos: você os comete?</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/decoracao-espacos-pequenos/" target="_blank" rel="noopener noreferrer">3 erros na decoração e organização de espaços pequenos: você os comete?</a></strong>
 </p>
 
 <p align="justify">
@@ -75,11 +72,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.decoracaodacasa.com/decoracao-casa-pouco-espaco/" target="_blank">5 dicas de decoração para casas com pouco espaço.</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/decoracao-casa-pouco-espaco/" target="_blank" rel="noopener noreferrer">5 dicas de decoração para casas com pouco espaço.</a></strong>
 </p>
 
 <p align="justify">
-  Outra profissional que caprichou nas dicas para facilitar sua vida na hora de decorar seu apartamento pequeno ou sua casa de dimensões reduzidas foi a <strong>Claudia Medeiros</strong>, que é <strong>Designer de Interiores</strong> em Campinas  e trabalha com projetos de decoração, acompanhamentos de obras e assessoria. Você pode encontrá-la virtualmente no blog <strong><a href="http://sefossenaminhacasa.wordpress.com/" target="_blank">Se Fosse Na Minha Casa</a></strong>. Repare no que ela orienta:
+  Outra profissional que caprichou nas dicas para facilitar sua vida na hora de decorar seu apartamento pequeno ou sua casa de dimensões reduzidas foi a <strong>Claudia Medeiros</strong>, que é <strong>Designer de Interiores</strong> em Campinas  e trabalha com projetos de decoração, acompanhamentos de obras e assessoria. Você pode encontrá-la virtualmente no blog <strong><a href="http://sefossenaminhacasa.wordpress.com/" target="_blank" rel="noopener noreferrer">Se Fosse Na Minha Casa</a></strong>. Repare no que ela orienta:
 </p>
 
 <p align="justify">
@@ -87,7 +84,7 @@ categories:
 </p>
 
 <p align="justify">
-  Vale a pena conferir com atenção as dicas valiosas da <strong>Rosana Silva</strong>, que é <strong>pós-graduada em Design de Inteiores</strong>, e está a frente de um blog riquíssimo em conteúdo nesta área, o <strong><a href="http://www.simplesdecoracao.com.br/" target="_blank">Simples Decoração</a></strong>. Confere:
+  Vale a pena conferir com atenção as dicas valiosas da <strong>Rosana Silva</strong>, que é <strong>pós-graduada em Design de Inteiores</strong>, e está a frente de um blog riquíssimo em conteúdo nesta área, o <strong><a href="http://www.simplesdecoracao.com.br/" target="_blank" rel="noopener noreferrer">Simples Decoração</a></strong>. Confere:
 </p>
 
 <p align="justify">
@@ -99,7 +96,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

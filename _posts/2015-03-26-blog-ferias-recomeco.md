@@ -1,10 +1,7 @@
 ---
-id: 3417
 title: Blog de férias. Minha vida em recomeço…
-date: 2015-03-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/03/26/blog-ferias-recomeco/
 permalink: /2015/03/26/blog-ferias-recomeco/
 categories:
   - Trololó
@@ -16,7 +13,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/FERIAS-RENOVACAO2.jpg"><img class="alignnone size-full wp-image-10895" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/FERIAS-RENOVACAO2.jpg" alt="FERIAS-RENOVACAO[2]" width="736" height="736" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/FERIAS-RENOVACAO2.jpg"><img class="alignnone size-full wp-image-10895" src="https://www.trololodemulher.com.br/2015/03/FERIAS-RENOVACAO2.jpg" alt="FERIAS-RENOVACAO[2]" width="736" height="736" /></a>
 </p>
 
 <p align="center">
@@ -32,7 +29,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/FERIAS-RENOVACAO.jpg"><img class="alignnone size-full wp-image-10894" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/FERIAS-RENOVACAO.jpg" alt="FERIAS-RENOVACAO" width="640" height="750" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/FERIAS-RENOVACAO.jpg"><img class="alignnone size-full wp-image-10894" src="https://www.trololodemulher.com.br/2015/03/FERIAS-RENOVACAO.jpg" alt="FERIAS-RENOVACAO" width="640" height="750" /></a>
 </p>
 
 <p align="center">
@@ -62,5 +59,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

@@ -1,10 +1,7 @@
 ---
-id: 3729
 title: 'Toalhas de banho de bebê: qual delas escolher?'
-date: 2017-02-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/02/23/toalhas-de-banho-de-bebe/
 permalink: /2017/02/23/toalhas-de-banho-de-bebe/
 categories:
   - Enxoval
@@ -17,11 +14,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13498" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/MATERNIDADE-ENXOVAL-DO-BEBE-TOALHA-DE-BANHO-DE-BEBE800.jpg" alt="MATERNIDADE-ENXOVAL DO BEBE-TOALHA DE BANHO DE BEBE800" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13498" src="https://www.trololodemulher.com.br/2017/02/MATERNIDADE-ENXOVAL-DO-BEBE-TOALHA-DE-BANHO-DE-BEBE800.jpg" alt="MATERNIDADE-ENXOVAL DO BEBE-TOALHA DE BANHO DE BEBE800" width="800" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/45777632@N06/9396736909/" target="_blank">D. Garding</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">CC BY-NC-SA</a>
+  Imagem: <a href="https://www.flickr.com/photos/45777632@N06/9396736909/" target="_blank" rel="noopener noreferrer">D. Garding</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA</a>
 </p>
 
 &nbsp;
@@ -47,7 +44,7 @@ categories:
 </p>
 
 <p align="justify">
-  5 – Use produtos adequados para a pele do bebê, e não deixe de conferir o post “<a href="http://www.trololodemulher.com.br/2014/09/12/cosmeticos-pele-bebe/" target="_blank">Afinal, quais cosméticos o bebê pode, de fato, usar?</a>”.
+  5 – Use produtos adequados para a pele do bebê, e não deixe de conferir o post “<a href="http://www.trololodemulher.com.br/2014/09/12/cosmeticos-pele-bebe/" target="_blank" rel="noopener noreferrer">Afinal, quais cosméticos o bebê pode, de fato, usar?</a>”.
 </p>
 
 <p align="justify">
@@ -69,11 +66,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13503" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/MATERNIDADE-ENXOVAL-DO-BEBE-TOALHA-DE-BANHO-DE-BEBE-TOALHA-FELPA-FRALDA-1.jpg" alt="MATERNIDADE-ENXOVAL DO BEBE-TOALHA DE BANHO DE BEBE-TOALHA FELPA FRALDA" width="800" height="619" />
+  <img class="alignnone size-full wp-image-13503" src="https://www.trololodemulher.com.br/2017/02/MATERNIDADE-ENXOVAL-DO-BEBE-TOALHA-DE-BANHO-DE-BEBE-TOALHA-FELPA-FRALDA-1.jpg" alt="MATERNIDADE-ENXOVAL DO BEBE-TOALHA DE BANHO DE BEBE-TOALHA FELPA FRALDA" width="800" height="619" />
 </p>
 
 <p align="center">
-  <em>Toalhas felpa e fralda, com capuz, e bordados lindos e fofos! Todas elas estão disponíveis online, na loja virtual XiqueXique Brasil. </em><a href="https://www.xiquexiquebrasil.com.br/bebe/banho-bebe" target="_blank"><em>Clique aqui e veja toda a linha banho da loja para bebês</em></a><em>.</em>
+  <em>Toalhas felpa e fralda, com capuz, e bordados lindos e fofos! Todas elas estão disponíveis online, na loja virtual XiqueXique Brasil. </em><a href="https://www.xiquexiquebrasil.com.br/bebe/banho-bebe" target="_blank" rel="noopener noreferrer"><em>Clique aqui e veja toda a linha banho da loja para bebês</em></a><em>.</em>
 </p>
 
 &nbsp;
@@ -85,11 +82,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13504" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/MATERNIDADE-ENXOVAL-DO-BEBE-TOALHA-DE-BANHO-DE-BEBE-TOALHA-FRALDA-1.jpg" alt="MATERNIDADE-ENXOVAL DO BEBE-TOALHA DE BANHO DE BEBE-TOALHA FRALDA" width="800" height="584" />
+  <img class="alignnone size-full wp-image-13504" src="https://www.trololodemulher.com.br/2017/02/MATERNIDADE-ENXOVAL-DO-BEBE-TOALHA-DE-BANHO-DE-BEBE-TOALHA-FRALDA-1.jpg" alt="MATERNIDADE-ENXOVAL DO BEBE-TOALHA DE BANHO DE BEBE-TOALHA FRALDA" width="800" height="584" />
 </p>
 
 <p align="center">
-  <em>Toalhas fralda, com bordados produzidos manualmente, em tecido 100% algodão… pura delicadeza para os bebês! Todas elas estão disponíveis online, na loja virtual XiqueXique Brasil. </em><a href="https://www.xiquexiquebrasil.com.br/bebe/banho-bebe" target="_blank"><em>Clique aqui e veja toda a linha banho da loja para bebês</em></a><em>.</em>
+  <em>Toalhas fralda, com bordados produzidos manualmente, em tecido 100% algodão… pura delicadeza para os bebês! Todas elas estão disponíveis online, na loja virtual XiqueXique Brasil. </em><a href="https://www.xiquexiquebrasil.com.br/bebe/banho-bebe" target="_blank" rel="noopener noreferrer"><em>Clique aqui e veja toda a linha banho da loja para bebês</em></a><em>.</em>
 </p>
 
 &nbsp;
@@ -103,11 +100,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13500" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/MATERNIDADE-ENXOVAL-DO-BEBE-TOALHA-DE-BANHO-DE-BEBE-TOALHA-FELPA.jpg" alt="MATERNIDADE-ENXOVAL DO BEBE-TOALHA DE BANHO DE BEBE-TOALHA FELPA" width="800" height="685" />
+  <img class="alignnone size-full wp-image-13500" src="https://www.trololodemulher.com.br/2017/02/MATERNIDADE-ENXOVAL-DO-BEBE-TOALHA-DE-BANHO-DE-BEBE-TOALHA-FELPA.jpg" alt="MATERNIDADE-ENXOVAL DO BEBE-TOALHA DE BANHO DE BEBE-TOALHA FELPA" width="800" height="685" />
 </p>
 
 <p style="text-align: center;">
-  <em>Toalha de banho com capuz em felpa ultra macia Buddemeyer na cor branca. Barrado no capuz em tecido piquê branco. Bordado sobre o barrado de Coroa na cor Rosa. Disponível na loja online XiqueXique Brasil. <a href="https://www.xiquexiquebrasil.com.br/bebe/banho-bebe" target="_blank">Clique aqui e veja toda a linha banho da loja para bebês</a>.</em>
+  <em>Toalha de banho com capuz em felpa ultra macia Buddemeyer na cor branca. Barrado no capuz em tecido piquê branco. Bordado sobre o barrado de Coroa na cor Rosa. Disponível na loja online XiqueXique Brasil. <a href="https://www.xiquexiquebrasil.com.br/bebe/banho-bebe" target="_blank" rel="noopener noreferrer">Clique aqui e veja toda a linha banho da loja para bebês</a>.</em>
 </p>
 
 &nbsp;
@@ -119,7 +116,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

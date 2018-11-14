@@ -1,10 +1,7 @@
 ---
-id: 3458
 title: 'Novidade: agenda cultural–São Paulo com crianças!'
-date: 2015-07-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/07/31/sao-paulo-com-criancas/
 permalink: /2015/07/31/sao-paulo-com-criancas/
 categories:
   - Sem categoria
@@ -26,18 +23,18 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/AGENDA-CULTURAL-AGOSTO-2015-SAO-PAULO-COM-CRIANCAS.jpg"><img class="alignnone size-full wp-image-11240" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/AGENDA-CULTURAL-AGOSTO-2015-SAO-PAULO-COM-CRIANCAS.jpg" alt="AGENDA CULTURAL-AGOSTO-2015-SAO PAULO COM CRIANCAS" width="800" height="603" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/AGENDA-CULTURAL-AGOSTO-2015-SAO-PAULO-COM-CRIANCAS.jpg"><img class="alignnone size-full wp-image-11240" src="https://www.trololodemulher.com.br/2015/07/AGENDA-CULTURAL-AGOSTO-2015-SAO-PAULO-COM-CRIANCAS.jpg" alt="AGENDA CULTURAL-AGOSTO-2015-SAO PAULO COM CRIANCAS" width="800" height="603" /></a>
 </p>
 
 <p align="center">
-  Via <a href="https://www.flickr.com/photos/hectorlo/10080524546/" target="_blank">hectorlo</a><b> / </b><a href="http://foter.com/" target="_blank">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Via <a href="https://www.flickr.com/photos/hectorlo/10080524546/" target="_blank" rel="noopener noreferrer">hectorlo</a><b> / </b><a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND</a>
 </p>
 
-> **_“1 &#8211; Até dia 16 de agosto, a Rede Cinemark está com a quarta temporada da série “O Maravilhoso Mundo da Disney”. Os finais de semana ficarão mais animados com filmes como “A Bela e a Fera 3D”, “Carros 2”, “Branca de Neve e os Sete Anões”, entre outros. Os ingressos custam até R$ 12,00 e geralmente as seções são exibidas às 11h. Mais informações:_** <a href="http://www.cinemark.com.br/" target="_blank"><strong><em>CineMark</em></strong></a>
+> **_“1 &#8211; Até dia 16 de agosto, a Rede Cinemark está com a quarta temporada da série “O Maravilhoso Mundo da Disney”. Os finais de semana ficarão mais animados com filmes como “A Bela e a Fera 3D”, “Carros 2”, “Branca de Neve e os Sete Anões”, entre outros. Os ingressos custam até R$ 12,00 e geralmente as seções são exibidas às 11h. Mais informações:_** <a href="http://www.cinemark.com.br/" target="_blank" rel="noopener noreferrer"><strong><em>CineMark</em></strong></a>
 
 &nbsp;
 
-> **_2 &#8211; Com entrada gratuita, o Teatro Sergio Cardoso tem apresentações infantis todos os domingos do mês de Agosto, às 11h da manhã. Mais informações:_** <a href="http://teatrosergiocardoso.org.br/teatro-comvida/" target="_blank"><strong><em>Teatro Sérgio Cardoso</em></strong></a>
+> **_2 &#8211; Com entrada gratuita, o Teatro Sergio Cardoso tem apresentações infantis todos os domingos do mês de Agosto, às 11h da manhã. Mais informações:_** <a href="http://teatrosergiocardoso.org.br/teatro-comvida/" target="_blank" rel="noopener noreferrer"><strong><em>Teatro Sérgio Cardoso</em></strong></a>
 
 > **_02 de agosto – “Arruaça” – Circo Vox_**
 
@@ -51,7 +48,7 @@ categories:
 
 &nbsp;
 
-> **_3 &#8211; Já no Parque Villa Lobos, contos e brincadeiras tomam conta do mês. São diversas atividades para as crianças se divertirem. Selecionamos algumas aqui, mais informações:_** <a href="http://www.bvl.org.br/confira-o-que-rola-em-agosto-na-bvl/" target="_blank"><strong><em>Biblioteca Parque Villa-Lobos</em></strong></a>
+> **_3 &#8211; Já no Parque Villa Lobos, contos e brincadeiras tomam conta do mês. São diversas atividades para as crianças se divertirem. Selecionamos algumas aqui, mais informações:_** <a href="http://www.bvl.org.br/confira-o-que-rola-em-agosto-na-bvl/" target="_blank" rel="noopener noreferrer"><strong><em>Biblioteca Parque Villa-Lobos</em></strong></a>
 
 > **_Sextas-feiras, às 15h e sábados e domingos, às 16h – A hora do conto (contação de histórias da literatura infantojuvenil para as crianças)_** 
 
@@ -66,19 +63,19 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ADRIANA-MINHOTO.png"><img class="alignnone size-full wp-image-10378" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ADRIANA-MINHOTO.png" alt="ADRIANA MINHOTO" width="800" height="227" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/ADRIANA-MINHOTO.png"><img class="alignnone size-full wp-image-10378" src="https://www.trololodemulher.com.br/2014/09/ADRIANA-MINHOTO.png" alt="ADRIANA MINHOTO" width="800" height="227" /></a>
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai! Ah! O<strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank" rel="noopener noreferrer">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank" rel="noopener noreferrer">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer">clicar aqui e se jogar</a>! Vai! Ah! O<strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank" rel="noopener noreferrer">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

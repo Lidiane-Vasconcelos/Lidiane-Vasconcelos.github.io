@@ -1,10 +1,7 @@
 ---
-id: 3308
 title: 'Empreendedorismo feminino: o que é mais importante?'
-date: 2014-06-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/06/13/empreendedorismo-feminino-2/
 permalink: /2014/06/13/empreendedorismo-feminino-2/
 categories:
   - Empreendedorismo Feminino
@@ -52,11 +49,11 @@ categories:
 > </p>
 > 
 > <p align="justify">
->   <strong><a href="http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/" target="_blank">O que faz uma mãe decidir pelo trabalho autônomo?</a></strong>
+>   <strong><a href="http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/" target="_blank" rel="noopener noreferrer">O que faz uma mãe decidir pelo trabalho autônomo?</a></strong>
 > </p>
 > 
 > <p align="justify">
->   <strong><a href="http://www.trololodemulher.com.br/2012/06/15/trabalhar-sem-sair-da-casa/" target="_blank">Quer trabalhar sem sair de casa? Abre uma loja na Divitae!</a></strong>
+>   <strong><a href="http://www.trololodemulher.com.br/2012/06/15/trabalhar-sem-sair-da-casa/" target="_blank" rel="noopener noreferrer">Quer trabalhar sem sair de casa? Abre uma loja na Divitae!</a></strong>
 > </p>
 
 &nbsp;
@@ -76,7 +73,7 @@ categories:
 > </p>
 > 
 > <p align="justify">
->   <strong><a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/" target="_blank">O talento na cozinha pode mesmo virar uma fonte de renda?</a></strong>
+>   <strong><a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/" target="_blank" rel="noopener noreferrer">O talento na cozinha pode mesmo virar uma fonte de renda?</a></strong>
 > </p>
 
 &nbsp;
@@ -108,15 +105,15 @@ categories:
 > </p>
 > 
 > <p align="justify">
->   <strong><a href="http://www.trololodemulher.com.br/2013/08/16/margaret-empreendedorismo/" target="_blank">Qual o mistério do sucesso de Margaret?</a></strong>
+>   <strong><a href="http://www.trololodemulher.com.br/2013/08/16/margaret-empreendedorismo/" target="_blank" rel="noopener noreferrer">Qual o mistério do sucesso de Margaret?</a></strong>
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/EMPREENDEDORISMO-ARTESANATO.jpg"><img class="alignnone size-full wp-image-10113" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/EMPREENDEDORISMO-ARTESANATO.jpg" alt="EMPREENDEDORISMO - ARTESANATO" width="600" height="564" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/06/EMPREENDEDORISMO-ARTESANATO.jpg"><img class="alignnone size-full wp-image-10113" src="https://www.trololodemulher.com.br/2014/06/EMPREENDEDORISMO-ARTESANATO.jpg" alt="EMPREENDEDORISMO - ARTESANATO" width="600" height="564" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
+  Imagem: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">free images</a>
 </p>
 
 &nbsp;
@@ -150,7 +147,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   <strong><a href="http://www.joludwig.com.br/" target="_blank">Minha consultoria</a> é bem personalizada. O primeiro passo é responder um questionário sobre o negócio com muitas perguntas. Não existe resposta certa! É interessante que o artesão responda a partir de sua experiência e pesquisas. E é mais interessante ainda que durante o preenchimento desse questionário, muita gente já começa a ter várias ideias e insights sobre o negócio. Depois, o artesão me devolve o questionário respondido e eu monto um &#8220;roteiro&#8221; de ações. Nele, eu passo vários conceitos, ideias e informações e, juntos nós criamos um &#8220;plano de ações&#8221;. Cada etapa tem um prazo para ser realizada, dentro das possibilidades do artesão, e pode ir desde a organização do tempo e do espaço do ateliê, até a parte de divulgação, como cobrar as peças, terceirização&#8230; Tudo o que for necessário para cada negócio. Depois disso faço um acompanhamento. Estou sempre disponível para que o artesão possa pedir mais informações ou tirar dúvidas, e a cada etapa realizada, marcamos uma reunião de acompanhamento. É bem legal! Bem personalizado! E serve para tornar o negócio mais profissional. Fora isso também trabalho criando identidade visual, que vai desde as artes digitais para loja e material impresso, como também os conceitos de como se comunicar com o cliente. ”</strong>
+>   <strong><a href="http://www.joludwig.com.br/" target="_blank" rel="noopener noreferrer">Minha consultoria</a> é bem personalizada. O primeiro passo é responder um questionário sobre o negócio com muitas perguntas. Não existe resposta certa! É interessante que o artesão responda a partir de sua experiência e pesquisas. E é mais interessante ainda que durante o preenchimento desse questionário, muita gente já começa a ter várias ideias e insights sobre o negócio. Depois, o artesão me devolve o questionário respondido e eu monto um &#8220;roteiro&#8221; de ações. Nele, eu passo vários conceitos, ideias e informações e, juntos nós criamos um &#8220;plano de ações&#8221;. Cada etapa tem um prazo para ser realizada, dentro das possibilidades do artesão, e pode ir desde a organização do tempo e do espaço do ateliê, até a parte de divulgação, como cobrar as peças, terceirização&#8230; Tudo o que for necessário para cada negócio. Depois disso faço um acompanhamento. Estou sempre disponível para que o artesão possa pedir mais informações ou tirar dúvidas, e a cada etapa realizada, marcamos uma reunião de acompanhamento. É bem legal! Bem personalizado! E serve para tornar o negócio mais profissional. Fora isso também trabalho criando identidade visual, que vai desde as artes digitais para loja e material impresso, como também os conceitos de como se comunicar com o cliente. ”</strong>
 > </p>
 
 &nbsp;
@@ -182,11 +179,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/12/12/empreendedorismo-feminino/" target="_blank">Empreendedorismo feminino: 3 mulheres contaram tudo!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/12/12/empreendedorismo-feminino/" target="_blank" rel="noopener noreferrer">Empreendedorismo feminino: 3 mulheres contaram tudo!</a></strong>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

@@ -1,10 +1,7 @@
 ---
-id: 3394
 title: É Carnaval… la laiá…
-date: 2015-02-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/02/13/e-carnaval-la-laia/
 permalink: /2015/02/13/e-carnaval-la-laia/
 categories:
   - Trololó
@@ -26,11 +23,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/CARNAVAL-CARNAVAL-2015.jpg"><img class="alignnone size-full wp-image-10759" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/CARNAVAL-CARNAVAL-2015.jpg" alt="CARNAVAL-CARNAVAL 2015" width="600" height="588" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/CARNAVAL-CARNAVAL-2015.jpg"><img class="alignnone size-full wp-image-10759" src="https://www.trololodemulher.com.br/2015/01/CARNAVAL-CARNAVAL-2015.jpg" alt="CARNAVAL-CARNAVAL 2015" width="600" height="588" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.carlosmeirailustrador.blogspot.com.br/" target="_blank">Carlos Meira</a>
+  Imagem: <a href="http://www.carlosmeirailustrador.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Carlos Meira</a>
 </p>
 
 <p align="justify">
@@ -46,5 +43,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

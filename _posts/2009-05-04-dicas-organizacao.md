@@ -1,15 +1,12 @@
 ---
-id: 2655
 title: Mais algumas dicas de organização…
-date: 2009-05-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/05/04/dicas-organizacao/
 permalink: /2009/05/04/dicas-organizacao/
 categories:
   - Organização
 ---
-Melhorar a **_organização_** em **_casa_** nunca é demais, certo? Pois bem, cá estamos no Bicha com uma listinha de dicas sobre **_organização_** que, para muitas, podem parecer óbvias, mas para outras nem tanto assim.[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/clip-image00111.gif)
+Melhorar a **_organização_** em **_casa_** nunca é demais, certo? Pois bem, cá estamos no Bicha com uma listinha de dicas sobre **_organização_** que, para muitas, podem parecer óbvias, mas para outras nem tanto assim.[](https://www.trololodemulher.com.br/2009/05/clip-image00111.gif)
 
 Não sou _expert_ em organização, certo? Nem tenho essa pretensão. Esse _blog_ nada mais é que um recurso para eu aprender e me tornar uma diva do lar um pouquinho mais digna, essa é que é a verdade…
 
@@ -31,19 +28,19 @@ Vamos ver o que mais podemos aprender (juntas) hoje? Então, ser organizada é�
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="http://www.marthastewart.com/" src="http://images.marthastewart.com/images/content/pub/special_issues/2005/a100272_gt05_shelves_l.jpg" alt="http://www.marthastewart.com/" />
 </p>
 
-…usar cestas e caixas para colocar ordem na bagunça do armário. Das caixas e cestos sou fã _meesmo_. Fica tudo bonitinho e no lugar. <span style="color: #800080;">Alguém aí ainda resiste a esse recurso de organização, “<em>pelamor</em>”???<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/clip-image0015.gif"><img style="display: inline;" title="clip_image001[5]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/clip-image0015-thumb.gif" alt="clip_image001[5]" width="20" height="18" /></a></span>
+…usar cestas e caixas para colocar ordem na bagunça do armário. Das caixas e cestos sou fã _meesmo_. Fica tudo bonitinho e no lugar. <span style="color: #800080;">Alguém aí ainda resiste a esse recurso de organização, “<em>pelamor</em>”???<a href="https://www.trololodemulher.com.br/2009/05/clip-image0015.gif"><img style="display: inline;" title="clip_image001[5]" src="https://www.trololodemulher.com.br/2009/05/clip-image0015-thumb.gif" alt="clip_image001[5]" width="20" height="18" /></a></span>
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="http://www.marthastewart.com/" src="http://images.marthastewart.com/images/content/web/goodthings/gt069_towelhold01_l.jpg" alt="http://www.marthastewart.com/" />
 </p>
 
-…usar puxadores cheios de estilo para cumprir a função de ganchos organizadores, ou os próprios ganchos criados para cumprir esse papel. As minhas roupas e as do marido jogadas no _closet_ serviram de alerta para a necessidade deles, e esse tipo de bagunça agora é coisa do passado. Essas _pecinhas_ são ótimas no _closet_, na porta do guarda-roupas para prender cintos (por exemplo), na porta do quarto ou do banheiro, e ainda na lavanderia para segurar um paninho aqui ou outro ali.[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/clip-image0017.gif)
+…usar puxadores cheios de estilo para cumprir a função de ganchos organizadores, ou os próprios ganchos criados para cumprir esse papel. As minhas roupas e as do marido jogadas no _closet_ serviram de alerta para a necessidade deles, e esse tipo de bagunça agora é coisa do passado. Essas _pecinhas_ são ótimas no _closet_, na porta do guarda-roupas para prender cintos (por exemplo), na porta do quarto ou do banheiro, e ainda na lavanderia para segurar um paninho aqui ou outro ali.[](https://www.trololodemulher.com.br/2009/05/clip-image0017.gif)
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="http://www.marthastewart.com/" src="http://images.marthastewart.com/images/content/pub/ms_living/2006Q1/0106_msl_organizer06_xl.jpg" alt="http://www.marthastewart.com/" />
 </p>
 
-…considerar a possibilidade de ter um armário na lavanderia onde possa guardar tudo, e bem _organizadinho_. Ainda não tenho uma _belezura_ dessas aqui em casa, mas “diz a lenda” que um belo dia ela (a lavanderia) vai ficar “tinindo” assim, desse _jeitinho_. Ah, vai![](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/clip-image0019.gif)
+…considerar a possibilidade de ter um armário na lavanderia onde possa guardar tudo, e bem _organizadinho_. Ainda não tenho uma _belezura_ dessas aqui em casa, mas “diz a lenda” que um belo dia ela (a lavanderia) vai ficar “tinindo” assim, desse _jeitinho_. Ah, vai![](https://www.trololodemulher.com.br/2009/05/clip-image0019.gif)
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="http://www.marthastewart.com/" src="http://images.marthastewart.com/images/content/pub/ms_living/2006Q1/0106_msl_organizer02_xl.jpg" alt="http://www.marthastewart.com/" />
@@ -51,7 +48,7 @@ Vamos ver o que mais podemos aprender (juntas) hoje? Então, ser organizada é�
 
 …fazer um esforço diário para manter o closet ou guarda-roupas com tudo no seu devido lugar. Se possível, é bacana ter cabides iguais ou _beeeem_ parecidos para a organização ficar com um aspecto melhor ainda.
 
-Também na hora de pendurar as roupas, colocá-los (os cabides) com o ganchos virados para o lado “de lá” (como na foto) a fim de facilitar na hora de retirá-los. Precisa ainda falar nas caixas como “o pulo do gato” na organização? [](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/clip-image0012.gif)
+Também na hora de pendurar as roupas, colocá-los (os cabides) com o ganchos virados para o lado “de lá” (como na foto) a fim de facilitar na hora de retirá-los. Precisa ainda falar nas caixas como “o pulo do gato” na organização? [](https://www.trololodemulher.com.br/2009/05/clip-image0012.gif)
 
 <p style="text-align: center;">
    <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="http://www.marthastewart.com/" src="http://images.marthastewart.com/images/content/pub/ms_living/2004Q4/a100925_1004_remotecontrolc_l.jpg" alt="http://www.marthastewart.com/" />
@@ -59,7 +56,7 @@ Também na hora de pendurar as roupas, colocá-los (os cabides) com o ganchos vi
 
 …escolher uma caixa, um cesto ou qualquer outro recipiente que possa servir para organizar os seus controles.
 
-Imagens: <a href="http://www.marthastewart.com/" target="_blank">Martha Stewart</a>
+Imagens: <a href="http://www.marthastewart.com/" target="_blank" rel="noopener noreferrer">Martha Stewart</a>
 
 <span style="color: #800080;">Diz aí, bonita, você tem alguma dica legal para compartilhar e ilustrar o que seria ser uma pessoa organizada?</span>
 

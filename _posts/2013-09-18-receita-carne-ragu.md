@@ -1,10 +1,7 @@
 ---
-id: 3262
 title: …da delícia que é o Ragu Apressadinho…
-date: 2013-09-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/09/18/receita-carne-ragu/
 permalink: /2013/09/18/receita-carne-ragu/
 categories:
   - Receitas
@@ -14,7 +11,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Escrevi esse comentário no blog da Ju, o <a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a>, em 24/10/2012. De lá para cá, perdi a conta de quantas vezes reproduzi essa gostosura aqui em casa. A razão por que repeti tanto? Espia no post a receita da Ju. Repara como ela ensina e faz tudo ficar fácil. Sou fã dessa bonita, e não é de hoje… desconfio que você ficará também, oh:
+  Escrevi esse comentário no blog da Ju, o <a href="http://www.pitadinha.com/" target="_blank" rel="noopener noreferrer">Pitadinha</a>, em 24/10/2012. De lá para cá, perdi a conta de quantas vezes reproduzi essa gostosura aqui em casa. A razão por que repeti tanto? Espia no post a receita da Ju. Repara como ela ensina e faz tudo ficar fácil. Sou fã dessa bonita, e não é de hoje… desconfio que você ficará também, oh:
 </p>
 
 <!--more-->
@@ -36,7 +33,7 @@ Agora pense na situação, eu também estava grávida quando dei de cara com ess
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/RECEITA-CARNE-RAGU-APRESSADINHO-JULIANA-STELLI-PITADINHA.jpg"><img class="alignnone size-full wp-image-9779" alt="RECEITA-CARNE-RAGU-APRESSADINHO-JULIANA STELLI-PITADINHA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/RECEITA-CARNE-RAGU-APRESSADINHO-JULIANA-STELLI-PITADINHA.jpg" width="600" height="450" /></a><br /> Imagem: Juliana Stelli, do<strong> <a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a></strong>.
+  <a href="https://www.trololodemulher.com.br/2013/09/RECEITA-CARNE-RAGU-APRESSADINHO-JULIANA-STELLI-PITADINHA.jpg"><img class="alignnone size-full wp-image-9779" alt="RECEITA-CARNE-RAGU-APRESSADINHO-JULIANA STELLI-PITADINHA" src="https://www.trololodemulher.com.br/2013/09/RECEITA-CARNE-RAGU-APRESSADINHO-JULIANA-STELLI-PITADINHA.jpg" width="600" height="450" /></a><br /> Imagem: Juliana Stelli, do<strong> <a href="http://www.pitadinha.com/" target="_blank" rel="noopener noreferrer">Pitadinha</a></strong>.
 </p>
 
 <p align="justify">
@@ -67,13 +64,13 @@ Agora pense na situação, eu também estava grávida quando dei de cara com ess
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/JULIANA-STELLI.png"><img class="alignnone size-full wp-image-9048" alt="JULIANA STELLI" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/JULIANA-STELLI.png" width="539" height="288" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/08/JULIANA-STELLI.png"><img class="alignnone size-full wp-image-9048" alt="JULIANA STELLI" src="https://www.trololodemulher.com.br/2012/08/JULIANA-STELLI.png" width="539" height="288" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Olha só, posso falar? Eu acho, <em>comtodaforçadomeuser,</em> que você realmente deveria conhecer o <a href="http://www.pitadinha.com/" target="_blank"><strong>Pitadinha</strong></a> da<strong>Juliana</strong>, viu? Garanto que a surpresa vai ser das melhores, e logo você vai querer voltar lá sempre que a moça fizer as atualizações. Vai por mim, bonita, <strong><a href="http://www.pitadinha.com/" target="_blank">clica aqui</a></strong> e se joga!
+  Olha só, posso falar? Eu acho, <em>comtodaforçadomeuser,</em> que você realmente deveria conhecer o <a href="http://www.pitadinha.com/" target="_blank" rel="noopener noreferrer"><strong>Pitadinha</strong></a> da<strong>Juliana</strong>, viu? Garanto que a surpresa vai ser das melhores, e logo você vai querer voltar lá sempre que a moça fizer as atualizações. Vai por mim, bonita, <strong><a href="http://www.pitadinha.com/" target="_blank" rel="noopener noreferrer">clica aqui</a></strong> e se joga!
 </p>
 
 &nbsp;
@@ -101,7 +98,7 @@ Agora pense na situação, eu também estava grávida quando dei de cara com ess
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -118,13 +115,13 @@ Agora pense na situação, eu também estava grávida quando dei de cara com ess
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

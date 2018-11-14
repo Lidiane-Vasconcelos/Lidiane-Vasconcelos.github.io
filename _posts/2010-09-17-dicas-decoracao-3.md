@@ -1,10 +1,7 @@
 ---
-id: 2875
 title: +3 dúvidas sobre decoração solucionadas no Bicha Fêmea…
-date: 2010-09-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/09/17/dicas-decoracao-3/
 permalink: /2010/09/17/dicas-decoracao-3/
 categories:
   - Dicas de Decoração
@@ -12,7 +9,7 @@ categories:
 Isso mesmo! Você lembra das <a href="http://www.trololodemulher.com.br/2010/09/08/dicas-decoracao-2/" target="_self"><strong><em>3 dúvidas de decoração, enviadas por leitoras, que foram solucionadas</em></strong> </a>anteriormente? Pois muito bem, este post é para resolver, com dicas práticas, novas dúvidas do universo decorativo.
 
 <p style="text-align: justify;">
-  Quem presta a consultoria no Bicha Fêmea desta vez? Oras! A Letícia Lodi, ou Lelê, para quem acompanha de perto a Arquiteta que comanda o <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>. Quer ver as dúvidas e dicas? Olha só…
+  Quem presta a consultoria no Bicha Fêmea desta vez? Oras! A Letícia Lodi, ou Lelê, para quem acompanha de perto a Arquiteta que comanda o <a href="http://blog.casadecatarina.com.br/" target="_blank" rel="noopener noreferrer">Casa de Catarina</a>. Quer ver as dúvidas e dicas? Olha só…
 </p>
 
 <!--more-->
@@ -30,21 +27,21 @@ Isso mesmo! Você lembra das <a href="http://www.trololodemulher.com.br/2010/09/
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/sala-de-jantar-despojada.jpg"><img class="alignnone size-medium wp-image-5189" title="sala de jantar despojada" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/sala-de-jantar-despojada-300x289.jpg" alt="" width="300" height="289" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/sala-de-jantar-despojada.jpg"><img class="alignnone size-medium wp-image-5189" title="sala de jantar despojada" src="https://www.trololodemulher.com.br/2010/09/sala-de-jantar-despojada-300x289.jpg" alt="" width="300" height="289" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://beto-nana.blogspot.com/" target="_blank"><em>Casa da Nana</em></a>
+  <a href="http://beto-nana.blogspot.com/" target="_blank" rel="noopener noreferrer"><em>Casa da Nana</em></a>
 </p>
 
 > _“Quando temos um ambiente totalmente despojado e livre. As cadeiras obedecem um só padrão: a mesma cor. Os estilos são bem diferentes e bem informais. É o &#8220;calculadamente desarrumado&#8221;. Fica lindo, charmoso e muito pessoal.”_
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/sala-de-jantar-classica.jpg"><img class="alignnone size-medium wp-image-5188" title="sala de jantar clássica" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/sala-de-jantar-classica-206x300.jpg" alt="" width="206" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/sala-de-jantar-classica.jpg"><img class="alignnone size-medium wp-image-5188" title="sala de jantar clássica" src="https://www.trololodemulher.com.br/2010/09/sala-de-jantar-classica-206x300.jpg" alt="" width="206" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
-  <em>Foto da capa da revista holandesa More than classic, via </em><a href="http://www.ohsojolly.com/" target="_blank"><em>Oh So Jolly</em></a>
+  <em>Foto da capa da revista holandesa More than classic, via </em><a href="http://www.ohsojolly.com/" target="_blank" rel="noopener noreferrer"><em>Oh So Jolly</em></a>
 </p>
 
 > _“Quando usamos as cadeiras de cabeceira para marcar um pouco a posição. Isso acontece neste ambiente de sala de jantar e ele é bem mais formal. Também gosto muito deste ambiente. Veja, o encosto é mais alto e os pés são mais detalhados._
@@ -62,11 +59,11 @@ Isso mesmo! Você lembra das <a href="http://www.trololodemulher.com.br/2010/09/
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/bergere-na-decoracao.jpg"><img class="alignnone size-medium wp-image-5186" title="bergére na decoração" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/bergere-na-decoracao-300x225.jpg" alt="" width="300" height="225" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/bergere-na-decoracao.jpg"><img class="alignnone size-medium wp-image-5186" title="bergére na decoração" src="https://www.trololodemulher.com.br/2010/09/bergere-na-decoracao-300x225.jpg" alt="" width="300" height="225" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.maximainteriores.xl.pt/" target="_blank"><em>máximaINTERIORES</em></a>
+  <a href="http://www.maximainteriores.xl.pt/" target="_blank" rel="noopener noreferrer"><em>máximaINTERIORES</em></a>
 </p>
 
 > “_Todos pensam em uma bergére como um móvel extremamente conservador, não? Eu mesma tenho 3 em casa (vou reformá-los em breve e &#8220;tirar o ar conservador&#8221;). Quer usá-lo em um ambiente com mix de estilos? Veja este exemplo: usaram uma bergére azul, linda com outros sofás mais contemporâneos. O sofá no lado oposto com o mesmo tecido ficou também lindo. Para mim, são como cerejas no bolo, sabe? É um detalhe bonito para quebrar o ambiente.”_
@@ -84,11 +81,11 @@ Isso mesmo! Você lembra das <a href="http://www.trololodemulher.com.br/2010/09/
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/sala-de-estar.jpg"><img class="alignnone size-medium wp-image-5187" title="sala de estar" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/sala-de-estar-300x242.jpg" alt="" width="300" height="242" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/sala-de-estar.jpg"><img class="alignnone size-medium wp-image-5187" title="sala de estar" src="https://www.trololodemulher.com.br/2010/09/sala-de-estar-300x242.jpg" alt="" width="300" height="242" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://reginamaat.blogspot.com/" target="_blank"><em>Maat</em></a>
+  <a href="http://reginamaat.blogspot.com/" target="_blank" rel="noopener noreferrer"><em>Maat</em></a>
 </p>
 
 > _”A mistura de estilos é algo que pode ser feito, mas com bastante cuidado. É algo muito pessoal também. Eu, particularmente, prefiro escolher um estilo de base e inserir alguns toques em outro estilo. Por exemplo, o seu ponto de partida vai ser algo mais clean ou contemporâneo, a partir dele coloque algumas poucas peças em outro estilo mais conservador para quebrar. Sempre parta de um conceito e depois insira outras peças. Olhe o exemplo da foto: esta sala tem muitos elementos contemporâneos, com peças limpas, ortogonais (até mesmo o painel de fundo) e a partir dele inseriu poltronas em outro estilo para quebrar. Ficou muito harmonioso e bem mais aconchegante.”_
@@ -96,10 +93,10 @@ Isso mesmo! Você lembra das <a href="http://www.trololodemulher.com.br/2010/09/
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="133" valign="top">
-      <a href="http://www.sxc.hu/" target="_blank"></p> 
+      <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"></p> 
       
       <p style="text-align: center;">
-        <img class="size-medium wp-image-5185  alignright" title="flores" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/flores-225x300.jpg" alt="" width="225" height="300" />
+        <img class="size-medium wp-image-5185  alignright" title="flores" src="https://www.trololodemulher.com.br/2010/09/flores-225x300.jpg" alt="" width="225" height="300" />
       </p>
       
       <p style="text-align: center;">
@@ -180,7 +177,7 @@ Isso mesmo! Você lembra das <a href="http://www.trololodemulher.com.br/2010/09/
         </p>
         
         <p style="text-align: center;">
-          <strong><em>Navegue no Bicha Fêmea: <a href="http://www.trololodemulher.com.br/" target="_self">Início</a> > <a href="http://www.trololodemulher.com.br/casaedecoracao/" target="_blank">Casa & Decoração </a>> <a href="http://www.trololodemulher.com.br/category/decoracao/" target="_self">Decoração</a> > +3 dúvidas sobre decoração solucionadas no Bicha Fêmea…</em></strong>
+          <strong><em>Navegue no Bicha Fêmea: <a href="http://www.trololodemulher.com.br/" target="_self">Início</a> > <a href="http://www.trololodemulher.com.br/casaedecoracao/" target="_blank" rel="noopener noreferrer">Casa & Decoração </a>> <a href="http://www.trololodemulher.com.br/category/decoracao/" target="_self">Decoração</a> > +3 dúvidas sobre decoração solucionadas no Bicha Fêmea…</em></strong>
         </p>
         
         <p style="text-align: center;">

@@ -1,10 +1,7 @@
 ---
-id: 2601
 title: Dicas e estratégias em decoração.
-date: 2009-01-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/01/09/dicas-decoracao/
 permalink: /2009/01/09/dicas-decoracao/
 categories:
   - Dicas de Decoração
@@ -15,7 +12,7 @@ Entretanto, não é por isso que fico alheia ás dicas preciosas dos especialist
 
 Pensando nisso é que estava lendo algumas dicas bacanas para aplicar na hora de arrumar a casa e resolvi compartilhar aqui. Dei destaque a algumas, e creio que elas sirvam para todas nós&#8230;
 
-As orientações foram elaboradas numa reportagem da Simone Quintas e Thaís Lauton, e foram publicadas no site da <a href="http://revistacasaejardim.globo.com/" target="_blank">Casa e Jardim</a>. Para você conhecer muito mais sobre a matéria que inspirou esse post e eleger suas dicas preferidas, basta clicar <a href="http://revistacasaejardim.globo.com/Casaejardim/0,25928,EJE1682670-2186-6,00.html" target="_blank">aqui, ó</a>!
+As orientações foram elaboradas numa reportagem da Simone Quintas e Thaís Lauton, e foram publicadas no site da <a href="http://revistacasaejardim.globo.com/" target="_blank" rel="noopener noreferrer">Casa e Jardim</a>. Para você conhecer muito mais sobre a matéria que inspirou esse post e eleger suas dicas preferidas, basta clicar <a href="http://revistacasaejardim.globo.com/Casaejardim/0,25928,EJE1682670-2186-6,00.html" target="_blank" rel="noopener noreferrer">aqui, ó</a>!
 
 Sobre a disposição de objetos numa **mesa de centro**, por exemplo, sempre há muita dúvida, não é verdade? A orientação dada nas dicas publicadas na matéria dão conta de que &#8220;_tem de haver **simetria e volumetria**_&#8220;, segundo Consuelo Jorge. Para a mesa de centro, a sugestão é usar &#8220;_**peças baixas**. &#8216;Pode ser um vaso baixo com uma orquídea, uns livros de arte, duas caixinhas de couro ou madrepérola&#8230; &#8220;_
 

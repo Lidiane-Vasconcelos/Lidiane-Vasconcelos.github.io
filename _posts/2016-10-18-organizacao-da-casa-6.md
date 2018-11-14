@@ -1,32 +1,29 @@
 ---
-id: 3688
 title: '5º post da série para organização da casa: quarto infantil.'
-date: 2016-10-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/10/18/organizacao-da-casa-6/
 permalink: /2016/10/18/organizacao-da-casa-6/
 categories:
   - Organização
 ---
 <p align="justify">
-  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a <strong>organização da casa</strong>, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts, que já teve <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/" target="_blank">o primeiro deles sobre home office</a>, o <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank">segundo sobre a cozinha</a>, o <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank">terceiro sobre penteadeira</a>, e <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank">o quarto sobre o closet</a>, é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
+  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a <strong>organização da casa</strong>, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts, que já teve <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/" target="_blank" rel="noopener noreferrer">o primeiro deles sobre home office</a>, o <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank" rel="noopener noreferrer">segundo sobre a cozinha</a>, o <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank" rel="noopener noreferrer">terceiro sobre penteadeira</a>, e <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank" rel="noopener noreferrer">o quarto sobre o closet</a>, é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
 </p>
 
 <p align="justify">
   O <strong>Trololó de Mulher</strong> teve o privilégio de receber dicas preciosas de <strong><em>Personal Organizers</em></strong> queridas. Cada uma delas preparou orientações valiosíssimas acerca dos diferentes cômodos da casa, e o resultado é que teremos uma série de posts por aqui pra deixar a casa nos conformes. O de hoje é o <strong>post Nº5</strong>, será sobre <strong>o <em>quarto infantil.  </em></strong>A <em>expert</em> que aponta como colocar ordem nesse espaço da casa é a <strong>Ana Avelar, do Rio de Janeiro – RJ. </strong>Confira!
 </p>
 
-Não deixe de conferir **o primeiro post da série**: <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/" target="_blank">clique aqui e veja como deixar seu home office em ordem</a>!
+Não deixe de conferir **o primeiro post da série**: <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/" target="_blank" rel="noopener noreferrer">clique aqui e veja como deixar seu home office em ordem</a>!
 
-O **segundo post da série** também está imperdível: <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank">clique aqui e veja como deixar sua cozinha um brinco</a>!
+O **segundo post da série** também está imperdível: <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank" rel="noopener noreferrer">clique aqui e veja como deixar sua cozinha um brinco</a>!
 
-O **terceiro** está cheio de dicas muito úteis: <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank">clique aqui e veja como deixar sua penteadeira linda de viver</a>!
+O **terceiro** está cheio de dicas muito úteis: <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank" rel="noopener noreferrer">clique aqui e veja como deixar sua penteadeira linda de viver</a>!
 
-O **quarto** está repleto de estratégias muito úteis: <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank">clique aqui e veja como organizar o seu closet.</a>
+O **quarto** está repleto de estratégias muito úteis: <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank" rel="noopener noreferrer">clique aqui e veja como organizar o seu closet.</a>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13167" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/CASA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA-QUARTO-INFANTIL2.jpg" alt="casa-organizacao-organizacao-da-casa-quarto-infantil2" width="800" height="730" />
+  <img class="alignnone size-full wp-image-13167" src="https://www.trololodemulher.com.br/2016/10/CASA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA-QUARTO-INFANTIL2.jpg" alt="casa-organizacao-organizacao-da-casa-quarto-infantil2" width="800" height="730" />
 </p>
 
 <p align="center">
@@ -58,7 +55,7 @@ O **quarto** está repleto de estratégias muito úteis: <a href="http://www.tro
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13164" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/CASA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA-QUARTO-INFANTIL-BRINQUEDOS2-1.jpg" alt="casa-organizacao-organizacao-da-casa-quarto-infantil-brinquedos2" width="377" height="258" />
+  <img class="alignnone size-full wp-image-13164" src="https://www.trololodemulher.com.br/2016/10/CASA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA-QUARTO-INFANTIL-BRINQUEDOS2-1.jpg" alt="casa-organizacao-organizacao-da-casa-quarto-infantil-brinquedos2" width="377" height="258" />
 </p>
 
 <p align="center">
@@ -70,7 +67,7 @@ O **quarto** está repleto de estratégias muito úteis: <a href="http://www.tro
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13125" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/CASA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA-QUARTO-INFANTIL-BRINQUEDOS2.jpg" alt="casa-organizacao-organizacao-da-casa-quarto-infantil-brinquedos2" width="550" height="746" />
+  <img class="alignnone size-full wp-image-13125" src="https://www.trololodemulher.com.br/2016/10/CASA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA-QUARTO-INFANTIL-BRINQUEDOS2.jpg" alt="casa-organizacao-organizacao-da-casa-quarto-infantil-brinquedos2" width="550" height="746" />
 </p>
 
 <p align="center">
@@ -90,7 +87,7 @@ O **quarto** está repleto de estratégias muito úteis: <a href="http://www.tro
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13126" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/CASA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA-QUARTO-INFANTIL-CANTINHO-DESENHOS.jpg" alt="casa-organizacao-organizacao-da-casa-quarto-infantil-cantinho-desenhos" width="552" height="828" />
+  <img class="alignnone size-full wp-image-13126" src="https://www.trololodemulher.com.br/2016/10/CASA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA-QUARTO-INFANTIL-CANTINHO-DESENHOS.jpg" alt="casa-organizacao-organizacao-da-casa-quarto-infantil-cantinho-desenhos" width="552" height="828" />
 </p>
 
 <p align="center">
@@ -106,11 +103,11 @@ O **quarto** está repleto de estratégias muito úteis: <a href="http://www.tro
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/10/03/decoracao-infantil/" target="_blank">3 ideias para organizar os livros infantis e facilitar o acesso.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/10/03/decoracao-infantil/" target="_blank" rel="noopener noreferrer">3 ideias para organizar os livros infantis e facilitar o acesso.</a></strong>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13128" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/CASA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA-QUARTO-INFANTIL-LIVROS-INFANTIS.jpg" alt="casa-organizacao-organizacao-da-casa-quarto-infantil-livros-infantis" width="700" height="939" />
+  <img class="alignnone size-full wp-image-13128" src="https://www.trololodemulher.com.br/2016/10/CASA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA-QUARTO-INFANTIL-LIVROS-INFANTIS.jpg" alt="casa-organizacao-organizacao-da-casa-quarto-infantil-livros-infantis" width="700" height="939" />
 </p>
 
 <p align="center">
@@ -122,7 +119,7 @@ O **quarto** está repleto de estratégias muito úteis: <a href="http://www.tro
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13127" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/CASA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA-QUARTO-INFANTIL-GANCHOS.jpg" alt="casa-organizacao-organizacao-da-casa-quarto-infantil-ganchos" width="800" height="1072" />
+  <img class="alignnone size-full wp-image-13127" src="https://www.trololodemulher.com.br/2016/10/CASA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA-QUARTO-INFANTIL-GANCHOS.jpg" alt="casa-organizacao-organizacao-da-casa-quarto-infantil-ganchos" width="800" height="1072" />
 </p>
 
 <p align="center">
@@ -134,7 +131,7 @@ O **quarto** está repleto de estratégias muito úteis: <a href="http://www.tro
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13165" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/CASA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA-QUARTO-INFANTIL-ROUPAS2.jpg" alt="casa-organizacao-organizacao-da-casa-quarto-infantil-roupas2" width="715" height="545" />
+  <img class="alignnone size-full wp-image-13165" src="https://www.trololodemulher.com.br/2016/10/CASA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA-QUARTO-INFANTIL-ROUPAS2.jpg" alt="casa-organizacao-organizacao-da-casa-quarto-infantil-roupas2" width="715" height="545" />
 </p>
 
 <p align="center">
@@ -158,15 +155,15 @@ O **quarto** está repleto de estratégias muito úteis: <a href="http://www.tro
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13120" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/ANA-AVELAR-PERSONAL-ORGANIZER-RIO-DE-JANEIRO-RJ.jpg" alt="ana-avelar-personal-organizer-rio-de-janeiro-rj" width="800" height="152" />
+  <img class="alignnone size-full wp-image-13120" src="https://www.trololodemulher.com.br/2016/10/ANA-AVELAR-PERSONAL-ORGANIZER-RIO-DE-JANEIRO-RJ.jpg" alt="ana-avelar-personal-organizer-rio-de-janeiro-rj" width="800" height="152" />
 </p>
 
 <p align="justify">
-  Ana Avelar dispõe de vários serviços para ajudar a colocar a vida de suas clientes em ordem, nos mais diferentes aspectos. Para mais informações, <a href="http://www.avelarorganiza.com/" target="_blank">clique aqui e confira no site de Ana todas as informações que você precisa</a>. Se quiser falar com ela já, os contatos são:  <a href="mailto:avelarorganiza@hotmail.com">avelarorganiza@hotmail.com</a> | Celular: (21) 98810.6755. Ana tem fanpage no Facebook também, com dicas incríveis que vale a pena conferir e acompanhar. <a href="https://www.facebook.com/ORGPersonalOrganizer" target="_blank">Clique aqui, curta a página</a> e fique por dentro de tudo!
+  Ana Avelar dispõe de vários serviços para ajudar a colocar a vida de suas clientes em ordem, nos mais diferentes aspectos. Para mais informações, <a href="http://www.avelarorganiza.com/" target="_blank" rel="noopener noreferrer">clique aqui e confira no site de Ana todas as informações que você precisa</a>. Se quiser falar com ela já, os contatos são:  <a href="mailto:avelarorganiza@hotmail.com">avelarorganiza@hotmail.com</a> | Celular: (21) 98810.6755. Ana tem fanpage no Facebook também, com dicas incríveis que vale a pena conferir e acompanhar. <a href="https://www.facebook.com/ORGPersonalOrganizer" target="_blank" rel="noopener noreferrer">Clique aqui, curta a página</a> e fique por dentro de tudo!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

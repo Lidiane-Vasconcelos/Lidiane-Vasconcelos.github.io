@@ -1,10 +1,7 @@
 ---
-id: 3736
 title: Quando a vida recomeça aos 40, na idade da loba…
-date: 2017-03-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/03/10/idade-da-loba/
 permalink: /2017/03/10/idade-da-loba/
 categories:
   - Comportamento
@@ -23,11 +20,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13588" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/COMPORTAMENTO-FEMININO-IDADE-DA-LOBA.jpg" alt="COMPORTAMENTO FEMININO-IDADE DA LOBA" width="800" height="536" />
+  <img class="alignnone size-full wp-image-13588" src="https://www.trololodemulher.com.br/2017/03/COMPORTAMENTO-FEMININO-IDADE-DA-LOBA.jpg" alt="COMPORTAMENTO FEMININO-IDADE DA LOBA" width="800" height="536" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/biggolf/2192225356/" target="_blank">·BigGolf·</a> via <a href="http://foter.com/re/6a88bd" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Imagem: <a href="https://www.flickr.com/photos/biggolf/2192225356/" target="_blank" rel="noopener noreferrer">·BigGolf·</a> via <a href="http://foter.com/re/6a88bd" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND</a>
 </p>
 
 <p align="center">
@@ -75,7 +72,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

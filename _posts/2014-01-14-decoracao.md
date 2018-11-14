@@ -1,10 +1,7 @@
 ---
-id: 3272
 title: 5 imagens que revelam ótimas dicas de decoração
-date: 2014-01-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/01/14/decoracao/
 permalink: /2014/01/14/decoracao/
 categories:
   - Dicas de Decoração
@@ -18,7 +15,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/DECORACAO-ESCRITÓRIO.png"><img class="alignnone size-full wp-image-9850" alt="DECORACAO - ESCRITÓRIO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/DECORACAO-ESCRITÓRIO.png" width="407" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/01/DECORACAO-ESCRITÓRIO.png"><img class="alignnone size-full wp-image-9850" alt="DECORACAO - ESCRITÓRIO" src="https://www.trololodemulher.com.br/2014/01/DECORACAO-ESCRITÓRIO.png" width="407" height="600" /></a>
 </p>
 
 <p align="center">
@@ -26,7 +23,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/DECORACAO-MESA-CABECEIRA.png"><img class="alignnone size-full wp-image-9851" alt="DECORACAO - MESA CABECEIRA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/DECORACAO-MESA-CABECEIRA.png" width="407" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/01/DECORACAO-MESA-CABECEIRA.png"><img class="alignnone size-full wp-image-9851" alt="DECORACAO - MESA CABECEIRA" src="https://www.trololodemulher.com.br/2014/01/DECORACAO-MESA-CABECEIRA.png" width="407" height="600" /></a>
 </p>
 
 <p align="center">
@@ -34,7 +31,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/DECORACAO-MESA-CENTRO.png"><img class="alignnone size-full wp-image-9852" alt="DECORACAO - MESA CENTRO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/DECORACAO-MESA-CENTRO.png" width="600" height="394" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/01/DECORACAO-MESA-CENTRO.png"><img class="alignnone size-full wp-image-9852" alt="DECORACAO - MESA CENTRO" src="https://www.trololodemulher.com.br/2014/01/DECORACAO-MESA-CENTRO.png" width="600" height="394" /></a>
 </p>
 
 <p align="center">
@@ -42,7 +39,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/DECORACAO-MESA-JANTAR.png"><img class="alignnone size-full wp-image-9855" alt="DECORACAO - MESA JANTAR" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/DECORACAO-MESA-JANTAR.png" width="401" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/01/DECORACAO-MESA-JANTAR.png"><img class="alignnone size-full wp-image-9855" alt="DECORACAO - MESA JANTAR" src="https://www.trololodemulher.com.br/2014/01/DECORACAO-MESA-JANTAR.png" width="401" height="600" /></a>
 </p>
 
 <p align="center">
@@ -50,7 +47,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/DECORACAO-SALA-TV.png"><img class="alignnone size-full wp-image-9856" alt="DECORACAO - SALA TV" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/DECORACAO-SALA-TV.png" width="600" height="392" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/01/DECORACAO-SALA-TV.png"><img class="alignnone size-full wp-image-9856" alt="DECORACAO - SALA TV" src="https://www.trololodemulher.com.br/2014/01/DECORACAO-SALA-TV.png" width="600" height="392" /></a>
 </p>
 
 <p align="center">
@@ -58,7 +55,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 </p>
 
 <p style="text-align: left;" align="center">
-  Imagens: <strong><em><a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Therapy</a></em></strong>
+  Imagens: <strong><em><a href="http://www.apartmenttherapy.com/" target="_blank" rel="noopener noreferrer">Apartment Therapy</a></em></strong>
 </p>
 
 <p align="center">
@@ -78,7 +75,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -95,13 +92,13 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -110,7 +107,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
+  <a href="https://www.facebook.com/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="https://www.trololodemulher.com.br/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
 </p>
 
 &nbsp;

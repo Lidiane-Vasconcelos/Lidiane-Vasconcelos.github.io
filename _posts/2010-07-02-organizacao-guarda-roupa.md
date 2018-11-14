@@ -1,10 +1,7 @@
 ---
-id: 2840
 title: 'Pitacos de bicha fêmea: organização do closet ou guarda-roupa.'
-date: 2010-07-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/07/02/organizacao-guarda-roupa/
 permalink: /2010/07/02/organizacao-guarda-roupa/
 categories:
   - Organização
@@ -41,7 +38,7 @@ Você está com seu **_guarda-roupas_** ou **_closet_** cheio de **_bagunça_**,
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/caixas-com-roupas-de-estacao.jpg"><img class="alignnone size-medium wp-image-4822" title="caixas com roupas de estação" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/caixas-com-roupas-de-estacao-252x300.jpg" alt="" width="252" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/caixas-com-roupas-de-estacao.jpg"><img class="alignnone size-medium wp-image-4822" title="caixas com roupas de estação" src="https://www.trololodemulher.com.br/2010/06/caixas-com-roupas-de-estacao-252x300.jpg" alt="" width="252" height="300" /></a>
     </td>
     
     <td>
@@ -72,18 +69,18 @@ Você está com seu **_guarda-roupas_** ou **_closet_** cheio de **_bagunça_**,
       </p>
       
       <p style="text-align: justify;">
-        <em>A <strong>Caixa Chita</strong> está a venda no Mercado de Artes do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-chita/" target="_blank">basta clicar</a></strong>!</em>
+        <em>A <strong>Caixa Chita</strong> está a venda no Mercado de Artes do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-chita/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
       </p>
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Chita200.jpg"><img class="alignnone size-full wp-image-5399" title="Caixa Chita200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Chita200.jpg" alt="" width="200" height="200" /></a> 
+      <a href="https://www.trololodemulher.com.br/2010/11/Caixa-Chita200.jpg"><img class="alignnone size-full wp-image-5399" title="Caixa Chita200" src="https://www.trololodemulher.com.br/2010/11/Caixa-Chita200.jpg" alt="" width="200" height="200" /></a> 
     </td>
   </tr>
   
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-       <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Redonda-Floral200.jpg"><img class="alignnone size-full wp-image-5400" title="Caixa Redonda Floral200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Redonda-Floral200.jpg" alt="" width="200" height="200" /></a>
+       <a href="https://www.trololodemulher.com.br/2010/11/Caixa-Redonda-Floral200.jpg"><img class="alignnone size-full wp-image-5400" title="Caixa Redonda Floral200" src="https://www.trololodemulher.com.br/2010/11/Caixa-Redonda-Floral200.jpg" alt="" width="200" height="200" /></a>
     </td>
     
     <td width="300" valign="top">
@@ -92,7 +89,7 @@ Você está com seu **_guarda-roupas_** ou **_closet_** cheio de **_bagunça_**,
       </p>
       
       <p style="text-align: justify;">
-        <em>A Caixa Redonda Floral está a venda no Mercado de Artes do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-floral/" target="_blank">basta clicar</a></strong>!</em>
+        <em>A Caixa Redonda Floral está a venda no Mercado de Artes do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-floral/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
       </p>
     </td>
   </tr>
@@ -109,7 +106,7 @@ Você está com seu **_guarda-roupas_** ou **_closet_** cheio de **_bagunça_**,
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/caixas-organizadoras-transparentes.jpg"><img class="alignnone size-medium wp-image-4823" title="caixas organizadoras transparentes" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/caixas-organizadoras-transparentes-252x300.jpg" alt="" width="252" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/caixas-organizadoras-transparentes.jpg"><img class="alignnone size-medium wp-image-4823" title="caixas organizadoras transparentes" src="https://www.trololodemulher.com.br/2010/06/caixas-organizadoras-transparentes-252x300.jpg" alt="" width="252" height="300" /></a>
     </td>
     
     <td>
@@ -131,7 +128,7 @@ Você está com seu **_guarda-roupas_** ou **_closet_** cheio de **_bagunça_**,
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/ganchos-para-bolsas.jpg"><img class="alignnone size-medium wp-image-4827" title="ganchos para bolsas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/ganchos-para-bolsas-252x300.jpg" alt="" width="252" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/ganchos-para-bolsas.jpg"><img class="alignnone size-medium wp-image-4827" title="ganchos para bolsas" src="https://www.trololodemulher.com.br/2010/06/ganchos-para-bolsas-252x300.jpg" alt="" width="252" height="300" /></a>
     </td>
     
     <td>
@@ -153,7 +150,7 @@ Você está com seu **_guarda-roupas_** ou **_closet_** cheio de **_bagunça_**,
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/closet-organizado.jpg"><img class="alignnone size-medium wp-image-4824" title="closet organizado" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/closet-organizado-252x300.jpg" alt="" width="252" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/closet-organizado.jpg"><img class="alignnone size-medium wp-image-4824" title="closet organizado" src="https://www.trololodemulher.com.br/2010/06/closet-organizado-252x300.jpg" alt="" width="252" height="300" /></a>
     </td>
     
     <td>
@@ -172,12 +169,12 @@ Você está com seu **_guarda-roupas_** ou **_closet_** cheio de **_bagunça_**,
   Mas, oh! Não sai daí porque daqui a pouco mais sugestões aparecerão nos comentários, <em>viu</em>?! O melhor do Bicha Fêmea acontece lá, e as bichas fêmeas navegantes são <em>experts</em> em <em>pitacos</em>. Duvida?
 </p>
 
-_Imagens:_ <a href="http://www.realsimple.com/" target="_blank"><em>Real Simple</em></a>
+_Imagens:_ <a href="http://www.realsimple.com/" target="_blank" rel="noopener noreferrer"><em>Real Simple</em></a>
 
 **As bichas fêmeas falam&#8230;**
 
 <p style="text-align: justify;">
-  <em>&#8220;&#8230;Meu marido é mais desorganizado, meu filho mais velho idem e o mais novo (20 anos) é super organizado. Os cabides dele são todos iguais, virados todos pra o mesmo lado, meias numa caixa que ele mesmo organizou e cuecas em outra. Então vou aproveitar para perguntar: existem caixas já prontas com separação pra gente colocar meias e cuecas? Onde tem?  Se você já postou alguma coisa sobre isso me fala?&#8221; Macá &#8211;<a href="http://www.agendailustrada.com/" target="_blank"> Agenda Ilustrada</a></em>
+  <em>&#8220;&#8230;Meu marido é mais desorganizado, meu filho mais velho idem e o mais novo (20 anos) é super organizado. Os cabides dele são todos iguais, virados todos pra o mesmo lado, meias numa caixa que ele mesmo organizou e cuecas em outra. Então vou aproveitar para perguntar: existem caixas já prontas com separação pra gente colocar meias e cuecas? Onde tem?  Se você já postou alguma coisa sobre isso me fala?&#8221; Macá &#8211;<a href="http://www.agendailustrada.com/" target="_blank" rel="noopener noreferrer"> Agenda Ilustrada</a></em>
 </p>
 
 <p style="text-align: justify;">
@@ -193,21 +190,21 @@ _Imagens:_ <a href="http://www.realsimple.com/" target="_blank"><em>Real Simple<
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/como-organizar-calcinhas.jpg"><img class="size-medium wp-image-4862   aligncenter" title="como organizar calcinhas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/como-organizar-calcinhas-300x128.jpg" alt="" width="300" height="128" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/como-organizar-calcinhas.jpg"><img class="size-medium wp-image-4862   aligncenter" title="como organizar calcinhas" src="https://www.trololodemulher.com.br/2010/07/como-organizar-calcinhas-300x128.jpg" alt="" width="300" height="128" /></a>
 </p>
 
 <p style="text-align: center;">
-  <em>Imagem: </em><a href="http://www.organizesuavida.com.br/si/site/0000" target="_blank"><em>Oz!</em></a>
+  <em>Imagem: </em><a href="http://www.organizesuavida.com.br/si/site/0000" target="_blank" rel="noopener noreferrer"><em>Oz!</em></a>
 </p>
 
 Essa é a forma como dobro a calcinha, exatamente como faço com as cuecas também.
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/como-organizar-meias.jpg"><img class="size-full wp-image-4863 aligncenter" title="como organizar meias" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/como-organizar-meias.jpg" alt="" width="277" height="289" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/como-organizar-meias.jpg"><img class="size-full wp-image-4863 aligncenter" title="como organizar meias" src="https://www.trololodemulher.com.br/2010/07/como-organizar-meias.jpg" alt="" width="277" height="289" /></a>
 </p>
 
 <p style="text-align: center;">
-  <em>Imagem:</em><a href="http://tudoemordemsembagunca.blogspot.com/" target="_blank"><em> Tudo em ordem sem bagunça!</em></a>
+  <em>Imagem:</em><a href="http://tudoemordemsembagunca.blogspot.com/" target="_blank" rel="noopener noreferrer"><em> Tudo em ordem sem bagunça!</em></a>
 </p>
 
 <p style="text-align: justify;">
@@ -227,15 +224,15 @@ Essa é a forma como dobro a calcinha, exatamente como faço com as cuecas tamb�
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/organizar-closet-antes-e-depois-bicha-femea.jpg"><img class="size-medium wp-image-4865 aligncenter" title="organizar closet antes e depois bicha femea" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/organizar-closet-antes-e-depois-bicha-femea-300x300.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/organizar-closet-antes-e-depois-bicha-femea.jpg"><img class="size-medium wp-image-4865 aligncenter" title="organizar closet antes e depois bicha femea" src="https://www.trololodemulher.com.br/2010/07/organizar-closet-antes-e-depois-bicha-femea-300x300.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
-  <em>Imagem: <a href="http://vilamulher.terra.com.br/moda/" target="_blank">Vila Fashion</a></em>
+  <em>Imagem: <a href="http://vilamulher.terra.com.br/moda/" target="_blank" rel="noopener noreferrer">Vila Fashion</a></em>
 </p>
 
 <p style="text-align: justify;">
-  <em>&#8220;&#8230; 1. Planeje a organização, mesmo que seja um esquema, por exemplo: nos cabides ficarão as camisas, depois os casacos e depois cabides especiais para cintos, echarpes, cachecóis, etc&#8230; nas prateleiras superiores irão 3 caixas (uma com malhas pesadas, uma com acessórios e outra com miudesas e coisas de festa), na parte de baixo será a sapateira, que será disposta na seguinte ordem&#8230; e assim por diante.<br /> 2. Retire TUDO do armário, assim, você terá uma visão bem geral do que tem e o que poderá ser separado.<br /> 3. Separe itens em três partes: a ser guardado, a ser doado e a ser jogado fora (acredite, guardamos tralhas no guarda roupa)<br /> 4. Os itens a serem guardados, devem ser separados: sapatos, itens a serem pendurados, itens a serem colocados em prateleiras, itens a serem colocados em caixas, itens a serem colocados em gavetas.<br /> 5. Crie sistemas: peças mais leves para mais pesadas, cores, por tipo&#8230; assim o armário parecerá mais limpo e organizado.<br /> 6. Se possível e preciso (sempre acredito ser necessário), compre itens que auxiliem, cabides especiais, caixas e tudo mais.<br /> 7. Caso esteja comprando um novo armário, projetando ou algo assim, faça todo este planejamento antes de comprar, porque muitas vezes, ai é a chance de deixar o ambiente sempre organizado.<br /> 8. Mantenha a organização, fazendo pequenas atitudes diárias ou semanais, não deixe acumular para refazer tudo de uma só vez. É pior&#8230;&#8221;</em> Leticia &#8211;<a href="http://blog.casadecatarina.com.br/" target="_blank"> Casa de Catarina</a>
+  <em>&#8220;&#8230; 1. Planeje a organização, mesmo que seja um esquema, por exemplo: nos cabides ficarão as camisas, depois os casacos e depois cabides especiais para cintos, echarpes, cachecóis, etc&#8230; nas prateleiras superiores irão 3 caixas (uma com malhas pesadas, uma com acessórios e outra com miudesas e coisas de festa), na parte de baixo será a sapateira, que será disposta na seguinte ordem&#8230; e assim por diante.<br /> 2. Retire TUDO do armário, assim, você terá uma visão bem geral do que tem e o que poderá ser separado.<br /> 3. Separe itens em três partes: a ser guardado, a ser doado e a ser jogado fora (acredite, guardamos tralhas no guarda roupa)<br /> 4. Os itens a serem guardados, devem ser separados: sapatos, itens a serem pendurados, itens a serem colocados em prateleiras, itens a serem colocados em caixas, itens a serem colocados em gavetas.<br /> 5. Crie sistemas: peças mais leves para mais pesadas, cores, por tipo&#8230; assim o armário parecerá mais limpo e organizado.<br /> 6. Se possível e preciso (sempre acredito ser necessário), compre itens que auxiliem, cabides especiais, caixas e tudo mais.<br /> 7. Caso esteja comprando um novo armário, projetando ou algo assim, faça todo este planejamento antes de comprar, porque muitas vezes, ai é a chance de deixar o ambiente sempre organizado.<br /> 8. Mantenha a organização, fazendo pequenas atitudes diárias ou semanais, não deixe acumular para refazer tudo de uma só vez. É pior&#8230;&#8221;</em> Leticia &#8211;<a href="http://blog.casadecatarina.com.br/" target="_blank" rel="noopener noreferrer"> Casa de Catarina</a>
 </p>
 
 **Quer mais dicas sobre organização doméstica?**

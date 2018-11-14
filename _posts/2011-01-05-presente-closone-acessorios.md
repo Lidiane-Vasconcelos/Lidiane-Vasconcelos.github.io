@@ -1,10 +1,7 @@
 ---
-id: 2929
 title: Ganhei presente da Closonê Acessórios. Vem cá que eu te mostro!
-date: 2011-01-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/01/05/presente-closone-acessorios/
 permalink: /2011/01/05/presente-closone-acessorios/
 categories:
   - Trololó
@@ -12,13 +9,13 @@ categories:
 Ganhar presente todo mundo gosta, não é verdade? E toda blogueira gosta mesmo é de ganhá-los via correspondência, porque o melhor de tudo é receber o famoso “pacotinho”. Sim, sei que você, que também é blogueira, entende do que eu falo. Se você não for, deve achar isso tudo uma loucura, não é? Mas quando você se tornar uma, vai entender bem o que falo…
 
 <p style="text-align: justify;">
-  Pois é. Eu recebi um “pacotinho” com conteúdo muito fofo. E sabe de quem? Foi da <strong><em>Cristiane Inokuma</em></strong>, a artesã que comanda a <a href="http://closone.blogspot.com/" target="_blank">Closonê Acessórios</a>. <em>Espia</em> só:
+  Pois é. Eu recebi um “pacotinho” com conteúdo muito fofo. E sabe de quem? Foi da <strong><em>Cristiane Inokuma</em></strong>, a artesã que comanda a <a href="http://closone.blogspot.com/" target="_blank" rel="noopener noreferrer">Closonê Acessórios</a>. <em>Espia</em> só:
 </p>
 
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Chaveiro.jpg"><img class="alignnone size-full wp-image-5665" title="Chaveiro" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Chaveiro.jpg" alt="" width="518" height="346" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/Chaveiro.jpg"><img class="alignnone size-full wp-image-5665" title="Chaveiro" src="https://www.trololodemulher.com.br/2010/12/Chaveiro.jpg" alt="" width="518" height="346" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -30,23 +27,23 @@ Ganhar presente todo mundo gosta, não é verdade? E toda blogueira gosta mesmo 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/colar.jpg"><img class="alignnone size-full wp-image-5668" title="colar" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/colar.jpg" alt="" width="400" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/colar.jpg"><img class="alignnone size-full wp-image-5668" title="colar" src="https://www.trololodemulher.com.br/2010/12/colar.jpg" alt="" width="400" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/brinco-4.jpg"><img class="alignnone size-full wp-image-5664" title="brinco 4" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/brinco-4.jpg" alt="" width="400" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/brinco-4.jpg"><img class="alignnone size-full wp-image-5664" title="brinco 4" src="https://www.trololodemulher.com.br/2010/12/brinco-4.jpg" alt="" width="400" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/brinco-2.jpg"><img class="alignnone size-full wp-image-5663" title="brinco 2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/brinco-2.jpg" alt="" width="400" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/brinco-2.jpg"><img class="alignnone size-full wp-image-5663" title="brinco 2" src="https://www.trololodemulher.com.br/2010/12/brinco-2.jpg" alt="" width="400" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/brinco3.jpg"><img class="alignnone size-full wp-image-5662" title="brinco3" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/brinco3.jpg" alt="" width="400" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/brinco3.jpg"><img class="alignnone size-full wp-image-5662" title="brinco3" src="https://www.trololodemulher.com.br/2010/12/brinco3.jpg" alt="" width="400" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/brinco.jpg"><img class="alignnone size-full wp-image-5661" title="brinco" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/brinco.jpg" alt="" width="400" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/brinco.jpg"><img class="alignnone size-full wp-image-5661" title="brinco" src="https://www.trololodemulher.com.br/2010/12/brinco.jpg" alt="" width="400" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">

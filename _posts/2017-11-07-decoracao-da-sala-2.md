@@ -1,10 +1,7 @@
 ---
-id: 3824
 title: As 9 dicas que vão renovar a decoração da sala da leitora.
-date: 2017-11-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/11/07/decoracao-da-sala-2/
 permalink: /2017/11/07/decoracao-da-sala-2/
 categories:
   - Salas
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Não deixe de conferir <a href="https://mundomio.com.br/paris-o-que-fazer-dicas-roteiros-e-gastos/" target="_blank">dicas para uma viagem a Paris</a> se isso está nos seus planos&#8230;</strong>
+  <strong>Não deixe de conferir <a href="https://mundomio.com.br/paris-o-que-fazer-dicas-roteiros-e-gastos/" target="_blank" rel="noopener noreferrer">dicas para uma viagem a Paris</a> se isso está nos seus planos&#8230;</strong>
 </p>
 
 <p align="justify">
@@ -26,11 +23,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14372" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/DECORACAO-SALA-DE-JANTAR.jpg" alt="DECORACAO SALA DE JANTAR" width="800" height="480" />
+  <img class="alignnone size-full wp-image-14372" src="https://www.trololodemulher.com.br/2017/11/DECORACAO-SALA-DE-JANTAR.jpg" alt="DECORACAO SALA DE JANTAR" width="800" height="480" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14375" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/SALA-DE-ESTAR.jpg" alt="SALA DE ESTAR" width="800" height="480" />
+  <img class="alignnone size-full wp-image-14375" src="https://www.trololodemulher.com.br/2017/11/SALA-DE-ESTAR.jpg" alt="SALA DE ESTAR" width="800" height="480" />
 </p>
 
 <p align="justify">
@@ -82,19 +79,19 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14371" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/ADRYANA-MOUTINHO-DESIGNER-DE-INTERIORES-PERSONAL-ORGANIZER-CONSULTORA-FENG-SHUI-COTIA-SÃO-PAULO.png" alt="ADRYANA MOUTINHO-DESIGNER DE INTERIORES-PERSONAL ORGANIZER-CONSULTORA FENG SHUI-COTIA-SÃO PAULO" width="800" height="193" />
+  <img class="alignnone size-full wp-image-14371" src="https://www.trololodemulher.com.br/2017/11/ADRYANA-MOUTINHO-DESIGNER-DE-INTERIORES-PERSONAL-ORGANIZER-CONSULTORA-FENG-SHUI-COTIA-SÃO-PAULO.png" alt="ADRYANA MOUTINHO-DESIGNER DE INTERIORES-PERSONAL ORGANIZER-CONSULTORA FENG SHUI-COTIA-SÃO PAULO" width="800" height="193" />
 </p>
 
 <p align="justify">
-  Para entrar em contato com Adryana, é possível pelo <strong>telefone, (11) 99559-1218</strong>, ou ainda no <strong>e-mail </strong><a href="mailto:contato@adryanamoutinho.com.br"><strong>contato@adryanamoutinho.com.br</strong></a> – nas redes socias a designer está presente no <strong>Facebook</strong>, <a href="https://www.facebook.com/AdryanaMoutinho/" target="_blank">clique aqui e curta sua página</a>, ou ainda no <strong>Instagram</strong>, <a href="https://www.instagram.com/adryana_moutinho/" target="_blank">clique aqui e siga</a>!
+  Para entrar em contato com Adryana, é possível pelo <strong>telefone, (11) 99559-1218</strong>, ou ainda no <strong>e-mail </strong><a href="mailto:contato@adryanamoutinho.com.br"><strong>contato@adryanamoutinho.com.br</strong></a> – nas redes socias a designer está presente no <strong>Facebook</strong>, <a href="https://www.facebook.com/AdryanaMoutinho/" target="_blank" rel="noopener noreferrer">clique aqui e curta sua página</a>, ou ainda no <strong>Instagram</strong>, <a href="https://www.instagram.com/adryana_moutinho/" target="_blank" rel="noopener noreferrer">clique aqui e siga</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>
 
 <p align="justify">

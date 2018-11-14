@@ -1,10 +1,7 @@
 ---
-id: 2785
 title: O peso ideal é aquele que se sente bem …
-date: 2010-03-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/03/01/emagrecimento-saudavel/
 permalink: /2010/03/01/emagrecimento-saudavel/
 categories:
   - Comportamento

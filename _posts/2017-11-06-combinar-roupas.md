@@ -1,10 +1,7 @@
 ---
-id: 3823
 title: Como combinar roupas que você tem e ganhar novos looks?
-date: 2017-11-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/11/06/combinar-roupas/
 permalink: /2017/11/06/combinar-roupas/
 categories:
   - Comportamento
@@ -15,7 +12,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14367" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/MODA-ESTILO-COMBINAR-ROUPAS-CLAUDIA-MEDEIROS.jpg" alt="MODA-ESTILO-COMBINAR ROUPAS-CLAUDIA MEDEIROS" width="597" height="720" />
+  <img class="alignnone size-full wp-image-14367" src="https://www.trololodemulher.com.br/2017/11/MODA-ESTILO-COMBINAR-ROUPAS-CLAUDIA-MEDEIROS.jpg" alt="MODA-ESTILO-COMBINAR ROUPAS-CLAUDIA MEDEIROS" width="597" height="720" />
 </p>
 
 <p align="center">
@@ -27,7 +24,7 @@ categories:
 </p>
 
 <p align="justify">
-  O fato é que conforme vão passando os anos, ficamos com várias dúvidas sobre o que usar, algumas escolhas ao invés de nos deixarem mais jovem têm efeito contrário. Como eu já disse <strong><a href="http://www.trololodemulher.com.br/2017/09/25/mulheres-de-50-anos/" target="_blank">não acredito em roupas para cada faixa etária</a></strong><b></b>, mas existem opções e formas de uso que rejuvenescem.
+  O fato é que conforme vão passando os anos, ficamos com várias dúvidas sobre o que usar, algumas escolhas ao invés de nos deixarem mais jovem têm efeito contrário. Como eu já disse <strong><a href="http://www.trololodemulher.com.br/2017/09/25/mulheres-de-50-anos/" target="_blank" rel="noopener noreferrer">não acredito em roupas para cada faixa etária</a></strong><b></b>, mas existem opções e formas de uso que rejuvenescem.
 </p>
 
 <p align="justify">
@@ -35,7 +32,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14364" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/imagem1.jpg" alt="imagem1" width="633" height="545" />
+  <img class="alignnone size-full wp-image-14364" src="https://www.trololodemulher.com.br/2017/11/imagem1.jpg" alt="imagem1" width="633" height="545" />
 </p>
 
 <p align="center">
@@ -55,7 +52,7 @@ categories:
 </p>
 
 <p align="justify">
-  <b>Maquiagem pesada &#8211;</b> a ideia de que uma boa camada de base e cobertura extra de pó vai disfarçar as rugas é um erro grave! Geralmente acontece o contrário. O ideal é usar <strong><a href="http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/" target="_blank">maquiagem leve</a></strong>, pouca quantidade e com cuidado especial na região dos olhos. Cuidado com as sobrancelhas marcadas demais, elas deixam o visual bem pesado e também com o olhão preto, ele geralmente deixa a aparência cansada e envelhecida em quem não tem 20 e poucos anos.
+  <b>Maquiagem pesada &#8211;</b> a ideia de que uma boa camada de base e cobertura extra de pó vai disfarçar as rugas é um erro grave! Geralmente acontece o contrário. O ideal é usar <strong><a href="http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/" target="_blank" rel="noopener noreferrer">maquiagem leve</a></strong>, pouca quantidade e com cuidado especial na região dos olhos. Cuidado com as sobrancelhas marcadas demais, elas deixam o visual bem pesado e também com o olhão preto, ele geralmente deixa a aparência cansada e envelhecida em quem não tem 20 e poucos anos.
 </p>
 
 <p align="justify">
@@ -63,7 +60,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/" target="_blank"><strong>Maquiagem leve e sofisticada: como conseguir esse efeito?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/" target="_blank" rel="noopener noreferrer"><strong>Maquiagem leve e sofisticada: como conseguir esse efeito?</strong></a>
 </p>
 
 <p align="justify">
@@ -71,7 +68,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14365" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/imagem2.jpg" alt="imagem2" width="597" height="539" />
+  <img class="alignnone size-full wp-image-14365" src="https://www.trololodemulher.com.br/2017/11/imagem2.jpg" alt="imagem2" width="597" height="539" />
 </p>
 
 <p align="center">
@@ -83,7 +80,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14366" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/imagem3.jpg" alt="imagem3" width="679" height="539" />
+  <img class="alignnone size-full wp-image-14366" src="https://www.trololodemulher.com.br/2017/11/imagem3.jpg" alt="imagem3" width="679" height="539" />
 </p>
 
 <p align="center">
@@ -107,11 +104,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14358" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/foto1.jpg" alt="foto1" width="800" height="609" />
+  <img class="alignnone size-full wp-image-14358" src="https://www.trololodemulher.com.br/2017/11/foto1.jpg" alt="foto1" width="800" height="609" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14359" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/foto2.jpg" alt="foto2" width="800" height="617" />
+  <img class="alignnone size-full wp-image-14359" src="https://www.trololodemulher.com.br/2017/11/foto2.jpg" alt="foto2" width="800" height="617" />
 </p>
 
 <p align="center">
@@ -119,11 +116,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14360" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/foto3.jpg" alt="foto3" width="600" height="458" />
+  <img class="alignnone size-full wp-image-14360" src="https://www.trololodemulher.com.br/2017/11/foto3.jpg" alt="foto3" width="600" height="458" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14361" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/foto4.jpg" alt="foto4" width="800" height="572" />
+  <img class="alignnone size-full wp-image-14361" src="https://www.trololodemulher.com.br/2017/11/foto4.jpg" alt="foto4" width="800" height="572" />
 </p>
 
 <p align="center">
@@ -131,11 +128,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14362" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/foto5.jpg" alt="foto5" width="800" height="648" />
+  <img class="alignnone size-full wp-image-14362" src="https://www.trololodemulher.com.br/2017/11/foto5.jpg" alt="foto5" width="800" height="648" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14363" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/foto6.jpg" alt="foto6" width="800" height="649" />
+  <img class="alignnone size-full wp-image-14363" src="https://www.trololodemulher.com.br/2017/11/foto6.jpg" alt="foto6" width="800" height="649" />
 </p>
 
 <p align="center">
@@ -143,7 +140,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13860" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/BLOG-50-E-DAI-CLAUDIA-MEDEIROS2.jpg" alt="BLOG 50 E DAI-CLAUDIA MEDEIROS[2]" width="800" height="153" />
+  <img class="alignnone size-full wp-image-13860" src="https://www.trololodemulher.com.br/2017/05/BLOG-50-E-DAI-CLAUDIA-MEDEIROS2.jpg" alt="BLOG 50 E DAI-CLAUDIA MEDEIROS[2]" width="800" height="153" />
 </p>
 
 <p align="justify">
@@ -151,23 +148,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/05/29/mulher-de-50/" target="_blank"><strong>Notícia luxo: conteúdo exclusivo para você, mulher de 50.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/05/29/mulher-de-50/" target="_blank" rel="noopener noreferrer"><strong>Notícia luxo: conteúdo exclusivo para você, mulher de 50.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/09/25/mulheres-de-50-anos/" target="_blank"><strong>Qual é a roupa certa para mulheres de 50 anos?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/09/25/mulheres-de-50-anos/" target="_blank" rel="noopener noreferrer"><strong>Qual é a roupa certa para mulheres de 50 anos?</strong></a>
 </p>
 
 <p align="justify">
-  Além do <a href="https://50edaiblog.wordpress.com/" target="_blank">Blog `50, e daí?´</a>, você acompanha o conteúdo sobre moda, estilo, beleza e autoestima para mulheres na faixa dos 50 nas redes sociais: <a href="https://www.instagram.com/50edai/" target="_blank">instagram</a> e <a href="https://www.facebook.com/50edai/" target="_blank">facebook</a>. Claudia também edita o blog <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank">Se fosse na Minha Casa</a>, com conteúdo voltado para casa e decoração. Confira <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank">instagram</a> e <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank">facebook</a>. Se joga!
+  Além do <a href="https://50edaiblog.wordpress.com/" target="_blank" rel="noopener noreferrer">Blog `50, e daí?´</a>, você acompanha o conteúdo sobre moda, estilo, beleza e autoestima para mulheres na faixa dos 50 nas redes sociais: <a href="https://www.instagram.com/50edai/" target="_blank" rel="noopener noreferrer">instagram</a> e <a href="https://www.facebook.com/50edai/" target="_blank" rel="noopener noreferrer">facebook</a>. Claudia também edita o blog <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank" rel="noopener noreferrer">Se fosse na Minha Casa</a>, com conteúdo voltado para casa e decoração. Confira <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank" rel="noopener noreferrer">instagram</a> e <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank" rel="noopener noreferrer">facebook</a>. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>
 
 <p align="justify">

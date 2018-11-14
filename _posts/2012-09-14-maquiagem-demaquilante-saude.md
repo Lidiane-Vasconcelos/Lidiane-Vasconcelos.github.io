@@ -1,10 +1,7 @@
 ---
-id: 3184
 title: Maquiagem e demaquilantes do dia a dia também são assuntos de saúde.
-date: 2012-09-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/09/14/maquiagem-demaquilante-saude/
 permalink: /2012/09/14/maquiagem-demaquilante-saude/
 categories:
   - Saúde
@@ -20,7 +17,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9120" rel="attachment wp-att-9120"><img class="alignnone size-full wp-image-9120" title="MAQUIAGEM - SAUDE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/MAQUIAGEM-SAUDE.png" alt="" width="338" height="226" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9120" rel="attachment wp-att-9120"><img class="alignnone size-full wp-image-9120" title="MAQUIAGEM - SAUDE" src="https://www.trololodemulher.com.br/2012/09/MAQUIAGEM-SAUDE.png" alt="" width="338" height="226" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
@@ -62,7 +59,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9118" rel="attachment wp-att-9118"><img class="alignnone size-full wp-image-9118" title="DEMAQUILANTES-PELES-OLEOSAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/DEMAQUILANTES-PELES-OLEOSAS.png" alt="" width="431" height="651" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9118" rel="attachment wp-att-9118"><img class="alignnone size-full wp-image-9118" title="DEMAQUILANTES-PELES-OLEOSAS" src="https://www.trololodemulher.com.br/2012/09/DEMAQUILANTES-PELES-OLEOSAS.png" alt="" width="431" height="651" /></a>
 </p>
 
 &nbsp;
@@ -80,7 +77,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9116" rel="attachment wp-att-9116"><img class="alignnone size-full wp-image-9116" title="DEMAQUILANTES – PELES – RESSECADAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/DEMAQUILANTES-–-PELES-–-RESSECADAS.png" alt="" width="466" height="276" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9116" rel="attachment wp-att-9116"><img class="alignnone size-full wp-image-9116" title="DEMAQUILANTES – PELES – RESSECADAS" src="https://www.trololodemulher.com.br/2012/09/DEMAQUILANTES-–-PELES-–-RESSECADAS.png" alt="" width="466" height="276" /></a>
 </p>
 
 &nbsp;
@@ -98,7 +95,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9117" rel="attachment wp-att-9117"><img class="alignnone size-full wp-image-9117" title="DEMAQUILANTES – PELES - SENSIVEIS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/DEMAQUILANTES-–-PELES-SENSIVEIS-.png" alt="" width="564" height="362" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9117" rel="attachment wp-att-9117"><img class="alignnone size-full wp-image-9117" title="DEMAQUILANTES – PELES - SENSIVEIS" src="https://www.trololodemulher.com.br/2012/09/DEMAQUILANTES-–-PELES-SENSIVEIS-.png" alt="" width="564" height="362" /></a>
 </p>
 
 &nbsp;
@@ -124,7 +121,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9123" rel="attachment wp-att-9123"><img class="alignnone size-full wp-image-9123" title="LIVIA PINO - DERMATOLOGISTA[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/LIVIA-PINO-DERMATOLOGISTA2.png" alt="" width="540" height="317" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9123" rel="attachment wp-att-9123"><img class="alignnone size-full wp-image-9123" title="LIVIA PINO - DERMATOLOGISTA[2]" src="https://www.trololodemulher.com.br/2012/09/LIVIA-PINO-DERMATOLOGISTA2.png" alt="" width="540" height="317" /></a>
 </p>
 
 &nbsp;
@@ -132,7 +129,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
 &nbsp;
 
 <p align="justify">
-  Bonita, você ainda precisa saber que a <strong>Dra. Livia Pino</strong> é blogueira! Pois é… é ela quem edita o blog <strong><a href="http://www.dermatologiaemfoco.blogspot.com.br/" target="_blank">Dermatologia em Foco</a></strong>, onde dá dicas de lançamentos de produtos, promove sorteios e promoções imperdíveis, e nos deixa sempre muito bem informadas sobre saúde e beleza da pele. Você não vai perder, <em>né</em>? Então se joga e <strong><a href="http://www.dermatologiaemfoco.blogspot.com.br/" target="_blank">clica bem aqui</a></strong>.
+  Bonita, você ainda precisa saber que a <strong>Dra. Livia Pino</strong> é blogueira! Pois é… é ela quem edita o blog <strong><a href="http://www.dermatologiaemfoco.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Dermatologia em Foco</a></strong>, onde dá dicas de lançamentos de produtos, promove sorteios e promoções imperdíveis, e nos deixa sempre muito bem informadas sobre saúde e beleza da pele. Você não vai perder, <em>né</em>? Então se joga e <strong><a href="http://www.dermatologiaemfoco.blogspot.com.br/" target="_blank" rel="noopener noreferrer">clica bem aqui</a></strong>.
 </p>
 
 <p align="center">
@@ -143,7 +140,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2011/11/14/filtros-solares/maquiagem-saude-da-pele200/" rel="attachment wp-att-6499"><img class="alignnone size-full wp-image-6499" title="maquiagem saúde da pele200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/maquiagem-saude-da-pele200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2011/11/14/filtros-solares/maquiagem-saude-da-pele200/" rel="attachment wp-att-6499"><img class="alignnone size-full wp-image-6499" title="maquiagem saúde da pele200" src="https://www.trololodemulher.com.br/2011/06/maquiagem-saude-da-pele200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -153,7 +150,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/?attachment_id=9070" rel="attachment wp-att-9070"><img class="alignnone size-full wp-image-9070" title="BELEZA-MAQUIAGEM-NATURAL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/BELEZA-MAQUIAGEM-NATURAL200.png" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/?attachment_id=9070" rel="attachment wp-att-9070"><img class="alignnone size-full wp-image-9070" title="BELEZA-MAQUIAGEM-NATURAL200" src="https://www.trololodemulher.com.br/2012/08/BELEZA-MAQUIAGEM-NATURAL200.png" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -165,7 +162,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/corpo/maquiagem-sombra200/" rel="attachment wp-att-8811"><img class="alignnone size-full wp-image-8811" title="MAQUIAGEM - SOMBRA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/MAQUIAGEM-SOMBRA200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/corpo/maquiagem-sombra200/" rel="attachment wp-att-8811"><img class="alignnone size-full wp-image-8811" title="MAQUIAGEM - SOMBRA200" src="https://www.trololodemulher.com.br/2012/06/MAQUIAGEM-SOMBRA200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -175,7 +172,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/corpo/mascara-para-cilios200/" rel="attachment wp-att-8629"><img class="alignnone size-full wp-image-8629" title="MASCARA PARA CILIOS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/MASCARA-PARA-CILIOS200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/03/26/mascara-para-cilios/"><strong><span style="font-size: medium;">Máscara para cílios… beleza e olhos irresistíveis!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/corpo/mascara-para-cilios200/" rel="attachment wp-att-8629"><img class="alignnone size-full wp-image-8629" title="MASCARA PARA CILIOS200" src="https://www.trololodemulher.com.br/2012/03/MASCARA-PARA-CILIOS200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/03/26/mascara-para-cilios/"><strong><span style="font-size: medium;">Máscara para cílios… beleza e olhos irresistíveis!</span></strong></a>
       </p>
     </td>
   </tr>
@@ -183,7 +180,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2011/12/05/produtos-de-beleza/batom-yvs200/" rel="attachment wp-att-8213"><img class="alignnone size-full wp-image-8213" title="Batom YVS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Batom-YVS200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2011/12/05/produtos-de-beleza/batom-yvs200/" rel="attachment wp-att-8213"><img class="alignnone size-full wp-image-8213" title="Batom YVS200" src="https://www.trololodemulher.com.br/2011/11/Batom-YVS200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -193,7 +190,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/maquiagem2200/" rel="attachment wp-att-6981"><img class="alignnone size-full wp-image-6981" title="maquiagem[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem2200.jpg" alt="" width="200" height="200" /></a>
+        <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/maquiagem2200/" rel="attachment wp-att-6981"><img class="alignnone size-full wp-image-6981" title="maquiagem[2]200" src="https://www.trololodemulher.com.br/2011/09/maquiagem2200.jpg" alt="" width="200" height="200" /></a>
       </p>
       
       <p align="center">
@@ -204,7 +201,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
 </table>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -219,13 +216,13 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

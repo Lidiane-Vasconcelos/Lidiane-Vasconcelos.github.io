@@ -1,10 +1,7 @@
 ---
-id: 3321
 title: Qual a hora certa de mandar a cria para a escolinha?
-date: 2014-07-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/07/16/hora-certa-escolinha/
 permalink: /2014/07/16/hora-certa-escolinha/
 categories:
   - Comportamento Infantil
@@ -33,7 +30,7 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/02/04/culpa-materna/" target="_blank">Culpa materna na consciência da outra é refresco. Liberte-se!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/02/04/culpa-materna/" target="_blank" rel="noopener noreferrer">Culpa materna na consciência da outra é refresco. Liberte-se!</a></strong>
 </p>
 
 &nbsp;
@@ -51,11 +48,11 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/ELAINE.jpg"><img class="alignnone size-full wp-image-10210" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/ELAINE.jpg" alt="ELAINE" width="600" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/07/ELAINE.jpg"><img class="alignnone size-full wp-image-10210" src="https://www.trololodemulher.com.br/2014/07/ELAINE.jpg" alt="ELAINE" width="600" height="800" /></a>
 </p>
 
 <p align="center">
-  <em>Elaine Cunha e seu filhote, Pedro. Elaine também é blogueira e está a frente do </em><a href="http://www.caminhandocontando.com/" target="_blank"><em>Caminhando e Contando</em></a><em>.</em>
+  <em>Elaine Cunha e seu filhote, Pedro. Elaine também é blogueira e está a frente do </em><a href="http://www.caminhandocontando.com/" target="_blank" rel="noopener noreferrer"><em>Caminhando e Contando</em></a><em>.</em>
 </p>
 
 &nbsp;
@@ -75,13 +72,13 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 > </p>
 > 
 > <p align="justify">
->   <strong><a href="http://www.trololodemulher.com.br/2013/05/24/desfralde-como-fazer/" target="_blank">Dilema de mãe&#8230; a hora do desfralde: como fazer?</a></strong>
+>   <strong><a href="http://www.trololodemulher.com.br/2013/05/24/desfralde-como-fazer/" target="_blank" rel="noopener noreferrer">Dilema de mãe&#8230; a hora do desfralde: como fazer?</a></strong>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/FERNANDA.jpg"><img class="alignnone size-full wp-image-10212" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/FERNANDA.jpg" alt="FERNANDA" width="600" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/07/FERNANDA.jpg"><img class="alignnone size-full wp-image-10212" src="https://www.trololodemulher.com.br/2014/07/FERNANDA.jpg" alt="FERNANDA" width="600" height="800" /></a>
 </p>
 
 <p align="center">
@@ -103,7 +100,7 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/FABIANA.jpg"><img class="alignnone size-full wp-image-10211" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/FABIANA.jpg" alt="FABIANA" width="600" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/07/FABIANA.jpg"><img class="alignnone size-full wp-image-10211" src="https://www.trololodemulher.com.br/2014/07/FABIANA.jpg" alt="FABIANA" width="600" height="400" /></a>
 </p>
 
 <p align="center">
@@ -125,7 +122,7 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DENISE.jpg"><img class="alignnone size-full wp-image-10209" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DENISE.jpg" alt="DENISE" width="600" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/07/DENISE.jpg"><img class="alignnone size-full wp-image-10209" src="https://www.trololodemulher.com.br/2014/07/DENISE.jpg" alt="DENISE" width="600" height="800" /></a>
 </p>
 
 <p align="center">
@@ -135,7 +132,7 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -152,13 +149,13 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -167,5 +164,5 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" /></a>
+  <a href="https://www.facebook.com/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-9849" src="https://www.trololodemulher.com.br/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" /></a>
 </p>

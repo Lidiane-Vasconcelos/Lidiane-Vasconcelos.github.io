@@ -1,10 +1,7 @@
 ---
-id: 3173
 title: 'Mães trabalham muito e ficam menos com os filhos: e daí?'
-date: 2012-08-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/08/17/maes-trabalham-filhos/
 permalink: /2012/08/17/maes-trabalham-filhos/
 categories:
   - Maternidade
@@ -33,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/17/maes-trabalham-filhos/mae-e-bebe/" rel="attachment wp-att-9030"><img class="alignnone size-full wp-image-9030" title="MAE E BEBE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/MAE-E-BEBE.png" alt="" width="290" height="273" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/2012/08/17/maes-trabalham-filhos/mae-e-bebe/" rel="attachment wp-att-9030"><img class="alignnone size-full wp-image-9030" title="MAE E BEBE" src="https://www.trololodemulher.com.br/2012/08/MAE-E-BEBE.png" alt="" width="290" height="273" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em></strong>
 </p>
 
 <p align="justify">
@@ -65,13 +62,13 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/17/maes-trabalham-filhos/geisa-machado/" rel="attachment wp-att-9029"><img class="alignnone size-full wp-image-9029" title="GEISA MACHADO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/GEISA-MACHADO.png" alt="" width="516" height="212" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/17/maes-trabalham-filhos/geisa-machado/" rel="attachment wp-att-9029"><img class="alignnone size-full wp-image-9029" title="GEISA MACHADO" src="https://www.trololodemulher.com.br/2012/08/GEISA-MACHADO.png" alt="" width="516" height="212" /></a>
 </p>
 
 <p align="justify">
-  Geisa também é blogueira, sabia? Pois é… seus textos podem ser acompanhados através de seu blog <strong><a href="http://geisamachado.blogspot.com.br/" target="_blank">A Força e a Beleza de ser Mulher</a></strong>. Sua proposta é analisar os reflexos positivos, e também negativos, decorrentes do movimento femininsta. Alguma dúvida de que essa leitura pode ser bastante esclarecedora? Então se joga e <strong><a href="http://geisamachado.blogspot.com.br/" target="_blank">clica aqui</a></strong>!
+  Geisa também é blogueira, sabia? Pois é… seus textos podem ser acompanhados através de seu blog <strong><a href="http://geisamachado.blogspot.com.br/" target="_blank" rel="noopener noreferrer">A Força e a Beleza de ser Mulher</a></strong>. Sua proposta é analisar os reflexos positivos, e também negativos, decorrentes do movimento femininsta. Alguma dúvida de que essa leitura pode ser bastante esclarecedora? Então se joga e <strong><a href="http://geisamachado.blogspot.com.br/" target="_blank" rel="noopener noreferrer">clica aqui</a></strong>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

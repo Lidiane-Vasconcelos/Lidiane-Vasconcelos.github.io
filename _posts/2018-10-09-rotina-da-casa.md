@@ -1,10 +1,7 @@
 ---
-id: 3880
 title: Gestão de rotina da casa na prática!
-date: 2018-10-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2018/10/09/rotina-da-casa/
 permalink: /2018/10/09/rotina-da-casa/
 categories:
   - Organização
@@ -15,7 +12,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14721" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/10/inscricoesblog.jpg" alt="" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14721" src="https://www.trololodemulher.com.br/2018/10/inscricoesblog.jpg" alt="" width="800" height="800" />
 </p>
 
 <p align="justify">

@@ -1,10 +1,7 @@
 ---
-id: 3157
 title: Sabe quem vai ter a Gaudesivos inteirinha para escolher um presente?
-date: 2012-07-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/07/19/resultado-sorteio-gaudesivos/
 permalink: /2012/07/19/resultado-sorteio-gaudesivos/
 categories:
   - Promoção
@@ -20,7 +17,7 @@ Saiu o resultado do **[sorteio Gaudesivos](http://www.trololodemulher.com.br/201
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=8903" rel="attachment wp-att-8903"><img class="alignnone size-full wp-image-8903" title="Resultado do Sorteio-Gaudesivos" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/Resultado-do-Sorteio-Gaudesivos.png" alt="" width="600" height="386" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=8903" rel="attachment wp-att-8903"><img class="alignnone size-full wp-image-8903" title="Resultado do Sorteio-Gaudesivos" src="https://www.trololodemulher.com.br/2012/07/Resultado-do-Sorteio-Gaudesivos.png" alt="" width="600" height="386" /></a>
 </p>
 
 &nbsp;
@@ -40,7 +37,7 @@ Hoje mesmo foi enviado o e-mail para ela, onde eu peço os dados de entrega. Se 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -55,13 +52,13 @@ Hoje mesmo foi enviado o e-mail para ela, onde eu peço os dados de entrega. Se 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

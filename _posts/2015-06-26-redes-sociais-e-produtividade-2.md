@@ -1,10 +1,7 @@
 ---
-id: 3439
 title: 'Redes sociais e produtividade no dia a dia: qual o impacto?'
-date: 2015-06-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/06/26/redes-sociais-e-produtividade-2/
 permalink: /2015/06/26/redes-sociais-e-produtividade-2/
 categories:
   - Comportamento
@@ -22,11 +19,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/COMPORTAMENTO-REDES-SOCIAIS-PRODUTIVIDADE.png"><img class="alignnone size-full wp-image-11063" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/COMPORTAMENTO-REDES-SOCIAIS-PRODUTIVIDADE.png" alt="COMPORTAMENTO-REDES SOCIAIS-PRODUTIVIDADE" width="502" height="701" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/COMPORTAMENTO-REDES-SOCIAIS-PRODUTIVIDADE.png"><img class="alignnone size-full wp-image-11063" src="https://www.trololodemulher.com.br/2015/06/COMPORTAMENTO-REDES-SOCIAIS-PRODUTIVIDADE.png" alt="COMPORTAMENTO-REDES SOCIAIS-PRODUTIVIDADE" width="502" height="701" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/joebehr/4878042391/" target="_blank">Flickr</a> via <a href="http://foter.com/" target="_blank">Foter</a>
+  Imagem: <a href="https://www.flickr.com/photos/joebehr/4878042391/" target="_blank" rel="noopener noreferrer">Flickr</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a>
 </p>
 
 <p align="justify">
@@ -46,15 +43,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2010/04/30/organizacao-pessoal/" target="_blank">Organização pessoal: você deixa as coisas acontecerem ou faz acontecer?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2010/04/30/organizacao-pessoal/" target="_blank" rel="noopener noreferrer">Organização pessoal: você deixa as coisas acontecerem ou faz acontecer?</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2013/07/05/tarefas-domesticas/" target="_blank">Como você dá conta das tarefas diárias? Veja 20 dicas e agilize!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2013/07/05/tarefas-domesticas/" target="_blank" rel="noopener noreferrer">Como você dá conta das tarefas diárias? Veja 20 dicas e agilize!</a></strong>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

@@ -1,10 +1,7 @@
 ---
-id: 3627
 title: Mãe de menino, a cultura do estupro é da nossa conta, sim!
-date: 2016-06-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/06/14/cultura-do-estupro/
 permalink: /2016/06/14/cultura-do-estupro/
 categories:
   - Comportamento Infantil
@@ -19,11 +16,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12674" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/MATERNIDADE-MAE-DE-MENINO-EDUCACAO-INFANTIL-COMPORTAMENTO-INFANTIL-EDUCACAO-DE-MENINOS-CULTURA-DO-ESTUPRO-ESTUPRO.jpg" alt="MATERNIDADE-MAE DE MENINO-EDUCACAO INFANTIL-COMPORTAMENTO INFANTIL-EDUCACAO DE MENINOS-CULTURA DO ESTUPRO-ESTUPRO" width="751" height="751" />
+  <img class="alignnone size-full wp-image-12674" src="https://www.trololodemulher.com.br/2016/06/MATERNIDADE-MAE-DE-MENINO-EDUCACAO-INFANTIL-COMPORTAMENTO-INFANTIL-EDUCACAO-DE-MENINOS-CULTURA-DO-ESTUPRO-ESTUPRO.jpg" alt="MATERNIDADE-MAE DE MENINO-EDUCACAO INFANTIL-COMPORTAMENTO INFANTIL-EDUCACAO DE MENINOS-CULTURA DO ESTUPRO-ESTUPRO" width="751" height="751" />
 </p>
 
 <p align="center">
-  Fonte da Imagem: <a href="https://www.flickr.com/photos/63173682@N04/17516749545/" target="_blank">Abhijit Chendvankar</a> via <a href="http://chairshunt.com/" target="_blank">Source</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Fonte da Imagem: <a href="https://www.flickr.com/photos/63173682@N04/17516749545/" target="_blank" rel="noopener noreferrer">Abhijit Chendvankar</a> via <a href="http://chairshunt.com/" target="_blank" rel="noopener noreferrer">Source</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND</a>
 </p>
 
 <p align="center">
@@ -63,15 +60,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12673" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/MARCELA-ONDEI-PSICOLOGA-INFANTIL-SAO-JOSE-DOS-CAMPOS-SAO-PAULO.jpg" alt="MARCELA ONDEI-PSICOLOGA INFANTIL-SAO JOSE DOS CAMPOS-SAO PAULO" width="800" height="184" />
+  <img class="alignnone size-full wp-image-12673" src="https://www.trololodemulher.com.br/2016/06/MARCELA-ONDEI-PSICOLOGA-INFANTIL-SAO-JOSE-DOS-CAMPOS-SAO-PAULO.jpg" alt="MARCELA ONDEI-PSICOLOGA INFANTIL-SAO JOSE DOS CAMPOS-SAO PAULO" width="800" height="184" />
 </p>
 
 <p align="justify">
-  Mamãe, você que é leitora do Trololó de Mulher sabe bem: informação salva! Acompanhe a Marcela Ondei em sua fanpage, pois lá ela publica constantemente informação das melhores para nos ajudar nesse trabalho difícil e diário, que é educar nossos pequenos. <a href="https://www.facebook.com/psicologamarcelaondei/timeline" target="_blank">Clique aqui, curta</a> e fique por dentro de todas as atualizações dela. A profissional também está no Instagram: <a href="https://www.instagram.com/psimarcela_ondei/" target="_blank">clica aqui e se joga</a>!
+  Mamãe, você que é leitora do Trololó de Mulher sabe bem: informação salva! Acompanhe a Marcela Ondei em sua fanpage, pois lá ela publica constantemente informação das melhores para nos ajudar nesse trabalho difícil e diário, que é educar nossos pequenos. <a href="https://www.facebook.com/psicologamarcelaondei/timeline" target="_blank" rel="noopener noreferrer">Clique aqui, curta</a> e fique por dentro de todas as atualizações dela. A profissional também está no Instagram: <a href="https://www.instagram.com/psimarcela_ondei/" target="_blank" rel="noopener noreferrer">clica aqui e se joga</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

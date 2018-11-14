@@ -1,10 +1,7 @@
 ---
-id: 3653
 title: Você sabe inserir a luminária pendente na decoração?
-date: 2016-08-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/08/29/luminaria-pendente/
 permalink: /2016/08/29/luminaria-pendente/
 categories:
   - Dicas de Decoração
@@ -34,11 +31,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.decoracaodacasa.com/luminaria-pendente-sala-jantar/" target="_blank">Ventilador de teto + luminária pendente: pode?</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/luminaria-pendente-sala-jantar/" target="_blank" rel="noopener noreferrer">Ventilador de teto + luminária pendente: pode?</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.decoracaodacasa.com/lustre-pendente/" target="_blank">Como decorar a sala de jantar com lustre pendente?</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/lustre-pendente/" target="_blank" rel="noopener noreferrer">Como decorar a sala de jantar com lustre pendente?</a></strong>
 </p>
 
 &nbsp;
@@ -62,21 +59,21 @@ categories:
 > </p>
 > 
 > <p align="justify">
->   <strong><a href="http://www.decoracaodacasa.com/como-decorar-a-sala-de-jantar/" target="_blank">Carol Carneiro responde: como decorar a sala de jantar?</a></strong>
+>   <strong><a href="http://www.decoracaodacasa.com/como-decorar-a-sala-de-jantar/" target="_blank" rel="noopener noreferrer">Carol Carneiro responde: como decorar a sala de jantar?</a></strong>
 > </p>
 > 
 > <p align="justify">
->   <strong><a href="http://www.bichafemea.com/2012/08/01/cadeiras-sala-mesa-jantar/" target="_blank">Quer misturar cadeiras diferentes na mesa da sala de jantar?</a></strong>
+>   <strong><a href="http://www.bichafemea.com/2012/08/01/cadeiras-sala-mesa-jantar/" target="_blank" rel="noopener noreferrer">Quer misturar cadeiras diferentes na mesa da sala de jantar?</a></strong>
 > </p>
 > 
 > <p align="justify">
->   <strong><a href="http://www.decoracaodacasa.com/dicas-decoracao-mesa-jantar/" target="_blank">Dicas para decoração da mesa de jantar.</a></strong>
+>   <strong><a href="http://www.decoracaodacasa.com/dicas-decoracao-mesa-jantar/" target="_blank" rel="noopener noreferrer">Dicas para decoração da mesa de jantar.</a></strong>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/luminaria-pendente-decoracao/decoracao-luminaria-pendente2/" rel="attachment wp-att-1828"><img class="alignnone size-full wp-image-1828" title="DECORACAO-LUMINARIA-PENDENTE[2]" src="http://www.decoracaodacasa.com/blog/wp-content/uploads/2012/11/DECORACAO-LUMINARIA-PENDENTE2.jpg" alt="" width="600" height="400" /></a><br /> Imagem: <strong><a href="http://www.essenciamoveis.com.br/blog/" target="_blank">Essência</a></strong>
+  <a href="http://www.decoracaodacasa.com/luminaria-pendente-decoracao/decoracao-luminaria-pendente2/" rel="attachment wp-att-1828"><img class="alignnone size-full wp-image-1828" title="DECORACAO-LUMINARIA-PENDENTE[2]" src="http://www.decoracaodacasa.com/blog/wp-content/uploads/2012/11/DECORACAO-LUMINARIA-PENDENTE2.jpg" alt="" width="600" height="400" /></a><br /> Imagem: <strong><a href="http://www.essenciamoveis.com.br/blog/" target="_blank" rel="noopener noreferrer">Essência</a></strong>
 </p>
 
 &nbsp;
@@ -96,7 +93,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.decoracaodacasa.com/mesa-de-cabeceira/" target="_blank">Como decorar sua mesa de cabeceira?</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/mesa-de-cabeceira/" target="_blank" rel="noopener noreferrer">Como decorar sua mesa de cabeceira?</a></strong>
 </p>
 
 &nbsp;
@@ -134,13 +131,13 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12866" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/ADRIANA-MAGRE.jpg" alt="ADRIANA MAGRE" width="800" height="197" />
+  <img class="alignnone size-full wp-image-12866" src="https://www.trololodemulher.com.br/2016/08/ADRIANA-MAGRE.jpg" alt="ADRIANA MAGRE" width="800" height="197" />
 </p>
 
 <p style="text-align: justify;">
-  A <strong>Adriana</strong> edita seu blog com tanta informação útil e de qualidade que eu acredito ser leitura obrigatória para quem curte decoração e todo o universo que envolve a casa. Tanto no blog – <strong><a href="http://www.coresdacasa.com.br/" target="_blank">Cores da Casa</a></strong> – quanto na fanpage do Facebook – <strong><a href="https://www.facebook.com/coresdacasa" target="_blank">curta e acompanhe</a></strong> – as fontes são de informação da melhor qualidade, pode apostar! Quer tirar a prova? Se joga, conheça e confira!
+  A <strong>Adriana</strong> edita seu blog com tanta informação útil e de qualidade que eu acredito ser leitura obrigatória para quem curte decoração e todo o universo que envolve a casa. Tanto no blog – <strong><a href="http://www.coresdacasa.com.br/" target="_blank" rel="noopener noreferrer">Cores da Casa</a></strong> – quanto na fanpage do Facebook – <strong><a href="https://www.facebook.com/coresdacasa" target="_blank" rel="noopener noreferrer">curta e acompanhe</a></strong> – as fontes são de informação da melhor qualidade, pode apostar! Quer tirar a prova? Se joga, conheça e confira!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

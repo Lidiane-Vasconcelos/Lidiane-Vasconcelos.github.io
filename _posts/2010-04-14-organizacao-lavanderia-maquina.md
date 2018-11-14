@@ -1,10 +1,7 @@
 ---
-id: 2806
 title: 'Lavanderia: que tipo de máquina facilita a organização?'
-date: 2010-04-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/04/14/organizacao-lavanderia-maquina/
 permalink: /2010/04/14/organizacao-lavanderia-maquina/
 categories:
   - Lavanderia
@@ -25,7 +22,7 @@ Sim! Mas o que você quer é ver alguns modelos de espaços como esse para inspi
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/maquina-lavar-roupas-1.jpg"><img class="aligncenter size-medium wp-image-4536" title="máquina lavar roupas 1" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/maquina-lavar-roupas-1-225x300.jpg" alt="" width="225" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/04/maquina-lavar-roupas-1.jpg"><img class="aligncenter size-medium wp-image-4536" title="máquina lavar roupas 1" src="https://www.trololodemulher.com.br/2010/04/maquina-lavar-roupas-1-225x300.jpg" alt="" width="225" height="300" /></a>
     </td>
     
     <td>
@@ -41,7 +38,7 @@ Não parece que fica simpático se a gente imaginar algo como está nessa imagem
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/maquina-lavar-roupas-2.jpg"><img class="aligncenter size-full wp-image-4537" title="máquina lavar roupas 2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/maquina-lavar-roupas-2.jpg" alt="" width="300" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/04/maquina-lavar-roupas-2.jpg"><img class="aligncenter size-full wp-image-4537" title="máquina lavar roupas 2" src="https://www.trololodemulher.com.br/2010/04/maquina-lavar-roupas-2.jpg" alt="" width="300" height="300" /></a>
     </td>
     
     <td>
@@ -57,7 +54,7 @@ Você tem um pouco mais de espaço? Então será bem vindo um **armário alto pa
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/maquina-lavar-roupas-3.jpg"><img class="aligncenter size-full wp-image-4538" title="máquina lavar roupas 3" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/maquina-lavar-roupas-3.jpg" alt="" width="300" height="250" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/04/maquina-lavar-roupas-3.jpg"><img class="aligncenter size-full wp-image-4538" title="máquina lavar roupas 3" src="https://www.trololodemulher.com.br/2010/04/maquina-lavar-roupas-3.jpg" alt="" width="300" height="250" /></a>
     </td>
     
     <td>
@@ -75,7 +72,7 @@ A propósito, para ajudar a lidar com a bagunça e se livrar do que não é nece
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/maquina-lavar-roupas-4.jpg"><img class="aligncenter size-full wp-image-4539" title="máquina lavar roupas 4" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/maquina-lavar-roupas-4.jpg" alt="" width="300" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/04/maquina-lavar-roupas-4.jpg"><img class="aligncenter size-full wp-image-4539" title="máquina lavar roupas 4" src="https://www.trololodemulher.com.br/2010/04/maquina-lavar-roupas-4.jpg" alt="" width="300" height="300" /></a>
     </td>
     
     <td>
@@ -91,7 +88,7 @@ Ainda que sua lavanderia disponha de algum espaço a mais, como é o meu caso, �
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/maquina-lavar-roupas-5.jpg"><img class="aligncenter size-medium wp-image-4540" title="máquina lavar roupas 5" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/maquina-lavar-roupas-5-225x300.jpg" alt="" width="225" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/04/maquina-lavar-roupas-5.jpg"><img class="aligncenter size-medium wp-image-4540" title="máquina lavar roupas 5" src="https://www.trololodemulher.com.br/2010/04/maquina-lavar-roupas-5-225x300.jpg" alt="" width="225" height="300" /></a>
     </td>
     
     <td>
@@ -106,7 +103,7 @@ Você duvida que qualquer marceneiro seja capaz de produzir uma lavandeira sob m
 
 **Agora fala para mim, bonita: de alguma forma você ficou tentada a mudar o modelo na próxima vez que for comprar sua máquina de lavar roupas?** 
 
-Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes</a>
+Imagens: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes</a>
 
 **Mais no Bicha Fêmea…**
 

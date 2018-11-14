@@ -1,10 +1,7 @@
 ---
-id: 3138
 title: Seu intestino está funcionando bem?
-date: 2012-06-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/06/18/intestino-funcionando-bem/
 permalink: /2012/06/18/intestino-funcionando-bem/
 categories:
   - Saúde
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  A <strong><a href="http://www.dicasdenutricao.com/2012/01/gabrieli-comachio-nutricionista.html" target="_blank">Dra. Gabrieli Comachio é Nutricionista</a></strong> e respondeu todas as dúvidas que eu tinha sobre o assunto. Depois de ler as respostas dela e ficar bem informada, pode ter certeza que você estará pronta para deixar o seu intestino<em> tinindo e nos trinques</em>! Confere!
+  A <strong><a href="http://www.dicasdenutricao.com/2012/01/gabrieli-comachio-nutricionista.html" target="_blank" rel="noopener noreferrer">Dra. Gabrieli Comachio é Nutricionista</a></strong> e respondeu todas as dúvidas que eu tinha sobre o assunto. Depois de ler as respostas dela e ficar bem informada, pode ter certeza que você estará pronta para deixar o seu intestino<em> tinindo e nos trinques</em>! Confere!
 </p>
 
 <!--more-->
@@ -30,7 +27,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/18/intestino-funcionando-bem/funcionamento-do-intestino/" rel="attachment wp-att-8734"><img class="alignnone size-full wp-image-8734" title="FUNCIONAMENTO DO INTESTINO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/FUNCIONAMENTO-DO-INTESTINO.png" alt="" width="374" height="327" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">Stock Xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/2012/06/18/intestino-funcionando-bem/funcionamento-do-intestino/" rel="attachment wp-att-8734"><img class="alignnone size-full wp-image-8734" title="FUNCIONAMENTO DO INTESTINO" src="https://www.trololodemulher.com.br/2012/06/FUNCIONAMENTO-DO-INTESTINO.png" alt="" width="374" height="327" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">Stock Xchng</a></em></strong>
 </p>
 
 &nbsp;
@@ -60,11 +57,11 @@ categories:
 </p>
 
 <p align="justify">
-  Para ficar por dentro das informações sobre nutrição para garantir sua saúde e bem-estar, vale conferir as atualizações do site <strong><a href="http://www.dicasdenutricao.com/" target="_blank">Dicas de Nutrição</a></strong>, pelo qual a <strong><a href="http://www.dicasdenutricao.com/2012/01/gabrieli-comachio-nutricionista.html" target="_blank">Dra. Gabrieli</a></strong> é responsável. A gente bem sabe que informação nunca é demais, <em>né</em>? Então… aproveita!
+  Para ficar por dentro das informações sobre nutrição para garantir sua saúde e bem-estar, vale conferir as atualizações do site <strong><a href="http://www.dicasdenutricao.com/" target="_blank" rel="noopener noreferrer">Dicas de Nutrição</a></strong>, pelo qual a <strong><a href="http://www.dicasdenutricao.com/2012/01/gabrieli-comachio-nutricionista.html" target="_blank" rel="noopener noreferrer">Dra. Gabrieli</a></strong> é responsável. A gente bem sabe que informação nunca é demais, <em>né</em>? Então… aproveita!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

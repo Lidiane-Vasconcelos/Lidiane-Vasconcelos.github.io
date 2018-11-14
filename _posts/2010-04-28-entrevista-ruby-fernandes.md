@@ -1,23 +1,20 @@
 ---
-id: 2809
 title: 'Uma Bicha Fêmea por Outra: Ruby Fernandes'
-date: 2010-04-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/04/28/entrevista-ruby-fernandes/
 permalink: /2010/04/28/entrevista-ruby-fernandes/
 categories:
   - Comportamento
   - Entrevistas
 ---
-Cargo, _status_ ou carreira, nada disso foi prioridade na vida de Ruby quando ela se tornou mãe. Aos poucos, de forma consciente e planejada, a blogueira de talento reconhecido para a criação de _belezuras_, e dona do blog “<a href="http://meucantominhaprosa.blogspot.com/" target="_blank">Meu Canto, Minha Prosa</a>”, consolidou a escolha por ser mãe em tempo integral, diva do lar prendada e dona de seu próprio tempo.
+Cargo, _status_ ou carreira, nada disso foi prioridade na vida de Ruby quando ela se tornou mãe. Aos poucos, de forma consciente e planejada, a blogueira de talento reconhecido para a criação de _belezuras_, e dona do blog “<a href="http://meucantominhaprosa.blogspot.com/" target="_blank" rel="noopener noreferrer">Meu Canto, Minha Prosa</a>”, consolidou a escolha por ser mãe em tempo integral, diva do lar prendada e dona de seu próprio tempo.
 
 <!--more-->
 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/Ruby.jpg"><img class="aligncenter size-medium wp-image-4565" title="Ruby" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/Ruby-200x300.jpg" alt="" width="200" height="300" /></a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/Ruby.jpg"></a>
+      <a href="https://www.trololodemulher.com.br/2010/04/Ruby.jpg"><img class="aligncenter size-medium wp-image-4565" title="Ruby" src="https://www.trololodemulher.com.br/2010/04/Ruby-200x300.jpg" alt="" width="200" height="300" /></a><a href="https://www.trololodemulher.com.br/2010/04/Ruby.jpg"></a>
     </td>
     
     <td>
@@ -51,7 +48,7 @@ A seguir ela revela mais detalhes sobre a experiência da maternidade, sobre a b
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/Ruby-e-filho.jpg"><img class="aligncenter size-medium wp-image-4568" title="Ruby e filho" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/Ruby-e-filho-225x300.jpg" alt="" width="225" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/04/Ruby-e-filho.jpg"><img class="aligncenter size-medium wp-image-4568" title="Ruby e filho" src="https://www.trololodemulher.com.br/2010/04/Ruby-e-filho-225x300.jpg" alt="" width="225" height="300" /></a>
     </td>
     
     <td>
@@ -96,7 +93,7 @@ _É todo conjunto da obra, mostro minha casa, minha família, meus artesanatos, 
 
 _Não sei, prefiro pensar um dia de cada vez. O que tem me deixado chateada é não conseguir responder a todos os comentários do bloguito._
 
-**A <a href="http://www.lojinhadaruby.blogspot.com/" target="_blank">loja virtual</a> pode tornar-se real também?**
+**A <a href="http://www.lojinhadaruby.blogspot.com/" target="_blank" rel="noopener noreferrer">loja virtual</a> pode tornar-se real também?**
 
 _Não, apesar de já ter recebido propostas, não saio de casa de jeito nenhum, a lojinha é um pequeno prazer, se virar obrigação perde a graça._
 
@@ -117,7 +114,7 @@ _Tem um montão de outras coisas que não conto nem sob tortura, hahaha_
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/Ruby-e-marido.jpg"><img class="aligncenter size-medium wp-image-4569" title="Ruby e marido" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/Ruby-e-marido-225x300.jpg" alt="" width="225" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/04/Ruby-e-marido.jpg"><img class="aligncenter size-medium wp-image-4569" title="Ruby e marido" src="https://www.trololodemulher.com.br/2010/04/Ruby-e-marido-225x300.jpg" alt="" width="225" height="300" /></a>
     </td>
     
     <td>

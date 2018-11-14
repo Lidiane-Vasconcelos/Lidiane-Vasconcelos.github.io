@@ -1,10 +1,7 @@
 ---
-id: 3821
 title: 2 ideias de ornamentos natalinos para sua criança fazer.
-date: 2017-10-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/10/31/ornamentos-natalinos/
 permalink: /2017/10/31/ornamentos-natalinos/
 categories:
   - Decoração
@@ -19,7 +16,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/11/17/enfeites-natalinos-2/" target="_blank"><strong>3 cordões de enfeites natalinos: faça você mesma.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/11/17/enfeites-natalinos-2/" target="_blank" rel="noopener noreferrer"><strong>3 cordões de enfeites natalinos: faça você mesma.</strong></a>
 </p>
 
 <p align="justify">
@@ -43,7 +40,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/10/03/decoracao-natalina-3/" target="_blank"><strong>3 ideias de charme para sua decoração natalina.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/10/03/decoracao-natalina-3/" target="_blank" rel="noopener noreferrer"><strong>3 ideias de charme para sua decoração natalina.</strong></a>
 </p>
 
 <p align="center">
@@ -63,23 +60,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/11/14/decoracao-natalina-2/" target="_blank"><strong>Decoração natalina: inspiração das casas reais.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/11/14/decoracao-natalina-2/" target="_blank" rel="noopener noreferrer"><strong>Decoração natalina: inspiração das casas reais.</strong></a>
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagens: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
-  Veja também outros posts do <strong>Trololó de Mulher</strong> recheados de <strong>dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos</strong> que amamos. <a href="http://www.trololodemulher.com.br/category/natal/" target="_blank"><strong>Clique aqui e confira</strong></a>!
+  Veja também outros posts do <strong>Trololó de Mulher</strong> recheados de <strong>dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos</strong> que amamos. <a href="http://www.trololodemulher.com.br/category/natal/" target="_blank" rel="noopener noreferrer"><strong>Clique aqui e confira</strong></a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>
 
 <p align="center">

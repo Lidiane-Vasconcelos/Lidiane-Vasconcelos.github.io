@@ -1,10 +1,7 @@
 ---
-id: 3382
 title: 'Gravidez saudável, segura e em equilíbrio: como vivenciá-la?'
-date: 2015-01-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/01/09/gravidez-saudavel-gestacao/
 permalink: /2015/01/09/gravidez-saudavel-gestacao/
 categories:
   - Maternidade
@@ -20,7 +17,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/SAUDE-SAUDE-DA-MULHER-GRAVIDEZ-GESTACAO.jpg"><img class="alignnone size-full wp-image-10677" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/SAUDE-SAUDE-DA-MULHER-GRAVIDEZ-GESTACAO.jpg" alt="SAUDE-SAUDE DA MULHER-GRAVIDEZ-GESTACAO" width="500" height="599" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/SAUDE-SAUDE-DA-MULHER-GRAVIDEZ-GESTACAO.jpg"><img class="alignnone size-full wp-image-10677" src="https://www.trololodemulher.com.br/2014/12/SAUDE-SAUDE-DA-MULHER-GRAVIDEZ-GESTACAO.jpg" alt="SAUDE-SAUDE DA MULHER-GRAVIDEZ-GESTACAO" width="500" height="599" /></a>
 </p>
 
 <p align="center">
@@ -60,11 +57,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/SAUDE-SAUDE-DA-MULHER-GRAVIDEZ-GESTACAO2.jpg"><img class="alignnone size-full wp-image-10678" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/SAUDE-SAUDE-DA-MULHER-GRAVIDEZ-GESTACAO2.jpg" alt="SAUDE-SAUDE DA MULHER-GRAVIDEZ-GESTACAO[2]" width="555" height="740" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/SAUDE-SAUDE-DA-MULHER-GRAVIDEZ-GESTACAO2.jpg"><img class="alignnone size-full wp-image-10678" src="https://www.trololodemulher.com.br/2014/12/SAUDE-SAUDE-DA-MULHER-GRAVIDEZ-GESTACAO2.jpg" alt="SAUDE-SAUDE DA MULHER-GRAVIDEZ-GESTACAO[2]" width="555" height="740" /></a>
 </p>
 
 <p align="center">
-  <em>Imagem: </em><a href="http://www.kissthegroom.com/2009/08/lovely-little-luca/" target="_blank">Kiss The Groom</a>
+  <em>Imagem: </em><a href="http://www.kissthegroom.com/2009/08/lovely-little-luca/" target="_blank" rel="noopener noreferrer">Kiss The Groom</a>
 </p>
 
 <p align="center">
@@ -92,15 +89,15 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/DENISE-VASCONCELOS-GINECOLOGISTA-OBSTETRA-FORTALEZA-CEARÁ-GRAVIDEZ.png"><img class="alignnone size-full wp-image-10676" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/DENISE-VASCONCELOS-GINECOLOGISTA-OBSTETRA-FORTALEZA-CEARÁ-GRAVIDEZ.png" alt="DENISE VASCONCELOS-GINECOLOGISTA-OBSTETRA-FORTALEZA-CEARÁ-GRAVIDEZ" width="800" height="192" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/DENISE-VASCONCELOS-GINECOLOGISTA-OBSTETRA-FORTALEZA-CEARÁ-GRAVIDEZ.png"><img class="alignnone size-full wp-image-10676" src="https://www.trololodemulher.com.br/2014/12/DENISE-VASCONCELOS-GINECOLOGISTA-OBSTETRA-FORTALEZA-CEARÁ-GRAVIDEZ.png" alt="DENISE VASCONCELOS-GINECOLOGISTA-OBSTETRA-FORTALEZA-CEARÁ-GRAVIDEZ" width="800" height="192" /></a>
 </p>
 
 <p align="justify">
-  Meninas, é preciso que se diga que a <strong>Dra. Denise Vasconcelos</strong> tem um site incrível, recheado de muita informação pertinente a saúde da mulher, tanto em forma de blog, com posts ricos em orientações, como em vídeos. Vale <em>superultramega </em>a pena você espiar! <a href="http://dradenisevasconcelos.com.br/" target="_blank">Clique aqui e fique por dentro de tudo</a>! É lá, também, que você saberá como entrar em contato com a médica e até marcar uma consulta. Ah! Não deixe de <a href="https://www.facebook.com/dradenisevasconcelos" target="_blank">curtir sua fanpage no Facebook</a> e acompanhar suas atualizações por lá também. Informe-se!
+  Meninas, é preciso que se diga que a <strong>Dra. Denise Vasconcelos</strong> tem um site incrível, recheado de muita informação pertinente a saúde da mulher, tanto em forma de blog, com posts ricos em orientações, como em vídeos. Vale <em>superultramega </em>a pena você espiar! <a href="http://dradenisevasconcelos.com.br/" target="_blank" rel="noopener noreferrer">Clique aqui e fique por dentro de tudo</a>! É lá, também, que você saberá como entrar em contato com a médica e até marcar uma consulta. Ah! Não deixe de <a href="https://www.facebook.com/dradenisevasconcelos" target="_blank" rel="noopener noreferrer">curtir sua fanpage no Facebook</a> e acompanhar suas atualizações por lá também. Informe-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

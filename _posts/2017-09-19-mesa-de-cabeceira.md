@@ -1,10 +1,7 @@
 ---
-id: 3801
 title: Como decorar sua mesa de cabeceira?
-date: 2017-09-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/09/19/mesa-de-cabeceira/
 permalink: /2017/09/19/mesa-de-cabeceira/
 categories:
   - Quarto
@@ -26,7 +23,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.dreamgreendiy.com/blog/" target="_blank">Dream Green DIY</a>
+  Via <a href="http://www.dreamgreendiy.com/blog/" target="_blank" rel="noopener noreferrer">Dream Green DIY</a>
 </p>
 
 <p align="justify">
@@ -38,7 +35,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://shopsweetthings.com/" target="_blank">Shop Sweet Things</a>
+  Via <a href="http://shopsweetthings.com/" target="_blank" rel="noopener noreferrer">Shop Sweet Things</a>
 </p>
 
 <p align="justify">
@@ -50,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.styleathome.com/" target="_blank">Style at Home</a>
+  Via <a href="http://www.styleathome.com/" target="_blank" rel="noopener noreferrer">Style at Home</a>
 </p>
 
 <p align="justify">
@@ -62,7 +59,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/05/16/amarelo-na-decoracao-2/" target="_blank"><strong>Amarelo na decoração: 8 imagens com detalhes solares</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/05/16/amarelo-na-decoracao-2/" target="_blank" rel="noopener noreferrer"><strong>Amarelo na decoração: 8 imagens com detalhes solares</strong></a>
 </p>
 
 <p align="center">
@@ -70,7 +67,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Via <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -82,11 +79,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/04/04/retro-decoracao-vintage/" target="_blank"><strong>Quer toques de decoração vintage em casa? Veja 7 dicas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/04/04/retro-decoracao-vintage/" target="_blank" rel="noopener noreferrer"><strong>Quer toques de decoração vintage em casa? Veja 7 dicas.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/04/14/ideias-de-organizacao/" target="_blank"><strong>Objetos vintage: 4 ideias de organização</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/04/14/ideias-de-organizacao/" target="_blank" rel="noopener noreferrer"><strong>Objetos vintage: 4 ideias de organização</strong></a>
 </p>
 
 <p align="center">
@@ -94,7 +91,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://allyredhead.blogspot.com.br/" target="_blank">Ally Redhead</a>
+  Via <a href="http://allyredhead.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Ally Redhead</a>
 </p>
 
 <p align="justify">
@@ -106,7 +103,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Via <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -118,7 +115,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  Via <a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer">HGTV</a>
 </p>
 
 <p align="justify">
@@ -130,7 +127,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  Via <a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer">HGTV</a>
 </p>
 
 <p align="justify">
@@ -142,11 +139,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/05/11/quarto-pequeno-decoracao/" target="_blank"><strong>Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/05/11/quarto-pequeno-decoracao/" target="_blank" rel="noopener noreferrer"><strong>Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/11/29/como-ganhar-espaco-no-quarto/" target="_blank"><strong>Como ganhar (e não perder) espaço em quartos pequenos?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/11/29/como-ganhar-espaco-no-quarto/" target="_blank" rel="noopener noreferrer"><strong>Como ganhar (e não perder) espaço em quartos pequenos?</strong></a>
 </p>
 
 <p align="center">
@@ -154,7 +151,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  Via <a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer">HGTV</a>
 </p>
 
 <p align="justify">
@@ -166,9 +163,9 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/04/22/decoracao-bandejas/" target="_blank"><strong>Truques de decoração: bandejas… por que te quero?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/04/22/decoracao-bandejas/" target="_blank" rel="noopener noreferrer"><strong>Truques de decoração: bandejas… por que te quero?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>

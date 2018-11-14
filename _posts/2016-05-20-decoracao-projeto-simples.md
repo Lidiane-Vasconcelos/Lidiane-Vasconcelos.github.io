@@ -1,10 +1,7 @@
 ---
-id: 3613
 title: Execute 3 projetos de decoração num final de semana.
-date: 2016-05-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/05/20/decoracao-projeto-simples/
 permalink: /2016/05/20/decoracao-projeto-simples/
 categories:
   - Dicas de Decoração
@@ -14,11 +11,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12549" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES" width="800" height="62" />
+  <img class="alignnone size-full wp-image-12549" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES" width="800" height="62" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12556" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-QUARTO-MESA-DE-CABECEIRA.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-QUARTO-MESA DE CABECEIRA" width="550" height="733" />
+  <img class="alignnone size-full wp-image-12556" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-QUARTO-MESA-DE-CABECEIRA.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-QUARTO-MESA DE CABECEIRA" width="550" height="733" />
 </p>
 
 <p align="justify">
@@ -30,15 +27,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-faca-voce-mesma-3/" target="_blank"><strong>Antes & depois de uma mesa de cabeceira: haja inspiração!</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-faca-voce-mesma-3/" target="_blank" rel="noopener noreferrer"><strong>Antes & depois de uma mesa de cabeceira: haja inspiração!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/08/moveis-quarto/" target="_blank"><strong>Móveis da casa: falta mesa de cabeceira no quarto? Improvisa!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/05/08/moveis-quarto/" target="_blank" rel="noopener noreferrer"><strong>Móveis da casa: falta mesa de cabeceira no quarto? Improvisa!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/02/01/quarto-organizacao-cabeceira/" target="_blank"><strong>Quarto: ideias de organização para a cabeceira da cama.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/02/01/quarto-organizacao-cabeceira/" target="_blank" rel="noopener noreferrer"><strong>Quarto: ideias de organização para a cabeceira da cama.</strong></a>
 </p>
 
 <p align="center">
@@ -46,7 +43,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12555" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-PAPEL-DE-PAREDE.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-PAPEL DE PAREDE" width="550" height="733" />
+  <img class="alignnone size-full wp-image-12555" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-PAPEL-DE-PAREDE.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-PAPEL DE PAREDE" width="550" height="733" />
 </p>
 
 <p align="justify">
@@ -54,11 +51,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12551" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES3.png" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES[3]" width="563" height="80" />
+  <img class="alignnone size-full wp-image-12551" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES3.png" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES[3]" width="563" height="80" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12552" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-ESPELHO.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-ESPELHO" width="550" height="733" />
+  <img class="alignnone size-full wp-image-12552" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-ESPELHO.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-ESPELHO" width="550" height="733" />
 </p>
 
 <p align="justify">
@@ -66,11 +63,11 @@ categories:
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagens: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

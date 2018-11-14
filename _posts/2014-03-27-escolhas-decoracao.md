@@ -1,10 +1,7 @@
 ---
-id: 3288
 title: 'Soluções de decoração: vi, curti e compartilho'
-date: 2014-03-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/03/27/escolhas-decoracao/
 permalink: /2014/03/27/escolhas-decoracao/
 categories:
   - Dicas de Decoração
@@ -20,7 +17,7 @@ Esse é um post recheado de referências decorativas que amei editar porque trat
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/03/DECORACAO-QUADROS.jpg"><img class="alignnone size-full wp-image-9988" alt="DECORACAO-QUADROS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/03/DECORACAO-QUADROS.jpg" width="600" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/03/DECORACAO-QUADROS.jpg"><img class="alignnone size-full wp-image-9988" alt="DECORACAO-QUADROS" src="https://www.trololodemulher.com.br/2014/03/DECORACAO-QUADROS.jpg" width="600" height="400" /></a>
 </p>
 
 <p align="center">
@@ -28,7 +25,7 @@ Esse é um post recheado de referências decorativas que amei editar porque trat
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/03/DECORACAO-COZINHA.jpg"><img class="alignnone size-full wp-image-9983" alt="DECORACAO-COZINHA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/03/DECORACAO-COZINHA.jpg" width="600" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/03/DECORACAO-COZINHA.jpg"><img class="alignnone size-full wp-image-9983" alt="DECORACAO-COZINHA" src="https://www.trololodemulher.com.br/2014/03/DECORACAO-COZINHA.jpg" width="600" height="400" /></a>
 </p>
 
 <p align="center">
@@ -36,7 +33,7 @@ Esse é um post recheado de referências decorativas que amei editar porque trat
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/03/DECORACAO-SALA-ESTAR.jpg"><img class="alignnone size-full wp-image-9989" alt="DECORACAO-SALA-ESTAR" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/03/DECORACAO-SALA-ESTAR.jpg" width="600" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/03/DECORACAO-SALA-ESTAR.jpg"><img class="alignnone size-full wp-image-9989" alt="DECORACAO-SALA-ESTAR" src="https://www.trololodemulher.com.br/2014/03/DECORACAO-SALA-ESTAR.jpg" width="600" height="400" /></a>
 </p>
 
 <p align="center">
@@ -44,7 +41,7 @@ Esse é um post recheado de referências decorativas que amei editar porque trat
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/03/DECORACAO-PAREDE.jpg"><img class="alignnone size-full wp-image-9985" alt="DECORACAO-PAREDE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/03/DECORACAO-PAREDE.jpg" width="600" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/03/DECORACAO-PAREDE.jpg"><img class="alignnone size-full wp-image-9985" alt="DECORACAO-PAREDE" src="https://www.trololodemulher.com.br/2014/03/DECORACAO-PAREDE.jpg" width="600" height="400" /></a>
 </p>
 
 <p align="center">
@@ -52,7 +49,7 @@ Esse é um post recheado de referências decorativas que amei editar porque trat
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/03/DECORACAO-ORGANIZACAO-GUARDA-ROUPAS.jpg"><img class="alignnone size-full wp-image-9984" alt="DECORACAO-ORGANIZACAO-GUARDA-ROUPAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/03/DECORACAO-ORGANIZACAO-GUARDA-ROUPAS.jpg" width="600" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/03/DECORACAO-ORGANIZACAO-GUARDA-ROUPAS.jpg"><img class="alignnone size-full wp-image-9984" alt="DECORACAO-ORGANIZACAO-GUARDA-ROUPAS" src="https://www.trololodemulher.com.br/2014/03/DECORACAO-ORGANIZACAO-GUARDA-ROUPAS.jpg" width="600" height="400" /></a>
 </p>
 
 <p align="center">
@@ -61,7 +58,7 @@ Esse é um post recheado de referências decorativas que amei editar porque trat
 
 &nbsp;
 
-Imagens: **_<a href="http://www.apartmenttherapy.com/" target="_blank">apartment therapy</a>_**
+Imagens: **_<a href="http://www.apartmenttherapy.com/" target="_blank" rel="noopener noreferrer">apartment therapy</a>_**
 
 &nbsp;
 
@@ -84,7 +81,7 @@ Imagens: **_<a href="http://www.apartmenttherapy.com/" target="_blank">apartment
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -101,13 +98,13 @@ Imagens: **_<a href="http://www.apartmenttherapy.com/" target="_blank">apartment
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -116,5 +113,5 @@ Imagens: **_<a href="http://www.apartmenttherapy.com/" target="_blank">apartment
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
+  <a href="https://www.facebook.com/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="https://www.trololodemulher.com.br/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
 </p>

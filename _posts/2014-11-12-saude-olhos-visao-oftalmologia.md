@@ -1,10 +1,7 @@
 ---
-id: 3370
 title: 'Saúde dos olhos: saiba 5 verdades simples e básicas!'
-date: 2014-11-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/11/12/saude-olhos-visao-oftalmologia/
 permalink: /2014/11/12/saude-olhos-visao-oftalmologia/
 categories:
   - Saúde
@@ -18,11 +15,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA2.jpg"><img class="alignnone size-full wp-image-10585" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA2.jpg" alt="SAUDE-OLHOS-VISAO-OFTALMOLOGIA[2]" width="520" height="343" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA2.jpg"><img class="alignnone size-full wp-image-10585" src="https://www.trololodemulher.com.br/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA2.jpg" alt="SAUDE-OLHOS-VISAO-OFTALMOLOGIA[2]" width="520" height="343" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.hungryforchange.tv/article/5-foods-to-improve-eye-health" target="_blank">Hungry for Change</a>
+  Imagem: <a href="http://www.hungryforchange.tv/article/5-foods-to-improve-eye-health" target="_blank" rel="noopener noreferrer">Hungry for Change</a>
 </p>
 
 <p align="justify">
@@ -74,7 +71,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA.png"><img class="alignnone size-full wp-image-10584" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA.png" alt="SAUDE-OLHOS-VISAO-OFTALMOLOGIA" width="800" height="81" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA.png"><img class="alignnone size-full wp-image-10584" src="https://www.trololodemulher.com.br/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA.png" alt="SAUDE-OLHOS-VISAO-OFTALMOLOGIA" width="800" height="81" /></a>
 </p>
 
 > <p align="justify">
@@ -82,11 +79,11 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA3.png"><img class="alignnone size-full wp-image-10587" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA3.png" alt="SAUDE-OLHOS-VISAO-OFTALMOLOGIA[3]" width="532" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA3.png"><img class="alignnone size-full wp-image-10587" src="https://www.trololodemulher.com.br/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA3.png" alt="SAUDE-OLHOS-VISAO-OFTALMOLOGIA[3]" width="532" height="800" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.behance.net/gallery/19109049/Kate-Bush-Independent-on-Sunday-editorial" target="_blank">Behance</a>
+  Imagem: <a href="https://www.behance.net/gallery/19109049/Kate-Bush-Independent-on-Sunday-editorial" target="_blank" rel="noopener noreferrer">Behance</a>
 </p>
 
 <p align="justify">
@@ -126,15 +123,15 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA-ELIZABETH-NAVARRETE.png"><img class="alignnone size-full wp-image-10588" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA-ELIZABETH-NAVARRETE.png" alt="SAUDE-OLHOS-VISAO-OFTALMOLOGIA-ELIZABETH NAVARRETE" width="800" height="251" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA-ELIZABETH-NAVARRETE.png"><img class="alignnone size-full wp-image-10588" src="https://www.trololodemulher.com.br/2014/11/SAUDE-OLHOS-VISAO-OFTALMOLOGIA-ELIZABETH-NAVARRETE.png" alt="SAUDE-OLHOS-VISAO-OFTALMOLOGIA-ELIZABETH NAVARRETE" width="800" height="251" /></a>
 </p>
 
 <p align="justify">
-  A Dra. Elizabeth Navarrete faz um trabalho incrível na blogosfera, bonita! Se você não conhece, mas é dessas mulheres que acham importante estar bem informada para ter boa saúde e cuidar bem de sua família, não deixe de conferir o espaço da Dra. Em <a href="http://elizabethnavarrete.com/" target="_blank">seu blog, que você acessa clicando aqui</a>, ela costuma responder as dúvidas dos leitores sobre saúde ocular. Cada pergunta pode virar um post! Além do mais, você ainda pode encontrá-la em duas páginas no Facebook: <a href="https://www.facebook.com/duvidasemoftalmologia?fref=ts" target="_blank">Oftalmologia para leigos</a> e <a href="https://www.facebook.com/pages/D%C3%BAvidas-em-Oftalmologia/370703669761685?fref=ts" target="_blank">Dúvidas em Oftalmologia</a>. Curta e informe-se!!!
+  A Dra. Elizabeth Navarrete faz um trabalho incrível na blogosfera, bonita! Se você não conhece, mas é dessas mulheres que acham importante estar bem informada para ter boa saúde e cuidar bem de sua família, não deixe de conferir o espaço da Dra. Em <a href="http://elizabethnavarrete.com/" target="_blank" rel="noopener noreferrer">seu blog, que você acessa clicando aqui</a>, ela costuma responder as dúvidas dos leitores sobre saúde ocular. Cada pergunta pode virar um post! Além do mais, você ainda pode encontrá-la em duas páginas no Facebook: <a href="https://www.facebook.com/duvidasemoftalmologia?fref=ts" target="_blank" rel="noopener noreferrer">Oftalmologia para leigos</a> e <a href="https://www.facebook.com/pages/D%C3%BAvidas-em-Oftalmologia/370703669761685?fref=ts" target="_blank" rel="noopener noreferrer">Dúvidas em Oftalmologia</a>. Curta e informe-se!!!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

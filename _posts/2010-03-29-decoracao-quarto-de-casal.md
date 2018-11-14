@@ -1,15 +1,12 @@
 ---
-id: 2802
 title: 'Pitacos de bicha fêmea: decoração do quarto de casal'
-date: 2010-03-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/03/29/decoracao-quarto-de-casal/
 permalink: /2010/03/29/decoracao-quarto-de-casal/
 categories:
   - Quarto
 ---
-[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/kbrown_Secondaryroom_lg1.jpg)Agora me fale a verdade você, bonita: alguma dúvida de que mulher gosta de dar _pitaco_ sobre decoração? Creio que quem mais gosta de fazer isso somos nós, não é? … _cof cof cof_…
+[](https://www.trololodemulher.com.br/2010/03/kbrown_Secondaryroom_lg1.jpg)Agora me fale a verdade você, bonita: alguma dúvida de que mulher gosta de dar _pitaco_ sobre decoração? Creio que quem mais gosta de fazer isso somos nós, não é? … _cof cof cof_…
 
 Pronto! Falei.
 
@@ -26,7 +23,7 @@ A Roberta enviou três fotos, o que revela que o quarto será bem grande. Robert
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/quarto-1.jpg"><img class="aligncenter size-medium wp-image-4488" title="quarto 1" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/quarto-1-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/quarto-1.jpg"><img class="aligncenter size-medium wp-image-4488" title="quarto 1" src="https://www.trololodemulher.com.br/2010/03/quarto-1-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
     
     <td>
@@ -42,7 +39,7 @@ A Roberta enviou três fotos, o que revela que o quarto será bem grande. Robert
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/quarto-2.jpg"><img class="aligncenter size-medium wp-image-4489" title="quarto 2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/quarto-2-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/quarto-2.jpg"><img class="aligncenter size-medium wp-image-4489" title="quarto 2" src="https://www.trololodemulher.com.br/2010/03/quarto-2-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
     
     <td>
@@ -58,7 +55,7 @@ A Roberta enviou três fotos, o que revela que o quarto será bem grande. Robert
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/quarto-3.jpg"><img class="aligncenter size-medium wp-image-4490" title="quarto 3" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/quarto-3-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/quarto-3.jpg"><img class="aligncenter size-medium wp-image-4490" title="quarto 3" src="https://www.trololodemulher.com.br/2010/03/quarto-3-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
     
     <td>
@@ -76,7 +73,7 @@ Fiquei pensando nos detalhes femininos num quarto, dos quais a Roberta tanto gos
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/rms-bedroom-cottage_lg1.jpg"><img class="aligncenter size-medium wp-image-4492" title="rms-bedroom-cottage_lg[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/rms-bedroom-cottage_lg1-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/rms-bedroom-cottage_lg1.jpg"><img class="aligncenter size-medium wp-image-4492" title="rms-bedroom-cottage_lg[1]" src="https://www.trololodemulher.com.br/2010/03/rms-bedroom-cottage_lg1-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
     
     <td>
@@ -92,7 +89,7 @@ E quanto ao marido? _Hum_… nessa imagem a cômoda pequena e escura que cumpre 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/rms-bedroom-romantic_lg1.jpg"><img class="aligncenter size-medium wp-image-4493" title="rms-bedroom-romantic_lg[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/rms-bedroom-romantic_lg1-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/rms-bedroom-romantic_lg1.jpg"><img class="aligncenter size-medium wp-image-4493" title="rms-bedroom-romantic_lg[1]" src="https://www.trololodemulher.com.br/2010/03/rms-bedroom-romantic_lg1-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
     
     <td>
@@ -106,7 +103,7 @@ Eu trouxe esse quarto para chamar a atenção e reforçar a ideia de cores clara
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/rms-bedroom-sweet-retreat_lg1.jpg"><img class="aligncenter size-medium wp-image-4494" title="rms-bedroom-sweet-retreat_lg[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/rms-bedroom-sweet-retreat_lg1-225x300.jpg" alt="" width="225" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/rms-bedroom-sweet-retreat_lg1.jpg"><img class="aligncenter size-medium wp-image-4494" title="rms-bedroom-sweet-retreat_lg[1]" src="https://www.trololodemulher.com.br/2010/03/rms-bedroom-sweet-retreat_lg1-225x300.jpg" alt="" width="225" height="300" /></a>
     </td>
     
     <td>
@@ -122,7 +119,7 @@ Já pensou em colocar um quadro bonito, ou algo decorativo como folhagens assim?
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/rms-bedroom-charleston-style_lg1.jpg"><img class="aligncenter size-medium wp-image-4491" title="rms-bedroom-charleston-style_lg[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/rms-bedroom-charleston-style_lg1-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/rms-bedroom-charleston-style_lg1.jpg"><img class="aligncenter size-medium wp-image-4491" title="rms-bedroom-charleston-style_lg[1]" src="https://www.trololodemulher.com.br/2010/03/rms-bedroom-charleston-style_lg1-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
     
     <td>
@@ -139,16 +136,16 @@ Quanto ao jardim particular que o quarto terá? Ui! Isso é muito chique! Conhe�
 
 Aguarde e confie!! Dicas virão para as plantas e o quarto como um todo. Quer ver?
 
-Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+Imagens: <a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer">HGTV</a>
 
 **As bichas fêmeas falam&#8230;**
 
-&#8220;_Lidi, conforme prometi no post&#8230; segue a foto de um quarto espaçoso que eu gosto. Beijos&#8221;_ Letícia &#8211; <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>
+&#8220;_Lidi, conforme prometi no post&#8230; segue a foto de um quarto espaçoso que eu gosto. Beijos&#8221;_ Letícia &#8211; <a href="http://blog.casadecatarina.com.br/" target="_blank" rel="noopener noreferrer">Casa de Catarina</a>
 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/kbrown_Secondaryroom_lg1.jpg"><img class="aligncenter size-medium wp-image-4498" title="kbrown_Secondaryroom_lg[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/kbrown_Secondaryroom_lg1-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/03/kbrown_Secondaryroom_lg1.jpg"><img class="aligncenter size-medium wp-image-4498" title="kbrown_Secondaryroom_lg[1]" src="https://www.trololodemulher.com.br/2010/03/kbrown_Secondaryroom_lg1-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
     
     <td>

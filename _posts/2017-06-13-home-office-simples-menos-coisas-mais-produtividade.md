@@ -1,10 +1,7 @@
 ---
-id: 3774
 title: 'Home office simples: menos coisas, mais produtividade.'
-date: 2017-06-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/06/13/home-office-simples-menos-coisas-mais-produtividade/
 permalink: /2017/06/13/home-office-simples-menos-coisas-mais-produtividade/
 categories:
   - Escritório
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://designcollector.net/" target="_blank">Design Collector</a>
+  Via <a href="http://designcollector.net/" target="_blank" rel="noopener noreferrer">Design Collector</a>
 </p>
 
 <p align="center">
@@ -26,7 +23,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://blackbirdstyle.blogspot.com.br/" target="_blank">Blackbird</a>
+  Via <a href="http://blackbirdstyle.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Blackbird</a>
 </p>
 
 <p align="center">
@@ -34,7 +31,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.designertrapped.com/" target="_blank">Designer Trapped in a Lawyer´s Body</a>
+  Via <a href="http://www.designertrapped.com/" target="_blank" rel="noopener noreferrer">Designer Trapped in a Lawyer´s Body</a>
 </p>
 
 <p align="center">
@@ -46,7 +43,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.ruemag.com/" target="_blank">Rue Daily</a>
+  Via <a href="http://www.ruemag.com/" target="_blank" rel="noopener noreferrer">Rue Daily</a>
 </p>
 
 <p align="justify">
@@ -54,7 +51,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/10/27/organizacao-escritorio/" target="_blank"><strong>Organização do home office: dicas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/10/27/organizacao-escritorio/" target="_blank" rel="noopener noreferrer"><strong>Organização do home office: dicas.</strong></a>
 </p>
 
 <p align="justify">
@@ -62,7 +59,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>1</strong> – Ter capacidade de armazenamento pela casa é bom, claro. Isso inclui o home office. Mas precisa tantas caixas, prateleiras, armários, etc? Mesmo que você tenha inúmeros itens de organização, na verdade fazer o desapego de tantas coisas pode ser a melhor das estratégias. Elimine! Veja tudo o que tem e selecione para permanecer em seu espaço de trabalho apenas o que é essencial. Faça isso pela casa inteira, inclusive. <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank">Evitar o acúmulo e organizar o lar</a> vai impactar positivamente na maneira como você vê, organiza e realiza a manutenção do seu espaço de trabalho também.
+  <strong>1</strong> – Ter capacidade de armazenamento pela casa é bom, claro. Isso inclui o home office. Mas precisa tantas caixas, prateleiras, armários, etc? Mesmo que você tenha inúmeros itens de organização, na verdade fazer o desapego de tantas coisas pode ser a melhor das estratégias. Elimine! Veja tudo o que tem e selecione para permanecer em seu espaço de trabalho apenas o que é essencial. Faça isso pela casa inteira, inclusive. <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank" rel="noopener noreferrer">Evitar o acúmulo e organizar o lar</a> vai impactar positivamente na maneira como você vê, organiza e realiza a manutenção do seu espaço de trabalho também.
 </p>
 
 <p align="center">
@@ -70,7 +67,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
+  Via <a href="http://casa.abril.com.br/" target="_blank" rel="noopener noreferrer">Casa Abril</a>
 </p>
 
 <p align="center">
@@ -82,7 +79,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/01/06/decoracao-escritorio/" target="_blank"><strong>Inspirações para a decoração do home office.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/01/06/decoracao-escritorio/" target="_blank" rel="noopener noreferrer"><strong>Inspirações para a decoração do home office.</strong></a>
 </p>
 
 <p align="justify">
@@ -94,7 +91,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
+  Via <a href="http://casa.abril.com.br/" target="_blank" rel="noopener noreferrer">Casa Abril</a>
 </p>
 
 <p align="center">
@@ -106,11 +103,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/11/12/escritorio-decoracao/" target="_blank"><strong>Home office: soluções simples de decoração & organização.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/11/12/escritorio-decoracao/" target="_blank" rel="noopener noreferrer"><strong>Home office: soluções simples de decoração & organização.</strong></a>
 </p>
 
 <p align="justify">
-  <strong>3</strong> – Apele para o básico. Do que você precisa, realmente? Mesa, cadeira, computador, agenda, canetas, caderno de anotação…  o que mais? Repense seus hábitos, simplifique suas atividades e, de repente, o que parecia tão importante pode não ser como você imaginava. Ter uma <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank">vida simples</a> e livre dos excessos pode ser libertador!
+  <strong>3</strong> – Apele para o básico. Do que você precisa, realmente? Mesa, cadeira, computador, agenda, canetas, caderno de anotação…  o que mais? Repense seus hábitos, simplifique suas atividades e, de repente, o que parecia tão importante pode não ser como você imaginava. Ter uma <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank" rel="noopener noreferrer">vida simples</a> e livre dos excessos pode ser libertador!
 </p>
 
 <p align="center">
@@ -118,9 +115,9 @@ categories:
 </p>
 
 <p align="center">
-  Home office da <a href="http://www.trololodemulher.com.br/2013/10/04/fotografia-ruby-fernandes/" target="_blank">fotógrafa Ruby Fernandes</a>, montado com uma escrivaninha antiga e pouquíssimos objetos de decoração. Inspire-se!
+  Home office da <a href="http://www.trololodemulher.com.br/2013/10/04/fotografia-ruby-fernandes/" target="_blank" rel="noopener noreferrer">fotógrafa Ruby Fernandes</a>, montado com uma escrivaninha antiga e pouquíssimos objetos de decoração. Inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

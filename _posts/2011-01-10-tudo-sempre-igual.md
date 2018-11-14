@@ -1,10 +1,7 @@
 ---
-id: 2934
 title: Todo dia ela faz tudo sempre igual…
-date: 2011-01-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/01/10/tudo-sempre-igual/
 permalink: /2011/01/10/tudo-sempre-igual/
 categories:
   - Comportamento
@@ -28,7 +25,7 @@ Vivemos uma realidade massacrante, as horas escorrem entre os dedos numa rapidez
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/espelho.jpg"><img class="alignnone size-full wp-image-5718" title="espelho" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/espelho.jpg" alt="" width="568" height="426" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/espelho.jpg"><img class="alignnone size-full wp-image-5718" title="espelho" src="https://www.trololodemulher.com.br/2010/12/espelho.jpg" alt="" width="568" height="426" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -47,7 +44,7 @@ Vivemos uma realidade massacrante, as horas escorrem entre os dedos numa rapidez
   Lembre-se que qualquer mudança na sua vida depende somente do seu desejo, de suas ações. Um corpo magro não acontece de uma hora para outra, tem que propiciar mudanças, e isso exige paciência e comprometimento.
 </p>
 
-Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+Imagem: <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
@@ -58,7 +55,7 @@ Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
   
   <tr>
     <td width="600" valign="top">
-      <a href="http://lucianakotaka.com.br/" target="_blank">Comportamento Magro</a>
+      <a href="http://lucianakotaka.com.br/" target="_blank" rel="noopener noreferrer">Comportamento Magro</a>
     </td>
   </tr>
 </table>

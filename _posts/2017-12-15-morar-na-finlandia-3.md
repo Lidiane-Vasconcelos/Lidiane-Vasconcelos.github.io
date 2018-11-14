@@ -1,10 +1,7 @@
 ---
-id: 3844
 title: 5 motivos para morar na Finlândia, e 5 para não fazê-lo.
-date: 2017-12-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/12/15/morar-na-finlandia-3/
 permalink: /2017/12/15/morar-na-finlandia-3/
 categories:
   - Adriana Minhoto
@@ -15,7 +12,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14513" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/igreja-branca-simbolo-de-helsinki.jpg" alt="igreja branca - simbolo de helsinki" width="800" height="449" />
+  <img class="alignnone size-full wp-image-14513" src="https://www.trololodemulher.com.br/2017/12/igreja-branca-simbolo-de-helsinki.jpg" alt="igreja branca - simbolo de helsinki" width="800" height="449" />
 </p>
 
 <p align="center">
@@ -83,11 +80,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14511" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/floresta.jpg" alt="floresta" width="800" height="449" />
+  <img class="alignnone size-full wp-image-14511" src="https://www.trololodemulher.com.br/2017/12/floresta.jpg" alt="floresta" width="800" height="449" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14512" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/florestas.jpg" alt="florestas" width="800" height="449" />
+  <img class="alignnone size-full wp-image-14512" src="https://www.trololodemulher.com.br/2017/12/florestas.jpg" alt="florestas" width="800" height="449" />
 </p>
 
 <p align="justify">
@@ -107,7 +104,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14517" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/neve-frio.jpg" alt="neve-frio" width="800" height="1424" />
+  <img class="alignnone size-full wp-image-14517" src="https://www.trololodemulher.com.br/2017/12/neve-frio.jpg" alt="neve-frio" width="800" height="1424" />
 </p>
 
 <p align="justify">
@@ -143,7 +140,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14516" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/igreja-do-silencio-em-helsinki.jpg" alt="igreja do silencio em helsinki" width="800" height="449" />
+  <img class="alignnone size-full wp-image-14516" src="https://www.trololodemulher.com.br/2017/12/igreja-do-silencio-em-helsinki.jpg" alt="igreja do silencio em helsinki" width="800" height="449" />
 </p>
 
 <p align="center">
@@ -159,7 +156,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11365" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" />
+  <img class="alignnone size-full wp-image-11365" src="https://www.trololodemulher.com.br/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" />
 </p>
 
 <p align="justify">
@@ -167,27 +164,27 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/11/08/criar-filhos-fora-do-brasil/" target="_blank"><strong>Sobre criar filhos fora do Brasil: bilinguismo.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/11/08/criar-filhos-fora-do-brasil/" target="_blank" rel="noopener noreferrer"><strong>Sobre criar filhos fora do Brasil: bilinguismo.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/09/29/aniversario-infantil-na-finlandia/" target="_blank"><strong>Como é comemorado o aniversário infantil na Finlândia?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/09/29/aniversario-infantil-na-finlandia/" target="_blank" rel="noopener noreferrer"><strong>Como é comemorado o aniversário infantil na Finlândia?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/08/18/bullying-na-finlandia/" target="_blank"><strong>Caso de sucesso: o enfrentamento do bullying na Finlândia.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/08/18/bullying-na-finlandia/" target="_blank" rel="noopener noreferrer"><strong>Caso de sucesso: o enfrentamento do bullying na Finlândia.</strong></a>
 </p>
 
 <p align="justify">
-  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank" rel="noopener noreferrer">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>
 
 <p align="justify">

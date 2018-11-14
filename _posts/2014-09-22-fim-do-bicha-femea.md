@@ -1,10 +1,7 @@
 ---
-id: 3348
 title: Hora de mudar. Fim do Bicha Fêmea.
-date: 2014-09-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/09/22/fim-do-bicha-femea/
 permalink: /2014/09/22/fim-do-bicha-femea/
 categories:
   - Trololó
@@ -14,11 +11,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/BICHA-FEMEA-TROLOLO-DE-MULHER-BLOG-FEMININO.jpg"><img class="alignnone size-full wp-image-10431" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/BICHA-FEMEA-TROLOLO-DE-MULHER-BLOG-FEMININO.jpg" alt="BICHA FEMEA-TROLOLO DE MULHER-BLOG FEMININO" width="533" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/BICHA-FEMEA-TROLOLO-DE-MULHER-BLOG-FEMININO.jpg"><img class="alignnone size-full wp-image-10431" src="https://www.trololodemulher.com.br/2014/09/BICHA-FEMEA-TROLOLO-DE-MULHER-BLOG-FEMININO.jpg" alt="BICHA FEMEA-TROLOLO DE MULHER-BLOG FEMININO" width="533" height="800" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">FreeImages</a>
+  Imagem: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">FreeImages</a>
 </p>
 
 <p align="justify">
@@ -38,7 +35,7 @@ categories:
 </p>
 
 <p style="text-align: center;" align="justify">
-  <a href="https://twitter.com/TrololodeMulher" target="_blank">Novo Twitter</a> | <a href="https://www.facebook.com/TrololoMulher" target="_blank">Novo Facebook</a> | <a href="https://plus.google.com/+LidianeVasconcelosTMDC/posts" target="_blank">Google+</a> | <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">Para assinar e receber no seu e-mail</a> | Novo e-mail de contato: <a href="mailto:trololomulher@gmail.com">trololomulher@gmail.com</a>
+  <a href="https://twitter.com/TrololodeMulher" target="_blank" rel="noopener noreferrer">Novo Twitter</a> | <a href="https://www.facebook.com/TrololoMulher" target="_blank" rel="noopener noreferrer">Novo Facebook</a> | <a href="https://plus.google.com/+LidianeVasconcelosTMDC/posts" target="_blank" rel="noopener noreferrer">Google+</a> | <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer">Para assinar e receber no seu e-mail</a> | Novo e-mail de contato: <a href="mailto:trololomulher@gmail.com">trololomulher@gmail.com</a>
 </p>
 
 <p align="center">

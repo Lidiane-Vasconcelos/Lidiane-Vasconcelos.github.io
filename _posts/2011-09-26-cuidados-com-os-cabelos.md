@@ -1,10 +1,7 @@
 ---
-id: 3055
 title: 'Cuidados com os cabelos: 3 perguntas para uma cabeleireira'
-date: 2011-09-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/09/26/cuidados-com-os-cabelos/
 permalink: /2011/09/26/cuidados-com-os-cabelos/
 categories:
   - Beleza
@@ -13,7 +10,7 @@ Sempre é bom aproveitar a oportunidade de conversar com **profissionais da bele
 
 &nbsp;
 
-A **_Hair Designer_ Valéria Borges**, editora do **<a href="http://belezaemdiavalborges.blogspot.com/" target="_blank">Beleza em Dia</a>** e profissional atuante na área há 12 anos, fala com exclusividade para o blog e nos dá toques muito importantes. Quer ficar com os cabelos em dia? Então confere…
+A **_Hair Designer_ Valéria Borges**, editora do **<a href="http://belezaemdiavalborges.blogspot.com/" target="_blank" rel="noopener noreferrer">Beleza em Dia</a>** e profissional atuante na área há 12 anos, fala com exclusividade para o blog e nos dá toques muito importantes. Quer ficar com os cabelos em dia? Então confere…
 
 <!--more-->
 
@@ -42,7 +39,7 @@ A **_Hair Designer_ Valéria Borges**, editora do **<a href="http://belezaemdiav
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cabelos.jpg"><img class="alignnone size-full wp-image-6950" title="cabelos" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cabelos.jpg" alt="" width="600" height="482" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/09/cabelos.jpg"><img class="alignnone size-full wp-image-6950" title="cabelos" src="https://www.trololodemulher.com.br/2011/09/cabelos.jpg" alt="" width="600" height="482" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">Stock.xchng</a></strong>
 </p>
 
 &nbsp;
@@ -64,7 +61,7 @@ A **_Hair Designer_ Valéria Borges**, editora do **<a href="http://belezaemdiav
 </p>
 
 <p align="justify">
-  Quer continuar acompanhando as atualizações dessa profissional, suas dicas e sugestões quanto aos cuidados com a beleza em geral, sobretudo com os cabelos? Ela edita o blog <strong><a href="http://belezaemdiavalborges.blogspot.com/" target="_blank">Beleza em Dia</a></strong> produzindo um conteúdo super útil e de bastante qualidade nesse sentido. Aproveita, bonita!
+  Quer continuar acompanhando as atualizações dessa profissional, suas dicas e sugestões quanto aos cuidados com a beleza em geral, sobretudo com os cabelos? Ela edita o blog <strong><a href="http://belezaemdiavalborges.blogspot.com/" target="_blank" rel="noopener noreferrer">Beleza em Dia</a></strong> produzindo um conteúdo super útil e de bastante qualidade nesse sentido. Aproveita, bonita!
 </p>
 
 &nbsp;
@@ -79,13 +76,13 @@ A **_Hair Designer_ Valéria Borges**, editora do **<a href="http://belezaemdiav
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/cabelos200.jpg"><img class="alignnone size-full wp-image-6581" title="cabelos200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/cabelos200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/07/11/cabelos-dicas-e-cuidados/"><span style="font-size: small;">Cabelos: dicas e cuidados aos 20, 30, 40, 50 anos e +…</span></a></strong>
+        <a href="https://www.trololodemulher.com.br/2011/07/cabelos200.jpg"><img class="alignnone size-full wp-image-6581" title="cabelos200" src="https://www.trololodemulher.com.br/2011/07/cabelos200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/07/11/cabelos-dicas-e-cuidados/"><span style="font-size: small;">Cabelos: dicas e cuidados aos 20, 30, 40, 50 anos e +…</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/cabelos-cacheados3200.jpg"><img class="alignnone size-full wp-image-6269" title="cabelos cacheados[3]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/cabelos-cacheados3200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/04/20/cabelo-cacheado-2/">E<span style="font-size: small;">vite 6 erros e seu cabelo cacheado ficará lindo no dia a dia!</span></a></strong>
+        <a href="https://www.trololodemulher.com.br/2011/04/cabelos-cacheados3200.jpg"><img class="alignnone size-full wp-image-6269" title="cabelos cacheados[3]200" src="https://www.trololodemulher.com.br/2011/04/cabelos-cacheados3200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/04/20/cabelo-cacheado-2/">E<span style="font-size: small;">vite 6 erros e seu cabelo cacheado ficará lindo no dia a dia!</span></a></strong>
       </p>
     </td>
   </tr>
@@ -95,7 +92,7 @@ A **_Hair Designer_ Valéria Borges**, editora do **<a href="http://belezaemdiav
   <tr>
     <td valign="top" width="600">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/foto-7-200.jpg"><img class="alignnone size-full wp-image-4391" title="foto 7 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/foto-7-200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2010/02/23/cabelo-cacheado/"><span style="font-size: small;">Cabelo cacheado tem corte, sim!</span></a></strong>
+        <a href="https://www.trololodemulher.com.br/2010/02/foto-7-200.jpg"><img class="alignnone size-full wp-image-4391" title="foto 7 200" src="https://www.trololodemulher.com.br/2010/02/foto-7-200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2010/02/23/cabelo-cacheado/"><span style="font-size: small;">Cabelo cacheado tem corte, sim!</span></a></strong>
       </p>
     </td>
   </tr>

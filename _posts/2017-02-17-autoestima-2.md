@@ -1,10 +1,7 @@
 ---
-id: 3728
 title: Veja como cuidar de sua autoestima, e tenha uma vida leve!
-date: 2017-02-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/02/17/autoestima-2/
 permalink: /2017/02/17/autoestima-2/
 categories:
   - Comportamento
@@ -19,11 +16,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="size-full wp-image-13493" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/COMPORTAMENTO-COMPORTAMENTO-FEMININO-AUTOESTIMA-800.jpg" alt="Wikipedia: &quot;Redheadday is the name of a Dutch summer festival that takes place each first weekend of September in the city of Breda, in the Netherlands.&quot; Facts about redheads: &quot;Red hair is seen on the heads of only less than one percent of people.in the world. Most redheads live in the U.K., Ireland, and former colonies of U.K. like Australia. The highest percentage of natural Redheads in the world is in Scotland (13%), followed closely by Ireland with 10%. In the US, about 2% of the population are natural redheads. Redheads are becoming rarer and could be extinct in 100 years, according to genetic scientists.&quot; This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. You are free: to Share — to copy, distribute and transmit the work to Remix — to adapt the work But Under the following conditions: Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work). Noncommercial — You may not use this work for commercial purposes. Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one." width="800" height="800" />
+  <img class="size-full wp-image-13493" src="https://www.trololodemulher.com.br/2017/02/COMPORTAMENTO-COMPORTAMENTO-FEMININO-AUTOESTIMA-800.jpg" alt="Wikipedia: &quot;Redheadday is the name of a Dutch summer festival that takes place each first weekend of September in the city of Breda, in the Netherlands.&quot; Facts about redheads: &quot;Red hair is seen on the heads of only less than one percent of people.in the world. Most redheads live in the U.K., Ireland, and former colonies of U.K. like Australia. The highest percentage of natural Redheads in the world is in Scotland (13%), followed closely by Ireland with 10%. In the US, about 2% of the population are natural redheads. Redheads are becoming rarer and could be extinct in 100 years, according to genetic scientists.&quot; This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. You are free: to Share — to copy, distribute and transmit the work to Remix — to adapt the work But Under the following conditions: Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work). Noncommercial — You may not use this work for commercial purposes. Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one." width="800" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/qsimple/6121239708/" target="_blank">Qsimple, Memories For The Future Photography</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">CC BY-NC-SA</a>
+  Imagem: <a href="https://www.flickr.com/photos/qsimple/6121239708/" target="_blank" rel="noopener noreferrer">Qsimple, Memories For The Future Photography</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA</a>
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -51,7 +48,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank"><strong>Medidas práticas pra restaurar sua autoestima… já!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank" rel="noopener noreferrer"><strong>Medidas práticas pra restaurar sua autoestima… já!</strong></a>
 </p>
 
 <p style="text-align: justify;">
@@ -73,19 +70,19 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13490" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/ANGELICA-DE-LIMA-PSICOLOGA-BELO-HORIZONTE-MINAS-GERAIS-MG-BH.jpg" alt="ANGELICA DE LIMA-PSICOLOGA-BELO HORIZONTE-MINAS GERAIS-MG-BH" width="800" height="152" />
+  <img class="alignnone size-full wp-image-13490" src="https://www.trololodemulher.com.br/2017/02/ANGELICA-DE-LIMA-PSICOLOGA-BELO-HORIZONTE-MINAS-GERAIS-MG-BH.jpg" alt="ANGELICA DE LIMA-PSICOLOGA-BELO HORIZONTE-MINAS GERAIS-MG-BH" width="800" height="152" />
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  Angélica mantém sempre atualizada sua <em>fanpage no Facebook</em>, com conteúdo bastante interessante pra quem não perde o cuidado de si, especialmente com relação à mente. <a href="https://www.facebook.com/Psicologaangelicalima/" target="_blank">Clique aqui, curta e acompanhe</a>! Lá é um canal por onde também é possível entrar em contato com a profissional.
+  Angélica mantém sempre atualizada sua <em>fanpage no Facebook</em>, com conteúdo bastante interessante pra quem não perde o cuidado de si, especialmente com relação à mente. <a href="https://www.facebook.com/Psicologaangelicalima/" target="_blank" rel="noopener noreferrer">Clique aqui, curta e acompanhe</a>! Lá é um canal por onde também é possível entrar em contato com a profissional.
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

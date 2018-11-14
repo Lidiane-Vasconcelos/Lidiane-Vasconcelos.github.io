@@ -1,10 +1,7 @@
 ---
-id: 3595
 title: 'Autonomia infantil: saiba quando e como estimular.'
-date: 2016-04-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/04/20/autonomia-infantil/
 permalink: /2016/04/20/autonomia-infantil/
 categories:
   - Comportamento Infantil
@@ -19,7 +16,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12427" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/RAPHAELE-SANTIAGO-JOAO-RAFAEL.jpg" alt="RAPHAELE SANTIAGO-JOAO RAFAEL" width="800" height="1067" />
+  <img class="alignnone size-full wp-image-12427" src="https://www.trololodemulher.com.br/2016/04/RAPHAELE-SANTIAGO-JOAO-RAFAEL.jpg" alt="RAPHAELE SANTIAGO-JOAO RAFAEL" width="800" height="1067" />
 </p>
 
 <p align="center">
@@ -31,11 +28,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12423" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/MATERNIDADE-FILHOS-COMPORTAMENTO-INFANTIL-AUTONOMIA.jpg" alt="MATERNIDADE-FILHOS-COMPORTAMENTO INFANTIL- AUTONOMIA" width="751" height="752" />
+  <img class="alignnone size-full wp-image-12423" src="https://www.trololodemulher.com.br/2016/04/MATERNIDADE-FILHOS-COMPORTAMENTO-INFANTIL-AUTONOMIA.jpg" alt="MATERNIDADE-FILHOS-COMPORTAMENTO INFANTIL- AUTONOMIA" width="751" height="752" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/susivinh/10285791956/" target="_blank">susivinh</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nd/2.0/" target="_blank">CC BY-ND</a>
+  Imagem: <a href="https://www.flickr.com/photos/susivinh/10285791956/" target="_blank" rel="noopener noreferrer">susivinh</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nd/2.0/" target="_blank" rel="noopener noreferrer">CC BY-ND</a>
 </p>
 
 <p align="justify">
@@ -95,7 +92,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12424" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/MATERNIDADE-FILHOS-COMPORTAMENTO-INFANTIL-AUTONOMIA2.jpg" alt="MATERNIDADE-FILHOS-COMPORTAMENTO INFANTIL- AUTONOMIA[2]" width="508" height="219" />
+  <img class="alignnone size-full wp-image-12424" src="https://www.trololodemulher.com.br/2016/04/MATERNIDADE-FILHOS-COMPORTAMENTO-INFANTIL-AUTONOMIA2.jpg" alt="MATERNIDADE-FILHOS-COMPORTAMENTO INFANTIL- AUTONOMIA[2]" width="508" height="219" />
 </p>
 
 <p align="justify">
@@ -123,7 +120,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11481" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/VIVIAN-HAGEN-PSICOLOGA-INFANTIL-JUIZ-DE-FORA-MG.jpg" alt="VIVIAN HAGEN-PSICOLOGA INFANTIL-JUIZ DE FORA-MG" width="800" height="173" />
+  <img class="alignnone size-full wp-image-11481" src="https://www.trololodemulher.com.br/2015/09/VIVIAN-HAGEN-PSICOLOGA-INFANTIL-JUIZ-DE-FORA-MG.jpg" alt="VIVIAN HAGEN-PSICOLOGA INFANTIL-JUIZ DE FORA-MG" width="800" height="173" />
 </p>
 
 <p align="justify">
@@ -131,15 +128,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/09/18/mau-comportamento-infantil/" target="_blank"><strong>O mau comportamento infantil ocorre em sua família?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/09/18/mau-comportamento-infantil/" target="_blank" rel="noopener noreferrer"><strong>O mau comportamento infantil ocorre em sua família?</strong></a>
 </p>
 
 <p align="justify">
-  Vívian atualiza um blog repleto de conteúdo para nós, mães ávidas por informação de qualidade que nos ajude a seguir essa jornada deliciosa e complexa, que a de criar e educar nossas crianças. <a href="http://www.vivianhagen.com.br/" target="_blank">Acesse clicando aqui</a> e, para complementar, <a href="https://www.facebook.com/V%C3%ADvian-Hagen-Psic%C3%B3loga-Infantil-1613817495525116/timeline/" target="_blank">curta sua fanpage no facebook</a> e acompanhe as atualizações da profissional por lá também. Vívian atende em Juiz de Fora – MG, e os dados de contato como telefone, endereço, e-mail e horários de atendimento estão no blog. Se houver dificuldade de locomoção até seu consultório, a Psicóloga também atende online. Entre em contato com ela para saber como isso é feito. Caminhando com respeito e amor em família, é certo que qualquer problema pode ser resolvido. Não deixe de procurar ajuda se você sente que é hora de fazer isso, <em>viu</em>?
+  Vívian atualiza um blog repleto de conteúdo para nós, mães ávidas por informação de qualidade que nos ajude a seguir essa jornada deliciosa e complexa, que a de criar e educar nossas crianças. <a href="http://www.vivianhagen.com.br/" target="_blank" rel="noopener noreferrer">Acesse clicando aqui</a> e, para complementar, <a href="https://www.facebook.com/V%C3%ADvian-Hagen-Psic%C3%B3loga-Infantil-1613817495525116/timeline/" target="_blank" rel="noopener noreferrer">curta sua fanpage no facebook</a> e acompanhe as atualizações da profissional por lá também. Vívian atende em Juiz de Fora – MG, e os dados de contato como telefone, endereço, e-mail e horários de atendimento estão no blog. Se houver dificuldade de locomoção até seu consultório, a Psicóloga também atende online. Entre em contato com ela para saber como isso é feito. Caminhando com respeito e amor em família, é certo que qualquer problema pode ser resolvido. Não deixe de procurar ajuda se você sente que é hora de fazer isso, <em>viu</em>?
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

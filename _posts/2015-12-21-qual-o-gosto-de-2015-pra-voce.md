@@ -1,10 +1,7 @@
 ---
-id: 3523
 title: Qual o gosto de 2015 pra você?
-date: 2015-12-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/12/21/qual-o-gosto-de-2015-pra-voce/
 permalink: /2015/12/21/qual-o-gosto-de-2015-pra-voce/
 categories:
   - Trololó
@@ -22,15 +19,15 @@ categories:
 </p>
 
 <p align="justify">
-  A força criadora e empreendedora de <strong>Jê Pereira</strong>, no post <a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank">DE HOBBY A TRABALHO, COMO GANHAR DINHEIRO?</a>
+  A força criadora e empreendedora de <strong>Jê Pereira</strong>, no post <a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank" rel="noopener noreferrer">DE HOBBY A TRABALHO, COMO GANHAR DINHEIRO?</a>
 </p>
 
 <p align="justify">
-  A garra de quem quer lutar diariamente pela vida, apesar da dor, vista na história de <strong>Ly Mello</strong>, no post <a href="http://www.trololodemulher.com.br/2014/12/05/como-ser-resiliente/" target="_blank">COMO SER RESILIENTE? A VIDA ENSINA.</a>
+  A garra de quem quer lutar diariamente pela vida, apesar da dor, vista na história de <strong>Ly Mello</strong>, no post <a href="http://www.trololodemulher.com.br/2014/12/05/como-ser-resiliente/" target="_blank" rel="noopener noreferrer">COMO SER RESILIENTE? A VIDA ENSINA.</a>
 </p>
 
 <p align="justify">
-  A energia transformadora na vida de mulheres que querem ter sucesso (com propósito!) na vida, liberada pela <strong>Simone Mitjans</strong>, no post <a href="http://www.trololodemulher.com.br/2015/11/27/empreendedorismo/" target="_blank">EMPREENDEDORISMO, QUAIS OS 7 MEDOS MAIS COMUNS?</a>
+  A energia transformadora na vida de mulheres que querem ter sucesso (com propósito!) na vida, liberada pela <strong>Simone Mitjans</strong>, no post <a href="http://www.trololodemulher.com.br/2015/11/27/empreendedorismo/" target="_blank" rel="noopener noreferrer">EMPREENDEDORISMO, QUAIS OS 7 MEDOS MAIS COMUNS?</a>
 </p>
 
 <p align="justify">
@@ -42,7 +39,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/12/MENSAGEM-NATAL.jpg"><img class="alignnone size-full wp-image-11760" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/12/MENSAGEM-NATAL.jpg" alt="MENSAGEM NATAL" width="800" height="671" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/12/MENSAGEM-NATAL.jpg"><img class="alignnone size-full wp-image-11760" src="https://www.trololodemulher.com.br/2015/12/MENSAGEM-NATAL.jpg" alt="MENSAGEM NATAL" width="800" height="671" /></a>
 </p>
 
 <p align="justify">
@@ -58,5 +55,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

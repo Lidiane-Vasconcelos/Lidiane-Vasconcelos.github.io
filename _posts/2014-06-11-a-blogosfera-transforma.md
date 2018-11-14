@@ -1,10 +1,7 @@
 ---
-id: 3307
 title: A blogosfera transforma?
-date: 2014-06-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/06/11/a-blogosfera-transforma/
 permalink: /2014/06/11/a-blogosfera-transforma/
 categories:
   - Comportamento
@@ -27,7 +24,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/THAIS-GODINHO.png"><img class="alignnone size-full wp-image-10111" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/THAIS-GODINHO.png" alt="THAIS GODINHO" width="600" height="515" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/06/THAIS-GODINHO.png"><img class="alignnone size-full wp-image-10111" src="https://www.trololodemulher.com.br/2014/06/THAIS-GODINHO.png" alt="THAIS GODINHO" width="600" height="515" /></a>
 </p>
 
 <p align="center">
@@ -37,12 +34,12 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Você conhece a <strong>Thais Godinho</strong>? Ela é uma bonita incrivelmente sensível e inteligente que, arrisco dizer, edita o blog mais rico e interessante de toda a blogosfera (ui!). Seu blog, o <a href="http://vidaorganizada.com/" target="_blank">Vida Organizada</a>, me ajudou muito nessa descoberta pessoal de que tanto falo. O blog, que f<strong>ala sobre organização em sua totalidade na nossa vida, nos ajuda no desenvolvimento em vários aspectos: cuidar da casa, da família, do trabalho e da mente</strong>.
+  Você conhece a <strong>Thais Godinho</strong>? Ela é uma bonita incrivelmente sensível e inteligente que, arrisco dizer, edita o blog mais rico e interessante de toda a blogosfera (ui!). Seu blog, o <a href="http://vidaorganizada.com/" target="_blank" rel="noopener noreferrer">Vida Organizada</a>, me ajudou muito nessa descoberta pessoal de que tanto falo. O blog, que f<strong>ala sobre organização em sua totalidade na nossa vida, nos ajuda no desenvolvimento em vários aspectos: cuidar da casa, da família, do trabalho e da mente</strong>.
 </p>
 
 &nbsp;
 
-A Thais sempre diz que sua missão  é inspirar as pessoas a serem mais organizadas, e que “_falar sobre organização é querer ter uma vida coerente sob todos os aspectos; em que a gente saiba definir prioridades e transformar sonhos em objetivos_”. Recentemente ela editou um <a href="http://vidaorganizada.com/blog/editorial/tudo-comeca-com-uma-decisao/" target="_blank">post sobre sua decisão de trabalhar exclusivamente com o que gosta e a deixa feliz</a>, e foi muito bonito, além de inspirador. Naquele momento ela mostrou o quanto é especial e como seu trabalho é enriquecedor, tanto para ela quanto para quem a lê, como eu.
+A Thais sempre diz que sua missão  é inspirar as pessoas a serem mais organizadas, e que “_falar sobre organização é querer ter uma vida coerente sob todos os aspectos; em que a gente saiba definir prioridades e transformar sonhos em objetivos_”. Recentemente ela editou um <a href="http://vidaorganizada.com/blog/editorial/tudo-comeca-com-uma-decisao/" target="_blank" rel="noopener noreferrer">post sobre sua decisão de trabalhar exclusivamente com o que gosta e a deixa feliz</a>, e foi muito bonito, além de inspirador. Naquele momento ela mostrou o quanto é especial e como seu trabalho é enriquecedor, tanto para ela quanto para quem a lê, como eu.
 
 &nbsp;
 
@@ -51,11 +48,11 @@ A Thais sempre diz que sua missão  é inspirar as pessoas a serem mais organiz
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/BLOGAGEM-COLETIVA-BLOGOSFERA-TRANSFORMA.jpg"><img class="alignnone size-full wp-image-10105" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/BLOGAGEM-COLETIVA-BLOGOSFERA-TRANSFORMA.jpg" alt="BLOGAGEM COLETIVA BLOGOSFERA TRANSFORMA" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/06/BLOGAGEM-COLETIVA-BLOGOSFERA-TRANSFORMA.jpg"><img class="alignnone size-full wp-image-10105" src="https://www.trololodemulher.com.br/2014/06/BLOGAGEM-COLETIVA-BLOGOSFERA-TRANSFORMA.jpg" alt="BLOGAGEM COLETIVA BLOGOSFERA TRANSFORMA" width="600" height="450" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
+  Imagem: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">free images</a>
 </p>
 
 &nbsp;
@@ -67,7 +64,7 @@ A Thais sempre diz que sua missão  é inspirar as pessoas a serem mais organiz
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -84,13 +81,13 @@ A Thais sempre diz que sua missão  é inspirar as pessoas a serem mais organiz
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -99,5 +96,5 @@ A Thais sempre diz que sua missão  é inspirar as pessoas a serem mais organiz
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" /></a>
+  <a href="https://www.facebook.com/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-9849" src="https://www.trololodemulher.com.br/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" /></a>
 </p>

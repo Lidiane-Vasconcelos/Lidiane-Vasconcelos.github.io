@@ -1,10 +1,7 @@
 ---
-id: 3617
 title: 'Superação e perseverança: amor materno que inspira.'
-date: 2016-05-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/05/27/amor-materno/
 permalink: /2016/05/27/amor-materno/
 categories:
   - Entrevistas
@@ -19,7 +16,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12588" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/AMOR-MATERNO.jpg" alt="AMOR MATERNO" width="640" height="428" />
+  <img class="alignnone size-full wp-image-12588" src="https://www.trololodemulher.com.br/2016/05/AMOR-MATERNO.jpg" alt="AMOR MATERNO" width="640" height="428" />
 </p>
 
 <p align="center">
@@ -39,7 +36,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Infelizmente foi preciso que eu fizesse uma mudança drástica em minha vida, para ir atrás deste tipo de informação. Me mudei de país há 9 meses para conseguir dar o mínimo de dignidade, respeito e inclusão social que meu filho merece. Faço minha parte, como por exemplo mantendo um </em><a href="https://www.facebook.com/groups/paralisiacerebraleamigos/" target="_blank"><em>grupo virtual no Facebook de troca de informações entre mães e profissionais da área</em></a><em>, que hoje já conta com quase 15 mil membros. A falta de informação é o que leva ao pré-conceito. E neste quesito, o Brasil ainda tem muito a evoluir</em>.”
+  “<em>Infelizmente foi preciso que eu fizesse uma mudança drástica em minha vida, para ir atrás deste tipo de informação. Me mudei de país há 9 meses para conseguir dar o mínimo de dignidade, respeito e inclusão social que meu filho merece. Faço minha parte, como por exemplo mantendo um </em><a href="https://www.facebook.com/groups/paralisiacerebraleamigos/" target="_blank" rel="noopener noreferrer"><em>grupo virtual no Facebook de troca de informações entre mães e profissionais da área</em></a><em>, que hoje já conta com quase 15 mil membros. A falta de informação é o que leva ao pré-conceito. E neste quesito, o Brasil ainda tem muito a evoluir</em>.”
 </p>
 
 <p align="justify">
@@ -51,7 +48,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Você é fotógrafa (</strong><a href="https://www.facebook.com/marihartphoto" target="_blank"><strong>Mari Hart – Photo & Soul</strong></a><strong>), certo? Como equilibra seu trabalho junto ao seu papel de mãe de uma criança que demanda mais cuidados?</strong>
+  <strong>Trololó de Mulher >>> Você é fotógrafa (</strong><a href="https://www.facebook.com/marihartphoto" target="_blank" rel="noopener noreferrer"><strong>Mari Hart – Photo & Soul</strong></a><strong>), certo? Como equilibra seu trabalho junto ao seu papel de mãe de uma criança que demanda mais cuidados?</strong>
 </p>
 
 <p align="justify">
@@ -75,7 +72,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12589" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/AMOR-MATERNO2.jpg" alt="AMOR MATERNO[2]" width="640" height="428" />
+  <img class="alignnone size-full wp-image-12589" src="https://www.trololodemulher.com.br/2016/05/AMOR-MATERNO2.jpg" alt="AMOR MATERNO[2]" width="640" height="428" />
 </p>
 
 <p align="center">
@@ -91,7 +88,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

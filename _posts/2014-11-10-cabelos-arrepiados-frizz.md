@@ -1,10 +1,7 @@
 ---
-id: 3369
 title: Cabelos arrepiados com frizz… o que fazer?
-date: 2014-11-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/11/10/cabelos-arrepiados-frizz/
 permalink: /2014/11/10/cabelos-arrepiados-frizz/
 categories:
   - Beleza
@@ -34,7 +31,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/BELEZA-CABELOS-FRIZZ.jpg"><img class="alignnone size-full wp-image-10571" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/BELEZA-CABELOS-FRIZZ.jpg" alt="BELEZA-CABELOS-FRIZZ" width="420" height="620" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/BELEZA-CABELOS-FRIZZ.jpg"><img class="alignnone size-full wp-image-10571" src="https://www.trololodemulher.com.br/2014/11/BELEZA-CABELOS-FRIZZ.jpg" alt="BELEZA-CABELOS-FRIZZ" width="420" height="620" /></a>
 </p>
 
 <p align="justify">
@@ -62,7 +59,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/FABIANA-MIRANDA-FA´BELLA-SALÃO-DE-BELEZA-SANTO-ANDRE-SP.png"><img class="alignnone size-full wp-image-9908" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/FABIANA-MIRANDA-FA´BELLA-SALÃO-DE-BELEZA-SANTO-ANDRE-SP.png" alt="FABIANA MIRANDA-FA´BELLA SALÃO DE BELEZA-SANTO ANDRE-SP" width="600" height="295" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/02/FABIANA-MIRANDA-FA´BELLA-SALÃO-DE-BELEZA-SANTO-ANDRE-SP.png"><img class="alignnone size-full wp-image-9908" src="https://www.trololodemulher.com.br/2014/02/FABIANA-MIRANDA-FA´BELLA-SALÃO-DE-BELEZA-SANTO-ANDRE-SP.png" alt="FABIANA MIRANDA-FA´BELLA SALÃO DE BELEZA-SANTO ANDRE-SP" width="600" height="295" /></a>
 </p>
 
 <p align="justify">
@@ -70,23 +67,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/05/27/cabelos-saude-e-beleza/" target="_blank"><strong>Cabelos: saiba 5 verdades sobre saúde e beleza.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/05/27/cabelos-saude-e-beleza/" target="_blank" rel="noopener noreferrer"><strong>Cabelos: saiba 5 verdades sobre saúde e beleza.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/02/06/cabelos-beleza-verao/" target="_blank"><strong>Verão + sol + mar + piscina = você descabelada. Xiii… e agora?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/02/06/cabelos-beleza-verao/" target="_blank" rel="noopener noreferrer"><strong>Verão + sol + mar + piscina = você descabelada. Xiii… e agora?</strong></a>
 </p>
 
 <p align="justify">
-  Então, bonita, contar com dicas de uma profissional como a Fabiana faz toda a diferença, não é verdade? Quem é de Santo André pode chegar no salão e entregar-se a equipe do Fa´bella, que oferece serviços como Dia da Noiva, além de cuidar dos cabelos e estética de suas clientes. Quem não está por lá, mas quer acompanhar todas as novidades e dicas do Fa´bella, pode visitar <a href="http://www.fabella.com.br/" target="_blank">seu site</a>, acompanhar os <a href="http://dicasdofabella.blogspot.com.br/" target="_blank">posts no blog</a> ou curtir a <a href="https://www.facebook.com/Fabiana.fabella" target="_blank">página do salão no Facebook</a>. Se joga, bonita!
+  Então, bonita, contar com dicas de uma profissional como a Fabiana faz toda a diferença, não é verdade? Quem é de Santo André pode chegar no salão e entregar-se a equipe do Fa´bella, que oferece serviços como Dia da Noiva, além de cuidar dos cabelos e estética de suas clientes. Quem não está por lá, mas quer acompanhar todas as novidades e dicas do Fa´bella, pode visitar <a href="http://www.fabella.com.br/" target="_blank" rel="noopener noreferrer">seu site</a>, acompanhar os <a href="http://dicasdofabella.blogspot.com.br/" target="_blank" rel="noopener noreferrer">posts no blog</a> ou curtir a <a href="https://www.facebook.com/Fabiana.fabella" target="_blank" rel="noopener noreferrer">página do salão no Facebook</a>. Se joga, bonita!
 </p>
 
 <p align="justify">
-  Imagem: <a href="http://www.totalbeauty.com/content/gallery/hairstyles-for-frizzy-hair" target="_blank">totalbeauty.com</a>
+  Imagem: <a href="http://www.totalbeauty.com/content/gallery/hairstyles-for-frizzy-hair" target="_blank" rel="noopener noreferrer">totalbeauty.com</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

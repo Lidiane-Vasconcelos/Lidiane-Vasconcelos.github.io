@@ -1,10 +1,7 @@
 ---
-id: 3791
 title: Agir com gentileza muda no mínimo o seu mundo.
-date: 2017-09-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/09/01/gentileza/
 permalink: /2017/09/01/gentileza/
 categories:
   - Comportamento
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14058" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/TROLOLO-DE-MULHER12.jpg" alt="TROLOLO DE MULHER[12]" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14058" src="https://www.trololodemulher.com.br/2017/09/TROLOLO-DE-MULHER12.jpg" alt="TROLOLO DE MULHER[12]" width="800" height="800" />
 </p>
 
 <p align="justify">
@@ -36,7 +33,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 &nbsp;

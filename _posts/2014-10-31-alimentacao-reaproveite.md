@@ -1,10 +1,7 @@
 ---
-id: 3362
 title: 'Alimentação: coma melhor, reaproveite e economize!'
-date: 2014-10-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/10/31/alimentacao-reaproveite/
 permalink: /2014/10/31/alimentacao-reaproveite/
 categories:
   - Receitas
@@ -18,19 +15,19 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL.jpg"><img class="alignnone size-full wp-image-10529" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL.jpg" alt="RECEITA-RECEITA FACIL-RECEITA SAUDAVEL" width="360" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL.jpg"><img class="alignnone size-full wp-image-10529" src="https://www.trololodemulher.com.br/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL.jpg" alt="RECEITA-RECEITA FACIL-RECEITA SAUDAVEL" width="360" height="450" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.sheknows.co.uk/" target="_blank">She Knows</a>
+  Imagem: <a href="http://www.sheknows.co.uk/" target="_blank" rel="noopener noreferrer">She Knows</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/habitos.png"><img class="alignnone size-full wp-image-10528" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/habitos.png" alt="habitos" width="800" height="96" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/habitos.png"><img class="alignnone size-full wp-image-10528" src="https://www.trololodemulher.com.br/2014/10/habitos.png" alt="habitos" width="800" height="96" /></a>
 </p>
 
 <p align="justify">
-  Sabe a <strong>Juliana Stelli</strong>? Você já deve conhecer, aposto! Ela é a bonitona que comanda o blog <a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a>, um espaço virtual <em>superultramega</em> querido recheado de receitas do tipo “gente da gente”, o que me fez viver de amores e frequentá-lo, regularmente, há muito tempo. Essa moça tem uma série de dicas sobre mudanças de hábitos na alimentação que valem a pena a nossa atenção. A boa notícia é que ela compartilhou conosco… espia só, repense como e o que você anda comendo, e mude!
+  Sabe a <strong>Juliana Stelli</strong>? Você já deve conhecer, aposto! Ela é a bonitona que comanda o blog <a href="http://www.pitadinha.com/" target="_blank" rel="noopener noreferrer">Pitadinha</a>, um espaço virtual <em>superultramega</em> querido recheado de receitas do tipo “gente da gente”, o que me fez viver de amores e frequentá-lo, regularmente, há muito tempo. Essa moça tem uma série de dicas sobre mudanças de hábitos na alimentação que valem a pena a nossa atenção. A boa notícia é que ela compartilhou conosco… espia só, repense como e o que você anda comendo, e mude!
 </p>
 
 <p align="justify">
@@ -54,11 +51,11 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>5. <span style="color: #ff0000;">Aproveite!</span> Comer é muito bom e comer comida que nos dá o que precisamos para viver bem é melhor ainda :)” Juliana Stelli | <a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a></strong></em>
+  <em><strong>5. <span style="color: #ff0000;">Aproveite!</span> Comer é muito bom e comer comida que nos dá o que precisamos para viver bem é melhor ainda :)” Juliana Stelli | <a href="http://www.pitadinha.com/" target="_blank" rel="noopener noreferrer">Pitadinha</a></strong></em>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/gaste.png"><img class="alignnone size-full wp-image-10527" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/gaste.png" alt="gaste" width="800" height="71" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/gaste.png"><img class="alignnone size-full wp-image-10527" src="https://www.trololodemulher.com.br/2014/10/gaste.png" alt="gaste" width="800" height="71" /></a>
 </p>
 
 <p align="justify">
@@ -78,11 +75,11 @@ categories:
 > </p>
 
 <p align="justify">
-  Outra forma de evitar o desperdício, eu acrescento, é<strong> ficar atenta a datas de validade dos produtos</strong>. Além do mais, é sempre bom saber como variar o cardápio com as sobras dos alimentos. Quem nos ensina como fazer isso é a <strong>Carol</strong>, que além de dividir o que sabe aqui conosco, também edita um blog recheado com muito mais de suas receitas, dicas de viagens e bem viver…o <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">Mundo da Carol</a>.
+  Outra forma de evitar o desperdício, eu acrescento, é<strong> ficar atenta a datas de validade dos produtos</strong>. Além do mais, é sempre bom saber como variar o cardápio com as sobras dos alimentos. Quem nos ensina como fazer isso é a <strong>Carol</strong>, que além de dividir o que sabe aqui conosco, também edita um blog recheado com muito mais de suas receitas, dicas de viagens e bem viver…o <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Mundo da Carol</a>.
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/dicas.png"><img class="alignnone size-full wp-image-10526" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/dicas.png" alt="dicas" width="800" height="51" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/dicas.png"><img class="alignnone size-full wp-image-10526" src="https://www.trololodemulher.com.br/2014/10/dicas.png" alt="dicas" width="800" height="51" /></a>
 </p>
 
 <p align="justify">
@@ -90,7 +87,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-BOLINHO-DE-ARROZ.jpg"><img class="alignnone size-full wp-image-10531" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-BOLINHO-DE-ARROZ.jpg" alt="RECEITA-RECEITA FACIL-RECEITA SAUDAVEL-BOLINHO DE ARROZ" width="800" height="451" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-BOLINHO-DE-ARROZ.jpg"><img class="alignnone size-full wp-image-10531" src="https://www.trololodemulher.com.br/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-BOLINHO-DE-ARROZ.jpg" alt="RECEITA-RECEITA FACIL-RECEITA SAUDAVEL-BOLINHO DE ARROZ" width="800" height="451" /></a>
 </p>
 
 <p align="justify">
@@ -128,7 +125,7 @@ Misturar bem todos os ingredientes até formar uma massa. Tente modelar o bolinh
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-BOLINHO-DE-FEIJAO2.jpg"><img class="alignnone size-full wp-image-10532" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-BOLINHO-DE-FEIJAO2.jpg" alt="RECEITA-RECEITA FACIL-RECEITA SAUDAVEL-BOLINHO DE FEIJAO[2]" width="800" height="451" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-BOLINHO-DE-FEIJAO2.jpg"><img class="alignnone size-full wp-image-10532" src="https://www.trololodemulher.com.br/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-BOLINHO-DE-FEIJAO2.jpg" alt="RECEITA-RECEITA FACIL-RECEITA SAUDAVEL-BOLINHO DE FEIJAO[2]" width="800" height="451" /></a>
 </p>
 
 <p align="justify">
@@ -162,7 +159,7 @@ Eu amassei bem o feijão com o garfo e utilizei o caldinho também. Acrescentei 
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-ESPAGUETE-ABOBRINHA.jpg"><img class="alignnone size-full wp-image-10533" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-ESPAGUETE-ABOBRINHA.jpg" alt="RECEITA-RECEITA FACIL-RECEITA SAUDAVEL-ESPAGUETE-ABOBRINHA" width="800" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-ESPAGUETE-ABOBRINHA.jpg"><img class="alignnone size-full wp-image-10533" src="https://www.trololodemulher.com.br/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-ESPAGUETE-ABOBRINHA.jpg" alt="RECEITA-RECEITA FACIL-RECEITA SAUDAVEL-ESPAGUETE-ABOBRINHA" width="800" height="450" /></a>
 </p>
 
 <p align="justify">
@@ -178,7 +175,7 @@ Eu amassei bem o feijão com o garfo e utilizei o caldinho também. Acrescentei 
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-GELEIA-DE-MORANGO-CASEIRA.jpg"><img class="alignnone size-full wp-image-10534" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-GELEIA-DE-MORANGO-CASEIRA.jpg" alt="RECEITA-RECEITA FACIL-RECEITA SAUDAVEL-GELEIA DE MORANGO CASEIRA" width="447" height="796" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-GELEIA-DE-MORANGO-CASEIRA.jpg"><img class="alignnone size-full wp-image-10534" src="https://www.trololodemulher.com.br/2014/10/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-GELEIA-DE-MORANGO-CASEIRA.jpg" alt="RECEITA-RECEITA FACIL-RECEITA SAUDAVEL-GELEIA DE MORANGO CASEIRA" width="447" height="796" /></a>
 </p>
 
 <p align="justify">
@@ -190,15 +187,15 @@ Eu amassei bem o feijão com o garfo e utilizei o caldinho também. Acrescentei 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank"><strong>Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank" rel="noopener noreferrer"><strong>Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/" target="_blank"><strong>Hamburguer de grão de bico facinho, facinho…</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/" target="_blank" rel="noopener noreferrer"><strong>Hamburguer de grão de bico facinho, facinho…</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank"><strong>Canelone de berinjela + queijo cottage ) no molho caseiro.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank" rel="noopener noreferrer"><strong>Canelone de berinjela + queijo cottage ) no molho caseiro.</strong></a>
 </p>
 
 <p align="justify">
@@ -206,7 +203,7 @@ Eu amassei bem o feijão com o garfo e utilizei o caldinho também. Acrescentei 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

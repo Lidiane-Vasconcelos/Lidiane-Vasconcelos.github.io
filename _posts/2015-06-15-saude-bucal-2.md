@@ -1,10 +1,7 @@
 ---
-id: 3435
 title: O que você não sabia sobre a saúde bucal x corporal.
-date: 2015-06-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/06/15/saude-bucal-2/
 permalink: /2015/06/15/saude-bucal-2/
 categories:
   - Saúde
@@ -22,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL2.png"><img class="alignnone size-full wp-image-11032" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL2.png" alt="SAUDE-SAUDE BUCAL-SAUDE ORAL[2]" width="351" height="75" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL2.png"><img class="alignnone size-full wp-image-11032" src="https://www.trololodemulher.com.br/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL2.png" alt="SAUDE-SAUDE BUCAL-SAUDE ORAL[2]" width="351" height="75" /></a>
 </p>
 
 <p align="justify">
@@ -30,7 +27,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL3.png"><img class="alignnone size-full wp-image-11033" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL3.png" alt="SAUDE-SAUDE BUCAL-SAUDE ORAL[3]" width="293" height="85" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL3.png"><img class="alignnone size-full wp-image-11033" src="https://www.trololodemulher.com.br/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL3.png" alt="SAUDE-SAUDE BUCAL-SAUDE ORAL[3]" width="293" height="85" /></a>
 </p>
 
 <p align="justify">
@@ -38,15 +35,15 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL.jpg"><img class="alignnone size-full wp-image-11028" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL.jpg" alt="SAUDE-SAUDE BUCAL-SAUDE ORAL" width="727" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL.jpg"><img class="alignnone size-full wp-image-11028" src="https://www.trololodemulher.com.br/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL.jpg" alt="SAUDE-SAUDE BUCAL-SAUDE ORAL" width="727" height="800" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/drenka2/142760858/" target="_blank">Flickr</a> via <a href="http://foter.com/" target="_blank">Foter</a>
+  Imagem: <a href="https://www.flickr.com/photos/drenka2/142760858/" target="_blank" rel="noopener noreferrer">Flickr</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL4.png"><img class="alignnone size-full wp-image-11034" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL4.png" alt="SAUDE-SAUDE BUCAL-SAUDE ORAL[4]" width="393" height="84" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL4.png"><img class="alignnone size-full wp-image-11034" src="https://www.trololodemulher.com.br/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL4.png" alt="SAUDE-SAUDE BUCAL-SAUDE ORAL[4]" width="393" height="84" /></a>
 </p>
 
 <p align="justify">
@@ -58,7 +55,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL5.png"><img class="alignnone size-full wp-image-11035" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL5.png" alt="SAUDE-SAUDE BUCAL-SAUDE ORAL[5]" width="251" height="83" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL5.png"><img class="alignnone size-full wp-image-11035" src="https://www.trololodemulher.com.br/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL5.png" alt="SAUDE-SAUDE BUCAL-SAUDE ORAL[5]" width="251" height="83" /></a>
 </p>
 
 <p align="justify">
@@ -70,7 +67,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL6.png"><img class="alignnone size-full wp-image-11036" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL6.png" alt="SAUDE-SAUDE BUCAL-SAUDE ORAL[6]" width="156" height="87" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL6.png"><img class="alignnone size-full wp-image-11036" src="https://www.trololodemulher.com.br/2015/06/SAUDE-SAUDE-BUCAL-SAUDE-ORAL6.png" alt="SAUDE-SAUDE BUCAL-SAUDE ORAL[6]" width="156" height="87" /></a>
 </p>
 
 <p align="justify">
@@ -82,7 +79,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/DRA-ANA-PAULA-PASQUALIN-TOKUNAGA.png"><img class="alignnone size-full wp-image-9417" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/DRA-ANA-PAULA-PASQUALIN-TOKUNAGA.png" alt="DRA ANA PAULA PASQUALIN TOKUNAGA" width="532" height="295" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/04/DRA-ANA-PAULA-PASQUALIN-TOKUNAGA.png"><img class="alignnone size-full wp-image-9417" src="https://www.trololodemulher.com.br/2013/04/DRA-ANA-PAULA-PASQUALIN-TOKUNAGA.png" alt="DRA ANA PAULA PASQUALIN TOKUNAGA" width="532" height="295" /></a>
 </p>
 
 <p align="justify">
@@ -90,23 +87,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/16/placa-bacteriana/" target="_blank"><strong>Placa bacteriana: como removê-la?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/03/16/placa-bacteriana/" target="_blank" rel="noopener noreferrer"><strong>Placa bacteriana: como removê-la?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/27/dentes-bonitos/" target="_blank"><strong>Dentes bonitos e saudáveis: o que fazer e evitar?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/05/27/dentes-bonitos/" target="_blank" rel="noopener noreferrer"><strong>Dentes bonitos e saudáveis: o que fazer e evitar?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/04/02/higiene-dos-dentes/" target="_blank"><strong>Você sabe mesmo cuidar da higiene dos dentes?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/04/02/higiene-dos-dentes/" target="_blank" rel="noopener noreferrer"><strong>Você sabe mesmo cuidar da higiene dos dentes?</strong></a>
 </p>
 
 <p align="justify">
-  A <strong>Dra. Ana</strong> é a autora do blog <a href="http://medodedentista.com.br/" target="_blank">Medo de Dentista</a> e, como o nome sugere, esse medo é o que move o blog, no sentido de desconstruí-lo. O blog é repleto de informação útil e necessária, mas tudo feito de forma simples e direta, para leigas como nós que querem vencer o medo através da informação. Quer ver só que interessante o conteúdo desse blog? Se joga e <a href="http://medodedentista.com.br/" target="_blank">clica aqui</a>, bonita! Além do mais, não deixe de acompanhar a Dra. e todo o seu conteúdo relevante no <a href="https://www.facebook.com/medodedentista?fref=ts" target="_blank">Facebook. Clique aqui, curta</a> e fique por dentro!
+  A <strong>Dra. Ana</strong> é a autora do blog <a href="http://medodedentista.com.br/" target="_blank" rel="noopener noreferrer">Medo de Dentista</a> e, como o nome sugere, esse medo é o que move o blog, no sentido de desconstruí-lo. O blog é repleto de informação útil e necessária, mas tudo feito de forma simples e direta, para leigas como nós que querem vencer o medo através da informação. Quer ver só que interessante o conteúdo desse blog? Se joga e <a href="http://medodedentista.com.br/" target="_blank" rel="noopener noreferrer">clica aqui</a>, bonita! Além do mais, não deixe de acompanhar a Dra. e todo o seu conteúdo relevante no <a href="https://www.facebook.com/medodedentista?fref=ts" target="_blank" rel="noopener noreferrer">Facebook. Clique aqui, curta</a> e fique por dentro!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

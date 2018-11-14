@@ -1,10 +1,7 @@
 ---
-id: 2823
 title: Alimentos Gordurosos Versus Escolhas Saudáveis
-date: 2010-05-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/05/28/escolha-alimentos-saudaveis/
 permalink: /2010/05/28/escolha-alimentos-saudaveis/
 categories:
   - Saúde
@@ -26,7 +23,7 @@ Acredito que grande parte de nossos hábitos alimentares são estabelecidos em f
 Você já tentou fazer essas mudanças? Já experimentou ser mais saudável? Pois percebo uma grande resistência em tentar mudar, como se o hábito fosse uma tatuagem que grudasse em seu corpo e não tivesse condições de tirá-la, e precisasse conviver com ela.
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/morango.jpg"><img class="size-medium wp-image-4934 aligncenter" title="morango" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/morango-300x225.jpg" alt="" width="300" height="225" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/morango.jpg"><img class="size-medium wp-image-4934 aligncenter" title="morango" src="https://www.trololodemulher.com.br/2010/07/morango-300x225.jpg" alt="" width="300" height="225" /></a>
 </p>
 
 Alimentos gostosos são aqueles que o farão sentir-se leve após a refeição, que não dá mal estar, dor de estômago, refluxo, gases, dores de cabeça, fígado ruim. Mas o mais interessante é que muitas pessoas comem sabendo que tudo  isso vai acontecer, além de engordar, é claro, mas ainda assim fazem a opção de sentirem-se mal ao invés de pelo menos tentarem uma postura diferente em relação a alimentação.
@@ -35,13 +32,13 @@ O quanto pensar e se comportar de forma gorda também deixa engordurado seu corp
 
 Fica aí uma questão!
 
-**_<a href="http://blog.comportamentomagro.com.br/" target="_blank">Luciana Kotaka</a>_**
+**_<a href="http://blog.comportamentomagro.com.br/" target="_blank" rel="noopener noreferrer">Luciana Kotaka</a>_**
 
 Psicóloga Clínica – Curitiba
 
 Especialista em Obesidade e Transtornos Alimentares
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 
 **Quer ler mais textos no Bicha Fêmea com dicas e estímulos para uma vida mais saudável?**
 

@@ -1,10 +1,7 @@
 ---
-id: 3339
 title: 4 segredos de beleza para aprender já!
-date: 2014-09-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/09/05/dicas-de-beleza-2/
 permalink: /2014/09/05/dicas-de-beleza-2/
 categories:
   - Beleza
@@ -30,7 +27,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/07/22/bb-cream/" target="_blank"><strong>BB cream ´pra cá, BB cream ´pra lá…</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/07/22/bb-cream/" target="_blank" rel="noopener noreferrer"><strong>BB cream ´pra cá, BB cream ´pra lá…</strong></a>
 </p>
 
 <p align="justify">
@@ -38,7 +35,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/BELEZA-MAQUIAGEM-CORES-BATOM-PRIMAVERA-VERÃO-2015.png"><img class="alignnone size-full wp-image-10374" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/BELEZA-MAQUIAGEM-CORES-BATOM-PRIMAVERA-VERÃO-2015.png" alt="BELEZA-MAQUIAGEM-CORES-BATOM-PRIMAVERA-VERÃO-2015" width="800" height="604" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/BELEZA-MAQUIAGEM-CORES-BATOM-PRIMAVERA-VERÃO-2015.png"><img class="alignnone size-full wp-image-10374" src="https://www.trololodemulher.com.br/2014/09/BELEZA-MAQUIAGEM-CORES-BATOM-PRIMAVERA-VERÃO-2015.png" alt="BELEZA-MAQUIAGEM-CORES-BATOM-PRIMAVERA-VERÃO-2015" width="800" height="604" /></a>
 </p>
 
 > <p align="justify">
@@ -50,11 +47,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/BELEZA-MAQUIAGEM-CORES-BATOM-PRIMAVERA-VERÃO-20152.png"><img class="alignnone size-full wp-image-10375" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/BELEZA-MAQUIAGEM-CORES-BATOM-PRIMAVERA-VERÃO-20152.png" alt="BELEZA-MAQUIAGEM-CORES-BATOM-PRIMAVERA-VERÃO-2015[2]" width="800" height="354" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/BELEZA-MAQUIAGEM-CORES-BATOM-PRIMAVERA-VERÃO-20152.png"><img class="alignnone size-full wp-image-10375" src="https://www.trololodemulher.com.br/2014/09/BELEZA-MAQUIAGEM-CORES-BATOM-PRIMAVERA-VERÃO-20152.png" alt="BELEZA-MAQUIAGEM-CORES-BATOM-PRIMAVERA-VERÃO-2015[2]" width="800" height="354" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">freeimages</a>
+  Imagem: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">freeimages</a>
 </p>
 
 <p align="justify">
@@ -66,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/02/beleza-maquiagem-batom/" target="_blank"><strong>Você sabe tudo que precisa sobre batom?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/06/02/beleza-maquiagem-batom/" target="_blank" rel="noopener noreferrer"><strong>Você sabe tudo que precisa sobre batom?</strong></a>
 </p>
 
 <p align="justify">
@@ -78,15 +75,15 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/HEIDI-LANZELLOTTI.png"><img class="alignnone size-full wp-image-9270" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/HEIDI-LANZELLOTTI.png" alt="HEIDI LANZELLOTTI" width="531" height="303" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/10/HEIDI-LANZELLOTTI.png"><img class="alignnone size-full wp-image-9270" src="https://www.trololodemulher.com.br/2012/10/HEIDI-LANZELLOTTI.png" alt="HEIDI LANZELLOTTI" width="531" height="303" /></a>
 </p>
 
 <p align="justify">
-  A <strong>Heidi</strong> é uma bicha fêmea navegante superultramega antenada nas novidades e dicas relacionadas a maquiagem e afins… essas coisas que deixam a gente ainda mais bonita e todas nós amamos saber sempre um pouquinho mais. Como eu desconfio <em>cá</em> com meus botões que esse assunto te interessa bastante, basta ficar mais ppróxima dela, via <a href="https://www.facebook.com/heidi.lanzellotti" target="_blank">perfil do Facebook</a><strong>.</strong> Vai lá!
+  A <strong>Heidi</strong> é uma bicha fêmea navegante superultramega antenada nas novidades e dicas relacionadas a maquiagem e afins… essas coisas que deixam a gente ainda mais bonita e todas nós amamos saber sempre um pouquinho mais. Como eu desconfio <em>cá</em> com meus botões que esse assunto te interessa bastante, basta ficar mais ppróxima dela, via <a href="https://www.facebook.com/heidi.lanzellotti" target="_blank" rel="noopener noreferrer">perfil do Facebook</a><strong>.</strong> Vai lá!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 <p align="justify">

@@ -1,10 +1,7 @@
 ---
-id: 3407
 title: 'Desfralde: mais simples do que você imagina!'
-date: 2015-03-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/03/13/desfralde-maternidade-bebe/
 permalink: /2015/03/13/desfralde-maternidade-bebe/
 categories:
   - Comportamento Infantil
@@ -19,7 +16,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/24/desfralde-como-fazer/" target="_blank"><strong>Dilema de mãe: a hora do desfralde… como fazer?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/05/24/desfralde-como-fazer/" target="_blank" rel="noopener noreferrer"><strong>Dilema de mãe: a hora do desfralde… como fazer?</strong></a>
 </p>
 
 <p align="justify">
@@ -27,7 +24,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/MATERNIDADE-FILHOS-BEBES-DESFRALDE3.jpg"><img class="alignnone size-full wp-image-10838" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/MATERNIDADE-FILHOS-BEBES-DESFRALDE3.jpg" alt="MATERNIDADE-FILHOS-BEBES-DESFRALDE[3]" width="550" height="489" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/MATERNIDADE-FILHOS-BEBES-DESFRALDE3.jpg"><img class="alignnone size-full wp-image-10838" src="https://www.trololodemulher.com.br/2015/03/MATERNIDADE-FILHOS-BEBES-DESFRALDE3.jpg" alt="MATERNIDADE-FILHOS-BEBES-DESFRALDE[3]" width="550" height="489" /></a>
 </p>
 
 <p align="center">
@@ -79,15 +76,15 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/MATERNIDADE-FILHOS-BEBES-DESFRALDE4.png"><img class="alignnone size-full wp-image-10840" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/MATERNIDADE-FILHOS-BEBES-DESFRALDE4.png" alt="MATERNIDADE-FILHOS-BEBES-DESFRALDE[4]" width="800" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/MATERNIDADE-FILHOS-BEBES-DESFRALDE4.png"><img class="alignnone size-full wp-image-10840" src="https://www.trololodemulher.com.br/2015/03/MATERNIDADE-FILHOS-BEBES-DESFRALDE4.png" alt="MATERNIDADE-FILHOS-BEBES-DESFRALDE[4]" width="800" height="800" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.popsugar.com/moms/Easy-Ways-Potty-Train-Boys-27330399" target="_blank">Popsugar</a>
+  Imagem: <a href="http://www.popsugar.com/moms/Easy-Ways-Potty-Train-Boys-27330399" target="_blank" rel="noopener noreferrer">Popsugar</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/MATERNIDADE-FILHOS-BEBES-DESFRALDE.png"><img class="alignnone size-full wp-image-10836" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/MATERNIDADE-FILHOS-BEBES-DESFRALDE.png" alt="MATERNIDADE-FILHOS-BEBES-DESFRALDE" width="645" height="81" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/MATERNIDADE-FILHOS-BEBES-DESFRALDE.png"><img class="alignnone size-full wp-image-10836" src="https://www.trololodemulher.com.br/2015/03/MATERNIDADE-FILHOS-BEBES-DESFRALDE.png" alt="MATERNIDADE-FILHOS-BEBES-DESFRALDE" width="645" height="81" /></a>
 </p>
 
 > <p align="justify">
@@ -119,7 +116,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/MATERNIDADE-FILHOS-BEBES-DESFRALDE2.png"><img class="alignnone size-full wp-image-10837" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/MATERNIDADE-FILHOS-BEBES-DESFRALDE2.png" alt="MATERNIDADE-FILHOS-BEBES-DESFRALDE[2]" width="585" height="84" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/MATERNIDADE-FILHOS-BEBES-DESFRALDE2.png"><img class="alignnone size-full wp-image-10837" src="https://www.trololodemulher.com.br/2015/03/MATERNIDADE-FILHOS-BEBES-DESFRALDE2.png" alt="MATERNIDADE-FILHOS-BEBES-DESFRALDE[2]" width="585" height="84" /></a>
 </p>
 
 > <p align="justify">
@@ -127,7 +124,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/PAOLLA-LIMY-MATSUURA-ALBERTON-PEDIATRA-CAMPINAS.png"><img class="alignnone size-full wp-image-9572" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/PAOLLA-LIMY-MATSUURA-ALBERTON-PEDIATRA-CAMPINAS.png" alt="PAOLLA LIMY MATSUURA ALBERTON PEDIATRA CAMPINAS" width="516" height="283" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/06/PAOLLA-LIMY-MATSUURA-ALBERTON-PEDIATRA-CAMPINAS.png"><img class="alignnone size-full wp-image-9572" src="https://www.trololodemulher.com.br/2013/06/PAOLLA-LIMY-MATSUURA-ALBERTON-PEDIATRA-CAMPINAS.png" alt="PAOLLA LIMY MATSUURA ALBERTON PEDIATRA CAMPINAS" width="516" height="283" /></a>
 </p>
 
 <p align="justify">
@@ -135,19 +132,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/21/frio-doencas-infantis/" target="_blank"><strong>Chegou o frio… e as doenças infantis: e agora?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/21/frio-doencas-infantis/" target="_blank" rel="noopener noreferrer"><strong>Chegou o frio… e as doenças infantis: e agora?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/06/28/bebe-assaduras/" target="_blank"><strong>Bebê sem assaduras: é possível sim, mamãe!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/06/28/bebe-assaduras/" target="_blank" rel="noopener noreferrer"><strong>Bebê sem assaduras: é possível sim, mamãe!</strong></a>
 </p>
 
 <p align="justify">
-  A <strong>Dra. Paolla</strong> também é blogueira, e escreve <strong>textos informativos na linguagem de mãe</strong>, de modo que possamos usufruir de conhecimento, o que é imprescindível na criação de nossas crianças, e ainda trocarmos experiência com ela, que também é mãe. Isso não é bacana? Aposto que você gostou da ideia de dar uma <em>espiada</em> no blog da Dra Paolla, o <a href="http://mamaepediatra.blogspot.com.br/" target="_blank">Mamãe Pediatra</a>, e até acompanhá-la em suas publicações, certo? Eu imaginei… então, oh: se joga no <a href="http://mamaepediatra.blogspot.com.br/" target="_blank">blog</a> e aproveita!
+  A <strong>Dra. Paolla</strong> também é blogueira, e escreve <strong>textos informativos na linguagem de mãe</strong>, de modo que possamos usufruir de conhecimento, o que é imprescindível na criação de nossas crianças, e ainda trocarmos experiência com ela, que também é mãe. Isso não é bacana? Aposto que você gostou da ideia de dar uma <em>espiada</em> no blog da Dra Paolla, o <a href="http://mamaepediatra.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Mamãe Pediatra</a>, e até acompanhá-la em suas publicações, certo? Eu imaginei… então, oh: se joga no <a href="http://mamaepediatra.blogspot.com.br/" target="_blank" rel="noopener noreferrer">blog</a> e aproveita!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

@@ -1,10 +1,7 @@
 ---
-id: 2977
 title: Seus pitacos de decoração em quarto de menina foram ouvidos!
-date: 2011-04-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/04/13/decoracao-quarto-menina-2/
 permalink: /2011/04/13/decoracao-quarto-menina-2/
 categories:
   - Decoração
@@ -23,7 +20,7 @@ Ei, bicha fêmea navegante! Lembra da troca de ideias super bacana sobre a **[de
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/quarto-de-menina.jpg"><img class="alignnone size-full wp-image-6228" title="quarto de menina" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/quarto-de-menina.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/quarto-de-menina.jpg"><img class="alignnone size-full wp-image-6228" title="quarto de menina" src="https://www.trololodemulher.com.br/2011/04/quarto-de-menina.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -41,15 +38,15 @@ Ei, bicha fêmea navegante! Lembra da troca de ideias super bacana sobre a **[de
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/quarto-de-menina1.jpg"><img class="alignnone size-full wp-image-6229" title="quarto de menina" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/quarto-de-menina1.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/quarto-de-menina1.jpg"><img class="alignnone size-full wp-image-6229" title="quarto de menina" src="https://www.trololodemulher.com.br/2011/04/quarto-de-menina1.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/quarto-de-menina2.jpg"><img class="alignnone size-full wp-image-6230" title="quarto de menina[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/quarto-de-menina2.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/quarto-de-menina2.jpg"><img class="alignnone size-full wp-image-6230" title="quarto de menina[2]" src="https://www.trololodemulher.com.br/2011/04/quarto-de-menina2.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/quarto-de-menina3.jpg"><img class="alignnone size-full wp-image-6231" title="quarto de menina[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/quarto-de-menina3.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/quarto-de-menina3.jpg"><img class="alignnone size-full wp-image-6231" title="quarto de menina[3]" src="https://www.trololodemulher.com.br/2011/04/quarto-de-menina3.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p style="text-align: justify;">

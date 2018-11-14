@@ -1,10 +1,7 @@
 ---
-id: 3819
 title: 'Sorvete de banana: receita vapt-vupt.'
-date: 2017-10-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/10/24/sorvete-de-banana/
 permalink: /2017/10/24/sorvete-de-banana/
 categories:
   - Receitas
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14309" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/SORVETE-DE-BANANA-SORVETE-CASEIRO-SORVETE-ARTESANAL.jpg" alt="SORVETE DE BANANA-SORVETE CASEIRO-SORVETE ARTESANAL" width="800" height="534" />
+  <img class="alignnone size-full wp-image-14309" src="https://www.trololodemulher.com.br/2017/10/SORVETE-DE-BANANA-SORVETE-CASEIRO-SORVETE-ARTESANAL.jpg" alt="SORVETE DE BANANA-SORVETE CASEIRO-SORVETE ARTESANAL" width="800" height="534" />
 </p>
 
 <p align="justify">
@@ -22,19 +19,19 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14305" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/PRAIA-LITORAL-NORDESTE-PERNAMBUCO.jpg" alt="PRAIA-LITORAL-NORDESTE-PERNAMBUCO" width="800" height="534" />
+  <img class="alignnone size-full wp-image-14305" src="https://www.trololodemulher.com.br/2017/10/PRAIA-LITORAL-NORDESTE-PERNAMBUCO.jpg" alt="PRAIA-LITORAL-NORDESTE-PERNAMBUCO" width="800" height="534" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14306" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/PRAIA-LITORAL-NORDESTE-PERNAMBUCO2.jpg" alt="PRAIA-LITORAL-NORDESTE-PERNAMBUCO[2]" width="800" height="1200" />
+  <img class="alignnone size-full wp-image-14306" src="https://www.trololodemulher.com.br/2017/10/PRAIA-LITORAL-NORDESTE-PERNAMBUCO2.jpg" alt="PRAIA-LITORAL-NORDESTE-PERNAMBUCO[2]" width="800" height="1200" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14307" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/PRAIA-LITORAL-NORDESTE-PERNAMBUCO3.jpg" alt="PRAIA-LITORAL-NORDESTE-PERNAMBUCO[3]" width="800" height="534" />
+  <img class="alignnone size-full wp-image-14307" src="https://www.trololodemulher.com.br/2017/10/PRAIA-LITORAL-NORDESTE-PERNAMBUCO3.jpg" alt="PRAIA-LITORAL-NORDESTE-PERNAMBUCO[3]" width="800" height="534" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14308" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/PRAIA-LITORAL-NORDESTE-PERNAMBUCO4.jpg" alt="PRAIA-LITORAL-NORDESTE-PERNAMBUCO[4]" width="800" height="534" />
+  <img class="alignnone size-full wp-image-14308" src="https://www.trololodemulher.com.br/2017/10/PRAIA-LITORAL-NORDESTE-PERNAMBUCO4.jpg" alt="PRAIA-LITORAL-NORDESTE-PERNAMBUCO[4]" width="800" height="534" />
 </p>
 
 <p align="justify">
@@ -42,7 +39,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14310" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/SORVETE-DE-BANANA-SORVETE-CASEIRO-SORVETE-ARTESANAL2.jpg" alt="SORVETE DE BANANA-SORVETE CASEIRO-SORVETE ARTESANAL[2]" width="800" height="1276" />
+  <img class="alignnone size-full wp-image-14310" src="https://www.trololodemulher.com.br/2017/10/SORVETE-DE-BANANA-SORVETE-CASEIRO-SORVETE-ARTESANAL2.jpg" alt="SORVETE DE BANANA-SORVETE CASEIRO-SORVETE ARTESANAL[2]" width="800" height="1276" />
 </p>
 
 <p align="justify">
@@ -82,7 +79,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13037" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/TANIA-TEVA-I-WANT-TO-BE-A-COOK-RECEITAS.jpg" alt="tania-teva-i-want-to-be-a-cook-receitas" width="800" height="154" />
+  <img class="alignnone size-full wp-image-13037" src="https://www.trololodemulher.com.br/2016/10/TANIA-TEVA-I-WANT-TO-BE-A-COOK-RECEITAS.jpg" alt="tania-teva-i-want-to-be-a-cook-receitas" width="800" height="154" />
 </p>
 
 <p align="justify">
@@ -90,27 +87,27 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/10/10/bolo-de-lavanda/" target="_blank"><strong>Bolo de lavanda com perfume e bossa vintage.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/10/10/bolo-de-lavanda/" target="_blank" rel="noopener noreferrer"><strong>Bolo de lavanda com perfume e bossa vintage.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/09/26/receita-de-salada/" target="_blank"><strong>Receita de salada de figo: com história e afeto.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/09/26/receita-de-salada/" target="_blank" rel="noopener noreferrer"><strong>Receita de salada de figo: com história e afeto.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/09/12/canja-de-galinha/" target="_blank"><strong>Canja de galinha… para colocar um sorriso no rosto.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/09/12/canja-de-galinha/" target="_blank" rel="noopener noreferrer"><strong>Canja de galinha… para colocar um sorriso no rosto.</strong></a>
 </p>
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank">o blog de Tânia clicando aqui</a> (escrito em inglês e português), e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">o blog de Tânia clicando aqui</a> (escrito em inglês e português), e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank" rel="noopener noreferrer">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank" rel="noopener noreferrer">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14278 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER.png" alt="LOJA TROLOLO DE MULHER" width="468" height="176" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14278 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER.png" alt="LOJA TROLOLO DE MULHER" width="468" height="176" /></a>
 </p>
 
 <p align="justify">

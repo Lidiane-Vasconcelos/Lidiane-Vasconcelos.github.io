@@ -1,10 +1,7 @@
 ---
-id: 3843
 title: Receita de espinafre com uvas passas e pinolis
-date: 2017-12-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/12/14/receita-de-espinafre/
 permalink: /2017/12/14/receita-de-espinafre/
 categories:
   - Receitas
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14505" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/RECEITA-DE-ESPINAFRE.jpg" alt="RECEITA DE ESPINAFRE" width="800" height="534" />
+  <img class="alignnone size-full wp-image-14505" src="https://www.trololodemulher.com.br/2017/12/RECEITA-DE-ESPINAFRE.jpg" alt="RECEITA DE ESPINAFRE" width="800" height="534" />
 </p>
 
 <p align="justify">
@@ -22,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14506" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/RECEITA-DE-ESPINAFRE2.jpg" alt="RECEITA DE ESPINAFRE[2]" width="800" height="534" />
+  <img class="alignnone size-full wp-image-14506" src="https://www.trololodemulher.com.br/2017/12/RECEITA-DE-ESPINAFRE2.jpg" alt="RECEITA DE ESPINAFRE[2]" width="800" height="534" />
 </p>
 
 <p align="justify">
@@ -30,7 +27,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14507" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/RECEITA-DE-ESPINAFRE3.jpg" alt="RECEITA DE ESPINAFRE[3]" width="800" height="534" />
+  <img class="alignnone size-full wp-image-14507" src="https://www.trololodemulher.com.br/2017/12/RECEITA-DE-ESPINAFRE3.jpg" alt="RECEITA DE ESPINAFRE[3]" width="800" height="534" />
 </p>
 
 <p align="justify">
@@ -90,27 +87,27 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13037" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/TANIA-TEVA-I-WANT-TO-BE-A-COOK-RECEITAS.jpg" alt="tania-teva-i-want-to-be-a-cook-receitas" width="800" height="154" />
+  <img class="alignnone size-full wp-image-13037" src="https://www.trololodemulher.com.br/2016/10/TANIA-TEVA-I-WANT-TO-BE-A-COOK-RECEITAS.jpg" alt="tania-teva-i-want-to-be-a-cook-receitas" width="800" height="154" />
 </p>
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/12/05/receita-de-pastel/" target="_blank"><strong>Receita de pastel.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/12/05/receita-de-pastel/" target="_blank" rel="noopener noreferrer"><strong>Receita de pastel.</strong></a>
 
-<a href="http://www.trololodemulher.com.br/2017/11/28/receita-de-espaguete/" target="_blank"><strong>Receita de Espaguette alla Puttanesca.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/11/28/receita-de-espaguete/" target="_blank" rel="noopener noreferrer"><strong>Receita de Espaguette alla Puttanesca.</strong></a>
 
-<a href="http://www.trololodemulher.com.br/2017/11/21/muffin-de-limao/" target="_blank"><strong>Muffin de limão com sementes de papoula ou chia.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/11/21/muffin-de-limao/" target="_blank" rel="noopener noreferrer"><strong>Muffin de limão com sementes de papoula ou chia.</strong></a>
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank">o blog de Tânia clicando aqui</a> (escrito em inglês e português), e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">o blog de Tânia clicando aqui</a> (escrito em inglês e português), e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank" rel="noopener noreferrer">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank" rel="noopener noreferrer">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>
 
 &nbsp;

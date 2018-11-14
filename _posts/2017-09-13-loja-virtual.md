@@ -1,10 +1,7 @@
 ---
-id: 3800
 title: Por que criar uma loja virtual?
-date: 2017-09-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/09/13/loja-virtual/
 permalink: /2017/09/13/loja-virtual/
 categories:
   - Empreendedorismo Feminino
@@ -16,15 +13,15 @@ categories:
 </p>
 
 <p align="justify">
-  Um dos principais motivos a se pensar para ter um <i>e-commerce </i>é o fato de que é possível <a href="https://pt.shopify.com/loja-virtual" target="_blank">criar loja online grátis</a>, logo não há nada a perder em acrescentar um novo canal de vendas, e aumentar o volume de negócios.<b> </b>Há ainda muitas outras opções que são viáveis e justificam a criação deste tipo de estabelecimento comercial. Quer saber quais são? Este post foi pensado pra te contar sobre isso. Confira!
+  Um dos principais motivos a se pensar para ter um <i>e-commerce </i>é o fato de que é possível <a href="https://pt.shopify.com/loja-virtual" target="_blank" rel="noopener noreferrer">criar loja online grátis</a>, logo não há nada a perder em acrescentar um novo canal de vendas, e aumentar o volume de negócios.<b> </b>Há ainda muitas outras opções que são viáveis e justificam a criação deste tipo de estabelecimento comercial. Quer saber quais são? Este post foi pensado pra te contar sobre isso. Confira!
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14135" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/LOJA-VIRTUAL-LOJA-ONLINE3.jpg" alt="LOJA VIRTUAL-LOJA ONLINE[3]" width="800" height="422" />
+  <img class="alignnone size-full wp-image-14135" src="https://www.trololodemulher.com.br/2017/09/LOJA-VIRTUAL-LOJA-ONLINE3.jpg" alt="LOJA VIRTUAL-LOJA ONLINE[3]" width="800" height="422" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.flickr.com/photos/58123287@N00/" target="_blank">OURAWESOMEPLANET: PHILS #1 FOOD AND TRAVEL BLOG</a> via <a href="http://foter.com/re/e33da8" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">CC BY-NC-SA</a>
+  Imagem: <a href="http://www.flickr.com/photos/58123287@N00/" target="_blank" rel="noopener noreferrer">OURAWESOMEPLANET: PHILS #1 FOOD AND TRAVEL BLOG</a> via <a href="http://foter.com/re/e33da8" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA</a>
 </p>
 
 <p align="justify">
@@ -68,7 +65,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14131" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/LOJA-VIRTUAL-LOJA-ONLINE.jpg" alt="LOJA VIRTUAL-LOJA ONLINE" width="800" height="1911" />
+  <img class="alignnone size-full wp-image-14131" src="https://www.trololodemulher.com.br/2017/09/LOJA-VIRTUAL-LOJA-ONLINE.jpg" alt="LOJA VIRTUAL-LOJA ONLINE" width="800" height="1911" />
 </p>
 
 <p align="center">
@@ -76,7 +73,7 @@ categories:
 </p>
 
 <p align="justify">
-  Também é possível <a href="https://pt.shopify.com/ferramentas/criar-logotipo" target="_blank">criar logo online</a>, mas tenha sempre em mente que ele deve identificar a sua empresa, e ser facilmente reconhecido. Sendo assim, veja algumas dicas que podem facilitar a criação dele.
+  Também é possível <a href="https://pt.shopify.com/ferramentas/criar-logotipo" target="_blank" rel="noopener noreferrer">criar logo online</a>, mas tenha sempre em mente que ele deve identificar a sua empresa, e ser facilmente reconhecido. Sendo assim, veja algumas dicas que podem facilitar a criação dele.
 </p>
 
 <p align="justify">
@@ -116,7 +113,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="justify">

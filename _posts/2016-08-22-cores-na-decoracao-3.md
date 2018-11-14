@@ -1,10 +1,7 @@
 ---
-id: 3646
 title: 'Cinza, lilás e turquesa: como usar cores na decoração?'
-date: 2016-08-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/08/22/cores-na-decoracao-3/
 permalink: /2016/08/22/cores-na-decoracao-3/
 categories:
   - Dicas de Decoração
@@ -28,7 +25,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12805" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-CORES-MOVEIS-CADEIRAS.jpg" alt="DECORACAO-CORES-MOVEIS-CADEIRAS" width="600" height="850" />
+  <img class="alignnone size-full wp-image-12805" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-CORES-MOVEIS-CADEIRAS.jpg" alt="DECORACAO-CORES-MOVEIS-CADEIRAS" width="600" height="850" />
 </p>
 
 &nbsp;
@@ -42,7 +39,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12807" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-CORES-PAREDE.jpg" alt="DECORACAO-CORES-PAREDE" width="600" height="450" />
+  <img class="alignnone size-full wp-image-12807" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-CORES-PAREDE.jpg" alt="DECORACAO-CORES-PAREDE" width="600" height="450" />
 </p>
 
 &nbsp;
@@ -56,19 +53,19 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank"><strong>Como decorar paredes com quadros.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank" rel="noopener noreferrer"><strong>Como decorar paredes com quadros.</strong></a>
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/moldura-quadro-decoracao/" target="_blank"><strong>Moldura: coadjuvante ou protagonista na decoração? Você decide.</strong></a>
+  <a href="http://www.decoracaodacasa.com/moldura-quadro-decoracao/" target="_blank" rel="noopener noreferrer"><strong>Moldura: coadjuvante ou protagonista na decoração? Você decide.</strong></a>
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong><a href="http://www.bichafemea.com/2010/12/27/decoracao-cor-sala-de-estar/" target="_blank">Decoração e interiores: que cor usar na pintura da parede da sala de estar?</a></strong>
+  <strong><a href="http://www.bichafemea.com/2010/12/27/decoracao-cor-sala-de-estar/" target="_blank" rel="noopener noreferrer">Decoração e interiores: que cor usar na pintura da parede da sala de estar?</a></strong>
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong><a href="http://www.decoracaodacasa.com/parede-sala-estar-cores/" target="_blank">Para a sala de estar: mais ideias de cores.</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/parede-sala-estar-cores/" target="_blank" rel="noopener noreferrer">Para a sala de estar: mais ideias de cores.</a></strong>
 </p>
 
 <p style="text-align: center;" align="center">
@@ -76,7 +73,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12808" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-CORES-TAPETE-ALMOFADAS.jpg" alt="DECORACAO-CORES-TAPETE-ALMOFADAS" width="600" height="400" />
+  <img class="alignnone size-full wp-image-12808" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-CORES-TAPETE-ALMOFADAS.jpg" alt="DECORACAO-CORES-TAPETE-ALMOFADAS" width="600" height="400" />
 </p>
 
 &nbsp;
@@ -90,19 +87,19 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.bichafemea.com/2014/02/13/cores-na-decoracao/" target="_blank"><strong>Cores na decoração: veja 6 respostas e acabe com suas dúvidas.</strong></a>
+  <a href="http://www.bichafemea.com/2014/02/13/cores-na-decoracao/" target="_blank" rel="noopener noreferrer"><strong>Cores na decoração: veja 6 respostas e acabe com suas dúvidas.</strong></a>
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.bichafemea.com/2013/10/07/cores-decoracao/" target="_blank"><strong>Cores salpicadas na decoração aqui e acolá: lindeza de ver.</strong></a>
+  <a href="http://www.bichafemea.com/2013/10/07/cores-decoracao/" target="_blank" rel="noopener noreferrer"><strong>Cores salpicadas na decoração aqui e acolá: lindeza de ver.</strong></a>
 </p>
 
 &nbsp;
 
-Imagens: <a href="http://www.homedit.com/" target="_blank">homedit</a>
+Imagens: <a href="http://www.homedit.com/" target="_blank" rel="noopener noreferrer">homedit</a>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

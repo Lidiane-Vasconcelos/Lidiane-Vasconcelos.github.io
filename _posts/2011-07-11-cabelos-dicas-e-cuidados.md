@@ -1,10 +1,7 @@
 ---
-id: 3018
 title: 'Cabelos: dicas e cuidados aos 20, 30, 40, 50 anos e +…'
-date: 2011-07-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/07/11/cabelos-dicas-e-cuidados/
 permalink: /2011/07/11/cabelos-dicas-e-cuidados/
 categories:
   - Beleza
@@ -18,7 +15,7 @@ Em cada etapa de nossa vida nós temos preferências sobre qual visual escolher 
 <!--more-->
 
 <p style="text-align: justify;">
-  A Janne edita o blog <strong><a href="http://janeladesonho.blogspot.com/" target="_blank">Janela do Sonho</a></strong>, e já faz algum tempo que ela dá dicas e conselhos exclusivos para as leitoras do Bicha Fêmea sobre cabelos, para que possamos ficar ainda mais lindas. Isso é bom demais, não é? Então, bonita, confere o que a Janne orientou quanto aos cuidados dos cabelos nas diferentes fases de nossas vidas.
+  A Janne edita o blog <strong><a href="http://janeladesonho.blogspot.com/" target="_blank" rel="noopener noreferrer">Janela do Sonho</a></strong>, e já faz algum tempo que ela dá dicas e conselhos exclusivos para as leitoras do Bicha Fêmea sobre cabelos, para que possamos ficar ainda mais lindas. Isso é bom demais, não é? Então, bonita, confere o que a Janne orientou quanto aos cuidados dos cabelos nas diferentes fases de nossas vidas.
 </p>
 
 <p style="text-align: center;">
@@ -50,7 +47,7 @@ Em cada etapa de nossa vida nós temos preferências sobre qual visual escolher 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/cabelos.jpg"><img class="alignnone size-full wp-image-6579" title="cabelos" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/cabelos.jpg" alt="" width="600" height="472" /></a><br /> <strong><a href="http://www.sxc.hu/" target="_blank">Stock.xcnhg</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/07/cabelos.jpg"><img class="alignnone size-full wp-image-6579" title="cabelos" src="https://www.trololodemulher.com.br/2011/07/cabelos.jpg" alt="" width="600" height="472" /></a><br /> <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">Stock.xcnhg</a></strong>
 </p>
 
 &nbsp;

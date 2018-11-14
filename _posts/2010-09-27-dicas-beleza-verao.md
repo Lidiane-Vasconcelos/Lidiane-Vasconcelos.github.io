@@ -1,10 +1,7 @@
 ---
-id: 2882
 title: 'Acne nas costas e no colo: dicas de beleza para o verão.'
-date: 2010-09-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/09/27/dicas-beleza-verao/
 permalink: /2010/09/27/dicas-beleza-verao/
 categories:
   - Beleza
@@ -12,7 +9,7 @@ categories:
 As temperaturas continuam subindo, e as dicas de beleza para que a gente fique ainda mais bonita no verão são sempre bem vindas, não é? E no Bicha Fêmea essas dicas são dadas por uma _expert_, bonita!
 
 <p style="text-align: justify;">
-  A <strong><em>Dra. Gabriela Bernhard Issa</em></strong>, que atende no Rio de Janeiro e edita o blog <a href="http://dermatologiagi.blogspot.com/" target="_blank">DermatologiaMed</a>, já deu <strong><em><a href="http://www.trololodemulher.com.br/2010/09/13/dicas-de-beleza/">dicas de beleza para evitar o mau cheiro no corpo e a desidratação dos cabelos devido ás temperaturas altas</a></em></strong>. Hoje as dicas dizem respeito a acne nas costas e no colo. Você sofre com elas? Então confira a melhor forma de lidar com isso…
+  A <strong><em>Dra. Gabriela Bernhard Issa</em></strong>, que atende no Rio de Janeiro e edita o blog <a href="http://dermatologiagi.blogspot.com/" target="_blank" rel="noopener noreferrer">DermatologiaMed</a>, já deu <strong><em><a href="http://www.trololodemulher.com.br/2010/09/13/dicas-de-beleza/">dicas de beleza para evitar o mau cheiro no corpo e a desidratação dos cabelos devido ás temperaturas altas</a></em></strong>. Hoje as dicas dizem respeito a acne nas costas e no colo. Você sofre com elas? Então confira a melhor forma de lidar com isso…
 </p>
 
 <!--more-->
@@ -40,7 +37,7 @@ As temperaturas continuam subindo, e as dicas de beleza para que a gente fique a
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="236" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/banheiro.jpg"><img class="alignnone size-full wp-image-5232" title="banheiro" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/banheiro.jpg" alt="" width="201" height="300" /></a> 
+      <a href="https://www.trololodemulher.com.br/2010/09/banheiro.jpg"><img class="alignnone size-full wp-image-5232" title="banheiro" src="https://www.trololodemulher.com.br/2010/09/banheiro.jpg" alt="" width="201" height="300" /></a> 
     </td>
     
     <td width="364" valign="top">
@@ -88,7 +85,7 @@ As temperaturas continuam subindo, e as dicas de beleza para que a gente fique a
 <p style="text-align: center;">
   <blockquote>
     <p style="text-align: center;">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cabelos.jpg"><img class="alignnone size-medium wp-image-5233" title="cabelos" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cabelos-275x300.jpg" alt="" width="275" height="300" /></a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cabelos.jpg"></a>
+      <a href="https://www.trololodemulher.com.br/2010/09/cabelos.jpg"><img class="alignnone size-medium wp-image-5233" title="cabelos" src="https://www.trololodemulher.com.br/2010/09/cabelos-275x300.jpg" alt="" width="275" height="300" /></a><a href="https://www.trololodemulher.com.br/2010/09/cabelos.jpg"></a>
     </p>
     
     <p style="text-align: justify;">
@@ -111,7 +108,7 @@ As temperaturas continuam subindo, e as dicas de beleza para que a gente fique a
   </p>
   
   <p>
-    <em>Imagens: </em><a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+    <em>Imagens: </em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
   </p>
   
   <p>

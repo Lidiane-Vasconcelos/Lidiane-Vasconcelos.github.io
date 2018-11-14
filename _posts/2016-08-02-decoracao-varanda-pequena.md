@@ -1,10 +1,7 @@
 ---
-id: 3633
 title: 4 composições de cantinhos para sua varanda pequena.
-date: 2016-08-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/08/02/decoracao-varanda-pequena/
 permalink: /2016/08/02/decoracao-varanda-pequena/
 categories:
   - Pequenos Espaços
@@ -19,11 +16,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12712" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-VARANDA-PEQUENA.jpg" alt="DECORACAO-VARANDA-PEQUENA" width="570" height="671" />
+  <img class="alignnone size-full wp-image-12712" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-VARANDA-PEQUENA.jpg" alt="DECORACAO-VARANDA-PEQUENA" width="570" height="671" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.ikea.com/se/sv/" target="_blank">Ikea</a>
+  Imagem: <a href="http://www.ikea.com/se/sv/" target="_blank" rel="noopener noreferrer">Ikea</a>
 </p>
 
 <p align="justify">
@@ -31,11 +28,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12713" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-VARANDA-PEQUENA2.jpg" alt="DECORACAO-VARANDA-PEQUENA[2]" width="570" height="759" />
+  <img class="alignnone size-full wp-image-12713" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-VARANDA-PEQUENA2.jpg" alt="DECORACAO-VARANDA-PEQUENA[2]" width="570" height="759" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.stadshem.se/" target="_blank">Stadshem</a>
+  Imagem: <a href="http://www.stadshem.se/" target="_blank" rel="noopener noreferrer">Stadshem</a>
 </p>
 
 <p align="justify">
@@ -43,11 +40,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12714" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-VARANDA-PEQUENA3.jpg" alt="DECORACAO-VARANDA-PEQUENA[3]" width="570" height="747" />
+  <img class="alignnone size-full wp-image-12714" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-VARANDA-PEQUENA3.jpg" alt="DECORACAO-VARANDA-PEQUENA[3]" width="570" height="747" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.femina.dk/" target="_blank">Femina</a>
+  Imagem: <a href="http://www.femina.dk/" target="_blank" rel="noopener noreferrer">Femina</a>
 </p>
 
 <p align="justify">
@@ -55,11 +52,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12715" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-VARANDA-PEQUENA4.jpg" alt="DECORACAO-VARANDA-PEQUENA[4]" width="533" height="800" />
+  <img class="alignnone size-full wp-image-12715" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-VARANDA-PEQUENA4.jpg" alt="DECORACAO-VARANDA-PEQUENA[4]" width="533" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.marieclairemaison.com/" target="_blank">Marie Claire Maison</a>
+  Imagem: <a href="http://www.marieclairemaison.com/" target="_blank" rel="noopener noreferrer">Marie Claire Maison</a>
 </p>
 
 <p align="justify">
@@ -71,19 +68,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2009/02/22/varanda-terraco-area-externa/" target="_blank"><strong>Varanda, terraço, área externa: é tudo de bom!</strong></a>
+  <a href="http://www.bichafemea.com/2009/02/22/varanda-terraco-area-externa/" target="_blank" rel="noopener noreferrer"><strong>Varanda, terraço, área externa: é tudo de bom!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-da-varanda/" target="_blank"><strong>Como escolher tecidos para a decoração da varanda?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-da-varanda/" target="_blank" rel="noopener noreferrer"><strong>Como escolher tecidos para a decoração da varanda?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2013/07/17/decoracao-varanda/" target="_blank"><strong>Decoração da varanda: ideia fácil e barata para você copiar.</strong></a>
+  <a href="http://www.bichafemea.com/2013/07/17/decoracao-varanda/" target="_blank" rel="noopener noreferrer"><strong>Decoração da varanda: ideia fácil e barata para você copiar.</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

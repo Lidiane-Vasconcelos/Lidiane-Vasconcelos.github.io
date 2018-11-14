@@ -1,10 +1,7 @@
 ---
-id: 3012
 title: Quando se fala de moda, o que é ser chique?
-date: 2011-06-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/06/17/moda-ser-chique/
 permalink: /2011/06/17/moda-ser-chique/
 categories:
   - Moda
@@ -16,11 +13,11 @@ Sou do time que acha que menos é mais, em qualquer sentido. Mas vejo que há mu
 <!--more-->
 
 <p style="text-align: justify;">
-  Para <strong>Tatianna Carvalho</strong>, <strong>editora de Moda</strong> do <strong><a href="http://mixdeinformacao.blogspot.com/" target="_blank">Mix Cultural</a></strong>, “<em>a moda é muito democrática e nos últimos cinquenta anos se ramificou em muitos segmentos, tornando o ‘ser chique’ em uma questão de atitude</em>”. Talvez esteja exatamente aí a razão por que muitas mulheres assumem o risco de usar produções ousadas, misturas inusitadas e, mesmo assim, arrasam no resultado final. Estar chique e na moda pode ter a ver com simplicidade, mas também ter tudo a ver com o saber “carregar” uma super produção. E que bom que é assim… porque a moda tem mesmo é que ser democrática, não é?
+  Para <strong>Tatianna Carvalho</strong>, <strong>editora de Moda</strong> do <strong><a href="http://mixdeinformacao.blogspot.com/" target="_blank" rel="noopener noreferrer">Mix Cultural</a></strong>, “<em>a moda é muito democrática e nos últimos cinquenta anos se ramificou em muitos segmentos, tornando o ‘ser chique’ em uma questão de atitude</em>”. Talvez esteja exatamente aí a razão por que muitas mulheres assumem o risco de usar produções ousadas, misturas inusitadas e, mesmo assim, arrasam no resultado final. Estar chique e na moda pode ter a ver com simplicidade, mas também ter tudo a ver com o saber “carregar” uma super produção. E que bom que é assim… porque a moda tem mesmo é que ser democrática, não é?
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/moda.jpg"><img class="alignnone size-full wp-image-6531" title="moda" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/moda.jpg" alt="" width="600" height="522" /></a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/moda.jpg"></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/moda.jpg"><img class="alignnone size-full wp-image-6531" title="moda" src="https://www.trololodemulher.com.br/2011/06/moda.jpg" alt="" width="600" height="522" /></a><a href="https://www.trololodemulher.com.br/2011/06/moda.jpg"></a>
 </p>
 
 <p style="text-align: justify;">
@@ -49,7 +46,7 @@ Sou do time que acha que menos é mais, em qualquer sentido. Mas vejo que há mu
 
 E você? Qual sua conclusão com relação a isso?
 
-Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+Imagem: **<a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>**
 
 **Mais no Bicha Fêmea…**
 

@@ -1,10 +1,7 @@
 ---
-id: 3502
 title: 'Câncer de mama: 3 coisas que toda paciente deve fazer'
-date: 2015-10-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/10/23/cancer-de-mama-4/
 permalink: /2015/10/23/cancer-de-mama-4/
 categories:
   - Entrevistas
@@ -12,23 +9,23 @@ categories:
   - Social
 ---
 <p align="justify">
-  Estamos no <strong><em>#OutubroRosa</em></strong>, mês dedicado a prevenção do câncer de mama. A informação sobre o que é a doença, como detectá-la e <a href="http://www.trololodemulher.com.br/2011/10/24/momografia-outubrorosa/" target="_blank">como prevenir o câncer de mama</a> é vasta e variada. Todos os esforços neste mês são concentrados em convencer as mulheres da importância de se cuidar e, no caso de descobrir que está doente, que isso seja no início. Dessa forma, você já deve saber, o índice de cura aponta para um percentual altíssimo, o que é muito bom. O fato é que mesmo se cuidando bastante e realizando os exames preventivos dentro dos prazos regulares, a doença pode aparecer. E agora? Certo é que entrar no desespero não irá ajudar em nada, concorda?
+  Estamos no <strong><em>#OutubroRosa</em></strong>, mês dedicado a prevenção do câncer de mama. A informação sobre o que é a doença, como detectá-la e <a href="http://www.trololodemulher.com.br/2011/10/24/momografia-outubrorosa/" target="_blank" rel="noopener noreferrer">como prevenir o câncer de mama</a> é vasta e variada. Todos os esforços neste mês são concentrados em convencer as mulheres da importância de se cuidar e, no caso de descobrir que está doente, que isso seja no início. Dessa forma, você já deve saber, o índice de cura aponta para um percentual altíssimo, o que é muito bom. O fato é que mesmo se cuidando bastante e realizando os exames preventivos dentro dos prazos regulares, a doença pode aparecer. E agora? Certo é que entrar no desespero não irá ajudar em nada, concorda?
 </p>
 
 <p align="justify">
-  Nós sabemos que há avanços significativos no tratamento desta doença. O que parecia inimaginável há algum tempo garante a cura de tantas mulheres que hoje são acometidas pela enfermidade, e que na verdade ainda serão! O <a href="http://www2.inca.gov.br/wps/wcm/connect/tiposdecancer/site/home/mama" target="_blank">INCA estima 57.120 novos casos somente neste ano de 2015</a>, portanto é vital se cuidar. O que não é menos importante  e consiste no objetivo deste post é mostrar que, uma vez diagnosticada com a doença, a mulher precisa se munir de <strong>3 estratégias </strong>para se manter <strong>forte e empoderada</strong> durante a luta contra o câncer. Os tratamentos existem: sim, é verdade! Mas você precisa lançar mão de inteligência emocional nesse processo. Como se posicionar frente a presença do câncer de mama na vida de uma mulher, e quais são essas 3 estratégias?
+  Nós sabemos que há avanços significativos no tratamento desta doença. O que parecia inimaginável há algum tempo garante a cura de tantas mulheres que hoje são acometidas pela enfermidade, e que na verdade ainda serão! O <a href="http://www2.inca.gov.br/wps/wcm/connect/tiposdecancer/site/home/mama" target="_blank" rel="noopener noreferrer">INCA estima 57.120 novos casos somente neste ano de 2015</a>, portanto é vital se cuidar. O que não é menos importante  e consiste no objetivo deste post é mostrar que, uma vez diagnosticada com a doença, a mulher precisa se munir de <strong>3 estratégias </strong>para se manter <strong>forte e empoderada</strong> durante a luta contra o câncer. Os tratamentos existem: sim, é verdade! Mas você precisa lançar mão de inteligência emocional nesse processo. Como se posicionar frente a presença do câncer de mama na vida de uma mulher, e quais são essas 3 estratégias?
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/CANCER-DE-MAMA-TRATAMENTO-CANCER-DE-MAMA-OUTUBRO-ROSA2.jpg"><img class="alignnone size-full wp-image-11602" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/CANCER-DE-MAMA-TRATAMENTO-CANCER-DE-MAMA-OUTUBRO-ROSA2.jpg" alt="CANCER DE MAMA-TRATAMENTO CANCER DE MAMA-OUTUBRO ROSA[2]" width="800" height="599" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/CANCER-DE-MAMA-TRATAMENTO-CANCER-DE-MAMA-OUTUBRO-ROSA2.jpg"><img class="alignnone size-full wp-image-11602" src="https://www.trololodemulher.com.br/2015/10/CANCER-DE-MAMA-TRATAMENTO-CANCER-DE-MAMA-OUTUBRO-ROSA2.jpg" alt="CANCER DE MAMA-TRATAMENTO CANCER DE MAMA-OUTUBRO ROSA[2]" width="800" height="599" /></a>
 </p>
 
 <p align="center">
-  Via <a href="https://www.flickr.com/photos/70626035@N00/10083356344/" target="_blank">jacilluch</a> / <a href="http://foter.com/" target="_blank">Foter</a> / <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA</a>
+  Via <a href="https://www.flickr.com/photos/70626035@N00/10083356344/" target="_blank" rel="noopener noreferrer">jacilluch</a> / <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a> / <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank" rel="noopener noreferrer">CC BY-SA</a>
 </p>
 
 <p align="justify">
-  Quem nos conta tudo é uma mulher das mais fortes que conhecemos na blogosfera, e que teve tranquilidade para enfrentar essa doença. <strong>Margaret</strong>, que é dona da <a href="http://divitae.com.br/" target="_blank">Divitae</a>, uma <strong>plataforma de criação de lojas virtuais, com a possibilidade do lojista criar, configurar e começar a vender de forma simplificada</strong>, deu vida a esse projeto, veja bem, no ano em que teve a doença. Tocar a vida pessoal e profissional certamente foi das estratégias mais acertadas nessa jornada rumo à cura do câncer de mama. Ela conta muito mais sobre isso tudo… agora. Confira:
+  Quem nos conta tudo é uma mulher das mais fortes que conhecemos na blogosfera, e que teve tranquilidade para enfrentar essa doença. <strong>Margaret</strong>, que é dona da <a href="http://divitae.com.br/" target="_blank" rel="noopener noreferrer">Divitae</a>, uma <strong>plataforma de criação de lojas virtuais, com a possibilidade do lojista criar, configurar e começar a vender de forma simplificada</strong>, deu vida a esse projeto, veja bem, no ano em que teve a doença. Tocar a vida pessoal e profissional certamente foi das estratégias mais acertadas nessa jornada rumo à cura do câncer de mama. Ela conta muito mais sobre isso tudo… agora. Confira:
 </p>
 
 <p align="justify">
@@ -48,7 +45,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/MARGARET-CANCER-DE-MAMA-TRATAMENTO-CANCER-DE-MAMA-OUTUBRO-ROSA.jpg"><img class="alignnone size-full wp-image-11605" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/MARGARET-CANCER-DE-MAMA-TRATAMENTO-CANCER-DE-MAMA-OUTUBRO-ROSA.jpg" alt="MARGARET-CANCER DE MAMA-TRATAMENTO CANCER DE MAMA-OUTUBRO ROSA" width="800" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/MARGARET-CANCER-DE-MAMA-TRATAMENTO-CANCER-DE-MAMA-OUTUBRO-ROSA.jpg"><img class="alignnone size-full wp-image-11605" src="https://www.trololodemulher.com.br/2015/10/MARGARET-CANCER-DE-MAMA-TRATAMENTO-CANCER-DE-MAMA-OUTUBRO-ROSA.jpg" alt="MARGARET-CANCER DE MAMA-TRATAMENTO CANCER DE MAMA-OUTUBRO ROSA" width="800" height="600" /></a>
 </p>
 
 <p align="center">
@@ -68,7 +65,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

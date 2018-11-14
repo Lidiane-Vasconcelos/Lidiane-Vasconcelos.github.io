@@ -1,10 +1,7 @@
 ---
-id: 3461
 title: Como desacelerar a vida e viver sem estresse?
-date: 2015-08-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/08/21/viver-sem-estresse/
 permalink: /2015/08/21/viver-sem-estresse/
 categories:
   - Bem-estar
@@ -25,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank"><strong>Vida simples: menos é mais e a gente vive melhor…</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank" rel="noopener noreferrer"><strong>Vida simples: menos é mais e a gente vive melhor…</strong></a>
 </p>
 
 <p align="justify">
@@ -33,11 +30,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/COMPORTAMENTO-VIDA-SIMPLES-ESTRESSE.jpg"><img class="alignnone size-full wp-image-11264" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/COMPORTAMENTO-VIDA-SIMPLES-ESTRESSE.jpg" alt="COMPORTAMENTO-VIDA SIMPLES-ESTRESSE" width="800" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/COMPORTAMENTO-VIDA-SIMPLES-ESTRESSE.jpg"><img class="alignnone size-full wp-image-11264" src="https://www.trololodemulher.com.br/2015/08/COMPORTAMENTO-VIDA-SIMPLES-ESTRESSE.jpg" alt="COMPORTAMENTO-VIDA SIMPLES-ESTRESSE" width="800" height="450" /></a>
 </p>
 
 <p align="center">
-  Via <a href="https://www.flickr.com/photos/elyarch/15478671849/" target="_blank">Elitsa@Elyarch</a><b> / </b><a href="http://foter.com/" target="_blank">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Via <a href="https://www.flickr.com/photos/elyarch/15478671849/" target="_blank" rel="noopener noreferrer">Elitsa@Elyarch</a><b> / </b><a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND</a>
 </p>
 
 <p align="justify">
@@ -49,7 +46,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank"><strong>Produtividade e gestão do tempo: chega de correria!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank" rel="noopener noreferrer"><strong>Produtividade e gestão do tempo: chega de correria!</strong></a>
 </p>
 
 <p align="justify">
@@ -57,9 +54,9 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank"><strong> </strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank" rel="noopener noreferrer"><strong> </strong></a>
 </p>

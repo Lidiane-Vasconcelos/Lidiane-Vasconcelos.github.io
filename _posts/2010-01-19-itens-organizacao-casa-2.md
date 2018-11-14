@@ -1,10 +1,7 @@
 ---
-id: 2768
 title: Dos meus itens que favorecem minha organização. Qual o seu?
-date: 2010-01-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/01/19/itens-organizacao-casa-2/
 permalink: /2010/01/19/itens-organizacao-casa-2/
 categories:
   - Organização
@@ -20,7 +17,7 @@ Como eu gosto de aprender contigo, bonita, que lê esse blog, pensei em te conta
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/porta-canetas.jpg"><img class="aligncenter size-medium wp-image-4147" title="porta canetas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/porta-canetas-300x300.jpg" alt="" width="300" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/porta-canetas.jpg"><img class="aligncenter size-medium wp-image-4147" title="porta canetas" src="https://www.trololodemulher.com.br/2010/01/porta-canetas-300x300.jpg" alt="" width="300" height="300" /></a>
     </td>
   </tr>
 </table>
@@ -43,7 +40,7 @@ Agora, bem que eu queria saber sobre teus objetos queridos, e avaliar possíveis
 
 Quem acha que sabe tudo é outro, eu que não sou boba não sei um bocado de coisas, e quero aprender contigo…
 
-Imagem: <a href="vhttp://www.sxc.hu/" target="_blank">stock.xchng</a>
+Imagem: <a href="vhttp://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>
 
 **Mais no Bicha Fêmea…**
 

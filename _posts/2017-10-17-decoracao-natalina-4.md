@@ -1,10 +1,7 @@
 ---
-id: 3814
 title: 'Enfeite de papel para decoração natalina: faça você mesma!'
-date: 2017-10-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/10/17/decoracao-natalina-4/
 permalink: /2017/10/17/decoracao-natalina-4/
 categories:
   - Decoração
@@ -23,7 +20,7 @@ categories:
 </p>
 
 <p align="justify">
-  Imagine que você pode usar e abusar da sua imaginação na escolha do papel que vai usar… e mãos á obra! Antes de mais nada, você precisa ter os moldes desses ornamentos e estrelas, certo? Então, oh: <a href="http://www.acupofthuy.com/wp-content/uploads/2014/11/DIY-Christmas-Paper-Garland-Tutorial-Pattern.pdf" target="_blank">você tem acesso a eles clicando aqui</a>, via <strong>A Cup Of Thuy</strong>.
+  Imagine que você pode usar e abusar da sua imaginação na escolha do papel que vai usar… e mãos á obra! Antes de mais nada, você precisa ter os moldes desses ornamentos e estrelas, certo? Então, oh: <a href="http://www.acupofthuy.com/wp-content/uploads/2014/11/DIY-Christmas-Paper-Garland-Tutorial-Pattern.pdf" target="_blank" rel="noopener noreferrer">você tem acesso a eles clicando aqui</a>, via <strong>A Cup Of Thuy</strong>.
 </p>
 
 <p align="justify">
@@ -31,13 +28,13 @@ categories:
 </p>
 
 <p align="justify">
-  Agora, o que você precisa fazer é dobrar os ornamentos ao meio e ir colando uns nos outros pelo centro. Antes de fechar a peça em 3D, você passa um cordão fininho ou linha no centro, que é para pendurá-lo. É tudo muito simples, e ficará ainda mais fácil se você visualizar as etapas através de imagens bem didáticas, que você vê <a href="http://www.acupofthuy.com/christmas-diy-week-18-paper-garland/" target="_blank">clicando bem aqui</a>, no blog <strong>A Cup of Thuy</strong>. Divirta-se!!!!
+  Agora, o que você precisa fazer é dobrar os ornamentos ao meio e ir colando uns nos outros pelo centro. Antes de fechar a peça em 3D, você passa um cordão fininho ou linha no centro, que é para pendurá-lo. É tudo muito simples, e ficará ainda mais fácil se você visualizar as etapas através de imagens bem didáticas, que você vê <a href="http://www.acupofthuy.com/christmas-diy-week-18-paper-garland/" target="_blank" rel="noopener noreferrer">clicando bem aqui</a>, no blog <strong>A Cup of Thuy</strong>. Divirta-se!!!!
 </p>
 
 <p align="justify">
-  Veja também outros posts do <strong>Trololó de Mulher</strong> recheados de <strong>dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos</strong> que amamos. <a href="http://www.trololodemulher.com.br/category/natal/" target="_blank"><strong>Clique aqui e confira</strong></a>!
+  Veja também outros posts do <strong>Trololó de Mulher</strong> recheados de <strong>dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos</strong> que amamos. <a href="http://www.trololodemulher.com.br/category/natal/" target="_blank" rel="noopener noreferrer"><strong>Clique aqui e confira</strong></a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>

@@ -1,10 +1,7 @@
 ---
-id: 3212
 title: Mulher, alimentos e ansiedade… há algo familiar nisso?
-date: 2012-11-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/11/19/saude-bem-estar-ansiedade/
 permalink: /2012/11/19/saude-bem-estar-ansiedade/
 categories:
   - Bem-estar
@@ -21,7 +18,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/bem-estar-saude-estresse-ansiedade/" rel="attachment wp-att-9343"><img class="alignnone size-full wp-image-9343" title="BEM ESTAR-SAUDE-ESTRESSE-ANSIEDADE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/BEM-ESTAR-SAUDE-ESTRESSE-ANSIEDADE.jpg" alt="" width="600" height="450" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/bem-estar-saude-estresse-ansiedade/" rel="attachment wp-att-9343"><img class="alignnone size-full wp-image-9343" title="BEM ESTAR-SAUDE-ESTRESSE-ANSIEDADE" src="https://www.trololodemulher.com.br/2012/11/BEM-ESTAR-SAUDE-ESTRESSE-ANSIEDADE.jpg" alt="" width="600" height="450" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
@@ -39,7 +36,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/saude-bem-estar-alimentos-ansiedade-estresse/" rel="attachment wp-att-9348"><img class="alignnone size-full wp-image-9348" title="SAUDE-BEM ESTAR-ALIMENTOS-ANSIEDADE-ESTRESSE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/SAUDE-BEM-ESTAR-ALIMENTOS-ANSIEDADE-ESTRESSE.png" alt="" width="600" height="430" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/saude-bem-estar-alimentos-ansiedade-estresse/" rel="attachment wp-att-9348"><img class="alignnone size-full wp-image-9348" title="SAUDE-BEM ESTAR-ALIMENTOS-ANSIEDADE-ESTRESSE" src="https://www.trololodemulher.com.br/2012/11/SAUDE-BEM-ESTAR-ALIMENTOS-ANSIEDADE-ESTRESSE.png" alt="" width="600" height="430" /></a>
 </p>
 
 <p align="center">
@@ -59,17 +56,17 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/bem-estar-saude-estresse-ansiedade2/" rel="attachment wp-att-9344"><img class="alignnone size-full wp-image-9344" title="BEM ESTAR-SAUDE-ESTRESSE-ANSIEDADE[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/BEM-ESTAR-SAUDE-ESTRESSE-ANSIEDADE2.jpg" alt="" width="600" height="600" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/bem-estar-saude-estresse-ansiedade2/" rel="attachment wp-att-9344"><img class="alignnone size-full wp-image-9344" title="BEM ESTAR-SAUDE-ESTRESSE-ANSIEDADE[2]" src="https://www.trololodemulher.com.br/2012/11/BEM-ESTAR-SAUDE-ESTRESSE-ANSIEDADE2.jpg" alt="" width="600" height="600" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/dra-ingrid-seiler-prior-nutricionista-santos/" rel="attachment wp-att-9347"><img class="alignnone size-full wp-image-9347" title="DRA INGRID SEILER PRIOR NUTRICIONISTA SANTOS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/DRA-INGRID-SEILER-PRIOR-NUTRICIONISTA-SANTOS.png" alt="" width="545" height="301" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/dra-ingrid-seiler-prior-nutricionista-santos/" rel="attachment wp-att-9347"><img class="alignnone size-full wp-image-9347" title="DRA INGRID SEILER PRIOR NUTRICIONISTA SANTOS" src="https://www.trololodemulher.com.br/2012/11/DRA-INGRID-SEILER-PRIOR-NUTRICIONISTA-SANTOS.png" alt="" width="545" height="301" /></a>
 </p>
 
 <p align="justify">
-  Bonita, a <strong>Dra. Ingrid</strong> também é blogueira, sabia? Pois é… se você é daquelas que amam estar bem informadas sobre saúde e bem-estar, pode passar a acompanhar suas atualizações em <strong><a href="http://www.nutricionistaingrid.com.br/" target="_blank">seu blog clicando bem aqui</a></strong>. Além do mais, dá para acompanhar ainda mais dicas da <strong>Dra. Ingrid</strong> pelo <strong>Facebook</strong>, através de sua <strong><em><a href="http://www.facebook.com/nutri.ingrid.prior" target="_blank">fanpage</a></em></strong>. Vai perder?
+  Bonita, a <strong>Dra. Ingrid</strong> também é blogueira, sabia? Pois é… se você é daquelas que amam estar bem informadas sobre saúde e bem-estar, pode passar a acompanhar suas atualizações em <strong><a href="http://www.nutricionistaingrid.com.br/" target="_blank" rel="noopener noreferrer">seu blog clicando bem aqui</a></strong>. Além do mais, dá para acompanhar ainda mais dicas da <strong>Dra. Ingrid</strong> pelo <strong>Facebook</strong>, através de sua <strong><em><a href="http://www.facebook.com/nutri.ingrid.prior" target="_blank" rel="noopener noreferrer">fanpage</a></em></strong>. Vai perder?
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

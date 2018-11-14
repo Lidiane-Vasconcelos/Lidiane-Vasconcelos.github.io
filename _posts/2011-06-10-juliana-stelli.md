@@ -1,17 +1,14 @@
 ---
-id: 3010
 title: Entrevista com Juliana Stelli, do blog Pitadinha.
-date: 2011-06-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/06/10/juliana-stelli/
 permalink: /2011/06/10/juliana-stelli/
 categories:
   - Comportamento
   - Entrevistas
 ---
 <p style="text-align: justify;">
-  Para quem gosta de visitar blogs e, de cara, ser fisgada pelo jeito “gente da gente” que algumas poucas blogueiras têm, conhecer a <strong>Juliana</strong>, editora do <strong><a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a></strong>, é um prato cheio! Sim! Essa moça bonita de 28 anos, cabelos castanhos e olhos puxados, de uma beleza amazonense flagrante, é dona de uma identidade <em>bloguística</em> inconfundível…
+  Para quem gosta de visitar blogs e, de cara, ser fisgada pelo jeito “gente da gente” que algumas poucas blogueiras têm, conhecer a <strong>Juliana</strong>, editora do <strong><a href="http://www.pitadinha.com/" target="_blank" rel="noopener noreferrer">Pitadinha</a></strong>, é um prato cheio! Sim! Essa moça bonita de 28 anos, cabelos castanhos e olhos puxados, de uma beleza amazonense flagrante, é dona de uma identidade <em>bloguística</em> inconfundível…
 </p>
 
 <p style="text-align: justify;">
@@ -25,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/Juliana-Pitadinha.jpg"><img class="alignnone size-full wp-image-6514" title="Juliana - Pitadinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/Juliana-Pitadinha.jpg" alt="" width="532" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/Juliana-Pitadinha.jpg"><img class="alignnone size-full wp-image-6514" title="Juliana - Pitadinha" src="https://www.trololodemulher.com.br/2011/06/Juliana-Pitadinha.jpg" alt="" width="532" height="600" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -45,11 +42,11 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/Juliana-Pitadinha2.jpg"><img class="alignnone size-full wp-image-6518" title="Juliana - Pitadinha[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/Juliana-Pitadinha2.jpg" alt="" width="600" height="376" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/Juliana-Pitadinha2.jpg"><img class="alignnone size-full wp-image-6518" title="Juliana - Pitadinha[2]" src="https://www.trololodemulher.com.br/2011/06/Juliana-Pitadinha2.jpg" alt="" width="600" height="376" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Você disse <strong><a href="http://www.pitadinha.com/2010/08/duvidar-porque-sabao-e-ype.html" target="_blank">neste post</a></strong> : “<strong><em>Tô muito feliz de ficar em casa. Muito feliz de não me preocupar com o final da licença maternidade&#8230; já ocupei cargos importantes, já tive um bom salário. Tive status, reuniões gerenciais intermináveis, liderei equipes e fui bem sucedida em tudo isso. O suficiente pra saber que a escolha que fiz de ser nesse momento exclusivamente esposa e mãe, pra mim, é a melhor opção</em>”. Parece que quando sua pequena nasceu, veio ao mundo uma nova Juliana. Você sofre preconceitos pela escolha que fez?</strong>
+  Você disse <strong><a href="http://www.pitadinha.com/2010/08/duvidar-porque-sabao-e-ype.html" target="_blank" rel="noopener noreferrer">neste post</a></strong> : “<strong><em>Tô muito feliz de ficar em casa. Muito feliz de não me preocupar com o final da licença maternidade&#8230; já ocupei cargos importantes, já tive um bom salário. Tive status, reuniões gerenciais intermináveis, liderei equipes e fui bem sucedida em tudo isso. O suficiente pra saber que a escolha que fiz de ser nesse momento exclusivamente esposa e mãe, pra mim, é a melhor opção</em>”. Parece que quando sua pequena nasceu, veio ao mundo uma nova Juliana. Você sofre preconceitos pela escolha que fez?</strong>
 </p>
 
 > <p style="text-align: justify;">
@@ -57,7 +54,7 @@ categories:
 > </p>
 
 <p style="text-align: justify;">
-  <strong>“<em>Uma coisa fica clara quando se frequenta blogs: há pessoas que te convidam, te acolhem, celebram a sua visita. Há outras só interessadas em exibir suas façanhas, suas criações, sua inteligência, seu número de seguidores. Eu temo muito ao pensar que posso cair nesse segundo caso, pois como uma pessoa que visita blogs diariamente, e adora fazer isso, prefiro muito mais o primeiro. Não quero que as pessoas virem um número pra mim. Nem quero ser pavão”</em>. Você disse isso </strong><a href="http://www.pitadinha.com/2010/08/sobre-blogs-e-blogueiros.html" target="_blank"><strong>neste post</strong></a><strong> em Agosto de 2010. Você continua resistindo a tentação de ser “pavão”?</strong>
+  <strong>“<em>Uma coisa fica clara quando se frequenta blogs: há pessoas que te convidam, te acolhem, celebram a sua visita. Há outras só interessadas em exibir suas façanhas, suas criações, sua inteligência, seu número de seguidores. Eu temo muito ao pensar que posso cair nesse segundo caso, pois como uma pessoa que visita blogs diariamente, e adora fazer isso, prefiro muito mais o primeiro. Não quero que as pessoas virem um número pra mim. Nem quero ser pavão”</em>. Você disse isso </strong><a href="http://www.pitadinha.com/2010/08/sobre-blogs-e-blogueiros.html" target="_blank" rel="noopener noreferrer"><strong>neste post</strong></a><strong> em Agosto de 2010. Você continua resistindo a tentação de ser “pavão”?</strong>
 </p>
 
 > <p style="text-align: justify;">
@@ -71,7 +68,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/Juliana-Pitadinha1.jpg"><img class="alignnone size-full wp-image-6517" title="<KENOX S760 / Samsung S760>" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/Juliana-Pitadinha1.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/Juliana-Pitadinha1.jpg"><img class="alignnone size-full wp-image-6517" title="<KENOX S760 / Samsung S760>" src="https://www.trololodemulher.com.br/2011/06/Juliana-Pitadinha1.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -95,5 +92,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

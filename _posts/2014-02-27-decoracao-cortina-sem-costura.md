@@ -1,10 +1,7 @@
 ---
-id: 3282
 title: 'Decoração com cortina sem costura&#8230; e bem barata!'
-date: 2014-02-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/02/27/decoracao-cortina-sem-costura/
 permalink: /2014/02/27/decoracao-cortina-sem-costura/
 categories:
   - Decoração
@@ -21,7 +18,7 @@ categories:
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/DECORACAO-CORTINA.jpg"><img class="alignnone size-full wp-image-9939" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/02/DECORACAO-CORTINA.jpg" alt="DECORACAO-CORTINA" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/02/DECORACAO-CORTINA.jpg"><img class="alignnone size-full wp-image-9939" src="https://www.trololodemulher.com.br/2014/02/DECORACAO-CORTINA.jpg" alt="DECORACAO-CORTINA" width="450" height="600" /></a>
 </p>
 
 &nbsp;
@@ -32,7 +29,7 @@ categories:
 
 &nbsp;
 
-Imagem: **_<a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>_**
+Imagem: **_<a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>_**
 
 &nbsp;
 
@@ -45,11 +42,11 @@ Imagem: **_<a href="http://www.bhg.com/" target="_blank">Better Homes and Garden
 </p>
 
 <p align="center">
-  <strong><a href="http://www.decoracaodacasa.com/cortinas-ideias-decoracao/" target="_blank"><span style="font-size: small;">Cortinas: 3 ideias para personalizar sua decoração</span></a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/cortinas-ideias-decoracao/" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Cortinas: 3 ideias para personalizar sua decoração</span></a></strong>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

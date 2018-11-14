@@ -1,10 +1,7 @@
 ---
-id: 3080
 title: Quer dar presente de Natal para as crianças com estilo?
-date: 2011-11-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/11/18/presente-de-natal-criancas/
 permalink: /2011/11/18/presente-de-natal-criancas/
 categories:
   - Trololó
@@ -20,47 +17,47 @@ Tem coisa mais gostosa que **presentear** um pequeno e ver a alegria estampada n
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/INU-TOY-BABY.jpg"><img class="alignnone size-full wp-image-8206" title="INU TOY BABY" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/INU-TOY-BABY.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/INU-TOY-BABY.jpg"><img class="alignnone size-full wp-image-8206" title="INU TOY BABY" src="https://www.trololodemulher.com.br/2011/11/INU-TOY-BABY.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 &nbsp;
 
-_Todo fofinho, macio e com barulhinho (chocalho)! Inu é um esquimó, irmão de **<a href="http://www.tutitati.com.br/lojavirtual.php?view=productPage&product=59&category=7" target="_blank">Ité</a>**, os dois vivem no Alasca e inventam muitas brincadeiras no gelo. Ele adora correr na neve e vive tomando sorvete. Ele adora tudo que é gelado_. Via **<a href="http://www.tutitati.com.br/lojavirtual.php?view=productPage&product=78&category=7" target="_blank">Tutitati</a>**.
+_Todo fofinho, macio e com barulhinho (chocalho)! Inu é um esquimó, irmão de **<a href="http://www.tutitati.com.br/lojavirtual.php?view=productPage&product=59&category=7" target="_blank" rel="noopener noreferrer">Ité</a>**, os dois vivem no Alasca e inventam muitas brincadeiras no gelo. Ele adora correr na neve e vive tomando sorvete. Ele adora tudo que é gelado_. Via **<a href="http://www.tutitati.com.br/lojavirtual.php?view=productPage&product=78&category=7" target="_blank" rel="noopener noreferrer">Tutitati</a>**.
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/ALMOFADA-TOY.jpg"><img class="alignnone size-full wp-image-8201" title="ALMOFADA TOY" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/ALMOFADA-TOY.jpg" alt="" width="500" height="500" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/ALMOFADA-TOY.jpg"><img class="alignnone size-full wp-image-8201" title="ALMOFADA TOY" src="https://www.trololodemulher.com.br/2011/11/ALMOFADA-TOY.jpg" alt="" width="500" height="500" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <em>Tecido 100% Poliéster. Enchimento com fibra de silicone. Medidas: 31 x 21 cm (aproximadamente &#8211; pode variar de acordo com o formato). O produto pode ser 100% personalizado! Ao adquirir essa almofada você escolherá como personalizá-la. Veja outras estampas disponíveis</em>. Via <strong><a href="https://www.lojalapomme.com.br/produtos/Almofada-Toy.html" target="_blank">La Pomme</a></strong>.
+  <em>Tecido 100% Poliéster. Enchimento com fibra de silicone. Medidas: 31 x 21 cm (aproximadamente &#8211; pode variar de acordo com o formato). O produto pode ser 100% personalizado! Ao adquirir essa almofada você escolherá como personalizá-la. Veja outras estampas disponíveis</em>. Via <strong><a href="https://www.lojalapomme.com.br/produtos/Almofada-Toy.html" target="_blank" rel="noopener noreferrer">La Pomme</a></strong>.
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/DEDOCHES.png"><img class="alignnone size-full wp-image-8203" title="DEDOCHES" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/DEDOCHES.png" alt="" width="591" height="410" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/DEDOCHES.png"><img class="alignnone size-full wp-image-8203" title="DEDOCHES" src="https://www.trololodemulher.com.br/2011/11/DEDOCHES.png" alt="" width="591" height="410" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <em>Dedoches confeccionados em feltro. Gato, cavalo, elefante, sapo, galinha, porquinho, vaquinha e muitos outros</em>. Via <strong><a href="http://www.elo7.com.br/dedoches-animais-diversos/dp/10F42B" target="_blank">1001 Feltros</a></strong>.
+  <em>Dedoches confeccionados em feltro. Gato, cavalo, elefante, sapo, galinha, porquinho, vaquinha e muitos outros</em>. Via <strong><a href="http://www.elo7.com.br/dedoches-animais-diversos/dp/10F42B" target="_blank" rel="noopener noreferrer">1001 Feltros</a></strong>.
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/BONECA-SAPECA.jpg"><img class="alignnone size-full wp-image-8202" title="BONECA SAPECA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/BONECA-SAPECA.jpg" alt="" width="402" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/BONECA-SAPECA.jpg"><img class="alignnone size-full wp-image-8202" title="BONECA SAPECA" src="https://www.trololodemulher.com.br/2011/11/BONECA-SAPECA.jpg" alt="" width="402" height="600" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <em>A boneca sapeca é a representação de uma criança de 3 a 5 anos de idade. Ela pode ter 30 ou 35 cm de altura. Seus membros são costurados e com isso podem fazer pose, trocar de roupa e penteado. Seu corpo é confeccionado em tecido importado, o recheio de lã de carneiro e os cabelos de lã natural ou sintética. Ela vai com um vestido, uma calcinha e um par de sapatos. Roupas extras podem ser encomendadas. Pode ser lavada à mão com carinho</em>. Via <strong><a href="http://fabiluli.com.br/?page_id=22" target="_blank">Fabiluli</a></strong>.
+  <em>A boneca sapeca é a representação de uma criança de 3 a 5 anos de idade. Ela pode ter 30 ou 35 cm de altura. Seus membros são costurados e com isso podem fazer pose, trocar de roupa e penteado. Seu corpo é confeccionado em tecido importado, o recheio de lã de carneiro e os cabelos de lã natural ou sintética. Ela vai com um vestido, uma calcinha e um par de sapatos. Roupas extras podem ser encomendadas. Pode ser lavada à mão com carinho</em>. Via <strong><a href="http://fabiluli.com.br/?page_id=22" target="_blank" rel="noopener noreferrer">Fabiluli</a></strong>.
 </p>
 
 &nbsp;
@@ -79,13 +76,13 @@ _Todo fofinho, macio e com barulhinho (chocalho)! Inu é um esquimó, irmão de 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/EDUCACAO-INFANTIL200.jpg"><img class="alignnone size-full wp-image-8200" title="EDUCACAO INFANTIL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/EDUCACAO-INFANTIL200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2009/11/16/educao-criancas/">A educação vem mesmo de berço?</a></strong></span>
+        <span style="font-size: small;"><a href="https://www.trololodemulher.com.br/2011/11/EDUCACAO-INFANTIL200.jpg"><img class="alignnone size-full wp-image-8200" title="EDUCACAO INFANTIL200" src="https://www.trololodemulher.com.br/2011/11/EDUCACAO-INFANTIL200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2009/11/16/educao-criancas/">A educação vem mesmo de berço?</a></strong></span>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-festa-infantil200.jpg"><img class="alignnone size-full wp-image-6410" title="decoração de festa infantil200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-festa-infantil200.jpg" alt="" width="200" height="200" /></a><br /> </span><a href="http://www.trololodemulher.com.br/2011/05/23/festas-aniversario-infantil/"><span style="font-size: small;">Ideias criativas e simples para festas de aniversário infantil</span></a></strong>
+        <strong><span style="font-size: small;"><a href="https://www.trololodemulher.com.br/2011/05/decoracao-de-festa-infantil200.jpg"><img class="alignnone size-full wp-image-6410" title="decoração de festa infantil200" src="https://www.trololodemulher.com.br/2011/05/decoracao-de-festa-infantil200.jpg" alt="" width="200" height="200" /></a><br /> </span><a href="http://www.trololodemulher.com.br/2011/05/23/festas-aniversario-infantil/"><span style="font-size: small;">Ideias criativas e simples para festas de aniversário infantil</span></a></strong>
       </p>
     </td>
   </tr>
@@ -95,13 +92,13 @@ _Todo fofinho, macio e com barulhinho (chocalho)! Inu é um esquimó, irmão de 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/Mae-e-filha200.jpg"><img class="alignnone size-full wp-image-4651" title="Mãe e filha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/Mae-e-filha200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/05/19/educacao-ecologica-criancas/"><span style="font-size: small;">Bichas fêmeas em debate: filho de ecomãe, ecofilho é?</span></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2010/05/Mae-e-filha200.jpg"><img class="alignnone size-full wp-image-4651" title="Mãe e filha200" src="https://www.trololodemulher.com.br/2010/05/Mae-e-filha200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/05/19/educacao-ecologica-criancas/"><span style="font-size: small;">Bichas fêmeas em debate: filho de ecomãe, ecofilho é?</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/MATERNIDADE200.jpg"><img class="alignnone size-full wp-image-8207" title="MATERNIDADE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/MATERNIDADE200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/07/30/maternidade-2/"><span style="font-size: small;">Maternidade – Um aprendizado que requer inteligência</span></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2011/11/MATERNIDADE200.jpg"><img class="alignnone size-full wp-image-8207" title="MATERNIDADE200" src="https://www.trololodemulher.com.br/2011/11/MATERNIDADE200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/07/30/maternidade-2/"><span style="font-size: small;">Maternidade – Um aprendizado que requer inteligência</span></a></strong>
       </p>
     </td>
   </tr>
@@ -127,13 +124,13 @@ _Todo fofinho, macio e com barulhinho (chocalho)! Inu é um esquimó, irmão de 
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="http://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     

@@ -1,10 +1,7 @@
 ---
-id: 3460
 title: 'Unhas decoradas: claras, discretas e elegantes.'
-date: 2015-08-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/08/17/unhas-decoradas/
 permalink: /2015/08/17/unhas-decoradas/
 categories:
   - Beleza
@@ -18,15 +15,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/07/06/saude-e-beleza-das-unhas/" target="_blank">Saúde e beleza das unhas: verdades que você não sabia.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/07/06/saude-e-beleza-das-unhas/" target="_blank" rel="noopener noreferrer">Saúde e beleza das unhas: verdades que você não sabia.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2009/04/14/unhas-dicas-cuidados/" target="_blank">Dicas de beleza e saúde das unhas</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2009/04/14/unhas-dicas-cuidados/" target="_blank" rel="noopener noreferrer">Dicas de beleza e saúde das unhas</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2012/01/02/maos-e-unhas/" target="_blank">Mãos e unhas: você trata as suas como elas merecem?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2012/01/02/maos-e-unhas/" target="_blank" rel="noopener noreferrer">Mãos e unhas: você trata as suas como elas merecem?</a></strong>
 </p>
 
 <p align="justify">
@@ -34,35 +31,35 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES.jpg"><img class="alignnone size-full wp-image-11249" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES.jpg" alt="BELEZA-MANICURE-UNHAS DECORADAS-CLARINHAS-UNHAS ARTISTICAS-UNHAS DISCRETAS-UNHAS ELEGANTES" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES.jpg"><img class="alignnone size-full wp-image-11249" src="https://www.trololodemulher.com.br/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES.jpg" alt="BELEZA-MANICURE-UNHAS DECORADAS-CLARINHAS-UNHAS ARTISTICAS-UNHAS DISCRETAS-UNHAS ELEGANTES" width="600" height="450" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://www.muitochique.com/" target="_blank">Muito Chique</a>
+  Via <a href="http://www.muitochique.com/" target="_blank" rel="noopener noreferrer">Muito Chique</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES2.jpg"><img class="alignnone size-full wp-image-11250" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES2.jpg" alt="BELEZA-MANICURE-UNHAS DECORADAS-CLARINHAS-UNHAS ARTISTICAS-UNHAS DISCRETAS-UNHAS ELEGANTES[2]" width="560" height="495" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES2.jpg"><img class="alignnone size-full wp-image-11250" src="https://www.trololodemulher.com.br/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES2.jpg" alt="BELEZA-MANICURE-UNHAS DECORADAS-CLARINHAS-UNHAS ARTISTICAS-UNHAS DISCRETAS-UNHAS ELEGANTES[2]" width="560" height="495" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://jeitomulher.com.br/" target="_blank">Jeito Mulher</a>
+  Via <a href="http://jeitomulher.com.br/" target="_blank" rel="noopener noreferrer">Jeito Mulher</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES3.jpg"><img class="alignnone size-full wp-image-11251" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES3.jpg" alt="BELEZA-MANICURE-UNHAS DECORADAS-CLARINHAS-UNHAS ARTISTICAS-UNHAS DISCRETAS-UNHAS ELEGANTES[3]" width="800" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES3.jpg"><img class="alignnone size-full wp-image-11251" src="https://www.trololodemulher.com.br/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES3.jpg" alt="BELEZA-MANICURE-UNHAS DECORADAS-CLARINHAS-UNHAS ARTISTICAS-UNHAS DISCRETAS-UNHAS ELEGANTES[3]" width="800" height="600" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://jeitomulher.com.br/" target="_blank">Jeito Mulher</a>
+  Via <a href="http://jeitomulher.com.br/" target="_blank" rel="noopener noreferrer">Jeito Mulher</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES4.jpg"><img class="alignnone size-full wp-image-11252" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES4.jpg" alt="BELEZA-MANICURE-UNHAS DECORADAS-CLARINHAS-UNHAS ARTISTICAS-UNHAS DISCRETAS-UNHAS ELEGANTES[4]" width="800" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES4.jpg"><img class="alignnone size-full wp-image-11252" src="https://www.trololodemulher.com.br/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES4.jpg" alt="BELEZA-MANICURE-UNHAS DECORADAS-CLARINHAS-UNHAS ARTISTICAS-UNHAS DISCRETAS-UNHAS ELEGANTES[4]" width="800" height="600" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://jeitomulher.com.br/" target="_blank">Jeito Mulher</a>
+  Via <a href="http://jeitomulher.com.br/" target="_blank" rel="noopener noreferrer">Jeito Mulher</a>
 </p>
 
 <p align="justify">
@@ -74,55 +71,55 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2011/05/16/cuidados-unhas-maos/" target="_blank">Mãos: segredos e cuidados das unhas, pele e afins.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2011/05/16/cuidados-unhas-maos/" target="_blank" rel="noopener noreferrer">Mãos: segredos e cuidados das unhas, pele e afins.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2012/08/20/esmaltes-no-inverno/" target="_blank">Você é das que se rendem aos tons fechados de esmaltes no Inverno?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2012/08/20/esmaltes-no-inverno/" target="_blank" rel="noopener noreferrer">Você é das que se rendem aos tons fechados de esmaltes no Inverno?</a></strong>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES5.jpg"><img class="alignnone size-full wp-image-11260" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES5.jpg" alt="BELEZA-MANICURE-UNHAS DECORADAS-CLARINHAS-UNHAS ARTISTICAS-UNHAS DISCRETAS-UNHAS ELEGANTES[5]" width="601" height="589" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES5.jpg"><img class="alignnone size-full wp-image-11260" src="https://www.trololodemulher.com.br/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES5.jpg" alt="BELEZA-MANICURE-UNHAS DECORADAS-CLARINHAS-UNHAS ARTISTICAS-UNHAS DISCRETAS-UNHAS ELEGANTES[5]" width="601" height="589" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://www.muitochique.com/" target="_blank">Muito Chique</a>
+  Via <a href="http://www.muitochique.com/" target="_blank" rel="noopener noreferrer">Muito Chique</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES6.jpg"><img class="alignnone size-full wp-image-11256" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES6.jpg" alt="BELEZA-MANICURE-UNHAS DECORADAS-CLARINHAS-UNHAS ARTISTICAS-UNHAS DISCRETAS-UNHAS ELEGANTES[6]" width="600" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES6.jpg"><img class="alignnone size-full wp-image-11256" src="https://www.trololodemulher.com.br/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES6.jpg" alt="BELEZA-MANICURE-UNHAS DECORADAS-CLARINHAS-UNHAS ARTISTICAS-UNHAS DISCRETAS-UNHAS ELEGANTES[6]" width="600" height="400" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://gospelmodas.com/" target="_blank">Gospel Modas</a>
+  Via <a href="http://gospelmodas.com/" target="_blank" rel="noopener noreferrer">Gospel Modas</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES7.jpg"><img class="alignnone size-full wp-image-11257" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES7.jpg" alt="BELEZA-MANICURE-UNHAS DECORADAS-CLARINHAS-UNHAS ARTISTICAS-UNHAS DISCRETAS-UNHAS ELEGANTES[7]" width="600" height="430" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES7.jpg"><img class="alignnone size-full wp-image-11257" src="https://www.trololodemulher.com.br/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES7.jpg" alt="BELEZA-MANICURE-UNHAS DECORADAS-CLARINHAS-UNHAS ARTISTICAS-UNHAS DISCRETAS-UNHAS ELEGANTES[7]" width="600" height="430" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://gospelmodas.com/" target="_blank">Gospel Modas</a>
+  Via <a href="http://gospelmodas.com/" target="_blank" rel="noopener noreferrer">Gospel Modas</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES8.jpg"><img class="alignnone size-full wp-image-11258" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES8.jpg" alt="BELEZA-MANICURE-UNHAS DECORADAS-CLARINHAS-UNHAS ARTISTICAS-UNHAS DISCRETAS-UNHAS ELEGANTES[8]" width="650" height="451" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES8.jpg"><img class="alignnone size-full wp-image-11258" src="https://www.trololodemulher.com.br/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES8.jpg" alt="BELEZA-MANICURE-UNHAS DECORADAS-CLARINHAS-UNHAS ARTISTICAS-UNHAS DISCRETAS-UNHAS ELEGANTES[8]" width="650" height="451" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://www.muitochique.com/" target="_blank">Muito Chique</a>
+  Via <a href="http://www.muitochique.com/" target="_blank" rel="noopener noreferrer">Muito Chique</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES9.jpg"><img class="alignnone size-full wp-image-11259" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES9.jpg" alt="BELEZA-MANICURE-UNHAS DECORADAS-CLARINHAS-UNHAS ARTISTICAS-UNHAS DISCRETAS-UNHAS ELEGANTES[9]" width="800" height="446" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES9.jpg"><img class="alignnone size-full wp-image-11259" src="https://www.trololodemulher.com.br/2015/08/BELEZA-MANICURE-UNHAS-DECORADAS-CLARINHAS-UNHAS-ARTISTICAS-UNHAS-DISCRETAS-UNHAS-ELEGANTES9.jpg" alt="BELEZA-MANICURE-UNHAS DECORADAS-CLARINHAS-UNHAS ARTISTICAS-UNHAS DISCRETAS-UNHAS ELEGANTES[9]" width="800" height="446" /></a>
 </p>
 
 <p align="justify">
-  Esta última, por exemplo, tem até vídeo com passo a passo onde a blogueira ensina a fazê-las. Se você é dessas desenroladas que não precisa da ajuda de uma manicure e coloca a mão na massa, se joga no post que te ensina a reproduzir essa decoração, no blog <a href="http://nailartbelaesimples.blogspot.com.br/search?updated-max=2014-11-26T03:51:00-02:00&max-results=46&reverse-paginate=true" target="_blank">Bela e Simples Nail Art bem aqui</a>, aproveita e depois pesquisa mais vídeos com a proposta das unhas decoradas, porém mais discretas. Inspire-se e se jogue!
+  Esta última, por exemplo, tem até vídeo com passo a passo onde a blogueira ensina a fazê-las. Se você é dessas desenroladas que não precisa da ajuda de uma manicure e coloca a mão na massa, se joga no post que te ensina a reproduzir essa decoração, no blog <a href="http://nailartbelaesimples.blogspot.com.br/search?updated-max=2014-11-26T03:51:00-02:00&max-results=46&reverse-paginate=true" target="_blank" rel="noopener noreferrer">Bela e Simples Nail Art bem aqui</a>, aproveita e depois pesquisa mais vídeos com a proposta das unhas decoradas, porém mais discretas. Inspire-se e se jogue!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

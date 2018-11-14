@@ -1,10 +1,7 @@
 ---
-id: 3784
 title: 'Relato de parto natural humanizado: nascimento de Angelo'
-date: 2017-08-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/08/16/parto-natural-humanizado/
 permalink: /2017/08/16/parto-natural-humanizado/
 categories:
   - Maternidade
@@ -23,7 +20,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14000" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/PARTO-NATURAL-HUMANIZADO-RELATO-DE-PARTO-TELMA-MACIEL4800.jpg" alt="PARTO NATURAL HUMANIZADO-RELATO DE PARTO-TELMA MACIEL[4]800" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14000" src="https://www.trololodemulher.com.br/2017/08/PARTO-NATURAL-HUMANIZADO-RELATO-DE-PARTO-TELMA-MACIEL4800.jpg" alt="PARTO NATURAL HUMANIZADO-RELATO DE PARTO-TELMA MACIEL[4]800" width="800" height="800" />
 </p>
 
 <p align="center">
@@ -71,7 +68,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13994" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/PARTO-NATURAL-HUMANIZADO-RELATO-DE-PARTO-TELMA-MACIEL.jpg" alt="PARTO NATURAL HUMANIZADO-RELATO DE PARTO-TELMA MACIEL" width="800" height="474" />
+  <img class="alignnone size-full wp-image-13994" src="https://www.trololodemulher.com.br/2017/08/PARTO-NATURAL-HUMANIZADO-RELATO-DE-PARTO-TELMA-MACIEL.jpg" alt="PARTO NATURAL HUMANIZADO-RELATO DE PARTO-TELMA MACIEL" width="800" height="474" />
 </p>
 
 <p align="justify">
@@ -91,7 +88,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13995" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/PARTO-NATURAL-HUMANIZADO-RELATO-DE-PARTO-TELMA-MACIEL1.jpg" alt="PARTO NATURAL HUMANIZADO-RELATO DE PARTO-TELMA MACIEL[1]" width="800" height="474" />
+  <img class="alignnone size-full wp-image-13995" src="https://www.trololodemulher.com.br/2017/08/PARTO-NATURAL-HUMANIZADO-RELATO-DE-PARTO-TELMA-MACIEL1.jpg" alt="PARTO NATURAL HUMANIZADO-RELATO DE PARTO-TELMA MACIEL[1]" width="800" height="474" />
 </p>
 
 <p align="center">
@@ -99,7 +96,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13996" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/PARTO-NATURAL-HUMANIZADO-RELATO-DE-PARTO-TELMA-MACIEL2.jpg" alt="PARTO NATURAL HUMANIZADO-RELATO DE PARTO-TELMA MACIEL[2]" width="800" height="611" />
+  <img class="alignnone size-full wp-image-13996" src="https://www.trololodemulher.com.br/2017/08/PARTO-NATURAL-HUMANIZADO-RELATO-DE-PARTO-TELMA-MACIEL2.jpg" alt="PARTO NATURAL HUMANIZADO-RELATO DE PARTO-TELMA MACIEL[2]" width="800" height="611" />
 </p>
 
 <p align="center">
@@ -115,7 +112,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>Sei que o texto aqui ficou bem grande, mas não ficou tão detalhado (sim&#8230; consigo ser ainda mais detalhista&#8230; rs). Escrevi um <a href="http://telmaciel.blogspot.com.br/2017/06/angelo-nasceu-post-gigante.html" target="_blank">post no meu blog com mais detalhes sobre o primeiro e esse segundo partos no meu blog</a>. Quem se interessar, esteja à vontade. Daqui alguns dias vou escrever um pouco mais sobre a maternidade Sofia Feldman e também sobre o puerpério&#8230;</em>
+  <em>Sei que o texto aqui ficou bem grande, mas não ficou tão detalhado (sim&#8230; consigo ser ainda mais detalhista&#8230; rs). Escrevi um <a href="http://telmaciel.blogspot.com.br/2017/06/angelo-nasceu-post-gigante.html" target="_blank" rel="noopener noreferrer">post no meu blog com mais detalhes sobre o primeiro e esse segundo partos no meu blog</a>. Quem se interessar, esteja à vontade. Daqui alguns dias vou escrever um pouco mais sobre a maternidade Sofia Feldman e também sobre o puerpério&#8230;</em>
 </p>
 
 <p align="justify">
@@ -123,5 +120,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

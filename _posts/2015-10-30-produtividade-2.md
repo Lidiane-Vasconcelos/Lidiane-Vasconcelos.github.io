@@ -1,10 +1,7 @@
 ---
-id: 3507
 title: 'Produtividade: 5 mulheres empreendedoras dão dicas top.'
-date: 2015-10-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/10/30/produtividade-2/
 permalink: /2015/10/30/produtividade-2/
 categories:
   - Empreendedorismo Feminino
@@ -12,11 +9,11 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p align="justify">
-  Ser produtiva, especialmente se somos empreendedoras e não temos quem nos cobre por resultados, passa necessariamente por ter foco. <a href="http://www.trololodemulher.com.br/2015/08/28/produtividade/" target="_blank">Dicas de produtividade</a>, especialmente dadas por quem já aprendeu a manter-se focada no dia a dia e consegue inovar em seu negócio, é daqueles conteúdos imperdíveis, não é? Pois foi justamente para reunir as melhores estratégias para se manter produtiva, mesmo com todas as demandas diárias, que eu procurei mulheres empreendedoras que tocam o seu trabalho colhendo excelentes resultados.
+  Ser produtiva, especialmente se somos empreendedoras e não temos quem nos cobre por resultados, passa necessariamente por ter foco. <a href="http://www.trololodemulher.com.br/2015/08/28/produtividade/" target="_blank" rel="noopener noreferrer">Dicas de produtividade</a>, especialmente dadas por quem já aprendeu a manter-se focada no dia a dia e consegue inovar em seu negócio, é daqueles conteúdos imperdíveis, não é? Pois foi justamente para reunir as melhores estratégias para se manter produtiva, mesmo com todas as demandas diárias, que eu procurei mulheres empreendedoras que tocam o seu trabalho colhendo excelentes resultados.
 </p>
 
 <p align="justify">
-  Em geral, quem empreende escolhe algo para trabalhar diariamente com o que gosta e dá sentido a sua vida. Isso por si só é um ingrediente dos melhores para encarar sua atividade profissional como o trabalho dos sonhos. Entretanto, é preciso ser produtiva e inventiva, cumprir obrigações e prazos, encontrar soluções criativas para os problemas do dia a dia. <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank">Produtividade e gestão do tempo sem correria e estresse</a> é o que garante qualidade de vida e traz a sensação gostosa de se trabalhar com prazer. Se a procrastinação, falta de foco e desorganização, por outro lado, fazem parte do dia a dia da mulher empreendedora, certamente o que era pra ser sonho vira pesadelo, e a qualidade de vida vai por água abaixo.
+  Em geral, quem empreende escolhe algo para trabalhar diariamente com o que gosta e dá sentido a sua vida. Isso por si só é um ingrediente dos melhores para encarar sua atividade profissional como o trabalho dos sonhos. Entretanto, é preciso ser produtiva e inventiva, cumprir obrigações e prazos, encontrar soluções criativas para os problemas do dia a dia. <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank" rel="noopener noreferrer">Produtividade e gestão do tempo sem correria e estresse</a> é o que garante qualidade de vida e traz a sensação gostosa de se trabalhar com prazer. Se a procrastinação, falta de foco e desorganização, por outro lado, fazem parte do dia a dia da mulher empreendedora, certamente o que era pra ser sonho vira pesadelo, e a qualidade de vida vai por água abaixo.
 </p>
 
 <p align="justify">
@@ -24,11 +21,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-PRODUTIVIDADE-GESTAO-DO-TEMPO.jpg"><img class="alignnone size-full wp-image-11641" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-PRODUTIVIDADE-GESTAO-DO-TEMPO.jpg" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-PRODUTIVIDADE-GESTAO DO TEMPO" width="800" height="536" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-PRODUTIVIDADE-GESTAO-DO-TEMPO.jpg"><img class="alignnone size-full wp-image-11641" src="https://www.trololodemulher.com.br/2015/10/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-PRODUTIVIDADE-GESTAO-DO-TEMPO.jpg" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-PRODUTIVIDADE-GESTAO DO TEMPO" width="800" height="536" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: <a href="http://www.laughandpee.com/" target="_blank" rel="noopener noreferrer">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank" rel="noopener noreferrer">Gratisography</a>
 </p>
 
 <p align="justify">
@@ -40,7 +37,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>SAIBA O QUE PRIORIZAR. PRESTE ATENÇÃO AO </strong><a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank"><strong>IMPACTO DAS REDES SOCIAIS NA PRODUTIVIDADE</strong></a><strong>.</strong>
+  <strong>SAIBA O QUE PRIORIZAR. PRESTE ATENÇÃO AO </strong><a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank" rel="noopener noreferrer"><strong>IMPACTO DAS REDES SOCIAIS NA PRODUTIVIDADE</strong></a><strong>.</strong>
 </p>
 
 <p align="justify">
@@ -48,7 +45,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Tati Romano</strong> é a moça bonita e futura mamãe que comanda o blog <a href="http://www.panelaterapia.com/" target="_blank">PANELATERAPIA</a>, um espaço virtual de receitas que virou referência na sua área, com mais de <a href="http://www.panelaterapia.com/" target="_blank">1Milhão de fãs somente no Facebook</a>.
+  <strong>Tati Romano</strong> é a moça bonita e futura mamãe que comanda o blog <a href="http://www.panelaterapia.com/" target="_blank" rel="noopener noreferrer">PANELATERAPIA</a>, um espaço virtual de receitas que virou referência na sua área, com mais de <a href="http://www.panelaterapia.com/" target="_blank" rel="noopener noreferrer">1Milhão de fãs somente no Facebook</a>.
 </p>
 
 <p align="justify">
@@ -68,7 +65,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Thiara Ney</strong> é mãe de uma menina linda e uma empreendedora pra lá de criativa, envolvida em dois lindos projetos: o <a href="http://www.tuty.com.br/" target="_blank">Estúdio Tuty</a> – com papelaria personalizada para festas, realizando a entrega de kits digitais ou impressos, e muita felicidade; e ainda a <a href="http://profissionais.tuty.com.br/" target="_blank">Tuty Para Profissionais</a> – um espaço com conteúdo relevante e descomplicado (do qual sou leitora e seguidora) dedicado a quem tem um negócio do coração, e que oferece a criação de identidade visual para essas empresas.
+  <strong>Thiara Ney</strong> é mãe de uma menina linda e uma empreendedora pra lá de criativa, envolvida em dois lindos projetos: o <a href="http://www.tuty.com.br/" target="_blank" rel="noopener noreferrer">Estúdio Tuty</a> – com papelaria personalizada para festas, realizando a entrega de kits digitais ou impressos, e muita felicidade; e ainda a <a href="http://profissionais.tuty.com.br/" target="_blank" rel="noopener noreferrer">Tuty Para Profissionais</a> – um espaço com conteúdo relevante e descomplicado (do qual sou leitora e seguidora) dedicado a quem tem um negócio do coração, e que oferece a criação de identidade visual para essas empresas.
 </p>
 
 <p align="justify">
@@ -80,7 +77,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Jê souza Pereira</strong> ganhou larga popularidade atuando como professora virtual de costuras, indo além de ensinar a arte do uso da agulha e tecido. Essa nordestina <em>arretada</em> inspira e orienta as “<strong>ARTEIRAS DA JÊ”</strong> sobre <a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank">como fazer do hobby um negócio e ganhar dinheiro com isso</a>. Jê atua em seu projeto, a <a href="http://www.dreamsfactorybyjeane.com/" target="_blank">Dreams Factory</a>, com vídeos em seu <a href="https://www.youtube.com/user/DreamsFactoryByJeane" target="_blank">canal no Youtube</a> e com vários posts diários na <a href="https://www.facebook.com/DreamsFactoryByJeane/?pnref=lhc" target="_blank">fanpage do Facebook</a>.
+  <strong>Jê souza Pereira</strong> ganhou larga popularidade atuando como professora virtual de costuras, indo além de ensinar a arte do uso da agulha e tecido. Essa nordestina <em>arretada</em> inspira e orienta as “<strong>ARTEIRAS DA JÊ”</strong> sobre <a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank" rel="noopener noreferrer">como fazer do hobby um negócio e ganhar dinheiro com isso</a>. Jê atua em seu projeto, a <a href="http://www.dreamsfactorybyjeane.com/" target="_blank" rel="noopener noreferrer">Dreams Factory</a>, com vídeos em seu <a href="https://www.youtube.com/user/DreamsFactoryByJeane" target="_blank" rel="noopener noreferrer">canal no Youtube</a> e com vários posts diários na <a href="https://www.facebook.com/DreamsFactoryByJeane/?pnref=lhc" target="_blank" rel="noopener noreferrer">fanpage do Facebook</a>.
 </p>
 
 <p align="justify">
@@ -92,7 +89,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Rosana Silva</strong> é especialista em <em>Design</em> de Interiores e comanda o blog <a href="http://www.simplesdecoracao.com.br/" target="_blank">SIMPLES DECORAÇÃO</a>, de relevância incontestável na blogosfera de <em>casa&decor</em>. Com mais de <a href="https://www.facebook.com/SimplesDecoracao/timeline" target="_blank">50.000 seguidores no Facebook</a>, Rô (como eu a chamo) produz e divulga diariamente conteúdo imperdível para quem tem interesse no assunto.
+  <strong>Rosana Silva</strong> é especialista em <em>Design</em> de Interiores e comanda o blog <a href="http://www.simplesdecoracao.com.br/" target="_blank" rel="noopener noreferrer">SIMPLES DECORAÇÃO</a>, de relevância incontestável na blogosfera de <em>casa&decor</em>. Com mais de <a href="https://www.facebook.com/SimplesDecoracao/timeline" target="_blank" rel="noopener noreferrer">50.000 seguidores no Facebook</a>, Rô (como eu a chamo) produz e divulga diariamente conteúdo imperdível para quem tem interesse no assunto.
 </p>
 
 <p align="justify">
@@ -100,7 +97,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>“[1] </em><a href="http://www.kalinkacarvalho.com.br/blog/escolha-sua-agenda-para-se-organizar" target="_blank"><em>Tenha uma agenda</em></a><em>: essa é a dica primordial para qualquer pessoa que queira se organizar e ser mais produtiva. Você pode optar por uma física ou virtual, vai depender da sua personalidade, mas tenha uma sempre. Ela serve para anotar os compromissos e nāo esquecê-los. [2] Anote o que precisa ser feito, ou seja, </em><a href="http://www.kalinkacarvalho.com.br/blog/caderno-de-organizacao" target="_blank"><em>tenha um gerenciador de tarefas</em></a><em>. Tudo que precisa ser realizado ou comprado, precisa ser anotado. Nāo confie na sua cabeça, na verdade pessoas produtivas usam a cabeça para criar, ao invés de guardar informações ou listas. O gerenciador é o local para anotar, você pode usar a agenda, um caderno, um aplicativo, um mapa mental, etc. [3] </em><a href="http://www.kalinkacarvalho.com.br/blog/calendario" target="_blank"><em>Faça um calendário</em></a><em> e planeje sua semana, ele é importante para se ter uma visāo macro do que será sua semana. Isso permitirá que tenha mais foco em suas atividades. Planejamento é a arma fundamental para a produtividade.”</em> …
+  <em>“[1] </em><a href="http://www.kalinkacarvalho.com.br/blog/escolha-sua-agenda-para-se-organizar" target="_blank" rel="noopener noreferrer"><em>Tenha uma agenda</em></a><em>: essa é a dica primordial para qualquer pessoa que queira se organizar e ser mais produtiva. Você pode optar por uma física ou virtual, vai depender da sua personalidade, mas tenha uma sempre. Ela serve para anotar os compromissos e nāo esquecê-los. [2] Anote o que precisa ser feito, ou seja, </em><a href="http://www.kalinkacarvalho.com.br/blog/caderno-de-organizacao" target="_blank" rel="noopener noreferrer"><em>tenha um gerenciador de tarefas</em></a><em>. Tudo que precisa ser realizado ou comprado, precisa ser anotado. Nāo confie na sua cabeça, na verdade pessoas produtivas usam a cabeça para criar, ao invés de guardar informações ou listas. O gerenciador é o local para anotar, você pode usar a agenda, um caderno, um aplicativo, um mapa mental, etc. [3] </em><a href="http://www.kalinkacarvalho.com.br/blog/calendario" target="_blank" rel="noopener noreferrer"><em>Faça um calendário</em></a><em> e planeje sua semana, ele é importante para se ter uma visāo macro do que será sua semana. Isso permitirá que tenha mais foco em suas atividades. Planejamento é a arma fundamental para a produtividade.”</em> …
 </p>
 
 <p align="justify">
@@ -108,11 +105,11 @@ categories:
 </p>
 
 <p align="justify">
-  <em>“[1] Escolha de 2 a 4 momentos do dia para </em><a href="http://kalinkacarvalho.com.br/blog/como-organizar-arquivos-digitais" target="_blank"><em>checar e-mails</em></a><em>. Se nāo for o momento destinado a ler e-mail feche-o e realize suas atividades. Você verá como essa açāo lhe renderá muito mais. Use e-mail a seu favor, nāo faça dele um inimigo. [2] </em><a href="http://www.kalinkacarvalho.com.br/blog/como-organizar-home-office" target="_blank"><em>Organize seu ambiente</em></a><em>. Em um local desorganizado as chances de nāo encontrar as coisas ou demorar demais a encontrá-las é muito grande, com isso você perde tempo e, consequentemente, produtividade.”</em>
+  <em>“[1] Escolha de 2 a 4 momentos do dia para </em><a href="http://kalinkacarvalho.com.br/blog/como-organizar-arquivos-digitais" target="_blank" rel="noopener noreferrer"><em>checar e-mails</em></a><em>. Se nāo for o momento destinado a ler e-mail feche-o e realize suas atividades. Você verá como essa açāo lhe renderá muito mais. Use e-mail a seu favor, nāo faça dele um inimigo. [2] </em><a href="http://www.kalinkacarvalho.com.br/blog/como-organizar-home-office" target="_blank" rel="noopener noreferrer"><em>Organize seu ambiente</em></a><em>. Em um local desorganizado as chances de nāo encontrar as coisas ou demorar demais a encontrá-las é muito grande, com isso você perde tempo e, consequentemente, produtividade.”</em>
 </p>
 
 <p align="justify">
-  <strong>Kalinka Carvalho</strong> é uma paulista bonita de viver e <em>expert</em> em <strong>organização pessoal e profissional</strong>. A moça, graduada em Publicidade e Propaganda, e especialista em Marketing, produz <a href="http://www.kalinkacarvalho.com.br/blog" target="_blank">conteúdo em seu site</a> pra quem quer se organizar, e assim viver melhor. Kalinka também presta consultorias na área de organização, além de marketing e eventos. Quem curte e acompanha <a href="https://www.facebook.com/kalinkascarvalho/timeline" target="_blank">sua fanpage no Facebook</a> fica por dentro de tudo!
+  <strong>Kalinka Carvalho</strong> é uma paulista bonita de viver e <em>expert</em> em <strong>organização pessoal e profissional</strong>. A moça, graduada em Publicidade e Propaganda, e especialista em Marketing, produz <a href="http://www.kalinkacarvalho.com.br/blog" target="_blank" rel="noopener noreferrer">conteúdo em seu site</a> pra quem quer se organizar, e assim viver melhor. Kalinka também presta consultorias na área de organização, além de marketing e eventos. Quem curte e acompanha <a href="https://www.facebook.com/kalinkascarvalho/timeline" target="_blank" rel="noopener noreferrer">sua fanpage no Facebook</a> fica por dentro de tudo!
 </p>
 
 <p align="justify">
@@ -120,11 +117,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.decoracaodacasa.com/home-office-simples/" target="_blank">Home office simples: menos coisas, mais produtividade.</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/home-office-simples/" target="_blank" rel="noopener noreferrer">Home office simples: menos coisas, mais produtividade.</a></strong>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

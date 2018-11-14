@@ -1,10 +1,7 @@
 ---
-id: 2986
 title: 5 dicas para organizar seus produtos de beleza… inspire-se!
-date: 2011-04-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/04/29/organizar-produtos-beleza/
 permalink: /2011/04/29/organizar-produtos-beleza/
 categories:
   - Beleza
@@ -37,7 +34,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/organizacao-banheiro1.jpg"><img class="alignnone size-full wp-image-6300" title="organização banheiro[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/organizacao-banheiro1.jpg" alt="" width="370" height="458" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/organizacao-banheiro1.jpg"><img class="alignnone size-full wp-image-6300" title="organização banheiro[1]" src="https://www.trololodemulher.com.br/2011/04/organizacao-banheiro1.jpg" alt="" width="370" height="458" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -45,15 +42,15 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/organizacao-maquiagem.jpg"><img class="alignnone size-full wp-image-6304" title="organização maquiagem" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/organizacao-maquiagem.jpg" alt="" width="600" height="338" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/organizacao-maquiagem.jpg"><img class="alignnone size-full wp-image-6304" title="organização maquiagem" src="https://www.trololodemulher.com.br/2011/04/organizacao-maquiagem.jpg" alt="" width="600" height="338" /></a>
 </p>
 
 <p style="text-align: justify;">
-  A Isabela mostrou esta dica para o uso de porta talheres <strong><a href="http://arrumadissimoecia.blogspot.com/2010/10/praticando.html" target="_blank">neste post onde tantas outras dicas foram dadas para sua casa ficar com charme e identidade</a></strong>. Confere!
+  A Isabela mostrou esta dica para o uso de porta talheres <strong><a href="http://arrumadissimoecia.blogspot.com/2010/10/praticando.html" target="_blank" rel="noopener noreferrer">neste post onde tantas outras dicas foram dadas para sua casa ficar com charme e identidade</a></strong>. Confere!
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/organizacao-banheiro2.jpg"><img class="alignnone size-full wp-image-6301" title="organização banheiro[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/organizacao-banheiro2.jpg" alt="" width="374" height="461" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/organizacao-banheiro2.jpg"><img class="alignnone size-full wp-image-6301" title="organização banheiro[2]" src="https://www.trololodemulher.com.br/2011/04/organizacao-banheiro2.jpg" alt="" width="374" height="461" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -61,7 +58,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/organizacao-banheiro3.jpg"><img class="alignnone size-full wp-image-6302" title="organização banheiro[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/organizacao-banheiro3.jpg" alt="" width="369" height="458" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/organizacao-banheiro3.jpg"><img class="alignnone size-full wp-image-6302" title="organização banheiro[3]" src="https://www.trololodemulher.com.br/2011/04/organizacao-banheiro3.jpg" alt="" width="369" height="458" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -69,7 +66,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/organizacao-banheiro4.jpg"><img class="alignnone size-full wp-image-6303" title="organização banheiro[4]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/organizacao-banheiro4.jpg" alt="" width="369" height="459" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/organizacao-banheiro4.jpg"><img class="alignnone size-full wp-image-6303" title="organização banheiro[4]" src="https://www.trololodemulher.com.br/2011/04/organizacao-banheiro4.jpg" alt="" width="369" height="459" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -85,19 +82,19 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2014/09/15/dicas-organizacao-bijus/" target="_blank">Bonitas e funcionais: dicas para organização das bijous.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/09/15/dicas-organizacao-bijus/" target="_blank" rel="noopener noreferrer">Bonitas e funcionais: dicas para organização das bijous.</a></strong>
 </p>
 
 Imagens: [**Martha Stewart**](http://www.marthastewart.com/)
 
-Post originalmente publicado no **<a href="http://mangacompimenta.com/2011/01/27/pitacos-de-uma-bicha-femea/" target="_blank">Manga com Pimenta</a>**.
+Post originalmente publicado no **<a href="http://mangacompimenta.com/2011/01/27/pitacos-de-uma-bicha-femea/" target="_blank" rel="noopener noreferrer">Manga com Pimenta</a>**.
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.belezacorpoecia.com/" target="_blank"><img class="alignnone size-full wp-image-10609" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/Conheça-o-BelezaCorpoCia.png" alt="Conheça o BelezaCorpo&Cia" width="800" height="95" /></a>
+  <a href="http://www.belezacorpoecia.com/" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10609" src="https://www.trololodemulher.com.br/2014/11/Conheça-o-BelezaCorpoCia.png" alt="Conheça o BelezaCorpo&Cia" width="800" height="95" /></a>
 </p>
 
 <p style="text-align: center;">

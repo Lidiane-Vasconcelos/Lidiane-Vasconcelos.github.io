@@ -1,10 +1,7 @@
 ---
-id: 2830
 title: 'Dia dos Namorados: dicas e sugestões.'
-date: 2010-06-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/06/07/dicas-dia-dos-namorados/
 permalink: /2010/06/07/dicas-dia-dos-namorados/
 categories:
   - Trololó
@@ -15,12 +12,12 @@ Prepare-se! Este post tem algumas **sugestões** de **como você pode organizar 
 
 <!--more-->
 
-Pensando como você pensa, eu fui perguntar a Daniela Garlet, por exemplo, **dicas** para a gente ficar muito mais **bonita** e **segura** numa noite dessas. A Dani é uma blogueira _antenada_ com a moda, vaidosa sem exageros, e sabe se produzir para uma vida real, como a minha e a sua, onde nada tem a ver com a _teatralização_ das passarelas. A bonita edita o &#8220;<a href="http://edredonsfotoselistras.blogspot.com/" target="_blank">Edredons, Fotos e Listras</a>”, e dá o recado para a gente: “_não importa se você acabou de se casar, se você namora ou se você está a milhas e milhas casada, dia dos namorados não pode passar em branco e você, querida bicha fêmea, precisa estar bem bonita. Mas isso não quer dizer produção de salão ou compras de roupas novas, e sim, se arrumar com o que você tem…_
+Pensando como você pensa, eu fui perguntar a Daniela Garlet, por exemplo, **dicas** para a gente ficar muito mais **bonita** e **segura** numa noite dessas. A Dani é uma blogueira _antenada_ com a moda, vaidosa sem exageros, e sabe se produzir para uma vida real, como a minha e a sua, onde nada tem a ver com a _teatralização_ das passarelas. A bonita edita o &#8220;<a href="http://edredonsfotoselistras.blogspot.com/" target="_blank" rel="noopener noreferrer">Edredons, Fotos e Listras</a>”, e dá o recado para a gente: “_não importa se você acabou de se casar, se você namora ou se você está a milhas e milhas casada, dia dos namorados não pode passar em branco e você, querida bicha fêmea, precisa estar bem bonita. Mas isso não quer dizer produção de salão ou compras de roupas novas, e sim, se arrumar com o que você tem…_
 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/creme-hidratante-valentines-day-_-danigarlet-para-bicha-femea.jpg"><img class="alignnone size-medium wp-image-4721" title="creme hidratante valentines day _ danigarlet para bicha femea" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/creme-hidratante-valentines-day-_-danigarlet-para-bicha-femea-300x200.jpg" alt="" width="300" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/creme-hidratante-valentines-day-_-danigarlet-para-bicha-femea.jpg"><img class="alignnone size-medium wp-image-4721" title="creme hidratante valentines day _ danigarlet para bicha femea" src="https://www.trololodemulher.com.br/2010/06/creme-hidratante-valentines-day-_-danigarlet-para-bicha-femea-300x200.jpg" alt="" width="300" height="200" /></a>
     </td>
     
     <td>
@@ -36,7 +33,7 @@ _…se vocês vão jantar fora ou em casa, se vão passear ou almoçar, o dia do
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/makes_valentine_bicha-femea_danigarlet.jpg"><img class="alignnone size-medium wp-image-4728" title="makes_valentine_bicha femea_danigarlet" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/makes_valentine_bicha-femea_danigarlet-300x87.jpg" alt="" width="300" height="87" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/makes_valentine_bicha-femea_danigarlet.jpg"><img class="alignnone size-medium wp-image-4728" title="makes_valentine_bicha femea_danigarlet" src="https://www.trololodemulher.com.br/2010/06/makes_valentine_bicha-femea_danigarlet-300x87.jpg" alt="" width="300" height="87" /></a>
     </td>
     
     <td>
@@ -56,7 +53,7 @@ Viu? Se a gente pensar bem, não precisa “gastar os tubos” para ficar bonita
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/look-jeans-e-cardiga-_-bicha-femea-danigarlet.jpg"><img class="alignnone size-medium wp-image-4725" title="look jeans e cardiga _ bicha femea danigarlet" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/look-jeans-e-cardiga-_-bicha-femea-danigarlet-272x300.jpg" alt="" width="272" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/look-jeans-e-cardiga-_-bicha-femea-danigarlet.jpg"><img class="alignnone size-medium wp-image-4725" title="look jeans e cardiga _ bicha femea danigarlet" src="https://www.trololodemulher.com.br/2010/06/look-jeans-e-cardiga-_-bicha-femea-danigarlet-272x300.jpg" alt="" width="272" height="300" /></a>
     </td>
     
     <td>
@@ -72,7 +69,7 @@ _…**Simples com jeans e aquele salto** que deixa toda mulher linda! Esse look 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/look-frio_valentine_bicha-femea-danigarlet.jpg"></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/look-frio_valentine_bicha-femea-danigarlet.jpg"></a>
     </td>
     
     <td>
@@ -88,7 +85,7 @@ _…Aquecida e elegante! Se sair de dia para um passeio, vale uma **bela sapatil
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/look-romantic-_namorados-_bicha-femea-danigarlet.jpg"></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/look-romantic-_namorados-_bicha-femea-danigarlet.jpg"></a>
     </td>
     
     <td>
@@ -101,16 +98,16 @@ _ _
 
 _…Com as pernocas de fora, porque não há homem que resista a um **vestido**! Uma boa aposta são os vestidos (nas cores que mais a valorizem) dessa modelagem no colo, combinam com a proposta do dia =ROMANCE!”_
 
-_Imagens montadas por Daniela Garlet no <a href="http://www.polyvore.com/" target="_blank">Polyvore</a>._
+_Imagens montadas por Daniela Garlet no <a href="http://www.polyvore.com/" target="_blank" rel="noopener noreferrer">Polyvore</a>._
 
 Pronto! Começou a pensar em como você vai se montar bonita e garbosa no dia dos namorados? Agora você precisa decidir se vai jantar fora ou em casa, _hein_? Supondo que você curta ficar em casa, a fim de criar um ambiente mais intimista, sugiro a leitura de **_[dicas para a decoração da mesa na noite dos namorados](http://www.trololodemulher.com.br/2009/05/28/decoracao-mesa-noite-namorados/)_**. Há algumas sugestões de como você pode compor o cenário ideal…
 
-Você decidiu que vai mesmo ficar em casa? Já sabe qual será o cardápio? Quer sugestões? A Fla, bicha fêmea navegante que cuida do “<a href="http://artenacozinha.blogspot.com/" target="_blank">Arte na Cozinha</a>”, separou algumas receitas fáceis, rápidas e práticas. Sim, é tudo que bichas fêmeas espertas como nós precisamos. Confira as dicas da bonitona: “_Bom, minha parte neste post da Lidi, é falar pra você, bicha fêmea que não vai pensar na possibilidade de enfrentar filas e filas no dia dos namorados, e que vai, sim, para o fogão sem medo de ser feliz, preparar algo fácil para um jantarzinho romântico. Porque, colega, vamos combinar, tem duas coisas que ficam lotadas nesse dia: motel e restaurante&#8230;[<img class="alignnone size-full wp-image-1997" title="EmoticonLaugh_thumb.gif" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonlaugh_thumb2.gif" alt="" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonlaugh_thumb2.gif). Então, curta o quentinho da sua casa e prepare um jantar rápido e gostoso para você e seu bem querer…_
+Você decidiu que vai mesmo ficar em casa? Já sabe qual será o cardápio? Quer sugestões? A Fla, bicha fêmea navegante que cuida do “<a href="http://artenacozinha.blogspot.com/" target="_blank" rel="noopener noreferrer">Arte na Cozinha</a>”, separou algumas receitas fáceis, rápidas e práticas. Sim, é tudo que bichas fêmeas espertas como nós precisamos. Confira as dicas da bonitona: “_Bom, minha parte neste post da Lidi, é falar pra você, bicha fêmea que não vai pensar na possibilidade de enfrentar filas e filas no dia dos namorados, e que vai, sim, para o fogão sem medo de ser feliz, preparar algo fácil para um jantarzinho romântico. Porque, colega, vamos combinar, tem duas coisas que ficam lotadas nesse dia: motel e restaurante&#8230;[<img class="alignnone size-full wp-image-1997" title="EmoticonLaugh_thumb.gif" src="https://www.trololodemulher.com.br/2009/07/emoticonlaugh_thumb2.gif" alt="" width="18" height="18" />](https://www.trololodemulher.com.br/2009/07/emoticonlaugh_thumb2.gif). Então, curta o quentinho da sua casa e prepare um jantar rápido e gostoso para você e seu bem querer…_
 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/founde1.jpg"><img class="alignnone size-medium wp-image-4722" title="founde[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/founde1-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/founde1.jpg"><img class="alignnone size-medium wp-image-4722" title="founde[1]" src="https://www.trololodemulher.com.br/2010/06/founde1-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
     
     <td>
@@ -121,12 +118,12 @@ Você decidiu que vai mesmo ficar em casa? Já sabe qual será o cardápio? Quer
 
 _ _
 
-_…Primeiro lugar, nada de fazer coisas muito elaboradas, melhor gastar tempo de outra forma, né não?!!!! Um <a href="http://artenacozinha.blogspot.com/2009/07/noite-do-fondue.html" target="_blank">Fondue</a> é ótima pedida, até porque o friozinho já está aí, não é mesmo? E comprar o aparelho será um crime perdoável para este dia. Mas a grana está curta?…_
+_…Primeiro lugar, nada de fazer coisas muito elaboradas, melhor gastar tempo de outra forma, né não?!!!! Um <a href="http://artenacozinha.blogspot.com/2009/07/noite-do-fondue.html" target="_blank" rel="noopener noreferrer">Fondue</a> é ótima pedida, até porque o friozinho já está aí, não é mesmo? E comprar o aparelho será um crime perdoável para este dia. Mas a grana está curta?…_
 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/salmao_envelopado1.jpg"><img class="alignnone size-medium wp-image-4730" title="salmao_envelopado[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/salmao_envelopado1-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/salmao_envelopado1.jpg"><img class="alignnone size-medium wp-image-4730" title="salmao_envelopado[1]" src="https://www.trololodemulher.com.br/2010/06/salmao_envelopado1-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
     
     <td>
@@ -137,12 +134,12 @@ _…Primeiro lugar, nada de fazer coisas muito elaboradas, melhor gastar tempo d
 
 _ _
 
-_…Que tal preparar um_ <a href="http://artenacozinha.blogspot.com/2010/05/salmao-em-papilote.html" target="_blank"><em>Peixe ao Papilote</em></a>_? E o peixe pode ser uma tilápia, uma pescada ou até uma merluza, o importante é caprichar no sabor…_
+_…Que tal preparar um_ <a href="http://artenacozinha.blogspot.com/2010/05/salmao-em-papilote.html" target="_blank" rel="noopener noreferrer"><em>Peixe ao Papilote</em></a>_? E o peixe pode ser uma tilápia, uma pescada ou até uma merluza, o importante é caprichar no sabor…_
 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/mignon_chumichurri1.jpg"><img class="alignnone size-medium wp-image-4729" title="mignon_chumichurri[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/mignon_chumichurri1-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/mignon_chumichurri1.jpg"><img class="alignnone size-medium wp-image-4729" title="mignon_chumichurri[1]" src="https://www.trololodemulher.com.br/2010/06/mignon_chumichurri1-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
     
     <td>
@@ -153,12 +150,12 @@ _…Que tal preparar um_ <a href="http://artenacozinha.blogspot.com/2010/05/salm
 
 _ _
 
-_…Ah, mas seu amado gosta mesmo de carne? Bem, eu acho que carne é algo pesado para se comer á noite pensando naquilo que vem depois (hohoho), masss, se mesmo assim ele precisar de uma carninha, que tal preparar um_ <a href="http://artenacozinha.blogspot.com/2010/04/filet-mignon-ao-molho-de-chimi-churri.html" target="_blank"><em>Filé Mignon ao Molho de Chimi-Churri</em></a> ?
+_…Ah, mas seu amado gosta mesmo de carne? Bem, eu acho que carne é algo pesado para se comer á noite pensando naquilo que vem depois (hohoho), masss, se mesmo assim ele precisar de uma carninha, que tal preparar um_ <a href="http://artenacozinha.blogspot.com/2010/04/filet-mignon-ao-molho-de-chimi-churri.html" target="_blank" rel="noopener noreferrer"><em>Filé Mignon ao Molho de Chimi-Churri</em></a> ?
 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/leque_de_berinjela1.jpg"><img class="alignnone size-medium wp-image-4723" title="leque_de_berinjela[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/leque_de_berinjela1-300x211.jpg" alt="" width="300" height="211" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/leque_de_berinjela1.jpg"><img class="alignnone size-medium wp-image-4723" title="leque_de_berinjela[1]" src="https://www.trololodemulher.com.br/2010/06/leque_de_berinjela1-300x211.jpg" alt="" width="300" height="211" /></a>
     </td>
     
     <td>
@@ -169,7 +166,7 @@ _…Ah, mas seu amado gosta mesmo de carne? Bem, eu acho que carne é algo pesad
 
 _ _
 
-_…Ahhh sim, seu bem querer é vegetariano?_ <a href="http://artenacozinha.blogspot.com/2009/09/leques-de-berinjela.html" target="_blank"><em>Leques de Berinjela</em></a>_! Ele vai amar …_
+_…Ahhh sim, seu bem querer é vegetariano?_ <a href="http://artenacozinha.blogspot.com/2009/09/leques-de-berinjela.html" target="_blank" rel="noopener noreferrer"><em>Leques de Berinjela</em></a>_! Ele vai amar …_
 
 <div>
   <em> </em>
@@ -178,7 +175,7 @@ _…Ahhh sim, seu bem querer é vegetariano?_ <a href="http://artenacozinha.blog
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/macarrao_com_funghi1.jpg"><img class="alignnone size-medium wp-image-4727" title="macarrao_com_funghi[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/macarrao_com_funghi1-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/macarrao_com_funghi1.jpg"><img class="alignnone size-medium wp-image-4727" title="macarrao_com_funghi[1]" src="https://www.trololodemulher.com.br/2010/06/macarrao_com_funghi1-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
     
     <td>
@@ -189,13 +186,13 @@ _…Ahhh sim, seu bem querer é vegetariano?_ <a href="http://artenacozinha.blog
 
  
 
-…_Se ele for da turma das massas, faça um belo_ <a href="http://artenacozinha.blogspot.com/2010/04/macarrao-com-funghi-secchi.html" target="_blank"><em>Macarrão ao Funghi</em></a> _e você não vai se arrepender…_
+…_Se ele for da turma das massas, faça um belo_ <a href="http://artenacozinha.blogspot.com/2010/04/macarrao-com-funghi-secchi.html" target="_blank" rel="noopener noreferrer"><em>Macarrão ao Funghi</em></a> _e você não vai se arrepender…_
 
 …_e a sobremesa? Ahhhh, eu se fosse você, derreteria chocolate meio amargo, misturaria com um pouco de creme de leite, colocaria em dois potinhos, compraria dois pincéis e, bom&#8230; aí é só usar a imaginação… Bon apéttit!”_
 
 Alguma das receitas te apetece? Basta clicar no título de cada prato e você será levada ao jeito super didático e “gente da gente” de a Fla ensinar as receitas.
 
-Mulher! Inspiração é o que não falta por aqui, hoje. É ou não é? Mas como eu queria ter certeza de que você sairia da leitura do post do Bicha Fêmea s_uperultramegablaster_ tentada a fazer algo diferente no seu dia dos namorados, convidei a Cláudia Ramalho, editora do blog “<a href="http://claudinha-feitoamo.blogspot.com/" target="_blank">Feito á Mão</a>”, e que tem a mente borbulhante de ideias, para contar como ela comemorou um de seu dia dos namorados mais especiais. Leia e inspire-se! E se ainda quiser mais sugestões de possibilidades para esse dia, confira mais <a href="http://claudinha-feitoamo.blogspot.com/2010/05/dia-dos-namorados-sugestoes-para.html" target="_blank">dicas para resgatar o romance</a> que a Cláudia deu em seu blog…
+Mulher! Inspiração é o que não falta por aqui, hoje. É ou não é? Mas como eu queria ter certeza de que você sairia da leitura do post do Bicha Fêmea s_uperultramegablaster_ tentada a fazer algo diferente no seu dia dos namorados, convidei a Cláudia Ramalho, editora do blog “<a href="http://claudinha-feitoamo.blogspot.com/" target="_blank" rel="noopener noreferrer">Feito á Mão</a>”, e que tem a mente borbulhante de ideias, para contar como ela comemorou um de seu dia dos namorados mais especiais. Leia e inspire-se! E se ainda quiser mais sugestões de possibilidades para esse dia, confira mais <a href="http://claudinha-feitoamo.blogspot.com/2010/05/dia-dos-namorados-sugestoes-para.html" target="_blank" rel="noopener noreferrer">dicas para resgatar o romance</a> que a Cláudia deu em seu blog…
 
 “_Eu e meu marido começamos a namorar três dias antes do dia dos namorados. Eu queria fazer algo especial, para o dia dos namorados do ano passado, para comemorar as duas datas, pois depois de dez anos de casamento, o nascimento de duas filhas, nossas comemorações estavam ficando meio sem graça. Queria restaurar o romance perdido, sabe como é? Conversando com um amigo, ele me deu a ideia de reservar um quarto de um hotel. O hotel promoveria um jantar dançante, depois do jantar subiríamos para o quarto para terminar a noite em grande estilo._ 
 
@@ -206,7 +203,7 @@ _A experiência deu tão certo que quando completamos dez anos de casamento, em 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/banheira-romantica.jpg"><img class="alignnone size-medium wp-image-4717" title="banheira romântica" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/banheira-romantica-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/banheira-romantica.jpg"><img class="alignnone size-medium wp-image-4717" title="banheira romântica" src="https://www.trololodemulher.com.br/2010/06/banheira-romantica-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
     
     <td>
@@ -222,7 +219,7 @@ _O quarto estava decorado com pétalas de rosa vermelhas, havia um espumante e d
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/bombons.jpg"><img class="alignnone size-medium wp-image-4718" title="bombons" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/bombons-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/bombons.jpg"><img class="alignnone size-medium wp-image-4718" title="bombons" src="https://www.trololodemulher.com.br/2010/06/bombons-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
     
     <td>
@@ -238,7 +235,7 @@ _Claro que não dá pra fazer coisas assim todo ano. Nem sempre dá pra deixar a
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/cafe-da-manha-romantico.jpg"><img class="alignnone size-medium wp-image-4719" title="café da manhã romântico" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/cafe-da-manha-romantico-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/cafe-da-manha-romantico.jpg"><img class="alignnone size-medium wp-image-4719" title="café da manhã romântico" src="https://www.trololodemulher.com.br/2010/06/cafe-da-manha-romantico-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
     
     <td>
@@ -254,7 +251,7 @@ _Por isso, este ano, nossa comemoração será muito mais simples. Um jantarzinh
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/coracao-rosa.jpg"><img class="alignnone size-full wp-image-4720" title="coração rosa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/coracao-rosa.jpg" alt="" width="300" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/coracao-rosa.jpg"><img class="alignnone size-full wp-image-4720" title="coração rosa" src="https://www.trololodemulher.com.br/2010/06/coracao-rosa.jpg" alt="" width="300" height="300" /></a>
     </td>
     
     <td>
@@ -264,7 +261,7 @@ _Por isso, este ano, nossa comemoração será muito mais simples. Um jantarzinh
 </table>
 
 <p style="text-align: center;">
-  <em>Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>
+  <em>Imagem: <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em>
 </p>
 
 Conta aí, bonita! **Você tem ideias ou dicas** para a **noite dos namorados**? Fala aí nos comentários, divide comigo que estou ansiosíssima para saber…

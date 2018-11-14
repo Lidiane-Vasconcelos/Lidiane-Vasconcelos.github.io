@@ -1,10 +1,7 @@
 ---
-id: 2965
 title: Cirurgia bariátrica e os cuidados essenciais para o sucesso
-date: 2011-03-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/03/18/cirurgia-bariatrica/
 permalink: /2011/03/18/cirurgia-bariatrica/
 categories:
   - Saúde
@@ -18,7 +15,7 @@ Quem já tentou diversas formas de perder peso e hoje se encontra com o peso ele
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/obesidade.jpg"><img class="alignnone size-full wp-image-6079" title="obesidade" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/obesidade.jpg" alt="" width="576" height="432" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/obesidade.jpg"><img class="alignnone size-full wp-image-6079" title="obesidade" src="https://www.trololodemulher.com.br/2011/02/obesidade.jpg" alt="" width="576" height="432" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -30,7 +27,7 @@ Quem já tentou diversas formas de perder peso e hoje se encontra com o peso ele
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/obesidade2.jpg"><img class="alignnone size-full wp-image-6080" title="obesidade2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/obesidade2.jpg" alt="" width="512" height="384" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/obesidade2.jpg"><img class="alignnone size-full wp-image-6080" title="obesidade2" src="https://www.trololodemulher.com.br/2011/02/obesidade2.jpg" alt="" width="512" height="384" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -41,12 +38,12 @@ Quem já tentou diversas formas de perder peso e hoje se encontra com o peso ele
   Segundo Cruz e Morimoto, a cirurgia não finaliza o tratamento da obesidade, pelo contrário, é o início de um período de um a dois anos de mudanças comportamentais, alimentares e de exercícios, com monitoração regular de uma equipe multidisciplinar de profissionais de saúde (CRUZ, M. R. R. & MORIMOTO, I. M. I., 2004).
 </p>
 
-_Imagens:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagens:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/Luciana-Kotaka.jpg"><img class="alignnone size-thumbnail wp-image-4970" title="Luciana Kotaka" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/Luciana-Kotaka-150x150.jpg" alt="" width="150" height="150" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/07/Luciana-Kotaka.jpg"><img class="alignnone size-thumbnail wp-image-4970" title="Luciana Kotaka" src="https://www.trololodemulher.com.br/2010/07/Luciana-Kotaka-150x150.jpg" alt="" width="150" height="150" /></a>
     </td>
     
     <td width="300" valign="top">

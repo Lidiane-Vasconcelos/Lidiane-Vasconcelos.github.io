@@ -1,10 +1,7 @@
 ---
-id: 2822
 title: Como escolher cores para a parede?
-date: 2010-05-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/05/31/cores-para-parede/
 permalink: /2010/05/31/cores-para-parede/
 categories:
   - Dicas de Decoração
@@ -36,7 +33,7 @@ Você tem ou teve dúvidas na hora de escolher qual a cor ideal para pintar as p
 > </p>
 
 <p style="text-align: justify;">
-  De acordo com a Arquiteta Letícia Lodi, que escreve no blog “<a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>”, a <strong>escolha das cores tem a ver com a personalidade da pessoa</strong>, e essa variação parte das cores neutras (branco, bege, gelo, colorido pastel) e que são as que eu prefiro, indo até as cores mais vibrantes, que parecem ser o gosto da Vania. A propósito, qual o seu gosto?
+  De acordo com a Arquiteta Letícia Lodi, que escreve no blog “<a href="http://blog.casadecatarina.com.br/" target="_blank" rel="noopener noreferrer">Casa de Catarina</a>”, a <strong>escolha das cores tem a ver com a personalidade da pessoa</strong>, e essa variação parte das cores neutras (branco, bege, gelo, colorido pastel) e que são as que eu prefiro, indo até as cores mais vibrantes, que parecem ser o gosto da Vania. A propósito, qual o seu gosto?
 </p>
 
 <p style="text-align: justify;">
@@ -48,7 +45,7 @@ Você tem ou teve dúvidas na hora de escolher qual a cor ideal para pintar as p
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank">Cores na decoração: veja 6 respostas para todas as suas dúvidas.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank" rel="noopener noreferrer">Cores na decoração: veja 6 respostas para todas as suas dúvidas.</a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -60,7 +57,7 @@ Você tem ou teve dúvidas na hora de escolher qual a cor ideal para pintar as p
 </p>
 
 <p style="text-align: justify;">
-  <em>No restante, vale soltar a imaginação e usar as cores como sua aliada, afinal de contas, é algo que muda muito a personalidade do ambiente e é de fácil aplicação. Caso sinta dúvida no seu caso específico, use este simulador de decoração, disponibilizado pela </em><a href="http://www.suvinil.com.br/Simuladorv2/" target="_blank"><em>Suvinil</em></a><em>. Você poderá fazer upload da foto e jogar todos os tons que tiver vontade, veja:”,</em> sugere a Letícia&#8230;
+  <em>No restante, vale soltar a imaginação e usar as cores como sua aliada, afinal de contas, é algo que muda muito a personalidade do ambiente e é de fácil aplicação. Caso sinta dúvida no seu caso específico, use este simulador de decoração, disponibilizado pela </em><a href="http://www.suvinil.com.br/Simuladorv2/" target="_blank" rel="noopener noreferrer"><em>Suvinil</em></a><em>. Você poderá fazer upload da foto e jogar todos os tons que tiver vontade, veja:”,</em> sugere a Letícia&#8230;
 </p>
 
 <p style="text-align: justify;">
@@ -68,11 +65,11 @@ Você tem ou teve dúvidas na hora de escolher qual a cor ideal para pintar as p
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/" target="_blank"><strong>Decoração e interiores: que cor pintar na parede da sala de estar?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/" target="_blank" rel="noopener noreferrer"><strong>Decoração e interiores: que cor pintar na parede da sala de estar?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DECORACAO-CORES-PAREDE.jpg"><img class="alignnone size-full wp-image-10159" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DECORACAO-CORES-PAREDE.jpg" alt="DECORACAO-CORES-PAREDE" width="600" height="375" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/06/DECORACAO-CORES-PAREDE.jpg"><img class="alignnone size-full wp-image-10159" src="https://www.trololodemulher.com.br/2014/06/DECORACAO-CORES-PAREDE.jpg" alt="DECORACAO-CORES-PAREDE" width="600" height="375" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -80,7 +77,7 @@ Você tem ou teve dúvidas na hora de escolher qual a cor ideal para pintar as p
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DECORACAO-CORES-PAREDE2.jpg"><img class="alignnone size-full wp-image-10160" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DECORACAO-CORES-PAREDE2.jpg" alt="DECORACAO-CORES-PAREDE[2]" width="600" height="370" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/06/DECORACAO-CORES-PAREDE2.jpg"><img class="alignnone size-full wp-image-10160" src="https://www.trololodemulher.com.br/2014/06/DECORACAO-CORES-PAREDE2.jpg" alt="DECORACAO-CORES-PAREDE[2]" width="600" height="370" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -92,7 +89,7 @@ E você, bonita do trololó? Qual tipo de cor prefere em suas paredes? Tem algum
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

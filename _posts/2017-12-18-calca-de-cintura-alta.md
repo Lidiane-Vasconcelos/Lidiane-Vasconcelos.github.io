@@ -1,10 +1,7 @@
 ---
-id: 3845
 title: 'Calça de cintura alta: saiba como usar.'
-date: 2017-12-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/12/18/calca-de-cintura-alta/
 permalink: /2017/12/18/calca-de-cintura-alta/
 categories:
   - Comportamento
@@ -15,7 +12,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14524" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/CALCA-CINTURA-ALTA-800.jpg" alt="CALCA CINTURA ALTA-800" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14524" src="https://www.trololodemulher.com.br/2017/12/CALCA-CINTURA-ALTA-800.jpg" alt="CALCA CINTURA ALTA-800" width="800" height="800" />
 </p>
 
 <p align="justify">
@@ -55,7 +52,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14519" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/CALCA-CINTURA-ALTA-CALCA-ALFAIATARIA-CINTURA-ALTA-CAMILA-QUEIROZ.jpg" alt="CALCA CINTURA ALTA- CALCA ALFAIATARIA CINTURA ALTA-CAMILA QUEIROZ" width="800" height="1198" />
+  <img class="alignnone size-full wp-image-14519" src="https://www.trololodemulher.com.br/2017/12/CALCA-CINTURA-ALTA-CALCA-ALFAIATARIA-CINTURA-ALTA-CAMILA-QUEIROZ.jpg" alt="CALCA CINTURA ALTA- CALCA ALFAIATARIA CINTURA ALTA-CAMILA QUEIROZ" width="800" height="1198" />
 </p>
 
 <p align="center">
@@ -81,7 +78,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14521" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/CALCA-CINTURA-ALTA-CALCA-JEANS-CINTURA-ALTA-MARIANA-RIOS.jpg" alt="CALCA CINTURA ALTA- CALCA JEANS CINTURA ALTA-MARIANA RIOS" width="384" height="576" />
+  <img class="alignnone size-full wp-image-14521" src="https://www.trololodemulher.com.br/2017/12/CALCA-CINTURA-ALTA-CALCA-JEANS-CINTURA-ALTA-MARIANA-RIOS.jpg" alt="CALCA CINTURA ALTA- CALCA JEANS CINTURA ALTA-MARIANA RIOS" width="384" height="576" />
 </p>
 
 <p align="center">
@@ -107,7 +104,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14520" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/CALCA-CINTURA-ALTA-CALCA-JEANS-CINTURA-ALTA-CAMILA-PITANGA.jpg" alt="CALCA CINTURA ALTA- CALCA JEANS CINTURA ALTA-CAMILA PITANGA" width="350" height="671" />
+  <img class="alignnone size-full wp-image-14520" src="https://www.trololodemulher.com.br/2017/12/CALCA-CINTURA-ALTA-CALCA-JEANS-CINTURA-ALTA-CAMILA-PITANGA.jpg" alt="CALCA CINTURA ALTA- CALCA JEANS CINTURA ALTA-CAMILA PITANGA" width="350" height="671" />
 </p>
 
 <p align="center">
@@ -131,7 +128,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13873" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/TATIANE-VELASQUES-CONSULTORA-DE-IMAGEM-E-ESTILO.jpg" alt="TATIANE VELASQUES-CONSULTORA DE IMAGEM E ESTILO" width="800" height="210" />
+  <img class="alignnone size-full wp-image-13873" src="https://www.trololodemulher.com.br/2017/05/TATIANE-VELASQUES-CONSULTORA-DE-IMAGEM-E-ESTILO.jpg" alt="TATIANE VELASQUES-CONSULTORA DE IMAGEM E ESTILO" width="800" height="210" />
 </p>
 
 <p align="justify">
@@ -139,23 +136,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/10/23/bermuda-de-alfaiataria/" target="_blank"><strong>Como usar bermuda de alfaiataria?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/10/23/bermuda-de-alfaiataria/" target="_blank" rel="noopener noreferrer"><strong>Como usar bermuda de alfaiataria?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/05/29/como-usar-calca-cigarrete/" target="_blank"><strong>Como usar calça cigarrete no dia a dia?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/05/29/como-usar-calca-cigarrete/" target="_blank" rel="noopener noreferrer"><strong>Como usar calça cigarrete no dia a dia?</strong></a>
 </p>
 
 <p align="justify">
-  Tatiane presta consultoria de imagem e estilo, cujo serviço oferece uma ótima relação custo/benefício e traz resultados rápidos. Trata-se de uma Consultoria de Estilo Virtual com resultados reais. Você pode obter mais informações pelo telefone (71) 99332-2895 ou e-mail <a href="mailto:valasquesconsultoria@gmail.com">valasquesconsultoria@gmail.com</a>. Em sua Página no Facebook, a consultora oferece conteúdo frequente sobre moda e estilo, para você ficar antenada e de bem consigo mesma. <a href="https://www.facebook.com/valasquesconsultoria/?ref=page_internal" target="_blank">Clique aqui, curta e acompanhe</a>!
+  Tatiane presta consultoria de imagem e estilo, cujo serviço oferece uma ótima relação custo/benefício e traz resultados rápidos. Trata-se de uma Consultoria de Estilo Virtual com resultados reais. Você pode obter mais informações pelo telefone (71) 99332-2895 ou e-mail <a href="mailto:valasquesconsultoria@gmail.com">valasquesconsultoria@gmail.com</a>. Em sua Página no Facebook, a consultora oferece conteúdo frequente sobre moda e estilo, para você ficar antenada e de bem consigo mesma. <a href="https://www.facebook.com/valasquesconsultoria/?ref=page_internal" target="_blank" rel="noopener noreferrer">Clique aqui, curta e acompanhe</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>
 
 <p align="justify">

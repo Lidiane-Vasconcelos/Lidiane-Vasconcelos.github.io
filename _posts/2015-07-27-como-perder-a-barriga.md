@@ -1,10 +1,7 @@
 ---
-id: 3455
 title: Como perder a barriga? 3 profissionais contam tudo!
-date: 2015-07-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/07/27/como-perder-a-barriga/
 permalink: /2015/07/27/como-perder-a-barriga/
 categories:
   - Beleza
@@ -19,15 +16,15 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL3.jpg"><img class="alignnone size-full wp-image-11215" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL3.jpg" alt="COMO PERDER BARRIGA-EXERCICIO FISICO-ABDOMINAL[3]" width="800" height="42" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL3.jpg"><img class="alignnone size-full wp-image-11215" src="https://www.trololodemulher.com.br/2015/07/COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL3.jpg" alt="COMO PERDER BARRIGA-EXERCICIO FISICO-ABDOMINAL[3]" width="800" height="42" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Eu diria que o primeiro passo para perder a barriga é deixar de dar ouvidos para promessas milagrosas. Sabe quando você escuta aqui e acolá que dá para se livrar dessa gordura abdominal em poucos dias? O resultado, muitas vezes, é a frustração. É compreensível que quando a gente seja confrontada com um problema o desejo seja de eliminá-lo o quanto antes, mas nesse caso, é preciso aceitar e encarar um processo de médio e longo prazo. Ser realista, acredito, oferece todas as chances de sucesso. Se formos falar de prazos, isso também pode variar bastante. “<em>O metabolismo de cada pessoa e a genética influenciam nesse processo. Tem gente que consegue secar em poucos dias, 4 semanas mais especificamente, e tem gente que precisa de pelo menos 12 semanas (3 meses) para conseguir ver resultados</em>”, explica a <strong>Educadora Física Denny Tavares</strong>, da <a href="https://www.facebook.com/centralfitnesstudio?pnref=lhc" target="_blank">Central Fitness</a>, <strong>São Paulo – capital</strong>. Ainda de acordo com Denny, “<em>uma dieta equilibrada é, na verdade, a responsável pela perda de gordura. Abdominais, na verdade, são responsáveis pelo enriquecimento da musculatura abdominal, e não pela perda de gordura. Para se obter uma barriga &#8220;sequinha&#8221; recomenda se: uma dieta equilibrada, a prática de exercícios aeróbicos para a queima de gordura (calorias), e abdominais para enrijecer o abdômen</em>”, conclui.
+  Eu diria que o primeiro passo para perder a barriga é deixar de dar ouvidos para promessas milagrosas. Sabe quando você escuta aqui e acolá que dá para se livrar dessa gordura abdominal em poucos dias? O resultado, muitas vezes, é a frustração. É compreensível que quando a gente seja confrontada com um problema o desejo seja de eliminá-lo o quanto antes, mas nesse caso, é preciso aceitar e encarar um processo de médio e longo prazo. Ser realista, acredito, oferece todas as chances de sucesso. Se formos falar de prazos, isso também pode variar bastante. “<em>O metabolismo de cada pessoa e a genética influenciam nesse processo. Tem gente que consegue secar em poucos dias, 4 semanas mais especificamente, e tem gente que precisa de pelo menos 12 semanas (3 meses) para conseguir ver resultados</em>”, explica a <strong>Educadora Física Denny Tavares</strong>, da <a href="https://www.facebook.com/centralfitnesstudio?pnref=lhc" target="_blank" rel="noopener noreferrer">Central Fitness</a>, <strong>São Paulo – capital</strong>. Ainda de acordo com Denny, “<em>uma dieta equilibrada é, na verdade, a responsável pela perda de gordura. Abdominais, na verdade, são responsáveis pelo enriquecimento da musculatura abdominal, e não pela perda de gordura. Para se obter uma barriga &#8220;sequinha&#8221; recomenda se: uma dieta equilibrada, a prática de exercícios aeróbicos para a queima de gordura (calorias), e abdominais para enrijecer o abdômen</em>”, conclui.
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL4.png"><img class="alignnone size-full wp-image-11216" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL4.png" alt="COMO PERDER BARRIGA-EXERCICIO FISICO-ABDOMINAL[4]" width="698" height="78" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL4.png"><img class="alignnone size-full wp-image-11216" src="https://www.trololodemulher.com.br/2015/07/COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL4.png" alt="COMO PERDER BARRIGA-EXERCICIO FISICO-ABDOMINAL[4]" width="698" height="78" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -39,7 +36,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="https://runnerclick.com/best-running-shorts-reviewed/" target="_blank">Shorts para corrida</a>: lista com alguns deles avaliados.</strong>
+  <strong><a href="https://runnerclick.com/best-running-shorts-reviewed/" target="_blank" rel="noopener noreferrer">Shorts para corrida</a>: lista com alguns deles avaliados.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -47,11 +44,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/SAUDE-ATIVIDADE-FISICA-COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL.jpg"><img class="alignnone size-full wp-image-11219" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/SAUDE-ATIVIDADE-FISICA-COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL.jpg" alt="SAUDE-ATIVIDADE FISICA-COMO PERDER BARRIGA-EXERCICIO FISICO-ABDOMINAL" width="800" height="278" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/SAUDE-ATIVIDADE-FISICA-COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL.jpg"><img class="alignnone size-full wp-image-11219" src="https://www.trololodemulher.com.br/2015/07/SAUDE-ATIVIDADE-FISICA-COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL.jpg" alt="SAUDE-ATIVIDADE FISICA-COMO PERDER BARRIGA-EXERCICIO FISICO-ABDOMINAL" width="800" height="278" /></a>
 </p>
 
 <p style="text-align: center;">
-  Imagem: <a href="http://revistamarieclaire.globo.com/Beleza/noticia/2014/12/fique-por-dentro-do-guia-definitivo-para-conquistar-uma-barriga-chapada.html" target="_blank">Marie Claire</a>
+  Imagem: <a href="http://revistamarieclaire.globo.com/Beleza/noticia/2014/12/fique-por-dentro-do-guia-definitivo-para-conquistar-uma-barriga-chapada.html" target="_blank" rel="noopener noreferrer">Marie Claire</a>
 </p>
 
 <p style="text-align: justify;">
@@ -60,14 +57,14 @@ categories:
 
 **Veja mais consultorias com Educadora Denny Tavares:**
 
-**<a href="http://www.trololodemulher.com.br/2015/03/12/relaxar-tensoes-bem-estar/" target="_blank">Como relaxar suas tensões? 4 profissionais dão dicas.</a>**
+**<a href="http://www.trololodemulher.com.br/2015/03/12/relaxar-tensoes-bem-estar/" target="_blank" rel="noopener noreferrer">Como relaxar suas tensões? 4 profissionais dão dicas.</a>**
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL5.jpg"><img class="alignnone size-full wp-image-11217" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL5.jpg" alt="COMO PERDER BARRIGA-EXERCICIO FISICO-ABDOMINAL[5]" width="800" height="62" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL5.jpg"><img class="alignnone size-full wp-image-11217" src="https://www.trololodemulher.com.br/2015/07/COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL5.jpg" alt="COMO PERDER BARRIGA-EXERCICIO FISICO-ABDOMINAL[5]" width="800" height="62" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Para perder gordura abdominal há que se adotar algumas estratégias, e todas elas são extremamente importantes para alcançar esse objetivo. A <strong>Nutricionista Pamela Miguel, de São Paulo – capital</strong>, profissional que compõe a equipe da <a href="http://www.drafernandagranja.com/" target="_blank">Clínica de Nutrição Funcional da Dra. Fernanda Granja</a> orienta:
+  Para perder gordura abdominal há que se adotar algumas estratégias, e todas elas são extremamente importantes para alcançar esse objetivo. A <strong>Nutricionista Pamela Miguel, de São Paulo – capital</strong>, profissional que compõe a equipe da <a href="http://www.drafernandagranja.com/" target="_blank" rel="noopener noreferrer">Clínica de Nutrição Funcional da Dra. Fernanda Granja</a> orienta:
 </p>
 
 <p style="text-align: justify;">
@@ -76,7 +73,7 @@ categories:
 
 **A propósito, veja:**
 
-**<a href="http://www.trololodemulher.com.br/2015/01/28/risoto-arroz-integral-aspargos/" target="_blank">Risoto com arroz comum, mas integral, e com aspargos.</a>**
+**<a href="http://www.trololodemulher.com.br/2015/01/28/risoto-arroz-integral-aspargos/" target="_blank" rel="noopener noreferrer">Risoto com arroz comum, mas integral, e com aspargos.</a>**
 
 <p style="text-align: justify;">
   2 &#8211; <strong>Controle no nível de cortisol</strong>: o cortisol é um hormônio liberado sempre nos momentos de estresse. Altos níveis de cortisol estão relacionados com maior acúmulo de gordura na região abdominal. Alguns alimentos auxiliam no controle desse hormônio, evitando assim o acúmulo de gordura. São eles: abacate, azeite de oliva extravirgem, óleo de coco. Cacau, banana, aveia e espinafre são alimentos que auxiliam na melhora do bem estar, evitando o estresse e a produção do cortisol.
@@ -87,7 +84,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2015/07/08/bolo-de-banana/" target="_blank">Bolo de banana sem glúten e light… e cheiroso!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/07/08/bolo-de-banana/" target="_blank" rel="noopener noreferrer">Bolo de banana sem glúten e light… e cheiroso!</a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -114,7 +111,7 @@ categories:
 
 **Veja também:**
 
-**<a href="http://www.trololodemulher.com.br/2015/03/19/saude-beleza-sucos-funcionais/" target="_blank">Saúde e beleza no copo: sucos funcionais.</a>**
+**<a href="http://www.trololodemulher.com.br/2015/03/19/saude-beleza-sucos-funcionais/" target="_blank" rel="noopener noreferrer">Saúde e beleza no copo: sucos funcionais.</a>**
 
 **TMulher> Como saber quantos quilos, exatamente, precisamos emagrecer?**
 
@@ -124,26 +121,26 @@ categories:
 
 **Veja mais consultorias da Dra. Pamela Miguel:**
 
-**<a href="http://www.trololodemulher.com.br/2015/05/26/dieta-vegetariana/" target="_blank">Dieta vegetariana: saudável, rica e variada. Mito ou verdade?</a>**
+**<a href="http://www.trololodemulher.com.br/2015/05/26/dieta-vegetariana/" target="_blank" rel="noopener noreferrer">Dieta vegetariana: saudável, rica e variada. Mito ou verdade?</a>**
 
-**<a href="http://www.trololodemulher.com.br/2015/03/09/carne-de-porco/" target="_blank">Carne de porco faz mal á saúde: mito ou verdade?</a>**
+**<a href="http://www.trololodemulher.com.br/2015/03/09/carne-de-porco/" target="_blank" rel="noopener noreferrer">Carne de porco faz mal á saúde: mito ou verdade?</a>**
 
-**<a href="http://www.trololodemulher.com.br/2015/03/06/alimentacao-nutricao/" target="_blank">Alimentação e nutrição: 7 dúvidas respondidas.</a>**
+**<a href="http://www.trololodemulher.com.br/2015/03/06/alimentacao-nutricao/" target="_blank" rel="noopener noreferrer">Alimentação e nutrição: 7 dúvidas respondidas.</a>**
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/SAUDE-ATIVIDADE-FISICA-COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL2.jpg"><img class="alignnone size-full wp-image-11220" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/SAUDE-ATIVIDADE-FISICA-COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL2.jpg" alt="SAUDE-ATIVIDADE FISICA-COMO PERDER BARRIGA-EXERCICIO FISICO-ABDOMINAL[2]" width="800" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/SAUDE-ATIVIDADE-FISICA-COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL2.jpg"><img class="alignnone size-full wp-image-11220" src="https://www.trololodemulher.com.br/2015/07/SAUDE-ATIVIDADE-FISICA-COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL2.jpg" alt="SAUDE-ATIVIDADE FISICA-COMO PERDER BARRIGA-EXERCICIO FISICO-ABDOMINAL[2]" width="800" height="600" /></a>
 </p>
 
 <p style="text-align: center;">
-  Imagem: <a href="https://www.flickr.com/photos/falcifer/3136673599/" target="_blank">Ben (Falcifer)</a><b> / </b><a href="http://foter.com/" target="_blank">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC BY-NC</a>
+  Imagem: <a href="https://www.flickr.com/photos/falcifer/3136673599/" target="_blank" rel="noopener noreferrer">Ben (Falcifer)</a><b> / </b><a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL6.jpg"><img class="alignnone size-full wp-image-11218" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL6.jpg" alt="COMO PERDER BARRIGA-EXERCICIO FISICO-ABDOMINAL[6]" width="800" height="71" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL6.jpg"><img class="alignnone size-full wp-image-11218" src="https://www.trololodemulher.com.br/2015/07/COMO-PERDER-BARRIGA-EXERCICIO-FISICO-ABDOMINAL6.jpg" alt="COMO PERDER BARRIGA-EXERCICIO FISICO-ABDOMINAL[6]" width="800" height="71" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Quem disse que seria fácil? Você chegou até aqui, está determinada a ir adiante e certamente vai conseguir. Isso não quer dizer, contudo, que não possa haver dificuldades. É importante manter em mente que esse, de fato, não é um caminho dos mais fáceis de serem trilhados, porque exige a saída da zona de conforto, o que por si só mostra toda a dificuldade que isso possa causar. O que fazer? É sempre bom buscar ajuda profissional. Se possível, não deixe de ter um suporte qualificado para a prática de exercícios, e consulte um profissional de nutrição, que será fundamental nesse trabalho de perda da barriga. Além desses suportes, você pode, sim, precisar de um psicólogo, como a <a href="http://www.lucianakotaka.com.br/" target="_blank">Dra. Luciana Kotaka</a>, Especialista em Obesidade e Transtornos Alimentares, de Curitiba. Foi com ela que tirei as seguintes dúvidas:
+  Quem disse que seria fácil? Você chegou até aqui, está determinada a ir adiante e certamente vai conseguir. Isso não quer dizer, contudo, que não possa haver dificuldades. É importante manter em mente que esse, de fato, não é um caminho dos mais fáceis de serem trilhados, porque exige a saída da zona de conforto, o que por si só mostra toda a dificuldade que isso possa causar. O que fazer? É sempre bom buscar ajuda profissional. Se possível, não deixe de ter um suporte qualificado para a prática de exercícios, e consulte um profissional de nutrição, que será fundamental nesse trabalho de perda da barriga. Além desses suportes, você pode, sim, precisar de um psicólogo, como a <a href="http://www.lucianakotaka.com.br/" target="_blank" rel="noopener noreferrer">Dra. Luciana Kotaka</a>, Especialista em Obesidade e Transtornos Alimentares, de Curitiba. Foi com ela que tirei as seguintes dúvidas:
 </p>
 
 **Trololó de Mulher> Durante o processo de mudança de estilo de vida para perder peso e, sobretudo, a barriga, é uma boa ideia ter uma balança em casa para avaliar o peso diariamente?**
@@ -166,14 +163,14 @@ categories:
 
 **Mais consultorias da Dra. Luciana Kotaka:**
 
-**<a href="http://www.trololodemulher.com.br/2015/05/12/bonita-sem-dietas/" target="_blank">Bonita, saudável e feliz… sem dietas!</a>**
+**<a href="http://www.trololodemulher.com.br/2015/05/12/bonita-sem-dietas/" target="_blank" rel="noopener noreferrer">Bonita, saudável e feliz… sem dietas!</a>**
 
-**<a href="http://www.trololodemulher.com.br/2011/03/11/registre-e-emagreca/" target="_blank">Registre e emagreça.</a>**
+**<a href="http://www.trololodemulher.com.br/2011/03/11/registre-e-emagreca/" target="_blank" rel="noopener noreferrer">Registre e emagreça.</a>**
 
-**<a href="http://www.trololodemulher.com.br/2011/03/04/emagreca/" target="_blank">Emagreça de forma inteligente</a>**
+**<a href="http://www.trololodemulher.com.br/2011/03/04/emagreca/" target="_blank" rel="noopener noreferrer">Emagreça de forma inteligente</a>**
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

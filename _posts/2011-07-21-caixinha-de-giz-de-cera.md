@@ -1,10 +1,7 @@
 ---
-id: 3025
 title: Você pode comprar uma caixinha de giz de cera?
-date: 2011-07-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/07/21/caixinha-de-giz-de-cera/
 permalink: /2011/07/21/caixinha-de-giz-de-cera/
 categories:
   - Social
@@ -24,13 +21,13 @@ Entendeu nada? Explico: quando eu era criança, gostava muito de ler… muito me
 </p>
 
 <p align="justify">
-  Foi acreditanto nisso, e em muitas outras coisas, que a <strong>Elaine Cunha</strong>, do blog <strong><a href="http://caminhandocontando.blogspot.com/" target="_blank">Caminhando e Contando</a></strong>, tornou-se contadora de histórias e <strong>trabalha como voluntária em um hospital de São Paulo. Seu trabalho tem foco nas crianças doentes de câncer</strong>, e é sobre essa atividade dela que eu gostaria de falar contigo, bonita…
+  Foi acreditanto nisso, e em muitas outras coisas, que a <strong>Elaine Cunha</strong>, do blog <strong><a href="http://caminhandocontando.blogspot.com/" target="_blank" rel="noopener noreferrer">Caminhando e Contando</a></strong>, tornou-se contadora de histórias e <strong>trabalha como voluntária em um hospital de São Paulo. Seu trabalho tem foco nas crianças doentes de câncer</strong>, e é sobre essa atividade dela que eu gostaria de falar contigo, bonita…
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Elaine-Cunha.jpg"><img class="alignnone size-full wp-image-6663" title="Elaine Cunha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Elaine-Cunha.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/07/Elaine-Cunha.jpg"><img class="alignnone size-full wp-image-6663" title="Elaine Cunha" src="https://www.trololodemulher.com.br/2011/07/Elaine-Cunha.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -46,11 +43,11 @@ Esta moça linda e de sorriso fácil é a **Elaine**, e é ela mesma quem explic
 &nbsp;
 
 <p align="center">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Elaine-Cunha-Caminhando-e-Contando-Arrastao-de-Carnaval.jpg"><img class="alignnone size-full wp-image-6658" title="Elaine Cunha - Caminhando e Contando - Arrastão de Carnaval" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Elaine-Cunha-Caminhando-e-Contando-Arrastao-de-Carnaval.jpg" alt="" width="450" height="600" /></a><br /> Elaine Cunha &#8211; Caminhando e Contando &#8211; Arrastão de Carnaval</em>
+  <em><a href="https://www.trololodemulher.com.br/2011/07/Elaine-Cunha-Caminhando-e-Contando-Arrastao-de-Carnaval.jpg"><img class="alignnone size-full wp-image-6658" title="Elaine Cunha - Caminhando e Contando - Arrastão de Carnaval" src="https://www.trololodemulher.com.br/2011/07/Elaine-Cunha-Caminhando-e-Contando-Arrastao-de-Carnaval.jpg" alt="" width="450" height="600" /></a><br /> Elaine Cunha &#8211; Caminhando e Contando &#8211; Arrastão de Carnaval</em>
 </p>
 
 <p align="center">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Kits-para-as-criancas.jpg"><img class="alignnone size-full wp-image-6662" title="Kits para as crianças" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Kits-para-as-criancas.jpg" alt="" width="600" height="450" /></a><br /> Kits para as crianças</em>
+  <em><a href="https://www.trololodemulher.com.br/2011/07/Kits-para-as-criancas.jpg"><img class="alignnone size-full wp-image-6662" title="Kits para as crianças" src="https://www.trololodemulher.com.br/2011/07/Kits-para-as-criancas.jpg" alt="" width="600" height="450" /></a><br /> Kits para as crianças</em>
 </p>
 
 <p align="justify">
@@ -66,11 +63,11 @@ Esta moça linda e de sorriso fácil é a **Elaine**, e é ela mesma quem explic
 </p>
 
 <p align="center">
-  <span style="font-size: x-small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/giz-de-cera.jpg"><img class="alignnone size-full wp-image-6659" title="giz de cera" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/giz-de-cera.jpg" alt="" width="570" height="600" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong></span>
+  <span style="font-size: x-small;"><a href="https://www.trololodemulher.com.br/2011/07/giz-de-cera.jpg"><img class="alignnone size-full wp-image-6659" title="giz de cera" src="https://www.trololodemulher.com.br/2011/07/giz-de-cera.jpg" alt="" width="570" height="600" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></strong></span>
 </p>
 
 <p align="justify">
-  <strong>Eu quero!</strong> E para aumentar a quantidade dessas caixinhas de giz eu fui até uma loja virtual, a <strong><a href="http://www.kalunga.com.br/" target="_blank">Kalunga</a></strong>, que vende material de papelaria, e fiz minha compra para ajudar. <strong>Foi simples, rápido e baratinho</strong>… e <strong>mandei entregar na Caixa postal da Elaine</strong>. Os dados são esses:
+  <strong>Eu quero!</strong> E para aumentar a quantidade dessas caixinhas de giz eu fui até uma loja virtual, a <strong><a href="http://www.kalunga.com.br/" target="_blank" rel="noopener noreferrer">Kalunga</a></strong>, que vende material de papelaria, e fiz minha compra para ajudar. <strong>Foi simples, rápido e baratinho</strong>… e <strong>mandei entregar na Caixa postal da Elaine</strong>. Os dados são esses:
 </p>
 
 <p align="center">

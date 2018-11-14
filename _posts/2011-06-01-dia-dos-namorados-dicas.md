@@ -1,10 +1,7 @@
 ---
-id: 3005
 title: O que fazer no dia dos namorados?
-date: 2011-06-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/06/01/dia-dos-namorados-dicas/
 permalink: /2011/06/01/dia-dos-namorados-dicas/
 categories:
   - Sem categoria
@@ -24,7 +21,7 @@ Você já deve ter começado a perceber que o romance está no ar, não é? O **
 </p>
 
 > <p style="text-align: justify;">
->   “<em>Lidi, <strong>mesmo depois de casada e com nossa filhota</strong>, sempre reservamos tempo para o Dia dos Namorados. Como no <strong>dia 12 é meio complicado sair</strong>, pois, há filas em restaurantes, os shoppings ficam lotados&#8230; <strong>opto por ficar em casa</strong>. Preparo um super <strong>jantar romântico, vinho no gelo, esperamos Gabi dormir</strong> e fazemos nossa <strong>noite regada à boa comida, boa bebida, conversa a sós</strong> (o que é difícil quando se tem uma menina falante de 5 anos) e <strong>muito chamego</strong>. E isso não se limita ao dia dos namorados, procuramos fazer sempre, pra não perder o romantismo mesmo depois dos filhos. rs… É assim que tenho feito nos últimos anos!</em>” <strong>Ana Carla Benet</strong> | <strong><a href="http://anabenetartes.com.br/" target="_blank">Ana Benet Artes</a></strong> 
+>   “<em>Lidi, <strong>mesmo depois de casada e com nossa filhota</strong>, sempre reservamos tempo para o Dia dos Namorados. Como no <strong>dia 12 é meio complicado sair</strong>, pois, há filas em restaurantes, os shoppings ficam lotados&#8230; <strong>opto por ficar em casa</strong>. Preparo um super <strong>jantar romântico, vinho no gelo, esperamos Gabi dormir</strong> e fazemos nossa <strong>noite regada à boa comida, boa bebida, conversa a sós</strong> (o que é difícil quando se tem uma menina falante de 5 anos) e <strong>muito chamego</strong>. E isso não se limita ao dia dos namorados, procuramos fazer sempre, pra não perder o romantismo mesmo depois dos filhos. rs… É assim que tenho feito nos últimos anos!</em>” <strong>Ana Carla Benet</strong> | <strong><a href="http://anabenetartes.com.br/" target="_blank" rel="noopener noreferrer">Ana Benet Artes</a></strong> 
 > </p>
 
 <p style="text-align: justify;">
@@ -33,10 +30,10 @@ Você já deve ter começado a perceber que o romance está no ar, não é? O **
 
 Quem está super a fim de fazer um jantar em casa, e outras coisas…_cof cof cof_… é outra bicha fêmea navegante que, inclusive, dá várias sugestões de escolhas a serem feitas. Olha só:
 
-> “_Minha sugestão: preparar um jantar super leve, com uma **sobremesa bem sugestiva** (**pudim com chantili e morangos**; pra saborear na hora H), **deixar o ambiente à luz de velas**, **músicas sensuais** (black music, Cristina aguilera, Thony Braxton) e ótima noite &#8230; em claro rsrsrs_…” **Josi** | **<a href="http://mulhernota10josisousa.blogspot.com/" target="_blank">Mulher, mãe, esposa, profissional</a>**
+> “_Minha sugestão: preparar um jantar super leve, com uma **sobremesa bem sugestiva** (**pudim com chantili e morangos**; pra saborear na hora H), **deixar o ambiente à luz de velas**, **músicas sensuais** (black music, Cristina aguilera, Thony Braxton) e ótima noite &#8230; em claro rsrsrs_…” **Josi** | **<a href="http://mulhernota10josisousa.blogspot.com/" target="_blank" rel="noopener noreferrer">Mulher, mãe, esposa, profissional</a>**
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/jantar-romantico.jpg"><img class="alignnone size-full wp-image-6476" title="jantar romântico" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/jantar-romantico.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/jantar-romantico.jpg"><img class="alignnone size-full wp-image-6476" title="jantar romântico" src="https://www.trololodemulher.com.br/2011/05/jantar-romantico.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 Está animada para preparar o cenário? Então confira **[3 dicas para deixar a decoração do quarto mais romântica](http://www.trololodemulher.com.br/2011/03/23/decoracao-do-quarto/)**…e inspire-se!
@@ -54,11 +51,11 @@ E se é para ficar toda formosa no dia D, confira as **[dicas de detalhes que vo
 </p>
 
 > <p style="text-align: justify;">
->   “<em>Lidi, eu pensei em <strong>fazer um piquinique no parque</strong>. Tem coisa mais romântica? Uma <strong>bela toalha, comidinhas escolhidas a dedo, flores para enfeitar, uma boa música de fundo</strong>. Uma tarde gostosa! Separei algumas histórias de amor para contar especialmente para maridão. (Acredita que ele me pediu para contar histórias para ele?) Espero que dê certo!”</em> <strong>Elaine Cunha</strong> | <strong><a href="http://caminhandocontando.blogspot.com/" target="_blank">Caminhando e Contando</a></strong>
+>   “<em>Lidi, eu pensei em <strong>fazer um piquinique no parque</strong>. Tem coisa mais romântica? Uma <strong>bela toalha, comidinhas escolhidas a dedo, flores para enfeitar, uma boa música de fundo</strong>. Uma tarde gostosa! Separei algumas histórias de amor para contar especialmente para maridão. (Acredita que ele me pediu para contar histórias para ele?) Espero que dê certo!”</em> <strong>Elaine Cunha</strong> | <strong><a href="http://caminhandocontando.blogspot.com/" target="_blank" rel="noopener noreferrer">Caminhando e Contando</a></strong>
 > </p>
 > 
 > <p style="text-align: center;">
->   <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/piquenique.jpg"><img class="alignnone size-full wp-image-6477" title="piquenique" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/piquenique.jpg" alt="" width="600" height="450" /></a></strong>
+>   <strong><a href="https://www.trololodemulher.com.br/2011/05/piquenique.jpg"><img class="alignnone size-full wp-image-6477" title="piquenique" src="https://www.trololodemulher.com.br/2011/05/piquenique.jpg" alt="" width="600" height="450" /></a></strong>
 > </p>
 
 <p style="text-align: justify;">
@@ -96,7 +93,7 @@ E se é para ficar toda formosa no dia D, confira as **[dicas de detalhes que vo
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/dia-dos-namorados.jpg"><img class="alignnone size-full wp-image-6478" title="dia dos namorados" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/dia-dos-namorados.jpg" alt="" width="600" height="501" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/dia-dos-namorados.jpg"><img class="alignnone size-full wp-image-6478" title="dia dos namorados" src="https://www.trololodemulher.com.br/2011/05/dia-dos-namorados.jpg" alt="" width="600" height="501" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -104,7 +101,7 @@ E se é para ficar toda formosa no dia D, confira as **[dicas de detalhes que vo
 </p>
 
 <p style="text-align: justify;">
-  Imagens: <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  Imagens: <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></strong>
 </p>
 
 **Mais no Bicha Fêmea…**

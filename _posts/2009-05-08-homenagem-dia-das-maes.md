@@ -1,10 +1,7 @@
 ---
-id: 2657
 title: Homenagem a minha mãe… e ás bichas fêmeas que são mãe…
-date: 2009-05-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/05/08/homenagem-dia-das-maes/
 permalink: /2009/05/08/homenagem-dia-das-maes/
 categories:
   - Trololó
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  Ano passado estava com ela nesta data e foi bom. É bom estar com ela sempre que possível. <a href="http://www.trololodemulher.com.br/2009/03/12/a-felicidade-est-desabando-sobre-minha-cabea/">Este ano já estive</a>, lembram? Vou estar com ela, ainda em 2009, se Deus quiser.<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/clip_image001.gif"><img style="display: inline;" title="clip_image001" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/clip_image001_thumb.gif" alt="clip_image001" width="23" height="18" /></a> <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" src="http://img4.southernliving.com/i/externaltouts/azalea-bouquet-l.jpg?400:400" alt="" />
+  Ano passado estava com ela nesta data e foi bom. É bom estar com ela sempre que possível. <a href="http://www.trololodemulher.com.br/2009/03/12/a-felicidade-est-desabando-sobre-minha-cabea/">Este ano já estive</a>, lembram? Vou estar com ela, ainda em 2009, se Deus quiser.<a href="https://www.trololodemulher.com.br/2009/05/clip_image001.gif"><img style="display: inline;" title="clip_image001" src="https://www.trololodemulher.com.br/2009/05/clip_image001_thumb.gif" alt="clip_image001" width="23" height="18" /></a> <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" src="http://img4.southernliving.com/i/externaltouts/azalea-bouquet-l.jpg?400:400" alt="" />
 </p>
 
 <p style="text-align: center;">
@@ -35,4 +32,4 @@ Não sei de vocês quem vai ter o privilégio de estar perto da mãe neste Domin
 
 Acho que vocês são pessoas especiais, de verdade. Vocês têm certeza que são desse mundo? Sei não, hein?! Enquanto tento decifrar daqui esse enigma, espero que apreciem daí a seleção de flores que deixei para encher os olhos de vocês de beleza, e o coração de inspirações. Esse é o meu presente para vocês. **_<span style="color: #800080;">FELIZ DIA DAS MÃES!!!!!</span>_**
 
-_<span style="color: #000000;">Imagens: <a href="http://www.southernliving.com/" target="_blank">Southern Living</a></span>_
+_<span style="color: #000000;">Imagens: <a href="http://www.southernliving.com/" target="_blank" rel="noopener noreferrer">Southern Living</a></span>_

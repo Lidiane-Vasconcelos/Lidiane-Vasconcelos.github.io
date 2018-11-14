@@ -1,10 +1,7 @@
 ---
-id: 3032
 title: Você é feliz com as escolhas que fez para sua vida?
-date: 2011-08-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/08/03/voce-e-feliz/
 permalink: /2011/08/03/voce-e-feliz/
 categories:
   - Comportamento
@@ -21,11 +18,11 @@ Muito se fala sobre o que é ser feliz, não é verdade? A impressão que tenho 
 <!--more-->
 
 <p align="justify">
-  <strong>Será que é possível ser feliz quando se abre mão de certas coisas?</strong> É sim, bonita! Mas <strong>isso depende do que você entende por felicidade</strong>. <strong>Uma coisa é estar feliz</strong>, <strong>outra bem diferente é ser feliz</strong>. “<em>Estar feliz é conseqüência de adquirir algo que se deseja (um novo namorado, um emprego, uma casa, etc.) Ser feliz é um estado interno. É estar em paz consigo mesmo, e também com os outros. É ter os estados físico, emocional e psíquico sadios. Para isso o auto conhecimento é fundamental. Saber do que eu sou capaz, quais os meus limites, os meus potenciais e as minhas fraquezas, me ajudará a ser mais segura e autoconfiante, deixando de ser marionete do meio onde vivo</em>”, explica a <strong>Psicanalista Clínica Geisa Machado</strong>, editora do blog <strong><a href="http://geisamachado.blogspot.com/" target="_blank">A Força e a Beleza de Ser Mulher</a></strong>.
+  <strong>Será que é possível ser feliz quando se abre mão de certas coisas?</strong> É sim, bonita! Mas <strong>isso depende do que você entende por felicidade</strong>. <strong>Uma coisa é estar feliz</strong>, <strong>outra bem diferente é ser feliz</strong>. “<em>Estar feliz é conseqüência de adquirir algo que se deseja (um novo namorado, um emprego, uma casa, etc.) Ser feliz é um estado interno. É estar em paz consigo mesmo, e também com os outros. É ter os estados físico, emocional e psíquico sadios. Para isso o auto conhecimento é fundamental. Saber do que eu sou capaz, quais os meus limites, os meus potenciais e as minhas fraquezas, me ajudará a ser mais segura e autoconfiante, deixando de ser marionete do meio onde vivo</em>”, explica a <strong>Psicanalista Clínica Geisa Machado</strong>, editora do blog <strong><a href="http://geisamachado.blogspot.com/" target="_blank" rel="noopener noreferrer">A Força e a Beleza de Ser Mulher</a></strong>.
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/escolha.jpg"><img class="alignnone size-full wp-image-6698" title="escolha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/escolha.jpg" alt="" width="600" height="417" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/escolha.jpg"><img class="alignnone size-full wp-image-6698" title="escolha" src="https://www.trololodemulher.com.br/2011/08/escolha.jpg" alt="" width="600" height="417" /></a>
 </p>
 
 &nbsp;
@@ -59,24 +56,24 @@ Sendo assim,  veja os exemplos de duas bichas fêmeas navegantes que são feliz
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/felicidade.jpg"><img class="alignnone size-full wp-image-6701" title="felicidade]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/felicidade.jpg" alt="" width="600" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/felicidade.jpg"><img class="alignnone size-full wp-image-6701" title="felicidade]" src="https://www.trololodemulher.com.br/2011/08/felicidade.jpg" alt="" width="600" height="400" /></a>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Eu escolhi ser professora meio por acaso, minha mãe me &#8221; obrigou&#8221; a fazer o magistério com o argumento muito convincente de que dando aula eu teria dinheiro para fazer a  faculdade dos meus sonhos que era Propaganda e Marketing. Durante o curso eu tive uma professora M A R A V I L H O S A e graças a ela eu me apaixonei pela educação e as possibilidades de fazer a diferença no mundo que temos nessa profissão. </em><em>Sou feliz com a área que escolhi, adoro o contato com as crianças e com elas me renovo todo dia. Tenho verdadeira paixão pelas trocas que tenho com as crianças e enorme satisfação de ver a evolução de todos e o brilho nos olhinhos quando descobrem que aprender é bom! Mesmo na Coordenação  procuro estar presente na vidinha deles e de minhas professoras.”</em> <strong>Gláucia de Oliveira</strong> | <strong><a href="http://supercriativobyglau.blogspot.com/" target="_blank">Super Criativo</a></strong>
+>   “<em>Eu escolhi ser professora meio por acaso, minha mãe me &#8221; obrigou&#8221; a fazer o magistério com o argumento muito convincente de que dando aula eu teria dinheiro para fazer a  faculdade dos meus sonhos que era Propaganda e Marketing. Durante o curso eu tive uma professora M A R A V I L H O S A e graças a ela eu me apaixonei pela educação e as possibilidades de fazer a diferença no mundo que temos nessa profissão. </em><em>Sou feliz com a área que escolhi, adoro o contato com as crianças e com elas me renovo todo dia. Tenho verdadeira paixão pelas trocas que tenho com as crianças e enorme satisfação de ver a evolução de todos e o brilho nos olhinhos quando descobrem que aprender é bom! Mesmo na Coordenação  procuro estar presente na vidinha deles e de minhas professoras.”</em> <strong>Gláucia de Oliveira</strong> | <strong><a href="http://supercriativobyglau.blogspot.com/" target="_blank" rel="noopener noreferrer">Super Criativo</a></strong>
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Meu desejo de ser contadora de histórias nasceu ainda quando morava em Recife. Mas foi efetivamente quando eu me mudei para São Paulo que dei continuidade ao meu sonho. Conheci o trabalho da associação que faço parte mais de perto e meu desejo só aumentou. Foi uma forma que eu encontrei de tirar o foco de mim. Eu precisava mudar! Eu estava inquieta com tudo que estava ao meu redor.  Precisava tirar o foco de minha doença. Eu precisava renascer! E assim foi. Descobri em mim uma Contadora de Histórias. Hoje, quando conto histórias, nem lembro da minha coluna! É um momento único. E o mais importante, eu me divirto. É puro prazer! A cada visita ao hospital, abrigos, creches, onde for&#8230; A cada criança, adulto, a cada história&#8230; É mágico! É um momento único que vivo. É permitir que todos (as crianças e eu) viajem nas emoções, nos personagens. Torcermos pelos personagens. Para que a princesa encontre seu príncipe, sabe? É permitir que a história se integre nas mais diversas emoções e sentimentos de todos. Nesta troca, todos aprendem. Não apenas a criança que aprende a lutar com suas inseguranças, medos. Mas todos nós ganhamos. Afinal, quem não gosta de ouvir uma história bem narrada? Tem uma frase do Lewis Carrol (autor de Alice no país das maravilhas) que resume muito bem meu sentimento da minha escolha: &#8220;Contar uma História é dar um presente de Amor&#8221;</em> “<strong> Elaine Cunha</strong> | <strong><a href="http://www.caminhandocontando.com/" target="_blank">Caminhando e Contando</a></strong>
+>   “<em>Meu desejo de ser contadora de histórias nasceu ainda quando morava em Recife. Mas foi efetivamente quando eu me mudei para São Paulo que dei continuidade ao meu sonho. Conheci o trabalho da associação que faço parte mais de perto e meu desejo só aumentou. Foi uma forma que eu encontrei de tirar o foco de mim. Eu precisava mudar! Eu estava inquieta com tudo que estava ao meu redor.  Precisava tirar o foco de minha doença. Eu precisava renascer! E assim foi. Descobri em mim uma Contadora de Histórias. Hoje, quando conto histórias, nem lembro da minha coluna! É um momento único. E o mais importante, eu me divirto. É puro prazer! A cada visita ao hospital, abrigos, creches, onde for&#8230; A cada criança, adulto, a cada história&#8230; É mágico! É um momento único que vivo. É permitir que todos (as crianças e eu) viajem nas emoções, nos personagens. Torcermos pelos personagens. Para que a princesa encontre seu príncipe, sabe? É permitir que a história se integre nas mais diversas emoções e sentimentos de todos. Nesta troca, todos aprendem. Não apenas a criança que aprende a lutar com suas inseguranças, medos. Mas todos nós ganhamos. Afinal, quem não gosta de ouvir uma história bem narrada? Tem uma frase do Lewis Carrol (autor de Alice no país das maravilhas) que resume muito bem meu sentimento da minha escolha: &#8220;Contar uma História é dar um presente de Amor&#8221;</em> “<strong> Elaine Cunha</strong> | <strong><a href="http://www.caminhandocontando.com/" target="_blank" rel="noopener noreferrer">Caminhando e Contando</a></strong>
 > </p>
 
 &nbsp;
 
-Imagens: ****<a href="http://www.sxc.hu/" target="_blank"><strong>stock.xchng</strong></a>
+Imagens: ****<a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><strong>stock.xchng</strong></a>
 
 &nbsp;
 

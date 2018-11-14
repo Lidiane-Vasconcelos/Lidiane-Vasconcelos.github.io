@@ -1,10 +1,7 @@
 ---
-id: 3568
 title: Bolo simples integral com gotas de chocolate
-date: 2016-03-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/03/22/bolo-simples-integral/
 permalink: /2016/03/22/bolo-simples-integral/
 categories:
   - Receitas
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12149" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/BOLO-INTEGRAL-BOLO-SAUDAVEL-CHOCOLATE2.jpg" alt="BOLO-INTEGRAL-BOLO SAUDAVEL-CHOCOLATE[2]" width="800" height="606" />
+  <img class="alignnone size-full wp-image-12149" src="https://www.trololodemulher.com.br/2016/03/BOLO-INTEGRAL-BOLO-SAUDAVEL-CHOCOLATE2.jpg" alt="BOLO-INTEGRAL-BOLO SAUDAVEL-CHOCOLATE[2]" width="800" height="606" />
 </p>
 
 <p align="justify">
@@ -66,7 +63,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11789" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/01/Carol-Vieira-Rubin.jpg" alt="Carol Vieira Rubin" width="800" height="181" />
+  <img class="alignnone size-full wp-image-11789" src="https://www.trololodemulher.com.br/2016/01/Carol-Vieira-Rubin.jpg" alt="Carol Vieira Rubin" width="800" height="181" />
 </p>
 
 <p align="justify">
@@ -74,23 +71,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.belezacorpoecia.com/mousse-abacate-cacau-em-po/" target="_blank">Mousse de abacate e cacau em pó.</a></strong>
+  <strong><a href="http://www.belezacorpoecia.com/mousse-abacate-cacau-em-po/" target="_blank" rel="noopener noreferrer">Mousse de abacate e cacau em pó.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.belezacorpoecia.com/receita-tabule-quinoa-saudavel/" target="_blank">Tabule de Quinoa</a></strong>
+  <strong><a href="http://www.belezacorpoecia.com/receita-tabule-quinoa-saudavel/" target="_blank" rel="noopener noreferrer">Tabule de Quinoa</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.belezacorpoecia.com/torta-de-abobora-frango/" target="_blank">Torta de abóbora com frango</a></strong>
+  <strong><a href="http://www.belezacorpoecia.com/torta-de-abobora-frango/" target="_blank" rel="noopener noreferrer">Torta de abóbora com frango</a></strong>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank" rel="noopener noreferrer">clica aqui, oh</a>.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

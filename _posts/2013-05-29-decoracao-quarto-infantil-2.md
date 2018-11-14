@@ -1,10 +1,7 @@
 ---
-id: 3221
 title: Dica de decoração infantil que sua criança pode fazer…
-date: 2013-05-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/05/29/decoracao-quarto-infantil-2/
 permalink: /2013/05/29/decoracao-quarto-infantil-2/
 categories:
   - Decoração
@@ -16,7 +13,7 @@ Já imaginou que legal se no **quarto** do pequeno ou da pequena tivesse algo qu
 &nbsp;
 
 <p align="justify">
-  Separe algum <strong>tempo na sua agenda</strong>: isso é fundamental! Depois, providencie <strong>cartolina, lã, botões, cola colorida, pedaços de tecido</strong> e o que mais sua imaginação sugerir a partir da ideia que você verá. O resultado é um projeto <em>superultramega</em> divertido para enfeitar o quarto da criançada… <em>espia</em> a sugestão garimpada no site <strong><em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em></strong>:
+  Separe algum <strong>tempo na sua agenda</strong>: isso é fundamental! Depois, providencie <strong>cartolina, lã, botões, cola colorida, pedaços de tecido</strong> e o que mais sua imaginação sugerir a partir da ideia que você verá. O resultado é um projeto <em>superultramega</em> divertido para enfeitar o quarto da criançada… <em>espia</em> a sugestão garimpada no site <strong><em><a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a></em></strong>:
 </p>
 
 <!--more-->
@@ -26,7 +23,7 @@ Já imaginou que legal se no **quarto** do pequeno ou da pequena tivesse algo qu
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/DECORACAO-QUARTO-INFANTIL.jpg"><img class="alignnone size-full wp-image-9431" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/DECORACAO-QUARTO-INFANTIL.jpg" alt="DECORACAO-QUARTO-INFANTIL" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/04/DECORACAO-QUARTO-INFANTIL.jpg"><img class="alignnone size-full wp-image-9431" src="https://www.trololodemulher.com.br/2013/04/DECORACAO-QUARTO-INFANTIL.jpg" alt="DECORACAO-QUARTO-INFANTIL" width="550" height="550" /></a>
 </p>
 
 &nbsp;
@@ -46,5 +43,5 @@ No mais…divirtam-se!
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

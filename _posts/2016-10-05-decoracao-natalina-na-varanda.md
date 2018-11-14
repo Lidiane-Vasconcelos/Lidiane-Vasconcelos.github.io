@@ -1,10 +1,7 @@
 ---
-id: 3680
 title: 6 ideias de decoração natalina na varanda
-date: 2016-10-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/10/05/decoracao-natalina-na-varanda/
 permalink: /2016/10/05/decoracao-natalina-na-varanda/
 categories:
   - Decoração
@@ -15,7 +12,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13046" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-VARANDA7.jpg" alt="decoracao-de-natal-decoracao-natalina-varanda7" width="750" height="751" />
+  <img class="alignnone size-full wp-image-13046" src="https://www.trololodemulher.com.br/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-VARANDA7.jpg" alt="decoracao-de-natal-decoracao-natalina-varanda7" width="750" height="751" />
 </p>
 
 <p align="justify">
@@ -23,7 +20,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13039" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-VARANDA.jpg" alt="decoracao-de-natal-decoracao-natalina-varanda" width="360" height="640" />
+  <img class="alignnone size-full wp-image-13039" src="https://www.trololodemulher.com.br/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-VARANDA.jpg" alt="decoracao-de-natal-decoracao-natalina-varanda" width="360" height="640" />
 </p>
 
 <p align="center">
@@ -31,11 +28,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank">Guirlandas natalinas</a> podem ir além da decoração da porta, e enfeitarem o guarda-corpo da sua varanda. Pisca-pisca neste espaço é um clássico, mas se ele enche de luz um enfeite caprichado como esse, seu encantamento à noite será ainda maior.
+  <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank" rel="noopener noreferrer">Guirlandas natalinas</a> podem ir além da decoração da porta, e enfeitarem o guarda-corpo da sua varanda. Pisca-pisca neste espaço é um clássico, mas se ele enche de luz um enfeite caprichado como esse, seu encantamento à noite será ainda maior.
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13040" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-VARANDA2.jpg" alt="decoracao-de-natal-decoracao-natalina-varanda2" width="800" height="533" />
+  <img class="alignnone size-full wp-image-13040" src="https://www.trololodemulher.com.br/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-VARANDA2.jpg" alt="decoracao-de-natal-decoracao-natalina-varanda2" width="800" height="533" />
 </p>
 
 <p align="center">
@@ -47,11 +44,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13041" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-VARANDA3.jpg" alt="decoracao-de-natal-decoracao-natalina-varanda3" width="580" height="385" />
+  <img class="alignnone size-full wp-image-13041" src="https://www.trololodemulher.com.br/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-VARANDA3.jpg" alt="decoracao-de-natal-decoracao-natalina-varanda3" width="580" height="385" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.diyinspired.com/" target="_blank">diy inspired</a>
+  Via <a href="http://www.diyinspired.com/" target="_blank" rel="noopener noreferrer">diy inspired</a>
 </p>
 
 <p align="justify">
@@ -59,7 +56,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13042" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-VARANDA4.jpg" alt="decoracao-de-natal-decoracao-natalina-varanda4" width="450" height="600" />
+  <img class="alignnone size-full wp-image-13042" src="https://www.trololodemulher.com.br/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-VARANDA4.jpg" alt="decoracao-de-natal-decoracao-natalina-varanda4" width="450" height="600" />
 </p>
 
 <p align="center">
@@ -71,11 +68,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13043" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-VARANDA5.jpg" alt="decoracao-de-natal-decoracao-natalina-varanda5" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13043" src="https://www.trololodemulher.com.br/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-VARANDA5.jpg" alt="decoracao-de-natal-decoracao-natalina-varanda5" width="800" height="800" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.hammacher.com/Default.aspx?promo=header" target="_blank">Hammacher Schelemmer</a>
+  Via <a href="http://www.hammacher.com/Default.aspx?promo=header" target="_blank" rel="noopener noreferrer">Hammacher Schelemmer</a>
 </p>
 
 <p align="justify">
@@ -83,7 +80,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13045" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-VARANDA6.jpg" alt="decoracao-de-natal-decoracao-natalina-varanda6" width="512" height="768" />
+  <img class="alignnone size-full wp-image-13045" src="https://www.trololodemulher.com.br/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-VARANDA6.jpg" alt="decoracao-de-natal-decoracao-natalina-varanda6" width="512" height="768" />
 </p>
 
 <p align="center">
@@ -95,5 +92,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

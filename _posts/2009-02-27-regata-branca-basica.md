@@ -1,10 +1,7 @@
 ---
-id: 2629
 title: Regata Branca, Básica, Versátil…e Esquecida??????
-date: 2009-02-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/02/27/regata-branca-basica/
 permalink: /2009/02/27/regata-branca-basica/
 categories:
   - Moda
@@ -15,7 +12,7 @@ E quem esqueceu a peça lá no armário, abandonada e em último plano? Parece 
 
 Para que a gente não tenha a desculpa de que ela é básica “demais da conta” e por isso não tem graça alguma, achei legal trazer algumas dicas com imagens de como a gente pode digamos, dar uma animada na regatinha básica e explorá-la como ela merece, _hã_?
 
-Há uma série de dicas em todo <a href="http://mdemulher.abril.com.br/moda/reportagem/ta-na-moda/regata-branca-versatil-apelido-417817.shtml" target="_blank">este conjunto de slides</a> no site “<a href="http://mdemulher.abril.com.br/" target="_blank">M de Mulher</a>”, e eu achei super interessantes mas, lógico, a gente nunca deve usar as coisas do modo que nos dizem que é a mais bonita legal, mas adequá-las ao nosso gosto e estilo pessoal. Esta é, inclusive, uma das <a href="http://www.trololodemulher.com.br/2009/01/03/dica-beleza-saude/" target="_self"><strong><em>resoluções de beleza</em></strong> </a>que resolvi adotar. Anime-se, leia e inspire-se por elas!
+Há uma série de dicas em todo <a href="http://mdemulher.abril.com.br/moda/reportagem/ta-na-moda/regata-branca-versatil-apelido-417817.shtml" target="_blank" rel="noopener noreferrer">este conjunto de slides</a> no site “<a href="http://mdemulher.abril.com.br/" target="_blank" rel="noopener noreferrer">M de Mulher</a>”, e eu achei super interessantes mas, lógico, a gente nunca deve usar as coisas do modo que nos dizem que é a mais bonita legal, mas adequá-las ao nosso gosto e estilo pessoal. Esta é, inclusive, uma das <a href="http://www.trololodemulher.com.br/2009/01/03/dica-beleza-saude/" target="_self"><strong><em>resoluções de beleza</em></strong> </a>que resolvi adotar. Anime-se, leia e inspire-se por elas!
 
 Bom, de todos os jeitinhos possíveis sugeridos no site, elegi estes três abaixo como sendo os mais legais. Olha só!
 

@@ -1,10 +1,7 @@
 ---
-id: 3202
 title: 'Usar pincel na maquiagem faz diferença? [Parte II]'
-date: 2012-10-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/10/22/beleza-pincel-maquiagem/
 permalink: /2012/10/22/beleza-pincel-maquiagem/
 categories:
   - Beleza
@@ -38,7 +35,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9262" rel="attachment wp-att-9262"><img class="alignnone size-full wp-image-9262" title="BELEZA-MAQUIAGEM-PINCEL-BASE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL-BASE.png" alt="" width="414" height="197" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9262" rel="attachment wp-att-9262"><img class="alignnone size-full wp-image-9262" title="BELEZA-MAQUIAGEM-PINCEL-BASE" src="https://www.trololodemulher.com.br/2012/10/BELEZA-MAQUIAGEM-PINCEL-BASE.png" alt="" width="414" height="197" /></a>
 </p>
 
 &nbsp;
@@ -50,7 +47,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9263" rel="attachment wp-att-9263"><img class="alignnone size-full wp-image-9263" title="BELEZA-MAQUIAGEM-PINCEL-CORRETIVO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL-CORRETIVO.jpg" alt="" width="172" height="151" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9263" rel="attachment wp-att-9263"><img class="alignnone size-full wp-image-9263" title="BELEZA-MAQUIAGEM-PINCEL-CORRETIVO" src="https://www.trololodemulher.com.br/2012/10/BELEZA-MAQUIAGEM-PINCEL-CORRETIVO.jpg" alt="" width="172" height="151" /></a>
 </p>
 
 &nbsp;
@@ -60,7 +57,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9269" rel="attachment wp-att-9269"><img class="alignnone size-full wp-image-9269" title="BELEZA-MAQUIAGEM-PINCEL-SOMBRA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL-SOMBRA.png" alt="" width="366" height="347" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9269" rel="attachment wp-att-9269"><img class="alignnone size-full wp-image-9269" title="BELEZA-MAQUIAGEM-PINCEL-SOMBRA" src="https://www.trololodemulher.com.br/2012/10/BELEZA-MAQUIAGEM-PINCEL-SOMBRA.png" alt="" width="366" height="347" /></a>
 </p>
 
 &nbsp;
@@ -72,7 +69,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9268" rel="attachment wp-att-9268"><img class="alignnone size-full wp-image-9268" title="BELEZA-MAQUIAGEM-PINCEL-PO-BLUSH" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL-PO-BLUSH.png" alt="" width="467" height="225" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9268" rel="attachment wp-att-9268"><img class="alignnone size-full wp-image-9268" title="BELEZA-MAQUIAGEM-PINCEL-PO-BLUSH" src="https://www.trololodemulher.com.br/2012/10/BELEZA-MAQUIAGEM-PINCEL-PO-BLUSH.png" alt="" width="467" height="225" /></a>
 </p>
 
 &nbsp;
@@ -86,7 +83,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9265" rel="attachment wp-att-9265"><img class="alignnone size-full wp-image-9265" title="BELEZA-MAQUIAGEM-PINCEL-LEQUE-FAN" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL-LEQUE-FAN.jpg" alt="" width="187" height="206" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9265" rel="attachment wp-att-9265"><img class="alignnone size-full wp-image-9265" title="BELEZA-MAQUIAGEM-PINCEL-LEQUE-FAN" src="https://www.trololodemulher.com.br/2012/10/BELEZA-MAQUIAGEM-PINCEL-LEQUE-FAN.jpg" alt="" width="187" height="206" /></a>
 </p>
 
 &nbsp;
@@ -98,7 +95,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9264" rel="attachment wp-att-9264"><img class="alignnone size-full wp-image-9264" title="BELEZA-MAQUIAGEM-PINCEL-LABIOS-DELINEADOR-CILIOS-SOBRANCELHA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL-LABIOS-DELINEADOR-CILIOS-SOBRANCELHA.png" alt="" width="518" height="449" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9264" rel="attachment wp-att-9264"><img class="alignnone size-full wp-image-9264" title="BELEZA-MAQUIAGEM-PINCEL-LABIOS-DELINEADOR-CILIOS-SOBRANCELHA" src="https://www.trololodemulher.com.br/2012/10/BELEZA-MAQUIAGEM-PINCEL-LABIOS-DELINEADOR-CILIOS-SOBRANCELHA.png" alt="" width="518" height="449" /></a>
 </p>
 
 &nbsp;
@@ -134,7 +131,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9270" rel="attachment wp-att-9270"><img class="alignnone size-full wp-image-9270" title="HEIDI LANZELLOTTI" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/HEIDI-LANZELLOTTI.png" alt="" width="531" height="303" /></a>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=9270" rel="attachment wp-att-9270"><img class="alignnone size-full wp-image-9270" title="HEIDI LANZELLOTTI" src="https://www.trololodemulher.com.br/2012/10/HEIDI-LANZELLOTTI.png" alt="" width="531" height="303" /></a>
 </p>
 
 &nbsp;
@@ -142,7 +139,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 &nbsp;
 
 <p align="justify">
-  A <strong>Heidi</strong> é uma querida que edita um <strong><a href="http://heidilanzellotti.wordpress.com/" target="_blank">blog</a></strong> cheio de informações, novidades e dicas relacionadas a maquiagem e afins… essas coisas que deixam a gente ainda mais bonita e todas nós amamos saber sempre um pouquinho mais. Como eu desconfio <em>cá</em> com meus botões que esse assunto te interessa bastante, basta <strong><a href="http://heidilanzellotti.wordpress.com/" target="_blank">clicar aqui</a></strong> e se jogar no blog dessa moça bonita, talentosa e que escreve de um jeito bem didático, para qualquer uma de nós entender tudo diretinho…vai lá!
+  A <strong>Heidi</strong> é uma querida que edita um <strong><a href="http://heidilanzellotti.wordpress.com/" target="_blank" rel="noopener noreferrer">blog</a></strong> cheio de informações, novidades e dicas relacionadas a maquiagem e afins… essas coisas que deixam a gente ainda mais bonita e todas nós amamos saber sempre um pouquinho mais. Como eu desconfio <em>cá</em> com meus botões que esse assunto te interessa bastante, basta <strong><a href="http://heidilanzellotti.wordpress.com/" target="_blank" rel="noopener noreferrer">clicar aqui</a></strong> e se jogar no blog dessa moça bonita, talentosa e que escreve de um jeito bem didático, para qualquer uma de nós entender tudo diretinho…vai lá!
 </p>
 
 <p align="center">
@@ -153,13 +150,13 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/?attachment_id=9232" rel="attachment wp-att-9232"><img class="alignnone size-full wp-image-9232" title="BELEZA-MAQUIAGEM-PINCEL[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL2200.png" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/10/12/pincel-na-maquiagem/"><strong><span style="font-size: medium;"><br /> Usar pincel na maquiagem faz diferença? [Parte I]</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/?attachment_id=9232" rel="attachment wp-att-9232"><img class="alignnone size-full wp-image-9232" title="BELEZA-MAQUIAGEM-PINCEL[2]200" src="https://www.trololodemulher.com.br/2012/10/BELEZA-MAQUIAGEM-PINCEL2200.png" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/10/12/pincel-na-maquiagem/"><strong><span style="font-size: medium;"><br /> Usar pincel na maquiagem faz diferença? [Parte I]</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/10/12/pincel-na-maquiagem/batom-mate-maybelline-maquiagem-boca200/" rel="attachment wp-att-9172"><img class="alignnone size-full wp-image-9172" title="batom-mate-maybelline-maquiagem-boca200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/batom-mate-maybelline-maquiagem-boca200.jpeg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/09/24/dicas-de-maquiagem-2/"><strong><span style="font-size: medium;"><br /> Sabe aquela amiga que sabe dar dicas de maquiagem?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/10/12/pincel-na-maquiagem/batom-mate-maybelline-maquiagem-boca200/" rel="attachment wp-att-9172"><img class="alignnone size-full wp-image-9172" title="batom-mate-maybelline-maquiagem-boca200" src="https://www.trololodemulher.com.br/2012/09/batom-mate-maybelline-maquiagem-boca200.jpeg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/09/24/dicas-de-maquiagem-2/"><strong><span style="font-size: medium;"><br /> Sabe aquela amiga que sabe dar dicas de maquiagem?</span></strong></a>
       </p>
     </td>
   </tr>
@@ -167,13 +164,13 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/09/14/maquiagem-demaquilante-saude/beleza-maquiagem-natural200/" rel="attachment wp-att-9070"><img class="alignnone size-full wp-image-9070" title="BELEZA-MAQUIAGEM-NATURAL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/BELEZA-MAQUIAGEM-NATURAL200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/08/31/maquiagem-natural/"><strong><span style="font-size: medium;">Maquiagem como se a gente estivesse sem ela: isso é mesmo possível?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/09/14/maquiagem-demaquilante-saude/beleza-maquiagem-natural200/" rel="attachment wp-att-9070"><img class="alignnone size-full wp-image-9070" title="BELEZA-MAQUIAGEM-NATURAL200" src="https://www.trololodemulher.com.br/2012/08/BELEZA-MAQUIAGEM-NATURAL200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/08/31/maquiagem-natural/"><strong><span style="font-size: medium;">Maquiagem como se a gente estivesse sem ela: isso é mesmo possível?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/corpo/maquiagem-sombra200/" rel="attachment wp-att-8811"><img class="alignnone size-full wp-image-8811" title="MAQUIAGEM - SOMBRA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/MAQUIAGEM-SOMBRA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/07/02/maquiagem-sombra-dicas/"><strong><span style="font-size: medium;"><br /> Qual sombra você usa e se sente uma bicha fêmea linda e iluminada?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/corpo/maquiagem-sombra200/" rel="attachment wp-att-8811"><img class="alignnone size-full wp-image-8811" title="MAQUIAGEM - SOMBRA200" src="https://www.trololodemulher.com.br/2012/06/MAQUIAGEM-SOMBRA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/07/02/maquiagem-sombra-dicas/"><strong><span style="font-size: medium;"><br /> Qual sombra você usa e se sente uma bicha fêmea linda e iluminada?</span></strong></a>
       </p>
     </td>
   </tr>
@@ -181,20 +178,20 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/corpo/mascara-para-cilios200/" rel="attachment wp-att-8629"><img class="alignnone size-full wp-image-8629" title="MASCARA PARA CILIOS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/MASCARA-PARA-CILIOS200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/03/26/mascara-para-cilios/"><strong><span style="font-size: medium;"><br /> Máscara para cílios… beleza e olhos irresistíveis!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/corpo/mascara-para-cilios200/" rel="attachment wp-att-8629"><img class="alignnone size-full wp-image-8629" title="MASCARA PARA CILIOS200" src="https://www.trololodemulher.com.br/2012/03/MASCARA-PARA-CILIOS200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/03/26/mascara-para-cilios/"><strong><span style="font-size: medium;"><br /> Máscara para cílios… beleza e olhos irresistíveis!</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/maquiagem2200/" rel="attachment wp-att-6981"><img class="alignnone size-full wp-image-6981" title="maquiagem[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem2200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/10/03/dicas-de-maquiagem/"><strong><span style="font-size: medium;"><br /> Dicas de maquiagem para um visual… “melhor, impossível!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/maquiagem2200/" rel="attachment wp-att-6981"><img class="alignnone size-full wp-image-6981" title="maquiagem[2]200" src="https://www.trololodemulher.com.br/2011/09/maquiagem2200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/10/03/dicas-de-maquiagem/"><strong><span style="font-size: medium;"><br /> Dicas de maquiagem para um visual… “melhor, impossível!</span></strong></a>
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -209,13 +206,13 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

@@ -1,16 +1,13 @@
 ---
-id: 3748
 title: Como escolher armário de cozinha?
-date: 2017-04-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/04/11/armario-de-cozinha/
 permalink: /2017/04/11/armario-de-cozinha/
 categories:
   - Cozinha
 ---
 <p align="justify">
-  Quem me acompanha nas redes sociais, especialmente no Facebook (<a href="https://www.facebook.com/lidiane.vasconcelos.94" target="_blank">Perfil pessoaal aqui</a> | <a href="https://www.facebook.com/TrololoMulher/" target="_blank">Página do blog aqui</a>) sabe que mudei de Campinas – SP para Recife-PE faz algum tempo, mas não muito. Antes de morar em Campinas, morei por 3 anos em Sumaré, na mesma região. Agora em Recife, estive imersa numa terceira reforma de casa e, portanto, foi a terceira cozinha que montamos. Essa jornada por três momentos de escolha de armário de cozinha fez com que já tenhamos opinião bem formada sobre alguns aspectos a serem considerados. Se você está apenas começando sua primeira reforma/decoração da sua cozinha, este post foi pensado para te ajudar a avaliar alguns desses pontos, sobretudo cor do móvel, material e <em>design</em>. Vem comigo!
+  Quem me acompanha nas redes sociais, especialmente no Facebook (<a href="https://www.facebook.com/lidiane.vasconcelos.94" target="_blank" rel="noopener noreferrer">Perfil pessoaal aqui</a> | <a href="https://www.facebook.com/TrololoMulher/" target="_blank" rel="noopener noreferrer">Página do blog aqui</a>) sabe que mudei de Campinas – SP para Recife-PE faz algum tempo, mas não muito. Antes de morar em Campinas, morei por 3 anos em Sumaré, na mesma região. Agora em Recife, estive imersa numa terceira reforma de casa e, portanto, foi a terceira cozinha que montamos. Essa jornada por três momentos de escolha de armário de cozinha fez com que já tenhamos opinião bem formada sobre alguns aspectos a serem considerados. Se você está apenas começando sua primeira reforma/decoração da sua cozinha, este post foi pensado para te ajudar a avaliar alguns desses pontos, sobretudo cor do móvel, material e <em>design</em>. Vem comigo!
 </p>
 
 <p align="justify">
@@ -22,27 +19,27 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/09/13/revestimento-da-cozinha/" target="_blank"><strong>Cor do balcão e revestimento da cozinha: como combinar?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/09/13/revestimento-da-cozinha/" target="_blank" rel="noopener noreferrer"><strong>Cor do balcão e revestimento da cozinha: como combinar?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/03/07/decoracao-de-cozinha-pequena/" target="_blank"><strong>Decoração de cozinha pequena: dicas e imagens.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/03/07/decoracao-de-cozinha-pequena/" target="_blank" rel="noopener noreferrer"><strong>Decoração de cozinha pequena: dicas e imagens.</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13682" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/DECORACAO-COZINHA-ARMARIO-COZINHA.jpeg" alt="DECORACAO-COZINHA-ARMARIO COZINHA" width="600" height="800" />
+  <img class="alignnone size-full wp-image-13682" src="https://www.trololodemulher.com.br/2017/04/DECORACAO-COZINHA-ARMARIO-COZINHA.jpeg" alt="DECORACAO-COZINHA-ARMARIO COZINHA" width="600" height="800" />
 </p>
 
 <p align="center">
-  Via <a href="http://casa.abril.com.br/materia/26-cozinhas-de-membros-da-comunidade-minha-casa" target="_blank">Casa.com.br</a>
+  Via <a href="http://casa.abril.com.br/materia/26-cozinhas-de-membros-da-comunidade-minha-casa" target="_blank" rel="noopener noreferrer">Casa.com.br</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13683" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/DECORACAO-COZINHA-ARMARIO-COZINHA2.jpeg" alt="DECORACAO-COZINHA-ARMARIO COZINHA[2]" width="736" height="473" />
+  <img class="alignnone size-full wp-image-13683" src="https://www.trololodemulher.com.br/2017/04/DECORACAO-COZINHA-ARMARIO-COZINHA2.jpeg" alt="DECORACAO-COZINHA-ARMARIO COZINHA[2]" width="736" height="473" />
 </p>
 
 <p align="center">
-  Via <a href="https://www.pinterest.com/leticiafeitosa/cozinha-kitchen/" target="_blank">Pinterest</a>
+  Via <a href="https://www.pinterest.com/leticiafeitosa/cozinha-kitchen/" target="_blank" rel="noopener noreferrer">Pinterest</a>
 </p>
 
 <p align="justify">
@@ -54,27 +51,27 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/02/18/decoracao-da-cozinha/" target="_blank"><strong>Renove a decoração da cozinha: 12 ideias muito simples.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/02/18/decoracao-da-cozinha/" target="_blank" rel="noopener noreferrer"><strong>Renove a decoração da cozinha: 12 ideias muito simples.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/02/11/armario-cozinha-papel-contact/" target="_blank"><strong>Armário de cozinha e papel contact: 6 repaginadas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/02/11/armario-cozinha-papel-contact/" target="_blank" rel="noopener noreferrer"><strong>Armário de cozinha e papel contact: 6 repaginadas.</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13684" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/DECORACAO-COZINHA-ARMARIO-COZINHA3.jpeg" alt="DECORACAO-COZINHA-ARMARIO COZINHA[3]" width="800" height="634" />
+  <img class="alignnone size-full wp-image-13684" src="https://www.trololodemulher.com.br/2017/04/DECORACAO-COZINHA-ARMARIO-COZINHA3.jpeg" alt="DECORACAO-COZINHA-ARMARIO COZINHA[3]" width="800" height="634" />
 </p>
 
 <p align="center">
-  Via <a href="http://casa.abril.com.br/materia/26-cozinhas-de-membros-da-comunidade-minha-casa" target="_blank">Casa.com.br</a>
+  Via <a href="http://casa.abril.com.br/materia/26-cozinhas-de-membros-da-comunidade-minha-casa" target="_blank" rel="noopener noreferrer">Casa.com.br</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13685" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/DECORACAO-COZINHA-ARMARIO-COZINHA4.jpeg" alt="DECORACAO-COZINHA-ARMARIO COZINHA[4]" width="736" height="490" />
+  <img class="alignnone size-full wp-image-13685" src="https://www.trololodemulher.com.br/2017/04/DECORACAO-COZINHA-ARMARIO-COZINHA4.jpeg" alt="DECORACAO-COZINHA-ARMARIO COZINHA[4]" width="736" height="490" />
 </p>
 
 <p align="center">
-  Via <a href="http://casa.abril.com.br/materia/26-cozinhas-de-membros-da-comunidade-minha-casa" target="_blank">Casa.com.br</a>
+  Via <a href="http://casa.abril.com.br/materia/26-cozinhas-de-membros-da-comunidade-minha-casa" target="_blank" rel="noopener noreferrer">Casa.com.br</a>
 </p>
 
 <p align="justify">
@@ -86,11 +83,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/" target="_blank"><strong>Quer 5 razões para ter um suporte de organização na parede da cozinha?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/" target="_blank" rel="noopener noreferrer"><strong>Quer 5 razões para ter um suporte de organização na parede da cozinha?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

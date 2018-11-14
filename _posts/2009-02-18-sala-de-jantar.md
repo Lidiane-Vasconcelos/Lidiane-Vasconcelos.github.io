@@ -1,10 +1,7 @@
 ---
-id: 2624
 title: Inspirações para a decoração da sala de jantar.
-date: 2009-02-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/02/18/sala-de-jantar/
 permalink: /2009/02/18/sala-de-jantar/
 categories:
   - Salas
@@ -43,7 +40,7 @@ Cadeiras com cobertura de couro. Menos sofisticadas? Absolutamente! Elas são bo
 
 Não sei o nome desse tom verde, só sei que gosto e é refrescante. Confesso que não pintaria todo o ambiente, mas apenas uma das paredes. E conjugá-lo (o verde) com o branco fica realmente muito bom, e creio que a imagem não me deixa mentir quanto a isso. E para reforçar o ambiente de “refrescância”, a cortina com motivos florais enriqueceu o conjunto. As escolhas branco + verde clarinho + cortinas florais parecem ser aplicáveis e certeiras para quem quer criar um ar indiscutivelmente aconchegante na sala de jantar, não?
 
-_Imagens:_ <a href="http://www.idealhomemagazine.co.uk/" target="_blank"><em>Ideal Home</em></a>
+_Imagens:_ <a href="http://www.idealhomemagazine.co.uk/" target="_blank" rel="noopener noreferrer"><em>Ideal Home</em></a>
 
 **<span style="color: #800080;">Diz aí, a sala de jantar de vocês está no “ponto” ou falta algum detalhe?</span>**
 

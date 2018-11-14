@@ -1,10 +1,7 @@
 ---
-id: 3670
 title: '1º post da série para organização da casa: home office.'
-date: 2016-09-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/09/22/organizacao-da-casa-2/
 permalink: /2016/09/22/organizacao-da-casa-2/
 categories:
   - Organização
@@ -18,23 +15,23 @@ categories:
 </p>
 
 <p align="justify">
-  Não deixe de conferir o <strong>2° post da série</strong>, que é <strong>sobre cozinha</strong>. <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank"><strong>Clique aqui e confira</strong></a>!
+  Não deixe de conferir o <strong>2° post da série</strong>, que é <strong>sobre cozinha</strong>. <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank" rel="noopener noreferrer"><strong>Clique aqui e confira</strong></a>!
 </p>
 
 <p align="justify">
-  O <strong>3º post da série</strong> saiu! <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank">Clique aqui, confira e deixe sua penteadeira organizada e linda de viver</a>.
+  O <strong>3º post da série</strong> saiu! <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank" rel="noopener noreferrer">Clique aqui, confira e deixe sua penteadeira organizada e linda de viver</a>.
 </p>
 
 <p align="justify">
-  O <strong>quarto</strong> está repleto de estratégias muito úteis: <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank">clique aqui e veja como organizar o seu closet.</a>
+  O <strong>quarto</strong> está repleto de estratégias muito úteis: <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank" rel="noopener noreferrer">clique aqui e veja como organizar o seu closet.</a>
 </p>
 
 <p align="justify">
-  O <strong>quinto post</strong> está cheinho de dicas bacanas: <a href="http://www.trololodemulher.com.br/2016/10/18/organizacao-da-casa-6/" target="_blank">clique aqui e veja como deixar o quarto infantil em ordem!</a>
+  O <strong>quinto post</strong> está cheinho de dicas bacanas: <a href="http://www.trololodemulher.com.br/2016/10/18/organizacao-da-casa-6/" target="_blank" rel="noopener noreferrer">clique aqui e veja como deixar o quarto infantil em ordem!</a>
 </p>
 
 <p align="center">
-  <img class="size-full wp-image-12971" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/ORGANIZACAO-DA-CASA-HOME-OFFICE.jpg" alt="Como Montar Um Home Office Funcional" width="800" height="434" />
+  <img class="size-full wp-image-12971" src="https://www.trololodemulher.com.br/2016/09/ORGANIZACAO-DA-CASA-HOME-OFFICE.jpg" alt="Como Montar Um Home Office Funcional" width="800" height="434" />
 </p>
 
 <p align="center">
@@ -50,13 +47,13 @@ categories:
 </p>
 
 <p align="justify">
-  <em>Primeiramente, escolha um espaço, para você chamar de seu Home Office. Se você já tem esse espaço definido, o próximo passo é se livrar das <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank">tralhas</a>. Retire os papéis ultrapassados ou sem utilidades, tipo canetas velhas, jornais, panfletos e catálogos de propaganda. </em><em>Defina um lugar para cada coisa. Seja para os suplementos de escritório (clips, canetas, lápis, elásticos, grampos, papéis e etc), seja para cartões de visitas, contas a pagar, comprovantes de pagamentos efetuados, documentos pessoais, certificados e tudo mais que você possuir.</em>
+  <em>Primeiramente, escolha um espaço, para você chamar de seu Home Office. Se você já tem esse espaço definido, o próximo passo é se livrar das <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank" rel="noopener noreferrer">tralhas</a>. Retire os papéis ultrapassados ou sem utilidades, tipo canetas velhas, jornais, panfletos e catálogos de propaganda. </em><em>Defina um lugar para cada coisa. Seja para os suplementos de escritório (clips, canetas, lápis, elásticos, grampos, papéis e etc), seja para cartões de visitas, contas a pagar, comprovantes de pagamentos efetuados, documentos pessoais, certificados e tudo mais que você possuir.</em>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12974" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/ORGANIZACAO-DA-CASA-HOME-OFFICE-GAVETA.jpg" alt="organizacao-da-casa-home-office-gaveta" width="717" height="1024" />
+  <img class="alignnone size-full wp-image-12974" src="https://www.trololodemulher.com.br/2016/09/ORGANIZACAO-DA-CASA-HOME-OFFICE-GAVETA.jpg" alt="organizacao-da-casa-home-office-gaveta" width="717" height="1024" />
 </p>
 
 <p align="center">
@@ -68,7 +65,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/" target="_blank"><strong>Siga 4 passos e sua “gaveta da bagunça” ficará impecável!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/" target="_blank" rel="noopener noreferrer"><strong>Siga 4 passos e sua “gaveta da bagunça” ficará impecável!</strong></a>
 </p>
 
 &nbsp;
@@ -80,11 +77,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12975" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/ORGANIZACAO-DA-CASA-HOME-OFFICE-PAPEIS.jpg" alt="organizacao-da-casa-home-office-papeis" width="800" height="533" />
+  <img class="alignnone size-full wp-image-12975" src="https://www.trololodemulher.com.br/2016/09/ORGANIZACAO-DA-CASA-HOME-OFFICE-PAPEIS.jpg" alt="organizacao-da-casa-home-office-papeis" width="800" height="533" />
 </p>
 
 <p align="center">
-  Via <a href="http://whitneyjdecor.com/2016/02/one-desk-3-ways-the-bloggers-desk/" target="_blank">Whitney J Decor</a>
+  Via <a href="http://whitneyjdecor.com/2016/02/one-desk-3-ways-the-bloggers-desk/" target="_blank" rel="noopener noreferrer">Whitney J Decor</a>
 </p>
 
 &nbsp;
@@ -94,25 +91,25 @@ categories:
 </p>
 
 <p align="justify">
-  <em>Uma sugestão bacana, se a família é grande, ter uma pasta para cada membro da família. Tipo os exames médicos, documentos pessoais, certificados e históricos acadêmicos. </em><em>Para evitar acúmulo de papéis desnecessários, como os comprovantes de pagamentos realizados ao longo do ano, solicite documento de quitação anual, substituindo os demais. </em><em>E por fim, para uma organização bela e harmônica, não abra mão de cestos e <a href="http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/" target="_blank">caixas decorativas</a>, elas são peças chaves para que seu home office, seja um espaço agradável de se estar e trabalhar</em>.”
+  <em>Uma sugestão bacana, se a família é grande, ter uma pasta para cada membro da família. Tipo os exames médicos, documentos pessoais, certificados e históricos acadêmicos. </em><em>Para evitar acúmulo de papéis desnecessários, como os comprovantes de pagamentos realizados ao longo do ano, solicite documento de quitação anual, substituindo os demais. </em><em>E por fim, para uma organização bela e harmônica, não abra mão de cestos e <a href="http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/" target="_blank" rel="noopener noreferrer">caixas decorativas</a>, elas são peças chaves para que seu home office, seja um espaço agradável de se estar e trabalhar</em>.”
 </p>
 
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12976" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/WILLY-NEVES-PERSONAL-ORGANIZER-FORTALEZA-CE.jpg" alt="willy-neves-personal-organizer-fortaleza-ce" width="800" height="155" />
+  <img class="alignnone size-full wp-image-12976" src="https://www.trololodemulher.com.br/2016/09/WILLY-NEVES-PERSONAL-ORGANIZER-FORTALEZA-CE.jpg" alt="willy-neves-personal-organizer-fortaleza-ce" width="800" height="155" />
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  Willy Neves atualiza constantemente sua fanpage no Facebook com conteúdo relevante e primordial para que você mantenha sua vida organizada. Não deixe de conferir! <a href="https://www.facebook.com/Tudo-em-Ordem-por-Willy-Neves-757226514367697/" target="_blank">Clique aqui, curta e acompanhe</a>. Para mais informações sobre o trabalho de Willy, os contatos são os seguintes: e-mail &#8211; <a href="mailto:willyneves@hotmail.com">willyneves@hotmail.com</a> | celular/whatshap – (85) 988791810 e <a href="https://www.instagram.com/tdemordem/" target="_blank">Instagram &#8211; @tdemordem</a>.
+  Willy Neves atualiza constantemente sua fanpage no Facebook com conteúdo relevante e primordial para que você mantenha sua vida organizada. Não deixe de conferir! <a href="https://www.facebook.com/Tudo-em-Ordem-por-Willy-Neves-757226514367697/" target="_blank" rel="noopener noreferrer">Clique aqui, curta e acompanhe</a>. Para mais informações sobre o trabalho de Willy, os contatos são os seguintes: e-mail &#8211; <a href="mailto:willyneves@hotmail.com">willyneves@hotmail.com</a> | celular/whatshap – (85) 988791810 e <a href="https://www.instagram.com/tdemordem/" target="_blank" rel="noopener noreferrer">Instagram &#8211; @tdemordem</a>.
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

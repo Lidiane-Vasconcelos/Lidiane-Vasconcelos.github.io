@@ -1,10 +1,7 @@
 ---
-id: 3041
 title: Post altamente indicado para loucos por decoração…com cupcakes!
-date: 2011-08-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/08/25/decoracao-cupcakes/
 permalink: /2011/08/25/decoracao-cupcakes/
 categories:
   - Sem categoria
@@ -20,13 +17,13 @@ Você costuma clicar de blog em blog vendo _belezuras_ decorativas com _cupcakes
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/cupcake.jpg"><img class="alignnone size-full wp-image-6827" title="cupcake" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/cupcake.jpg" alt="" width="600" height="558" /><br /> </a>Imagem:<strong> <a href="http://www.sxc.hu/profile/DGBurns" target="_blank">DGBurns</a></strong> via <strong><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/08/cupcake.jpg"><img class="alignnone size-full wp-image-6827" title="cupcake" src="https://www.trololodemulher.com.br/2011/08/cupcake.jpg" alt="" width="600" height="558" /><br /> </a>Imagem:<strong> <a href="http://www.sxc.hu/profile/DGBurns" target="_blank" rel="noopener noreferrer">DGBurns</a></strong> via <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">Stock.xchng</a></strong>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Na verdade, quero te levar comigo para outro lugar, onde <strong>só se fala em Decoração</strong>. Vem comigo por <strong><a href="http://www.decoracaodacasa.com/estudio-cereja-para-sua-casa/" target="_blank">aqui</a></strong>, mas cuidado para não morrer de amores  >>> <strong><a href="http://www.decoracaodacasa.com/estudio-cereja-para-sua-casa/" target="_blank">clica</a></strong> que já te conto!
+  Na verdade, quero te levar comigo para outro lugar, onde <strong>só se fala em Decoração</strong>. Vem comigo por <strong><a href="http://www.decoracaodacasa.com/estudio-cereja-para-sua-casa/" target="_blank" rel="noopener noreferrer">aqui</a></strong>, mas cuidado para não morrer de amores  >>> <strong><a href="http://www.decoracaodacasa.com/estudio-cereja-para-sua-casa/" target="_blank" rel="noopener noreferrer">clica</a></strong> que já te conto!
 </p>
 
 &nbsp;

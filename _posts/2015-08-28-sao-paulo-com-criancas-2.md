@@ -1,10 +1,7 @@
 ---
-id: 3473
 title: 'Agenda São Paulo com crianças: Setembro!'
-date: 2015-08-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/08/28/sao-paulo-com-criancas-2/
 permalink: /2015/08/28/sao-paulo-com-criancas-2/
 categories:
   - Sem categoria
@@ -14,15 +11,15 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/AGENDA-CULTURAL-AGOSTO-2015-SAO-PAULO-COM-CRIANCAS.jpg"><img class="alignnone size-full wp-image-11240" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/AGENDA-CULTURAL-AGOSTO-2015-SAO-PAULO-COM-CRIANCAS.jpg" alt="AGENDA CULTURAL-AGOSTO-2015-SAO PAULO COM CRIANCAS" width="800" height="603" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/AGENDA-CULTURAL-AGOSTO-2015-SAO-PAULO-COM-CRIANCAS.jpg"><img class="alignnone size-full wp-image-11240" src="https://www.trololodemulher.com.br/2015/07/AGENDA-CULTURAL-AGOSTO-2015-SAO-PAULO-COM-CRIANCAS.jpg" alt="AGENDA CULTURAL-AGOSTO-2015-SAO PAULO COM CRIANCAS" width="800" height="603" /></a>
 </p>
 
 > <p align="justify">
->   <strong>“<em>Começou o Food Park infantil, no </em></strong><a href="http://www.ibirapuera.com.br/" target="_blank"><em><strong>Shopping Ibirapuera</strong></em></a><em><strong>. O Food Park é um evento exclusivo de cupcakes e faz com que as crianças participem de ações educativas relacionadas ao poder do dinheiro e como comprar. Com uma moeda fictícia, elas terão que decidir quais cupcakes querem e quais ingredientes comprar para poder cozinhar seu próprio doce.</strong></em>
+>   <strong>“<em>Começou o Food Park infantil, no </em></strong><a href="http://www.ibirapuera.com.br/" target="_blank" rel="noopener noreferrer"><em><strong>Shopping Ibirapuera</strong></em></a><em><strong>. O Food Park é um evento exclusivo de cupcakes e faz com que as crianças participem de ações educativas relacionadas ao poder do dinheiro e como comprar. Com uma moeda fictícia, elas terão que decidir quais cupcakes querem e quais ingredientes comprar para poder cozinhar seu próprio doce.</strong></em>
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/FOOD-PARK-INFANTIL-SHOPPING-IBIRAPUERA.jpg"><img class="alignnone size-full wp-image-11368" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/FOOD-PARK-INFANTIL-SHOPPING-IBIRAPUERA.jpg" alt="FOOD PARK INFANTIL-SHOPPING IBIRAPUERA" width="800" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/FOOD-PARK-INFANTIL-SHOPPING-IBIRAPUERA.jpg"><img class="alignnone size-full wp-image-11368" src="https://www.trololodemulher.com.br/2015/08/FOOD-PARK-INFANTIL-SHOPPING-IBIRAPUERA.jpg" alt="FOOD PARK INFANTIL-SHOPPING IBIRAPUERA" width="800" height="800" /></a>
 </p>
 
 > <p align="justify">
@@ -38,7 +35,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BEATLES-PARA-CRIANÇAS-TEATRO-UMC.jpg"><img class="alignnone size-full wp-image-11366" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BEATLES-PARA-CRIANÇAS-TEATRO-UMC.jpg" alt="BEATLES PARA CRIANÇAS - TEATRO UMC" width="800" height="748" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/BEATLES-PARA-CRIANÇAS-TEATRO-UMC.jpg"><img class="alignnone size-full wp-image-11366" src="https://www.trololodemulher.com.br/2015/08/BEATLES-PARA-CRIANÇAS-TEATRO-UMC.jpg" alt="BEATLES PARA CRIANÇAS - TEATRO UMC" width="800" height="748" /></a>
 </p>
 
 > <p align="justify">
@@ -46,7 +43,7 @@ categories:
 > </p>
 
 > <p align="justify">
->   <a href="http://teatroumc.com.br/" target="_blank"><strong>Teatro UMC</strong></a>
+>   <a href="http://teatroumc.com.br/" target="_blank" rel="noopener noreferrer"><strong>Teatro UMC</strong></a>
 > </p>
 > 
 > **Av. Imperatriz Leopoldina, 550 (Vila Leopoldina)**
@@ -62,7 +59,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/TEATRO-RUTH-SCOBAR-SÃO-PAULO.jpg"><img class="alignnone size-full wp-image-11369" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/TEATRO-RUTH-SCOBAR-SÃO-PAULO.jpg" alt="TEATRO RUTH SCOBAR - SÃO PAULO" width="506" height="250" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/TEATRO-RUTH-SCOBAR-SÃO-PAULO.jpg"><img class="alignnone size-full wp-image-11369" src="https://www.trololodemulher.com.br/2015/08/TEATRO-RUTH-SCOBAR-SÃO-PAULO.jpg" alt="TEATRO RUTH SCOBAR - SÃO PAULO" width="506" height="250" /></a>
 </p>
 
 > <p align="justify">
@@ -70,7 +67,7 @@ categories:
 > </p>
 
 > <p align="justify">
->   <a href="http://teatroruthescobar.com.br/" target="_blank"><strong>Teatro Ruth Escobar</strong></a><strong> &#8211; Sala Gil Vicente</strong>
+>   <a href="http://teatroruthescobar.com.br/" target="_blank" rel="noopener noreferrer"><strong>Teatro Ruth Escobar</strong></a><strong> &#8211; Sala Gil Vicente</strong>
 > </p>
 > 
 > **Rua dos Ingleses, 209 (Bela Vista)**
@@ -82,7 +79,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/CINEMARK.jpg"><img class="alignnone size-full wp-image-11367" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/CINEMARK.jpg" alt="CINEMARK" width="647" height="307" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/CINEMARK.jpg"><img class="alignnone size-full wp-image-11367" src="https://www.trololodemulher.com.br/2015/08/CINEMARK.jpg" alt="CINEMARK" width="647" height="307" /></a>
 </p>
 
 > <p align="justify">
@@ -90,19 +87,19 @@ categories:
 > </p>
 
 > <p align="justify">
->   <strong><em>Mais informações: </em></strong><a href="http://www.adorocinema.com/filmes/filme-221093/" target="_blank"><strong><em>Adoro Cinema</em></strong></a>”
+>   <strong><em>Mais informações: </em></strong><a href="http://www.adorocinema.com/filmes/filme-221093/" target="_blank" rel="noopener noreferrer"><strong><em>Adoro Cinema</em></strong></a>”
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ADRIANA-MINHOTO.jpg"><img class="alignnone size-full wp-image-11365" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/ADRIANA-MINHOTO.jpg"><img class="alignnone size-full wp-image-11365" src="https://www.trololodemulher.com.br/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" /></a>
 </p>
 
 <p align="justify">
-  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank" rel="noopener noreferrer">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

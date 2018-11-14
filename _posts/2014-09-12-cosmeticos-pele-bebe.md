@@ -1,10 +1,7 @@
 ---
-id: 3342
 title: Afinal, quais cosméticos o bebê pode, de fato, usar?
-date: 2014-09-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/09/12/cosmeticos-pele-bebe/
 permalink: /2014/09/12/cosmeticos-pele-bebe/
 categories:
   - Maternidade
@@ -51,11 +48,11 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/SAUDE-PELE-DO-BEBE-COSMETICOS-PARA-BEBE-BEBE.jpg"><img class="alignnone size-full wp-image-10393" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/SAUDE-PELE-DO-BEBE-COSMETICOS-PARA-BEBE-BEBE.jpg" alt="SAUDE-PELE DO BEBE-COSMETICOS PARA BEBE-BEBE" width="755" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/SAUDE-PELE-DO-BEBE-COSMETICOS-PARA-BEBE-BEBE.jpg"><img class="alignnone size-full wp-image-10393" src="https://www.trololodemulher.com.br/2014/09/SAUDE-PELE-DO-BEBE-COSMETICOS-PARA-BEBE-BEBE.jpg" alt="SAUDE-PELE DO BEBE-COSMETICOS PARA BEBE-BEBE" width="755" height="800" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">FreeImages</a>
+  Imagem: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">FreeImages</a>
 </p>
 
 <p align="justify">
@@ -87,19 +84,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/06/28/bebe-assaduras/" target="_blank"><strong>Bebê sem assaduras: é possível sim, mamãe!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/06/28/bebe-assaduras/" target="_blank" rel="noopener noreferrer"><strong>Bebê sem assaduras: é possível sim, mamãe!</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/LIVIA-PINO-DERMATOLOGISTA2.png"><img class="alignnone size-full wp-image-9123" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/LIVIA-PINO-DERMATOLOGISTA2.png" alt="LIVIA PINO - DERMATOLOGISTA[2]" width="540" height="317" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/09/LIVIA-PINO-DERMATOLOGISTA2.png"><img class="alignnone size-full wp-image-9123" src="https://www.trololodemulher.com.br/2012/09/LIVIA-PINO-DERMATOLOGISTA2.png" alt="LIVIA PINO - DERMATOLOGISTA[2]" width="540" height="317" /></a>
 </p>
 
 <p align="justify">
-  A Dra. Livia Pino atende na <strong>cidade do Rio de Janeiro</strong> e também edita o blog <a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">Dermatologia em Foco</a>, onde seus posts são recheados de conteúdo com informações e dicas sobre cuidados com a pele, além de novidades em produtos. Você, que é uma leitora interessada em saber tudo para ficar ainda mais linda e luminosa, não vai perder, certo? Então, <em>oh</em>: <a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">clica bem aqui</a> e aproveita, bonita!
+  A Dra. Livia Pino atende na <strong>cidade do Rio de Janeiro</strong> e também edita o blog <a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank" rel="noopener noreferrer">Dermatologia em Foco</a>, onde seus posts são recheados de conteúdo com informações e dicas sobre cuidados com a pele, além de novidades em produtos. Você, que é uma leitora interessada em saber tudo para ficar ainda mais linda e luminosa, não vai perder, certo? Então, <em>oh</em>: <a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank" rel="noopener noreferrer">clica bem aqui</a> e aproveita, bonita!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

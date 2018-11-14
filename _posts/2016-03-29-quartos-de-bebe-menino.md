@@ -1,10 +1,7 @@
 ---
-id: 3570
 title: '2 quartos de bebê menino: neutros, calmos e serenos.'
-date: 2016-03-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/03/29/quartos-de-bebe-menino/
 permalink: /2016/03/29/quartos-de-bebe-menino/
 categories:
   - Decoração
@@ -23,11 +20,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/quarto-de-bebe-menino/" target="_blank"><strong>Antes e depois de quarto de bebê menino por uma especialista.</strong></a>
+  <a href="http://www.decoracaodacasa.com/quarto-de-bebe-menino/" target="_blank" rel="noopener noreferrer"><strong>Antes e depois de quarto de bebê menino por uma especialista.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/03/13/quarto-bebe-menino/" target="_blank"><strong>4 quartos de bebê menino para você se inspirar… e suspirar!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/03/13/quarto-bebe-menino/" target="_blank" rel="noopener noreferrer"><strong>4 quartos de bebê menino para você se inspirar… e suspirar!</strong></a>
 </p>
 
 <p align="center">
@@ -35,15 +32,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12162" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-QUARTO-BEBE-BEBE-MENINO.jpg" alt="DECORACAO-QUARTO BEBE-BEBE MENINO" width="535" height="800" />
+  <img class="alignnone size-full wp-image-12162" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-QUARTO-BEBE-BEBE-MENINO.jpg" alt="DECORACAO-QUARTO BEBE-BEBE MENINO" width="535" height="800" />
 </p>
 
 <p align="justify">
-  Enfeite de bandeirolas na parede do berço. Uma graça!  Dá para fazer algo diferente para posicionar na parede, com tecido, como você vê neste post publicado por aqui: <a href="http://www.decoracaodacasa.com/decoracao-infantil/" target="_blank">enfeite de tecido para o quarto</a>. Espie!
+  Enfeite de bandeirolas na parede do berço. Uma graça!  Dá para fazer algo diferente para posicionar na parede, com tecido, como você vê neste post publicado por aqui: <a href="http://www.decoracaodacasa.com/decoracao-infantil/" target="_blank" rel="noopener noreferrer">enfeite de tecido para o quarto</a>. Espie!
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12163" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-QUARTO-BEBE-BEBE-MENINO2.jpg" alt="DECORACAO-QUARTO BEBE-BEBE MENINO[2]" width="535" height="800" />
+  <img class="alignnone size-full wp-image-12163" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-QUARTO-BEBE-BEBE-MENINO2.jpg" alt="DECORACAO-QUARTO BEBE-BEBE MENINO[2]" width="535" height="800" />
 </p>
 
 <p align="center">
@@ -55,19 +52,19 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-quartos-de-bebes/" target="_blank"><strong>2 ideias de decoração para quartos de bebê.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quartos-de-bebes/" target="_blank" rel="noopener noreferrer"><strong>2 ideias de decoração para quartos de bebê.</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12164" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-QUARTO-BEBE-BEBE-MENINO3.jpg" alt="DECORACAO-QUARTO BEBE-BEBE MENINO[3]" width="535" height="800" />
+  <img class="alignnone size-full wp-image-12164" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-QUARTO-BEBE-BEBE-MENINO3.jpg" alt="DECORACAO-QUARTO BEBE-BEBE MENINO[3]" width="535" height="800" />
 </p>
 
 <p align="justify">
-  Prateleiras recheadas de livros para o pequeno. Essas prateleiras fininhas, com encosto na frente e que evita que os livros caiam, são uma ótima opção. Veja mais ideias para organizar e expor os livros infantis, de modo que o acesso a eles seja facilitado para a criança, neste post publicado no <strong>Trololó de Mulher</strong>: <a href="http://www.trololodemulher.com.br/2014/10/03/decoracao-infantil/" target="_blank">3 ideias para organizar os livros infantis e facilitar o acesso.</a>
+  Prateleiras recheadas de livros para o pequeno. Essas prateleiras fininhas, com encosto na frente e que evita que os livros caiam, são uma ótima opção. Veja mais ideias para organizar e expor os livros infantis, de modo que o acesso a eles seja facilitado para a criança, neste post publicado no <strong>Trololó de Mulher</strong>: <a href="http://www.trololodemulher.com.br/2014/10/03/decoracao-infantil/" target="_blank" rel="noopener noreferrer">3 ideias para organizar os livros infantis e facilitar o acesso.</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12165" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-QUARTO-BEBE-BEBE-MENINO4.jpg" alt="DECORACAO-QUARTO BEBE-BEBE MENINO[4]" width="584" height="800" />
+  <img class="alignnone size-full wp-image-12165" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-QUARTO-BEBE-BEBE-MENINO4.jpg" alt="DECORACAO-QUARTO BEBE-BEBE MENINO[4]" width="584" height="800" />
 </p>
 
 <p align="justify">
@@ -75,7 +72,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12166" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-QUARTO-BEBE-BEBE-MENINO5.jpg" alt="DECORACAO-QUARTO BEBE-BEBE MENINO[5]" width="800" height="535" />
+  <img class="alignnone size-full wp-image-12166" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-QUARTO-BEBE-BEBE-MENINO5.jpg" alt="DECORACAO-QUARTO BEBE-BEBE MENINO[5]" width="800" height="535" />
 </p>
 
 <p align="center">
@@ -87,15 +84,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12167" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-QUARTO-BEBE-BEBE-MENINO6.jpg" alt="DECORACAO-QUARTO BEBE-BEBE MENINO[6]" width="800" height="533" />
+  <img class="alignnone size-full wp-image-12167" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-QUARTO-BEBE-BEBE-MENINO6.jpg" alt="DECORACAO-QUARTO BEBE-BEBE MENINO[6]" width="800" height="533" />
 </p>
 
 <p align="justify">
-  Esse enfeite de nuvem na parede conquistou meu coração. Muito lindo de viver em sua simplicidade. Atenção para o móvel em cubos: <em>design</em> limpo, funcional e bonito. As caixas organizadoras com textura mais rústica são bonitas, eficientes e decoram com graça. Gosto dessa solução, e até já dei outras alternativas para fazer uso dela, aqui no Decoração da Casa, no post: <a href="http://www.decoracaodacasa.com/movel-quarto-infantil/" target="_blank">móvel modulado ou planejado – cubos no quarto infantil – 4 ideias</a>.
+  Esse enfeite de nuvem na parede conquistou meu coração. Muito lindo de viver em sua simplicidade. Atenção para o móvel em cubos: <em>design</em> limpo, funcional e bonito. As caixas organizadoras com textura mais rústica são bonitas, eficientes e decoram com graça. Gosto dessa solução, e até já dei outras alternativas para fazer uso dela, aqui no Decoração da Casa, no post: <a href="http://www.decoracaodacasa.com/movel-quarto-infantil/" target="_blank" rel="noopener noreferrer">móvel modulado ou planejado – cubos no quarto infantil – 4 ideias</a>.
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12168" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-QUARTO-BEBE-BEBE-MENINO7.jpg" alt="DECORACAO-QUARTO BEBE-BEBE MENINO[7]" width="533" height="800" />
+  <img class="alignnone size-full wp-image-12168" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-QUARTO-BEBE-BEBE-MENINO7.jpg" alt="DECORACAO-QUARTO BEBE-BEBE MENINO[7]" width="533" height="800" />
 </p>
 
 <p align="justify">
@@ -107,11 +104,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-bebe-2/" target="_blank"><strong>Decoração de quarto de bebê bonita, segura e funcional: 8 dicas infalíveis!</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-bebe-2/" target="_blank" rel="noopener noreferrer"><strong>Decoração de quarto de bebê bonita, segura e funcional: 8 dicas infalíveis!</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12169" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-QUARTO-BEBE-BEBE-MENINO8.jpg" alt="DECORACAO-QUARTO BEBE-BEBE MENINO[8]" width="800" height="627" />
+  <img class="alignnone size-full wp-image-12169" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-QUARTO-BEBE-BEBE-MENINO8.jpg" alt="DECORACAO-QUARTO BEBE-BEBE MENINO[8]" width="800" height="627" />
 </p>
 
 <p align="center">
@@ -119,7 +116,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12170" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-QUARTO-BEBE-BEBE-MENINO9.jpg" alt="DECORACAO-QUARTO BEBE-BEBE MENINO[9]" width="800" height="534" />
+  <img class="alignnone size-full wp-image-12170" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-QUARTO-BEBE-BEBE-MENINO9.jpg" alt="DECORACAO-QUARTO BEBE-BEBE MENINO[9]" width="800" height="534" />
 </p>
 
 <p align="center">
@@ -127,11 +124,11 @@ categories:
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://projectnursery.com/" target="_blank">Project Nursery</a>
+  Imagens: <a href="http://projectnursery.com/" target="_blank" rel="noopener noreferrer">Project Nursery</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

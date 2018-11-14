@@ -1,15 +1,12 @@
 ---
-id: 2961
 title: Casa Divertida, a mais nova loja virtual de mimos para casa!
-date: 2011-02-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/02/22/casa-divertida-loja-virtual/
 permalink: /2011/02/22/casa-divertida-loja-virtual/
 categories:
   - Publieditorial
 ---
-Sim! A notícia é das boas para nós que gostamos de ver coisas bonitas e diferentes em sites e blogs estrangeiros. Sabe o porquê? É que a <a href="http://www.casadivertida.com/" target="_blank">Casa Divertida</a> está cheia de produtos bonitos, coloridos e de _design_ diferente, tudo aquilo que a gente não encontra no Brasil. Duvida?
+Sim! A notícia é das boas para nós que gostamos de ver coisas bonitas e diferentes em sites e blogs estrangeiros. Sabe o porquê? É que a <a href="http://www.casadivertida.com/" target="_blank" rel="noopener noreferrer">Casa Divertida</a> está cheia de produtos bonitos, coloridos e de _design_ diferente, tudo aquilo que a gente não encontra no Brasil. Duvida?
 
 <p style="text-align: justify;">
   Não duvide! Quem está por trás dessa <em>boutique</em> virtual com <strong>artigos de decoração</strong> é uma brasileira conhecida por muitos na blogosfera: a <strong>Gislane Lima</strong>. Ela mora na Bélgica e, acostumada a dividir os achados por lá com amigos brasileiros, resolveu fundar esse espaço virtual com produtos de muito bom gosto e que podem chegar aí, na sua casa!
@@ -18,7 +15,7 @@ Sim! A notícia é das boas para nós que gostamos de ver coisas bonitas e difer
 <!--more-->
 
 <p style="text-align: justify;">
-  É no blog <a href="http://www.ohsojolly.com/" target="_blank">Oh! So Jolly</a> que a <strong>Gi</strong> (para quem acompanha a moça mais de perto, ainda que virtualmente) costuma mostrar um monte de <em>belezuras</em> para a decoração da casa. Quem acompanha suas atualizações <em>bloguísticas</em> invariavelmente suspira pelas <em>fofurices</em> que ela mostra mas, como tudo é vendido na Europa, nós que somos bichas fêmeas tupiniquins e amantes das coisinhas para o lar, não temos acesso com facilidade, e ficamos só nos suspiros…
+  É no blog <a href="http://www.ohsojolly.com/" target="_blank" rel="noopener noreferrer">Oh! So Jolly</a> que a <strong>Gi</strong> (para quem acompanha a moça mais de perto, ainda que virtualmente) costuma mostrar um monte de <em>belezuras</em> para a decoração da casa. Quem acompanha suas atualizações <em>bloguísticas</em> invariavelmente suspira pelas <em>fofurices</em> que ela mostra mas, como tudo é vendido na Europa, nós que somos bichas fêmeas tupiniquins e amantes das coisinhas para o lar, não temos acesso com facilidade, e ficamos só nos suspiros…
 </p>
 
 <p style="text-align: justify;">
@@ -26,7 +23,7 @@ Sim! A notícia é das boas para nós que gostamos de ver coisas bonitas e difer
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Almofada-Tree-Bomb-Preto.jpg"><img class="alignnone size-full wp-image-6034" title="Almofada Tree Bomb - Preto" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Almofada-Tree-Bomb-Preto.jpg" alt="" width="560" height="560" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2011/02/Almofada-Tree-Bomb-Preto.jpg"><img class="alignnone size-full wp-image-6034" title="Almofada Tree Bomb - Preto" src="https://www.trololodemulher.com.br/2011/02/Almofada-Tree-Bomb-Preto.jpg" alt="" width="560" height="560" /></a></em>
 </p>
 
 <p style="text-align: center;">
@@ -34,7 +31,7 @@ Sim! A notícia é das boas para nós que gostamos de ver coisas bonitas e difer
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Caneca-Ester.jpg"><img class="alignnone size-full wp-image-6035" title="Caneca Ester" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Caneca-Ester.jpg" alt="" width="560" height="560" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2011/02/Caneca-Ester.jpg"><img class="alignnone size-full wp-image-6035" title="Caneca Ester" src="https://www.trololodemulher.com.br/2011/02/Caneca-Ester.jpg" alt="" width="560" height="560" /></a></em>
 </p>
 
 <p style="text-align: center;">
@@ -42,7 +39,7 @@ Sim! A notícia é das boas para nós que gostamos de ver coisas bonitas e difer
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Love-Pattern.jpg"><img class="alignnone size-full wp-image-6038" title="Love Pattern" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Love-Pattern.jpg" alt="" width="550" height="550" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2011/02/Love-Pattern.jpg"><img class="alignnone size-full wp-image-6038" title="Love Pattern" src="https://www.trololodemulher.com.br/2011/02/Love-Pattern.jpg" alt="" width="550" height="550" /></a></em>
 </p>
 
 <p style="text-align: center;">
@@ -54,7 +51,7 @@ Sim! A notícia é das boas para nós que gostamos de ver coisas bonitas e difer
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Pano-de-Copa-Caroline.jpg"><img class="alignnone size-full wp-image-6039" title="Pano de Copa Caroline" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Pano-de-Copa-Caroline.jpg" alt="" width="560" height="560" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2011/02/Pano-de-Copa-Caroline.jpg"><img class="alignnone size-full wp-image-6039" title="Pano de Copa Caroline" src="https://www.trololodemulher.com.br/2011/02/Pano-de-Copa-Caroline.jpg" alt="" width="560" height="560" /></a></em>
 </p>
 
 <p style="text-align: center;">
@@ -62,7 +59,7 @@ Sim! A notícia é das boas para nós que gostamos de ver coisas bonitas e difer
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Pano-de-Copa-Keep-Calm.jpg"><img class="alignnone size-full wp-image-6040" title="Pano de Copa Keep Calm" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Pano-de-Copa-Keep-Calm.jpg" alt="" width="595" height="595" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2011/02/Pano-de-Copa-Keep-Calm.jpg"><img class="alignnone size-full wp-image-6040" title="Pano de Copa Keep Calm" src="https://www.trololodemulher.com.br/2011/02/Pano-de-Copa-Keep-Calm.jpg" alt="" width="595" height="595" /></a></em>
 </p>
 
 <p style="text-align: center;">
@@ -78,7 +75,7 @@ Sim! A notícia é das boas para nós que gostamos de ver coisas bonitas e difer
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Tigela-de-Salada-Ester.jpg"><img class="alignnone size-full wp-image-6041" title="Tigela de Salada Ester" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Tigela-de-Salada-Ester.jpg" alt="" width="560" height="560" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2011/02/Tigela-de-Salada-Ester.jpg"><img class="alignnone size-full wp-image-6041" title="Tigela de Salada Ester" src="https://www.trololodemulher.com.br/2011/02/Tigela-de-Salada-Ester.jpg" alt="" width="560" height="560" /></a></em>
 </p>
 
 <p style="text-align: center;">
@@ -86,7 +83,7 @@ Sim! A notícia é das boas para nós que gostamos de ver coisas bonitas e difer
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Vaso-Coruja.jpg"><img class="alignnone size-full wp-image-6042" title="Vaso Coruja" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Vaso-Coruja.jpg" alt="" width="560" height="560" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2011/02/Vaso-Coruja.jpg"><img class="alignnone size-full wp-image-6042" title="Vaso Coruja" src="https://www.trololodemulher.com.br/2011/02/Vaso-Coruja.jpg" alt="" width="560" height="560" /></a></em>
 </p>
 
 <p style="text-align: center;">
@@ -94,7 +91,7 @@ Sim! A notícia é das boas para nós que gostamos de ver coisas bonitas e difer
 </p>
 
 <p style="text-align: justify;">
-  Ficou sonhando com cada mimo desse em sua casa? <em>Hum</em>… nem me admira que isso aconteça! E tem muito mais na Casa Divertida, <em>hein</em>? A <strong>Gi</strong> promete atualizar as prateleiras da loja virtual com muitas novidades e achados, e <strong><em>você pode ficar sabendo de tudo que chega de mais novo assinando (gratuitamente) a Newsletter da loja</em></strong>. Como toda bicha fêmea que gosta de novidades, você não vai perder tempo, vai? <a href="http://www.casadivertida.com/" target="_blank">Corre lá</a>!
+  Ficou sonhando com cada mimo desse em sua casa? <em>Hum</em>… nem me admira que isso aconteça! E tem muito mais na Casa Divertida, <em>hein</em>? A <strong>Gi</strong> promete atualizar as prateleiras da loja virtual com muitas novidades e achados, e <strong><em>você pode ficar sabendo de tudo que chega de mais novo assinando (gratuitamente) a Newsletter da loja</em></strong>. Como toda bicha fêmea que gosta de novidades, você não vai perder tempo, vai? <a href="http://www.casadivertida.com/" target="_blank" rel="noopener noreferrer">Corre lá</a>!
 </p>
 
 **_ _**

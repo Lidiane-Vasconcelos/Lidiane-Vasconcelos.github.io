@@ -1,10 +1,7 @@
 ---
-id: 3126
 title: Oportunidade! Mude sua decoração com adesivos pagando pouco…
-date: 2012-03-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/03/27/decoracao-adesivos-decorativos/
 permalink: /2012/03/27/decoracao-adesivos-decorativos/
 categories:
   - Dicas de Decoração
@@ -15,13 +12,13 @@ Quem não quer dar uma _bossa_ na **decoração** **da casa** vez ou outra? A ve
 &nbsp;
 
 <p align="justify">
-  É justamente porque queremos isso tudo que tenho certeza que você vai curtir a dica que eu quero te dar hoje: <strong>adesivos <a href="http://www.tudocolado.com.br/" target="_blank">TudoColado</a></strong> com uma <strong>super oferta exclusiva para quem acompanha o Bicha Fêmea: 50% de desconto + frete grátis para as 50 primeiras pessoas</strong>… vai perder?
+  É justamente porque queremos isso tudo que tenho certeza que você vai curtir a dica que eu quero te dar hoje: <strong>adesivos <a href="http://www.tudocolado.com.br/" target="_blank" rel="noopener noreferrer">TudoColado</a></strong> com uma <strong>super oferta exclusiva para quem acompanha o Bicha Fêmea: 50% de desconto + frete grátis para as 50 primeiras pessoas</strong>… vai perder?
 </p>
 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/Logomarca-TudoColado.png"><img class="alignnone size-full wp-image-8643" title="Logomarca TudoColado" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/Logomarca-TudoColado.png" alt="" width="258" height="131" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/03/Logomarca-TudoColado.png"><img class="alignnone size-full wp-image-8643" title="Logomarca TudoColado" src="https://www.trololodemulher.com.br/2012/03/Logomarca-TudoColado.png" alt="" width="258" height="131" /></a>
 </p>
 
 &nbsp;
@@ -33,7 +30,7 @@ Quem não quer dar uma _bossa_ na **decoração** **da casa** vez ou outra? A ve
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/TUDOCOLADO-ADESIVOS-DECORATIVOS-GELADEIRA.png"><img class="alignnone size-full wp-image-8646" title="TUDOCOLADO ADESIVOS DECORATIVOS GELADEIRA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/TUDOCOLADO-ADESIVOS-DECORATIVOS-GELADEIRA.png" alt="" width="600" height="656" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/03/TUDOCOLADO-ADESIVOS-DECORATIVOS-GELADEIRA.png"><img class="alignnone size-full wp-image-8646" title="TUDOCOLADO ADESIVOS DECORATIVOS GELADEIRA" src="https://www.trololodemulher.com.br/2012/03/TUDOCOLADO-ADESIVOS-DECORATIVOS-GELADEIRA.png" alt="" width="600" height="656" /></a>
 </p>
 
 &nbsp;
@@ -45,7 +42,7 @@ Quem não quer dar uma _bossa_ na **decoração** **da casa** vez ou outra? A ve
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/ADESIVOS-DECORATIVOS-PAREDE-TUDOCOLADO.jpg"><img class="alignnone size-full wp-image-8641" title="ADESIVOS DECORATIVOS PAREDE TUDOCOLADO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/ADESIVOS-DECORATIVOS-PAREDE-TUDOCOLADO.jpg" alt="" width="600" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/03/ADESIVOS-DECORATIVOS-PAREDE-TUDOCOLADO.jpg"><img class="alignnone size-full wp-image-8641" title="ADESIVOS DECORATIVOS PAREDE TUDOCOLADO" src="https://www.trololodemulher.com.br/2012/03/ADESIVOS-DECORATIVOS-PAREDE-TUDOCOLADO.jpg" alt="" width="600" height="600" /></a>
 </p>
 
 &nbsp;
@@ -57,7 +54,7 @@ Quem não quer dar uma _bossa_ na **decoração** **da casa** vez ou outra? A ve
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/ADESIVOS-DECORATIVOS-TUDOCOLADO2.jpg"><img class="alignnone size-full wp-image-8642" title="ADESIVOS DECORATIVOS TUDOCOLADO[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/ADESIVOS-DECORATIVOS-TUDOCOLADO2.jpg" alt="" width="600" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/03/ADESIVOS-DECORATIVOS-TUDOCOLADO2.jpg"><img class="alignnone size-full wp-image-8642" title="ADESIVOS DECORATIVOS TUDOCOLADO[2]" src="https://www.trololodemulher.com.br/2012/03/ADESIVOS-DECORATIVOS-TUDOCOLADO2.jpg" alt="" width="600" height="600" /></a>
 </p>
 
 &nbsp;
@@ -75,7 +72,7 @@ Quem não quer dar uma _bossa_ na **decoração** **da casa** vez ou outra? A ve
 &nbsp;
 
 <p align="justify">
-  A compra deverá ser feita <strong>somente pela loja virtual</strong>.  Para fazer a compra basta <strong><a href="http://www.tudocolado.com.br/" target="_blank">acessar o site</a></strong>, escolher seus adesivos e, <strong>no final, informar o código do cupom acima</strong>.  Após isso o site irá calcular o desconto automaticamente.
+  A compra deverá ser feita <strong>somente pela loja virtual</strong>.  Para fazer a compra basta <strong><a href="http://www.tudocolado.com.br/" target="_blank" rel="noopener noreferrer">acessar o site</a></strong>, escolher seus adesivos e, <strong>no final, informar o código do cupom acima</strong>.  Após isso o site irá calcular o desconto automaticamente.
 </p>
 
 <p align="justify">

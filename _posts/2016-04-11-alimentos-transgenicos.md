@@ -1,10 +1,7 @@
 ---
-id: 3581
 title: 'Alimentos transgênicos: consumí-los ou não?'
-date: 2016-04-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/04/11/alimentos-transgenicos/
 permalink: /2016/04/11/alimentos-transgenicos/
 categories:
   - Saúde
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="justify">
-  Explico: <a href="https://www.facebook.com/lidiane.vasconcelos.94/posts/878736682203226?pnref=story" target="_blank">lancei uma questão no Facebook</a> (<a href="https://www.facebook.com/lidiane.vasconcelos.94" target="_blank">perfil pessoal aqui</a> e <a href="https://www.facebook.com/TrololoMulher/timeline" target="_blank">página do Trololó de Mulher aqui</a>), onde eu perguntei se as meninas estavam atentas ao &#8220;T&#8221; de transgênico nas embalagens dos produtos dos alimentos no supermercado, ou se até aquele momento aquilo passava “batido”. Fiquei boba com as respostas: muitas delas não prestavam atenção no símbolo. Foi quando decidi: sim! Preciso editar um post a respeito. E aqui está!
+  Explico: <a href="https://www.facebook.com/lidiane.vasconcelos.94/posts/878736682203226?pnref=story" target="_blank" rel="noopener noreferrer">lancei uma questão no Facebook</a> (<a href="https://www.facebook.com/lidiane.vasconcelos.94" target="_blank" rel="noopener noreferrer">perfil pessoal aqui</a> e <a href="https://www.facebook.com/TrololoMulher/timeline" target="_blank" rel="noopener noreferrer">página do Trololó de Mulher aqui</a>), onde eu perguntei se as meninas estavam atentas ao &#8220;T&#8221; de transgênico nas embalagens dos produtos dos alimentos no supermercado, ou se até aquele momento aquilo passava “batido”. Fiquei boba com as respostas: muitas delas não prestavam atenção no símbolo. Foi quando decidi: sim! Preciso editar um post a respeito. E aqui está!
 </p>
 
 <p align="justify">
@@ -26,7 +23,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/darwinbell/1619819599/" target="_blank">Darwin Bell</a> / <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC BY-NC</a>
+  Imagem: <a href="https://www.flickr.com/photos/darwinbell/1619819599/" target="_blank" rel="noopener noreferrer">Darwin Bell</a> / <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC</a>
 </p>
 
 <p align="justify">
@@ -78,7 +75,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/tutzstyle/8673318599/" target="_blank">Flickr</a> via <a href="http://foter.com/" target="_blank">Foter</a>
+  Imagem: <a href="https://www.flickr.com/photos/tutzstyle/8673318599/" target="_blank" rel="noopener noreferrer">Flickr</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a>
 </p>
 
 “_Em 2003, foi publicado o decreto de rotulagem (4680/2003), que obrigou a identificação de produtos e alimentos que contenham mais de 1% e matéria prima transgênica. Esses produtos são identificados com um símbolo em seu rótulo: um “T” preto dentro de um triângulo amarelo_.”
@@ -93,22 +90,22 @@ categories:
 
 **Mais consultorias de Pamela Miguel:**
 
-<a href="http://www.belezacorpoecia.com/gluten/" target="_blank"><strong>O glúten é mesmo um vilão nos alimentos?</strong></a>
+<a href="http://www.belezacorpoecia.com/gluten/" target="_blank" rel="noopener noreferrer"><strong>O glúten é mesmo um vilão nos alimentos?</strong></a>
 
-<a href="http://www.belezacorpoecia.com/alimentacao-nutricao-saude/" target="_blank"><strong>Alimentação e nutrição: 7 dúvidas respondidas.</strong></a>
+<a href="http://www.belezacorpoecia.com/alimentacao-nutricao-saude/" target="_blank" rel="noopener noreferrer"><strong>Alimentação e nutrição: 7 dúvidas respondidas.</strong></a>
 
-<a href="http://www.trololodemulher.com.br/2015/05/26/dieta-vegetariana/" target="_blank"><strong>Dieta vegetariana: saudável, rica e variada. Mito ou verdade?</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/05/26/dieta-vegetariana/" target="_blank" rel="noopener noreferrer"><strong>Dieta vegetariana: saudável, rica e variada. Mito ou verdade?</strong></a>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  A <strong>Dra. Pâmela Miguel</strong> também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
+  A <strong>Dra. Pâmela Miguel</strong> também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank" rel="noopener noreferrer">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

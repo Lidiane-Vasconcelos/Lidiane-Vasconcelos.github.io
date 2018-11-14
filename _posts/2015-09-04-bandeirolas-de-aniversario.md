@@ -1,10 +1,7 @@
 ---
-id: 3479
 title: 'Bandeirolas de aniversário: imprima grátis!'
-date: 2015-09-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/09/04/bandeirolas-de-aniversario/
 permalink: /2015/09/04/bandeirolas-de-aniversario/
 categories:
   - Festas Infantis
@@ -19,11 +16,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank"><strong>Sacolinha de festa infantil: faça você mesma!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank" rel="noopener noreferrer"><strong>Sacolinha de festa infantil: faça você mesma!</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/FESTA-ANIVERSARIO-INFANTIL-BANDEIROLAS.jpg"><img class="alignnone size-full wp-image-11414" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/FESTA-ANIVERSARIO-INFANTIL-BANDEIROLAS.jpg" alt="FESTA-ANIVERSARIO-INFANTIL-BANDEIROLAS" width="600" height="480" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/FESTA-ANIVERSARIO-INFANTIL-BANDEIROLAS.jpg"><img class="alignnone size-full wp-image-11414" src="https://www.trololodemulher.com.br/2015/09/FESTA-ANIVERSARIO-INFANTIL-BANDEIROLAS.jpg" alt="FESTA-ANIVERSARIO-INFANTIL-BANDEIROLAS" width="600" height="480" /></a>
 </p>
 
 <p align="justify">
@@ -35,15 +32,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank"><strong>2 ideias para decoração de festa infantil: faça você mesma!</strong></a>
+  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank" rel="noopener noreferrer"><strong>2 ideias para decoração de festa infantil: faça você mesma!</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/FESTA-ANIVERSARIO-INFANTIL-BANDEIROLAS2.jpg"><img class="alignnone size-full wp-image-11415" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/FESTA-ANIVERSARIO-INFANTIL-BANDEIROLAS2.jpg" alt="FESTA-ANIVERSARIO-INFANTIL-BANDEIROLAS[2]" width="600" height="480" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/FESTA-ANIVERSARIO-INFANTIL-BANDEIROLAS2.jpg"><img class="alignnone size-full wp-image-11415" src="https://www.trololodemulher.com.br/2015/09/FESTA-ANIVERSARIO-INFANTIL-BANDEIROLAS2.jpg" alt="FESTA-ANIVERSARIO-INFANTIL-BANDEIROLAS[2]" width="600" height="480" /></a>
 </p>
 
 <p align="justify">
-  Misture e encante-se. Esse é um presente do <a href="http://ruffledblog.com/printable-alphabet-bunting/" target="_blank">blog Rufled e você pode fazer o download das artes das letras bem aqui</a>. Cada letrinha está no final do post. Eu mesma salvei todas no meu computador. Ah! Ainda tem uma arte para o coração, assim você pode separar palavras de uma frase. Aproveite!
+  Misture e encante-se. Esse é um presente do <a href="http://ruffledblog.com/printable-alphabet-bunting/" target="_blank" rel="noopener noreferrer">blog Rufled e você pode fazer o download das artes das letras bem aqui</a>. Cada letrinha está no final do post. Eu mesma salvei todas no meu computador. Ah! Ainda tem uma arte para o coração, assim você pode separar palavras de uma frase. Aproveite!
 </p>
 
 <p align="justify">
@@ -51,11 +48,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-festa-infantil/" target="_blank"><strong>Decoração de festa infantil: ideias para a festa das meninas.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-festa-infantil/" target="_blank" rel="noopener noreferrer"><strong>Decoração de festa infantil: ideias para a festa das meninas.</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

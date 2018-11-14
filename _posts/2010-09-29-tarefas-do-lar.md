@@ -1,10 +1,7 @@
 ---
-id: 2886
 title: Tarefas do lar
-date: 2010-09-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/09/29/tarefas-do-lar/
 permalink: /2010/09/29/tarefas-do-lar/
 categories:
   - Comportamento
@@ -36,7 +33,7 @@ Por mais que o tempo passe e as coisas mudem, mulher continua sendo mulher e, co
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/loucas.jpg"><img class="alignnone size-full wp-image-5262" title="louças" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/loucas.jpg" alt="" width="581" height="389" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/loucas.jpg"><img class="alignnone size-full wp-image-5262" title="louças" src="https://www.trololodemulher.com.br/2010/09/loucas.jpg" alt="" width="581" height="389" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -55,7 +52,7 @@ Por mais que o tempo passe e as coisas mudem, mulher continua sendo mulher e, co
   E é nesse ritmo que procuro dar significado a tudo o que eu faço. Caso contrário teria jogado toda aquela louça fora e só compraria pratos, talheres e copos descartáveis. Totalmente antiecológico.
 </p>
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
@@ -66,7 +63,7 @@ _Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
   
   <tr>
     <td width="600" valign="top">
-      <strong><em><a href="http://milasville.blogspot.com/" target="_blank">Milla’s Ville – Open House!</a></em></strong>
+      <strong><em><a href="http://milasville.blogspot.com/" target="_blank" rel="noopener noreferrer">Milla’s Ville – Open House!</a></em></strong>
     </td>
   </tr>
 </table>

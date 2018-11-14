@@ -1,10 +1,7 @@
 ---
-id: 3654
 title: Por menos festa infantil espetáculo, e mais festa afetiva.
-date: 2016-08-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/08/30/festa-infantil-2/
 permalink: /2016/08/30/festa-infantil-2/
 categories:
   - Festas Infantis
@@ -19,7 +16,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/09/21/convites-de-aniversario-infantil/" target="_blank">6 convites de aniversário infantil: faça você mesma.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/09/21/convites-de-aniversario-infantil/" target="_blank" rel="noopener noreferrer">6 convites de aniversário infantil: faça você mesma.</a></strong>
 </p>
 
 <p align="justify">
@@ -31,11 +28,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/" target="_blank">9 ideias de sacolas de festa infantil: faça você mesma.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/" target="_blank" rel="noopener noreferrer">9 ideias de sacolas de festa infantil: faça você mesma.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">Sacolinha de festa infantil: faça você mesma.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank" rel="noopener noreferrer">Sacolinha de festa infantil: faça você mesma.</a></strong>
 </p>
 
 <p align="justify">
@@ -47,11 +44,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12871" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/MATERNIDADE-FILHOS-FESTA-INFANTIL-FESTA-CASEIRA.jpg" alt="MATERNIDADE-FILHOS-FESTA INFANTIL-FESTA CASEIRA" width="752" height="751" />
+  <img class="alignnone size-full wp-image-12871" src="https://www.trololodemulher.com.br/2016/08/MATERNIDADE-FILHOS-FESTA-INFANTIL-FESTA-CASEIRA.jpg" alt="MATERNIDADE-FILHOS-FESTA INFANTIL-FESTA CASEIRA" width="752" height="751" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/luiginter/61932888/" target="_blank">luiginter</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">CC BY-NC-SA</a>
+  Imagem: <a href="https://www.flickr.com/photos/luiginter/61932888/" target="_blank" rel="noopener noreferrer">luiginter</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA</a>
 </p>
 
 <p align="justify">
@@ -71,15 +68,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/03/30/festa-infantil-caseira/" target="_blank">6 mesas de festa infantil caseira para inspirar.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/03/30/festa-infantil-caseira/" target="_blank" rel="noopener noreferrer">6 mesas de festa infantil caseira para inspirar.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2017/03/15/festa-do-capitao-america/" target="_blank">Festa do capitão américa caseira: 4 anos de João.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2017/03/15/festa-do-capitao-america/" target="_blank" rel="noopener noreferrer">Festa do capitão américa caseira: 4 anos de João.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/11/16/festa-de-menina/" target="_blank">Festa de menina sem personagens: 9 ideias.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/11/16/festa-de-menina/" target="_blank" rel="noopener noreferrer">Festa de menina sem personagens: 9 ideias.</a></strong>
 </p>
 
 <p align="justify">
@@ -87,9 +84,9 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>

@@ -1,10 +1,7 @@
 ---
-id: 3645
 title: 'Washi tapes: 3 ideias de decoração “faça você mesma”.'
-date: 2016-08-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/08/17/washi-tapes/
 permalink: /2016/08/17/washi-tapes/
 categories:
   - Decoração
@@ -29,19 +26,19 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12799" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-DECORACAO-CRIATIVA-FACA-VOCE-MESMA-WASHI-TAPE3.jpg" alt="DECORACAO-DECORACAO CRIATIVA-FACA VOCE MESMA-WASHI TAPE[3]" width="500" height="694" />
+  <img class="alignnone size-full wp-image-12799" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-DECORACAO-CRIATIVA-FACA-VOCE-MESMA-WASHI-TAPE3.jpg" alt="DECORACAO-DECORACAO CRIATIVA-FACA VOCE MESMA-WASHI TAPE[3]" width="500" height="694" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12797" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-DECORACAO-CRIATIVA-FACA-VOCE-MESMA-WASHI-TAPE.jpg" alt="DECORACAO-DECORACAO CRIATIVA-FACA VOCE MESMA-WASHI TAPE" width="500" height="636" />
+  <img class="alignnone size-full wp-image-12797" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-DECORACAO-CRIATIVA-FACA-VOCE-MESMA-WASHI-TAPE.jpg" alt="DECORACAO-DECORACAO CRIATIVA-FACA VOCE MESMA-WASHI TAPE" width="500" height="636" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12798" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-DECORACAO-CRIATIVA-FACA-VOCE-MESMA-WASHI-TAPE2.jpg" alt="DECORACAO-DECORACAO CRIATIVA-FACA VOCE MESMA-WASHI TAPE[2]" width="500" height="652" />
+  <img class="alignnone size-full wp-image-12798" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-DECORACAO-CRIATIVA-FACA-VOCE-MESMA-WASHI-TAPE2.jpg" alt="DECORACAO-DECORACAO CRIATIVA-FACA VOCE MESMA-WASHI TAPE[2]" width="500" height="652" />
 </p>
 
 <p align="center">
-  Imagens: <a href="http://www.designsponge.com/" target="_blank">Design Sponge</a>
+  Imagens: <a href="http://www.designsponge.com/" target="_blank" rel="noopener noreferrer">Design Sponge</a>
 </p>
 
 &nbsp;
@@ -51,7 +48,7 @@ categories:
 </p>
 
 <p align="justify">
-  Para que você planeje bem como irá dispor suas imagens, sugiro a leitura deste post sobre <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank">como decorar a parede com quadros</a>. Use a mesma estratégia para pensar como será sua composição, e mãos a obra!
+  Para que você planeje bem como irá dispor suas imagens, sugiro a leitura deste post sobre <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank" rel="noopener noreferrer">como decorar a parede com quadros</a>. Use a mesma estratégia para pensar como será sua composição, e mãos a obra!
 </p>
 
 &nbsp;
@@ -63,13 +60,13 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12802" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-DECORACAO-CRIATIVA-FACA-VOCE-MESMA-WASHI-TAPE4.jpg" alt="DECORACAO-DECORACAO CRIATIVA-FACA VOCE MESMA-WASHI TAPE[4]" width="337" height="507" />
+  <img class="alignnone size-full wp-image-12802" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-DECORACAO-CRIATIVA-FACA-VOCE-MESMA-WASHI-TAPE4.jpg" alt="DECORACAO-DECORACAO CRIATIVA-FACA VOCE MESMA-WASHI TAPE[4]" width="337" height="507" />
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Com a facilidade de manuseio da washi tape e sua criatividade, as variações de revestimentos para seus espelhos de tomadas são muitas. Já imaginou? Somente para começar, veja 3 delas bem <a href="http://www.observationdiary.com/?p=2348" target="_blank">aqui, no blog Observation Diary</a>. O post é em inglês, mas isso não fará a menor diferença para você. Espie!
+  Com a facilidade de manuseio da washi tape e sua criatividade, as variações de revestimentos para seus espelhos de tomadas são muitas. Já imaginou? Somente para começar, veja 3 delas bem <a href="http://www.observationdiary.com/?p=2348" target="_blank" rel="noopener noreferrer">aqui, no blog Observation Diary</a>. O post é em inglês, mas isso não fará a menor diferença para você. Espie!
 </p>
 
 &nbsp;
@@ -81,11 +78,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12803" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-DECORACAO-CRIATIVA-FACA-VOCE-MESMA-WASHI-TAPE5.jpg" alt="DECORACAO-DECORACAO CRIATIVA-FACA VOCE MESMA-WASHI TAPE[5]" width="600" height="900" />
+  <img class="alignnone size-full wp-image-12803" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-DECORACAO-CRIATIVA-FACA-VOCE-MESMA-WASHI-TAPE5.jpg" alt="DECORACAO-DECORACAO CRIATIVA-FACA VOCE MESMA-WASHI TAPE[5]" width="600" height="900" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.abeautifulmess.com/" target="_blank">A Beautiful Mess</a>
+  Imagem: <a href="http://www.abeautifulmess.com/" target="_blank" rel="noopener noreferrer">A Beautiful Mess</a>
 </p>
 
 &nbsp;
@@ -99,21 +96,21 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank"><strong>2 ideias para festa ou decoração infantil: faça você mesma.</strong></a>
+  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank" rel="noopener noreferrer"><strong>2 ideias para festa ou decoração infantil: faça você mesma.</strong></a>
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/flores-de-papel-decoracao/" target="_blank"><strong>Como fazer flores de papel colorido para dar bossa na decoração?</strong></a>
+  <a href="http://www.decoracaodacasa.com/flores-de-papel-decoracao/" target="_blank" rel="noopener noreferrer"><strong>Como fazer flores de papel colorido para dar bossa na decoração?</strong></a>
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-de-parede/" target="_blank"><strong>Decoração de parede com tampa de caixa de sapato… é criativo ou não é?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-de-parede/" target="_blank" rel="noopener noreferrer"><strong>Decoração de parede com tampa de caixa de sapato… é criativo ou não é?</strong></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

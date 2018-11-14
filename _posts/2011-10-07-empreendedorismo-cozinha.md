@@ -1,10 +1,7 @@
 ---
-id: 3061
 title: O talento na cozinha pode mesmo virar uma fonte de renda?
-date: 2011-10-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/10/07/empreendedorismo-cozinha/
 permalink: /2011/10/07/empreendedorismo-cozinha/
 categories:
   - Empreendedorismo Feminino
@@ -15,13 +12,13 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Há quem já tenha feito disso uma realidade… conheça a linda e talentosa <strong>Roberta Dalsenter</strong>, editora do blog <strong><a href="http://docesabobrinhas.com/" target="_blank">Doces Abobrinhas</a></strong>, e uma das tantas mulheres por aí afora que fizeram do amor pelo forno e fogão uma fonte de renda. Ah…claro, inspire-se!
+  Há quem já tenha feito disso uma realidade… conheça a linda e talentosa <strong>Roberta Dalsenter</strong>, editora do blog <strong><a href="http://docesabobrinhas.com/" target="_blank" rel="noopener noreferrer">Doces Abobrinhas</a></strong>, e uma das tantas mulheres por aí afora que fizeram do amor pelo forno e fogão uma fonte de renda. Ah…claro, inspire-se!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Roberta-Dalsenter-Doces-Abobrinhas.png"><img class="alignnone size-full wp-image-7003" title="Roberta Dalsenter - Doces Abobrinhas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Roberta-Dalsenter-Doces-Abobrinhas.png" alt="" width="563" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/10/Roberta-Dalsenter-Doces-Abobrinhas.png"><img class="alignnone size-full wp-image-7003" title="Roberta Dalsenter - Doces Abobrinhas" src="https://www.trololodemulher.com.br/2011/10/Roberta-Dalsenter-Doces-Abobrinhas.png" alt="" width="563" height="600" /></a>
 </p>
 
 &nbsp;
@@ -41,7 +38,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/cupcakes-doces-abobrinhas.jpg"><img class="alignnone size-full wp-image-7000" title="cupcakes - doces abobrinhas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/cupcakes-doces-abobrinhas.jpg" alt="" width="600" height="401" /></a><br /> <em>Cupcakes Doces Abobrinhas para evento Le Lis Blanc em Blumenau.</em>
+  <a href="https://www.trololodemulher.com.br/2011/10/cupcakes-doces-abobrinhas.jpg"><img class="alignnone size-full wp-image-7000" title="cupcakes - doces abobrinhas" src="https://www.trololodemulher.com.br/2011/10/cupcakes-doces-abobrinhas.jpg" alt="" width="600" height="401" /></a><br /> <em>Cupcakes Doces Abobrinhas para evento Le Lis Blanc em Blumenau.</em>
 </p>
 
 &nbsp;
@@ -91,5 +88,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

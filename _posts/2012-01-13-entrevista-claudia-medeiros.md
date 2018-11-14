@@ -1,19 +1,16 @@
 ---
-id: 3104
 title: 'Uma bicha fêmea por outra: Claudia Medeiros'
-date: 2012-01-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/01/13/entrevista-claudia-medeiros/
 permalink: /2012/01/13/entrevista-claudia-medeiros/
 categories:
   - Entrevistas
 ---
-&#8220;_Acredito que aprender nunca é demais! Qualquer coisa que aprendemos vai ter alguma utilidade em algum momento da vida. Voltar a estudar me tornou mais jovem, isso eu posso afirmar e, com toda certeza, melhorou minha auto-estima_”.  Quem diz isso é a blogueira **Claudia Medeiros**,  editora do **<a href="http://sefossenaminhacasa.blogspot.com/" target="_blank">Se fosse na minha casa</a>**, que formou-se em Jornalismo mas decidiu virar o jogo e correr atrás do sonho: ser _designer de interiores_.
+&#8220;_Acredito que aprender nunca é demais! Qualquer coisa que aprendemos vai ter alguma utilidade em algum momento da vida. Voltar a estudar me tornou mais jovem, isso eu posso afirmar e, com toda certeza, melhorou minha auto-estima_”.  Quem diz isso é a blogueira **Claudia Medeiros**,  editora do **<a href="http://sefossenaminhacasa.blogspot.com/" target="_blank" rel="noopener noreferrer">Se fosse na minha casa</a>**, que formou-se em Jornalismo mas decidiu virar o jogo e correr atrás do sonho: ser _designer de interiores_.
 
 &nbsp;
 
-Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado excelentes resultados: a loja virtual **<a href="http://www.casadaclaudia.com.br/" target="_blank">Casa da Claudia</a>**. Quer saber mais? Acompanhe suas revelações com exclusividade para o **Bicha Fêmea**!
+Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado excelentes resultados: a loja virtual **<a href="http://www.casadaclaudia.com.br/" target="_blank" rel="noopener noreferrer">Casa da Claudia</a>**. Quer saber mais? Acompanhe suas revelações com exclusividade para o **Bicha Fêmea**!
 
 <!--more-->
 
@@ -34,7 +31,7 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Claudia-Medeiros.jpg"><img class="alignnone size-full wp-image-8441" title="Claudia Medeiros" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Claudia-Medeiros.jpg" alt="" width="600" height="553" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/Claudia-Medeiros.jpg"><img class="alignnone size-full wp-image-8441" title="Claudia Medeiros" src="https://www.trololodemulher.com.br/2012/01/Claudia-Medeiros.jpg" alt="" width="600" height="553" /></a>
 </p>
 
 &nbsp;
@@ -97,13 +94,13 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/"><img class="alignnone size-full wp-image-7002" title="cupcakes - doces abobrinhas200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/cupcakes-doces-abobrinhas200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/"><strong><span style="font-size: small;">O talento na cozinha pode mesmo virar uma fonte de renda?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/"><img class="alignnone size-full wp-image-7002" title="cupcakes - doces abobrinhas200" src="https://www.trololodemulher.com.br/2011/10/cupcakes-doces-abobrinhas200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/"><strong><span style="font-size: small;">O talento na cozinha pode mesmo virar uma fonte de renda?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/09/09/trabalhar-home-office/"><img class="alignnone size-full wp-image-6891" title="home office200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/home-office200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/09/09/trabalhar-home-office/"><strong><span style="font-size: small;">Quer trabalhar sem sair de casa mas não sabe como?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/09/09/trabalhar-home-office/"><img class="alignnone size-full wp-image-6891" title="home office200" src="https://www.trololodemulher.com.br/2011/09/home-office200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/09/09/trabalhar-home-office/"><strong><span style="font-size: small;">Quer trabalhar sem sair de casa mas não sabe como?</span></strong></a>
       </p>
     </td>
   </tr>
@@ -111,13 +108,13 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/"><img class="alignnone size-full wp-image-6398" title="calculadora200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/calculadora200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/"><strong><span style="font-size: small;">Suas finanças pessoais estão no azul ou no vermelho?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/"><img class="alignnone size-full wp-image-6398" title="calculadora200" src="https://www.trololodemulher.com.br/2011/05/calculadora200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/"><strong><span style="font-size: small;">Suas finanças pessoais estão no azul ou no vermelho?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2010/11/26/home-office-pros-contras/"><img class="alignnone size-full wp-image-5506" title="dúvidas200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/duvidas200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/11/26/home-office-pros-contras/"><strong><span style="font-size: small;">Home Office: união do útil ao agradável… mas nem sempre!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2010/11/26/home-office-pros-contras/"><img class="alignnone size-full wp-image-5506" title="dúvidas200" src="https://www.trololodemulher.com.br/2010/11/duvidas200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/11/26/home-office-pros-contras/"><strong><span style="font-size: small;">Home Office: união do útil ao agradável… mas nem sempre!</span></strong></a>
       </p>
     </td>
   </tr>
@@ -143,13 +140,13 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="http://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     

@@ -1,10 +1,7 @@
 ---
-id: 2622
 title: 'Novos usos de objetos na decoração: vasos diferentes para flores'
-date: 2009-02-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/02/15/vasos-diferentes-flores/
 permalink: /2009/02/15/vasos-diferentes-flores/
 categories:
   - Dicas de Decoração
@@ -61,9 +58,9 @@ Trata-se de idéias bastante criativas e originais de objetos que podemos usar e
   <img class="aligncenter" title="diyideas.com" src="http://diyideas.com/images/container-gardening_ss16.jpg" alt="diyideas.com" />
 </p>
 
-Até o bule serve, gente! Chaleira também… [<img style="display: inline;" title="clip_image001" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image001-thumb14.gif" alt="clip_image001" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image00122.gif)
+Até o bule serve, gente! Chaleira também… [<img style="display: inline;" title="clip_image001" src="https://www.trololodemulher.com.br/2009/02/clip-image001-thumb14.gif" alt="clip_image001" width="18" height="18" />](https://www.trololodemulher.com.br/2009/02/clip-image00122.gif)
 
-_Imagens: “_<a href="http://www.diyideas.com/" target="_blank"><em>do it yourself</em></a>_”._
+_Imagens: “_<a href="http://www.diyideas.com/" target="_blank" rel="noopener noreferrer"><em>do it yourself</em></a>_”._
 
 <span style="color: #800080;"><strong>Diz aí, tem como alguém dizer que um jardim com elementos assim não é criativo?</strong></span>
 

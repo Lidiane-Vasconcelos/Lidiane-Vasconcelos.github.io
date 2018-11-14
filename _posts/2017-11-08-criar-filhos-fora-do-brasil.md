@@ -1,10 +1,7 @@
 ---
-id: 3825
 title: 'Sobre criar filhos fora do Brasil: bilinguismo.'
-date: 2017-11-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/11/08/criar-filhos-fora-do-brasil/
 permalink: /2017/11/08/criar-filhos-fora-do-brasil/
 categories:
   - Adriana Minhoto
@@ -20,7 +17,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="size-full wp-image-14377" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/Eduardo-E-família.jpg" alt="HS ELA 20151212 Elämä-juttu, lasten kasvattamisesta monikielisiksi. Domingues de Jesusin perhe Kalliossa. Perheessä puhutaan suomea, portugalia ja englantia. Perheeseen kuuluu: Sanna Edelman Domingues de Jesus (äiti), Eduardo Domingues de Jesus (isä), Francisco Edelman Domingues de Jesus (poika) ja Vera Edelman Domingues de Jesus (tytär). Kuvassa: Perhe leikki puistossa. Kuva: Rio Gandara / HS" width="800" height="1200" />
+  <img class="size-full wp-image-14377" src="https://www.trololodemulher.com.br/2017/11/Eduardo-E-família.jpg" alt="HS ELA 20151212 Elämä-juttu, lasten kasvattamisesta monikielisiksi. Domingues de Jesusin perhe Kalliossa. Perheessä puhutaan suomea, portugalia ja englantia. Perheeseen kuuluu: Sanna Edelman Domingues de Jesus (äiti), Eduardo Domingues de Jesus (isä), Francisco Edelman Domingues de Jesus (poika) ja Vera Edelman Domingues de Jesus (tytär). Kuvassa: Perhe leikki puistossa. Kuva: Rio Gandara / HS" width="800" height="1200" />
 </p>
 
 <p align="center">
@@ -48,7 +45,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14380" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/patricia-carvalho-ribeiro-professora.jpg" alt="patricia carvalho ribeiro - professora" width="800" height="814" />
+  <img class="alignnone size-full wp-image-14380" src="https://www.trololodemulher.com.br/2017/11/patricia-carvalho-ribeiro-professora.jpg" alt="patricia carvalho ribeiro - professora" width="800" height="814" />
 </p>
 
 <p align="center">
@@ -84,7 +81,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14379" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/oficina-de-portugues.jpg" alt="oficina de portugues" width="800" height="450" />
+  <img class="alignnone size-full wp-image-14379" src="https://www.trololodemulher.com.br/2017/11/oficina-de-portugues.jpg" alt="oficina de portugues" width="800" height="450" />
 </p>
 
 <p align="center">
@@ -104,7 +101,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14381" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/11/picnic-da-oficina.jpg" alt="picnic da oficina" width="800" height="450" />
+  <img class="alignnone size-full wp-image-14381" src="https://www.trololodemulher.com.br/2017/11/picnic-da-oficina.jpg" alt="picnic da oficina" width="800" height="450" />
 </p>
 
 <p align="center">
@@ -128,7 +125,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11365" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" />
+  <img class="alignnone size-full wp-image-11365" src="https://www.trololodemulher.com.br/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" />
 </p>
 
 <p align="justify">
@@ -136,27 +133,27 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2017/09/29/aniversario-infantil-na-finlandia/" target="_blank">Como é comemorado o aniversário infantil na Finlândia?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2017/09/29/aniversario-infantil-na-finlandia/" target="_blank" rel="noopener noreferrer">Como é comemorado o aniversário infantil na Finlândia?</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2017/08/18/bullying-na-finlandia/" target="_blank">Caso de sucesso: o enfrentamento do bullying na Finlândia.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2017/08/18/bullying-na-finlandia/" target="_blank" rel="noopener noreferrer">Caso de sucesso: o enfrentamento do bullying na Finlândia.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/08/09/mulher-finlandesa/" target="_blank">Verdades pouco conhecidas sobre a mulher finlandesa.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/08/09/mulher-finlandesa/" target="_blank" rel="noopener noreferrer">Verdades pouco conhecidas sobre a mulher finlandesa.</a></strong>
 </p>
 
 <p align="justify">
-  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank" rel="noopener noreferrer">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>
 
 <p align="justify">

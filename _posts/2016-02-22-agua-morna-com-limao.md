@@ -1,10 +1,7 @@
 ---
-id: 3546
 title: 'Água morna com limão: faz bem ou é modinha?'
-date: 2016-02-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/02/22/agua-morna-com-limao/
 permalink: /2016/02/22/agua-morna-com-limao/
 categories:
   - Saúde
@@ -18,11 +15,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11964" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/SAUDE-NUTRICAO-ALIMENTACAO-SAUDAVEL-AGUA-COM-LIMAO.jpg" alt="SAUDE-NUTRICAO-ALIMENTACAO SAUDAVEL-AGUA COM LIMAO" width="751" height="752" />
+  <img class="alignnone size-full wp-image-11964" src="https://www.trololodemulher.com.br/2016/02/SAUDE-NUTRICAO-ALIMENTACAO-SAUDAVEL-AGUA-COM-LIMAO.jpg" alt="SAUDE-NUTRICAO-ALIMENTACAO SAUDAVEL-AGUA COM LIMAO" width="751" height="752" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/topsynette/7782060976/" target="_blank">topsynette</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Imagem: <a href="https://www.flickr.com/photos/topsynette/7782060976/" target="_blank" rel="noopener noreferrer">topsynette</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND</a>
 </p>
 
 <p align="justify">
@@ -30,7 +27,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>A resposta está nas propriedades do limão, um alimento alcalinizante, antioxidante, bactericida, que ativa as vias de eliminação do fígado, previne a formação de cálculos renais, dá suporte à imunidade e à digestão. Isso porque contém em sua composição diversos compostos bioativos, como flavonoides e óleos essenciais, vitamina C, citrato e minerais. Atualmente, alcalinizar o organismo por meio da alimentação é uma importante estratégia para reduzir o risco de diversas doenças crônicas, como diabetes, pressão alta, osteoporose, <a href="http://www.trololodemulher.com.br/2013/09/23/coracao-doenca-cardiovascular/" target="_blank">doenças cardiovasculares</a> e câncer. Já existem tabelas de alimentos com resíduo ácido e alcalino, até mesmo análises de águas minerais, por isso temos que considerar a alimentação diária como um todo e não apenas uma estratégia isolada</em>.”
+  “<em>A resposta está nas propriedades do limão, um alimento alcalinizante, antioxidante, bactericida, que ativa as vias de eliminação do fígado, previne a formação de cálculos renais, dá suporte à imunidade e à digestão. Isso porque contém em sua composição diversos compostos bioativos, como flavonoides e óleos essenciais, vitamina C, citrato e minerais. Atualmente, alcalinizar o organismo por meio da alimentação é uma importante estratégia para reduzir o risco de diversas doenças crônicas, como diabetes, pressão alta, osteoporose, <a href="http://www.trololodemulher.com.br/2013/09/23/coracao-doenca-cardiovascular/" target="_blank" rel="noopener noreferrer">doenças cardiovasculares</a> e câncer. Já existem tabelas de alimentos com resíduo ácido e alcalino, até mesmo análises de águas minerais, por isso temos que considerar a alimentação diária como um todo e não apenas uma estratégia isolada</em>.”
 </p>
 
 <p align="justify">
@@ -74,7 +71,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11963" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/GABRIELA-PIMENTEL-NUTRICIONISTA-VALINHOS-SP.jpg" alt="GABRIELA-PIMENTEL-NUTRICIONISTA-VALINHOS-SP" width="800" height="184" />
+  <img class="alignnone size-full wp-image-11963" src="https://www.trololodemulher.com.br/2016/02/GABRIELA-PIMENTEL-NUTRICIONISTA-VALINHOS-SP.jpg" alt="GABRIELA-PIMENTEL-NUTRICIONISTA-VALINHOS-SP" width="800" height="184" />
 </p>
 
 <p align="justify">
@@ -82,15 +79,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.belezacorpoecia.com/por-que-engordamos/" target="_blank"><strong>Por que engordamos?</strong></a>
+  <a href="http://www.belezacorpoecia.com/por-que-engordamos/" target="_blank" rel="noopener noreferrer"><strong>Por que engordamos?</strong></a>
 </p>
 
 <p align="justify">
-  Gabriela tem presença online e você pode acompanhá-la ainda mais de perto. Em seu site você encontra todas as informações necessárias sobre os serviços prestados por ela, que são: acompanhamento nutricional personalizado, avaliação nutricional completa e orientação nutricional individualizada. Gabriela dá mais detalhes em seu site, e também disponibiliza receitas saudáveis e nutritivas divididas por categorias: acompanhamento, carnes | aves e peixes, entradas e saladas, sobremesas, sucos e bebidas, festas de fim de ano. Imperdível! Lá você encontra todos os contatos da profissional. <a href="http://www.gabrielanutricionista.com.br/" target="_blank">Acesse o site aqui e se joga</a>! Ah! Na sua fanpage do Facebook a Gabriela compartilha conteúdo de extrema relevância para que tenhamos saúde, assim a gente cultiva uma beleza que vem de dentro. <a href="https://www.facebook.com/gabinutricionista" target="_blank">Acesse aqui e curta</a>!
+  Gabriela tem presença online e você pode acompanhá-la ainda mais de perto. Em seu site você encontra todas as informações necessárias sobre os serviços prestados por ela, que são: acompanhamento nutricional personalizado, avaliação nutricional completa e orientação nutricional individualizada. Gabriela dá mais detalhes em seu site, e também disponibiliza receitas saudáveis e nutritivas divididas por categorias: acompanhamento, carnes | aves e peixes, entradas e saladas, sobremesas, sucos e bebidas, festas de fim de ano. Imperdível! Lá você encontra todos os contatos da profissional. <a href="http://www.gabrielanutricionista.com.br/" target="_blank" rel="noopener noreferrer">Acesse o site aqui e se joga</a>! Ah! Na sua fanpage do Facebook a Gabriela compartilha conteúdo de extrema relevância para que tenhamos saúde, assim a gente cultiva uma beleza que vem de dentro. <a href="https://www.facebook.com/gabinutricionista" target="_blank" rel="noopener noreferrer">Acesse aqui e curta</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

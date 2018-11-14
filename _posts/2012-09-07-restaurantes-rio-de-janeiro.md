@@ -1,10 +1,7 @@
 ---
-id: 3182
 title: Você está em terras cariocas e curte comer bem? Este post é para você!
-date: 2012-09-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/09/07/restaurantes-rio-de-janeiro/
 permalink: /2012/09/07/restaurantes-rio-de-janeiro/
 categories:
   - Trololó
@@ -24,13 +21,13 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
 &nbsp;
 
 <p align="center">
-  <strong><a href="http://www.aconchegocarioca.com.br/" target="_blank"><span style="font-size: large;">ACONCHEGO CARIOCA</span></a></strong><span style="font-size: large;">: deliciosa comida de boteco e variada carta de cervejas</span>
+  <strong><a href="http://www.aconchegocarioca.com.br/" target="_blank" rel="noopener noreferrer"><span style="font-size: large;">ACONCHEGO CARIOCA</span></a></strong><span style="font-size: large;">: deliciosa comida de boteco e variada carta de cervejas</span>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/restaurante-aconchego-carioca-rio-de-janeiro/" rel="attachment wp-att-9100"><img class="alignnone size-full wp-image-9100" title="RESTAURANTE-ACONCHEGO CARIOCA-RIO DE JANEIRO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/RESTAURANTE-ACONCHEGO-CARIOCA-RIO-DE-JANEIRO.jpg" alt="" width="545" height="727" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/restaurante-aconchego-carioca-rio-de-janeiro/" rel="attachment wp-att-9100"><img class="alignnone size-full wp-image-9100" title="RESTAURANTE-ACONCHEGO CARIOCA-RIO DE JANEIRO" src="https://www.trololodemulher.com.br/2012/09/RESTAURANTE-ACONCHEGO-CARIOCA-RIO-DE-JANEIRO.jpg" alt="" width="545" height="727" /></a>
 </p>
 
 &nbsp;
@@ -42,13 +39,13 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
 &nbsp;
 
 <p align="center">
-  <strong><a href="http://www.restaurantenoi.com.br/home.php" target="_blank"><span style="font-size: large;">NOI</span></a></strong><span style="font-size: large;">: frutos do mar bem preparados e boa cerveja artesanal em Niterói</span>
+  <strong><a href="http://www.restaurantenoi.com.br/home.php" target="_blank" rel="noopener noreferrer"><span style="font-size: large;">NOI</span></a></strong><span style="font-size: large;">: frutos do mar bem preparados e boa cerveja artesanal em Niterói</span>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/restaurante-noi-niteroi/" rel="attachment wp-att-9103"><img class="alignnone size-full wp-image-9103" title="RESTAURANTE-NOI-NITEROI" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/RESTAURANTE-NOI-NITEROI.jpg" alt="" width="545" height="409" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/restaurante-noi-niteroi/" rel="attachment wp-att-9103"><img class="alignnone size-full wp-image-9103" title="RESTAURANTE-NOI-NITEROI" src="https://www.trololodemulher.com.br/2012/09/RESTAURANTE-NOI-NITEROI.jpg" alt="" width="545" height="409" /></a>
 </p>
 
 &nbsp;
@@ -60,11 +57,11 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
 &nbsp;
 
 <p align="center">
-  <strong><a href="http://www.amirrestaurante.com.br/scripts/index.asp" target="_blank"><span style="font-size: large;">Amir</span></a></strong><span style="font-size: large;">: a melhor comida árabe do Rio</span>
+  <strong><a href="http://www.amirrestaurante.com.br/scripts/index.asp" target="_blank" rel="noopener noreferrer"><span style="font-size: large;">Amir</span></a></strong><span style="font-size: large;">: a melhor comida árabe do Rio</span>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/restaurante-amir-rio-de-janeiro/" rel="attachment wp-att-9101"><img class="alignnone size-full wp-image-9101" title="RESTAURANTE-AMIR-RIO DE JANEIRO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/RESTAURANTE-AMIR-RIO-DE-JANEIRO.jpg" alt="" width="545" height="409" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/restaurante-amir-rio-de-janeiro/" rel="attachment wp-att-9101"><img class="alignnone size-full wp-image-9101" title="RESTAURANTE-AMIR-RIO DE JANEIRO" src="https://www.trololodemulher.com.br/2012/09/RESTAURANTE-AMIR-RIO-DE-JANEIRO.jpg" alt="" width="545" height="409" /></a>
 </p>
 
 &nbsp;
@@ -76,11 +73,11 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
 &nbsp;
 
 <p align="center">
-  <strong><a href="http://www.robertasudbrack.com.br/" target="_blank"><span style="font-size: large;">Roberta Sudbrack</span></a></strong><span style="font-size: large;">: os prazeres da alta gastronomia</span>
+  <strong><a href="http://www.robertasudbrack.com.br/" target="_blank" rel="noopener noreferrer"><span style="font-size: large;">Roberta Sudbrack</span></a></strong><span style="font-size: large;">: os prazeres da alta gastronomia</span>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/restaurante-roberta-sudbrack-rio-de-janeiro/" rel="attachment wp-att-9106"><img class="alignnone size-full wp-image-9106" title="RESTAURANTE-ROBERTA SUDBRACK-RIO DE JANEIRO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/RESTAURANTE-ROBERTA-SUDBRACK-RIO-DE-JANEIRO.jpg" alt="" width="545" height="419" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/restaurante-roberta-sudbrack-rio-de-janeiro/" rel="attachment wp-att-9106"><img class="alignnone size-full wp-image-9106" title="RESTAURANTE-ROBERTA SUDBRACK-RIO DE JANEIRO" src="https://www.trololodemulher.com.br/2012/09/RESTAURANTE-ROBERTA-SUDBRACK-RIO-DE-JANEIRO.jpg" alt="" width="545" height="419" /></a>
 </p>
 
 &nbsp;
@@ -92,13 +89,13 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
 &nbsp;
 
 <p align="center">
-  <strong><a href="http://ristorantefiorino.com.br/" target="_blank"><span style="font-size: large;">Fiorino</span></a></strong><span style="font-size: large;">: italiano de qualidade com ótima relação custo x benefício</span>
+  <strong><a href="http://ristorantefiorino.com.br/" target="_blank" rel="noopener noreferrer"><span style="font-size: large;">Fiorino</span></a></strong><span style="font-size: large;">: italiano de qualidade com ótima relação custo x benefício</span>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/restaurante-fiorino-rio-de-janeiro/" rel="attachment wp-att-9102"><img class="alignnone size-full wp-image-9102" title="RESTAURANTE-FIORINO-RIO DE JANEIRO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/RESTAURANTE-FIORINO-RIO-DE-JANEIRO.jpg" alt="" width="545" height="409" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/restaurante-fiorino-rio-de-janeiro/" rel="attachment wp-att-9102"><img class="alignnone size-full wp-image-9102" title="RESTAURANTE-FIORINO-RIO DE JANEIRO" src="https://www.trololodemulher.com.br/2012/09/RESTAURANTE-FIORINO-RIO-DE-JANEIRO.jpg" alt="" width="545" height="409" /></a>
 </p>
 
 &nbsp;
@@ -110,11 +107,11 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/katia-bonfadini-3/" rel="attachment wp-att-9107"><img class="alignnone size-full wp-image-9107" title="KATIA BONFADINI" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/KATIA-BONFADINI.png" alt="" width="529" height="288" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/katia-bonfadini-3/" rel="attachment wp-att-9107"><img class="alignnone size-full wp-image-9107" title="KATIA BONFADINI" src="https://www.trololodemulher.com.br/2012/09/KATIA-BONFADINI.png" alt="" width="529" height="288" /></a>
 </p>
 
 <p align="justify">
-  <strong>Katia Bonfadini</strong> é uma bicha fêmea blogueira das mais queridas, que edita seu <strong><a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank">Casos e Coisas da Bonfa</a> </strong>com carinho e cuidado inquestionáveis. Essa moça bonita é formada em <em>Designer</em> Industrial e mostra seus trabalhos incríveis e lindos de viver ligados ao desenvolvimento de identidades visuais, o que inclui criação de logomarcas, cartões de visita, convites, <em>folders</em>, ilustrações, etc. Além do mais, quem acompanha o seu blog recebe generosas doses de inspiração sobre viagem, gastronomia e bem viver… quer espiar o blog da moça, certo? Se joga <strong><a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank">clicando aqui</a></strong>, bonita, e delicie-se!
+  <strong>Katia Bonfadini</strong> é uma bicha fêmea blogueira das mais queridas, que edita seu <strong><a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Casos e Coisas da Bonfa</a> </strong>com carinho e cuidado inquestionáveis. Essa moça bonita é formada em <em>Designer</em> Industrial e mostra seus trabalhos incríveis e lindos de viver ligados ao desenvolvimento de identidades visuais, o que inclui criação de logomarcas, cartões de visita, convites, <em>folders</em>, ilustrações, etc. Além do mais, quem acompanha o seu blog recebe generosas doses de inspiração sobre viagem, gastronomia e bem viver… quer espiar o blog da moça, certo? Se joga <strong><a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank" rel="noopener noreferrer">clicando aqui</a></strong>, bonita, e delicie-se!
 </p>
 
 &nbsp;
@@ -127,13 +124,13 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/bem-viver/padarias-sao-paulo-campinas200/" rel="attachment wp-att-8850"><img class="alignnone size-full wp-image-8850" title="PADARIAS-SAO PAULO-CAMPINAS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/PADARIAS-SAO-PAULO-CAMPINAS200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/07/06/sao-paulo-campinas-padaria/"><strong><span style="font-size: medium;"><br /> Só em São Paulo se toma café da manhã na padaria?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/bem-viver/padarias-sao-paulo-campinas200/" rel="attachment wp-att-8850"><img class="alignnone size-full wp-image-8850" title="PADARIAS-SAO PAULO-CAMPINAS200" src="https://www.trololodemulher.com.br/2012/07/PADARIAS-SAO-PAULO-CAMPINAS200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/07/06/sao-paulo-campinas-padaria/"><strong><span style="font-size: medium;"><br /> Só em São Paulo se toma café da manhã na padaria?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/07/06/sao-paulo-campinas-padaria/culinaria-italiana200/" rel="attachment wp-att-8796"><img class="alignnone size-full wp-image-8796" title="CULINARIA ITALIANA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/CULINARIA-ITALIANA200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/06/29/comida-internacional/"><strong><span style="font-size: medium;">Você aprecia a culinária de outros países?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/07/06/sao-paulo-campinas-padaria/culinaria-italiana200/" rel="attachment wp-att-8796"><img class="alignnone size-full wp-image-8796" title="CULINARIA ITALIANA200" src="https://www.trololodemulher.com.br/2012/06/CULINARIA-ITALIANA200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/06/29/comida-internacional/"><strong><span style="font-size: medium;">Você aprecia a culinária de outros países?</span></strong></a>
       </p>
     </td>
   </tr>
@@ -141,7 +138,7 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/mimosidades2200/" rel="attachment wp-att-9087"><img class="alignnone size-full wp-image-9087" title="Mimosidades[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/Mimosidades2200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/mimosidades2200/" rel="attachment wp-att-9087"><img class="alignnone size-full wp-image-9087" title="Mimosidades[2]200" src="https://www.trololodemulher.com.br/2012/09/Mimosidades2200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -151,7 +148,7 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/bem-viver/marca-paginas200/" rel="attachment wp-att-8892"><img class="alignnone size-full wp-image-8892" title="MARCA-PAGINAS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/MARCA-PAGINAS200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/07/20/objetos-design-personalizado/"><strong><span style="font-size: medium;"><br /> Achados com estilo para a casa, você e a vida!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/bem-viver/marca-paginas200/" rel="attachment wp-att-8892"><img class="alignnone size-full wp-image-8892" title="MARCA-PAGINAS200" src="https://www.trololodemulher.com.br/2012/07/MARCA-PAGINAS200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/07/20/objetos-design-personalizado/"><strong><span style="font-size: medium;"><br /> Achados com estilo para a casa, você e a vida!</span></strong></a>
       </p>
     </td>
   </tr>
@@ -159,7 +156,7 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2011/12/09/casamento-relacionamento/mulher-pensando200/" rel="attachment wp-att-5776"><img class="alignnone size-full wp-image-5776" title="mulher pensando200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/mulher-pensando200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2011/12/09/casamento-relacionamento/mulher-pensando200/" rel="attachment wp-att-5776"><img class="alignnone size-full wp-image-5776" title="mulher pensando200" src="https://www.trololodemulher.com.br/2011/01/mulher-pensando200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -169,7 +166,7 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/29/comida-internacional/flores-online2200/" rel="attachment wp-att-8766"><img class="alignnone size-full wp-image-8766" title="Flores Online[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/Flores-Online2200.jpg" alt="" width="200" height="200" /></a>
+        <a href="http://www.trololodemulher.com.br/2012/06/29/comida-internacional/flores-online2200/" rel="attachment wp-att-8766"><img class="alignnone size-full wp-image-8766" title="Flores Online[2]200" src="https://www.trololodemulher.com.br/2012/06/Flores-Online2200.jpg" alt="" width="200" height="200" /></a>
       </p>
       
       <p align="center">
@@ -184,7 +181,7 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -199,13 +196,13 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

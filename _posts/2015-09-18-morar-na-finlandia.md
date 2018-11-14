@@ -1,10 +1,7 @@
 ---
-id: 3488
 title: 'Casa e decoração: o jeito de morar na Finlândia'
-date: 2015-09-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/09/18/morar-na-finlandia/
 permalink: /2015/09/18/morar-na-finlandia/
 categories:
   - Adriana Minhoto
@@ -23,7 +20,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/FINLANDIA-MARIMEKKO.jpg"><img class="alignnone size-full wp-image-11495" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/FINLANDIA-MARIMEKKO.jpg" alt="FINLANDIA-MARIMEKKO" width="470" height="470" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/FINLANDIA-MARIMEKKO.jpg"><img class="alignnone size-full wp-image-11495" src="https://www.trololodemulher.com.br/2015/09/FINLANDIA-MARIMEKKO.jpg" alt="FINLANDIA-MARIMEKKO" width="470" height="470" /></a>
 </p>
 
 <p align="center">
@@ -31,7 +28,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/FINLANDIA-MARIMEKKO-ALMOFADA.jpg"><img class="alignnone size-full wp-image-11496" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/FINLANDIA-MARIMEKKO-ALMOFADA.jpg" alt="FINLANDIA-MARIMEKKO-ALMOFADA" width="584" height="796" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/FINLANDIA-MARIMEKKO-ALMOFADA.jpg"><img class="alignnone size-full wp-image-11496" src="https://www.trololodemulher.com.br/2015/09/FINLANDIA-MARIMEKKO-ALMOFADA.jpg" alt="FINLANDIA-MARIMEKKO-ALMOFADA" width="584" height="796" /></a>
 </p>
 
 <p align="center">
@@ -39,7 +36,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="https://www.marimekko.com/" target="_blank">Imagens</a>
+  <a href="https://www.marimekko.com/" target="_blank" rel="noopener noreferrer">Imagens</a>
 </p>
 
 <p align="justify">
@@ -51,7 +48,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/FINLANDIA-ALVAR-AALTO.jpg"><img class="alignnone size-full wp-image-11490" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/FINLANDIA-ALVAR-AALTO.jpg" alt="FINLANDIA-ALVAR-AALTO" width="800" height="615" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/FINLANDIA-ALVAR-AALTO.jpg"><img class="alignnone size-full wp-image-11490" src="https://www.trololodemulher.com.br/2015/09/FINLANDIA-ALVAR-AALTO.jpg" alt="FINLANDIA-ALVAR-AALTO" width="800" height="615" /></a>
 </p>
 
 <p align="center">
@@ -63,19 +60,19 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/FINLANDIA-TAIKA2.jpg"><img class="alignnone size-full wp-image-11498" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/FINLANDIA-TAIKA2.jpg" alt="FINLANDIA-TAIKA[2]" width="796" height="796" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/FINLANDIA-TAIKA2.jpg"><img class="alignnone size-full wp-image-11498" src="https://www.trololodemulher.com.br/2015/09/FINLANDIA-TAIKA2.jpg" alt="FINLANDIA-TAIKA[2]" width="796" height="796" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.finnishdesignshop.fi/kattaus-astiat-iittala-taika-taika-lautanen-valkoinen-p-2132.html" target="_blank">Imagem</a>
+  <a href="http://www.finnishdesignshop.fi/kattaus-astiat-iittala-taika-taika-lautanen-valkoinen-p-2132.html" target="_blank" rel="noopener noreferrer">Imagem</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/FINLANDIA-TAIKA.jpg"><img class="alignnone size-full wp-image-11497" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/FINLANDIA-TAIKA.jpg" alt="FINLANDIA-TAIKA" width="800" height="533" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/FINLANDIA-TAIKA.jpg"><img class="alignnone size-full wp-image-11497" src="https://www.trololodemulher.com.br/2015/09/FINLANDIA-TAIKA.jpg" alt="FINLANDIA-TAIKA" width="800" height="533" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.merenhelmi.com/2014/09/iittala-taika.html" target="_blank">Imagem</a>
+  <a href="http://www.merenhelmi.com/2014/09/iittala-taika.html" target="_blank" rel="noopener noreferrer">Imagem</a>
 </p>
 
 <p align="justify">
@@ -87,7 +84,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/FINLANDIA-CASA-DECORACAO.jpg"><img class="alignnone size-full wp-image-11491" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/FINLANDIA-CASA-DECORACAO.jpg" alt="FINLANDIA-CASA-DECORACAO" width="800" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/FINLANDIA-CASA-DECORACAO.jpg"><img class="alignnone size-full wp-image-11491" src="https://www.trololodemulher.com.br/2015/09/FINLANDIA-CASA-DECORACAO.jpg" alt="FINLANDIA-CASA-DECORACAO" width="800" height="449" /></a>
 </p>
 
 <p align="justify">
@@ -97,39 +94,39 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/FINLANDIA-CASA-DECORACAO-SAUNA.jpg"><img class="alignnone size-full wp-image-11494" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/FINLANDIA-CASA-DECORACAO-SAUNA.jpg" alt="FINLANDIA-CASA-DECORACAO-SAUNA" width="800" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/FINLANDIA-CASA-DECORACAO-SAUNA.jpg"><img class="alignnone size-full wp-image-11494" src="https://www.trololodemulher.com.br/2015/09/FINLANDIA-CASA-DECORACAO-SAUNA.jpg" alt="FINLANDIA-CASA-DECORACAO-SAUNA" width="800" height="449" /></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ADRIANA-MINHOTO.jpg"><img class="alignnone size-full wp-image-11365" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/ADRIANA-MINHOTO.jpg"><img class="alignnone size-full wp-image-11365" src="https://www.trololodemulher.com.br/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" /></a>
 </p>
 
 &nbsp;
 
 **Entenda como tudo começou:**
 
-**<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
+**<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank" rel="noopener noreferrer">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
 
 &nbsp;
 
 **Mais sobre a Finlândia, por Adriana Minhoto:**
 
-**<a href="http://www.trololodemulher.com.br/2015/08/21/mulheres-brasileiras-na-finlandia/" target="_blank">Mulheres brasileiras na Finlândia: histórias da vida real</a>**
+**<a href="http://www.trololodemulher.com.br/2015/08/21/mulheres-brasileiras-na-finlandia/" target="_blank" rel="noopener noreferrer">Mulheres brasileiras na Finlândia: histórias da vida real</a>**
 
-**<a href="http://www.trololodemulher.com.br/2015/07/24/verao-na-finlandia-2/" target="_blank">É Julho… ops!… é Verão na Finlândia!</a>**
+**<a href="http://www.trololodemulher.com.br/2015/07/24/verao-na-finlandia-2/" target="_blank" rel="noopener noreferrer">É Julho… ops!… é Verão na Finlândia!</a>**
 
-**<a href="http://www.trololodemulher.com.br/2015/06/19/primavera-finlandia/" target="_blank">Compare: a diferença da Primaver no Brasil e na Finlândia</a>**
+**<a href="http://www.trololodemulher.com.br/2015/06/19/primavera-finlandia/" target="_blank" rel="noopener noreferrer">Compare: a diferença da Primaver no Brasil e na Finlândia</a>**
 
 &nbsp;
 
-Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O **Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer">clicar aqui e se jogar</a>! Ah! O **Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank" rel="noopener noreferrer">página no Facebook, viu? Já curtiu?</a> Eu já!
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

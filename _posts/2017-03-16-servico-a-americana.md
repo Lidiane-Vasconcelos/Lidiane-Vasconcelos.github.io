@@ -1,10 +1,7 @@
 ---
-id: 3737
 title: 'Serviço à americana: dicas pra fazer bonito!'
-date: 2017-03-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/03/16/servico-a-americana/
 permalink: /2017/03/16/servico-a-americana/
 categories:
   - Publieditorial
@@ -15,7 +12,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13593" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/CASA-SERVICO-A-AMERICANA2.jpg" alt="CASA-SERVICO A AMERICANA[2]" width="600" height="600" />
+  <img class="alignnone size-full wp-image-13593" src="https://www.trololodemulher.com.br/2017/03/CASA-SERVICO-A-AMERICANA2.jpg" alt="CASA-SERVICO A AMERICANA[2]" width="600" height="600" />
 </p>
 
 <p align="center">
@@ -23,7 +20,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13595" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/CASA-SERVICO-A-AMERICANA3.jpg" alt="CASA-SERVICO A AMERICANA[3]" width="698" height="143" />
+  <img class="alignnone size-full wp-image-13595" src="https://www.trololodemulher.com.br/2017/03/CASA-SERVICO-A-AMERICANA3.jpg" alt="CASA-SERVICO A AMERICANA[3]" width="698" height="143" />
 </p>
 
 <p align="justify">
@@ -31,7 +28,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13596" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/CASA-SERVICO-A-AMERICANA4.jpg" alt="CASA-SERVICO A AMERICANA[4]" width="618" height="147" />
+  <img class="alignnone size-full wp-image-13596" src="https://www.trololodemulher.com.br/2017/03/CASA-SERVICO-A-AMERICANA4.jpg" alt="CASA-SERVICO A AMERICANA[4]" width="618" height="147" />
 </p>
 
 <p align="justify">
@@ -43,7 +40,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13597" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/CASA-SERVICO-A-AMERICANA5.jpg" alt="CASA-SERVICO A AMERICANA[5]" width="761" height="127" />
+  <img class="alignnone size-full wp-image-13597" src="https://www.trololodemulher.com.br/2017/03/CASA-SERVICO-A-AMERICANA5.jpg" alt="CASA-SERVICO A AMERICANA[5]" width="761" height="127" />
 </p>
 
 <p align="justify">
@@ -61,23 +58,15 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13598" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/CASA-SERVICO-A-AMERICANA-RECEBER-MESA-POSTA.jpg" alt="CASA-SERVICO A AMERICANA-RECEBER-MESA POSTA" width="640" height="480" />
+  <img class="alignnone size-full wp-image-13598" src="https://www.trololodemulher.com.br/2017/03/CASA-SERVICO-A-AMERICANA-RECEBER-MESA-POSTA.jpg" alt="CASA-SERVICO A AMERICANA-RECEBER-MESA POSTA" width="640" height="480" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.blogvamoscelebrar.com.br/2015/07/recebendo-para-uma-feijoada-parte-2.html" target="_blank">Vamos Celebrar!!!</a>
+  Via <a href="http://www.blogvamoscelebrar.com.br/2015/07/recebendo-para-uma-feijoada-parte-2.html" target="_blank" rel="noopener noreferrer">Vamos Celebrar!!!</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13599" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/CASA-SERVICO-A-AMERICANA-RECEBER-TALHERES.jpg" alt="CASA-SERVICO A AMERICANA-RECEBER-TALHERES" width="600" height="399" />
-</p>
-
-<p align="center">
-  Via Google Imagens
-</p>
-
-<p align="center">
-  <img class="alignnone size-full wp-image-13600" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/CASA-SERVICO-A-AMERICANA-RECEBER-TALHERES2.jpg" alt="CASA-SERVICO A AMERICANA-RECEBER-TALHERES[2]" width="700" height="900" />
+  <img class="alignnone size-full wp-image-13599" src="https://www.trololodemulher.com.br/2017/03/CASA-SERVICO-A-AMERICANA-RECEBER-TALHERES.jpg" alt="CASA-SERVICO A AMERICANA-RECEBER-TALHERES" width="600" height="399" />
 </p>
 
 <p align="center">
@@ -85,19 +74,27 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12365" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/RECEBER-RECEBER-EM-CASA-ROUPA-DE-MESA-GUARDANAPOS.jpg" alt="RECEBER-RECEBER EM CASA-ROUPA DE MESA-GUARDANAPOS" width="800" height="712" />
+  <img class="alignnone size-full wp-image-13600" src="https://www.trololodemulher.com.br/2017/03/CASA-SERVICO-A-AMERICANA-RECEBER-TALHERES2.jpg" alt="CASA-SERVICO A AMERICANA-RECEBER-TALHERES[2]" width="700" height="900" />
 </p>
 
 <p align="center">
-  <em>Guardanapos belíssimos e de bom gosto da Xique Xique Brasil. Veja mais detalhes sobre esses e mais produtos, </em><a href="http://bit.ly/guardanapotecido" target="_blank"><em>clicando aqui</em></a><em>.</em>
+  Via Google Imagens
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13601" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/CASA-SERVICO-A-AMERICANA-RECEBER-TALHERES-DESCANSA-PANELA-DESCANSA-PIREX.jpg" alt="CASA-SERVICO A AMERICANA-RECEBER-TALHERES-DESCANSA PANELA-DESCANSA PIREX" width="800" height="563" />
+  <img class="alignnone size-full wp-image-12365" src="https://www.trololodemulher.com.br/2016/04/RECEBER-RECEBER-EM-CASA-ROUPA-DE-MESA-GUARDANAPOS.jpg" alt="RECEBER-RECEBER EM CASA-ROUPA DE MESA-GUARDANAPOS" width="800" height="712" />
 </p>
 
 <p align="center">
-  <em>Para uma mesa alegre e festiva, sirva pratos quentes à mesa com essas belezinhas em sisal: 1 – Descansa panela Abacaxi. <a href="https://www.xiquexiquebrasil.com.br/casa/Descansa-panela-Uva-Copia-1-copia-1" target="_blank">Clique aqui para mais informações</a>. | 2 – Descansa panela Caju. <a href="https://www.xiquexiquebrasil.com.br/casa/Descansa-panela-Caju-Amarelo-Copia-1-copia-1" target="_blank">Clique aqui para mais informações</a>. | 3 &#8211; Descansa panela Uva. | 4 – Descansa panela Girassol. | 5 – Descansa panela Melancia. <a href="https://www.xiquexiquebrasil.com.br/casa/Descansa-panela-Maca-Copia-1-copia-1" target="_blank">Clique aqui para mais informações</a>. | 6 – Descansa panela Maçã. <a href="https://www.xiquexiquebrasil.com.br/casa/Descansa-panela-Abacaxi-Copia-1-copia-1" target="_blank">Clique aqui para mais informações</a>. Todos eles são de sisal, e estão disponíveis online na loja virtual <strong>XiqueXique Brasil</strong>.</em>
+  <em>Guardanapos belíssimos e de bom gosto da Xique Xique Brasil. Veja mais detalhes sobre esses e mais produtos, </em><a href="http://bit.ly/guardanapotecido" target="_blank" rel="noopener noreferrer"><em>clicando aqui</em></a><em>.</em>
+</p>
+
+<p align="center">
+  <img class="alignnone size-full wp-image-13601" src="https://www.trololodemulher.com.br/2017/03/CASA-SERVICO-A-AMERICANA-RECEBER-TALHERES-DESCANSA-PANELA-DESCANSA-PIREX.jpg" alt="CASA-SERVICO A AMERICANA-RECEBER-TALHERES-DESCANSA PANELA-DESCANSA PIREX" width="800" height="563" />
+</p>
+
+<p align="center">
+  <em>Para uma mesa alegre e festiva, sirva pratos quentes à mesa com essas belezinhas em sisal: 1 – Descansa panela Abacaxi. <a href="https://www.xiquexiquebrasil.com.br/casa/Descansa-panela-Uva-Copia-1-copia-1" target="_blank" rel="noopener noreferrer">Clique aqui para mais informações</a>. | 2 – Descansa panela Caju. <a href="https://www.xiquexiquebrasil.com.br/casa/Descansa-panela-Caju-Amarelo-Copia-1-copia-1" target="_blank" rel="noopener noreferrer">Clique aqui para mais informações</a>. | 3 &#8211; Descansa panela Uva. | 4 – Descansa panela Girassol. | 5 – Descansa panela Melancia. <a href="https://www.xiquexiquebrasil.com.br/casa/Descansa-panela-Maca-Copia-1-copia-1" target="_blank" rel="noopener noreferrer">Clique aqui para mais informações</a>. | 6 – Descansa panela Maçã. <a href="https://www.xiquexiquebrasil.com.br/casa/Descansa-panela-Abacaxi-Copia-1-copia-1" target="_blank" rel="noopener noreferrer">Clique aqui para mais informações</a>. Todos eles são de sisal, e estão disponíveis online na loja virtual <strong>XiqueXique Brasil</strong>.</em>
 </p>
 
 <p align="justify">
@@ -105,7 +102,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

@@ -1,10 +1,7 @@
 ---
-id: 3481
 title: 'Agenda Recife com crianças: 05, 06 e 07 de Setembro.'
-date: 2015-09-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/09/04/recife-com-criancas-3/
 permalink: /2015/09/04/recife-com-criancas-3/
 categories:
   - Sem categoria
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/AGENDA-CULTURAL-RECIFE-CRIANÇAS.jpg"><img class="alignnone size-full wp-image-11341" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/AGENDA-CULTURAL-RECIFE-CRIANÇAS.jpg" alt="AGENDA CULTURAL - RECIFE -CRIANÇAS" width="800" height="529" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/AGENDA-CULTURAL-RECIFE-CRIANÇAS.jpg"><img class="alignnone size-full wp-image-11341" src="https://www.trololodemulher.com.br/2015/08/AGENDA-CULTURAL-RECIFE-CRIANÇAS.jpg" alt="AGENDA CULTURAL - RECIFE -CRIANÇAS" width="800" height="529" /></a>
 </p>
 
 <p align="justify">
@@ -22,11 +19,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-COM-CRIANCAS-05-06-07-SETEMBRO-20153.jpg"><img class="alignnone size-full wp-image-11425" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-COM-CRIANCAS-05-06-07-SETEMBRO-20153.jpg" alt="RECIFE COM CRIANCAS-05-06-07-SETEMBRO-2015[3]" width="612" height="612" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/RECIFE-COM-CRIANCAS-05-06-07-SETEMBRO-20153.jpg"><img class="alignnone size-full wp-image-11425" src="https://www.trololodemulher.com.br/2015/09/RECIFE-COM-CRIANCAS-05-06-07-SETEMBRO-20153.jpg" alt="RECIFE COM CRIANCAS-05-06-07-SETEMBRO-2015[3]" width="612" height="612" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-COM-CRIANCAS-05-06-07-SETEMBRO-20154.jpg"><img class="alignnone size-full wp-image-11426" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-COM-CRIANCAS-05-06-07-SETEMBRO-20154.jpg" alt="RECIFE COM CRIANCAS-05-06-07-SETEMBRO-2015[4]" width="612" height="612" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/RECIFE-COM-CRIANCAS-05-06-07-SETEMBRO-20154.jpg"><img class="alignnone size-full wp-image-11426" src="https://www.trololodemulher.com.br/2015/09/RECIFE-COM-CRIANCAS-05-06-07-SETEMBRO-20154.jpg" alt="RECIFE COM CRIANCAS-05-06-07-SETEMBRO-2015[4]" width="612" height="612" /></a>
 </p>
 
 <p align="justify">
@@ -38,7 +35,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-COM-CRIANCAS-05-06-07-SETEMBRO-20152.jpg"><img class="alignnone size-full wp-image-11424" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-COM-CRIANCAS-05-06-07-SETEMBRO-20152.jpg" alt="RECIFE COM CRIANCAS-05-06-07-SETEMBRO-2015[2]" width="800" height="640" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/RECIFE-COM-CRIANCAS-05-06-07-SETEMBRO-20152.jpg"><img class="alignnone size-full wp-image-11424" src="https://www.trololodemulher.com.br/2015/09/RECIFE-COM-CRIANCAS-05-06-07-SETEMBRO-20152.jpg" alt="RECIFE COM CRIANCAS-05-06-07-SETEMBRO-2015[2]" width="800" height="640" /></a>
 </p>
 
 <p align="justify">
@@ -54,17 +51,17 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-COM-CRIANCAS-05-06-07-SETEMBRO-2015.jpg"><img class="alignnone size-full wp-image-11423" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECIFE-COM-CRIANCAS-05-06-07-SETEMBRO-2015.jpg" alt="RECIFE COM CRIANCAS-05-06-07-SETEMBRO-2015" width="800" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/RECIFE-COM-CRIANCAS-05-06-07-SETEMBRO-2015.jpg"><img class="alignnone size-full wp-image-11423" src="https://www.trololodemulher.com.br/2015/09/RECIFE-COM-CRIANCAS-05-06-07-SETEMBRO-2015.jpg" alt="RECIFE COM CRIANCAS-05-06-07-SETEMBRO-2015" width="800" height="800" /></a>
 </p>
 
 <p align="justify">
   O castelo mais famoso do estado chegou no Taca! De 1 a 19 de setembro, peças do maior acervo do Brasil Holandês estarão expostas na nossa Praça de Eventos.
 </p>
 
-Quadros, esculturas, armaduras, armas brancas e muito mais. A exposição é gratuita. Mais informações, <a href="http://www.shoppingtacaruna.com.br/destaques/436" target="_blank">clique aqui</a>.
+Quadros, esculturas, armaduras, armas brancas e muito mais. A exposição é gratuita. Mais informações, <a href="http://www.shoppingtacaruna.com.br/destaques/436" target="_blank" rel="noopener noreferrer">clique aqui</a>.
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

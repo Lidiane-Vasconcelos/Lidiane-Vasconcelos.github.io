@@ -1,10 +1,7 @@
 ---
-id: 3188
 title: Todo mundo quer uma casa bonita e funcional, certo?
-date: 2012-09-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/09/20/loja-virtual-moveis-decoracao/
 permalink: /2012/09/20/loja-virtual-moveis-decoracao/
 categories:
   - Publieditorial
@@ -21,7 +18,7 @@ Isso nem é novidade! E se a busca pelos produtos ideais pudesse ser feita de ca
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/09/20/loja-virtual-moveis-decoracao/lojas-colombo/" rel="attachment wp-att-9153"><img class="alignnone size-full wp-image-9153" title="LOJAS COLOMBO" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/LOJAS-COLOMBO.png" width="600" height="93" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/09/20/loja-virtual-moveis-decoracao/lojas-colombo/" rel="attachment wp-att-9153"><img class="alignnone size-full wp-image-9153" title="LOJAS COLOMBO" alt="" src="https://www.trololodemulher.com.br/2012/09/LOJAS-COLOMBO.png" width="600" height="93" /></a>
 </p>
 
 &nbsp;
@@ -37,7 +34,7 @@ Isso nem é novidade! E se a busca pelos produtos ideais pudesse ser feita de ca
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/09/20/loja-virtual-moveis-decoracao/decoracao-quarto-criado-mudo/" rel="attachment wp-att-9149"><img class="alignnone size-full wp-image-9149" title="DECORACAO-QUARTO-CRIADO-MUDO" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/DECORACAO-QUARTO-CRIADO-MUDO.jpg" width="550" height="550" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/09/20/loja-virtual-moveis-decoracao/decoracao-quarto-criado-mudo/" rel="attachment wp-att-9149"><img class="alignnone size-full wp-image-9149" title="DECORACAO-QUARTO-CRIADO-MUDO" alt="" src="https://www.trololodemulher.com.br/2012/09/DECORACAO-QUARTO-CRIADO-MUDO.jpg" width="550" height="550" /></a>
 </p>
 
 &nbsp;
@@ -49,7 +46,7 @@ Isso nem é novidade! E se a busca pelos produtos ideais pudesse ser feita de ca
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/09/20/loja-virtual-moveis-decoracao/decoracao-quarto-puff-bau/" rel="attachment wp-att-9150"><img class="alignnone size-full wp-image-9150" title="DECORACAO-QUARTO-PUFF-BAU" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/DECORACAO-QUARTO-PUFF-BAU.jpg" width="550" height="550" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/09/20/loja-virtual-moveis-decoracao/decoracao-quarto-puff-bau/" rel="attachment wp-att-9150"><img class="alignnone size-full wp-image-9150" title="DECORACAO-QUARTO-PUFF-BAU" alt="" src="https://www.trololodemulher.com.br/2012/09/DECORACAO-QUARTO-PUFF-BAU.jpg" width="550" height="550" /></a>
 </p>
 
 &nbsp;

@@ -1,10 +1,7 @@
 ---
-id: 3087
 title: 'Resultado dos sorteios Bicha Fêmea &#038; Parceiros entre amigas!'
-date: 2011-12-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/12/02/sorteios-entre-amigas/
 permalink: /2011/12/02/sorteios-entre-amigas/
 categories:
   - Promoção
@@ -26,7 +23,7 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/ESPACO-HOME-ORGANIZACAO-DA-CASA-PURA-TENDENCIA-ORGANIZACAO-PESSOAL.png"><img class="alignnone size-full wp-image-8105" title="ESPACO HOME - ORGANIZACAO DA CASA - PURA TENDENCIA - ORGANIZACAO PESSOAL" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/ESPACO-HOME-ORGANIZACAO-DA-CASA-PURA-TENDENCIA-ORGANIZACAO-PESSOAL.png" alt="" width="600" height="207" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/10/ESPACO-HOME-ORGANIZACAO-DA-CASA-PURA-TENDENCIA-ORGANIZACAO-PESSOAL.png"><img class="alignnone size-full wp-image-8105" title="ESPACO HOME - ORGANIZACAO DA CASA - PURA TENDENCIA - ORGANIZACAO PESSOAL" src="https://www.trololodemulher.com.br/2011/10/ESPACO-HOME-ORGANIZACAO-DA-CASA-PURA-TENDENCIA-ORGANIZACAO-PESSOAL.png" alt="" width="600" height="207" /></a>
 </p>
 
 &nbsp;
@@ -38,19 +35,19 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/PAPEL-PERFUMADO-PARA-GAVETAS.jpg"><img class="alignnone size-full wp-image-8106" title="PAPEL PERFUMADO PARA GAVETAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/PAPEL-PERFUMADO-PARA-GAVETAS.jpg" alt="" width="600" height="453" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/10/PAPEL-PERFUMADO-PARA-GAVETAS.jpg"><img class="alignnone size-full wp-image-8106" title="PAPEL PERFUMADO PARA GAVETAS" src="https://www.trololodemulher.com.br/2011/10/PAPEL-PERFUMADO-PARA-GAVETAS.jpg" alt="" width="600" height="453" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/SUPORTE-INFLAVEL-PARA-BOTAS.jpg"><img class="alignnone size-full wp-image-8107" title="SUPORTE INFLAVEL PARA BOTAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/SUPORTE-INFLAVEL-PARA-BOTAS.jpg" alt="" width="482" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/10/SUPORTE-INFLAVEL-PARA-BOTAS.jpg"><img class="alignnone size-full wp-image-8107" title="SUPORTE INFLAVEL PARA BOTAS" src="https://www.trololodemulher.com.br/2011/10/SUPORTE-INFLAVEL-PARA-BOTAS.jpg" alt="" width="482" height="600" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/SUPORTE-INFLAVEL-PARA-BOTAS2.jpg"><img class="alignnone size-full wp-image-8108" title="SUPORTE INFLAVEL PARA BOTAS[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/SUPORTE-INFLAVEL-PARA-BOTAS2.jpg" alt="" width="400" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/10/SUPORTE-INFLAVEL-PARA-BOTAS2.jpg"><img class="alignnone size-full wp-image-8108" title="SUPORTE INFLAVEL PARA BOTAS[2]" src="https://www.trololodemulher.com.br/2011/10/SUPORTE-INFLAVEL-PARA-BOTAS2.jpg" alt="" width="400" height="600" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/SUPORTE-INFLAVEL-PARA-BOTAS3.jpg"><img class="alignnone size-full wp-image-8109" title="i" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/SUPORTE-INFLAVEL-PARA-BOTAS3.jpg" alt="" width="600" height="209" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/10/SUPORTE-INFLAVEL-PARA-BOTAS3.jpg"><img class="alignnone size-full wp-image-8109" title="i" src="https://www.trololodemulher.com.br/2011/10/SUPORTE-INFLAVEL-PARA-BOTAS3.jpg" alt="" width="600" height="209" /></a>
 </p>
 
 &nbsp;
@@ -68,7 +65,7 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/La-Pomme.png"><img class="alignnone size-full wp-image-8154" title="La Pomme" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/La-Pomme.png" alt="" width="467" height="168" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/La-Pomme.png"><img class="alignnone size-full wp-image-8154" title="La Pomme" src="https://www.trololodemulher.com.br/2011/11/La-Pomme.png" alt="" width="467" height="168" /></a>
 </p>
 
 &nbsp;
@@ -78,11 +75,11 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/ECOBAG.jpg"><img class="alignnone size-full wp-image-8153" title="ECOBAG" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/ECOBAG.jpg" alt="" width="500" height="500" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/ECOBAG.jpg"><img class="alignnone size-full wp-image-8153" title="ECOBAG" src="https://www.trololodemulher.com.br/2011/11/ECOBAG.jpg" alt="" width="500" height="500" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/CADERNETA.jpg"><img class="alignnone size-full wp-image-8152" title="CADERNETA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/CADERNETA.jpg" alt="" width="500" height="500" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/CADERNETA.jpg"><img class="alignnone size-full wp-image-8152" title="CADERNETA" src="https://www.trololodemulher.com.br/2011/11/CADERNETA.jpg" alt="" width="500" height="500" /></a>
 </p>
 
 &nbsp;
@@ -100,7 +97,7 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Casa-da-Claudia.png"><img class="alignnone size-full wp-image-8188" title="Casa da Claudia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Casa-da-Claudia.png" alt="" width="529" height="95" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/Casa-da-Claudia.png"><img class="alignnone size-full wp-image-8188" title="Casa da Claudia" src="https://www.trololodemulher.com.br/2011/11/Casa-da-Claudia.png" alt="" width="529" height="95" /></a>
 </p>
 
 &nbsp;
@@ -112,7 +109,7 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/TERRINA-SOPEIRA-PRATO-LOUCA-BOLINHA-POA.jpg"><img class="alignnone size-full wp-image-8189" title="TERRINA SOPEIRA PRATO LOUCA BOLINHA POA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/TERRINA-SOPEIRA-PRATO-LOUCA-BOLINHA-POA.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/TERRINA-SOPEIRA-PRATO-LOUCA-BOLINHA-POA.jpg"><img class="alignnone size-full wp-image-8189" title="TERRINA SOPEIRA PRATO LOUCA BOLINHA POA" src="https://www.trololodemulher.com.br/2011/11/TERRINA-SOPEIRA-PRATO-LOUCA-BOLINHA-POA.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -130,7 +127,7 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/PERSONAL-BUYERS.png"><img class="alignnone size-full wp-image-8243" title="PERSONAL BUYERS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/PERSONAL-BUYERS.png" alt="" width="600" height="295" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/PERSONAL-BUYERS.png"><img class="alignnone size-full wp-image-8243" title="PERSONAL BUYERS" src="https://www.trololodemulher.com.br/2011/11/PERSONAL-BUYERS.png" alt="" width="600" height="295" /></a>
 </p>
 
 &nbsp;
@@ -142,7 +139,7 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Cd-e-creme-relaxantes.jpg"><img class="alignnone size-full wp-image-8242" title="SAMSUNG" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Cd-e-creme-relaxantes.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/Cd-e-creme-relaxantes.jpg"><img class="alignnone size-full wp-image-8242" title="SAMSUNG" src="https://www.trololodemulher.com.br/2011/11/Cd-e-creme-relaxantes.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -185,13 +182,13 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="http://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     

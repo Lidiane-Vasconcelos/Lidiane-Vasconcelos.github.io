@@ -1,10 +1,7 @@
 ---
-id: 3857
 title: Por que você precisa ter uma rotina doméstica?
-date: 2018-04-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2018/04/02/rotina-domestica-4/
 permalink: /2018/04/02/rotina-domestica-4/
 categories:
   - Comportamento
@@ -13,7 +10,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Desde o início do meu trabalho compartilhando as melhores práticas de gestão da <strong>rotina doméstica</strong>, em Outubro de 2017, através do <strong><a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Projeto Lar Bonito Lar</a></strong>, tenho ouvido mulheres que relatam sempre o mesmo problema: não conseguem se organizar para estabelecer uma rotina, devido a tantas atribuições no cotidiano.
+  Desde o início do meu trabalho compartilhando as melhores práticas de gestão da <strong>rotina doméstica</strong>, em Outubro de 2017, através do <strong><a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank" rel="noopener noreferrer">Projeto Lar Bonito Lar</a></strong>, tenho ouvido mulheres que relatam sempre o mesmo problema: não conseguem se organizar para estabelecer uma rotina, devido a tantas atribuições no cotidiano.
 </p>
 
 <p align="justify">
@@ -29,7 +26,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14592" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/04/ROTINA-DOMESTICA-GESTAO-DO-TEMPO-ORGANIZACAO-PESSOAL-PRODUTIVIDADE.jpg" alt="ROTINA DOMESTICA-GESTAO DO TEMPO-ORGANIZACAO PESSOAL-PRODUTIVIDADE" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14592" src="https://www.trololodemulher.com.br/2018/04/ROTINA-DOMESTICA-GESTAO-DO-TEMPO-ORGANIZACAO-PESSOAL-PRODUTIVIDADE.jpg" alt="ROTINA DOMESTICA-GESTAO DO TEMPO-ORGANIZACAO PESSOAL-PRODUTIVIDADE" width="800" height="800" />
 </p>
 
 <p align="justify">
@@ -49,7 +46,7 @@ categories:
 </p>
 
 <p align="justify">
-  Caso você queira aprender, passo a passo, a gerenciar sua casa com as melhores práticas na rotina doméstica, estou com inscrições abertas para o <strong>Projeto Lar Bonito Lar</strong>. A vivência começará dia 09 de Abril, e acontecerá num grupo vip de WhatsApp, com no máximo 15 mulheres. <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank"><strong>Saiba mais sobre o projeto clicando aqui</strong></a>, ou entre em contato comigo pelo <strong>WhatsApp 81 9 9530-7307</strong>. As <strong>inscrições vão até a Sexta, dia 06, ou até que acabem as vagas</strong>, que são limitadas!
+  Caso você queira aprender, passo a passo, a gerenciar sua casa com as melhores práticas na rotina doméstica, estou com inscrições abertas para o <strong>Projeto Lar Bonito Lar</strong>. A vivência começará dia 09 de Abril, e acontecerá num grupo vip de WhatsApp, com no máximo 15 mulheres. <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank" rel="noopener noreferrer"><strong>Saiba mais sobre o projeto clicando aqui</strong></a>, ou entre em contato comigo pelo <strong>WhatsApp 81 9 9530-7307</strong>. As <strong>inscrições vão até a Sexta, dia 06, ou até que acabem as vagas</strong>, que são limitadas!
 </p>
 
 <p align="justify">
@@ -61,9 +58,9 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/"><img class="wp-image-14554 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/02/PROJETO-LAR-BONITO-LAR-RODAPÉ2.jpg" alt="PROJETO LAR BONITO LAR-RODAPÉ[2]" width="565" height="149" /></a>
+  <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/"><img class="wp-image-14554 size-full" src="https://www.trololodemulher.com.br/2018/02/PROJETO-LAR-BONITO-LAR-RODAPÉ2.jpg" alt="PROJETO LAR BONITO LAR-RODAPÉ[2]" width="565" height="149" /></a>
 </p>

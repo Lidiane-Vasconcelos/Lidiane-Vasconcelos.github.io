@@ -1,15 +1,12 @@
 ---
-id: 2900
 title: Parceria Espaço Home no Aniversário do Bicha Fêmea!
-date: 2010-11-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/11/01/parceria-espaco-home/
 permalink: /2010/11/01/parceria-espaco-home/
 categories:
   - Publieditorial
 ---
-Você já deve conhecer a <a href="http://www.espacohome.com.br/" target="_blank">Espaço Home</a>, não é? Pelo menos no Bicha Fêmea a presença dessa empresa super parceira tem sido algo constante. Através dela algumas bichas fêmeas navegantes já tiveram a chance de ter a casa um pouco mais organizada, e com estilo. Justo agora não seria diferente…
+Você já deve conhecer a <a href="http://www.espacohome.com.br/" target="_blank" rel="noopener noreferrer">Espaço Home</a>, não é? Pelo menos no Bicha Fêmea a presença dessa empresa super parceira tem sido algo constante. Através dela algumas bichas fêmeas navegantes já tiveram a chance de ter a casa um pouco mais organizada, e com estilo. Justo agora não seria diferente…
 
 <!--more-->
 
@@ -18,7 +15,7 @@ Você já deve conhecer a <a href="http://www.espacohome.com.br/" target="_blank
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Toalhas-Lavabo-Finger-003.jpg"><img class="alignnone size-full wp-image-5367" title="Toalhas Lavabo Finger 003" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Toalhas-Lavabo-Finger-003.jpg" alt="" width="648" height="486" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/Toalhas-Lavabo-Finger-003.jpg"><img class="alignnone size-full wp-image-5367" title="Toalhas Lavabo Finger 003" src="https://www.trololodemulher.com.br/2010/10/Toalhas-Lavabo-Finger-003.jpg" alt="" width="648" height="486" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -26,7 +23,7 @@ Você já deve conhecer a <a href="http://www.espacohome.com.br/" target="_blank
 </p>
 
 <p style="text-align: justify;">
-  Lá na Espaço Home, que também está festejando aniversário, mais duas toalhas de lavabo, porém com estampas diferentes, estão sendo sorteadas. Suas chances são dobradas, e para saber como ganhar basta dar um passadinha no <a href="http://newsespacohome.blogspot.com/2010/11/aniversario-do-espaco-home-sorteio.html" target="_blank">blog da Espaço Home</a>.
+  Lá na Espaço Home, que também está festejando aniversário, mais duas toalhas de lavabo, porém com estampas diferentes, estão sendo sorteadas. Suas chances são dobradas, e para saber como ganhar basta dar um passadinha no <a href="http://newsespacohome.blogspot.com/2010/11/aniversario-do-espaco-home-sorteio.html" target="_blank" rel="noopener noreferrer">blog da Espaço Home</a>.
 </p>
 
 <p style="text-align: justify;">

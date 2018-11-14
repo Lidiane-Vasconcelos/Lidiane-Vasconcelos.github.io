@@ -1,10 +1,7 @@
 ---
-id: 3240
 title: 'Tomar líquido durante a refeição faz a barriga crescer: verdade ou mentira?'
-date: 2013-07-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/07/15/saude-alimentacao/
 permalink: /2013/07/15/saude-alimentacao/
 categories:
   - Saúde
@@ -20,7 +17,7 @@ Essa dúvida, e mais tantas outras, permeiam a cabeça de muitos. O senso comum 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SAUDE-ALIMENTACAO-BANANA.png"><img class="alignnone size-full wp-image-9580" alt="SAUDE-ALIMENTACAO-BANANA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SAUDE-ALIMENTACAO-BANANA.png" width="515" height="256" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/06/SAUDE-ALIMENTACAO-BANANA.png"><img class="alignnone size-full wp-image-9580" alt="SAUDE-ALIMENTACAO-BANANA" src="https://www.trololodemulher.com.br/2013/06/SAUDE-ALIMENTACAO-BANANA.png" width="515" height="256" /></a>
 </p>
 
 <p align="center">
@@ -34,7 +31,7 @@ Essa dúvida, e mais tantas outras, permeiam a cabeça de muitos. O senso comum 
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/DUVIDA-SAUDE-ALIMENTAÇÃO.jpg"><img class="alignnone size-full wp-image-9576" alt="DUVIDA-SAUDE-ALIMENTAÇÃO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/DUVIDA-SAUDE-ALIMENTAÇÃO.jpg" width="461" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/06/DUVIDA-SAUDE-ALIMENTAÇÃO.jpg"><img class="alignnone size-full wp-image-9576" alt="DUVIDA-SAUDE-ALIMENTAÇÃO" src="https://www.trololodemulher.com.br/2013/06/DUVIDA-SAUDE-ALIMENTAÇÃO.jpg" width="461" height="600" /></a>
 </p>
 
 &nbsp;
@@ -54,7 +51,7 @@ Essa dúvida, e mais tantas outras, permeiam a cabeça de muitos. O senso comum 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SAUDE-ALIMENTACAO-CARNE-PORCO.png"><img class="alignnone size-full wp-image-9581" alt="SAUDE-ALIMENTACAO-CARNE-PORCO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SAUDE-ALIMENTACAO-CARNE-PORCO.png" width="522" height="252" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/06/SAUDE-ALIMENTACAO-CARNE-PORCO.png"><img class="alignnone size-full wp-image-9581" alt="SAUDE-ALIMENTACAO-CARNE-PORCO" src="https://www.trololodemulher.com.br/2013/06/SAUDE-ALIMENTACAO-CARNE-PORCO.png" width="522" height="252" /></a>
 </p>
 
 <p align="center">
@@ -68,17 +65,17 @@ Essa dúvida, e mais tantas outras, permeiam a cabeça de muitos. O senso comum 
 </p>
 
 <p align="justify">
-  Imagens:<em> <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong></em>
+  Imagens:<em> <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></strong></em>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/NUTRICIONISTA-INGRID-SEILER-PRIOR-SANTOS.png"><img class="alignnone size-full wp-image-9579" alt="NUTRICIONISTA-INGRID SEILER PRIOR-SANTOS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/NUTRICIONISTA-INGRID-SEILER-PRIOR-SANTOS.png" width="520" height="287" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/06/NUTRICIONISTA-INGRID-SEILER-PRIOR-SANTOS.png"><img class="alignnone size-full wp-image-9579" alt="NUTRICIONISTA-INGRID SEILER PRIOR-SANTOS" src="https://www.trololodemulher.com.br/2013/06/NUTRICIONISTA-INGRID-SEILER-PRIOR-SANTOS.png" width="520" height="287" /></a>
 </p>
 
 <p align="justify">
-  Bonita, a <strong>Dra. Ingrid</strong> também é blogueira, sabia? Pois é… se você é daquelas bichas fêmeas navegantes que amam estar bem informadas sobre saúde e bem-estar, pode passar a acompanhar suas atualizações em <a href="http://www.nutricionistaingrid.com.br/" target="_blank"><strong>seu blog clicando bem aqui</strong></a>. Além do mais, dá para acompanhar ainda mais dicas da <strong>Dra. Ingrid</strong>pelo<strong>Facebook</strong>, através de sua <strong><em><a href="http://www.facebook.com/nutri.ingrid.prior" target="_blank">fanpage</a></em></strong>. Vai perder?
+  Bonita, a <strong>Dra. Ingrid</strong> também é blogueira, sabia? Pois é… se você é daquelas bichas fêmeas navegantes que amam estar bem informadas sobre saúde e bem-estar, pode passar a acompanhar suas atualizações em <a href="http://www.nutricionistaingrid.com.br/" target="_blank" rel="noopener noreferrer"><strong>seu blog clicando bem aqui</strong></a>. Além do mais, dá para acompanhar ainda mais dicas da <strong>Dra. Ingrid</strong>pelo<strong>Facebook</strong>, através de sua <strong><em><a href="http://www.facebook.com/nutri.ingrid.prior" target="_blank" rel="noopener noreferrer">fanpage</a></em></strong>. Vai perder?
 </p>
 
 <p align="center">
@@ -86,7 +83,7 @@ Essa dúvida, e mais tantas outras, permeiam a cabeça de muitos. O senso comum 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -101,13 +98,13 @@ Essa dúvida, e mais tantas outras, permeiam a cabeça de muitos. O senso comum 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

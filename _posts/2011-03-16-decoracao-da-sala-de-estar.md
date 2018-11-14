@@ -1,10 +1,7 @@
 ---
-id: 2972
 title: 'Decoração da sala de estar: cores e combinações.'
-date: 2011-03-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/03/16/decoracao-da-sala-de-estar/
 permalink: /2011/03/16/decoracao-da-sala-de-estar/
 categories:
   - Salas
@@ -22,7 +19,7 @@ As dúvidas sobre quais cores usar na **decoração da sala**, levando em consid
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-sala.jpg"><img class="alignnone size-full wp-image-6159" title="decoração sala" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-sala.jpg" alt="" width="300" height="225" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-sala.jpg"><img class="alignnone size-full wp-image-6159" title="decoração sala" src="https://www.trololodemulher.com.br/2011/03/decoracao-sala.jpg" alt="" width="300" height="225" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -38,15 +35,15 @@ As dúvidas sobre quais cores usar na **decoração da sala**, levando em consid
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="200" valign="top">
-      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200.jpg"><img class="alignnone size-thumbnail wp-image-5442" title="Caixa Moa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank">Caixa Moa</a></strong>
+      <strong><a href="https://www.trololodemulher.com.br/2010/11/Caixa-Moa200.jpg"><img class="alignnone size-thumbnail wp-image-5442" title="Caixa Moa200" src="https://www.trololodemulher.com.br/2010/11/Caixa-Moa200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank" rel="noopener noreferrer">Caixa Moa</a></strong>
     </td>
     
     <td style="text-align: center;" width="200" valign="top">
-      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Regador-Provencal200.jpg"><img class="alignnone size-thumbnail wp-image-5441" title="Regador Provençal200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Regador-Provencal200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank">Regador Provençal</a></strong>
+      <strong><a href="https://www.trololodemulher.com.br/2010/11/Regador-Provencal200.jpg"><img class="alignnone size-thumbnail wp-image-5441" title="Regador Provençal200" src="https://www.trololodemulher.com.br/2010/11/Regador-Provencal200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank" rel="noopener noreferrer">Regador Provençal</a></strong>
     </td>
     
     <td style="text-align: center;" width="200" valign="top">
-      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Espelho-Provencal200.jpg"><img class="alignnone size-thumbnail wp-image-5409" title="Espelho Provençal200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Espelho-Provencal200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/" target="_blank">Espelho Provençal</a></strong>
+      <strong><a href="https://www.trololodemulher.com.br/2010/11/Espelho-Provencal200.jpg"><img class="alignnone size-thumbnail wp-image-5409" title="Espelho Provençal200" src="https://www.trololodemulher.com.br/2010/11/Espelho-Provencal200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/" target="_blank" rel="noopener noreferrer">Espelho Provençal</a></strong>
     </td>
   </tr>
 </table>
@@ -60,11 +57,11 @@ As dúvidas sobre quais cores usar na **decoração da sala**, levando em consid
 </p>
 
 <p style="text-align: justify;">
-  Repare em itens como o <em>abajour</em>, o vaso sobre a mesa de centro de sala ou a bomboniere antiga sobre o bufê. Pensa que é difícil achar essas coisas? Nem tanto! Olha só o que a <strong>Margaret</strong>, do blog <strong><a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a></strong>, conseguiu achar:
+  Repare em itens como o <em>abajour</em>, o vaso sobre a mesa de centro de sala ou a bomboniere antiga sobre o bufê. Pensa que é difícil achar essas coisas? Nem tanto! Olha só o que a <strong>Margaret</strong>, do blog <strong><a href="http://www.margaretss.com.br/" target="_blank" rel="noopener noreferrer">Margaretss</a></strong>, conseguiu achar:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/aparelho-telefone-antiguidade.jpg"><img class="alignnone size-full wp-image-6158" title="aparelho telefone - antiguidade" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/aparelho-telefone-antiguidade.jpg" alt="" width="538" height="432" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/aparelho-telefone-antiguidade.jpg"><img class="alignnone size-full wp-image-6158" title="aparelho telefone - antiguidade" src="https://www.trololodemulher.com.br/2011/03/aparelho-telefone-antiguidade.jpg" alt="" width="538" height="432" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -80,7 +77,7 @@ As dúvidas sobre quais cores usar na **decoração da sala**, levando em consid
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-sala1.jpg"><img class="alignnone size-full wp-image-6160" title="decoração sala[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-sala1.jpg" alt="" width="300" height="245" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-sala1.jpg"><img class="alignnone size-full wp-image-6160" title="decoração sala[1]" src="https://www.trololodemulher.com.br/2011/03/decoracao-sala1.jpg" alt="" width="300" height="245" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -96,11 +93,11 @@ As dúvidas sobre quais cores usar na **decoração da sala**, levando em consid
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Telas-Mediterraneo200.jpg"><img class="alignnone size-full wp-image-5564" title="Telas Mediterrâneo200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Telas-Mediterraneo200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank">Telas Mediterrâneo</a></strong>
+      <strong><a href="https://www.trololodemulher.com.br/2010/12/Telas-Mediterraneo200.jpg"><img class="alignnone size-full wp-image-5564" title="Telas Mediterrâneo200" src="https://www.trololodemulher.com.br/2010/12/Telas-Mediterraneo200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank" rel="noopener noreferrer">Telas Mediterrâneo</a></strong>
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Porta-Controle-Remoto-Primavera200.jpg"><img class="alignnone size-full wp-image-5624" title="Porta Controle Remoto Primavera200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Porta-Controle-Remoto-Primavera200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/porta-controle-remoto-primavera/" target="_blank">Porta Controle Remoto Primavera</a></strong>
+      <strong><a href="https://www.trololodemulher.com.br/2010/12/Porta-Controle-Remoto-Primavera200.jpg"><img class="alignnone size-full wp-image-5624" title="Porta Controle Remoto Primavera200" src="https://www.trololodemulher.com.br/2010/12/Porta-Controle-Remoto-Primavera200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/porta-controle-remoto-primavera/" target="_blank" rel="noopener noreferrer">Porta Controle Remoto Primavera</a></strong>
     </td>
   </tr>
 </table>
@@ -114,7 +111,7 @@ As dúvidas sobre quais cores usar na **decoração da sala**, levando em consid
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-sala2.jpg"><img class="alignnone size-full wp-image-6161" title="decoração sala[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-sala2.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-sala2.jpg"><img class="alignnone size-full wp-image-6161" title="decoração sala[2]" src="https://www.trololodemulher.com.br/2011/03/decoracao-sala2.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -126,7 +123,7 @@ As dúvidas sobre quais cores usar na **decoração da sala**, levando em consid
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Divino-Rosas-Medias1.jpg"><img class="alignnone size-full wp-image-6166" title="Divino Rosas Médias[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Divino-Rosas-Medias1.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-divino-rosas-medias/" target="_blank">Quadro Divino Rosas Médias</a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/03/Divino-Rosas-Medias1.jpg"><img class="alignnone size-full wp-image-6166" title="Divino Rosas Médias[1]" src="https://www.trololodemulher.com.br/2011/03/Divino-Rosas-Medias1.jpg" alt="" width="600" height="400" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-divino-rosas-medias/" target="_blank" rel="noopener noreferrer">Quadro Divino Rosas Médias</a></strong>
 </p>
 
 <p style="text-align: center;">
@@ -138,7 +135,7 @@ As dúvidas sobre quais cores usar na **decoração da sala**, levando em consid
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-sala3.jpg"><img class="alignnone size-full wp-image-6164" title="decoração sala[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-sala3.jpg" alt="" width="300" height="247" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-sala3.jpg"><img class="alignnone size-full wp-image-6164" title="decoração sala[3]" src="https://www.trololodemulher.com.br/2011/03/decoracao-sala3.jpg" alt="" width="300" height="247" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -146,15 +143,15 @@ As dúvidas sobre quais cores usar na **decoração da sala**, levando em consid
 </p>
 
 <p style="text-align: justify;">
-  A propósito, você viu como a<strong> Ruby</strong>, do blog <a href="http://meucantominhaprosa.blogspot.com/" target="_blank"><strong>Meu Canto, Minha Prosa</strong></a>, deixou as pequenas cúpulas de uma luminária de teto lindamente personalizadas com juta?
+  A propósito, você viu como a<strong> Ruby</strong>, do blog <a href="http://meucantominhaprosa.blogspot.com/" target="_blank" rel="noopener noreferrer"><strong>Meu Canto, Minha Prosa</strong></a>, deixou as pequenas cúpulas de uma luminária de teto lindamente personalizadas com juta?
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Lustre-com-cupula-forrado-com-juta.jpg"><img class="alignnone size-full wp-image-6167" title="Lustre com cúpula forrado com juta" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Lustre-com-cupula-forrado-com-juta.jpg" alt="" width="400" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/Lustre-com-cupula-forrado-com-juta.jpg"><img class="alignnone size-full wp-image-6167" title="Lustre com cúpula forrado com juta" src="https://www.trololodemulher.com.br/2011/03/Lustre-com-cupula-forrado-com-juta.jpg" alt="" width="400" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
-  O resultado final deixa o acessório com detalhes na cor que combina com essa proposta de inserir o bege num ambiente branco, como o da imagem para  inspiração. Quer aprender a fazer também? A Ruby deu o PAP <strong><a href="http://meucantominhaprosa.blogspot.com/2011/02/lustre-fofo.html" target="_blank">neste post</a></strong>. Arrisque-se!
+  O resultado final deixa o acessório com detalhes na cor que combina com essa proposta de inserir o bege num ambiente branco, como o da imagem para  inspiração. Quer aprender a fazer também? A Ruby deu o PAP <strong><a href="http://meucantominhaprosa.blogspot.com/2011/02/lustre-fofo.html" target="_blank" rel="noopener noreferrer">neste post</a></strong>. Arrisque-se!
 </p>
 
 <p style="text-align: center;">
@@ -162,7 +159,7 @@ As dúvidas sobre quais cores usar na **decoração da sala**, levando em consid
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-sala4.jpg"><img class="alignnone size-full wp-image-6165" title="decoração sala[4]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-sala4.jpg" alt="" width="300" height="411" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-sala4.jpg"><img class="alignnone size-full wp-image-6165" title="decoração sala[4]" src="https://www.trololodemulher.com.br/2011/03/decoracao-sala4.jpg" alt="" width="300" height="411" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -174,10 +171,10 @@ As dúvidas sobre quais cores usar na **decoração da sala**, levando em consid
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Quadro-Cenario-Safari1.jpg"><img class="alignnone size-full wp-image-6168" title="Quadro Cenário Safári[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Quadro-Cenario-Safari1.jpg" alt="" width="518" height="346" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/quadro-cenario-safari/" target="_blank">Quadro Cenário Safári</a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/03/Quadro-Cenario-Safari1.jpg"><img class="alignnone size-full wp-image-6168" title="Quadro Cenário Safári[1]" src="https://www.trololodemulher.com.br/2011/03/Quadro-Cenario-Safari1.jpg" alt="" width="518" height="346" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/quadro-cenario-safari/" target="_blank" rel="noopener noreferrer">Quadro Cenário Safári</a></strong>
 </p>
 
-Imagens: <a href="http://www.bhg.com/" target="_blank"><em><strong>Better Homes and Gardens</strong></em></a>
+Imagens: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer"><em><strong>Better Homes and Gardens</strong></em></a>
 
 **Mais no Bicha Fêmea…**
 

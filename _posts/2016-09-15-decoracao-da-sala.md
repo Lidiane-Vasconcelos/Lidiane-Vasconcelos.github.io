@@ -1,10 +1,7 @@
 ---
-id: 3663
 title: 'Cômoda repaginada na decoração da sala: inspire-se!'
-date: 2016-09-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/09/15/decoracao-da-sala/
 permalink: /2016/09/15/decoracao-da-sala/
 categories:
   - Casa
@@ -28,7 +25,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12925" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/DECORACAO-FACA-VOCE-MESMA-SALA-MOVEIS.jpg" alt="decoracao-faca-voce-mesma-sala-moveis" width="600" height="600" />
+  <img class="alignnone size-full wp-image-12925" src="https://www.trololodemulher.com.br/2016/09/DECORACAO-FACA-VOCE-MESMA-SALA-MOVEIS.jpg" alt="decoracao-faca-voce-mesma-sala-moveis" width="600" height="600" />
 </p>
 
 &nbsp;
@@ -40,7 +37,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12926" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/DECORACAO-FACA-VOCE-MESMA-SALA-MOVEIS2.jpg" alt="decoracao-faca-voce-mesma-sala-moveis2" width="600" height="600" />
+  <img class="alignnone size-full wp-image-12926" src="https://www.trololodemulher.com.br/2016/09/DECORACAO-FACA-VOCE-MESMA-SALA-MOVEIS2.jpg" alt="decoracao-faca-voce-mesma-sala-moveis2" width="600" height="600" />
 </p>
 
 &nbsp;
@@ -52,7 +49,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12927" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/DECORACAO-FACA-VOCE-MESMA-SALA-MOVEIS3.jpg" alt="decoracao-faca-voce-mesma-sala-moveis3" width="600" height="600" />
+  <img class="alignnone size-full wp-image-12927" src="https://www.trololodemulher.com.br/2016/09/DECORACAO-FACA-VOCE-MESMA-SALA-MOVEIS3.jpg" alt="decoracao-faca-voce-mesma-sala-moveis3" width="600" height="600" />
 </p>
 
 &nbsp;
@@ -64,7 +61,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12928" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/DECORACAO-FACA-VOCE-MESMA-SALA-MOVEIS4.jpg" alt="decoracao-faca-voce-mesma-sala-moveis4" width="600" height="600" />
+  <img class="alignnone size-full wp-image-12928" src="https://www.trololodemulher.com.br/2016/09/DECORACAO-FACA-VOCE-MESMA-SALA-MOVEIS4.jpg" alt="decoracao-faca-voce-mesma-sala-moveis4" width="600" height="600" />
 </p>
 
 &nbsp;
@@ -76,7 +73,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12929" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/DECORACAO-FACA-VOCE-MESMA-SALA-MOVEIS5.jpg" alt="decoracao-faca-voce-mesma-sala-moveis5" width="600" height="600" />
+  <img class="alignnone size-full wp-image-12929" src="https://www.trololodemulher.com.br/2016/09/DECORACAO-FACA-VOCE-MESMA-SALA-MOVEIS5.jpg" alt="decoracao-faca-voce-mesma-sala-moveis5" width="600" height="600" />
 </p>
 
 &nbsp;
@@ -86,11 +83,11 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  E você deve estar se perguntando: onde eu acompanho mais dos feitos, invenções, devaneios e realizações dessa mulher? Pois eu te conto: é no <strong><a href="http://mamatraca.com.br/" target="_blank">Mamatraca</a></strong>, blog que eu acompanho, com altas doses de maternidade consciente. Há muito o que ver no blog dessa moça bonita, <em>viu</em>? Vai por mim, se joga!
+  E você deve estar se perguntando: onde eu acompanho mais dos feitos, invenções, devaneios e realizações dessa mulher? Pois eu te conto: é no <strong><a href="http://mamatraca.com.br/" target="_blank" rel="noopener noreferrer">Mamatraca</a></strong>, blog que eu acompanho, com altas doses de maternidade consciente. Há muito o que ver no blog dessa moça bonita, <em>viu</em>? Vai por mim, se joga!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

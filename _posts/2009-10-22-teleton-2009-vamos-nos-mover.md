@@ -1,15 +1,12 @@
 ---
-id: 2720
 title: TELETON 2009 – Vamos Nos Mover?
-date: 2009-10-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/10/22/teleton-2009-vamos-nos-mover/
 permalink: /2009/10/22/teleton-2009-vamos-nos-mover/
 categories:
   - Social
 ---
-[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="CABA0MNZCAU1D570CA4BE1SCCA00MCYXCALI57ALCA5JU82XCAB5CDMVCAI0LBSUCAUAFY50CA95PZRFCAPTUQRDCA147OCXCA235UETCALDZ10ACAHCU3GYCAQE4069CANG30CZCAD1DG1TCADF27LXCAP6AK46" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/caba0mnzcau1d570ca4be1scca00mcyxcali57alca5ju82xcab5cdmvcai0lbsucauafy50ca95pzrfcaptuqrdca147ocx1.jpg" border="0" alt="CABA0MNZCAU1D570CA4BE1SCCA00MCYXCALI57ALCA5JU82XCAB5CDMVCAI0LBSUCAUAFY50CA95PZRFCAPTUQRDCA147OCXCA235UETCALDZ10ACAHCU3GYCAQE4069CANG30CZCAD1DG1TCADF27LXCAP6AK46" width="150" height="89" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/caba0mnzcau1d570ca4be1scca00mcyxcali57alca5ju82xcab5cdmvcai0lbsucauafy50ca95pzrfcaptuqrdca147ocx.jpg) Então vamos _né_, bonita?!
+[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="CABA0MNZCAU1D570CA4BE1SCCA00MCYXCALI57ALCA5JU82XCAB5CDMVCAI0LBSUCAUAFY50CA95PZRFCAPTUQRDCA147OCXCA235UETCALDZ10ACAHCU3GYCAQE4069CANG30CZCAD1DG1TCADF27LXCAP6AK46" src="https://www.trololodemulher.com.br/2009/10/caba0mnzcau1d570ca4be1scca00mcyxcali57alca5ju82xcab5cdmvcai0lbsucauafy50ca95pzrfcaptuqrdca147ocx1.jpg" border="0" alt="CABA0MNZCAU1D570CA4BE1SCCA00MCYXCALI57ALCA5JU82XCAB5CDMVCAI0LBSUCAUAFY50CA95PZRFCAPTUQRDCA147OCXCA235UETCALDZ10ACAHCU3GYCAQE4069CANG30CZCAD1DG1TCADF27LXCAP6AK46" width="150" height="89" align="right" />](https://www.trololodemulher.com.br/2009/10/caba0mnzcau1d570ca4be1scca00mcyxcali57alca5ju82xcab5cdmvcai0lbsucauafy50ca95pzrfcaptuqrdca147ocx.jpg) Então vamos _né_, bonita?!
 
 Deixa eu te contar o que houve esta semana. Eu recebi o _release_ a respeito da campanha do TELETON 2009. É, isso mesmo! É aquele programa que acontece ao vivo na TV e que busca arrecadar fundos para a AACD. Então eu estou aqui, ajudando a divulgar o programa porque eu acredito na causa e acho que vale a pena. Quem tem algum tipo de deficiência merece, sim, respeito e oportunidades de se ter uma vida melhor, com mais qualidade.
 

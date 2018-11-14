@@ -1,10 +1,7 @@
 ---
-id: 2940
 title: 3 ambientes inspiradores para sua sala de jantar. Comprove!
-date: 2011-01-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/01/28/ambientes-sala-de-jantar/
 permalink: /2011/01/28/ambientes-sala-de-jantar/
 categories:
   - Salas
@@ -22,7 +19,7 @@ Vai mudar a decoração de sua sala de jantar, ou ainda vai montar uma, e precis
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/sala-e-mesa-de-jantar.jpg"><img class="alignnone size-full wp-image-5769" title="sala e mesa de jantar" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/sala-e-mesa-de-jantar.jpg" alt="" width="616" height="462" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/sala-e-mesa-de-jantar.jpg"><img class="alignnone size-full wp-image-5769" title="sala e mesa de jantar" src="https://www.trololodemulher.com.br/2011/01/sala-e-mesa-de-jantar.jpg" alt="" width="616" height="462" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -38,7 +35,7 @@ Vai mudar a decoração de sua sala de jantar, ou ainda vai montar uma, e precis
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/sala-e-mesa-de-jantar2.jpg"><img class="alignnone size-full wp-image-5770" title="sala e mesa de jantar2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/sala-e-mesa-de-jantar2.jpg" alt="" width="616" height="821" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/sala-e-mesa-de-jantar2.jpg"><img class="alignnone size-full wp-image-5770" title="sala e mesa de jantar2" src="https://www.trololodemulher.com.br/2011/01/sala-e-mesa-de-jantar2.jpg" alt="" width="616" height="821" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -54,14 +51,14 @@ Vai mudar a decoração de sua sala de jantar, ou ainda vai montar uma, e precis
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/sala-e-mesa-de-jantar-3.jpg"><img class="alignnone size-full wp-image-5773" title="sala e mesa de jantar 3" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/sala-e-mesa-de-jantar-3.jpg" alt="" width="616" height="462" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/sala-e-mesa-de-jantar-3.jpg"><img class="alignnone size-full wp-image-5773" title="sala e mesa de jantar 3" src="https://www.trololodemulher.com.br/2011/01/sala-e-mesa-de-jantar-3.jpg" alt="" width="616" height="462" /></a>
 </p>
 
 <p style="text-align: justify;">
   …não abra mão delas, ora! Inspire-se no amarelo das paredes e azul que cobre as almofadas sobre as cadeiras, e veja que a combinação pode dar muito certo, sim! Não fica bonito? E fica com cara de Verão! É disso que uma bicha fêmea de alma solar e florida como você precisa? Então se joga!
 </p>
 
-Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+Imagens: <a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer">HGTV</a>
 
 **_Mais no Bicha Fêmea…_**
 

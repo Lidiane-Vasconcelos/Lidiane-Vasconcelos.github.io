@@ -1,10 +1,7 @@
 ---
-id: 2942
 title: Perca peso com bom senso
-date: 2011-01-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/01/31/perca-peso-com-bom-senso/
 permalink: /2011/01/31/perca-peso-com-bom-senso/
 categories:
   - Comportamento
@@ -28,7 +25,7 @@ Qualquer processo de emagrecimento exige mudanças, principalmente na alimentaç
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/reeducacao-alimentar.jpg"><img class="alignnone size-full wp-image-5797" title="reeducação alimentar" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/reeducacao-alimentar.jpg" alt="" width="314" height="443" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/reeducacao-alimentar.jpg"><img class="alignnone size-full wp-image-5797" title="reeducação alimentar" src="https://www.trololodemulher.com.br/2011/01/reeducacao-alimentar.jpg" alt="" width="314" height="443" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -47,7 +44,7 @@ Qualquer processo de emagrecimento exige mudanças, principalmente na alimentaç
   Devemos nos comprometer com o processo de perda de peso, pois é a solução mais efetiva para colher bons resultados.
 </p>
 
-Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+Imagem: <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
@@ -58,7 +55,7 @@ Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
   
   <tr>
     <td width="600" valign="top">
-      <a href="http://lucianakotaka.com.br/" target="_blank">Comportamento Magro</a>
+      <a href="http://lucianakotaka.com.br/" target="_blank" rel="noopener noreferrer">Comportamento Magro</a>
     </td>
   </tr>
 </table>

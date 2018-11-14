@@ -1,10 +1,7 @@
 ---
-id: 3174
 title: Você é das que se rendem aos tons fechados de esmaltes no inverno?
-date: 2012-08-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/08/20/esmaltes-no-inverno/
 permalink: /2012/08/20/esmaltes-no-inverno/
 categories:
   - Beleza
@@ -20,21 +17,21 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/20/esmaltes-no-inverno/beleza-esmaltes-risque-avon-2/" rel="attachment wp-att-9042"><img class="alignnone size-full wp-image-9042" title="BELEZA-ESMALTES-RISQUE-AVON-2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/BELEZA-ESMALTES-RISQUE-AVON-2.png" alt="" width="600" height="454" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/20/esmaltes-no-inverno/beleza-esmaltes-risque-avon-2/" rel="attachment wp-att-9042"><img class="alignnone size-full wp-image-9042" title="BELEZA-ESMALTES-RISQUE-AVON-2" src="https://www.trololodemulher.com.br/2012/08/BELEZA-ESMALTES-RISQUE-AVON-2.png" alt="" width="600" height="454" /></a>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   <strong><em>1 – “ Lidi, eu amo a combinação clássica de Gabriela com Rebu. Fica um vermelho bem fechado e elegante. Os dois são da Risque</em>.” Cláudia Ramalho | </strong><a href="http://www.blogfeitoamao.com/" target="_blank"><strong>Feito a Mão</strong></a>
+>   <strong><em>1 – “ Lidi, eu amo a combinação clássica de Gabriela com Rebu. Fica um vermelho bem fechado e elegante. Os dois são da Risque</em>.” Cláudia Ramalho | </strong><a href="http://www.blogfeitoamao.com/" target="_blank" rel="noopener noreferrer"><strong>Feito a Mão</strong></a>
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   <strong>2 –<em> “ Oi, Lidi! Foi amor à primeira vista com a cor Estava Escrito da Coleção Estava Escrito da Avon.</em>” Mayara Santana | </strong><a href="http://mayaramonica.blogspot.com.br/" target="_blank"><strong>My Diary</strong></a>
+>   <strong>2 –<em> “ Oi, Lidi! Foi amor à primeira vista com a cor Estava Escrito da Coleção Estava Escrito da Avon.</em>” Mayara Santana | </strong><a href="http://mayaramonica.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>My Diary</strong></a>
 > </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

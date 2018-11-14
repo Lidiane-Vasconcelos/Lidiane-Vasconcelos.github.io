@@ -1,10 +1,7 @@
 ---
-id: 2607
 title: Tudo Branco na decoração da Cozinha.
-date: 2009-01-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/01/22/decoracao-cozinha-branca/
 permalink: /2009/01/22/decoracao-cozinha-branca/
 categories:
   - Cozinha
@@ -13,7 +10,7 @@ Eu tenho lá minhas desconfianças com **_cozinha toda branca_**. A maior razão
 
 A outra razão é que  parece comum, assim&#8230; todo mundo tem. ‘Tá, eu sei que a gente é quem dá o toque original e tudo o mais, e que nestes casos os objetos salvam&#8230; mas quando eu fiz a minha quis fugir do branco. Pronto. Falei! Já até mostrei este meu espaço por aqui quando falei sobre <a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/" target="_self"><strong><em>revestimentos de cozinha</em></strong></a>.
 
-Todavia, contudo, no entanto&#8230; vendo essa galeria de fotos publicada <a href="http://www.thekitchn.com/thekitchn/kitchen-tours/kitchen-gallery-white-bright-and-clean-074195" target="_blank">nest post</a> do “<a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Therapy</a>”, comecei a rever meus conceitos.  Vamos ás imagens?
+Todavia, contudo, no entanto&#8230; vendo essa galeria de fotos publicada <a href="http://www.thekitchn.com/thekitchn/kitchen-tours/kitchen-gallery-white-bright-and-clean-074195" target="_blank" rel="noopener noreferrer">nest post</a> do “<a href="http://www.apartmenttherapy.com/" target="_blank" rel="noopener noreferrer">Apartment Therapy</a>”, comecei a rever meus conceitos.  Vamos ás imagens?
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="www.thekitchn.com" src="http://atgallery.apartmenttherapy.com/assets/0001/3841/05_rect540.jpg" alt="www.thekitchn.com" />
@@ -37,7 +34,7 @@ Gostei, gostei e gostei&#8230; sabe do que mais? Da janela em frente a pia. Pare
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" src="http://atgallery.apartmenttherapy.com/assets/0001/3741/15_rect540.jpg" alt="" />
 </p>
 
-Ai que bonitinha essa cozinha!!! E aí? Gostou? Quer ver mais? Tem um monte <a href="http://www.thekitchn.com/thekitchn/kitchen-tours/kitchen-gallery-white-bright-and-clean-074195" target="_blank">aqui, ó</a>!
+Ai que bonitinha essa cozinha!!! E aí? Gostou? Quer ver mais? Tem um monte <a href="http://www.thekitchn.com/thekitchn/kitchen-tours/kitchen-gallery-white-bright-and-clean-074195" target="_blank" rel="noopener noreferrer">aqui, ó</a>!
 
 Quer se inspirar ainda mais com decoração de cozinha?
 

@@ -1,10 +1,7 @@
 ---
-id: 3694
 title: 'Enfeite natalino rústico: faça você mesma.'
-date: 2016-10-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/10/25/enfeite-natalino-rustico/
 permalink: /2016/10/25/enfeite-natalino-rustico/
 categories:
   - Decoração
@@ -15,11 +12,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13178" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/NATAL-DECORACAO-NATALINA-ENFEITE-DE-NATAL-ENFEITE-NATALINO-ENFEITE-RUSTICO-NATALINO2.jpg" alt="natal-decoracao-natalina-enfeite-de-natal-enfeite-natalino-enfeite-rustico-natalino2" width="533" height="800" />
+  <img class="alignnone size-full wp-image-13178" src="https://www.trololodemulher.com.br/2016/10/NATAL-DECORACAO-NATALINA-ENFEITE-DE-NATAL-ENFEITE-NATALINO-ENFEITE-RUSTICO-NATALINO2.jpg" alt="natal-decoracao-natalina-enfeite-de-natal-enfeite-natalino-enfeite-rustico-natalino2" width="533" height="800" />
 </p>
 
 <p align="center">
-  Via <a href="https://liagriffith.com/" target="_blank">Lia Griffith</a>
+  Via <a href="https://liagriffith.com/" target="_blank" rel="noopener noreferrer">Lia Griffith</a>
 </p>
 
 <p align="justify">
@@ -27,19 +24,19 @@ categories:
 </p>
 
 <p align="justify">
-  E se você quer continuar nessa pegada rústica na sua decoração de Natal, sugiro dar uma olhada na <a href="http://www.decoracaodacasa.com/decoracao-natal-2014/" target="_blank">reutilização de janela velha no <em>décor</em> natalino</a>. E não perca:
+  E se você quer continuar nessa pegada rústica na sua decoração de Natal, sugiro dar uma olhada na <a href="http://www.decoracaodacasa.com/decoracao-natal-2014/" target="_blank" rel="noopener noreferrer">reutilização de janela velha no <em>décor</em> natalino</a>. E não perca:
 </p>
 
 <p align="justify">
-  1 – <a href="http://www.decoracaodacasa.com/decoracao-natalina/" target="_blank">Decoração natalina: inspiração das casas reais</a>;
+  1 – <a href="http://www.decoracaodacasa.com/decoracao-natalina/" target="_blank" rel="noopener noreferrer">Decoração natalina: inspiração das casas reais</a>;
 </p>
 
 <p align="justify">
-  2 – <a href="http://www.decoracaodacasa.com/enfeites-natalinos/" target="_blank">3 cordões de enfeites natalinos: faça você mesma</a>.
+  2 – <a href="http://www.decoracaodacasa.com/enfeites-natalinos/" target="_blank" rel="noopener noreferrer">3 cordões de enfeites natalinos: faça você mesma</a>.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

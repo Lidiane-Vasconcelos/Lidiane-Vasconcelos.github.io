@@ -1,10 +1,7 @@
 ---
-id: 3553
 title: Faça você mesma um cabideiro para a entrada de casa.
-date: 2016-03-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/03/02/faca-voce-mesma-um-cabideiro/
 permalink: /2016/03/02/faca-voce-mesma-um-cabideiro/
 categories:
   - Decoração
@@ -20,11 +17,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/area-de-entrada-da-casa/" target="_blank"><strong>Área de entrada da casa: organização… desde o início.</strong></a>
+  <a href="http://www.decoracaodacasa.com/area-de-entrada-da-casa/" target="_blank" rel="noopener noreferrer"><strong>Área de entrada da casa: organização… desde o início.</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12025" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-FACA-VOCE-MESMA-CABIDEIRO-ENTRADA-DA-CASA.jpg" alt="DECORACAO-FACA VOCE MESMA-CABIDEIRO-ENTRADA DA CASA" width="480" height="800" />
+  <img class="alignnone size-full wp-image-12025" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-FACA-VOCE-MESMA-CABIDEIRO-ENTRADA-DA-CASA.jpg" alt="DECORACAO-FACA VOCE MESMA-CABIDEIRO-ENTRADA DA CASA" width="480" height="800" />
 </p>
 
 <p align="justify">
@@ -36,11 +33,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/comoda-hall-de-entrada/" target="_blank"><strong>Quer reformar uma cômoda e criar um espaço de organização na entrada da casa?</strong></a>
+  <a href="http://www.decoracaodacasa.com/comoda-hall-de-entrada/" target="_blank" rel="noopener noreferrer"><strong>Quer reformar uma cômoda e criar um espaço de organização na entrada da casa?</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12026" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-FACA-VOCE-MESMA-CABIDEIRO-ENTRADA-DA-CASA2.jpg" alt="DECORACAO-FACA VOCE MESMA-CABIDEIRO-ENTRADA DA CASA[2]" width="480" height="800" />
+  <img class="alignnone size-full wp-image-12026" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-FACA-VOCE-MESMA-CABIDEIRO-ENTRADA-DA-CASA2.jpg" alt="DECORACAO-FACA VOCE MESMA-CABIDEIRO-ENTRADA DA CASA[2]" width="480" height="800" />
 </p>
 
 <p align="justify">
@@ -52,15 +49,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/02/16/area-de-entrada/" target="_blank"><strong>Dicas de decoração para a área de entrada da casa.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/02/16/area-de-entrada/" target="_blank" rel="noopener noreferrer"><strong>Dicas de decoração para a área de entrada da casa.</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12027" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-FACA-VOCE-MESMA-CABIDEIRO-ENTRADA-DA-CASA3.jpg" alt="DECORACAO-FACA VOCE MESMA-CABIDEIRO-ENTRADA DA CASA[3]" width="600" height="784" />
+  <img class="alignnone size-full wp-image-12027" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-FACA-VOCE-MESMA-CABIDEIRO-ENTRADA-DA-CASA3.jpg" alt="DECORACAO-FACA VOCE MESMA-CABIDEIRO-ENTRADA DA CASA[3]" width="600" height="784" />
 </p>
 
 <p align="justify">
-  Todo o passo a passo bem detalhado, com fotos e explicação bastante didática, você encontra no blog A casa que a minha vó queria, da Ana Medeiros. Quem executou esse projeto foi a Eva Mota, colaboradora do blog. Gostou da ideia é quer um também? <a href="http://www.acasaqueaminhavoqueria.com/faca-voce-mesmo-um-cabideiro-super-charmoso-e-com-varias-utilidades/" target="_blank">Se joga bem aqui</a> e aprenda tudo, <em>tim tim por tim tim</em>.
+  Todo o passo a passo bem detalhado, com fotos e explicação bastante didática, você encontra no blog A casa que a minha vó queria, da Ana Medeiros. Quem executou esse projeto foi a Eva Mota, colaboradora do blog. Gostou da ideia é quer um também? <a href="http://www.acasaqueaminhavoqueria.com/faca-voce-mesmo-um-cabideiro-super-charmoso-e-com-varias-utilidades/" target="_blank" rel="noopener noreferrer">Se joga bem aqui</a> e aprenda tudo, <em>tim tim por tim tim</em>.
 </p>
 
 <p align="justify">
@@ -68,11 +65,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/01/17/organizacao-area-entrada/" target="_blank"><strong>Ideia para organização de objetos na área de entrada da casa.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/01/17/organizacao-area-entrada/" target="_blank" rel="noopener noreferrer"><strong>Ideia para organização de objetos na área de entrada da casa.</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

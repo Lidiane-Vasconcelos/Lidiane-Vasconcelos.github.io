@@ -1,10 +1,7 @@
 ---
-id: 3751
 title: 'Estresse engorda: mito ou verdade?'
-date: 2017-04-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/04/17/estresse-engorda/
 permalink: /2017/04/17/estresse-engorda/
 categories:
   - Saúde
@@ -14,11 +11,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13714" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/SAUDE-ESTRESSE-ESTRESSE-ENGORDA-GANHO-DE-PESO.jpg" alt="SAUDE-ESTRESSE-ESTRESSE ENGORDA-GANHO DE PESO" width="800" height="669" />
+  <img class="alignnone size-full wp-image-13714" src="https://www.trololodemulher.com.br/2017/04/SAUDE-ESTRESSE-ESTRESSE-ENGORDA-GANHO-DE-PESO.jpg" alt="SAUDE-ESTRESSE-ESTRESSE ENGORDA-GANHO DE PESO" width="800" height="669" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/59030623@N03/8633126050/" target="_blank">Livin&#8217; Spoonful</a> via <a href="http://foter.com/re/bd4e9e" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Imagem: <a href="https://www.flickr.com/photos/59030623@N03/8633126050/" target="_blank" rel="noopener noreferrer">Livin&#8217; Spoonful</a> via <a href="http://foter.com/re/bd4e9e" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND</a>
 </p>
 
 <p align="center">
@@ -42,7 +39,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/" target="_blank">Mulher, alimentos e ansiedade… há algo familiar nisso?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/" target="_blank" rel="noopener noreferrer">Mulher, alimentos e ansiedade… há algo familiar nisso?</a></strong>
 </p>
 
 <p align="justify">
@@ -66,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>“A curto prazo, os sintomas relacionados ao aparelho psíquico e as somatizações. A médio prazo, existe um maior risco de doenças crônicas como <a href="http://www.trololodemulher.com.br/2017/04/10/hipertensao-arterial/" target="_blank">hipertensão</a> e diabetes, além da obesidade, insônia, depressão. A longo prazo, existe um maior risco de <a href="http://www.trololodemulher.com.br/2013/09/23/coracao-doenca-cardiovascular/" target="_blank">doenças cardiovasculares</a> como infarto e derrame. Também existem alguns estudos relacionando o estresse com câncer e demências da terceira idade, em pessoas predispostas.</em>
+  <em>“A curto prazo, os sintomas relacionados ao aparelho psíquico e as somatizações. A médio prazo, existe um maior risco de doenças crônicas como <a href="http://www.trololodemulher.com.br/2017/04/10/hipertensao-arterial/" target="_blank" rel="noopener noreferrer">hipertensão</a> e diabetes, além da obesidade, insônia, depressão. A longo prazo, existe um maior risco de <a href="http://www.trololodemulher.com.br/2013/09/23/coracao-doenca-cardiovascular/" target="_blank" rel="noopener noreferrer">doenças cardiovasculares</a> como infarto e derrame. Também existem alguns estudos relacionando o estresse com câncer e demências da terceira idade, em pessoas predispostas.</em>
 </p>
 
 <p align="center">
@@ -78,15 +75,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13713" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/JULIANA-GABRIEL-ENDOCRINOLOGISTA-CAMPINAS-SP.jpg" alt="JULIANA GABRIEL-ENDOCRINOLOGISTA-CAMPINAS-SP" width="800" height="156" />
+  <img class="alignnone size-full wp-image-13713" src="https://www.trololodemulher.com.br/2017/04/JULIANA-GABRIEL-ENDOCRINOLOGISTA-CAMPINAS-SP.jpg" alt="JULIANA GABRIEL-ENDOCRINOLOGISTA-CAMPINAS-SP" width="800" height="156" />
 </p>
 
 <p align="justify">
-  Dra. Juliana Gabriel atende na Rua Barbosa de Andrade, 672, Campinas, (19) 3241-3305. Além do mais, a médica sempre atualiza <a href="http://www.drajulianagabriel.com.br/" target="_blank">seu blog com muita informação</a> relevante para quem deseja manter a saúde em dia. Nas redes sociais a Dra. Juliana também se mostra bastante atuante, com atualizações em sua <a href="https://www.facebook.com/DraJulianaGabriel/" target="_blank">página no Facebook</a> e em seu <a href="https://www.instagram.com/dra.julianagabriel/" target="_blank">perfil no Instagram</a>. Clique e acompanhe!
+  Dra. Juliana Gabriel atende na Rua Barbosa de Andrade, 672, Campinas, (19) 3241-3305. Além do mais, a médica sempre atualiza <a href="http://www.drajulianagabriel.com.br/" target="_blank" rel="noopener noreferrer">seu blog com muita informação</a> relevante para quem deseja manter a saúde em dia. Nas redes sociais a Dra. Juliana também se mostra bastante atuante, com atualizações em sua <a href="https://www.facebook.com/DraJulianaGabriel/" target="_blank" rel="noopener noreferrer">página no Facebook</a> e em seu <a href="https://www.instagram.com/dra.julianagabriel/" target="_blank" rel="noopener noreferrer">perfil no Instagram</a>. Clique e acompanhe!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

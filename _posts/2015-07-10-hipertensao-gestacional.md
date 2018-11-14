@@ -1,10 +1,7 @@
 ---
-id: 3444
 title: 'Hipertensão Gestacional: entenda tudo de um jeito simples.'
-date: 2015-07-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/07/10/hipertensao-gestacional/
 permalink: /2015/07/10/hipertensao-gestacional/
 categories:
   - Maternidade
@@ -28,23 +25,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/02/27/alimentacao-gravidez-nutricao/" target="_blank"><strong>Alimentação na gravidez: saúde para mamãe e bebê</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/02/27/alimentacao-gravidez-nutricao/" target="_blank" rel="noopener noreferrer"><strong>Alimentação na gravidez: saúde para mamãe e bebê</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/01/09/gravidez-saudavel-gestacao/" target="_blank"><strong>Gavidez saudável, segura e em equilíbrio: como vivenciá-la?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/01/09/gravidez-saudavel-gestacao/" target="_blank" rel="noopener noreferrer"><strong>Gavidez saudável, segura e em equilíbrio: como vivenciá-la?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/GRAVIDEZ-GESTACAO-HIPERTENSAO-GESTACIONAL-PRESSAO-ALTA-SAUDE.jpg"><img class="alignnone size-full wp-image-11097" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/GRAVIDEZ-GESTACAO-HIPERTENSAO-GESTACIONAL-PRESSAO-ALTA-SAUDE.jpg" alt="GRAVIDEZ-GESTACAO-HIPERTENSAO GESTACIONAL-PRESSAO ALTA-SAUDE" width="800" height="637" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/GRAVIDEZ-GESTACAO-HIPERTENSAO-GESTACIONAL-PRESSAO-ALTA-SAUDE.jpg"><img class="alignnone size-full wp-image-11097" src="https://www.trololodemulher.com.br/2015/07/GRAVIDEZ-GESTACAO-HIPERTENSAO-GESTACIONAL-PRESSAO-ALTA-SAUDE.jpg" alt="GRAVIDEZ-GESTACAO-HIPERTENSAO GESTACIONAL-PRESSAO ALTA-SAUDE" width="800" height="637" /></a>
 </p>
 
 <p align="center">
-  Imagem: <b><a href="https://www.flickr.com/photos/meaganjean/3985720277/" target="_blank">Ⅿeagan</a> / <a href="http://foter.com/" target="_blank">Foter</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a></b>
+  Imagem: <b><a href="https://www.flickr.com/photos/meaganjean/3985720277/" target="_blank" rel="noopener noreferrer">Ⅿeagan</a> / <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener noreferrer">CC BY</a></b>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/GRAVIDEZ-GESTACAO-HIPERTENSAO-GESTACIONAL-PRESSAO-ALTA-SAUDE2.png"><img class="alignnone size-full wp-image-11098" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/GRAVIDEZ-GESTACAO-HIPERTENSAO-GESTACIONAL-PRESSAO-ALTA-SAUDE2.png" alt="GRAVIDEZ-GESTACAO-HIPERTENSAO GESTACIONAL-PRESSAO ALTA-SAUDE[2]" width="506" height="78" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/GRAVIDEZ-GESTACAO-HIPERTENSAO-GESTACIONAL-PRESSAO-ALTA-SAUDE2.png"><img class="alignnone size-full wp-image-11098" src="https://www.trololodemulher.com.br/2015/07/GRAVIDEZ-GESTACAO-HIPERTENSAO-GESTACIONAL-PRESSAO-ALTA-SAUDE2.png" alt="GRAVIDEZ-GESTACAO-HIPERTENSAO GESTACIONAL-PRESSAO ALTA-SAUDE[2]" width="506" height="78" /></a>
 </p>
 
 <p align="justify">
@@ -52,7 +49,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/GRAVIDEZ-GESTACAO-HIPERTENSAO-GESTACIONAL-PRESSAO-ALTA-SAUDE4.jpg"><img class="alignnone size-full wp-image-11103" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/GRAVIDEZ-GESTACAO-HIPERTENSAO-GESTACIONAL-PRESSAO-ALTA-SAUDE4.jpg" alt="GRAVIDEZ-GESTACAO-HIPERTENSAO GESTACIONAL-PRESSAO ALTA-SAUDE[4]" width="800" height="73" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/GRAVIDEZ-GESTACAO-HIPERTENSAO-GESTACIONAL-PRESSAO-ALTA-SAUDE4.jpg"><img class="alignnone size-full wp-image-11103" src="https://www.trololodemulher.com.br/2015/07/GRAVIDEZ-GESTACAO-HIPERTENSAO-GESTACIONAL-PRESSAO-ALTA-SAUDE4.jpg" alt="GRAVIDEZ-GESTACAO-HIPERTENSAO GESTACIONAL-PRESSAO ALTA-SAUDE[4]" width="800" height="73" /></a>
 </p>
 
 > <p align="justify">
@@ -60,13 +57,13 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/GINECOLOGIA-OBSTETRICIA-DRA-LIVIA-VIEIRA-SAO-JOSE-RIO-PRETO-SP.jpg"><img class="alignnone size-full wp-image-11096" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/GINECOLOGIA-OBSTETRICIA-DRA-LIVIA-VIEIRA-SAO-JOSE-RIO-PRETO-SP.jpg" alt="GINECOLOGIA-OBSTETRICIA-DRA LIVIA VIEIRA-SAO JOSE RIO PRETO-SP" width="800" height="174" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/GINECOLOGIA-OBSTETRICIA-DRA-LIVIA-VIEIRA-SAO-JOSE-RIO-PRETO-SP.jpg"><img class="alignnone size-full wp-image-11096" src="https://www.trololodemulher.com.br/2015/07/GINECOLOGIA-OBSTETRICIA-DRA-LIVIA-VIEIRA-SAO-JOSE-RIO-PRETO-SP.jpg" alt="GINECOLOGIA-OBSTETRICIA-DRA LIVIA VIEIRA-SAO JOSE RIO PRETO-SP" width="800" height="174" /></a>
 </p>
 
 <p align="justify">
-  Dra. Lívia também atualiza uma página no Facebook constantemente, toda ela repleta de informação útil para saúde da mulher antes, durante e após a gestação. Eu, que não sou boba nem nada, já curti. Vem também? <a href="https://www.facebook.com/draliviaavieira/timeline" target="_blank">Clica aqui, curta</a> e informe-se!
+  Dra. Lívia também atualiza uma página no Facebook constantemente, toda ela repleta de informação útil para saúde da mulher antes, durante e após a gestação. Eu, que não sou boba nem nada, já curti. Vem também? <a href="https://www.facebook.com/draliviaavieira/timeline" target="_blank" rel="noopener noreferrer">Clica aqui, curta</a> e informe-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

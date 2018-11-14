@@ -1,16 +1,13 @@
 ---
-id: 2623
 title: Dicas para decoração da área de entrada (hall) de casa.
-date: 2009-02-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/02/16/area-de-entrada/
 permalink: /2009/02/16/area-de-entrada/
 categories:
   - Salas
 ---
 <p style="text-align: justify;">
-  Você sente necessidade de delimitar um espaço onde  as pessoas se desfaçam do excesso de objetos que trazem, antes mesmo de entrarem de fato na sua casa? Para isso, sugiro que você veja uma<strong><em><a href="http://www.trololodemulher.com.br/2009/01/17/organizacao-area-entrada/" target="_blank"> ideia para organização de objetos na área de entrada da casa</a></em></strong>. Inspire-se!
+  Você sente necessidade de delimitar um espaço onde  as pessoas se desfaçam do excesso de objetos que trazem, antes mesmo de entrarem de fato na sua casa? Para isso, sugiro que você veja uma<strong><em><a href="http://www.trololodemulher.com.br/2009/01/17/organizacao-area-entrada/" target="_blank" rel="noopener noreferrer"> ideia para organização de objetos na área de entrada da casa</a></em></strong>. Inspire-se!
 </p>
 
 <p style="text-align: justify;">
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Considerei as dicas que estão <a href="http://www.apartmenttherapy.com/la/diy/7-tips-to-liven-up-the-entryway-076518" target="_blank">neste post</a> do blog “<a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Therapy</a>” bastante interessantes para se criar uma área dessas; umas mais outras menos, por isso que das 7 dicas eu trouxe 3. Mas de forma geral, são mesmo inspiradoras.
+  Considerei as dicas que estão <a href="http://www.apartmenttherapy.com/la/diy/7-tips-to-liven-up-the-entryway-076518" target="_blank" rel="noopener noreferrer">neste post</a> do blog “<a href="http://www.apartmenttherapy.com/" target="_blank" rel="noopener noreferrer">Apartment Therapy</a>” bastante interessantes para se criar uma área dessas; umas mais outras menos, por isso que das 7 dicas eu trouxe 3. Mas de forma geral, são mesmo inspiradoras.
 </p>
 
 <p style="text-align: justify;">
@@ -52,5 +49,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

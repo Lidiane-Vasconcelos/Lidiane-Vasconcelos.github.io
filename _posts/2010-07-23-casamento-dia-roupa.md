@@ -1,17 +1,14 @@
 ---
-id: 2848
 title: 'Casamento durante o dia: o que vestir?'
-date: 2010-07-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/07/23/casamento-dia-roupa/
 permalink: /2010/07/23/casamento-dia-roupa/
 categories:
   - Moda
 ---
 Você já se fez essa pergunta? Qual mulher não se viu em apuros, com dúvidas sobre **_o que vestir para uma cerimônia de casamento durante o dia_**? Uma bicha fêmea navegante está exatamente com essa dúvida e pediu dicas por aqui…
 
-Sou uma blogueira _enxirida_ e _pitaqueira_, e nunca neguei essa condição… _cof cof cof_… imediatamente procurei me informar para ajudar a **Andrea**, que deu a ideia de pauta pelo Twitter **_<a href="http://twitter.com/bichafemea" target="_blank">(me segue?),</a>_** e suas dicas nos comentários serão valiosas também. Não esqueça!
+Sou uma blogueira _enxirida_ e _pitaqueira_, e nunca neguei essa condição… _cof cof cof_… imediatamente procurei me informar para ajudar a **Andrea**, que deu a ideia de pauta pelo Twitter **_<a href="http://twitter.com/bichafemea" target="_blank" rel="noopener noreferrer">(me segue?),</a>_** e suas dicas nos comentários serão valiosas também. Não esqueça!
 
 <!--more-->
 
@@ -22,7 +19,7 @@ Veja se não estou certa, e me diga se há algo que soe inusitado quanto as dica
 1 – Prefira tons leves, os famosos pasteis, para a cor de seu vestido. Você pode até apostar em florais, mas sempre muito delicados, suaves, discretos. O ideal é que o tecido tenha caimento, isso reforça a ideia de simplicidade e leveza, já que o evento será diurno. Tecidos como crepe georgette ou seda, são leves, mas com beleza ideal para a ocasião.
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/vestido-de-Carolina-Herrera.jpg"><img class="size-medium wp-image-4896 aligncenter" title="vestido de Carolina Herrera" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/vestido-de-Carolina-Herrera-230x300.jpg" alt="" width="230" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/vestido-de-Carolina-Herrera.jpg"><img class="size-medium wp-image-4896 aligncenter" title="vestido de Carolina Herrera" src="https://www.trololodemulher.com.br/2010/07/vestido-de-Carolina-Herrera-230x300.jpg" alt="" width="230" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -34,7 +31,7 @@ Veja se não estou certa, e me diga se há algo que soe inusitado quanto as dica
 4 – Brilho durante o dia é dispensável, exceto no caso de um acessório bem bonito, mas sem exageros. Já que não haverá brilho na roupa, atente para detalhes como babados, drapeados ou plissados, porque vão valorizar bastante seu _modelito_…
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/vestido-de-bottega-veneta.jpg"><img class="size-medium wp-image-4895 aligncenter" title="vestido de bottega veneta" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/vestido-de-bottega-veneta-205x300.jpg" alt="" width="205" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/vestido-de-bottega-veneta.jpg"><img class="size-medium wp-image-4895 aligncenter" title="vestido de bottega veneta" src="https://www.trololodemulher.com.br/2010/07/vestido-de-bottega-veneta-205x300.jpg" alt="" width="205" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -52,7 +49,7 @@ Se ainda resta dúvidas, há detalhes a serem evitados. Olha só:
 2 – Vestido preto? _Hum_… melhor escolher outra cor. Existem tantas outras!
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/vestido-de-Versace.jpg"><img class="size-medium wp-image-4897 aligncenter" title="vestido de Versace" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/vestido-de-Versace-208x300.jpg" alt="" width="208" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/vestido-de-Versace.jpg"><img class="size-medium wp-image-4897 aligncenter" title="vestido de Versace" src="https://www.trololodemulher.com.br/2010/07/vestido-de-Versace-208x300.jpg" alt="" width="208" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -65,9 +62,9 @@ Muitas vezes no convite há a indicação do tipo de traje a ser vestido na ocas
 
 **Quer deixar sua dica? Mulher, não pense duas vezes! Corra nos comentários e dê seus _pitacos…_**
 
-Fontes: <a href="http://www.mulher.palpitedigital.com.br/" target="_blank">Mulher Digital</a>, <a href="http://onossocasamento.pt/" target="_blank">O Nosso Casamento</a>, <a href="http://www.portaisdamoda.com.br/" target="_blank">Portais da Moda</a> e <a href="http://www.styleexpert.co.uk/" target="_blank">Style expert</a>.
+Fontes: <a href="http://www.mulher.palpitedigital.com.br/" target="_blank" rel="noopener noreferrer">Mulher Digital</a>, <a href="http://onossocasamento.pt/" target="_blank" rel="noopener noreferrer">O Nosso Casamento</a>, <a href="http://www.portaisdamoda.com.br/" target="_blank" rel="noopener noreferrer">Portais da Moda</a> e <a href="http://www.styleexpert.co.uk/" target="_blank" rel="noopener noreferrer">Style expert</a>.
 
-Imagens: <a href="http://www.marieclaire.com/" target="_blank">Marie Claire</a>
+Imagens: <a href="http://www.marieclaire.com/" target="_blank" rel="noopener noreferrer">Marie Claire</a>
 
 **Mais no Bicha Fêmea&#8230;**
 

@@ -1,10 +1,7 @@
 ---
-id: 3693
 title: Como usar maquiagem rosa sem parecer desatualizada?
-date: 2016-10-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/10/24/maquiagem-rosa/
 permalink: /2016/10/24/maquiagem-rosa/
 categories:
   - Beleza
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13170" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/BELEZA-MAQUIAGEM-DICAS-DE-MAQUIAGEM-MAQUIAGEM-ROSA.jpg" alt="beleza-maquiagem-dicas-de-maquiagem-maquiagem-rosa" width="499" height="750" />
+  <img class="alignnone size-full wp-image-13170" src="https://www.trololodemulher.com.br/2016/10/BELEZA-MAQUIAGEM-DICAS-DE-MAQUIAGEM-MAQUIAGEM-ROSA.jpg" alt="beleza-maquiagem-dicas-de-maquiagem-maquiagem-rosa" width="499" height="750" />
 </p>
 
 <p align="center">
@@ -38,21 +35,21 @@ categories:
 </p>
 
 <p align="justify">
-  <img class="size-full wp-image-13173 aligncenter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/BELEZA-MAQUIAGEM-DICAS-DE-MAQUIAGEM-MAQUIAGEM-ROSA4.jpg" alt="beleza-maquiagem-dicas-de-maquiagem-maquiagem-rosa4" width="583" height="102" />
+  <img class="size-full wp-image-13173 aligncenter" src="https://www.trololodemulher.com.br/2016/10/BELEZA-MAQUIAGEM-DICAS-DE-MAQUIAGEM-MAQUIAGEM-ROSA4.jpg" alt="beleza-maquiagem-dicas-de-maquiagem-maquiagem-rosa4" width="583" height="102" />
 </p>
 
 <p align="center">
 </p>
 
 <p style="text-align: center;" align="justify">
-  <img class="size-full wp-image-13172 aligncenter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/BELEZA-MAQUIAGEM-DICAS-DE-MAQUIAGEM-MAQUIAGEM-ROSA3.jpg" alt="beleza-maquiagem-dicas-de-maquiagem-maquiagem-rosa3" width="584" height="103" />
+  <img class="size-full wp-image-13172 aligncenter" src="https://www.trololodemulher.com.br/2016/10/BELEZA-MAQUIAGEM-DICAS-DE-MAQUIAGEM-MAQUIAGEM-ROSA3.jpg" alt="beleza-maquiagem-dicas-de-maquiagem-maquiagem-rosa3" width="584" height="103" />
 </p>
 
 <p align="center">
 </p>
 
 <p style="text-align: center;" align="justify">
-  <img class="size-full wp-image-13171 aligncenter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/BELEZA-MAQUIAGEM-DICAS-DE-MAQUIAGEM-MAQUIAGEM-ROSA2.jpg" alt="beleza-maquiagem-dicas-de-maquiagem-maquiagem-rosa2" width="585" height="107" />
+  <img class="size-full wp-image-13171 aligncenter" src="https://www.trololodemulher.com.br/2016/10/BELEZA-MAQUIAGEM-DICAS-DE-MAQUIAGEM-MAQUIAGEM-ROSA2.jpg" alt="beleza-maquiagem-dicas-de-maquiagem-maquiagem-rosa2" width="585" height="107" />
 </p>
 
 <p align="center">
@@ -83,7 +80,7 @@ categories:
 </p>
 
 <p style="text-align: center;" align="justify">
-  <img class="size-full wp-image-13174 aligncenter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/BELEZA-MAQUIAGEM-DICAS-DE-MAQUIAGEM-MAQUIAGEM-ROSA5.jpg" alt="beleza-maquiagem-dicas-de-maquiagem-maquiagem-rosa5" width="578" height="103" />
+  <img class="size-full wp-image-13174 aligncenter" src="https://www.trololodemulher.com.br/2016/10/BELEZA-MAQUIAGEM-DICAS-DE-MAQUIAGEM-MAQUIAGEM-ROSA5.jpg" alt="beleza-maquiagem-dicas-de-maquiagem-maquiagem-rosa5" width="578" height="103" />
 </p>
 
 <p align="center">
@@ -106,25 +103,25 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11903" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/MARCIA-DAMASCENO-MAQUIADORA-BELO-HORIZONTE-MINAS-GERAIS-MAQUIAGEM-NAO-E-TUDO2.jpg" alt="MARCIA DAMASCENO-MAQUIADORA-BELO HORIZONTE-MINAS GERAIS-MAQUIAGEM NAO E TUDO[2]" width="800" height="204" />
+  <img class="alignnone size-full wp-image-11903" src="https://www.trololodemulher.com.br/2016/02/MARCIA-DAMASCENO-MAQUIADORA-BELO-HORIZONTE-MINAS-GERAIS-MAQUIAGEM-NAO-E-TUDO2.jpg" alt="MARCIA DAMASCENO-MAQUIADORA-BELO HORIZONTE-MINAS GERAIS-MAQUIAGEM NAO E TUDO[2]" width="800" height="204" />
 </p>
 
 &nbsp;
 
 **Mais consultorias da Márcia:**
 
-<a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank"><strong>Medidas práticas para restaurar sua aut-estima… já!</strong></a>
+<a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank" rel="noopener noreferrer"><strong>Medidas práticas para restaurar sua aut-estima… já!</strong></a>
 
-<a href="http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/" target="_blank"><strong>Maquiagem leve e sofisticada: como conseguir esse efeito?</strong></a>
+<a href="http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/" target="_blank" rel="noopener noreferrer"><strong>Maquiagem leve e sofisticada: como conseguir esse efeito?</strong></a>
 
 &nbsp;
 
 <p align="justify">
-  Bonita, preciso dizer que meu coração saltitou de alegria quando conheci o trabalho da Márcia. “<em>Como assim uma maquiadora diz que maquiagem não é tudo, sendo essa sua profissão?</em>”, foi o que pensei logo que tomei conhecimento dessa profissional linda de viver. Isso me instigou muito, principalmente porque sempre acreditei nessa máxima, mas nunca vi um <em>expert</em> em <em>makes</em> propor uma abordagem nessa área que fosse além da estética. Que achado! Você <em>pre-ci-sa</em> conhecer o <a href="http://www.marciadamasceno.com.br/" target="_blank">site da Márcia</a>, sua <a href="https://www.facebook.com/maquiagemnaoetudo/timeline" target="_blank">fanpage</a>, <a href="http://www.marciadamasceno.com.br/#blog" target="_blank">seu blog</a> e <a href="http://www.marciadamasceno.com.br/produtos-marcia-damasceno/" target="_blank">sua loja</a>… prepare-se para uma deliciosa imersão em dicas simples e diretas sobre maquiagem, bem-estar e tudo o mais que nos deixa inspiradas a se cuidar melhor. É conteúdo de primeira, imperdível e apaixonante. Se joga!
+  Bonita, preciso dizer que meu coração saltitou de alegria quando conheci o trabalho da Márcia. “<em>Como assim uma maquiadora diz que maquiagem não é tudo, sendo essa sua profissão?</em>”, foi o que pensei logo que tomei conhecimento dessa profissional linda de viver. Isso me instigou muito, principalmente porque sempre acreditei nessa máxima, mas nunca vi um <em>expert</em> em <em>makes</em> propor uma abordagem nessa área que fosse além da estética. Que achado! Você <em>pre-ci-sa</em> conhecer o <a href="http://www.marciadamasceno.com.br/" target="_blank" rel="noopener noreferrer">site da Márcia</a>, sua <a href="https://www.facebook.com/maquiagemnaoetudo/timeline" target="_blank" rel="noopener noreferrer">fanpage</a>, <a href="http://www.marciadamasceno.com.br/#blog" target="_blank" rel="noopener noreferrer">seu blog</a> e <a href="http://www.marciadamasceno.com.br/produtos-marcia-damasceno/" target="_blank" rel="noopener noreferrer">sua loja</a>… prepare-se para uma deliciosa imersão em dicas simples e diretas sobre maquiagem, bem-estar e tudo o mais que nos deixa inspiradas a se cuidar melhor. É conteúdo de primeira, imperdível e apaixonante. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

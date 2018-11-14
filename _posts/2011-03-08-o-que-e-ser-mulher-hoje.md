@@ -1,10 +1,7 @@
 ---
-id: 2971
 title: O que é ser mulher hoje?
-date: 2011-03-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/03/08/o-que-e-ser-mulher-hoje/
 permalink: /2011/03/08/o-que-e-ser-mulher-hoje/
 categories:
   - Comportamento
@@ -21,7 +18,7 @@ Cada uma é o que opta, e vive as delícias (ou não) de suas decisões. O melho
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Gleici.jpg"><img class="size-full wp-image-6149     aligncenter" title="Gleici" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Gleici.jpg" alt="" width="200" height="200" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/Gleici.jpg"><img class="size-full wp-image-6149     aligncenter" title="Gleici" src="https://www.trololodemulher.com.br/2011/03/Gleici.jpg" alt="" width="200" height="200" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -29,47 +26,47 @@ Cada uma é o que opta, e vive as delícias (ou não) de suas decisões. O melho
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Simone.jpg"><img class="size-full wp-image-6152 aligncenter" title="Simone" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Simone.jpg" alt="" width="200" height="200" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/Simone.jpg"><img class="size-full wp-image-6152 aligncenter" title="Simone" src="https://www.trololodemulher.com.br/2011/03/Simone.jpg" alt="" width="200" height="200" /></a>
 </p>
 
 <p style="text-align: justify;">
-  “<em>Ser mulher hoje é romper barreiras, transpor fronteiras, desmistificar tabus e escalar sonhos e possibilidades jamais imaginadas. Tudo isso porém, com classe, beleza, delicadeza e amor.”</em> <strong>Simone Cotrufo</strong> | <strong><a href="http://newsespacohome.blogspot.com/" target="_blank">ORGANIZAÇÃO COM ESTILO</a></strong>
+  “<em>Ser mulher hoje é romper barreiras, transpor fronteiras, desmistificar tabus e escalar sonhos e possibilidades jamais imaginadas. Tudo isso porém, com classe, beleza, delicadeza e amor.”</em> <strong>Simone Cotrufo</strong> | <strong><a href="http://newsespacohome.blogspot.com/" target="_blank" rel="noopener noreferrer">ORGANIZAÇÃO COM ESTILO</a></strong>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Darlana.jpg"><img class="alignnone size-full wp-image-6147" title="Darlana" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Darlana.jpg" alt="" width="200" height="200" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/Darlana.jpg"><img class="alignnone size-full wp-image-6147" title="Darlana" src="https://www.trololodemulher.com.br/2011/03/Darlana.jpg" alt="" width="200" height="200" /></a>
 </p>
 
 <p style="text-align: justify;">
-   “<em>Ser mulher hoje é viver um dilema entre ser moderna e querer voltar no passado. É querer trabalhar fora mas ter tempo para ficar curtindo a sua casa. É querer ter um marido que ajuda nas tarefas de casa mas também é protetor e &#8220;provedor&#8221;. É não querer ter um marido e querer ter um amor pra toda vida. É querer ser bonita e andar &#8220;na moda&#8221; e não querer ser magérrima nem usar &#8220;bandage stripes&#8221;&#8230;Para mim ser mulher hoje é essa contradição eterna entre ser o que você quer e é e o que acham que deve ser a mulher hoje.”</em> <strong>Darlana Godoi</strong> | <strong><a href="http://www.semtemplate.blogspot.com/" target="_blank">Sem Template</a></strong>
+   “<em>Ser mulher hoje é viver um dilema entre ser moderna e querer voltar no passado. É querer trabalhar fora mas ter tempo para ficar curtindo a sua casa. É querer ter um marido que ajuda nas tarefas de casa mas também é protetor e &#8220;provedor&#8221;. É não querer ter um marido e querer ter um amor pra toda vida. É querer ser bonita e andar &#8220;na moda&#8221; e não querer ser magérrima nem usar &#8220;bandage stripes&#8221;&#8230;Para mim ser mulher hoje é essa contradição eterna entre ser o que você quer e é e o que acham que deve ser a mulher hoje.”</em> <strong>Darlana Godoi</strong> | <strong><a href="http://www.semtemplate.blogspot.com/" target="_blank" rel="noopener noreferrer">Sem Template</a></strong>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Nadja.jpg"><img class="alignnone size-full wp-image-6150" title="Nadja" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Nadja.jpg" alt="" width="200" height="200" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/Nadja.jpg"><img class="alignnone size-full wp-image-6150" title="Nadja" src="https://www.trololodemulher.com.br/2011/03/Nadja.jpg" alt="" width="200" height="200" /></a>
 </p>
 
 <p style="text-align: justify;">
-   “<em>Ser mulher hoje, é ser versátil, criativa, profissional que luta por seus direitos, sempre bonita, culta, politizada, cada vez mais entendida tanto da maternidade como dos prazeres sexuais. É ser dona de casa sem perder o charme.”</em> <strong>Nadja</strong> | <a href="http://nemacharmosa.blogspot.com/" target="_blank"><strong>Nema Charmosa</strong></a><em> </em>
+   “<em>Ser mulher hoje, é ser versátil, criativa, profissional que luta por seus direitos, sempre bonita, culta, politizada, cada vez mais entendida tanto da maternidade como dos prazeres sexuais. É ser dona de casa sem perder o charme.”</em> <strong>Nadja</strong> | <a href="http://nemacharmosa.blogspot.com/" target="_blank" rel="noopener noreferrer"><strong>Nema Charmosa</strong></a><em> </em>
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Sandra.jpg"><img class="alignnone size-full wp-image-6151" title="Sandra" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Sandra.jpg" alt="" width="200" height="200" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2011/03/Sandra.jpg"><img class="alignnone size-full wp-image-6151" title="Sandra" src="https://www.trololodemulher.com.br/2011/03/Sandra.jpg" alt="" width="200" height="200" /></a></em>
 </p>
 
 <p style="text-align: justify;">
-  <em>“Ser Mulher  hoje para mim é&#8230; Ser independente e lutar pelos seus ideais, e  acima de tudo se amar em primeiro lugar. Conquistar seu espaço e Ser Feliz</em>.” <strong>Sandra Antrade</strong> | <strong><a href="http://sandraandrade8.blogspot.com/" target="_blank">Curiosa</a></strong><em> </em>
+  <em>“Ser Mulher  hoje para mim é&#8230; Ser independente e lutar pelos seus ideais, e  acima de tudo se amar em primeiro lugar. Conquistar seu espaço e Ser Feliz</em>.” <strong>Sandra Antrade</strong> | <strong><a href="http://sandraandrade8.blogspot.com/" target="_blank" rel="noopener noreferrer">Curiosa</a></strong><em> </em>
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Glaucia.jpg"><img class="alignnone size-full wp-image-6148" title="Glaucia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Glaucia.jpg" alt="" width="200" height="200" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2011/03/Glaucia.jpg"><img class="alignnone size-full wp-image-6148" title="Glaucia" src="https://www.trololodemulher.com.br/2011/03/Glaucia.jpg" alt="" width="200" height="200" /></a></em>
 </p>
 
 <p style="text-align: justify;">
-  <em>“Ser mulher hoje em dia é ser guerreira, pelejar com um dragão por dia sem deixar de ser princesa. Ser mulher é batalhar por filhos felizes, por um trabalho bem feito, por uma casa com a carinha da gente, acolhedora e gostosa. Ser mulher é tudo isso e mais um pouco, mas acho que o principal de ser mulher é a possibilidade de reconhecer muitas nuances de cores enquanto os homens só reconhecem uma meia duzia, ou seja, nosso mundo é muito mais colorido</em>.” <strong>Glaucia</strong> | <strong><a href="http://www.supercriativobyglau.blogspot.com/" target="_blank">Super Criativo</a></strong>
+  <em>“Ser mulher hoje em dia é ser guerreira, pelejar com um dragão por dia sem deixar de ser princesa. Ser mulher é batalhar por filhos felizes, por um trabalho bem feito, por uma casa com a carinha da gente, acolhedora e gostosa. Ser mulher é tudo isso e mais um pouco, mas acho que o principal de ser mulher é a possibilidade de reconhecer muitas nuances de cores enquanto os homens só reconhecem uma meia duzia, ou seja, nosso mundo é muito mais colorido</em>.” <strong>Glaucia</strong> | <strong><a href="http://www.supercriativobyglau.blogspot.com/" target="_blank" rel="noopener noreferrer">Super Criativo</a></strong>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Simone-Scharamm.jpg"><img class="alignnone size-full wp-image-6153" title="Simone Scharamm" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Simone-Scharamm.jpg" alt="" width="200" height="200" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/Simone-Scharamm.jpg"><img class="alignnone size-full wp-image-6153" title="Simone Scharamm" src="https://www.trololodemulher.com.br/2011/03/Simone-Scharamm.jpg" alt="" width="200" height="200" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -91,7 +88,7 @@ _ Batalhamos para derrubar a ditadura do soutien. Mas a &#8220;lei da gravidade&
 </p>
 
 <p style="text-align: justify;">
-  <em>_ Estamos em todas as áreas e nos destacamos: na política, na religião, nas artes, na literatura&#8230; mas  a pior área ( a de serviço) ainda espera por nós&#8230; afinal, a roupa não sai da máquina direto para o varal&#8230; que pena!!!rs!” <strong>Simone Scharamm</strong> | <strong><a href="http://simonescharamm.blogspot.com/" target="_blank">Festas e etc…</a></strong></em>
+  <em>_ Estamos em todas as áreas e nos destacamos: na política, na religião, nas artes, na literatura&#8230; mas  a pior área ( a de serviço) ainda espera por nós&#8230; afinal, a roupa não sai da máquina direto para o varal&#8230; que pena!!!rs!” <strong>Simone Scharamm</strong> | <strong><a href="http://simonescharamm.blogspot.com/" target="_blank" rel="noopener noreferrer">Festas e etc…</a></strong></em>
 </p>
 
 <p style="text-align: justify;">
@@ -99,7 +96,7 @@ _ Batalhamos para derrubar a ditadura do soutien. Mas a &#8220;lei da gravidade&
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Comportamento-feminino.jpg"><img class="alignnone size-full wp-image-6154" title="Comportamento feminino" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Comportamento-feminino.jpg" alt="" width="600" height="375" /></a><br /> <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/Comportamento-feminino.jpg"><img class="alignnone size-full wp-image-6154" title="Comportamento feminino" src="https://www.trololodemulher.com.br/2011/03/Comportamento-feminino.jpg" alt="" width="600" height="375" /></a><br /> <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 </p>
 
 <p style="text-align: center;">

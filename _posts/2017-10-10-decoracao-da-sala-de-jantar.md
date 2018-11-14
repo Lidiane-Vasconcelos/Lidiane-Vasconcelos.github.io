@@ -1,10 +1,7 @@
 ---
-id: 3811
 title: 'Decoração da sala de jantar da leitora: dúvidas respondidas!'
-date: 2017-10-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/10/10/decoracao-da-sala-de-jantar/
 permalink: /2017/10/10/decoracao-da-sala-de-jantar/
 categories:
   - Salas
@@ -50,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.andreiluminacao.com.br/index.php?route=common/home" target="_blank">André Iluminação</a>
+  Imagem: <a href="http://www.andreiluminacao.com.br/index.php?route=common/home" target="_blank" rel="noopener noreferrer">André Iluminação</a>
 </p>
 
 > <p align="justify">
@@ -62,7 +59,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagens das texturas de papel de parede via <a href="http://www.requintepapeldeparede.com.br/" target="_blank">Requinte Brasil Papel de Parede</a>
+  Imagens das texturas de papel de parede via <a href="http://www.requintepapeldeparede.com.br/" target="_blank" rel="noopener noreferrer">Requinte Brasil Papel de Parede</a>
 </p>
 
 > <p align="justify">
@@ -74,7 +71,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagens de salas via <a href="http://arte-decorar.blogspot.com.br/" target="_blank">A arte de decorar</a>
+  Imagens de salas via <a href="http://arte-decorar.blogspot.com.br/" target="_blank" rel="noopener noreferrer">A arte de decorar</a>
 </p>
 
 > <p align="justify">
@@ -86,7 +83,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.encantemais.com.br/" target="_blank">Encante+</a>
+  Imagem: <a href="http://www.encantemais.com.br/" target="_blank" rel="noopener noreferrer">Encante+</a>
 </p>
 
 > <p align="justify">
@@ -94,7 +91,7 @@ categories:
 > </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12959" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/CAROL-CARNEIRO-DESIGNER-DE-INTERIORES-BELO-HORIZONTE-MG.jpg" alt="carol-carneiro-designer-de-interiores-belo-horizonte-mg" width="800" height="187" />
+  <img class="alignnone size-full wp-image-12959" src="https://www.trololodemulher.com.br/2016/09/CAROL-CARNEIRO-DESIGNER-DE-INTERIORES-BELO-HORIZONTE-MG.jpg" alt="carol-carneiro-designer-de-interiores-belo-horizonte-mg" width="800" height="187" />
 </p>
 
 <p align="justify">
@@ -102,21 +99,21 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/06/06/decoracao-da-varanda/" target="_blank"><strong>Como escolher tecidos para a decoração da varanda?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/06/06/decoracao-da-varanda/" target="_blank" rel="noopener noreferrer"><strong>Como escolher tecidos para a decoração da varanda?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/09/20/armario-de-ferro/" target="_blank"><strong>Como reformar um armário velho de ferro?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/09/20/armario-de-ferro/" target="_blank" rel="noopener noreferrer"><strong>Como reformar um armário velho de ferro?</strong></a>
 </p>
 
 <p style="text-align: justify;" align="justify">
-  <strong>Carol Carneiro é uma Designer de Ambientes</strong> apaixonada por reutilização de materiais. <a href="http://blogcarolcarneiro.blogspot.com.br/" target="_blank">No blog que ela edita</a> dá pra ver muito mais do que ela já andou produzindo, além de suas ideias transformadas em posts. Além disso, há muito mais em <a href="https://www.facebook.com/Blog-Carol-Carneiro-185450341509448/" target="_blank">sua página no Facebook. É só clicar aqui</a>, curtir e acompanhar.
+  <strong>Carol Carneiro é uma Designer de Ambientes</strong> apaixonada por reutilização de materiais. <a href="http://blogcarolcarneiro.blogspot.com.br/" target="_blank" rel="noopener noreferrer">No blog que ela edita</a> dá pra ver muito mais do que ela já andou produzindo, além de suas ideias transformadas em posts. Além disso, há muito mais em <a href="https://www.facebook.com/Blog-Carol-Carneiro-185450341509448/" target="_blank" rel="noopener noreferrer">sua página no Facebook. É só clicar aqui</a>, curtir e acompanhar.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14278 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER.png" alt="LOJA TROLOLO DE MULHER" width="468" height="176" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14278 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER.png" alt="LOJA TROLOLO DE MULHER" width="468" height="176" /></a>
 </p>

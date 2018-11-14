@@ -1,10 +1,7 @@
 ---
-id: 3511
 title: Dieta detox ajuda mesmo ou é modinha?
-date: 2015-11-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/11/12/dieta-detox/
 permalink: /2015/11/12/dieta-detox/
 categories:
   - Publieditorial
@@ -23,7 +20,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/11/SAUDE-ALIMENTACAO-SAUDAVEL-DIETA-DIETA-DETOX2.jpg"><img class="alignnone size-full wp-image-11669" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/11/SAUDE-ALIMENTACAO-SAUDAVEL-DIETA-DIETA-DETOX2.jpg" alt="SAUDE-ALIMENTACAO SAUDAVEL-DIETA-DIETA DETOX[2]" width="700" height="444" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/11/SAUDE-ALIMENTACAO-SAUDAVEL-DIETA-DIETA-DETOX2.jpg"><img class="alignnone size-full wp-image-11669" src="https://www.trololodemulher.com.br/2015/11/SAUDE-ALIMENTACAO-SAUDAVEL-DIETA-DIETA-DETOX2.jpg" alt="SAUDE-ALIMENTACAO SAUDAVEL-DIETA-DIETA DETOX[2]" width="700" height="444" /></a>
 </p>
 
 <p align="justify">
@@ -31,11 +28,11 @@ categories:
 </p>
 
 <p align="justify">
-  >> <a href="http://www.trololodemulher.com.br/2011/06/03/agua-saude-2/" target="_blank">Quanto você já bebeu de água hoje?</a> Fique atenta a isso e beba <b>muita água;</b>
+  >> <a href="http://www.trololodemulher.com.br/2011/06/03/agua-saude-2/" target="_blank" rel="noopener noreferrer">Quanto você já bebeu de água hoje?</a> Fique atenta a isso e beba <b>muita água;</b>
 </p>
 
 <p align="justify">
-  >> <a href="http://www.trololodemulher.com.br/2012/06/18/intestino-funcionando-bem/" target="_blank">Seu intestino está funcionando bem?</a> Esse orgão precisa estar em movimento! Se você não consegue, informe-se sobre alimentos que te ajudem nesse sentido e, se neessário, busque ajuda médica.
+  >> <a href="http://www.trololodemulher.com.br/2012/06/18/intestino-funcionando-bem/" target="_blank" rel="noopener noreferrer">Seu intestino está funcionando bem?</a> Esse orgão precisa estar em movimento! Se você não consegue, informe-se sobre alimentos que te ajudem nesse sentido e, se neessário, busque ajuda médica.
 </p>
 
 <p align="justify">
@@ -43,7 +40,7 @@ categories:
 </p>
 
 <p align="justify">
-  >> Coma <b>várias porções de frutas e vegetais coloridos</b> todos os dias. Tenha uma <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank">alimentação saudável</a> e, no caso das verduras que normalmente você não comeria, elas podem entrar em <a href="http://www.belezacorpoecia.com/saude-beleza-sucos-funcionais/" target="_blank">sucos detox</a>, e é nesse sentido que eles são tão positivos.
+  >> Coma <b>várias porções de frutas e vegetais coloridos</b> todos os dias. Tenha uma <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank" rel="noopener noreferrer">alimentação saudável</a> e, no caso das verduras que normalmente você não comeria, elas podem entrar em <a href="http://www.belezacorpoecia.com/saude-beleza-sucos-funcionais/" target="_blank" rel="noopener noreferrer">sucos detox</a>, e é nesse sentido que eles são tão positivos.
 </p>
 
 <p align="justify">
@@ -59,7 +56,7 @@ categories:
 </p>
 
 <p align="justify">
-  >> <b><a href="http://www.belezacorpoecia.com/como-relaxar-tensoes/" target="_blank">Relaxe suas tensões</a></b> todos os dias, para colocar o seu sistema nervoso em um estado de calma e descanso.
+  >> <b><a href="http://www.belezacorpoecia.com/como-relaxar-tensoes/" target="_blank" rel="noopener noreferrer">Relaxe suas tensões</a></b> todos os dias, para colocar o seu sistema nervoso em um estado de calma e descanso.
 </p>
 
 <p align="justify">
@@ -67,13 +64,13 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/11/SAUDE-ALIMENTACAO-SAUDAVEL-DIETA-DIETA-DETOX3.jpg"><img class="alignnone size-full wp-image-11672" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/11/SAUDE-ALIMENTACAO-SAUDAVEL-DIETA-DIETA-DETOX3.jpg" alt="SAUDE-ALIMENTACAO SAUDAVEL-DIETA-DIETA DETOX[3]" width="661" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/11/SAUDE-ALIMENTACAO-SAUDAVEL-DIETA-DIETA-DETOX3.jpg"><img class="alignnone size-full wp-image-11672" src="https://www.trololodemulher.com.br/2015/11/SAUDE-ALIMENTACAO-SAUDAVEL-DIETA-DIETA-DETOX3.jpg" alt="SAUDE-ALIMENTACAO SAUDAVEL-DIETA-DIETA DETOX[3]" width="661" height="800" /></a>
 </p>
 
 <p align="justify">
-  Se quiser ajuda para <b>implementar passos simples de desintoxicação e combate aos vícios</b> em açúcar e outros alimentos, e começar com o <b>pé direito um processo de emagrecimento</b> definitivo, eu convido você a conhecer o <b>Método Start</b> de Desintoxicação em Emagrecimento <a href="http://saudeconstante.com/metodostart1" target="_blank">nesta página aqui</a>. Se joga!
+  Se quiser ajuda para <b>implementar passos simples de desintoxicação e combate aos vícios</b> em açúcar e outros alimentos, e começar com o <b>pé direito um processo de emagrecimento</b> definitivo, eu convido você a conhecer o <b>Método Start</b> de Desintoxicação em Emagrecimento <a href="http://saudeconstante.com/metodostart1" target="_blank" rel="noopener noreferrer">nesta página aqui</a>. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

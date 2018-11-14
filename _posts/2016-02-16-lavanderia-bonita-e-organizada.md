@@ -1,10 +1,7 @@
 ---
-id: 3542
 title: 'Por uma lavanderia bonita e organizada: 8 dicas.'
-date: 2016-02-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/02/16/lavanderia-bonita-e-organizada/
 permalink: /2016/02/16/lavanderia-bonita-e-organizada/
 categories:
   - Lavanderia
@@ -15,23 +12,23 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11918" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-LAVANDERIA.jpg" alt="DECORACAO-LAVANDERIA" width="706" height="696" />
+  <img class="alignnone size-full wp-image-11918" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-LAVANDERIA.jpg" alt="DECORACAO-LAVANDERIA" width="706" height="696" />
 </p>
 
 <p align="center">
-  Via <a href="http://mariadovaral.blogspot.com.br/" target="_blank">Maria do Varal</a>
+  Via <a href="http://mariadovaral.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Maria do Varal</a>
 </p>
 
 <p align="justify">
-  1 &#8211; Se a ideia é economizar e não instalar armários, é possível ter uma lavanderia <em>clean</em> e bem organizada fazendo uso de prateleiras na parede. A verticalização do espaço permite que você use <a href="http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/" target="_blank">caixas organizadoras</a>, tenha onde pendurar roupas e até fazer uma graça com objetos decorativos. O visual, ao final de tudo, ainda ganha uma <em>bossa</em> de modernidade. Fica a dica.
+  1 &#8211; Se a ideia é economizar e não instalar armários, é possível ter uma lavanderia <em>clean</em> e bem organizada fazendo uso de prateleiras na parede. A verticalização do espaço permite que você use <a href="http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/" target="_blank" rel="noopener noreferrer">caixas organizadoras</a>, tenha onde pendurar roupas e até fazer uma graça com objetos decorativos. O visual, ao final de tudo, ainda ganha uma <em>bossa</em> de modernidade. Fica a dica.
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11919" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-LAVANDERIA2.jpg" alt="DECORACAO-LAVANDERIA[2]" width="680" height="460" />
+  <img class="alignnone size-full wp-image-11919" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-LAVANDERIA2.jpg" alt="DECORACAO-LAVANDERIA[2]" width="680" height="460" />
 </p>
 
 <p align="center">
-  Via <a href="https://www.movelaria.com.br/" target="_blank">Movelaria</a>
+  Via <a href="https://www.movelaria.com.br/" target="_blank" rel="noopener noreferrer">Movelaria</a>
 </p>
 
 <p align="justify">
@@ -39,11 +36,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11920" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-LAVANDERIA3.jpg" alt="DECORACAO-LAVANDERIA[3]" width="595" height="800" />
+  <img class="alignnone size-full wp-image-11920" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-LAVANDERIA3.jpg" alt="DECORACAO-LAVANDERIA[3]" width="595" height="800" />
 </p>
 
 <p align="center">
-  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
+  Via <a href="http://casa.abril.com.br/" target="_blank" rel="noopener noreferrer">Casa Abril</a>
 </p>
 
 <p align="justify">
@@ -51,11 +48,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11921" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/02/DECORACAO-LAVANDERIA4.jpg" alt="DECORACAO-LAVANDERIA[4]" width="533" height="800" />
+  <img class="alignnone size-full wp-image-11921" src="https://www.trololodemulher.com.br/2016/02/DECORACAO-LAVANDERIA4.jpg" alt="DECORACAO-LAVANDERIA[4]" width="533" height="800" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.countrykittyland.com/2012/01/my-teeny-tiny-laundry-room.html" target="_blank">Country Kitty</a>
+  Via <a href="http://www.countrykittyland.com/2012/01/my-teeny-tiny-laundry-room.html" target="_blank" rel="noopener noreferrer">Country Kitty</a>
 </p>
 
 <p align="justify">
@@ -75,7 +72,7 @@ categories:
 </p>
 
 <p align="justify">
-  7 – Onde e como você vai guardar sua tábua de passar roupas? Você pode colocar uma <a href="http://www.trololodemulher.com.br/2010/06/18/tabua-passar-roupa-retratil/" target="_blank">tábua retrátil</a> ou ainda planejar um local para guardá-la no armário. Procure por ganchos adequados para pendurá-la num cantinho de parede. Não esqueça desse detalhe, caso contrário você terá um <em>trambolho</em> sendo levado pra lá e pra cá. Fica a dica.
+  7 – Onde e como você vai guardar sua tábua de passar roupas? Você pode colocar uma <a href="http://www.trololodemulher.com.br/2010/06/18/tabua-passar-roupa-retratil/" target="_blank" rel="noopener noreferrer">tábua retrátil</a> ou ainda planejar um local para guardá-la no armário. Procure por ganchos adequados para pendurá-la num cantinho de parede. Não esqueça desse detalhe, caso contrário você terá um <em>trambolho</em> sendo levado pra lá e pra cá. Fica a dica.
 </p>
 
 <p align="justify">
@@ -83,7 +80,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

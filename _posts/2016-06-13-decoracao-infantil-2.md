@@ -1,10 +1,7 @@
 ---
-id: 3625
 title: 'Decoração infantil: enfeite de tecido para o quarto ou festa.'
-date: 2016-06-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/06/13/decoracao-infantil-2/
 permalink: /2016/06/13/decoracao-infantil-2/
 categories:
   - Decoração
@@ -19,7 +16,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12661" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-INFANTIL-QUARTO-FESTA-FACA-VOCE-MESMA3.png" alt="DECORACAO-INFANTIL-QUARTO-FESTA-FACA VOCE MESMA[3]" width="675" height="980" />
+  <img class="alignnone size-full wp-image-12661" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-INFANTIL-QUARTO-FESTA-FACA-VOCE-MESMA3.png" alt="DECORACAO-INFANTIL-QUARTO-FESTA-FACA VOCE MESMA[3]" width="675" height="980" />
 </p>
 
 <p style="text-align: left;" align="center">
@@ -27,7 +24,7 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/cortina-quarto-infantil/" target="_blank"><strong>Cortina de bolinhas em quarto infantil: faça você mesma!</strong></a>
+  <a href="http://www.decoracaodacasa.com/cortina-quarto-infantil/" target="_blank" rel="noopener noreferrer"><strong>Cortina de bolinhas em quarto infantil: faça você mesma!</strong></a>
 </p>
 
 &nbsp;
@@ -39,7 +36,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12662" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-INFANTIL-QUARTO-FESTA-FACA-VOCE-MESMA4.jpg" alt="DECORACAO-INFANTIL-QUARTO-FESTA-FACA VOCE MESMA[4]" width="580" height="384" />
+  <img class="alignnone size-full wp-image-12662" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-INFANTIL-QUARTO-FESTA-FACA-VOCE-MESMA4.jpg" alt="DECORACAO-INFANTIL-QUARTO-FESTA-FACA VOCE MESMA[4]" width="580" height="384" />
 </p>
 
 <p style="text-align: left;" align="center">
@@ -47,19 +44,19 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank"><strong>2 ideias para festa ou decoração infantil: faça você mesma!</strong></a>
+  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank" rel="noopener noreferrer"><strong>2 ideias para festa ou decoração infantil: faça você mesma!</strong></a>
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  Você já deve supor o material necessário? Tecido, tesoura, cordão. No mais, há uma forma especial de amarrar suas tiras de tecido. Aprenda como fazer no post original, no blog <a href="http://greyhouseharbor.com/how-to-make-a-fabric-garland/" target="_blank">Gray House Harbor, bem aqui</a>. É simples, acredite! Veja as imagens e comprove: elas falam por si.
+  Você já deve supor o material necessário? Tecido, tesoura, cordão. No mais, há uma forma especial de amarrar suas tiras de tecido. Aprenda como fazer no post original, no blog <a href="http://greyhouseharbor.com/how-to-make-a-fabric-garland/" target="_blank" rel="noopener noreferrer">Gray House Harbor, bem aqui</a>. É simples, acredite! Veja as imagens e comprove: elas falam por si.
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

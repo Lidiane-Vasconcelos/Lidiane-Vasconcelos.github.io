@@ -1,10 +1,7 @@
 ---
-id: 2839
 title: Expectativas reais, você tem?
-date: 2010-06-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/06/28/emagrecimento-expectativas/
 permalink: /2010/06/28/emagrecimento-expectativas/
 categories:
   - Comportamento
@@ -26,7 +23,7 @@ O caminho mais seguro para que isso não ocorra, é fazer uma breve avaliação 
 Quando nos afastamos de uma  situação e fazemos uma pré avaliação do andamento e percurso a se percorrer para o alcance de um objetivo,  podemos ter a noção de uma realidade mais fidedigna, não nos frustrando tanto quando não alcançamos o resultado almejado.
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/expectativa.jpg"><img class="size-medium wp-image-5107 aligncenter" title="expectativa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/expectativa-300x279.jpg" alt="" width="300" height="279" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/expectativa.jpg"><img class="size-medium wp-image-5107 aligncenter" title="expectativa" src="https://www.trololodemulher.com.br/2010/08/expectativa-300x279.jpg" alt="" width="300" height="279" /></a>
 </p>
 
 Esse processo é muito importante quando decidir iniciar sua reeducação alimentar, pois regimes e dietas são contraproducentes, então faça certo desde o início. Você precisa ter em suas mãos o controle da sua ingestão alimentar, pois comer é para se nutrir, e não para preencher um vazio, ou um processo de ansiedade frente a outras situações a que possa estar exposto diariamente.
@@ -39,13 +36,13 @@ A reeducação emocional e alimentar é o caminho do sucesso para qualquer proce
 
 ( Rhandy di Stefano )
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 
 **_Luciana Kotaka – Psicóloga Clínica_**
 
 Especialista em Obesidade e Transtornos Alimentares
 
-<a href="http://blog.comportamentomagro.com.br/" target="_blank">WWW.comportamentomagro.com.br</a>
+<a href="http://blog.comportamentomagro.com.br/" target="_blank" rel="noopener noreferrer">WWW.comportamentomagro.com.br</a>
 
 Curitiba – PR
 

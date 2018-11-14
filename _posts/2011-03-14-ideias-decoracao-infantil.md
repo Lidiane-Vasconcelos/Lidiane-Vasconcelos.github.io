@@ -1,10 +1,7 @@
 ---
-id: 2964
 title: 5 ideias para a decoração infantil no quarto dos pequenos…
-date: 2011-03-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/03/14/ideias-decoracao-infantil/
 permalink: /2011/03/14/ideias-decoracao-infantil/
 categories:
   - Decoração
@@ -19,7 +16,7 @@ Quer dar um ar diferente e artesanal na decoração do quarto de sua criança, o
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/quadro-infantil.jpg"><img class="alignnone size-full wp-image-6066" title="quadro infantil" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/quadro-infantil.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/quadro-infantil.jpg"><img class="alignnone size-full wp-image-6066" title="quadro infantil" src="https://www.trololodemulher.com.br/2011/02/quadro-infantil.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -33,11 +30,11 @@ Quer dar um ar diferente e artesanal na decoração do quarto de sua criança, o
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg"><img class="alignnone size-full wp-image-5330" title="Quadro Meu Primeiro Carrinho200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank">Quadro Meu Primeiro Carrinho</a></em></strong>
+      <strong><em><a href="https://www.trololodemulher.com.br/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg"><img class="alignnone size-full wp-image-5330" title="Quadro Meu Primeiro Carrinho200" src="https://www.trololodemulher.com.br/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank" rel="noopener noreferrer">Quadro Meu Primeiro Carrinho</a></em></strong>
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-      <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-Bolsinha200.jpg"><img class="alignnone size-full wp-image-5325" title="Quadro Cenário Bolsinha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-Bolsinha200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/" target="_blank">Quadro Cenário Bolsinha</a></em></strong>
+      <strong><em><a href="https://www.trololodemulher.com.br/2010/10/Quadro-Cenario-Bolsinha200.jpg"><img class="alignnone size-full wp-image-5325" title="Quadro Cenário Bolsinha200" src="https://www.trololodemulher.com.br/2010/10/Quadro-Cenario-Bolsinha200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/" target="_blank" rel="noopener noreferrer">Quadro Cenário Bolsinha</a></em></strong>
     </td>
   </tr>
 </table>
@@ -47,7 +44,7 @@ Quer dar um ar diferente e artesanal na decoração do quarto de sua criança, o
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/caixa-porta-treco-infantil.jpg"><img class="alignnone size-full wp-image-6063" title="caixa porta treco infantil" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/caixa-porta-treco-infantil.jpg" alt="" width="300" height="300" /></a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/caixa-porta-treco-infantil.jpg"></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/caixa-porta-treco-infantil.jpg"><img class="alignnone size-full wp-image-6063" title="caixa porta treco infantil" src="https://www.trololodemulher.com.br/2011/02/caixa-porta-treco-infantil.jpg" alt="" width="300" height="300" /></a><a href="https://www.trololodemulher.com.br/2011/02/caixa-porta-treco-infantil.jpg"></a>
 </p>
 
 <p style="text-align: justify;">
@@ -61,11 +58,11 @@ Quer dar um ar diferente e artesanal na decoração do quarto de sua criança, o
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Porta-Fotografia-Lembrancas-da-Praia200.jpg"><img class="alignnone size-full wp-image-5548" title="Porta Fotografia Lembranças da Praia200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Porta-Fotografia-Lembrancas-da-Praia200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-fotografia/" target="_blank">Porta Fotografia Lembranças da Praia</a></em></strong>
+      <strong><em><a href="https://www.trololodemulher.com.br/2010/11/Porta-Fotografia-Lembrancas-da-Praia200.jpg"><img class="alignnone size-full wp-image-5548" title="Porta Fotografia Lembranças da Praia200" src="https://www.trololodemulher.com.br/2010/11/Porta-Fotografia-Lembrancas-da-Praia200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-fotografia/" target="_blank" rel="noopener noreferrer">Porta Fotografia Lembranças da Praia</a></em></strong>
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-      <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Mini-Comoda-Gatinha-200.jpg"><img class="alignnone size-full wp-image-5349" title="Mini Cômoda Gatinha 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Mini-Comoda-Gatinha-200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank">Mini Cômoda Gatinha</a></em></strong>
+      <strong><em><a href="https://www.trololodemulher.com.br/2010/10/Mini-Comoda-Gatinha-200.jpg"><img class="alignnone size-full wp-image-5349" title="Mini Cômoda Gatinha 200" src="https://www.trololodemulher.com.br/2010/10/Mini-Comoda-Gatinha-200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank" rel="noopener noreferrer">Mini Cômoda Gatinha</a></em></strong>
     </td>
   </tr>
 </table>
@@ -75,7 +72,7 @@ Quer dar um ar diferente e artesanal na decoração do quarto de sua criança, o
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/almofada-infantil.jpg"><img class="alignnone size-full wp-image-6062" title="almofada infantil" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/almofada-infantil.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/almofada-infantil.jpg"><img class="alignnone size-full wp-image-6062" title="almofada infantil" src="https://www.trololodemulher.com.br/2011/02/almofada-infantil.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -83,7 +80,7 @@ Quer dar um ar diferente e artesanal na decoração do quarto de sua criança, o
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/letras-em-feltro.jpg"><img class="alignnone size-full wp-image-6065" title="letras em feltro" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/letras-em-feltro.jpg" alt="" width="300" height="250" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/letras-em-feltro.jpg"><img class="alignnone size-full wp-image-6065" title="letras em feltro" src="https://www.trololodemulher.com.br/2011/02/letras-em-feltro.jpg" alt="" width="300" height="250" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -91,14 +88,14 @@ Quer dar um ar diferente e artesanal na decoração do quarto de sua criança, o
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/espelho-infantil.jpg"><img class="alignnone size-full wp-image-6064" title="espelho infantil" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/espelho-infantil.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/espelho-infantil.jpg"><img class="alignnone size-full wp-image-6064" title="espelho infantil" src="https://www.trololodemulher.com.br/2011/02/espelho-infantil.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
   Aqui o princípio é o mesmo da caixa porta-treco: colar botões e mais botões, todos de formas e tamanhos diferentes. Também há na moldura do espelho, a exemplo do que vimos na caixa logo acima, uma camada por baixo, e outra por cima. Não tenho dúvidas de que o trabalho exige paciência, mas será que o resultado final não compensa? Mãos á obra!
 </p>
 
-_Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Gardens</em></a>
+_Imagens:_ <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer"><em>Better Homes and Gardens</em></a>
 
 **Mais no Bicha Fêmea…**
 

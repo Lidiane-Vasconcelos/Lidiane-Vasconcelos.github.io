@@ -1,10 +1,7 @@
 ---
-id: 3499
 title: 'Boduchinhos: roupa infantil que foge da mesmice.'
-date: 2015-10-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/10/13/roupa-infantil/
 permalink: /2015/10/13/roupa-infantil/
 categories:
   - Maternidade
@@ -12,7 +9,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  Basta descobrir a gravidez e a gente já fica pensando: menino ou menina? Por trás da dúvida está a ansiedade de logo começar a montar o enxoval e comprar as roupinhas. E eis que esse momento chega! É pura diversão escolher cada pecinha do guarda-roupas da cria, não é? Mais legal ainda é dar de cara com uma loja de <strong>roupa infantil</strong> como a que eu quero te apresentar por aqui: <strong><a href="http://boduchinhos.iluria.com/index.html" target="_blank">Boduchinhos</a></strong>. É muito estilo e pura <em>fofurice</em> em moda para pequenos!
+  Basta descobrir a gravidez e a gente já fica pensando: menino ou menina? Por trás da dúvida está a ansiedade de logo começar a montar o enxoval e comprar as roupinhas. E eis que esse momento chega! É pura diversão escolher cada pecinha do guarda-roupas da cria, não é? Mais legal ainda é dar de cara com uma loja de <strong>roupa infantil</strong> como a que eu quero te apresentar por aqui: <strong><a href="http://boduchinhos.iluria.com/index.html" target="_blank" rel="noopener noreferrer">Boduchinhos</a></strong>. É muito estilo e pura <em>fofurice</em> em moda para pequenos!
 </p>
 
 <p align="justify">
@@ -20,7 +17,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/MODA-ROUPAS-INFANTIL-CRIANCAS-BODUCHINHOS.jpg"><img class="alignnone size-full wp-image-11575" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/MODA-ROUPAS-INFANTIL-CRIANCAS-BODUCHINHOS.jpg" alt="MODA-ROUPAS-INFANTIL-CRIANCAS-BODUCHINHOS" width="800" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/MODA-ROUPAS-INFANTIL-CRIANCAS-BODUCHINHOS.jpg"><img class="alignnone size-full wp-image-11575" src="https://www.trololodemulher.com.br/2015/10/MODA-ROUPAS-INFANTIL-CRIANCAS-BODUCHINHOS.jpg" alt="MODA-ROUPAS-INFANTIL-CRIANCAS-BODUCHINHOS" width="800" height="800" /></a>
 </p>
 
 <p align="justify">
@@ -28,13 +25,13 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/MODA-ROUPAS-INFANTIL-CRIANCAS-BODUCHINHOS5.jpg"><img class="alignnone size-full wp-image-11577" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/MODA-ROUPAS-INFANTIL-CRIANCAS-BODUCHINHOS5.jpg" alt="MODA-ROUPAS-INFANTIL-CRIANCAS-BODUCHINHOS[5]" width="800" height="286" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/MODA-ROUPAS-INFANTIL-CRIANCAS-BODUCHINHOS5.jpg"><img class="alignnone size-full wp-image-11577" src="https://www.trololodemulher.com.br/2015/10/MODA-ROUPAS-INFANTIL-CRIANCAS-BODUCHINHOS5.jpg" alt="MODA-ROUPAS-INFANTIL-CRIANCAS-BODUCHINHOS[5]" width="800" height="286" /></a>
 </p>
 
 <p align="justify">
-  Curiosa para dar uma espiada na Boduchinhos? Se joga na <a href="http://boduchinhos.iluria.com/index.html" target="_blank">loja virtual bem aqui</a>, e acompanhe a loja no <a href="https://www.facebook.com/boduchinhos" target="_blank">Facebook</a>. Fique por dentro das novidades e descubra como sua cria pode ficar pura gostosura, vestindo as roupinhas mais lindas de viver. Se joga!
+  Curiosa para dar uma espiada na Boduchinhos? Se joga na <a href="http://boduchinhos.iluria.com/index.html" target="_blank" rel="noopener noreferrer">loja virtual bem aqui</a>, e acompanhe a loja no <a href="https://www.facebook.com/boduchinhos" target="_blank" rel="noopener noreferrer">Facebook</a>. Fique por dentro das novidades e descubra como sua cria pode ficar pura gostosura, vestindo as roupinhas mais lindas de viver. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

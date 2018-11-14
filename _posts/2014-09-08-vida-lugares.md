@@ -1,10 +1,7 @@
 ---
-id: 3340
 title: As voltas que a vida dá nos levam a lugares inimagináveis!
-date: 2014-09-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/09/08/vida-lugares/
 permalink: /2014/09/08/vida-lugares/
 categories:
   - Adriana Minhoto
@@ -20,7 +17,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/COMPORTAMENTO-COMPORTAMENTO-FEMININO-ESTILO-DE-VIDA-FAMILIA.png"><img class="alignnone size-full wp-image-10379" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/COMPORTAMENTO-COMPORTAMENTO-FEMININO-ESTILO-DE-VIDA-FAMILIA.png" alt="COMPORTAMENTO-COMPORTAMENTO FEMININO-ESTILO DE VIDA-FAMILIA" width="800" height="385" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/COMPORTAMENTO-COMPORTAMENTO-FEMININO-ESTILO-DE-VIDA-FAMILIA.png"><img class="alignnone size-full wp-image-10379" src="https://www.trololodemulher.com.br/2014/09/COMPORTAMENTO-COMPORTAMENTO-FEMININO-ESTILO-DE-VIDA-FAMILIA.png" alt="COMPORTAMENTO-COMPORTAMENTO FEMININO-ESTILO DE VIDA-FAMILIA" width="800" height="385" /></a>
 </p>
 
 <p align="justify">
@@ -44,7 +41,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/COMPORTAMENTO-COMPORTAMENTO-FEMININO-ESTILO-DE-VIDA-VIAGEM-CASAL.jpg"><img class="alignnone size-full wp-image-10381" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/COMPORTAMENTO-COMPORTAMENTO-FEMININO-ESTILO-DE-VIDA-VIAGEM-CASAL.jpg" alt="COMPORTAMENTO-COMPORTAMENTO FEMININO-ESTILO DE VIDA-VIAGEM-CASAL" width="800" height="531" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/COMPORTAMENTO-COMPORTAMENTO-FEMININO-ESTILO-DE-VIDA-VIAGEM-CASAL.jpg"><img class="alignnone size-full wp-image-10381" src="https://www.trololodemulher.com.br/2014/09/COMPORTAMENTO-COMPORTAMENTO-FEMININO-ESTILO-DE-VIDA-VIAGEM-CASAL.jpg" alt="COMPORTAMENTO-COMPORTAMENTO FEMININO-ESTILO DE VIDA-VIAGEM-CASAL" width="800" height="531" /></a>
 </p>
 
 <p align="center">
@@ -56,11 +53,11 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/COMPORTAMENTO-COMPORTAMENTO-FEMININO-ESTILO-DE-VIDA-VIAGEM-AVIAO.jpg"><img class="alignnone size-full wp-image-10380" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/COMPORTAMENTO-COMPORTAMENTO-FEMININO-ESTILO-DE-VIDA-VIAGEM-AVIAO.jpg" alt="COMPORTAMENTO-COMPORTAMENTO FEMININO-ESTILO DE VIDA-VIAGEM-AVIAO" width="800" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/COMPORTAMENTO-COMPORTAMENTO-FEMININO-ESTILO-DE-VIDA-VIAGEM-AVIAO.jpg"><img class="alignnone size-full wp-image-10380" src="https://www.trololodemulher.com.br/2014/09/COMPORTAMENTO-COMPORTAMENTO-FEMININO-ESTILO-DE-VIDA-VIAGEM-AVIAO.jpg" alt="COMPORTAMENTO-COMPORTAMENTO FEMININO-ESTILO DE VIDA-VIAGEM-AVIAO" width="800" height="449" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/COMPORTAMENTO-COMPORTAMENTO-FEMININO-ESTILO-DE-VIDA-VIAGEM-MALAS.jpg"><img class="alignnone size-full wp-image-10382" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/COMPORTAMENTO-COMPORTAMENTO-FEMININO-ESTILO-DE-VIDA-VIAGEM-MALAS.jpg" alt="COMPORTAMENTO-COMPORTAMENTO FEMININO-ESTILO DE VIDA-VIAGEM-MALAS" width="800" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/COMPORTAMENTO-COMPORTAMENTO-FEMININO-ESTILO-DE-VIDA-VIAGEM-MALAS.jpg"><img class="alignnone size-full wp-image-10382" src="https://www.trololodemulher.com.br/2014/09/COMPORTAMENTO-COMPORTAMENTO-FEMININO-ESTILO-DE-VIDA-VIAGEM-MALAS.jpg" alt="COMPORTAMENTO-COMPORTAMENTO FEMININO-ESTILO DE VIDA-VIAGEM-MALAS" width="800" height="449" /></a>
 </p>
 
 <p align="justify">
@@ -68,15 +65,15 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ADRIANA-MINHOTO.png"><img class="alignnone size-full wp-image-10378" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ADRIANA-MINHOTO.png" alt="ADRIANA MINHOTO" width="800" height="227" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/ADRIANA-MINHOTO.png"><img class="alignnone size-full wp-image-10378" src="https://www.trololodemulher.com.br/2014/09/ADRIANA-MINHOTO.png" alt="ADRIANA MINHOTO" width="800" height="227" /></a>
 </p>
 
 <p align="justify">
-  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai!
+  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank" rel="noopener noreferrer">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank" rel="noopener noreferrer">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer">clicar aqui e se jogar</a>! Vai!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 <p align="justify">

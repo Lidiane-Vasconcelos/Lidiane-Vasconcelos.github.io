@@ -1,10 +1,7 @@
 ---
-id: 3744
 title: 'Respostas para as dúvidas sobre gravidez: o que pode?'
-date: 2017-03-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/03/22/duvidas-sobre-gravidez/
 permalink: /2017/03/22/duvidas-sobre-gravidez/
 categories:
   - Maternidade
@@ -15,11 +12,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13645" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/SAUDE-DA-MULHER-SAUDE-FEMININA-SAUDE-DA-GRAVIDA-GRAVIDEZ-GESTACAO-DUVIDAS-DA-GRAVIDEZ.jpg" alt="SAUDE DA MULHER-SAUDE FEMININA-SAUDE DA GRAVIDA-GRAVIDEZ-GESTACAO-DUVIDAS DA GRAVIDEZ" width="800" height="533" />
+  <img class="alignnone size-full wp-image-13645" src="https://www.trololodemulher.com.br/2017/03/SAUDE-DA-MULHER-SAUDE-FEMININA-SAUDE-DA-GRAVIDA-GRAVIDEZ-GESTACAO-DUVIDAS-DA-GRAVIDEZ.jpg" alt="SAUDE DA MULHER-SAUDE FEMININA-SAUDE DA GRAVIDA-GRAVIDEZ-GESTACAO-DUVIDAS DA GRAVIDEZ" width="800" height="533" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/thevelvetbird/5375494443/" target="_blank">thevelvetbird</a> via <a href="http://foter.com/re/d94a4e" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Imagem: <a href="https://www.flickr.com/photos/thevelvetbird/5375494443/" target="_blank" rel="noopener noreferrer">thevelvetbird</a> via <a href="http://foter.com/re/d94a4e" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener noreferrer">CC BY</a>
 </p>
 
 <p align="justify">
@@ -51,7 +48,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11096" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/GINECOLOGIA-OBSTETRICIA-DRA-LIVIA-VIEIRA-SAO-JOSE-RIO-PRETO-SP.jpg" alt="GINECOLOGIA-OBSTETRICIA-DRA LIVIA VIEIRA-SAO JOSE RIO PRETO-SP" width="800" height="174" />
+  <img class="alignnone size-full wp-image-11096" src="https://www.trololodemulher.com.br/2015/07/GINECOLOGIA-OBSTETRICIA-DRA-LIVIA-VIEIRA-SAO-JOSE-RIO-PRETO-SP.jpg" alt="GINECOLOGIA-OBSTETRICIA-DRA LIVIA VIEIRA-SAO JOSE RIO PRETO-SP" width="800" height="174" />
 </p>
 
 <p align="justify">
@@ -59,23 +56,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/10/hipertensao-gestacional/" target="_blank"><strong>Hipertensão gestacional: entenda tudo de um jeito simples.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/10/hipertensao-gestacional/" target="_blank" rel="noopener noreferrer"><strong>Hipertensão gestacional: entenda tudo de um jeito simples.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/02/06/mioma/" target="_blank"><strong>Você descobriu que tem um mioma… e agora?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/02/06/mioma/" target="_blank" rel="noopener noreferrer"><strong>Você descobriu que tem um mioma… e agora?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/08/03/o-que-e-hpv/" target="_blank"><strong>O que é HPV, sintomas e tratamento.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/08/03/o-que-e-hpv/" target="_blank" rel="noopener noreferrer"><strong>O que é HPV, sintomas e tratamento.</strong></a>
 </p>
 
 <p align="justify">
-  Você pode ver mais informações a respeito das especialidades de tratamento da médica <a href="http://www.draliviaavieira.com/" target="_blank">clicando aqui, e acessando o seu site</a>. Dra. Lívia também atualiza uma página no Facebook constantemente, toda ela repleta de informação útil para saúde da mulher antes, durante e após a gestação. Eu, que não sou boba nem nada, já curti. Vem também? <a href="https://www.facebook.com/draliviaavieira/timeline" target="_blank">Clica aqui, curta</a> e informe-se! No Instagram a médica te mune de muita informação relevante, de extrema qualidade. <a href="https://www.instagram.com/draliviavieiraginecologista/" target="_blank">Clique aqui e siga</a>!
+  Você pode ver mais informações a respeito das especialidades de tratamento da médica <a href="http://www.draliviaavieira.com/" target="_blank" rel="noopener noreferrer">clicando aqui, e acessando o seu site</a>. Dra. Lívia também atualiza uma página no Facebook constantemente, toda ela repleta de informação útil para saúde da mulher antes, durante e após a gestação. Eu, que não sou boba nem nada, já curti. Vem também? <a href="https://www.facebook.com/draliviaavieira/timeline" target="_blank" rel="noopener noreferrer">Clica aqui, curta</a> e informe-se! No Instagram a médica te mune de muita informação relevante, de extrema qualidade. <a href="https://www.instagram.com/draliviavieiraginecologista/" target="_blank" rel="noopener noreferrer">Clique aqui e siga</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

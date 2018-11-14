@@ -1,10 +1,7 @@
 ---
-id: 3169
 title: Meus pitacos de decoração baratinha no escritório da Maria…
-date: 2012-08-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/08/10/decoracao-barata-escritorio/
 permalink: /2012/08/10/decoracao-barata-escritorio/
 categories:
   - Escritório
@@ -30,7 +27,7 @@ O _e-mail_ que recebi dela foi assim:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/olympus-digital-camera-36/" rel="attachment wp-att-8996"><img class="alignnone size-full wp-image-8996" title="DECORAÇÃO-HOME OFFICE-ESCRITORIO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORAÇÃO-HOME-OFFICE-ESCRITORIO.jpg" alt="" width="600" height="450" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/olympus-digital-camera-36/" rel="attachment wp-att-8996"><img class="alignnone size-full wp-image-8996" title="DECORAÇÃO-HOME OFFICE-ESCRITORIO" src="https://www.trololodemulher.com.br/2012/08/DECORAÇÃO-HOME-OFFICE-ESCRITORIO.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -42,7 +39,7 @@ O _e-mail_ que recebi dela foi assim:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/olympus-digital-camera-37/" rel="attachment wp-att-8997"><img class="alignnone size-full wp-image-8997" title="DECORACAO-HOME OFFICE-ESCRITORIO[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-HOME-OFFICE-ESCRITORIO2.jpg" alt="" width="600" height="450" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/olympus-digital-camera-37/" rel="attachment wp-att-8997"><img class="alignnone size-full wp-image-8997" title="DECORACAO-HOME OFFICE-ESCRITORIO[2]" src="https://www.trololodemulher.com.br/2012/08/DECORACAO-HOME-OFFICE-ESCRITORIO2.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -54,7 +51,7 @@ O _e-mail_ que recebi dela foi assim:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/o-4/" rel="attachment wp-att-8998"><img class="alignnone size-full wp-image-8998" title="DECORACAO-HOME OFFICE-ESCRITORIO[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-HOME-OFFICE-ESCRITORIO3.jpg" alt="" width="513" height="480" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/o-4/" rel="attachment wp-att-8998"><img class="alignnone size-full wp-image-8998" title="DECORACAO-HOME OFFICE-ESCRITORIO[3]" src="https://www.trololodemulher.com.br/2012/08/DECORACAO-HOME-OFFICE-ESCRITORIO3.jpg" alt="" width="513" height="480" /></a>
 </p>
 
 &nbsp;
@@ -66,13 +63,13 @@ O _e-mail_ que recebi dela foi assim:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/o-5/" rel="attachment wp-att-8999"><img class="alignnone size-full wp-image-8999" title="DECORACAO-HOME OFFICE-ESCRITORIO[4]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-HOME-OFFICE-ESCRITORIO4.jpg" alt="" width="588" height="480" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/o-5/" rel="attachment wp-att-8999"><img class="alignnone size-full wp-image-8999" title="DECORACAO-HOME OFFICE-ESCRITORIO[4]" src="https://www.trololodemulher.com.br/2012/08/DECORACAO-HOME-OFFICE-ESCRITORIO4.jpg" alt="" width="588" height="480" /></a>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   <em>…A mesa de vidro que aparece na foto, foi colocada aí porque não tenho onde a pôr e vou dá-la. Tenho muitas fotos de família que pensei colocar na parede onde se encontra a mesa de vidro. Junto à secretária, tenho umas fotos desenhadas a lápis, dos meus avós cujas molduras estão velhas e não sei o que fazer delas, nem tenho onde as guardar. Fico receptiva às suas sugestões, que são sempre econômicas e simples. Obrigada. Um beijinho”</em> <strong>Maria Araújo | </strong><a href="http://cantinhodacasa.blogs.sapo.pt/" target="_blank"><strong>Cantinho da Casa</strong></a>
+>   <em>…A mesa de vidro que aparece na foto, foi colocada aí porque não tenho onde a pôr e vou dá-la. Tenho muitas fotos de família que pensei colocar na parede onde se encontra a mesa de vidro. Junto à secretária, tenho umas fotos desenhadas a lápis, dos meus avós cujas molduras estão velhas e não sei o que fazer delas, nem tenho onde as guardar. Fico receptiva às suas sugestões, que são sempre econômicas e simples. Obrigada. Um beijinho”</em> <strong>Maria Araújo | </strong><a href="http://cantinhodacasa.blogs.sapo.pt/" target="_blank" rel="noopener noreferrer"><strong>Cantinho da Casa</strong></a>
 > </p>
 
 &nbsp;
@@ -94,7 +91,7 @@ O _e-mail_ que recebi dela foi assim:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/decoracao-de-parede3/" rel="attachment wp-att-6448"><img class="alignnone size-full wp-image-6448" title="decoração de parede[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-parede3.jpg" alt="" width="550" height="733" /></a><br /> Fonte: <a href="http://www.bhg.com/" target="_blank"><strong><em>Better Homes and Gardens</em></strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/decoracao-de-parede3/" rel="attachment wp-att-6448"><img class="alignnone size-full wp-image-6448" title="decoração de parede[3]" src="https://www.trololodemulher.com.br/2011/05/decoracao-de-parede3.jpg" alt="" width="550" height="733" /></a><br /> Fonte: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer"><strong><em>Better Homes and Gardens</em></strong></a>
 </p>
 
 &nbsp;
@@ -114,7 +111,7 @@ O _e-mail_ que recebi dela foi assim:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/decoracao-home-office-escritorio5/" rel="attachment wp-att-9002"><img class="alignnone size-full wp-image-9002" title="DECORACAO-HOME OFFICE-ESCRITORIO[5]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-HOME-OFFICE-ESCRITORIO5.jpg" alt="" width="600" height="400" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/decoracao-home-office-escritorio5/" rel="attachment wp-att-9002"><img class="alignnone size-full wp-image-9002" title="DECORACAO-HOME OFFICE-ESCRITORIO[5]" src="https://www.trololodemulher.com.br/2012/08/DECORACAO-HOME-OFFICE-ESCRITORIO5.jpg" alt="" width="600" height="400" /></a>
 </p>
 
 &nbsp;
@@ -130,7 +127,7 @@ O _e-mail_ que recebi dela foi assim:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/escritorio-organizado-e-decorado/" rel="attachment wp-att-5438"><img class="alignnone size-full wp-image-5438" title="escritório organizado e decorado" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/escritorio-organizado-e-decorado1.jpg" alt="" width="300" height="400" /></a><br /> Fonte: <a href="http://www.bhg.com/" target="_blank"><strong><em>Better Homes and Gardens</em></strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/escritorio-organizado-e-decorado/" rel="attachment wp-att-5438"><img class="alignnone size-full wp-image-5438" title="escritório organizado e decorado" src="https://www.trololodemulher.com.br/2010/11/escritorio-organizado-e-decorado1.jpg" alt="" width="300" height="400" /></a><br /> Fonte: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer"><strong><em>Better Homes and Gardens</em></strong></a>
 </p>
 
 &nbsp;
@@ -146,7 +143,7 @@ O _e-mail_ que recebi dela foi assim:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/decoracao-escritorio-home-office-6/" rel="attachment wp-att-9004"><img class="alignnone size-full wp-image-9004" title="DECORACAO-ESCRITORIO-HOME OFFICE [6]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-ESCRITORIO-HOME-OFFICE-6.jpg" alt="" width="300" height="333" /></a><br /> Fonte: <a href="http://www.bhg.com/" target="_blank"><strong><em>Better Homes and Gardens</em></strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/decoracao-escritorio-home-office-6/" rel="attachment wp-att-9004"><img class="alignnone size-full wp-image-9004" title="DECORACAO-ESCRITORIO-HOME OFFICE [6]" src="https://www.trololodemulher.com.br/2012/08/DECORACAO-ESCRITORIO-HOME-OFFICE-6.jpg" alt="" width="300" height="333" /></a><br /> Fonte: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer"><strong><em>Better Homes and Gardens</em></strong></a>
 </p>
 
 &nbsp;
@@ -162,13 +159,13 @@ O _e-mail_ que recebi dela foi assim:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/decoracao-do-quarto-espelho/" rel="attachment wp-att-5807"><img class="alignnone size-full wp-image-5807" title="decoração do quarto - espelho" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/decoracao-do-quarto-espelho1.jpg" alt="" width="400" height="420" /></a><br /> Fonte: <a href="http://www.myhomeideas.com/" target="_blank"><strong><em>myhomeideas</em></strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/decoracao-do-quarto-espelho/" rel="attachment wp-att-5807"><img class="alignnone size-full wp-image-5807" title="decoração do quarto - espelho" src="https://www.trololodemulher.com.br/2011/01/decoracao-do-quarto-espelho1.jpg" alt="" width="400" height="420" /></a><br /> Fonte: <a href="http://www.myhomeideas.com/" target="_blank" rel="noopener noreferrer"><strong><em>myhomeideas</em></strong></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Isso pode servir de ispiração para você. Depois, quando for montar a composição de quadros com as fotos dos seus familiares na parede onde está a mesinha, você pode seguir as dicas sobre <strong><a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank">como decorar a parede com quadros</a></strong>.
+  Isso pode servir de ispiração para você. Depois, quando for montar a composição de quadros com as fotos dos seus familiares na parede onde está a mesinha, você pode seguir as dicas sobre <strong><a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank" rel="noopener noreferrer">como decorar a parede com quadros</a></strong>.
 </p>
 
 <p align="justify">
@@ -185,13 +182,13 @@ O _e-mail_ que recebi dela foi assim:
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/escritorio-organizado-parede200-2/" rel="attachment wp-att-5437"><img class="alignnone size-full wp-image-5437" title="escritório organizado - parede200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/escritorio-organizado-parede200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2010/11/12/escritorio-decoracao/"><strong><span style="font-size: medium;"><br /> Home office: soluções simples de decoração e organização</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/escritorio-organizado-parede200-2/" rel="attachment wp-att-5437"><img class="alignnone size-full wp-image-5437" title="escritório organizado - parede200" src="https://www.trololodemulher.com.br/2010/11/escritorio-organizado-parede200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2010/11/12/escritorio-decoracao/"><strong><span style="font-size: medium;"><br /> Home office: soluções simples de decoração e organização</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/decoracao-home-office-escritorio5200/" rel="attachment wp-att-9003"><img class="alignnone size-full wp-image-9003" title="DECORACAO-HOME OFFICE-ESCRITORIO[5]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-HOME-OFFICE-ESCRITORIO5200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/01/25/projeto-escritorio-home-office/"><strong><span style="font-size: medium;">Do projeto do nosso escritório ou home office</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/decoracao-home-office-escritorio5200/" rel="attachment wp-att-9003"><img class="alignnone size-full wp-image-9003" title="DECORACAO-HOME OFFICE-ESCRITORIO[5]200" src="https://www.trololodemulher.com.br/2012/08/DECORACAO-HOME-OFFICE-ESCRITORIO5200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/01/25/projeto-escritorio-home-office/"><strong><span style="font-size: medium;">Do projeto do nosso escritório ou home office</span></strong></a>
       </p>
     </td>
   </tr>
@@ -199,26 +196,26 @@ O _e-mail_ que recebi dela foi assim:
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/escritorio-ou-home-office200/" rel="attachment wp-att-9005"><img class="alignnone size-full wp-image-9005" title="escritório ou home office200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/escritório-ou-home-office200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/01/06/decoracao-escritorio/"><strong><span style="font-size: medium;">Inspirações para a decoração do home office</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/escritorio-ou-home-office200/" rel="attachment wp-att-9005"><img class="alignnone size-full wp-image-9005" title="escritório ou home office200" src="https://www.trololodemulher.com.br/2012/08/escritório-ou-home-office200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/01/06/decoracao-escritorio/"><strong><span style="font-size: medium;">Inspirações para a decoração do home office</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/home-office1200/" rel="attachment wp-att-6492"><img class="alignnone size-full wp-image-6492" title="home office[1]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/home-office1200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/06/06/dicas-organizacao-3/"><strong><span style="font-size: medium;">Como organizar um home office?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/home-office1200/" rel="attachment wp-att-6492"><img class="alignnone size-full wp-image-6492" title="home office[1]200" src="https://www.trololodemulher.com.br/2011/06/home-office1200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/06/06/dicas-organizacao-3/"><strong><span style="font-size: medium;">Como organizar um home office?</span></strong></a>
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/decoracao-organizacao-domestica-escritorio-home-office200/" rel="attachment wp-att-9006"><img class="alignnone size-full wp-image-9006" title="DECORACAO-ORGANIZACAO-DOMESTICA-ESCRITORIO-HOME OFFICE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-ORGANIZACAO-DOMESTICA-ESCRITORIO-HOME-OFFICE200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/10/27/organizacao-escritorio/"><strong><span style="font-size: medium;">Organização de escritório ou home office: dicas</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/decoracao-organizacao-domestica-escritorio-home-office200/" rel="attachment wp-att-9006"><img class="alignnone size-full wp-image-9006" title="DECORACAO-ORGANIZACAO-DOMESTICA-ESCRITORIO-HOME OFFICE200" src="https://www.trololodemulher.com.br/2012/08/DECORACAO-ORGANIZACAO-DOMESTICA-ESCRITORIO-HOME-OFFICE200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/10/27/organizacao-escritorio/"><strong><span style="font-size: medium;">Organização de escritório ou home office: dicas</span></strong></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -233,13 +230,13 @@ O _e-mail_ que recebi dela foi assim:
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

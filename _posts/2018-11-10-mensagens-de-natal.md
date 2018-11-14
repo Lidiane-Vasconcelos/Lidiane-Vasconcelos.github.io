@@ -1,10 +1,7 @@
 ---
-id: 3713
 title: Envie carinho através de mensagens de Natal online!
-date: 2018-11-10T11:31:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/?p=3713
 permalink: /2018/11/10/mensagens-de-natal/
 categories:
   - Comportamento
@@ -24,7 +21,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13353" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/MENSAGEM-DE-NATAL-CARTÃO-VIRTUAL.jpg" alt="mensagem-de-natal-cartao-virtual" width="725" height="600" />
+  <img class="alignnone size-full wp-image-13353" src="https://www.trololodemulher.com.br/2016/12/MENSAGEM-DE-NATAL-CARTÃO-VIRTUAL.jpg" alt="mensagem-de-natal-cartao-virtual" width="725" height="600" />
 </p>
 
 <p align="center">
@@ -32,7 +29,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13354" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/MENSAGEM-DE-NATAL-CARTÃO-VIRTUAL2.jpg" alt="mensagem-de-natal-cartao-virtual2" width="725" height="600" />
+  <img class="alignnone size-full wp-image-13354" src="https://www.trololodemulher.com.br/2016/12/MENSAGEM-DE-NATAL-CARTÃO-VIRTUAL2.jpg" alt="mensagem-de-natal-cartao-virtual2" width="725" height="600" />
 </p>
 
 <p align="center">
@@ -40,7 +37,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13355" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/MENSAGEM-DE-NATAL-CARTÃO-VIRTUAL4.jpg" alt="mensagem-de-natal-cartao-virtual4" width="725" height="600" />
+  <img class="alignnone size-full wp-image-13355" src="https://www.trololodemulher.com.br/2016/12/MENSAGEM-DE-NATAL-CARTÃO-VIRTUAL4.jpg" alt="mensagem-de-natal-cartao-virtual4" width="725" height="600" />
 </p>
 
 <p align="center">
@@ -48,11 +45,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.lindasmensagens.com.br/natal/" target="_blank">Clique aqui e veja todas as mensagens de Natal</a> disponíveis no site <a href="http://www.lindasmensagens.com.br/" target="_blank">Lindas Mensagens</a>, e delicie-se com as várias possibilidades de transmitir amor a quem você ama através de palavras lindas, que de alguma forma reforcem seus sentimentos… Feliz Natal!!!
+  <a href="http://www.lindasmensagens.com.br/natal/" target="_blank" rel="noopener noreferrer">Clique aqui e veja todas as mensagens de Natal</a> disponíveis no site <a href="http://www.lindasmensagens.com.br/" target="_blank" rel="noopener noreferrer">Lindas Mensagens</a>, e delicie-se com as várias possibilidades de transmitir amor a quem você ama através de palavras lindas, que de alguma forma reforcem seus sentimentos… Feliz Natal!!!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

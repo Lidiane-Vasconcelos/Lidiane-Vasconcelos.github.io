@@ -1,10 +1,7 @@
 ---
-id: 3207
 title: Você é daquelas que acreditam nunca acertar em suas relações amorosas?
-date: 2012-11-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/11/09/relacoes-amorosas/
 permalink: /2012/11/09/relacoes-amorosas/
 categories:
   - Comportamento
@@ -141,11 +138,11 @@ categories:
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/2012/11/09/relacoes-amorosas/relacao-amorosa/" rel="attachment wp-att-9302"><img class="alignnone size-full wp-image-9302" title="RELACAO AMOROSA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/RELACAO-AMOROSA.png" alt="" width="592" height="312" /></a>
+    <a href="http://www.trololodemulher.com.br/2012/11/09/relacoes-amorosas/relacao-amorosa/" rel="attachment wp-att-9302"><img class="alignnone size-full wp-image-9302" title="RELACAO AMOROSA" src="https://www.trololodemulher.com.br/2012/11/RELACAO-AMOROSA.png" alt="" width="592" height="312" /></a>
   </p>
   
   <p align="center">
-    Imagem: <em><a href="http://www.sxc.hu/" target="_blank"><strong>stock.xchng</strong></a></em>
+    Imagem: <em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><strong>stock.xchng</strong></a></em>
   </p>
   
   <p>
@@ -231,7 +228,7 @@ categories:
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/2012/08/17/maes-trabalham-filhos/geisa-machado/" rel="attachment wp-att-9029"><img class="alignnone size-full wp-image-9029" title="GEISA MACHADO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/GEISA-MACHADO.png" alt="" width="516" height="212" /></a>
+    <a href="http://www.trololodemulher.com.br/2012/08/17/maes-trabalham-filhos/geisa-machado/" rel="attachment wp-att-9029"><img class="alignnone size-full wp-image-9029" title="GEISA MACHADO" src="https://www.trololodemulher.com.br/2012/08/GEISA-MACHADO.png" alt="" width="516" height="212" /></a>
   </p>
   
   <p>
@@ -239,7 +236,7 @@ categories:
   </p>
   
   <p align="justify">
-    Geisa também é blogueira, sabia? Pois é… seus textos podem ser acompanhados através de seu blog <a href="http://geisamachado.blogspot.com.br/" target="_blank"><strong>A Força e a Beleza de ser Mulher</strong></a>. Sua proposta é analisar os reflexos positivos, e também negativos, decorrentes do movimento femininsta. Alguma dúvida de que essa leitura pode ser bastante esclarecedora? Então se joga e <a href="http://geisamachado.blogspot.com.br/" target="_blank"><strong>clica aqui</strong></a>!
+    Geisa também é blogueira, sabia? Pois é… seus textos podem ser acompanhados através de seu blog <a href="http://geisamachado.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>A Força e a Beleza de ser Mulher</strong></a>. Sua proposta é analisar os reflexos positivos, e também negativos, decorrentes do movimento femininsta. Alguma dúvida de que essa leitura pode ser bastante esclarecedora? Então se joga e <a href="http://geisamachado.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>clica aqui</strong></a>!
   </p>
   
   <p>
@@ -247,5 +244,5 @@ categories:
   </p>
   
   <p align="center">
-    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
   </p>

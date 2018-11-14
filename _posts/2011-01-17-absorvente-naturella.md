@@ -1,10 +1,7 @@
 ---
-id: 2938
 title: 'Novidade: absorvente Naturella. Quer experimentar?'
-date: 2011-01-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/01/17/absorvente-naturella/
 permalink: /2011/01/17/absorvente-naturella/
 categories:
   - Publieditorial
@@ -22,7 +19,7 @@ Ei, bonita! Deixa eu te perguntar: você já viu nas prateleiras do supermercado
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/Absorvente-Naturella.jpg"><img class="alignnone size-full wp-image-5760" title="Absorvente Naturella" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/Absorvente-Naturella.jpg" alt="" width="570" height="372" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/Absorvente-Naturella.jpg"><img class="alignnone size-full wp-image-5760" title="Absorvente Naturella" src="https://www.trololodemulher.com.br/2011/01/Absorvente-Naturella.jpg" alt="" width="570" height="372" /></a>
 </p>
 
 <p style="text-align: justify;">

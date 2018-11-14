@@ -1,16 +1,13 @@
 ---
-id: 3677
 title: '3º post da série para organização da casa: penteadeira.'
-date: 2016-09-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/09/29/organizacao-da-casa-4/
 permalink: /2016/09/29/organizacao-da-casa-4/
 categories:
   - Organização
 ---
 <p align="justify">
-  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a <strong>organização da casa</strong>, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts, que já teve <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/">o primeiro deles sobre home office</a>, e o <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank">segundo sobre a cozinha</a>, é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
+  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a <strong>organização da casa</strong>, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts, que já teve <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/">o primeiro deles sobre home office</a>, e o <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank" rel="noopener noreferrer">segundo sobre a cozinha</a>, é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
 </p>
 
 <p align="justify">
@@ -22,19 +19,19 @@ categories:
 </p>
 
 <p align="justify">
-  O <strong>segundo post da série</strong> também está imperdível: <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank">clique aqui e veja como deixar sua cozinha um brinco</a>!
+  O <strong>segundo post da série</strong> também está imperdível: <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank" rel="noopener noreferrer">clique aqui e veja como deixar sua cozinha um brinco</a>!
 </p>
 
 <p align="justify">
-  O <strong>quarto</strong> está repleto de estratégias muito úteis: <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank">clique aqui e veja como organizar o seu closet.</a>
+  O <strong>quarto</strong> está repleto de estratégias muito úteis: <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank" rel="noopener noreferrer">clique aqui e veja como organizar o seu closet.</a>
 </p>
 
 <p align="justify">
-  O <strong>quinto post</strong> está cheinho de dicas bacanas: <a href="http://www.trololodemulher.com.br/2016/10/18/organizacao-da-casa-6/" target="_blank">clique aqui e veja como deixar o quarto infantil em ordem!</a>
+  O <strong>quinto post</strong> está cheinho de dicas bacanas: <a href="http://www.trololodemulher.com.br/2016/10/18/organizacao-da-casa-6/" target="_blank" rel="noopener noreferrer">clique aqui e veja como deixar o quarto infantil em ordem!</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13022" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/CASA-ORGANIZACAO-ORGANIZACAO-DA-CASA-PENTEADEIRA.jpg" alt="casa-organizacao-organizacao-da-casa-penteadeira" width="800" height="533" />
+  <img class="alignnone size-full wp-image-13022" src="https://www.trololodemulher.com.br/2016/09/CASA-ORGANIZACAO-ORGANIZACAO-DA-CASA-PENTEADEIRA.jpg" alt="casa-organizacao-organizacao-da-casa-penteadeira" width="800" height="533" />
 </p>
 
 <p align="center">
@@ -134,15 +131,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13025" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/KALINKA-CARVALHO-PERSONAL-ORGANIZER.jpg" alt="kalinka-carvalho-personal-organizer" width="800" height="173" />
+  <img class="alignnone size-full wp-image-13025" src="https://www.trololodemulher.com.br/2016/09/KALINKA-CARVALHO-PERSONAL-ORGANIZER.jpg" alt="kalinka-carvalho-personal-organizer" width="800" height="173" />
 </p>
 
 <p align="justify">
-  Kalinka atualiza regularmente o seu blog, onde dá dicas de organização pessoal, residências e eventos, além de disponibilizar gratuitamente listas e checklists para downloads. Seu principal objetivo é ajudar as pessoas a se organizarem tornando suas vidas mais prática. <a href="http://www.kalinkacarvalho.com.br/index.html" target="_blank">Clique aqui e fique por dentro de tudo</a>! Além do mais, por lá você fica sabendo dos outros serviços oferecidos pela Kalinka: palestras, consultorias na área de organização pessoal e de eventos, e também sua loja, com produtos para manter a casa, vida e rotina em ordem. Kalinka também está no Facebook, com sua fanpage recheada de dicas. <a href="https://www.facebook.com/kalinkascarvalho/" target="_blank">Clique aqui, curta e acompanhe</a>. No Instagram a moça também nos deixa muito bem informadas: <a href="https://www.instagram.com/kalinkacarvalho/" target="_blank">clique aqui, siga e fique por dentro</a>!
+  Kalinka atualiza regularmente o seu blog, onde dá dicas de organização pessoal, residências e eventos, além de disponibilizar gratuitamente listas e checklists para downloads. Seu principal objetivo é ajudar as pessoas a se organizarem tornando suas vidas mais prática. <a href="http://www.kalinkacarvalho.com.br/index.html" target="_blank" rel="noopener noreferrer">Clique aqui e fique por dentro de tudo</a>! Além do mais, por lá você fica sabendo dos outros serviços oferecidos pela Kalinka: palestras, consultorias na área de organização pessoal e de eventos, e também sua loja, com produtos para manter a casa, vida e rotina em ordem. Kalinka também está no Facebook, com sua fanpage recheada de dicas. <a href="https://www.facebook.com/kalinkascarvalho/" target="_blank" rel="noopener noreferrer">Clique aqui, curta e acompanhe</a>. No Instagram a moça também nos deixa muito bem informadas: <a href="https://www.instagram.com/kalinkacarvalho/" target="_blank" rel="noopener noreferrer">clique aqui, siga e fique por dentro</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

@@ -1,16 +1,13 @@
 ---
-id: 3524
 title: Casa limpa e organizada com menos esforço? 11 dicas.
-date: 2016-01-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/01/06/casa-limpa-e-organizada/
 permalink: /2016/01/06/casa-limpa-e-organizada/
 categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Eu não tenho nada contra o uso de mão de obra contratada para limpar a casa. Longe de mim! Já usei bastante, sobretudo quando estava com um barrigão de Artur, e em seguida, quando ele era bem pequeno. Antes disso, não havia usado. Agora, com ele mais crescido, também optei por abrir mão desses serviços. Gostei bastante da experiência, mas devo confessar que gosto de cuidar da minha casa, eu mesma. Isso não significa, contudo, que passar o dia inteiro envolvida com esse tipo de atividade faça a minha cabeça. Não! Tenho vários outros interesses na vida (por exemplo, cuidar deste blog e dos outros que tenho – <a href="http://www.decoracaodacasa.com/" target="_blank">Decoração da Casa</a> e <a href="http://www.belezacorpoecia.com/" target="_blank">BelezaCorpo&Cia</a>), além de cuidar de mim, do meu filho e do casamento.
+  Eu não tenho nada contra o uso de mão de obra contratada para limpar a casa. Longe de mim! Já usei bastante, sobretudo quando estava com um barrigão de Artur, e em seguida, quando ele era bem pequeno. Antes disso, não havia usado. Agora, com ele mais crescido, também optei por abrir mão desses serviços. Gostei bastante da experiência, mas devo confessar que gosto de cuidar da minha casa, eu mesma. Isso não significa, contudo, que passar o dia inteiro envolvida com esse tipo de atividade faça a minha cabeça. Não! Tenho vários outros interesses na vida (por exemplo, cuidar deste blog e dos outros que tenho – <a href="http://www.decoracaodacasa.com/" target="_blank" rel="noopener noreferrer">Decoração da Casa</a> e <a href="http://www.belezacorpoecia.com/" target="_blank" rel="noopener noreferrer">BelezaCorpo&Cia</a>), além de cuidar de mim, do meu filho e do casamento.
 </p>
 
 <p align="justify">
@@ -18,11 +15,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/01/CASA-LIMPA-E-ORGANIZADA2.jpg"><img class="alignnone size-full wp-image-11766" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/01/CASA-LIMPA-E-ORGANIZADA2.jpg" alt="CASA LIMPA E ORGANIZADA[2]" width="800" height="532" /></a>
+  <a href="https://www.trololodemulher.com.br/2016/01/CASA-LIMPA-E-ORGANIZADA2.jpg"><img class="alignnone size-full wp-image-11766" src="https://www.trololodemulher.com.br/2016/01/CASA-LIMPA-E-ORGANIZADA2.jpg" alt="CASA LIMPA E ORGANIZADA[2]" width="800" height="532" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: <a href="http://www.laughandpee.com/" target="_blank" rel="noopener noreferrer">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank" rel="noopener noreferrer">Gratisography</a>
 </p>
 
 <p align="justify">
@@ -50,11 +47,11 @@ categories:
 </p>
 
 <p align="justify">
-  3 – No dia a dia, procure focar um cômodo por vez. Se você faz um pouquinho no quarto, depois vai para o banheiro, desvia a atenção para a cozinha, e atende um pouquinho a sala… a casa continuará com o aspecto de caos, porque nada foi feito direito. Calma! Trabalhe com foco e ordem. Escolha um cômodo para começar a organizar e vá para outro quando terminá-lo. Eu começo pelo quarto e, sempre, sempre, <a href="http://www.decoracaodacasa.com/fazer-a-cama/" target="_blank">fazer a cama</a> antes de qualquer coisa para mim é primordial. A sensação de caos cessa no momento em que a cama é feita, e eu me sinto muito motivada para seguir com a organização do resto do cômodo, e em seguida da casa, a partir daí.
+  3 – No dia a dia, procure focar um cômodo por vez. Se você faz um pouquinho no quarto, depois vai para o banheiro, desvia a atenção para a cozinha, e atende um pouquinho a sala… a casa continuará com o aspecto de caos, porque nada foi feito direito. Calma! Trabalhe com foco e ordem. Escolha um cômodo para começar a organizar e vá para outro quando terminá-lo. Eu começo pelo quarto e, sempre, sempre, <a href="http://www.decoracaodacasa.com/fazer-a-cama/" target="_blank" rel="noopener noreferrer">fazer a cama</a> antes de qualquer coisa para mim é primordial. A sensação de caos cessa no momento em que a cama é feita, e eu me sinto muito motivada para seguir com a organização do resto do cômodo, e em seguida da casa, a partir daí.
 </p>
 
 <p align="justify">
-  4 – Com a casa devidamente organizada, isto é, com cada coisa em seu lugar, a sensação de limpeza é quase completa, isso sem nem ter dado início a esse trabalho propriamente dito. Portanto, organize e, somente depois, limpe. Aqui vale um alerta: se colocar ordem na casa é algo que toma tempo demais, então é preciso avaliar se sua casa não está cheia de tralhas e bagunça generalizada. <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank">Como evitar o acúmulo e organizar o lar? Veja dicas práticas</a> e facilite sua vida e de sua família.
+  4 – Com a casa devidamente organizada, isto é, com cada coisa em seu lugar, a sensação de limpeza é quase completa, isso sem nem ter dado início a esse trabalho propriamente dito. Portanto, organize e, somente depois, limpe. Aqui vale um alerta: se colocar ordem na casa é algo que toma tempo demais, então é preciso avaliar se sua casa não está cheia de tralhas e bagunça generalizada. <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank" rel="noopener noreferrer">Como evitar o acúmulo e organizar o lar? Veja dicas práticas</a> e facilite sua vida e de sua família.
 </p>
 
 <p align="justify">
@@ -62,7 +59,7 @@ categories:
 </p>
 
 <p align="justify">
-  6 – Conforme for passando pelos cômodos durante o dia, e detectar algo por ali que pertence a outro espaço da casa, já leve com você e devolva ao lugar correto. Adquira esse hábito. Ok, essa não é a hora do dia dedicada a organização, mas se você já está passando por ali, por que não levar o objeto junto? Veja também: <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank">18 hábitos da pessoa organizada na arrumação da casa</a>.
+  6 – Conforme for passando pelos cômodos durante o dia, e detectar algo por ali que pertence a outro espaço da casa, já leve com você e devolva ao lugar correto. Adquira esse hábito. Ok, essa não é a hora do dia dedicada a organização, mas se você já está passando por ali, por que não levar o objeto junto? Veja também: <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank" rel="noopener noreferrer">18 hábitos da pessoa organizada na arrumação da casa</a>.
 </p>
 
 <p align="justify">
@@ -86,7 +83,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

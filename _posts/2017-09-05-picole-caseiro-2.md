@@ -1,10 +1,7 @@
 ---
-id: 3794
 title: Picolé caseiro de tangerina assada, com gengibre e iogurte.
-date: 2017-09-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/09/05/picole-caseiro-2/
 permalink: /2017/09/05/picole-caseiro-2/
 categories:
   - Receitas
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14084" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/PICOLE-CASEIRO-RECEITA-DE-PICOLE-CASEIRO-PICOLE-DE-TANGERINA.jpg" alt="PICOLE CASEIRO-RECEITA DE PICOLE CASEIRO-PICOLE DE TANGERINA" width="800" height="1200" />
+  <img class="alignnone size-full wp-image-14084" src="https://www.trololodemulher.com.br/2017/09/PICOLE-CASEIRO-RECEITA-DE-PICOLE-CASEIRO-PICOLE-DE-TANGERINA.jpg" alt="PICOLE CASEIRO-RECEITA DE PICOLE CASEIRO-PICOLE DE TANGERINA" width="800" height="1200" />
 </p>
 
 <p align="justify">
@@ -22,11 +19,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14085" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/PICOLE-CASEIRO-RECEITA-DE-PICOLE-CASEIRO-PICOLE-DE-TANGERINA2.jpg" alt="PICOLE CASEIRO-RECEITA DE PICOLE CASEIRO-PICOLE DE TANGERINA[2]" width="800" height="534" />
+  <img class="alignnone size-full wp-image-14085" src="https://www.trololodemulher.com.br/2017/09/PICOLE-CASEIRO-RECEITA-DE-PICOLE-CASEIRO-PICOLE-DE-TANGERINA2.jpg" alt="PICOLE CASEIRO-RECEITA DE PICOLE CASEIRO-PICOLE DE TANGERINA[2]" width="800" height="534" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14086" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/PICOLE-CASEIRO-RECEITA-DE-PICOLE-CASEIRO-PICOLE-DE-TANGERINA3.jpg" alt="PICOLE CASEIRO-RECEITA DE PICOLE CASEIRO-PICOLE DE TANGERINA[3]" width="800" height="534" />
+  <img class="alignnone size-full wp-image-14086" src="https://www.trololodemulher.com.br/2017/09/PICOLE-CASEIRO-RECEITA-DE-PICOLE-CASEIRO-PICOLE-DE-TANGERINA3.jpg" alt="PICOLE CASEIRO-RECEITA DE PICOLE CASEIRO-PICOLE DE TANGERINA[3]" width="800" height="534" />
 </p>
 
 <p align="justify">
@@ -74,11 +71,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14087" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/PICOLE-CASEIRO-RECEITA-DE-PICOLE-CASEIRO-PICOLE-DE-TANGERINA4.jpg" alt="PICOLE CASEIRO-RECEITA DE PICOLE CASEIRO-PICOLE DE TANGERINA[4]" width="800" height="1217" />
+  <img class="alignnone size-full wp-image-14087" src="https://www.trololodemulher.com.br/2017/09/PICOLE-CASEIRO-RECEITA-DE-PICOLE-CASEIRO-PICOLE-DE-TANGERINA4.jpg" alt="PICOLE CASEIRO-RECEITA DE PICOLE CASEIRO-PICOLE DE TANGERINA[4]" width="800" height="1217" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13037" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/TANIA-TEVA-I-WANT-TO-BE-A-COOK-RECEITAS.jpg" alt="tania-teva-i-want-to-be-a-cook-receitas" width="800" height="154" />
+  <img class="alignnone size-full wp-image-13037" src="https://www.trololodemulher.com.br/2016/10/TANIA-TEVA-I-WANT-TO-BE-A-COOK-RECEITAS.jpg" alt="tania-teva-i-want-to-be-a-cook-receitas" width="800" height="154" />
 </p>
 
 <p align="justify">
@@ -86,23 +83,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2017/08/29/pao-caseiro-2/" target="_blank">Pão caseiro trançado com recheio de pesto.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2017/08/29/pao-caseiro-2/" target="_blank" rel="noopener noreferrer">Pão caseiro trançado com recheio de pesto.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2017/08/22/geleia-de-banana/" target="_blank">Geleia de banana e as reminiscências infantis.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2017/08/22/geleia-de-banana/" target="_blank" rel="noopener noreferrer">Geleia de banana e as reminiscências infantis.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2017/08/15/cha-de-menta/" target="_blank">Chá de menta de Marraquexe, ou como acolher bem…</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2017/08/15/cha-de-menta/" target="_blank" rel="noopener noreferrer">Chá de menta de Marraquexe, ou como acolher bem…</a></strong>
 </p>
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank">o blog de Tânia clicando aqui</a>, e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">o blog de Tânia clicando aqui</a>, e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank" rel="noopener noreferrer">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank" rel="noopener noreferrer">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="justify">

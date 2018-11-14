@@ -1,15 +1,12 @@
 ---
-id: 2904
 title: Parceria Catavento Artes no Aniversário do Bicha Fêmea!
-date: 2010-11-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/11/01/parceria-catavento-artes/
 permalink: /2010/11/01/parceria-catavento-artes/
 categories:
   - Publieditorial
 ---
-Quem disse que a <a href="http://fernandapostai.blogspot.com/" target="_blank">Catavento Artes</a> poderia ficar de fora em um momento tão gostoso como esse para o Bicha Fêmea? Ainda mais uma empresa como essa, que produz mimos em papel tão bonitos, exclusivos e marcantes: tudo do jeito que uma bicha fêmea navegante esperta gosta e quer.
+Quem disse que a <a href="http://fernandapostai.blogspot.com/" target="_blank" rel="noopener noreferrer">Catavento Artes</a> poderia ficar de fora em um momento tão gostoso como esse para o Bicha Fêmea? Ainda mais uma empresa como essa, que produz mimos em papel tão bonitos, exclusivos e marcantes: tudo do jeito que uma bicha fêmea navegante esperta gosta e quer.
 
 <!--more-->
 
@@ -18,7 +15,7 @@ Quem disse que a <a href="http://fernandapostai.blogspot.com/" target="_blank">C
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Kit-Natal-Catavento-Artes.jpg"><img class="alignnone size-full wp-image-5381" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Kit-Natal-Catavento-Artes.jpg" alt="" width="495" height="363" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/Kit-Natal-Catavento-Artes.jpg"><img class="alignnone size-full wp-image-5381" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2010/10/Kit-Natal-Catavento-Artes.jpg" alt="" width="495" height="363" /></a>
 </p>
 
 <p style="text-align: justify;">

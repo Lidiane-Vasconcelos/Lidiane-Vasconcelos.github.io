@@ -1,10 +1,7 @@
 ---
-id: 2701
 title: 'De repente você acorda e toma um susto: você é mãe!'
-date: 2009-08-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/08/20/maternidade/
 permalink: /2009/08/20/maternidade/
 categories:
   - Comportamento
@@ -17,9 +14,9 @@ Você que acompanha o Bicha, sabe que é uma característica minha o constante d
 
 Flávia é dona do blog “Casa da Flá”, um espaço que encanta os olhos logo que se chega porque o visual é meigo, feminino, bonito. Por ser artista plástica, talvez esteja aí a explicação para aquele espaço também ter conteúdo recheado com bastante sensibilidade. Mas também tem conteúdo prático, cheio de dicas. É que Flávia está envolvida com a reforma da casa, e isso resulta em tudo o que se possa imaginar quando o assunto é casa, decoração e coisas bem familiares a nós, que somos divas do lar.
 
-O post que Flávia quis mostrar no Bicha é de uma delicadeza ímpar, tudo o que é dito parece ser mesmo próprio de uma alma feminina, e ouso dizer que você vai, sim, se emocionar. Posso falar? Me arrepiei, sorri de um canto a outro do rosto,  enternecida e tocada pelo que li. Só eu sou boba assim? Será? …hummmm…me conta depois?[<img style="display: inline;" title="EmoticonShy" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/emoticonshy_thumb2.gif" alt="EmoticonShy" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/emoticonshy2.gif)
+O post que Flávia quis mostrar no Bicha é de uma delicadeza ímpar, tudo o que é dito parece ser mesmo próprio de uma alma feminina, e ouso dizer que você vai, sim, se emocionar. Posso falar? Me arrepiei, sorri de um canto a outro do rosto,  enternecida e tocada pelo que li. Só eu sou boba assim? Será? …hummmm…me conta depois?[<img style="display: inline;" title="EmoticonShy" src="https://www.trololodemulher.com.br/2009/08/emoticonshy_thumb2.gif" alt="EmoticonShy" width="18" height="18" />](https://www.trololodemulher.com.br/2009/08/emoticonshy2.gif)
 
-**_Por Flávia Zocoler – <a href="http://www.acasadafla.blogspot.com/" target="_blank">Casa da Flá</a>_**
+**_Por Flávia Zocoler – <a href="http://www.acasadafla.blogspot.com/" target="_blank" rel="noopener noreferrer">Casa da Flá</a>_**
 
 O que escrever para as “mulheres bonitas e de comportamento elegante; inteligentes e do bem; com boas ideias e bom papo” que frequentam esta casa tão acolhedora?
 
@@ -39,7 +36,7 @@ Descobre as lojas de brinquedos, inclui o Discovery Kids aos seus canais favorit
 
 Dorme cedo, acorda tarde e dorme a tarde. Come por dois sem culpa.
 
-[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="Flá" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/fl_thumb.jpg" border="0" alt="Flá" width="277" height="331" align="left" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/fl.jpg) Escuta pela primeira vez seu coraçãozinho bater e chora&#8230; encanta-se, apaixona-se.
+[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="Flá" src="https://www.trololodemulher.com.br/2009/08/fl_thumb.jpg" border="0" alt="Flá" width="277" height="331" align="left" />](https://www.trololodemulher.com.br/2009/08/fl.jpg) Escuta pela primeira vez seu coraçãozinho bater e chora&#8230; encanta-se, apaixona-se.
 
 Passa horas pensando em rosa e azul, berços e mamadeiras.
 
@@ -61,7 +58,7 @@ Faz dormir no colo, dá banho de água mineral, pensa em lhe comprar um capacete
 
 Fica inconformada quando no primeiro dia de Maternal despede-se com beijo e sorriso, sem esboçar nenhuma tristeza.
 
-[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="Flá 1" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/fl1_thumb.jpg" border="0" alt="Flá 1" width="277" height="331" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/fl1.jpg) E um dia você acorda e percebe que tudo está diferente de novo. Pisa no chão devagarinho, apaixona-se novamente. E ouve mais uma vez a doce melodia do amanhecer de uma nova história.
+[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="Flá 1" src="https://www.trololodemulher.com.br/2009/08/fl1_thumb.jpg" border="0" alt="Flá 1" width="277" height="331" align="right" />](https://www.trololodemulher.com.br/2009/08/fl1.jpg) E um dia você acorda e percebe que tudo está diferente de novo. Pisa no chão devagarinho, apaixona-se novamente. E ouve mais uma vez a doce melodia do amanhecer de uma nova história.
 
 Sorri ao descobrir que agora são dois corações seus que batem fora do seu peito e que se olham com o amor que só a cumplicidade dos irmãos explica. Pede a Deus que aquele instante dure para sempre.
 
@@ -71,7 +68,7 @@ E você pára mais uma vez. Tem a certeza de que é absurdamente feliz e que os 
 
 Bjsss carinhosos a todas as bichas fêmeas!
 
-<a href="http://www.acasadafla.blogspot.com/" target="_blank">Flávia Zocoler</a>
+<a href="http://www.acasadafla.blogspot.com/" target="_blank" rel="noopener noreferrer">Flávia Zocoler</a>
 
 **Mais sobre maternidade no Bicha Fêmea&#8230;**
 

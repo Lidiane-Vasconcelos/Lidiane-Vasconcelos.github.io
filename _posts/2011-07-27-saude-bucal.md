@@ -1,10 +1,7 @@
 ---
-id: 3028
 title: 'Creme e enxaguante bucais de ação clareadora: isso funciona?'
-date: 2011-07-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/07/27/saude-bucal/
 permalink: /2011/07/27/saude-bucal/
 categories:
   - Saúde
@@ -20,7 +17,7 @@ categories:
 <!--more-->
 
 <p align="justify">
-  Para tirar minhas dúvidas e, suspeito, as suas também, procurei a <strong>Dra. Ana Paula Pasqualin Tokunaga</strong>, que é <strong>Cirurgiã-Dentista</strong> e <strong>blogueira</strong> também. Ela edita o blog <strong><a href="http://medodedentista.com.br/" target="_blank">Medo de Dentista</a> </strong>desde Julho de 2010 quando, segundo ela, “ <em>resolveu tomar para si a tarefa de explicar de forma simples e bem humorada tudo o que acontece dentro de um consultório odontológico, visando sempre incentivar o hábito da prevenção em saúde bucal</em>.”
+  Para tirar minhas dúvidas e, suspeito, as suas também, procurei a <strong>Dra. Ana Paula Pasqualin Tokunaga</strong>, que é <strong>Cirurgiã-Dentista</strong> e <strong>blogueira</strong> também. Ela edita o blog <strong><a href="http://medodedentista.com.br/" target="_blank" rel="noopener noreferrer">Medo de Dentista</a> </strong>desde Julho de 2010 quando, segundo ela, “ <em>resolveu tomar para si a tarefa de explicar de forma simples e bem humorada tudo o que acontece dentro de um consultório odontológico, visando sempre incentivar o hábito da prevenção em saúde bucal</em>.”
 </p>
 
 <p align="justify">
@@ -28,7 +25,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/saude-bucal.jpg"><img class="alignnone size-full wp-image-6678" title="saúde bucal" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/saude-bucal.jpg" alt="" width="600" height="364" /></a><br /> <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/07/saude-bucal.jpg"><img class="alignnone size-full wp-image-6678" title="saúde bucal" src="https://www.trololodemulher.com.br/2011/07/saude-bucal.jpg" alt="" width="600" height="364" /></a><br /> <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></strong>
 </p>
 
 <p align="justify">

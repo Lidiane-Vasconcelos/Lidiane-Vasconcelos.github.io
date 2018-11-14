@@ -1,10 +1,7 @@
 ---
-id: 2725
 title: Ei! Quer ser uma BICHA FÊMEA COLABORADORA?
-date: 2009-11-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/11/03/bicha-femea-colaboradora/
 permalink: /2009/11/03/bicha-femea-colaboradora/
 categories:
   - Trololó
@@ -13,7 +10,7 @@ Quem acha que está pronto sobre tudo, que não precisa mudar? Eu acho que não 
 
 **Sobre navegabilidade**, eu fiz mudanças na [página de boas vindas do Bicha](http://www.trololodemulher.com.br/about/), para apresentar melhor o que é o espaço e a proposta para ele. Também alterei a forma como minhas categorias estavam arranjadas, e criei subcategorias. Penso que dessa forma é mais fácil encontrar as coisas e assuntos específicos por aqui.
 
-[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="photobucket.com" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/photobucket-com_thumb.png" border="0" alt="photobucket.com" width="240" height="240" align="left" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/photobucket-com.png) Toda essa divisão e organização me fez reconhecer uma melhor navegabilidade pelo blog, e me fez enxergar uma nova forma de intensificar a participação por aqui. 
+[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="photobucket.com" src="https://www.trololodemulher.com.br/2009/11/photobucket-com_thumb.png" border="0" alt="photobucket.com" width="240" height="240" align="left" />](https://www.trololodemulher.com.br/2009/11/photobucket-com.png) Toda essa divisão e organização me fez reconhecer uma melhor navegabilidade pelo blog, e me fez enxergar uma nova forma de intensificar a participação por aqui. 
 
 Você já sabe muito bem que no Bicha Fêmea o espaço é aberto para a interação, não é? Tanto minha contigo, como entre blogs também. Lembra do espaço  &#8220;Prateleira do Bicha Fêmea&#8221;? Pois muito bem, agora por aqui também haverá o espaço **<a href="http://www.trololodemulher.com.br/colabore/" target="_self">Bicha Fêmea Colaboradora</a>**. A ideia é que se você quiser colaborar no Bicha Fêmea, **seja blogueira ou não**, você pode. E para colaborar, basta enviar o texto para o e-mail do Bicha Fêmea **<bichafemea@gmail.com>** , e depois de analisado o seu texto pode ser publicado por aqui. Queria somente salientar dois aspectos nessa participação:
 

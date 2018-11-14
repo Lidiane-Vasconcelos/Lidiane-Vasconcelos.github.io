@@ -1,10 +1,7 @@
 ---
-id: 3580
 title: Veja 5 dicas profissionais pra decorar gastando pouco.
-date: 2016-04-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/04/08/dicas-profissionais-pra-decorar/
 permalink: /2016/04/08/dicas-profissionais-pra-decorar/
 categories:
   - Dicas de Decoração
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12296" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-DICAS-DE-DECORACAO.jpg" alt="DECORACAO-DICAS DE DECORACAO" width="800" height="154" />
+  <img class="alignnone size-full wp-image-12296" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-DICAS-DE-DECORACAO.jpg" alt="DECORACAO-DICAS DE DECORACAO" width="800" height="154" />
 </p>
 
 <p align="justify">
@@ -22,15 +19,15 @@ categories:
 </p>
 
 <p align="justify">
-  Para a <strong>Eliana Ricci, Designer de Interiores</strong> e editora do blog <a href="http://barraco-chic.blogspot.com.br/" target="_blank">Barraco Chic</a>, “<em>mudar a cara de um ambiente é muito simples, basta <strong>trocar a cor das paredes {dica 1}</strong> ou até mesmo </em><strong><em>usar em somente uma delas papel de parede ou tecido{dica 2}</em>”</strong>. Sendo assim, sugiro que você dê uma olhadinha no post “<a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank">CORES NA DECORAÇÃO: VEJA 6 RESPOSTAS E ACABE SUAS DÚVIDAS</a>”, pois ele está bem completo e básico pra você começar a amadurecer suas ideias sobre como dar uma repaginada no seu ambiente através das cores. Se animou pela ideia do papel de parede? Espere até dar uma olhada no post “<a href="http://www.decoracaodacasa.com/decoracao-papel-de-parede-2/" target="_blank">DECORAÇÃO DE PEQUENOS ESPAÇOS COM PAPEL DE PAREDE: INSPIRAÇÕES E IDEIAS</a>”, e você verá imagens de ambientes com papel de parede em apenas uma área bem delimitada, e verá o efeito bacana de dá no ambiente como um todo. Se joga!
+  Para a <strong>Eliana Ricci, Designer de Interiores</strong> e editora do blog <a href="http://barraco-chic.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Barraco Chic</a>, “<em>mudar a cara de um ambiente é muito simples, basta <strong>trocar a cor das paredes {dica 1}</strong> ou até mesmo </em><strong><em>usar em somente uma delas papel de parede ou tecido{dica 2}</em>”</strong>. Sendo assim, sugiro que você dê uma olhadinha no post “<a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank" rel="noopener noreferrer">CORES NA DECORAÇÃO: VEJA 6 RESPOSTAS E ACABE SUAS DÚVIDAS</a>”, pois ele está bem completo e básico pra você começar a amadurecer suas ideias sobre como dar uma repaginada no seu ambiente através das cores. Se animou pela ideia do papel de parede? Espere até dar uma olhada no post “<a href="http://www.decoracaodacasa.com/decoracao-papel-de-parede-2/" target="_blank" rel="noopener noreferrer">DECORAÇÃO DE PEQUENOS ESPAÇOS COM PAPEL DE PAREDE: INSPIRAÇÕES E IDEIAS</a>”, e você verá imagens de ambientes com papel de parede em apenas uma área bem delimitada, e verá o efeito bacana de dá no ambiente como um todo. Se joga!
 </p>
 
 <p align="justify">
-  <strong>Regiane Yuki Sabanai, Arquiteta</strong> a frente do <a href="http://www.studiorys.com/crbst_0.html" target="_blank">Studio Rys</a><strong>, </strong>também aposta no papel de parede como um dos recursos decorativos mais rápidos para dar um <em>up</em> no seu ambiente. Ela completa a dica dizendo que “<em>com o uso de papel de parede (e tantas estampas), sua casa pode ter novo estilo, cor, design e personalidade. Atualmente existem modelos impermeáveis, com relevo e infinitas possibilidades com preços variados. Abaixo, uma foto-detalhe de um salão de cabeleireiro que projetei com papel nacional”</em>.
+  <strong>Regiane Yuki Sabanai, Arquiteta</strong> a frente do <a href="http://www.studiorys.com/crbst_0.html" target="_blank" rel="noopener noreferrer">Studio Rys</a><strong>, </strong>também aposta no papel de parede como um dos recursos decorativos mais rápidos para dar um <em>up</em> no seu ambiente. Ela completa a dica dizendo que “<em>com o uso de papel de parede (e tantas estampas), sua casa pode ter novo estilo, cor, design e personalidade. Atualmente existem modelos impermeáveis, com relevo e infinitas possibilidades com preços variados. Abaixo, uma foto-detalhe de um salão de cabeleireiro que projetei com papel nacional”</em>.
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12297" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-PAPEL-DE-PAREDE.jpg" alt="DECORACAO-PAPEL DE PAREDE" width="597" height="796" />
+  <img class="alignnone size-full wp-image-12297" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-PAPEL-DE-PAREDE.jpg" alt="DECORACAO-PAPEL DE PAREDE" width="597" height="796" />
 </p>
 
 <p align="center">
@@ -38,13 +35,13 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Rosana Silva, </strong>que é<strong> pós-graduada em Design de Inteiores, </strong>e está a frente de um blog riquíssimo em conteúdo nesta área<strong>, o <a href="http://www.simplesdecoracao.com.br/" target="_blank">Simples Decoração</a>, </strong>também acredita no poder das cores para a transformação de um ambiente, mas garante que dá para alcançar esse objetivo de maneira ainda mais prática: <strong><em>trocando acessórios, como almofadas e objetos {dica 3}</em></strong>. Ficou na empolgação pra começar já e precisa de inspirações? Espie o post “<a href="http://www.trololodemulher.com.br/2015/01/07/decoracao-sala-estar/" target="_blank">COLETÂNEA DE IDEIAS: DECORAÇÃO DA SALA DE ESTAR</a>” e veja que com dicas simples e imagens para servir como referência para você, a mudança é não é difícil como você imagina.
+  <strong>Rosana Silva, </strong>que é<strong> pós-graduada em Design de Inteiores, </strong>e está a frente de um blog riquíssimo em conteúdo nesta área<strong>, o <a href="http://www.simplesdecoracao.com.br/" target="_blank" rel="noopener noreferrer">Simples Decoração</a>, </strong>também acredita no poder das cores para a transformação de um ambiente, mas garante que dá para alcançar esse objetivo de maneira ainda mais prática: <strong><em>trocando acessórios, como almofadas e objetos {dica 3}</em></strong>. Ficou na empolgação pra começar já e precisa de inspirações? Espie o post “<a href="http://www.trololodemulher.com.br/2015/01/07/decoracao-sala-estar/" target="_blank" rel="noopener noreferrer">COLETÂNEA DE IDEIAS: DECORAÇÃO DA SALA DE ESTAR</a>” e veja que com dicas simples e imagens para servir como referência para você, a mudança é não é difícil como você imagina.
 </p>
 
 <p align="justify">
-  <strong>Amanda Vila Nova, Arquiteta</strong> na empresa <a href="http://www.maarquitetura.net/" target="_blank">MA Arquitetura</a>, aposta na <strong><em>reutilização de materiais {dica 4}</em></strong> como um recurso criativo e de baixo custo para essa transformação. Segundo a <em>expert</em>, “<em>caixotes, pallets, baldes, latas, garrafas podem ser transformados em prateleiras, mesas, e artigos de decoração</em>”. Para começar a se jogar na ideia, espie o post “<a href="http://www.decoracaodacasa.com/objetos-decoracao-organizacao/" target="_blank">COMO REUTILIZAR OBJETOS NA DECORAÇÃO/ORGANIZAÇÃO EM 4 DICAS</a>” e use-o como ponto de partida para outras formas de reutilização. Amanda também acredita no poder da mudança do espaço apenas com a rotatividade dos objetos decorativos que você já tem, e orienta: “<em>não é preciso reformar para dar uma boa repaginada na casa, os objetos pessoais podem mudar completamente a cara do ambiente. Apostando sempre em abajures, quadros, pôsteres, jarros de flores, almofadas. Esses objetos dão vida ao ambiente e o melhor que você pode facilmente trocar os estilos caso enjoe</em>”. Outra dica de ouro da Arquiteta é o garimpo por <strong><em>peças vintage para inserir na decoração do seu ambiente {ideia 5}</em></strong>. “<em>É preciso tempo e dedicação para achar a peça ideal, indo a brechós você pode achar peças únicas que dão uma vida ao ambiente como cristaleiras, mesas de centro ou poltronas, que acabam se tornando o grande ponto focal do ambiente”, </em>Amanda ensina. No post “<a href="http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/" target="_blank">SABE ONDE HÁ OBJETOS CHEIOS DE BOSSA PARA DECORAÇÃO?</a>”, há uma mostra de como itens encontrados em feiras de antiguidades, por exemplo, podem dar um toque charmoso e diferenciado em seus domínios. Confira!
+  <strong>Amanda Vila Nova, Arquiteta</strong> na empresa <a href="http://www.maarquitetura.net/" target="_blank" rel="noopener noreferrer">MA Arquitetura</a>, aposta na <strong><em>reutilização de materiais {dica 4}</em></strong> como um recurso criativo e de baixo custo para essa transformação. Segundo a <em>expert</em>, “<em>caixotes, pallets, baldes, latas, garrafas podem ser transformados em prateleiras, mesas, e artigos de decoração</em>”. Para começar a se jogar na ideia, espie o post “<a href="http://www.decoracaodacasa.com/objetos-decoracao-organizacao/" target="_blank" rel="noopener noreferrer">COMO REUTILIZAR OBJETOS NA DECORAÇÃO/ORGANIZAÇÃO EM 4 DICAS</a>” e use-o como ponto de partida para outras formas de reutilização. Amanda também acredita no poder da mudança do espaço apenas com a rotatividade dos objetos decorativos que você já tem, e orienta: “<em>não é preciso reformar para dar uma boa repaginada na casa, os objetos pessoais podem mudar completamente a cara do ambiente. Apostando sempre em abajures, quadros, pôsteres, jarros de flores, almofadas. Esses objetos dão vida ao ambiente e o melhor que você pode facilmente trocar os estilos caso enjoe</em>”. Outra dica de ouro da Arquiteta é o garimpo por <strong><em>peças vintage para inserir na decoração do seu ambiente {ideia 5}</em></strong>. “<em>É preciso tempo e dedicação para achar a peça ideal, indo a brechós você pode achar peças únicas que dão uma vida ao ambiente como cristaleiras, mesas de centro ou poltronas, que acabam se tornando o grande ponto focal do ambiente”, </em>Amanda ensina. No post “<a href="http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/" target="_blank" rel="noopener noreferrer">SABE ONDE HÁ OBJETOS CHEIOS DE BOSSA PARA DECORAÇÃO?</a>”, há uma mostra de como itens encontrados em feiras de antiguidades, por exemplo, podem dar um toque charmoso e diferenciado em seus domínios. Confira!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

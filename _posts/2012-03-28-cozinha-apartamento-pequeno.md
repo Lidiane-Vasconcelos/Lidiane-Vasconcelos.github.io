@@ -1,10 +1,7 @@
 ---
-id: 3125
 title: Cozinha moderna em apartamento pequeno… tem jeito?
-date: 2012-03-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/03/28/cozinha-apartamento-pequeno/
 permalink: /2012/03/28/cozinha-apartamento-pequeno/
 categories:
   - Cozinha
@@ -15,13 +12,13 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Muito bem… este post é para você! As imagens são do site <strong><em><a href="http://www.hgtv.com/" target="_blank">HGTV</a></em></strong> e mostram uma cozinha bem minimalista e outra com um detalhe que chama a atenção de cara: o revestimento entre os armários inferior e superior… confere!
+  Muito bem… este post é para você! As imagens são do site <strong><em><a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer">HGTV</a></em></strong> e mostram uma cozinha bem minimalista e outra com um detalhe que chama a atenção de cara: o revestimento entre os armários inferior e superior… confere!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/DECORACAO-COZINHA-APARTAMENTO-PEQUENO.jpg"><img class="alignnone size-full wp-image-8633" title="DECORACAO COZINHA APARTAMENTO PEQUENO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/DECORACAO-COZINHA-APARTAMENTO-PEQUENO.jpg" alt="" width="600" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/03/DECORACAO-COZINHA-APARTAMENTO-PEQUENO.jpg"><img class="alignnone size-full wp-image-8633" title="DECORACAO COZINHA APARTAMENTO PEQUENO" src="https://www.trololodemulher.com.br/2012/03/DECORACAO-COZINHA-APARTAMENTO-PEQUENO.jpg" alt="" width="600" height="800" /></a>
 </p>
 
 &nbsp;
@@ -37,7 +34,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/DECORACAO-COZINHA-APARTAMENTO-PEQUENO2.jpg"><img class="alignnone size-full wp-image-8634" title="DECORACAO COZINHA APARTAMENTO PEQUENO[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/DECORACAO-COZINHA-APARTAMENTO-PEQUENO2.jpg" alt="" width="600" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/03/DECORACAO-COZINHA-APARTAMENTO-PEQUENO2.jpg"><img class="alignnone size-full wp-image-8634" title="DECORACAO COZINHA APARTAMENTO PEQUENO[2]" src="https://www.trololodemulher.com.br/2012/03/DECORACAO-COZINHA-APARTAMENTO-PEQUENO2.jpg" alt="" width="600" height="800" /></a>
 </p>
 
 &nbsp;
@@ -53,5 +50,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

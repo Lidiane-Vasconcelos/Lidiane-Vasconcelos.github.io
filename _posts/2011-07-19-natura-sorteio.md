@@ -1,15 +1,12 @@
 ---
-id: 3023
 title: 'De bicha fêmea para bicha fêmea: notícias da Natura e… sorteio!!!'
-date: 2011-07-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/07/19/natura-sorteio/
 permalink: /2011/07/19/natura-sorteio/
 categories:
   - Publieditorial
 ---
-Quando se fala em **<a href="http://scf.natura.net/Default.aspx" target="_blank">Natura</a>** entre mulheres, a marca dispensa apresentação, não é? Poucas empresas de cosméticos têm a nossa confiança como ela, e isso não surgiu do nada, do dia para a noite…vamos combinar?
+Quando se fala em **<a href="http://scf.natura.net/Default.aspx" target="_blank" rel="noopener noreferrer">Natura</a>** entre mulheres, a marca dispensa apresentação, não é? Poucas empresas de cosméticos têm a nossa confiança como ela, e isso não surgiu do nada, do dia para a noite…vamos combinar?
 
 &nbsp;
 
@@ -30,15 +27,15 @@ Quando se fala em **<a href="http://scf.natura.net/Default.aspx" target="_blank"
 &nbsp;
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Espuma-de-Limpeza-Refrescante.jpg"><img class="alignnone size-full wp-image-6643" title="Espuma de Limpeza Refrescante" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Espuma-de-Limpeza-Refrescante.jpg" alt="" width="326" height="326" /></a><br /> <a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/espuma-de-limpeza-refrescante" target="_blank">Espuma de Limpeza Refrescante</a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/07/Espuma-de-Limpeza-Refrescante.jpg"><img class="alignnone size-full wp-image-6643" title="Espuma de Limpeza Refrescante" src="https://www.trololodemulher.com.br/2011/07/Espuma-de-Limpeza-Refrescante.jpg" alt="" width="326" height="326" /></a><br /> <a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/espuma-de-limpeza-refrescante" target="_blank" rel="noopener noreferrer">Espuma de Limpeza Refrescante</a></strong>
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Sabonete-Gel-Limpeza-Intensiva.jpg"><img class="alignnone size-full wp-image-6649" title="Sabonete Gel Limpeza Intensiva" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Sabonete-Gel-Limpeza-Intensiva.jpg" alt="" width="326" height="326" /></a><br /> <a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/sabonete-gel-limpeza-intensiva" target="_blank">Sabonete Gel Limpeza Intensiva</a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/07/Sabonete-Gel-Limpeza-Intensiva.jpg"><img class="alignnone size-full wp-image-6649" title="Sabonete Gel Limpeza Intensiva" src="https://www.trololodemulher.com.br/2011/07/Sabonete-Gel-Limpeza-Intensiva.jpg" alt="" width="326" height="326" /></a><br /> <a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/sabonete-gel-limpeza-intensiva" target="_blank" rel="noopener noreferrer">Sabonete Gel Limpeza Intensiva</a></strong>
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Locao-Adstringente-Reguladora.jpg"><img class="alignnone size-full wp-image-6644" title="Loção Adstringente Reguladora" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Locao-Adstringente-Reguladora.jpg" alt="" width="326" height="326" /></a><br /> <a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/locao-adstringente-reguladora" target="_blank">Loção Adstringente Reguladora</a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/07/Locao-Adstringente-Reguladora.jpg"><img class="alignnone size-full wp-image-6644" title="Loção Adstringente Reguladora" src="https://www.trololodemulher.com.br/2011/07/Locao-Adstringente-Reguladora.jpg" alt="" width="326" height="326" /></a><br /> <a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/locao-adstringente-reguladora" target="_blank" rel="noopener noreferrer">Loção Adstringente Reguladora</a></strong>
 </p>
 
 &nbsp;
@@ -48,11 +45,11 @@ Já as **peles Normais a Secas** podem ser tratadas pelos seguintes produtos: **
 &nbsp;
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Emulsao-Cremosa-de-Limpeza.jpg"><img class="alignnone size-full wp-image-6642" title="Emulsão Cremosa de Limpeza" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Emulsao-Cremosa-de-Limpeza.jpg" alt="" width="326" height="326" /><br /> </a><a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/emulsao-cremosa-de-limpeza" target="_blank">Emulsão Cremosa de Limpeza</a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/07/Emulsao-Cremosa-de-Limpeza.jpg"><img class="alignnone size-full wp-image-6642" title="Emulsão Cremosa de Limpeza" src="https://www.trololodemulher.com.br/2011/07/Emulsao-Cremosa-de-Limpeza.jpg" alt="" width="326" height="326" /><br /> </a><a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/emulsao-cremosa-de-limpeza" target="_blank" rel="noopener noreferrer">Emulsão Cremosa de Limpeza</a></strong>
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Locao-Tonica-Protetora.jpg"><img class="alignnone size-full wp-image-6645" title="Loção Tônica Protetora" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Locao-Tonica-Protetora.jpg" alt="" width="326" height="326" /></a><br /> <a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/locao-tonica-protetora" target="_blank">Loção Tônica Protetora</a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/07/Locao-Tonica-Protetora.jpg"><img class="alignnone size-full wp-image-6645" title="Loção Tônica Protetora" src="https://www.trololodemulher.com.br/2011/07/Locao-Tonica-Protetora.jpg" alt="" width="326" height="326" /></a><br /> <a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/locao-tonica-protetora" target="_blank" rel="noopener noreferrer">Loção Tônica Protetora</a></strong>
 </p>
 
 &nbsp;
@@ -62,11 +59,11 @@ Para a **esfoliação intensa** o **produto a ser usado é o mesmo para todos os
 &nbsp;
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Creme-Microesfoliante-Purificante.jpg"><img class="alignnone size-full wp-image-6641" title="Creme Microesfoliante Purificante" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Creme-Microesfoliante-Purificante.jpg" alt="" width="326" height="326" /></a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/07/Creme-Microesfoliante-Purificante.jpg"><img class="alignnone size-full wp-image-6641" title="Creme Microesfoliante Purificante" src="https://www.trololodemulher.com.br/2011/07/Creme-Microesfoliante-Purificante.jpg" alt="" width="326" height="326" /></a></strong>
 </p>
 
 <p align="center">
-  <strong><a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/creme-microesfoliante-purificante" target="_blank">Creme Microesfoliante Purificante</a></strong>
+  <strong><a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/creme-microesfoliante-purificante" target="_blank" rel="noopener noreferrer">Creme Microesfoliante Purificante</a></strong>
 </p>
 
 &nbsp;

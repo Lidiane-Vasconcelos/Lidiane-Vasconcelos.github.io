@@ -1,10 +1,7 @@
 ---
-id: 3347
 title: '4 detalhes decorativos charmosos para sua varanda: ideias.'
-date: 2014-09-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/09/24/decoracao-varanda-2/
 permalink: /2014/09/24/decoracao-varanda-2/
 categories:
   - 'Varanda &amp; Jardim'
@@ -22,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/DECORACAO-VARANDA.jpg"><img class="alignnone size-full wp-image-10423" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/DECORACAO-VARANDA.jpg" alt="DECORACAO-VARANDA" width="550" height="458" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/DECORACAO-VARANDA.jpg"><img class="alignnone size-full wp-image-10423" src="https://www.trololodemulher.com.br/2014/09/DECORACAO-VARANDA.jpg" alt="DECORACAO-VARANDA" width="550" height="458" /></a>
 </p>
 
 <p align="justify">
@@ -34,7 +31,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/DECORACAO-VARANDA2.jpg"><img class="alignnone size-full wp-image-10424" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/DECORACAO-VARANDA2.jpg" alt="DECORACAO-VARANDA[2]" width="550" height="733" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/DECORACAO-VARANDA2.jpg"><img class="alignnone size-full wp-image-10424" src="https://www.trololodemulher.com.br/2014/09/DECORACAO-VARANDA2.jpg" alt="DECORACAO-VARANDA[2]" width="550" height="733" /></a>
 </p>
 
 <p align="justify">
@@ -46,7 +43,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/DECORACAO-VARANDA3.jpg"><img class="alignnone size-full wp-image-10425" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/DECORACAO-VARANDA3.jpg" alt="DECORACAO-VARANDA[3]" width="550" height="733" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/DECORACAO-VARANDA3.jpg"><img class="alignnone size-full wp-image-10425" src="https://www.trololodemulher.com.br/2014/09/DECORACAO-VARANDA3.jpg" alt="DECORACAO-VARANDA[3]" width="550" height="733" /></a>
 </p>
 
 <p align="justify">
@@ -58,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/DECORACAO-VARANDA4.jpg"><img class="alignnone size-full wp-image-10426" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/DECORACAO-VARANDA4.jpg" alt="DECORACAO-VARANDA[4]" width="550" height="733" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/DECORACAO-VARANDA4.jpg"><img class="alignnone size-full wp-image-10426" src="https://www.trololodemulher.com.br/2014/09/DECORACAO-VARANDA4.jpg" alt="DECORACAO-VARANDA[4]" width="550" height="733" /></a>
 </p>
 
 <p align="justify">
@@ -70,23 +67,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/07/17/decoracao-varanda/" target="_blank"><strong>Decoração de varanda: ideia fácil e barata para você copiar.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/07/17/decoracao-varanda/" target="_blank" rel="noopener noreferrer"><strong>Decoração de varanda: ideia fácil e barata para você copiar.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-da-varanda/" target="_blank"><strong>Como escolher tecidos para a decoração da varanda?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-da-varanda/" target="_blank" rel="noopener noreferrer"><strong>Como escolher tecidos para a decoração da varanda?</strong></a>
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagens: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
+  <a href="http://www.decoracaodacasa.com/" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10262" src="https://www.trololodemulher.com.br/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
 </p>
 
 &nbsp;

@@ -1,10 +1,7 @@
 ---
-id: 2740
 title: Como decorar uma mesa de jantar em fibra natural e vidro?
-date: 2009-11-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/11/24/mesa-fibra-natural-e-vidro/
 permalink: /2009/11/24/mesa-fibra-natural-e-vidro/
 categories:
   - Salas

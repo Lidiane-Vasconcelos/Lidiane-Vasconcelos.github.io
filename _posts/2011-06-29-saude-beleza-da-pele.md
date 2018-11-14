@@ -1,10 +1,7 @@
 ---
-id: 3015
 title: 'Saúde da pele: é exagero usar tantos tipos de sabonete?'
-date: 2011-06-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/06/29/saude-beleza-da-pele/
 permalink: /2011/06/29/saude-beleza-da-pele/
 categories:
   - Saúde
@@ -12,7 +9,7 @@ categories:
 Como eu, aposto que você usa **diferentes tipos de sabonete** para as **várias áreas do corpo**, correto? Será que você já ouviu alguém falar que isso é totalmente desnecessário? Se sim, essa é a hora de tirar a dúvida.
 
 <p style="text-align: justify;">
-  Quem responde essa questão com exclusividade para o <strong>Bicha Fêmea</strong> é a <strong>médica dermatologista</strong> do <strong>Rio de Janeiro</strong>, <strong>Dra. Livia Pino</strong>, que também é blogueira e edita o <strong><a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">Dermatologia em Foco</a></strong>.
+  Quem responde essa questão com exclusividade para o <strong>Bicha Fêmea</strong> é a <strong>médica dermatologista</strong> do <strong>Rio de Janeiro</strong>, <strong>Dra. Livia Pino</strong>, que também é blogueira e edita o <strong><a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank" rel="noopener noreferrer">Dermatologia em Foco</a></strong>.
 </p>
 
 <!--more-->
@@ -30,7 +27,7 @@ Como eu, aposto que você usa **diferentes tipos de sabonete** para as **várias
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/saude-e-beleza-da-pele.jpg"><img class="alignnone size-full wp-image-6553" title="saúde e beleza da pele" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/saude-e-beleza-da-pele.jpg" alt="" width="600" height="400" /></a><br /> Imagem: <a href="http://www.sxc.hu/" target="_blank"><strong>stock.xchng</strong></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/saude-e-beleza-da-pele.jpg"><img class="alignnone size-full wp-image-6553" title="saúde e beleza da pele" src="https://www.trololodemulher.com.br/2011/06/saude-e-beleza-da-pele.jpg" alt="" width="600" height="400" /></a><br /> Imagem: <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><strong>stock.xchng</strong></a>
 </p>
 
 <p style="text-align: justify;">

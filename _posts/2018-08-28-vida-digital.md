@@ -1,11 +1,8 @@
 ---
-id: 3875
 title: Como conseguir qualidade de vida digital?
-date: 2018-08-28T00:00:00+00:00
-author: admin
+author: Lidiane
 excerpt: 'O medo de ficar por fora do que acontece online impacta diretamente na sua qualidade de vida digital.  Como atingir o equilíbrio? Descubra, neste post.'
 layout: post
-guid: http://localhost/wordpress/2018/08/28/vida-digital/
 permalink: /2018/08/28/vida-digital/
 categories:
   - Bem viver
@@ -26,7 +23,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14690" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/08/VIDA-DIGITAL-VIDA-ONLINE-GESTAO-DO-TEMPO-ORGANIZACAO-PESSOAL-PRODUTIVIDADE-BEM-VIVER-BLOG.jpg" alt="" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14690" src="https://www.trololodemulher.com.br/2018/08/VIDA-DIGITAL-VIDA-ONLINE-GESTAO-DO-TEMPO-ORGANIZACAO-PESSOAL-PRODUTIVIDADE-BEM-VIVER-BLOG.jpg" alt="" width="800" height="800" />
 </p>
 
 <p align="center">

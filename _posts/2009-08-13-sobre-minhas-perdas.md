@@ -1,10 +1,7 @@
 ---
-id: 2697
 title: 'Sobre minhas perdas&#8230;'
-date: 2009-08-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/08/13/sobre-minhas-perdas/
 permalink: /2009/08/13/sobre-minhas-perdas/
 categories:
   - Trololó
@@ -23,8 +20,8 @@ Eu sou só mais uma de tantos que perderam alguém que ama muito, mas o _nãosei
 
 <span style="color: #000080;">Já diz o ditado que <em>nada é melhor que um dia após o outro</em>, não é? E é verdade! Hoje é um novo dia, e eu estou bem melhor. Estou tranquila e de bem com a vida novamente. </span>
 
-<span style="color: #000080;">Li atentamente cada comentário, e saiba que suas palavras tiveram muita influência para eu ir me sentindo melhor conforme o dia foi passando. Marido teve um papel fundamental ontem, e como sempre, se mostrou incrivelmente companheiro. Terminamos o dia conversando e rindo bastante (e eu segurando a barriga na hora de rir por causa dos pontos, </span>_<span style="color: #000080;">aff!!!).</span>[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/emoticongoofy1.gif)_ 
+<span style="color: #000080;">Li atentamente cada comentário, e saiba que suas palavras tiveram muita influência para eu ir me sentindo melhor conforme o dia foi passando. Marido teve um papel fundamental ontem, e como sempre, se mostrou incrivelmente companheiro. Terminamos o dia conversando e rindo bastante (e eu segurando a barriga na hora de rir por causa dos pontos, </span>_<span style="color: #000080;">aff!!!).</span>[](https://www.trololodemulher.com.br/2009/08/emoticongoofy1.gif)_ 
 
-<span style="color: #000080;">Ontem, nas horas diurnas, orei mais que de costume e isso é um santo remédio. Bom, pelo menos para mim é, <em>né</em>? Cada um tem a sua forma de se relacionar com Deus ou com o que quer que acredite, ou não se relaciona com nada&#8230; de toda forma, respeito a todos e convivo muito bem com o diferente.</span>[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/emoticonwink6.gif)
+<span style="color: #000080;">Ontem, nas horas diurnas, orei mais que de costume e isso é um santo remédio. Bom, pelo menos para mim é, <em>né</em>? Cada um tem a sua forma de se relacionar com Deus ou com o que quer que acredite, ou não se relaciona com nada&#8230; de toda forma, respeito a todos e convivo muito bem com o diferente.</span>[](https://www.trololodemulher.com.br/2009/08/emoticonwink6.gif)
 
-<span style="color: #000080;">O fato, bonita, é que quero te agradecer imensamente por ter passado aqui e deixado o seu carinho. Ontem me senti acarinhada e muito bem quista por você. Muito obrigada!</span>[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/emoticonshy.gif)
+<span style="color: #000080;">O fato, bonita, é que quero te agradecer imensamente por ter passado aqui e deixado o seu carinho. Ontem me senti acarinhada e muito bem quista por você. Muito obrigada!</span>[](https://www.trololodemulher.com.br/2009/08/emoticonshy.gif)

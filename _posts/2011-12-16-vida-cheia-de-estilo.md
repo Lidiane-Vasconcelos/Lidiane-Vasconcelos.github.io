@@ -1,10 +1,7 @@
 ---
-id: 3094
 title: Por uma vida cheia de estilo… do SEU estilo!
-date: 2011-12-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/12/16/vida-cheia-de-estilo/
 permalink: /2011/12/16/vida-cheia-de-estilo/
 categories:
   - Trololó
@@ -27,13 +24,13 @@ Você sabe muito bem o que te deixa feliz, plena e realizada. O que te faz senti
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/VIAGEM-MAPA200.jpg"><img class="alignnone size-full wp-image-8179" title="VIAGEM MAPA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/VIAGEM-MAPA200.jpg" alt="" width="200" height="200" /></a><br /> <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/11/11/para-onde-voce-gosta-de-viajar/">Para onde você gosta de viajar?</a></span></strong>
+        <a href="https://www.trololodemulher.com.br/2011/11/VIAGEM-MAPA200.jpg"><img class="alignnone size-full wp-image-8179" title="VIAGEM MAPA200" src="https://www.trololodemulher.com.br/2011/11/VIAGEM-MAPA200.jpg" alt="" width="200" height="200" /></a><br /> <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/11/11/para-onde-voce-gosta-de-viajar/">Para onde você gosta de viajar?</a></span></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Laguna-Colorada-Bolivia200.jpg"><img class="alignnone size-full wp-image-6710" title="Laguna Colorada - Bolívia200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Laguna-Colorada-Bolivia200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/08/05/viagem-5-lugares-para-conhecer/">Viagem: 5 lugares para conhecer e se surpreender. Duvida?!</a></span></strong>
+        <strong><span style="font-size: small;"><a href="https://www.trololodemulher.com.br/2011/08/Laguna-Colorada-Bolivia200.jpg"><img class="alignnone size-full wp-image-6710" title="Laguna Colorada - Bolívia200" src="https://www.trololodemulher.com.br/2011/08/Laguna-Colorada-Bolivia200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/08/05/viagem-5-lugares-para-conhecer/">Viagem: 5 lugares para conhecer e se surpreender. Duvida?!</a></span></strong>
       </p>
     </td>
   </tr>
@@ -51,13 +48,13 @@ Você sabe muito bem o que te deixa feliz, plena e realizada. O que te faz senti
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/cha-ou-cafe-da-tarde200.jpg"><img class="alignnone size-full wp-image-4847" title="chá ou café da tarde200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/cha-ou-cafe-da-tarde200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/07/12/cha-cafe-da-tarde/">Chá ou café da tarde com amigas: dicas e ideias…</a></span></strong>
+        <strong><span style="font-size: small;"><a href="https://www.trololodemulher.com.br/2010/06/cha-ou-cafe-da-tarde200.jpg"><img class="alignnone size-full wp-image-4847" title="chá ou café da tarde200" src="https://www.trololodemulher.com.br/2010/06/cha-ou-cafe-da-tarde200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/07/12/cha-cafe-da-tarde/">Chá ou café da tarde com amigas: dicas e ideias…</a></span></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Final-de-semana200.jpg"><img class="alignnone size-full wp-image-6969" title="Final de semana200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Final-de-semana200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/08/21/vivendo-fim-de-semana/">Como você vive e aproveita os fins de semana?</a></span></strong>
+        <strong><span style="font-size: small;"><a href="https://www.trololodemulher.com.br/2011/09/Final-de-semana200.jpg"><img class="alignnone size-full wp-image-6969" title="Final de semana200" src="https://www.trololodemulher.com.br/2011/09/Final-de-semana200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/08/21/vivendo-fim-de-semana/">Como você vive e aproveita os fins de semana?</a></span></strong>
       </p>
     </td>
   </tr>
@@ -71,13 +68,13 @@ Você sabe muito bem o que te deixa feliz, plena e realizada. O que te faz senti
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/cupcakes-doces-abobrinhas200.jpg"><img class="alignnone size-full wp-image-7002" title="cupcakes - doces abobrinhas200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/cupcakes-doces-abobrinhas200.jpg" alt="" width="200" height="200" /></a><br /> </span><a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/"><span style="font-size: small;">O talento na cozinha pode mesmo virar uma fonte de renda?</span></a></strong>
+        <strong><span style="font-size: small;"><a href="https://www.trololodemulher.com.br/2011/10/cupcakes-doces-abobrinhas200.jpg"><img class="alignnone size-full wp-image-7002" title="cupcakes - doces abobrinhas200" src="https://www.trololodemulher.com.br/2011/10/cupcakes-doces-abobrinhas200.jpg" alt="" width="200" height="200" /></a><br /> </span><a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/"><span style="font-size: small;">O talento na cozinha pode mesmo virar uma fonte de renda?</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/home-office200.jpg"><img class="alignnone size-full wp-image-6891" title="home office200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/home-office200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/09/09/trabalhar-home-office/">Quer trabalhar sem sair de casa mas não sabe como?</a></span></strong>
+        <strong><span style="font-size: small;"><a href="https://www.trololodemulher.com.br/2011/09/home-office200.jpg"><img class="alignnone size-full wp-image-6891" title="home office200" src="https://www.trololodemulher.com.br/2011/09/home-office200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/09/09/trabalhar-home-office/">Quer trabalhar sem sair de casa mas não sabe como?</a></span></strong>
       </p>
     </td>
   </tr>
@@ -87,7 +84,7 @@ Você sabe muito bem o que te deixa feliz, plena e realizada. O que te faz senti
   <tr>
     <td valign="top" width="600">
       <p align="center">
-        <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/escolha200.jpg"><img class="alignnone size-full wp-image-6700" title="escolha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/escolha200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/08/03/voce-e-feliz/">Você é feliz com as escolhas que fez para sua vida?</a></span></strong>
+        <strong><span style="font-size: small;"><a href="https://www.trololodemulher.com.br/2011/08/escolha200.jpg"><img class="alignnone size-full wp-image-6700" title="escolha200" src="https://www.trololodemulher.com.br/2011/08/escolha200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/08/03/voce-e-feliz/">Você é feliz com as escolhas que fez para sua vida?</a></span></strong>
       </p>
     </td>
   </tr>
@@ -111,13 +108,13 @@ Você sabe muito bem o que te deixa feliz, plena e realizada. O que te faz senti
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="http://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     

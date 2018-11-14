@@ -1,16 +1,13 @@
 ---
-id: 2954
 title: 'Uma bicha fêmea por outra: Larissa Lieders'
-date: 2011-02-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/02/23/entrevista-larissa-lieders/
 permalink: /2011/02/23/entrevista-larissa-lieders/
 categories:
   - Comportamento
   - Entrevistas
 ---
-Ela é uma mulher ativa, moderna, jovem e bonita. Aos 32 anos, a **Arquiteta Larissa Lieders** já comemora quase 10 anos de formação na área, e para nossa sorte, tem dividido seu bom gosto na arte de decorar uma casa em seu espaço virtual muito bem frequentado: <a href="http://fuimorarnumacasinha.blogspot.com/" target="_blank">Fui morar numa casinha…</a>
+Ela é uma mulher ativa, moderna, jovem e bonita. Aos 32 anos, a **Arquiteta Larissa Lieders** já comemora quase 10 anos de formação na área, e para nossa sorte, tem dividido seu bom gosto na arte de decorar uma casa em seu espaço virtual muito bem frequentado: <a href="http://fuimorarnumacasinha.blogspot.com/" target="_blank" rel="noopener noreferrer">Fui morar numa casinha…</a>
 
 <p style="text-align: justify;">
   Se você ainda não ouviu falar em <strong>Larissa</strong>, certamente ouvirá. A moça de bom gosto, e simpatia flagrante na forma como edita o blog, tem um espaço virtual em franco crescimento de visibilidade, e desconfio que ainda dará muito o que falar…
@@ -23,7 +20,7 @@ Ela é uma mulher ativa, moderna, jovem e bonita. Aos 32 anos, a **Arquiteta Lar
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Larissa-Lieders-com-filha.jpg"><img class="alignnone size-full wp-image-5953" title="AniversÃ¡rio de 3 anos da Olivia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Larissa-Lieders-com-filha.jpg" alt="" width="275" height="413" /></a><br /> <em>Aniversário de 3 anos de Olívia, filha da Larissa Lieders.</em>
+  <a href="https://www.trololodemulher.com.br/2011/02/Larissa-Lieders-com-filha.jpg"><img class="alignnone size-full wp-image-5953" title="AniversÃ¡rio de 3 anos da Olivia" src="https://www.trololodemulher.com.br/2011/02/Larissa-Lieders-com-filha.jpg" alt="" width="275" height="413" /></a><br /> <em>Aniversário de 3 anos de Olívia, filha da Larissa Lieders.</em>
 </p>
 
 <p style="text-align: justify;">
@@ -67,7 +64,7 @@ Ela é uma mulher ativa, moderna, jovem e bonita. Aos 32 anos, a **Arquiteta Lar
 </blockquote>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Larissa-Lieders.jpg"><img class="alignnone size-full wp-image-5952" title="Larissa Lieders" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Larissa-Lieders.jpg" alt="" width="600" height="450" /></a><br /> <em>Foto tirada no restaurante El Federal, na Argentina.</em>
+  <a href="https://www.trololodemulher.com.br/2011/02/Larissa-Lieders.jpg"><img class="alignnone size-full wp-image-5952" title="Larissa Lieders" src="https://www.trololodemulher.com.br/2011/02/Larissa-Lieders.jpg" alt="" width="600" height="450" /></a><br /> <em>Foto tirada no restaurante El Federal, na Argentina.</em>
 </p>
 
 <p style="text-align: justify;">
@@ -94,15 +91,15 @@ Ela é uma mulher ativa, moderna, jovem e bonita. Aos 32 anos, a **Arquiteta Lar
   <strong><em><span style="font-size: medium;">Arquiteta Premiada</span></em></strong>
 </p>
 
-**_Você e sua amiga Marcela, companheira desde a época de faculdade, tiveram um projeto de design premiado no IDEA/Brasil 2010 na categoria Casa, com a <a href="http://atelierladushki.blogspot.com/2010/02/chapeleira-gaudino.html" target="_blank">Chapeleira Gaudino</a>. Há mais projetos em andamento?_**
+**_Você e sua amiga Marcela, companheira desde a época de faculdade, tiveram um projeto de design premiado no IDEA/Brasil 2010 na categoria Casa, com a <a href="http://atelierladushki.blogspot.com/2010/02/chapeleira-gaudino.html" target="_blank" rel="noopener noreferrer">Chapeleira Gaudino</a>. Há mais projetos em andamento?_**
 
 > “_Estamos com algumas ideias na cabeça sim, mas esse tipo de trabalho exige a procura de fornecedores para elaboração de protótipos e afins, e no momento, nós duas estamos um pouco atarefadas demais.”_
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Larissa-Lieders-e-Marcela.jpg"><img class="alignnone size-full wp-image-5954" title="Larissa Lieders e Marcela" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Larissa-Lieders-e-Marcela.jpg" alt="" width="600" height="450" /></a><br /> <em>Foto tirada no Prêmio Idea/2010, com a amiga Marcela, quando ganharam o prêmio pela Chapeleira Gaudino.</em>
+  <a href="https://www.trololodemulher.com.br/2011/02/Larissa-Lieders-e-Marcela.jpg"><img class="alignnone size-full wp-image-5954" title="Larissa Lieders e Marcela" src="https://www.trololodemulher.com.br/2011/02/Larissa-Lieders-e-Marcela.jpg" alt="" width="600" height="450" /></a><br /> <em>Foto tirada no Prêmio Idea/2010, com a amiga Marcela, quando ganharam o prêmio pela Chapeleira Gaudino.</em>
 </p>
 
-**_O que o blog <a href="http://atelierladushki.blogspot.com/" target="_blank">Ladushki</a>, que você edita com a Marcela, representa em sua vida de blogueira?_**
+**_O que o blog <a href="http://atelierladushki.blogspot.com/" target="_blank" rel="noopener noreferrer">Ladushki</a>, que você edita com a Marcela, representa em sua vida de blogueira?_**
 
 > “_Na verdade ele foi criado com o intuito de promover a venda dos produtos criados por nós, claro que a ideia é incluir informações pertinentes também, sempre com o intuito de dividir conhecimento.”_
 

@@ -1,10 +1,7 @@
 ---
-id: 3522
 title: 'Dri Minhoto na Finlândia: pausa pra reflexão.'
-date: 2015-12-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/12/18/finlandia/
 permalink: /2015/12/18/finlandia/
 categories:
   - Adriana Minhoto
@@ -16,7 +13,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/12/ADRIANA.jpg"><img class="alignnone size-full wp-image-11756" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/12/ADRIANA.jpg" alt="ADRIANA" width="800" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/12/ADRIANA.jpg"><img class="alignnone size-full wp-image-11756" src="https://www.trololodemulher.com.br/2015/12/ADRIANA.jpg" alt="ADRIANA" width="800" height="800" /></a>
 </p>
 
 <p align="center">
@@ -32,7 +29,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>Aqui na Finlândia pude entender melhor e passar para vocês mais informações sobre o <a href="http://www.trololodemulher.com.br/2015/11/20/saude-publica-na-finlandia/" target="_blank">sistema de saúde finlandês</a>, sobre a <a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank">educação nesse país tão frio</a>, e como as <a href="http://www.trololodemulher.com.br/2015/10/16/servico-domestico-na-finlandia/" target="_blank">famílias aqui cuidam das tarefas domésticas</a>. Vi o dia mais longo do ano, cai de bumbum no chão (e isso me dói até hoje), engordei (deixa quieto), fiz amizades, fiz cursos, viajei e conheci novos países, chorei muito, mas dei mais risada ainda e pude dividir muitas dessas coisas com vocês. </em>
+  <em>Aqui na Finlândia pude entender melhor e passar para vocês mais informações sobre o <a href="http://www.trololodemulher.com.br/2015/11/20/saude-publica-na-finlandia/" target="_blank" rel="noopener noreferrer">sistema de saúde finlandês</a>, sobre a <a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank" rel="noopener noreferrer">educação nesse país tão frio</a>, e como as <a href="http://www.trololodemulher.com.br/2015/10/16/servico-domestico-na-finlandia/" target="_blank" rel="noopener noreferrer">famílias aqui cuidam das tarefas domésticas</a>. Vi o dia mais longo do ano, cai de bumbum no chão (e isso me dói até hoje), engordei (deixa quieto), fiz amizades, fiz cursos, viajei e conheci novos países, chorei muito, mas dei mais risada ainda e pude dividir muitas dessas coisas com vocês. </em>
 </p>
 
 <p align="justify">
@@ -52,29 +49,29 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ADRIANA-MINHOTO.jpg"><img class="alignnone size-full wp-image-11365" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/ADRIANA-MINHOTO.jpg"><img class="alignnone size-full wp-image-11365" src="https://www.trololodemulher.com.br/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" /></a>
 </p>
 
 **Entenda como tudo começou:**
 
-**<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
+**<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank" rel="noopener noreferrer">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
 
 &nbsp;
 
 **Mais sobre a Finlândia, por Adriana Minhoto:**
 
-**<a href="http://www.trololodemulher.com.br/2015/11/20/saude-publica-na-finlandia/" target="_blank">Por que o sistema de saúde pública na Finlândia funciona?</a>**
+**<a href="http://www.trololodemulher.com.br/2015/11/20/saude-publica-na-finlandia/" target="_blank" rel="noopener noreferrer">Por que o sistema de saúde pública na Finlândia funciona?</a>**
 
-**<a href="http://www.trololodemulher.com.br/2015/10/16/servico-domestico-na-finlandia/" target="_blank">Serviço doméstico na Finlândia: quem cuida disso?</a>**
+**<a href="http://www.trololodemulher.com.br/2015/10/16/servico-domestico-na-finlandia/" target="_blank" rel="noopener noreferrer">Serviço doméstico na Finlândia: quem cuida disso?</a>**
 
-**<a href="http://www.trololodemulher.com.br/2015/09/18/morar-na-finlandia/" target="_blank">Casa e decoração: o jeito de morar na Finlândia.</a>**
+**<a href="http://www.trololodemulher.com.br/2015/09/18/morar-na-finlandia/" target="_blank" rel="noopener noreferrer">Casa e decoração: o jeito de morar na Finlândia.</a>**
 
 &nbsp;
 
 <p align="justify">
-  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank" rel="noopener noreferrer">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

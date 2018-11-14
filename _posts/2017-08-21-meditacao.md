@@ -1,10 +1,7 @@
 ---
-id: 3786
 title: Quer melhorar sua prática de meditação? Faça Yoga.
-date: 2017-08-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/08/21/meditacao/
 permalink: /2017/08/21/meditacao/
 categories:
   - Bem-estar
@@ -14,11 +11,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14009" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/MEDITACAO-YOGA800.jpg" alt="MEDITACAO-YOGA800" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14009" src="https://www.trololodemulher.com.br/2017/08/MEDITACAO-YOGA800.jpg" alt="MEDITACAO-YOGA800" width="800" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/egizu/29438001551/" target="_blank">egizu</a> via <a href="http://foter.com/re/744f9c" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Imagem: <a href="https://www.flickr.com/photos/egizu/29438001551/" target="_blank" rel="noopener noreferrer">egizu</a> via <a href="http://foter.com/re/744f9c" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener noreferrer">CC BY</a>
 </p>
 
 <p align="center">
@@ -26,7 +23,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>A meditação vem ganhando grande popularidade nos dias de hoje devido aos seus <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank">inúmeros e incontáveis benefícios</a>. O que muitos não sabem é que para se ter uma prática meditativa mais confortável e estável, pode-se contar com a ajuda da prática de asanas (posturas fisicas do yoga). </em>
+  “<em>A meditação vem ganhando grande popularidade nos dias de hoje devido aos seus <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank" rel="noopener noreferrer">inúmeros e incontáveis benefícios</a>. O que muitos não sabem é que para se ter uma prática meditativa mais confortável e estável, pode-se contar com a ajuda da prática de asanas (posturas fisicas do yoga). </em>
 </p>
 
 <p align="justify">
@@ -50,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-10568" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/YOGA-MEDITACAO-SAUDE-BEM-ESTAR-PROFESSORA-PAULA-ELISA2.png" alt="YOGA-MEDITACAO-SAUDE-BEM ESTAR-PROFESSORA-PAULA ELISA[2]" width="800" height="212" />
+  <img class="alignnone size-full wp-image-10568" src="https://www.trololodemulher.com.br/2014/11/YOGA-MEDITACAO-SAUDE-BEM-ESTAR-PROFESSORA-PAULA-ELISA2.png" alt="YOGA-MEDITACAO-SAUDE-BEM ESTAR-PROFESSORA-PAULA ELISA[2]" width="800" height="212" />
 </p>
 
 <p align="justify">
@@ -58,19 +55,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/06/19/doencas-mais-comuns-no-inverno/" target="_blank"><strong>Combata doenças mais comuns no inverno com o Yoga.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/06/19/doencas-mais-comuns-no-inverno/" target="_blank" rel="noopener noreferrer"><strong>Combata doenças mais comuns no inverno com o Yoga.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank"><strong>O que a meditação pode fazer por seu bem-estar e saúde?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank" rel="noopener noreferrer"><strong>O que a meditação pode fazer por seu bem-estar e saúde?</strong></a>
 </p>
 
 <p align="justify">
-  Paula edita um blog repleto de informações sobre a prática da Yoga e tudo o mais que está ligado a esse universo. Sua linguagem é simples, didática e incrivelmente gostosa de ser lida. Aproveite! Acompanhe suas atualizações pelo <strong>Namastê Yoga Blog</strong>, <a href="http://www.namasteyoga.com.br/" target="_blank">clicando aqui</a>. Não deixe de conferir suas postagens que fazem tanto bem em outro canal, no Facebook. <a href="https://www.facebook.com/namasteyoga2" target="_blank">Sua página está bem aqui, clique</a>, confira e curta!
+  Paula edita um blog repleto de informações sobre a prática da Yoga e tudo o mais que está ligado a esse universo. Sua linguagem é simples, didática e incrivelmente gostosa de ser lida. Aproveite! Acompanhe suas atualizações pelo <strong>Namastê Yoga Blog</strong>, <a href="http://www.namasteyoga.com.br/" target="_blank" rel="noopener noreferrer">clicando aqui</a>. Não deixe de conferir suas postagens que fazem tanto bem em outro canal, no Facebook. <a href="https://www.facebook.com/namasteyoga2" target="_blank" rel="noopener noreferrer">Sua página está bem aqui, clique</a>, confira e curta!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="justify">

@@ -1,10 +1,7 @@
 ---
-id: 3274
 title: 'Beleza dos olhos no Verão: sombras'
-date: 2014-01-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/01/21/beleza-olhos-verao-sombras/
 permalink: /2014/01/21/beleza-olhos-verao-sombras/
 categories:
   - Beleza
@@ -44,7 +41,7 @@ E os dias quentes estão aí…delícia, delícia. A gente quer ficar toda bonit
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BELEZA-OLHOS-MAQUIAGEM-SOMBRA.png"><img class="alignnone size-full wp-image-9867" alt="BELEZA-OLHOS-MAQUIAGEM-SOMBRA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BELEZA-OLHOS-MAQUIAGEM-SOMBRA.png" width="600" height="445" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/01/BELEZA-OLHOS-MAQUIAGEM-SOMBRA.png"><img class="alignnone size-full wp-image-9867" alt="BELEZA-OLHOS-MAQUIAGEM-SOMBRA" src="https://www.trololodemulher.com.br/2014/01/BELEZA-OLHOS-MAQUIAGEM-SOMBRA.png" width="600" height="445" /></a>
 </p>
 
 &nbsp;
@@ -62,13 +59,13 @@ E os dias quentes estão aí…delícia, delícia. A gente quer ficar toda bonit
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/JOICE-FOGASSI2.png"><img class="alignnone size-full wp-image-9072" alt="JOICE FOGASSI[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/JOICE-FOGASSI2.png" width="566" height="314" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/08/JOICE-FOGASSI2.png"><img class="alignnone size-full wp-image-9072" alt="JOICE FOGASSI[2]" src="https://www.trololodemulher.com.br/2012/08/JOICE-FOGASSI2.png" width="566" height="314" /></a>
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  Preciso dizer que acompanhar o blog da Joice é certeza de conteúdo informativo, de qualidade, e escrito para todas nós, mulheres com necessidades bem reais. O que a gente quer é se ver no conteúdo de um blog, certo? Então o blog <a href="http://joicemicropigmentacaomaquiagem.blogspot.com.br/" target="_blank"><strong>Joice Fogassi</strong></a> é o seu lugar. Se joga e <a href="http://joicemicropigmentacaomaquiagem.blogspot.com.br/" target="_blank"><strong>clica aqui</strong></a>…
+  Preciso dizer que acompanhar o blog da Joice é certeza de conteúdo informativo, de qualidade, e escrito para todas nós, mulheres com necessidades bem reais. O que a gente quer é se ver no conteúdo de um blog, certo? Então o blog <a href="http://joicemicropigmentacaomaquiagem.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>Joice Fogassi</strong></a> é o seu lugar. Se joga e <a href="http://joicemicropigmentacaomaquiagem.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>clica aqui</strong></a>…
 </p>
 
 &nbsp;
@@ -96,7 +93,7 @@ E os dias quentes estão aí…delícia, delícia. A gente quer ficar toda bonit
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -113,13 +110,13 @@ E os dias quentes estão aí…delícia, delícia. A gente quer ficar toda bonit
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -128,7 +125,7 @@ E os dias quentes estão aí…delícia, delícia. A gente quer ficar toda bonit
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
+  <a href="https://www.facebook.com/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="https://www.trololodemulher.com.br/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
 </p>
 
 &nbsp;

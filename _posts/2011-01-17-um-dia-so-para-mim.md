@@ -1,10 +1,7 @@
 ---
-id: 2937
 title: Um dia só para mim…
-date: 2011-01-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/01/17/um-dia-so-para-mim/
 permalink: /2011/01/17/um-dia-so-para-mim/
 categories:
   - Bem-estar
@@ -24,7 +21,7 @@ Há quanto tempo você não faz isso?
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/massagem-nos-pes.jpg"><img class="alignnone size-full wp-image-5749" title="massagem nos pés" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/massagem-nos-pes.jpg" alt="" width="312" height="416" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/massagem-nos-pes.jpg"><img class="alignnone size-full wp-image-5749" title="massagem nos pés" src="https://www.trololodemulher.com.br/2010/12/massagem-nos-pes.jpg" alt="" width="312" height="416" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -43,7 +40,7 @@ Há quanto tempo você não faz isso?
   Assim como o homem tem a capacidade de largar tudo para ir jogar uma bolinha, somente para de divertir, ter seu dia para fazer o que quiser. Afinal, como sempre digo: se não fizer por você, quem o fará?
 </p>
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a> 
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a> 
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
@@ -54,7 +51,7 @@ _Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>�
   
   <tr>
     <td width="600" valign="top">
-      <a href="http://lucianakotaka.com.br/" target="_blank">Comportamento Magro</a>
+      <a href="http://lucianakotaka.com.br/" target="_blank" rel="noopener noreferrer">Comportamento Magro</a>
     </td>
   </tr>
 </table>

@@ -1,10 +1,7 @@
 ---
-id: 2887
 title: 'Mercado de Artes: novidades e presentes para professoras. ‘Bora ver?'
-date: 2010-10-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/10/01/mercado-de-artes-novidades/
 permalink: /2010/10/01/mercado-de-artes-novidades/
 categories:
   - Sem categoria
@@ -22,35 +19,35 @@ Os professores bichos machos que me perdoem, mas todas as sugestões de presente
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Primavera.jpg"><img class="alignnone size-full wp-image-5270" title="Móbile Primavera" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Primavera.jpg" alt="" width="548" height="420" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/Mobile-Primavera.jpg"><img class="alignnone size-full wp-image-5270" title="Móbile Primavera" src="https://www.trololodemulher.com.br/2010/09/Mobile-Primavera.jpg" alt="" width="548" height="420" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/" target="_blank">Móbile Primavera</a></em></strong>, para docorar cortinas e batentes de porta…
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/" target="_blank" rel="noopener noreferrer">Móbile Primavera</a></em></strong>, para docorar cortinas e batentes de porta…
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Gatinho-Vermelho.jpg"><img class="alignnone size-full wp-image-5271" title="Móbile Gatinho Vermelho" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Gatinho-Vermelho.jpg" alt="" width="648" height="432" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/Mobile-Gatinho-Vermelho.jpg"><img class="alignnone size-full wp-image-5271" title="Móbile Gatinho Vermelho" src="https://www.trololodemulher.com.br/2010/09/Mobile-Gatinho-Vermelho.jpg" alt="" width="648" height="432" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-vermelho/" target="_blank">Móbile Gatinho Vermelho</a></em></strong>, também para decoração de cortinas ou batentes de porta…
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-vermelho/" target="_blank" rel="noopener noreferrer">Móbile Gatinho Vermelho</a></em></strong>, também para decoração de cortinas ou batentes de porta…
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Quadro-Oriental.jpg"><img class="alignnone size-full wp-image-5272" title="Quadro Oriental" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Quadro-Oriental.jpg" alt="" width="471" height="425" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/Quadro-Oriental.jpg"><img class="alignnone size-full wp-image-5272" title="Quadro Oriental" src="https://www.trololodemulher.com.br/2010/09/Quadro-Oriental.jpg" alt="" width="471" height="425" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/quadro-oriental/" target="_blank">Quadro Oriental</a></em></strong>, para que o coração sinta o que os olhos enxergam…
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/quadro-oriental/" target="_blank" rel="noopener noreferrer">Quadro Oriental</a></em></strong>, para que o coração sinta o que os olhos enxergam…
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Porta-Joia-Bolsinha2.jpg"><img class="alignnone size-full wp-image-5273" title="Porta Jóia Bolsinha2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Porta-Joia-Bolsinha2.jpg" alt="" width="606" height="419" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/Porta-Joia-Bolsinha2.jpg"><img class="alignnone size-full wp-image-5273" title="Porta Jóia Bolsinha2" src="https://www.trololodemulher.com.br/2010/09/Porta-Joia-Bolsinha2.jpg" alt="" width="606" height="419" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/porta-joia-bolsinha/" target="_blank">Porta Jóias Bolsinha</a></em></strong>, para quem gosta de peças artesanais ricas em detalhes, e daqueles bem femininos…
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/porta-joia-bolsinha/" target="_blank" rel="noopener noreferrer">Porta Jóias Bolsinha</a></em></strong>, para quem gosta de peças artesanais ricas em detalhes, e daqueles bem femininos…
 </p>
 
 <p style="text-align: justify;">
@@ -62,51 +59,51 @@ Os professores bichos machos que me perdoem, mas todas as sugestões de presente
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Caixa-Vaquinha.jpg"><img class="alignnone size-full wp-image-5274" title="Caixa Vaquinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Caixa-Vaquinha.jpg" alt="" width="648" height="432" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/Caixa-Vaquinha.jpg"><img class="alignnone size-full wp-image-5274" title="Caixa Vaquinha" src="https://www.trololodemulher.com.br/2010/09/Caixa-Vaquinha.jpg" alt="" width="648" height="432" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-vaquinha/" target="_blank">Caixa Vaquinha</a></em></strong>, porque as caixas salvam! Organizam tudo!
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-vaquinha/" target="_blank" rel="noopener noreferrer">Caixa Vaquinha</a></em></strong>, porque as caixas salvam! Organizam tudo!
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Caixa-Cachorrinho.jpg"><img class="alignnone size-full wp-image-5275" title="Caixa Cachorrinho" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Caixa-Cachorrinho.jpg" alt="" width="648" height="432" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/Caixa-Cachorrinho.jpg"><img class="alignnone size-full wp-image-5275" title="Caixa Cachorrinho" src="https://www.trololodemulher.com.br/2010/09/Caixa-Cachorrinho.jpg" alt="" width="648" height="432" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-cachorrinho/" target="_blank">Caixa Cachorrinho</a></em></strong>, para as professoras guardarem trecos e decorarem seus cantinhos…
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-cachorrinho/" target="_blank" rel="noopener noreferrer">Caixa Cachorrinho</a></em></strong>, para as professoras guardarem trecos e decorarem seus cantinhos…
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Caixa-Amor-a-Joaninhas.jpg"><img class="alignnone size-full wp-image-5276" title="Caixa Amor a Joaninhas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Caixa-Amor-a-Joaninhas.jpg" alt="" width="552" height="416" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/Caixa-Amor-a-Joaninhas.jpg"><img class="alignnone size-full wp-image-5276" title="Caixa Amor a Joaninhas" src="https://www.trololodemulher.com.br/2010/09/Caixa-Amor-a-Joaninhas.jpg" alt="" width="552" height="416" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-amor-a-joaninhas/" target="_blank">Caixa Amor a Joaninhas</a></em></strong>, um presente cheio de detalhes e único!
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-amor-a-joaninhas/" target="_blank" rel="noopener noreferrer">Caixa Amor a Joaninhas</a></em></strong>, um presente cheio de detalhes e único!
 </p>
 
 <p style="text-align: justify;">
-  Caixas organizam, porque cada uma delas ganha um propósito e tudo fica no seu devido lugar. E se além disso elas ainda pudessem decorar? Aquele canto da casa, do closet ou de onde você imaginar pode ganhar charme com caixas artesanais e personalizadas. É ou não é? Se quiser dar mais uma espiada em caixas ainda diferentes, é por aqui >>>>> <strong><em><a href="http://www.trololodemulher.com.br/loja/category/organizacao/caixas/" target="_blank">basta clicar</a></em></strong>!
+  Caixas organizam, porque cada uma delas ganha um propósito e tudo fica no seu devido lugar. E se além disso elas ainda pudessem decorar? Aquele canto da casa, do closet ou de onde você imaginar pode ganhar charme com caixas artesanais e personalizadas. É ou não é? Se quiser dar mais uma espiada em caixas ainda diferentes, é por aqui >>>>> <strong><em><a href="http://www.trololodemulher.com.br/loja/category/organizacao/caixas/" target="_blank" rel="noopener noreferrer">basta clicar</a></em></strong>!
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mini-Comoda-Gatinha-2.jpg"><img class="alignnone size-full wp-image-5277" title="Mini Cômoda Gatinha 2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mini-Comoda-Gatinha-2.jpg" alt="" width="648" height="432" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/Mini-Comoda-Gatinha-2.jpg"><img class="alignnone size-full wp-image-5277" title="Mini Cômoda Gatinha 2" src="https://www.trololodemulher.com.br/2010/09/Mini-Comoda-Gatinha-2.jpg" alt="" width="648" height="432" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank">Mini Cômoda Gatinha</a></em></strong>, um belo presente para alguém muito querido por você, que pode ser justamente a professora de sua criança, não é verdade?
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank" rel="noopener noreferrer">Mini Cômoda Gatinha</a></em></strong>, um belo presente para alguém muito querido por você, que pode ser justamente a professora de sua criança, não é verdade?
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Porta-Joias-Floral2.jpg"><img class="alignnone size-full wp-image-5278" title="Porta Jóias Floral2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Porta-Joias-Floral2.jpg" alt="" width="648" height="432" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/Porta-Joias-Floral2.jpg"><img class="alignnone size-full wp-image-5278" title="Porta Jóias Floral2" src="https://www.trololodemulher.com.br/2010/09/Porta-Joias-Floral2.jpg" alt="" width="648" height="432" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-joias-floral/" target="_blank">Porta Jóias Floral</a></em></strong>, para facilitar a vida de qualquer mulher na hora de se arrumar, já que fica tudo organizado e visível pela tampa com vidro&#8230;
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-joias-floral/" target="_blank" rel="noopener noreferrer">Porta Jóias Floral</a></em></strong>, para facilitar a vida de qualquer mulher na hora de se arrumar, já que fica tudo organizado e visível pela tampa com vidro&#8230;
 </p>
 
 <p style="text-align: justify;">
-  Quer dar uma olhada em outros modelos de porta jóias? Todos eles estão bem aqui >>>>> <strong><em><a href="http://www.trololodemulher.com.br/loja/category/organizacao/porta-joias/" target="_blank">basta clicar</a></em></strong>!
+  Quer dar uma olhada em outros modelos de porta jóias? Todos eles estão bem aqui >>>>> <strong><em><a href="http://www.trololodemulher.com.br/loja/category/organizacao/porta-joias/" target="_blank" rel="noopener noreferrer">basta clicar</a></em></strong>!
 </p>
 
 <p style="text-align: justify;">

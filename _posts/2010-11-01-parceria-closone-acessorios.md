@@ -1,15 +1,12 @@
 ---
-id: 2903
 title: Parceria Closonê Acessórios no Aniversário do Bicha Fêmea!
-date: 2010-11-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/11/01/parceria-closone-acessorios/
 permalink: /2010/11/01/parceria-closone-acessorios/
 categories:
   - Publieditorial
 ---
-Mais uma vez a <a href="http://closone.blogspot.com/" target="_blank">Closonê Acessórios</a> dá o ar de sua graça em parceria com o Bicha Fêmea, tudo para deixar você cheia de _bossa_. Claro que a festa fica muito mais bonita assim, não é? Prepare-se para arrasar por aí com um acessório na cor que é super tendência hoje em dia…
+Mais uma vez a <a href="http://closone.blogspot.com/" target="_blank" rel="noopener noreferrer">Closonê Acessórios</a> dá o ar de sua graça em parceria com o Bicha Fêmea, tudo para deixar você cheia de _bossa_. Claro que a festa fica muito mais bonita assim, não é? Prepare-se para arrasar por aí com um acessório na cor que é super tendência hoje em dia…
 
 <!--more-->
 
@@ -18,7 +15,7 @@ Mais uma vez a <a href="http://closone.blogspot.com/" target="_blank">Closonê A
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Chaveiro-Closone-Acessorios.jpg"><img class="alignnone size-full wp-image-5378" title="Chaveiro Closonê Acessórios" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Chaveiro-Closone-Acessorios.jpg" alt="" width="354" height="471" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/Chaveiro-Closone-Acessorios.jpg"><img class="alignnone size-full wp-image-5378" title="Chaveiro Closonê Acessórios" src="https://www.trololodemulher.com.br/2010/10/Chaveiro-Closone-Acessorios.jpg" alt="" width="354" height="471" /></a>
 </p>
 
 <p style="text-align: justify;">

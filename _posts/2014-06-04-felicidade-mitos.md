@@ -1,10 +1,7 @@
 ---
-id: 3300
 title: '3 “verdades” duvidosas que minam sua vida: fuja disso já!'
-date: 2014-06-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/06/04/felicidade-mitos/
 permalink: /2014/06/04/felicidade-mitos/
 categories:
   - Comportamento
@@ -48,11 +45,11 @@ Há crenças que condicionam nossa felicidade ao alcance do sucesso em alguns as
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/11/04/sozinhez/" target="_blank"><strong>Sozinhez</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/11/04/sozinhez/" target="_blank" rel="noopener noreferrer"><strong>Sozinhez</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/10/26/filhos-maternidade-gravidez/" target="_blank"><strong>Quando alguém te pergunta se você quer ter filhos…</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/10/26/filhos-maternidade-gravidez/" target="_blank" rel="noopener noreferrer"><strong>Quando alguém te pergunta se você quer ter filhos…</strong></a>
 </p>
 
 &nbsp;
@@ -72,19 +69,19 @@ Há crenças que condicionam nossa felicidade ao alcance do sucesso em alguns as
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/09/23/consumismo/" target="_blank"><strong>Consumismo: você ficaria 365 dias sem compras?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/09/23/consumismo/" target="_blank" rel="noopener noreferrer"><strong>Consumismo: você ficaria 365 dias sem compras?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/" target="_blank"><strong>Suas finanças pessoais estão no azul ou no vermelho?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/" target="_blank" rel="noopener noreferrer"><strong>Suas finanças pessoais estão no azul ou no vermelho?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/" target="_blank"><strong>Dicas que seu bolso agradece, e muito!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/" target="_blank" rel="noopener noreferrer"><strong>Dicas que seu bolso agradece, e muito!</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/05/COMPORTAMENTO-FEMININO-MULHERES-CASAMENTO-FAMILIA-FILHOS-PSICANALISTA-TRISTEZA-FELICIDADE.jpg"><img class="alignnone size-full wp-image-10049" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/05/COMPORTAMENTO-FEMININO-MULHERES-CASAMENTO-FAMILIA-FILHOS-PSICANALISTA-TRISTEZA-FELICIDADE.jpg" alt="COMPORTAMENTO FEMININO-MULHERES-CASAMENTO-FAMILIA-FILHOS-PSICANALISTA-TRISTEZA-FELICIDADE" width="401" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/05/COMPORTAMENTO-FEMININO-MULHERES-CASAMENTO-FAMILIA-FILHOS-PSICANALISTA-TRISTEZA-FELICIDADE.jpg"><img class="alignnone size-full wp-image-10049" src="https://www.trololodemulher.com.br/2014/05/COMPORTAMENTO-FEMININO-MULHERES-CASAMENTO-FAMILIA-FILHOS-PSICANALISTA-TRISTEZA-FELICIDADE.jpg" alt="COMPORTAMENTO FEMININO-MULHERES-CASAMENTO-FAMILIA-FILHOS-PSICANALISTA-TRISTEZA-FELICIDADE" width="401" height="600" /></a>
 </p>
 
 &nbsp;
@@ -102,19 +99,19 @@ Há crenças que condicionam nossa felicidade ao alcance do sucesso em alguns as
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/GEISA-MACHADO.png"><img class="alignnone size-full wp-image-9029" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/GEISA-MACHADO.png" alt="GEISA MACHADO" width="516" height="212" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/08/GEISA-MACHADO.png"><img class="alignnone size-full wp-image-9029" src="https://www.trololodemulher.com.br/2012/08/GEISA-MACHADO.png" alt="GEISA MACHADO" width="516" height="212" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Geisa também é blogueira, sabia? Pois é… seus textos podem ser acompanhados através de seu blog <a href="http://geisamachado.blogspot.com.br/" target="_blank">A Força e a Beleza de ser Mulher</a>. Sua proposta é analisar os reflexos positivos, e também negativos, decorrentes do movimento femininsta. Alguma dúvida de que essa leitura pode ser bastante esclarecedora? Então se joga e <a href="http://geisamachado.blogspot.com.br/" target="_blank">clica aqui</a>!
+  Geisa também é blogueira, sabia? Pois é… seus textos podem ser acompanhados através de seu blog <a href="http://geisamachado.blogspot.com.br/" target="_blank" rel="noopener noreferrer">A Força e a Beleza de ser Mulher</a>. Sua proposta é analisar os reflexos positivos, e também negativos, decorrentes do movimento femininsta. Alguma dúvida de que essa leitura pode ser bastante esclarecedora? Então se joga e <a href="http://geisamachado.blogspot.com.br/" target="_blank" rel="noopener noreferrer">clica aqui</a>!
 </p>
 
 <p align="justify">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
+  Imagem: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">free images</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

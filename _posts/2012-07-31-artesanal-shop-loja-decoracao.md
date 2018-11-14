@@ -1,10 +1,7 @@
 ---
-id: 3163
 title: 'Artesanal Shop: a loja que decora sua casa pela internet!'
-date: 2012-07-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/07/31/artesanal-shop-loja-decoracao/
 permalink: /2012/07/31/artesanal-shop-loja-decoracao/
 categories:
   - Dicas de Decoração
@@ -21,17 +18,17 @@ Já imaginou uma loja virtual onde você pudesse encontrar tudo que precisa para
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/07/31/artesanal-shop-loja-decoracao/artesanal-shop/" rel="attachment wp-att-8955"><img class="alignnone size-full wp-image-8955" title="ARTESANAL SHOP" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/ARTESANAL-SHOP.png" alt="" width="600" height="265" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/31/artesanal-shop-loja-decoracao/artesanal-shop/" rel="attachment wp-att-8955"><img class="alignnone size-full wp-image-8955" title="ARTESANAL SHOP" src="https://www.trololodemulher.com.br/2012/07/ARTESANAL-SHOP.png" alt="" width="600" height="265" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Eu te digo: é na <strong><a href="http://www.artesanalshop.com.br/" target="_blank">Artesanal Shop</a></strong>! E quando eu falei que na loja você pode “vestir” sua casa, é justamente porque os produtos que você vai encontrar por lá dão o arremate em qualquer decoração. Lá você encontra <strong>almofadas, capas para almofadas, cortinas, colchas, caminhos de mesa, trilhos e passadeiras, toalhas de mesa, mantas para sofá</strong>…
+  Eu te digo: é na <strong><a href="http://www.artesanalshop.com.br/" target="_blank" rel="noopener noreferrer">Artesanal Shop</a></strong>! E quando eu falei que na loja você pode “vestir” sua casa, é justamente porque os produtos que você vai encontrar por lá dão o arremate em qualquer decoração. Lá você encontra <strong>almofadas, capas para almofadas, cortinas, colchas, caminhos de mesa, trilhos e passadeiras, toalhas de mesa, mantas para sofá</strong>…
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/07/31/artesanal-shop-loja-decoracao/almofada-floral/" rel="attachment wp-att-8954"><img class="alignnone size-full wp-image-8954" title="ALMOFADA FLORAL" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/ALMOFADA-FLORAL.jpg" alt="" width="600" height="600" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/31/artesanal-shop-loja-decoracao/almofada-floral/" rel="attachment wp-att-8954"><img class="alignnone size-full wp-image-8954" title="ALMOFADA FLORAL" src="https://www.trololodemulher.com.br/2012/07/ALMOFADA-FLORAL.jpg" alt="" width="600" height="600" /></a>
 </p>
 
 <p align="justify">
@@ -39,7 +36,7 @@ Já imaginou uma loja virtual onde você pudesse encontrar tudo que precisa para
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/07/31/artesanal-shop-loja-decoracao/cortina-2/" rel="attachment wp-att-8959"><img class="alignnone size-full wp-image-8959" title="CORTINA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/CORTINA.jpg" alt="" width="600" height="600" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/31/artesanal-shop-loja-decoracao/cortina-2/" rel="attachment wp-att-8959"><img class="alignnone size-full wp-image-8959" title="CORTINA" src="https://www.trololodemulher.com.br/2012/07/CORTINA.jpg" alt="" width="600" height="600" /></a>
 </p>
 
 <p align="justify">
@@ -47,13 +44,13 @@ Já imaginou uma loja virtual onde você pudesse encontrar tudo que precisa para
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/07/31/artesanal-shop-loja-decoracao/colcha/" rel="attachment wp-att-8958"><img class="alignnone size-full wp-image-8958" title="COLCHA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/COLCHA.jpg" alt="" width="600" height="598" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/31/artesanal-shop-loja-decoracao/colcha/" rel="attachment wp-att-8958"><img class="alignnone size-full wp-image-8958" title="COLCHA" src="https://www.trololodemulher.com.br/2012/07/COLCHA.jpg" alt="" width="600" height="598" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/07/31/artesanal-shop-loja-decoracao/mantasofa/" rel="attachment wp-att-8960"><img class="alignnone size-full wp-image-8960" title="MantaSofa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/MantaSofa.jpg" alt="" width="600" height="600" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/31/artesanal-shop-loja-decoracao/mantasofa/" rel="attachment wp-att-8960"><img class="alignnone size-full wp-image-8960" title="MantaSofa" src="https://www.trololodemulher.com.br/2012/07/MantaSofa.jpg" alt="" width="600" height="600" /></a>
 </p>
 
 <p align="justify">
-  E aí? Não ficou com vontade de dar uma olhadinha, bonita? Prepare-se para uma variedade imensa de produtos, <em>viu</em>? Se sua casa anda meio “peladinha”, sem detalhes como cortinas, almofadas bonitas ou tapetes, tudo o que deixa a casa muito mais bonita e confortável, na <strong>Artesanal Shop</strong> você deve encontrar algo com seu estilo… <strong><a href="http://www.artesanalshop.com.br/" target="_blank">clica aqui</a></strong> e confere!
+  E aí? Não ficou com vontade de dar uma olhadinha, bonita? Prepare-se para uma variedade imensa de produtos, <em>viu</em>? Se sua casa anda meio “peladinha”, sem detalhes como cortinas, almofadas bonitas ou tapetes, tudo o que deixa a casa muito mais bonita e confortável, na <strong>Artesanal Shop</strong> você deve encontrar algo com seu estilo… <strong><a href="http://www.artesanalshop.com.br/" target="_blank" rel="noopener noreferrer">clica aqui</a></strong> e confere!
 </p>

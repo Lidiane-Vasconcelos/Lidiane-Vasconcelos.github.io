@@ -1,10 +1,7 @@
 ---
-id: 3841
 title: 'Confraternização de fim de ano: qual roupa usar?'
-date: 2017-12-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/12/11/confraternizacao-de-fim-de-ano/
 permalink: /2017/12/11/confraternizacao-de-fim-de-ano/
 categories:
   - Comportamento
@@ -15,11 +12,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14491" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/CONFRATERNIZACAO-FIM-DE-ANO-ROUPA.jpg" alt="CONFRATERNIZACAO-FIM DE ANO-ROUPA" width="800" height="533" />
+  <img class="alignnone size-full wp-image-14491" src="https://www.trololodemulher.com.br/2017/12/CONFRATERNIZACAO-FIM-DE-ANO-ROUPA.jpg" alt="CONFRATERNIZACAO-FIM DE ANO-ROUPA" width="800" height="533" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://foter.com/author/80709b" target="_blank">Lydia Brooks</a> on <a href="http://foter.com/re/36dccb" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Imagem: <a href="http://foter.com/author/80709b" target="_blank" rel="noopener noreferrer">Lydia Brooks</a> on <a href="http://foter.com/re/36dccb" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND</a>
 </p>
 
 <p align="center">
@@ -63,7 +60,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14494" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/natal.jpg" alt="natal" width="669" height="510" />
+  <img class="alignnone size-full wp-image-14494" src="https://www.trololodemulher.com.br/2017/12/natal.jpg" alt="natal" width="669" height="510" />
 </p>
 
 <p align="justify">
@@ -71,7 +68,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14495" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/natal1.jpg" alt="natal1" width="669" height="597" />
+  <img class="alignnone size-full wp-image-14495" src="https://www.trololodemulher.com.br/2017/12/natal1.jpg" alt="natal1" width="669" height="597" />
 </p>
 
 <p align="justify">
@@ -79,7 +76,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14496" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/natal2.jpg" alt="natal2" width="663" height="597" />
+  <img class="alignnone size-full wp-image-14496" src="https://www.trololodemulher.com.br/2017/12/natal2.jpg" alt="natal2" width="663" height="597" />
 </p>
 
 <p align="justify">
@@ -91,7 +88,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14497" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/reveillon.jpg" alt="reveillon" width="671" height="573" />
+  <img class="alignnone size-full wp-image-14497" src="https://www.trololodemulher.com.br/2017/12/reveillon.jpg" alt="reveillon" width="671" height="573" />
 </p>
 
 <p align="justify">
@@ -99,35 +96,35 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14498" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/12/reveillon1.jpg" alt="reveillon1" width="692" height="485" />
+  <img class="alignnone size-full wp-image-14498" src="https://www.trololodemulher.com.br/2017/12/reveillon1.jpg" alt="reveillon1" width="692" height="485" />
 </p>
 
 <p align="justify">
   <em>Aproveito este último post no ano para desejar a todas as leitoras do Trololó de Mulher um Natal fraterno e iluminado, e que 2018 seja um grande ano para todas nós, mulheres lindas, elegantes e sinceras! Beijos!”</em>
 </p>
 
-Imagens dos looks: **Claudia Medeiros** &#8211; <a href="https://claudiamedeiros.polyvore.com/" target="_blank">clique aqui e veja todos os looks criados por mim no Polyvore</a>.
+Imagens dos looks: **Claudia Medeiros** &#8211; <a href="https://claudiamedeiros.polyvore.com/" target="_blank" rel="noopener noreferrer">clique aqui e veja todos os looks criados por mim no Polyvore</a>.
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13860" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/BLOG-50-E-DAI-CLAUDIA-MEDEIROS2.jpg" alt="BLOG 50 E DAI-CLAUDIA MEDEIROS[2]" width="800" height="153" />
+  <img class="alignnone size-full wp-image-13860" src="https://www.trololodemulher.com.br/2017/05/BLOG-50-E-DAI-CLAUDIA-MEDEIROS2.jpg" alt="BLOG 50 E DAI-CLAUDIA MEDEIROS[2]" width="800" height="153" />
 </p>
 
 **Mais de Claudia Medeiros no Trololó de Mulher:**
 
-<a href="http://www.trololodemulher.com.br/2017/11/06/combinar-roupas/" target="_blank"><strong>Como combinar roupas que você tem e ganhar novos looks?</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/11/06/combinar-roupas/" target="_blank" rel="noopener noreferrer"><strong>Como combinar roupas que você tem e ganhar novos looks?</strong></a>
 
-<a href="http://www.trololodemulher.com.br/2017/09/25/mulheres-de-50-anos/" target="_blank"><strong>Qual é a roupa certa para mulheres de 50 anos?</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/09/25/mulheres-de-50-anos/" target="_blank" rel="noopener noreferrer"><strong>Qual é a roupa certa para mulheres de 50 anos?</strong></a>
 
-<a href="http://www.trololodemulher.com.br/2017/05/29/mulher-de-50/" target="_blank"><strong>Notícia luxo: conteúdo exclusivo para você, mulher de 50.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/05/29/mulher-de-50/" target="_blank" rel="noopener noreferrer"><strong>Notícia luxo: conteúdo exclusivo para você, mulher de 50.</strong></a>
 
 <p align="justify">
-  Além do <a href="https://50edaiblog.wordpress.com/" target="_blank">Blog `50, e daí?´</a>, você acompanha o conteúdo sobre moda, estilo, beleza e autoestima para mulheres na faixa dos 50 nas redes sociais: <a href="https://www.instagram.com/50edai/" target="_blank">instagram</a> e <a href="https://www.facebook.com/50edai/" target="_blank">facebook</a>. Claudia também edita o blog <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank">Se fosse na Minha Casa</a>, com conteúdo voltado para casa e decoração. Confira <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank">instagram</a> e <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank">facebook</a>. Se joga!
+  Além do <a href="https://50edaiblog.wordpress.com/" target="_blank" rel="noopener noreferrer">Blog `50, e daí?´</a>, você acompanha o conteúdo sobre moda, estilo, beleza e autoestima para mulheres na faixa dos 50 nas redes sociais: <a href="https://www.instagram.com/50edai/" target="_blank" rel="noopener noreferrer">instagram</a> e <a href="https://www.facebook.com/50edai/" target="_blank" rel="noopener noreferrer">facebook</a>. Claudia também edita o blog <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank" rel="noopener noreferrer">Se fosse na Minha Casa</a>, com conteúdo voltado para casa e decoração. Confira <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank" rel="noopener noreferrer">instagram</a> e <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank" rel="noopener noreferrer">facebook</a>. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>

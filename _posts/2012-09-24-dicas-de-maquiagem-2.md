@@ -1,10 +1,7 @@
 ---
-id: 3190
 title: Sabe aquela amiga que sabe dar dicas de maquiagem?
-date: 2012-09-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/09/24/dicas-de-maquiagem-2/
 permalink: /2012/09/24/dicas-de-maquiagem-2/
 categories:
   - Beleza
@@ -18,7 +15,7 @@ O resultado é uma listinha básica e certeira de três itens que estão nos des
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/09/24/dicas-de-maquiagem-2/beleza-maquiagem-dicas-produtos/" rel="attachment wp-att-9173"><img class="alignnone size-full wp-image-9173" title="BELEZA-MAQUIAGEM-DICAS-PRODUTOS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/BELEZA-MAQUIAGEM-DICAS-PRODUTOS.png" alt="" width="600" height="378" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/09/24/dicas-de-maquiagem-2/beleza-maquiagem-dicas-produtos/" rel="attachment wp-att-9173"><img class="alignnone size-full wp-image-9173" title="BELEZA-MAQUIAGEM-DICAS-PRODUTOS" src="https://www.trololodemulher.com.br/2012/09/BELEZA-MAQUIAGEM-DICAS-PRODUTOS.png" alt="" width="600" height="378" /></a>
 </p>
 
 &nbsp;
@@ -39,7 +36,7 @@ O resultado é uma listinha básica e certeira de três itens que estão nos des
 >   </blockquote> 
 >   
 >   <p align="center">
->     <a href="http://www.trololodemulher.com.br/2012/09/24/dicas-de-maquiagem-2/pauline-costa-3/" rel="attachment wp-att-9174"><img class="alignnone size-full wp-image-9174" title="PAULINE-COSTA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/PAULINE-COSTA.png" alt="" width="526" height="297" /></a>
+>     <a href="http://www.trololodemulher.com.br/2012/09/24/dicas-de-maquiagem-2/pauline-costa-3/" rel="attachment wp-att-9174"><img class="alignnone size-full wp-image-9174" title="PAULINE-COSTA" src="https://www.trololodemulher.com.br/2012/09/PAULINE-COSTA.png" alt="" width="526" height="297" /></a>
 >   </p>
 >   
 >   <p>
@@ -51,7 +48,7 @@ O resultado é uma listinha básica e certeira de três itens que estão nos des
 >   </p>
 >   
 >   <p align="justify">
->     A <strong>Pauline</strong> edita o blog <strong><a href="http://cheiadecharme.blog.br/" target="_blank">Cheia de Charme</a></strong>, cujo tema é beleza. Ela fala sobre o assunto de um jeito “gente da gente”, <em>viu</em>? Ela mostra um conteúdo que é resultado de uma busca por novidades em maquiagem, moda (inclusive e especialmente Moda GG), cabelos, mãos e unhas, saúde do corpo e da mente (emagrecimento saudável e bem-estar), cosméticos dermatológicos em geral. Enfim, é um blog para a mulher que tem amor próprio, se cuida e é vaidosa, mas gosta de informação com qualidade. Curtiu, <em>né?</em> Eu sabia que sim… então, <em>oh</em>: <strong><a href="http://cheiadecharme.blog.br/" target="_blank">clica aqui</a></strong> e se joga!
+>     A <strong>Pauline</strong> edita o blog <strong><a href="http://cheiadecharme.blog.br/" target="_blank" rel="noopener noreferrer">Cheia de Charme</a></strong>, cujo tema é beleza. Ela fala sobre o assunto de um jeito “gente da gente”, <em>viu</em>? Ela mostra um conteúdo que é resultado de uma busca por novidades em maquiagem, moda (inclusive e especialmente Moda GG), cabelos, mãos e unhas, saúde do corpo e da mente (emagrecimento saudável e bem-estar), cosméticos dermatológicos em geral. Enfim, é um blog para a mulher que tem amor próprio, se cuida e é vaidosa, mas gosta de informação com qualidade. Curtiu, <em>né?</em> Eu sabia que sim… então, <em>oh</em>: <strong><a href="http://cheiadecharme.blog.br/" target="_blank" rel="noopener noreferrer">clica aqui</a></strong> e se joga!
 >   </p>
 >   
 >   <p>
@@ -66,13 +63,13 @@ O resultado é uma listinha básica e certeira de três itens que estão nos des
 >     <tr>
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/2012/09/14/maquiagem-demaquilante-saude/beleza-maquiagem-natural200/" rel="attachment wp-att-9070"><img class="alignnone size-full wp-image-9070" title="BELEZA-MAQUIAGEM-NATURAL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/BELEZA-MAQUIAGEM-NATURAL200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/08/31/maquiagem-natural/"><strong><span style="font-size: medium;">Maquiagem como se a gente estivesse sem ela: isso é mesmo possível?</span></strong></a>
+>           <a href="http://www.trololodemulher.com.br/2012/09/14/maquiagem-demaquilante-saude/beleza-maquiagem-natural200/" rel="attachment wp-att-9070"><img class="alignnone size-full wp-image-9070" title="BELEZA-MAQUIAGEM-NATURAL200" src="https://www.trololodemulher.com.br/2012/08/BELEZA-MAQUIAGEM-NATURAL200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/08/31/maquiagem-natural/"><strong><span style="font-size: medium;">Maquiagem como se a gente estivesse sem ela: isso é mesmo possível?</span></strong></a>
 >         </p>
 >       </td>
 >       
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/corpo/maquiagem-sombra200/" rel="attachment wp-att-8811"><img class="alignnone size-full wp-image-8811" title="MAQUIAGEM - SOMBRA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/MAQUIAGEM-SOMBRA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/07/02/maquiagem-sombra-dicas/"><strong><span style="font-size: medium;"><br /> Qual sombra você usa e se sente uma bicha fêmea linda e iluminada?</span></strong></a>
+>           <a href="http://www.trololodemulher.com.br/corpo/maquiagem-sombra200/" rel="attachment wp-att-8811"><img class="alignnone size-full wp-image-8811" title="MAQUIAGEM - SOMBRA200" src="https://www.trololodemulher.com.br/2012/06/MAQUIAGEM-SOMBRA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/07/02/maquiagem-sombra-dicas/"><strong><span style="font-size: medium;"><br /> Qual sombra você usa e se sente uma bicha fêmea linda e iluminada?</span></strong></a>
 >         </p>
 >       </td>
 >     </tr>
@@ -80,7 +77,7 @@ O resultado é uma listinha básica e certeira de três itens que estão nos des
 >     <tr>
 >       <td valign="top" width="300">
 >         <p align="center">
->           <strong><a href="http://www.trololodemulher.com.br/corpo/mascara-para-cilios200/" rel="attachment wp-att-8629"><img class="alignnone size-full wp-image-8629" title="MASCARA PARA CILIOS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/MASCARA-PARA-CILIOS200.jpg" alt="" width="200" height="200" /></a></strong>
+>           <strong><a href="http://www.trololodemulher.com.br/corpo/mascara-para-cilios200/" rel="attachment wp-att-8629"><img class="alignnone size-full wp-image-8629" title="MASCARA PARA CILIOS200" src="https://www.trololodemulher.com.br/2012/03/MASCARA-PARA-CILIOS200.jpg" alt="" width="200" height="200" /></a></strong>
 >         </p>
 >         
 >         <p align="center">
@@ -90,7 +87,7 @@ O resultado é uma listinha básica e certeira de três itens que estão nos des
 >       
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/maquiagem2200/" rel="attachment wp-att-6981"><img class="alignnone size-full wp-image-6981" title="maquiagem[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem2200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
+>           <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/maquiagem2200/" rel="attachment wp-att-6981"><img class="alignnone size-full wp-image-6981" title="maquiagem[2]200" src="https://www.trololodemulher.com.br/2011/09/maquiagem2200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
 >         </p>
 >         
 >         <p align="center">
@@ -102,7 +99,7 @@ O resultado é uma listinha básica e certeira de três itens que estão nos des
 >     <tr>
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/batom200-2/" rel="attachment wp-att-6785"><img class="alignnone size-full wp-image-6785" title="batom200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/batom200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
+>           <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/batom200-2/" rel="attachment wp-att-6785"><img class="alignnone size-full wp-image-6785" title="batom200" src="https://www.trololodemulher.com.br/2011/08/batom200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
 >         </p>
 >         
 >         <p align="center">
@@ -112,7 +109,7 @@ O resultado é uma listinha básica e certeira de três itens que estão nos des
 >       
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/dicas-maquiagem-pele-negra200/" rel="attachment wp-att-6430"><img class="alignnone size-full wp-image-6430" title="dicas maquiagem pele negra200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/dicas-maquiagem-pele-negra200.jpg" alt="" width="200" height="200" /></a>
+>           <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/dicas-maquiagem-pele-negra200/" rel="attachment wp-att-6430"><img class="alignnone size-full wp-image-6430" title="dicas maquiagem pele negra200" src="https://www.trololodemulher.com.br/2011/05/dicas-maquiagem-pele-negra200.jpg" alt="" width="200" height="200" /></a>
 >         </p>
 >         
 >         <p align="center">
@@ -131,7 +128,7 @@ O resultado é uma listinha básica e certeira de três itens que estão nos des
 >   </p>
 >   
 >   <p align="center">
->     <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+>     <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 >   </p>
 >   
 >   <p>
@@ -150,13 +147,13 @@ O resultado é uma listinha básica e certeira de três itens que estão nos des
 >     <tr>
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+>           <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
 >         </p>
 >       </td>
 >       
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+>           <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
 >         </p>
 >       </td>
 >     </tr>

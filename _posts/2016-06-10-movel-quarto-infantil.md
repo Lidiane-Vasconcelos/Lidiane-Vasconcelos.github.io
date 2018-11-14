@@ -1,10 +1,7 @@
 ---
-id: 3624
 title: 'Móvel modulado ou planejado: cubos no quarto infantil. 4 ideias.'
-date: 2016-06-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/06/10/movel-quarto-infantil/
 permalink: /2016/06/10/movel-quarto-infantil/
 categories:
   - Decoração
@@ -19,11 +16,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/07/10/decoracao-quarto-infantil-3/" target="_blank"><strong>Decoração do quarto infantil: 4 soluções de marcenaria para você.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/07/10/decoracao-quarto-infantil-3/" target="_blank" rel="noopener noreferrer"><strong>Decoração do quarto infantil: 4 soluções de marcenaria para você.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/09/19/quarto-infantil-decorado/" target="_blank"><strong>Quarto infantil decorado com afetividade.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/09/19/quarto-infantil-decorado/" target="_blank" rel="noopener noreferrer"><strong>Quarto infantil decorado com afetividade.</strong></a>
 </p>
 
 <p align="justify">
@@ -35,11 +32,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank"><strong>4 soluções de organização no quarto infantil: você não vai copiar?</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank" rel="noopener noreferrer"><strong>4 soluções de organização no quarto infantil: você não vai copiar?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizar-quarto-infantil/" target="_blank"><strong>3 ideias estratégicas para organizar o quarto infantil: copie!</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizar-quarto-infantil/" target="_blank" rel="noopener noreferrer"><strong>3 ideias estratégicas para organizar o quarto infantil: copie!</strong></a>
 </p>
 
 <p align="center">
@@ -47,7 +44,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12652" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-QUARTO-INFANTIL-MOVEIS-MODULADOS-PLANEJADOS-CUBOS.jpg" alt="DECORACAO-QUARTO INFANTIL-MOVEIS-MODULADOS-PLANEJADOS-CUBOS" width="600" height="600" />
+  <img class="alignnone size-full wp-image-12652" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-QUARTO-INFANTIL-MOVEIS-MODULADOS-PLANEJADOS-CUBOS.jpg" alt="DECORACAO-QUARTO INFANTIL-MOVEIS-MODULADOS-PLANEJADOS-CUBOS" width="600" height="600" />
 </p>
 
 <p align="justify">
@@ -59,7 +56,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12653" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-QUARTO-INFANTIL-MOVEIS-MODULADOS-PLANEJADOS-CUBOS2.jpg" alt="DECORACAO-QUARTO INFANTIL-MOVEIS-MODULADOS-PLANEJADOS-CUBOS[2]" width="795" height="596" />
+  <img class="alignnone size-full wp-image-12653" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-QUARTO-INFANTIL-MOVEIS-MODULADOS-PLANEJADOS-CUBOS2.jpg" alt="DECORACAO-QUARTO INFANTIL-MOVEIS-MODULADOS-PLANEJADOS-CUBOS[2]" width="795" height="596" />
 </p>
 
 <p align="justify">
@@ -71,7 +68,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-3/" target="_blank"><strong>Como brincar com as cores na decoração do quarto infantil.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-3/" target="_blank" rel="noopener noreferrer"><strong>Como brincar com as cores na decoração do quarto infantil.</strong></a>
 </p>
 
 <p align="center">
@@ -79,7 +76,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12654" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-QUARTO-INFANTIL-MOVEIS-MODULADOS-PLANEJADOS-CUBOS3.jpg" alt="DECORACAO-QUARTO INFANTIL-MOVEIS-MODULADOS-PLANEJADOS-CUBOS[3]" width="800" height="800" />
+  <img class="alignnone size-full wp-image-12654" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-QUARTO-INFANTIL-MOVEIS-MODULADOS-PLANEJADOS-CUBOS3.jpg" alt="DECORACAO-QUARTO INFANTIL-MOVEIS-MODULADOS-PLANEJADOS-CUBOS[3]" width="800" height="800" />
 </p>
 
 <p align="justify">
@@ -91,7 +88,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12655" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-QUARTO-INFANTIL-MOVEIS-MODULADOS-PLANEJADOS-CUBOS4.jpg" alt="DECORACAO-QUARTO INFANTIL-MOVEIS-MODULADOS-PLANEJADOS-CUBOS[4]" width="660" height="495" />
+  <img class="alignnone size-full wp-image-12655" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-QUARTO-INFANTIL-MOVEIS-MODULADOS-PLANEJADOS-CUBOS4.jpg" alt="DECORACAO-QUARTO INFANTIL-MOVEIS-MODULADOS-PLANEJADOS-CUBOS[4]" width="660" height="495" />
 </p>
 
 <p align="justify">
@@ -99,11 +96,11 @@ categories:
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.homedit.com/" target="_blank">homedit</a>
+  Imagens: <a href="http://www.homedit.com/" target="_blank" rel="noopener noreferrer">homedit</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

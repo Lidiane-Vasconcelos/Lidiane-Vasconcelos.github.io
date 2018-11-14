@@ -1,10 +1,7 @@
 ---
-id: 3318
 title: Quer presentear com algo criativo, mas não sabe como?
-date: 2014-07-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/07/03/presente-personalizado/
 permalink: /2014/07/03/presente-personalizado/
 categories:
   - Publieditorial
@@ -20,7 +17,7 @@ Isso pode parecer um problema, bonita, mas este post foi editado para te mostrar
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/PRESENTES-CRIATIVOS-PRESENTES-PERSONALIZADOS-PRESENTES-INTERESSANTES-LA-POMME.png"><img class="alignnone size-full wp-image-10189" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/PRESENTES-CRIATIVOS-PRESENTES-PERSONALIZADOS-PRESENTES-INTERESSANTES-LA-POMME.png" alt="PRESENTES CRIATIVOS-PRESENTES PERSONALIZADOS-PRESENTES INTERESSANTES-LA POMME" width="600" height="436" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/07/PRESENTES-CRIATIVOS-PRESENTES-PERSONALIZADOS-PRESENTES-INTERESSANTES-LA-POMME.png"><img class="alignnone size-full wp-image-10189" src="https://www.trololodemulher.com.br/2014/07/PRESENTES-CRIATIVOS-PRESENTES-PERSONALIZADOS-PRESENTES-INTERESSANTES-LA-POMME.png" alt="PRESENTES CRIATIVOS-PRESENTES PERSONALIZADOS-PRESENTES INTERESSANTES-LA POMME" width="600" height="436" /></a>
 </p>
 
 &nbsp;
@@ -32,13 +29,13 @@ Isso pode parecer um problema, bonita, mas este post foi editado para te mostrar
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/PRESENTES-CRIATIVOS-PRESENTES-PERSONALIZADOS-PRESENTES-INTERESSANTES-LA-POMME2.png"><img class="alignnone size-full wp-image-10190" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/PRESENTES-CRIATIVOS-PRESENTES-PERSONALIZADOS-PRESENTES-INTERESSANTES-LA-POMME2.png" alt="PRESENTES CRIATIVOS-PRESENTES PERSONALIZADOS-PRESENTES INTERESSANTES-LA POMME[2]" width="600" height="114" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/07/PRESENTES-CRIATIVOS-PRESENTES-PERSONALIZADOS-PRESENTES-INTERESSANTES-LA-POMME2.png"><img class="alignnone size-full wp-image-10190" src="https://www.trololodemulher.com.br/2014/07/PRESENTES-CRIATIVOS-PRESENTES-PERSONALIZADOS-PRESENTES-INTERESSANTES-LA-POMME2.png" alt="PRESENTES CRIATIVOS-PRESENTES PERSONALIZADOS-PRESENTES INTERESSANTES-LA POMME[2]" width="600" height="114" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Quer navegar, se deliciar e escolher um mimo você também? <a href="http://www.lojalapomme.com.br/" target="_blank">Clica aqui</a> e se joga, bonita!
+  Quer navegar, se deliciar e escolher um mimo você também? <a href="http://www.lojalapomme.com.br/" target="_blank" rel="noopener noreferrer">Clica aqui</a> e se joga, bonita!
 </p>
 
 &nbsp;
@@ -50,19 +47,19 @@ Isso pode parecer um problema, bonita, mas este post foi editado para te mostrar
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/La-Pomme.png"><img class="alignnone size-full wp-image-10185" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/La-Pomme.png" alt="La Pomme" width="600" height="601" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/07/La-Pomme.png"><img class="alignnone size-full wp-image-10185" src="https://www.trololodemulher.com.br/2014/07/La-Pomme.png" alt="La Pomme" width="600" height="601" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Pois é… quem curte a <a href="https://www.facebook.com/bichafemea" target="_blank">página do blog no Facebook</a> teve a chance de partcipar dessa brincadeira, isto é, 24h para se inscrever no sorteio relâmpago, e concorrer a essas <em>belezuras</em> da La Pomme. Sabe quem ganhou?
+  Pois é… quem curte a <a href="https://www.facebook.com/bichafemea" target="_blank" rel="noopener noreferrer">página do blog no Facebook</a> teve a chance de partcipar dessa brincadeira, isto é, 24h para se inscrever no sorteio relâmpago, e concorrer a essas <em>belezuras</em> da La Pomme. Sabe quem ganhou?
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/RESULTADO-SORTEIO.png"><img class="alignnone size-full wp-image-10184" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/RESULTADO-SORTEIO.png" alt="RESULTADO SORTEIO" width="600" height="349" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/07/RESULTADO-SORTEIO.png"><img class="alignnone size-full wp-image-10184" src="https://www.trololodemulher.com.br/2014/07/RESULTADO-SORTEIO.png" alt="RESULTADO SORTEIO" width="600" height="349" /></a>
 </p>
 
 &nbsp;

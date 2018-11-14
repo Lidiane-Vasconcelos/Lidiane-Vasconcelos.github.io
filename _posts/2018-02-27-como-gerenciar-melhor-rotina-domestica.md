@@ -1,10 +1,7 @@
 ---
-id: 3850
 title: Como gerenciar melhor a rotina doméstica?
-date: 2018-02-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2018/02/27/como-gerenciar-melhor-rotina-domestica/
 permalink: /2018/02/27/como-gerenciar-melhor-rotina-domestica/
 categories:
   - Bem-estar
@@ -31,7 +28,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14560" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/02/PROJETO-LAR-BONITO-LAR-TROLOLO-DE-MULHER-BLOG.jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER-BLOG" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14560" src="https://www.trololodemulher.com.br/2018/02/PROJETO-LAR-BONITO-LAR-TROLOLO-DE-MULHER-BLOG.jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER-BLOG" width="800" height="800" />
 </p>
 
 <p align="justify">
@@ -67,11 +64,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/"><img class="wp-image-14554 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/02/PROJETO-LAR-BONITO-LAR-RODAPÉ2.jpg" alt="PROJETO LAR BONITO LAR-RODAPÉ[2]" width="565" height="149" /></a>
+  <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/"><img class="wp-image-14554 size-full" src="https://www.trololodemulher.com.br/2018/02/PROJETO-LAR-BONITO-LAR-RODAPÉ2.jpg" alt="PROJETO LAR BONITO LAR-RODAPÉ[2]" width="565" height="149" /></a>
 </p>
 
 <p align="justify">

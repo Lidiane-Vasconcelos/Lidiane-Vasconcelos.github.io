@@ -1,10 +1,7 @@
 ---
-id: 3607
 title: '{mãe, obrigada…}'
-date: 2016-05-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/05/06/mae-obrigada/
 permalink: /2016/05/06/mae-obrigada/
 categories:
   - Maternidade
@@ -26,7 +23,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12514" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/FKC5311.jpg" alt="_FKC5311" width="800" height="1208" />
+  <img class="alignnone size-full wp-image-12514" src="https://www.trololodemulher.com.br/2016/05/FKC5311.jpg" alt="_FKC5311" width="800" height="1208" />
 </p>
 
 <p align="center">
@@ -38,7 +35,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12513" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/e4704437-8a9c-40f9-a69a-ef37547856f0600.jpg" alt="e4704437-8a9c-40f9-a69a-ef37547856f0600" width="600" height="600" />
+  <img class="alignnone size-full wp-image-12513" src="https://www.trololodemulher.com.br/2016/05/e4704437-8a9c-40f9-a69a-ef37547856f0600.jpg" alt="e4704437-8a9c-40f9-a69a-ef37547856f0600" width="600" height="600" />
 </p>
 
 <p align="justify">
@@ -46,5 +43,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

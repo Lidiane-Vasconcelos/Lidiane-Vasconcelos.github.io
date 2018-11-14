@@ -1,10 +1,7 @@
 ---
-id: 3271
 title: Já curtiu o Bicha Fêmea no Facebook?
-date: 2014-01-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/01/08/bicha-femea-facebook/
 permalink: /2014/01/08/bicha-femea-facebook/
 categories:
   - Trololó
@@ -20,7 +17,7 @@ Aí você me pergunta: “como, Lidi, se o Bicha Fêmea não tem página?”. Ah
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK.png"><img class="alignnone size-full wp-image-9845" alt="BICHA FEMEA - FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK.png" width="600" height="338" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/01/BICHA-FEMEA-FACEBOOK.png"><img class="alignnone size-full wp-image-9845" alt="BICHA FEMEA - FACEBOOK" src="https://www.trololodemulher.com.br/2014/01/BICHA-FEMEA-FACEBOOK.png" width="600" height="338" /></a>
 </p>
 
 &nbsp;
@@ -30,7 +27,7 @@ Então, é assim:
 &nbsp;
 
 <p style="text-align: center;">
-  <strong><a href="https://www.facebook.com/bichafemea" target="_blank">Página do Bicha Fêmea no Facebook</a> | <a href="https://www.facebook.com/lidiane.vasconcelos.94" target="_blank">Meu perfil no Facebook</a></strong>
+  <strong><a href="https://www.facebook.com/bichafemea" target="_blank" rel="noopener noreferrer">Página do Bicha Fêmea no Facebook</a> | <a href="https://www.facebook.com/lidiane.vasconcelos.94" target="_blank" rel="noopener noreferrer">Meu perfil no Facebook</a></strong>
 </p>
 
 <p style="text-align: center;">

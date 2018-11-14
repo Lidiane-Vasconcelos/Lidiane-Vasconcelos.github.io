@@ -1,10 +1,7 @@
 ---
-id: 2996
 title: Suas finanças pessoais estão no azul ou no vermelho?
-date: 2011-05-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/05/20/dicas-financas-pessoais/
 permalink: /2011/05/20/dicas-financas-pessoais/
 categories:
   - Finanças Pessoais
@@ -19,7 +16,7 @@ Não me diga que você quer ter controle sobre seus ganhos, e até melhorar o se
 <!--more-->
 
 <p style="text-align: justify;">
-  Para algumas mulheres essa lição é aprendida depois de alguns apuros, a exemplo da <strong>Carol <a href="http://shilola.blogspot.com/" target="_blank">[Shhh!!!]</a></strong>, que nunca teve mesada quando criança, e acredita que por isso deixou de aprender a como lidar melhor com o dinheiro. “<em>Depois de anos gastando mais do que recebia, me vi numa situação financeira caótica, e tive que me esforçar muito para conseguir limpar meu nome na praça e guardar dinheiro para conquistar alguns objetos de desejo”</em>, revela. Depois de aprender a lição, Carol passou a se controlar, entendendo que para ter esperanças de prosperidade, muita coisa teria que partir dela mesma. Se você quer aprender dicas para melhorar esse aspecto de sua vida também, anote!
+  Para algumas mulheres essa lição é aprendida depois de alguns apuros, a exemplo da <strong>Carol <a href="http://shilola.blogspot.com/" target="_blank" rel="noopener noreferrer">[Shhh!!!]</a></strong>, que nunca teve mesada quando criança, e acredita que por isso deixou de aprender a como lidar melhor com o dinheiro. “<em>Depois de anos gastando mais do que recebia, me vi numa situação financeira caótica, e tive que me esforçar muito para conseguir limpar meu nome na praça e guardar dinheiro para conquistar alguns objetos de desejo”</em>, revela. Depois de aprender a lição, Carol passou a se controlar, entendendo que para ter esperanças de prosperidade, muita coisa teria que partir dela mesma. Se você quer aprender dicas para melhorar esse aspecto de sua vida também, anote!
 </p>
 
 <p style="text-align: center;">
@@ -27,7 +24,7 @@ Não me diga que você quer ter controle sobre seus ganhos, e até melhorar o se
 </p>
 
 <p style="text-align: justify;">
-  Você sabe o quanto gasta? A <strong>Cely</strong> sabe e faz isso de forma bem simples: “<em>passei a botar as finanças em dia quando separei um caderninho e passei a anotar todas as despesas do mês. Ai ficou mais fácil controlar, principalmente o cartão de crédito, pois eu sei exatamente quanto posso gastar, e principalmente QUANTO NÃO POSSO</em>!”. Além da Cely, também adotam a técnica de colocar cada valor gasto na ponta do lápis, por menor que seja, a <strong>Priscila <a href="http://umlar.blogspot.com/" target="_blank">[Um Lar]</a></strong> e a <strong>Adriana <a href="http://psicologico-al.blogspot.com/" target="_blank">[Psico?Lógico!]</a>.</strong> Agora só falta você, bonita!
+  Você sabe o quanto gasta? A <strong>Cely</strong> sabe e faz isso de forma bem simples: “<em>passei a botar as finanças em dia quando separei um caderninho e passei a anotar todas as despesas do mês. Ai ficou mais fácil controlar, principalmente o cartão de crédito, pois eu sei exatamente quanto posso gastar, e principalmente QUANTO NÃO POSSO</em>!”. Além da Cely, também adotam a técnica de colocar cada valor gasto na ponta do lápis, por menor que seja, a <strong>Priscila <a href="http://umlar.blogspot.com/" target="_blank" rel="noopener noreferrer">[Um Lar]</a></strong> e a <strong>Adriana <a href="http://psicologico-al.blogspot.com/" target="_blank" rel="noopener noreferrer">[Psico?Lógico!]</a>.</strong> Agora só falta você, bonita!
 </p>
 
 <p style="text-align: justify;">
@@ -35,15 +32,15 @@ Não me diga que você quer ter controle sobre seus ganhos, e até melhorar o se
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/calculadora.jpg"><img class="alignnone size-full wp-image-6396" title="calculadora" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/calculadora.jpg" alt="" width="600" height="375" /></a> 
+  <a href="https://www.trololodemulher.com.br/2011/05/calculadora.jpg"><img class="alignnone size-full wp-image-6396" title="calculadora" src="https://www.trololodemulher.com.br/2011/05/calculadora.jpg" alt="" width="600" height="375" /></a> 
 </p>
 
 <p style="text-align: justify;">
-  Para facilitar sua gestão, você pode criar uma planilha onde você fará seus lançamentos, simplificando o seu controle. Sabe quem faz isso? A <strong>Candida <a href="http://enlatandocoisasefatos.blogspot.com/" target="_blank">[Enlatando Coisas e Fatos]</a></strong>! Olha só: “<em>eu mantenho todo o controle de minhas finanças pessoais em uma planilha Excel que eu mesma criei. Ela gera alguns gráficos além de viabilizar alguns controles como limite de saldo disponível ou para onde foi boa parte do meu salário no mês”</em>. Então, não perca tempo! Faça como a <strong>Josineide <a href="http://mulhernota10josisousa.blogspot.com/" target="_blank">[Mulher, mãe, esposa, profissional]</a> e a Ana Alice</strong>, que também usam planilhas para controle financeiro pessoal. Aproveite que a Candida enviou a dela, e dê uma espiada fazendo o <em>download</em> clicando a seguir…
+  Para facilitar sua gestão, você pode criar uma planilha onde você fará seus lançamentos, simplificando o seu controle. Sabe quem faz isso? A <strong>Candida <a href="http://enlatandocoisasefatos.blogspot.com/" target="_blank" rel="noopener noreferrer">[Enlatando Coisas e Fatos]</a></strong>! Olha só: “<em>eu mantenho todo o controle de minhas finanças pessoais em uma planilha Excel que eu mesma criei. Ela gera alguns gráficos além de viabilizar alguns controles como limite de saldo disponível ou para onde foi boa parte do meu salário no mês”</em>. Então, não perca tempo! Faça como a <strong>Josineide <a href="http://mulhernota10josisousa.blogspot.com/" target="_blank" rel="noopener noreferrer">[Mulher, mãe, esposa, profissional]</a> e a Ana Alice</strong>, que também usam planilhas para controle financeiro pessoal. Aproveite que a Candida enviou a dela, e dê uma espiada fazendo o <em>download</em> clicando a seguir…
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Planilha-2011-Modelo1.xls">Planilha 2011 &#8211; Modelo</a><br /> </strong>
+  <strong><a href="https://www.trololodemulher.com.br/2011/05/Planilha-2011-Modelo1.xls">Planilha 2011 &#8211; Modelo</a><br /> </strong>
 </p>
 
 <p style="text-align: center;">
@@ -55,19 +52,19 @@ Não me diga que você quer ter controle sobre seus ganhos, e até melhorar o se
 </p>
 
 <p style="text-align: justify;">
-  Há dicas super válidas como preferir <strong>pagar á vista em troca de descontos</strong>, que são seguidas a risca pela <strong>Deise <a href="http://arquitetadeisesoares.blogspot.com/" target="_blank">[Arquitetando Ideias]</a>,</strong> bem como <strong>evitar fazer prestações com juros embutidos</strong>, algo evitado a todo custo pela <strong>Fernanda <a href="http://fernanda-e-filhos.blogspot.com/" target="_blank">[Mãe&#8230; e muito mais]</a>,</strong> e que vale a pena você pensar sobre isso também, <em>hein</em>? Além do mais, a Fernanda dá mais dicas. Olha só: “<em><strong>Comprar</strong> só o que <strong>realmente necessitamos</strong>; <strong>Comprar</strong> em mercados, onde adquirimos <strong>diretamente ao produtor</strong>, ficando mais econômico; <strong>Fazer listas</strong> de <strong>compras</strong>, para o supermercado; <strong>Comprar roupa e calçado em saldos e promoções</strong></em>”. Anotou?
+  Há dicas super válidas como preferir <strong>pagar á vista em troca de descontos</strong>, que são seguidas a risca pela <strong>Deise <a href="http://arquitetadeisesoares.blogspot.com/" target="_blank" rel="noopener noreferrer">[Arquitetando Ideias]</a>,</strong> bem como <strong>evitar fazer prestações com juros embutidos</strong>, algo evitado a todo custo pela <strong>Fernanda <a href="http://fernanda-e-filhos.blogspot.com/" target="_blank" rel="noopener noreferrer">[Mãe&#8230; e muito mais]</a>,</strong> e que vale a pena você pensar sobre isso também, <em>hein</em>? Além do mais, a Fernanda dá mais dicas. Olha só: “<em><strong>Comprar</strong> só o que <strong>realmente necessitamos</strong>; <strong>Comprar</strong> em mercados, onde adquirimos <strong>diretamente ao produtor</strong>, ficando mais econômico; <strong>Fazer listas</strong> de <strong>compras</strong>, para o supermercado; <strong>Comprar roupa e calçado em saldos e promoções</strong></em>”. Anotou?
 </p>
 
 <p style="text-align: justify;">
-  E tem mais! A <strong>Larissa <a href="http://fuimorarnumacasinha.blogspot.com/" target="_blank">[Fui morar numa casinha&#8230;]</a></strong> e a <strong>Rosângela</strong> nunca usam o cartão de crédito, só o de débito, assim elas só gastam o que têm. Já a <strong>Marcelle <a href="http://pedacinhodacel.blogspot.com/" target="_blank">[Pedacinho da Cel&#8230;pedacinho do Céu]</a></strong> tem dicas bem práticas tais como arrumar o armário de roupas e de comida. <em>Hã</em>? Não entendeu a relação dessas ações com o corte de gastos? Ela explica: “<em>Arrumar armários também ajuda a <strong>montar looks com o que se tem em casa</strong> e não sair comprando coisas desnecessárias, que ficarão jogadas no armário. Isso vale para estoque de comida também. <strong>Veja o que tem e bole receitas com isso e compre somente o que falta</strong>, já pensando no cardápio. Ir ao mercado com lista e se ater ao que listou</em>.” Bem esperta essa bicha fêmea, <em>hã</em>?
+  E tem mais! A <strong>Larissa <a href="http://fuimorarnumacasinha.blogspot.com/" target="_blank" rel="noopener noreferrer">[Fui morar numa casinha&#8230;]</a></strong> e a <strong>Rosângela</strong> nunca usam o cartão de crédito, só o de débito, assim elas só gastam o que têm. Já a <strong>Marcelle <a href="http://pedacinhodacel.blogspot.com/" target="_blank" rel="noopener noreferrer">[Pedacinho da Cel&#8230;pedacinho do Céu]</a></strong> tem dicas bem práticas tais como arrumar o armário de roupas e de comida. <em>Hã</em>? Não entendeu a relação dessas ações com o corte de gastos? Ela explica: “<em>Arrumar armários também ajuda a <strong>montar looks com o que se tem em casa</strong> e não sair comprando coisas desnecessárias, que ficarão jogadas no armário. Isso vale para estoque de comida também. <strong>Veja o que tem e bole receitas com isso e compre somente o que falta</strong>, já pensando no cardápio. Ir ao mercado com lista e se ater ao que listou</em>.” Bem esperta essa bicha fêmea, <em>hã</em>?
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/dinheiro.jpg"><img class="alignnone size-full wp-image-6399" title="dinheiro" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/dinheiro.jpg" alt="" width="600" height="522" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/dinheiro.jpg"><img class="alignnone size-full wp-image-6399" title="dinheiro" src="https://www.trololodemulher.com.br/2011/05/dinheiro.jpg" alt="" width="600" height="522" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Quer mais dicas de como reduzir os seus gastos? Então anote as sugestões da <strong>Mila <a href="http://bosquesdealim.wordpress.com/" target="_blank">[Bosques de Alim]</a></strong>, porque elas valem muito a pena. As dicas partem do princípio de que você deve fazer algumas perguntas a si própria, tais como: “<em><strong>O valor da minha conta telefônica condiz com o que eu realmente uso ou preciso usar?</strong> Pesquise os melhores planos com a prestadora do serviço, faça downgrade em sua internet se você não precisa de uma conexão máxima, etc.; </em><em><strong>Tenho tempo de ver todos os canais da minha tv a cabo?</strong> Se você tem criança em casa, por exemplo, os canais do pacote básico contemplam grande parte dos canais de desenho. Além disso, neste mesmo pacote, há uma série de canais interessantes também; </em><em><strong>Como está o valor da sua conta de luz?</strong> Se ainda não optou por lâmpadas econômicas, faça isso. Além disso, a própria conscientização de desligar o que não está sendo usado</em>.”, ensina.
+  Quer mais dicas de como reduzir os seus gastos? Então anote as sugestões da <strong>Mila <a href="http://bosquesdealim.wordpress.com/" target="_blank" rel="noopener noreferrer">[Bosques de Alim]</a></strong>, porque elas valem muito a pena. As dicas partem do princípio de que você deve fazer algumas perguntas a si própria, tais como: “<em><strong>O valor da minha conta telefônica condiz com o que eu realmente uso ou preciso usar?</strong> Pesquise os melhores planos com a prestadora do serviço, faça downgrade em sua internet se você não precisa de uma conexão máxima, etc.; </em><em><strong>Tenho tempo de ver todos os canais da minha tv a cabo?</strong> Se você tem criança em casa, por exemplo, os canais do pacote básico contemplam grande parte dos canais de desenho. Além disso, neste mesmo pacote, há uma série de canais interessantes também; </em><em><strong>Como está o valor da sua conta de luz?</strong> Se ainda não optou por lâmpadas econômicas, faça isso. Além disso, a própria conscientização de desligar o que não está sendo usado</em>.”, ensina.
 </p>
 
 <p style="text-align: justify;">
@@ -79,22 +76,22 @@ Não me diga que você quer ter controle sobre seus ganhos, e até melhorar o se
 </p>
 
 <p style="text-align: justify;">
-  Você está no rumo da prosperidade. Que delícia poder comprar algo que sonha muito, não é? Melhor ainda é saber que se houver algum imprevisto financeiro, não haverá razões para desespero. E como conseguir isso? Poupando, investindo e planejando! Não tem ideia de como fazer isso? A <strong>Tatiana <a href="http://verdejardim.blogspot.com/" target="_blank">[Verde Jardim]</a></strong> explica como ela faz: “<em>Se <strong>salário menos as despesas sobra alguma coisa</strong>, nem que seja R$ 50,00/mês, eu <strong>multiplico isso por 12</strong> e estabeleço uma <strong>meta do que tenho que juntar no ano</strong>. Normalmente eu coloco a meta um pouco acima do dinheiro que sobra porque assim me esforço para economizar em algumas contas. Pode ser pouco, mas <strong>é assim que se aprende a poupar</strong></em>.”
+  Você está no rumo da prosperidade. Que delícia poder comprar algo que sonha muito, não é? Melhor ainda é saber que se houver algum imprevisto financeiro, não haverá razões para desespero. E como conseguir isso? Poupando, investindo e planejando! Não tem ideia de como fazer isso? A <strong>Tatiana <a href="http://verdejardim.blogspot.com/" target="_blank" rel="noopener noreferrer">[Verde Jardim]</a></strong> explica como ela faz: “<em>Se <strong>salário menos as despesas sobra alguma coisa</strong>, nem que seja R$ 50,00/mês, eu <strong>multiplico isso por 12</strong> e estabeleço uma <strong>meta do que tenho que juntar no ano</strong>. Normalmente eu coloco a meta um pouco acima do dinheiro que sobra porque assim me esforço para economizar em algumas contas. Pode ser pouco, mas <strong>é assim que se aprende a poupar</strong></em>.”
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/investimento.jpg"><img class="alignnone size-full wp-image-6400" title="Focus on Money in the form of many large bills with a calculator" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/investimento.jpg" alt="" width="600" height="402" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/investimento.jpg"><img class="alignnone size-full wp-image-6400" title="Focus on Money in the form of many large bills with a calculator" src="https://www.trololodemulher.com.br/2011/05/investimento.jpg" alt="" width="600" height="402" /></a>
 </p>
 
 <p style="text-align: justify;">
-  No caso da <strong>Maria Araújo</strong>, ela fica atenta a sobras vindas da restituição do imposto de renda ou das férias, e aplica em poupança, por exemplo. Enfim, faça como ensina a <strong>Deise <a href="http://arquitetadeisesoares.blogspot.com/" target="_blank">[Arquitetando Ideias]</a></strong>: “<em>leia bastante sobre investimentos e controle financeiro, mesmo que em site para ‘amadores’. Coloque uma meta, e para conquistá-la e nao sofrer tanto, se dê alguns presentes&#8230;mas só alguns!!”.</em>
+  No caso da <strong>Maria Araújo</strong>, ela fica atenta a sobras vindas da restituição do imposto de renda ou das férias, e aplica em poupança, por exemplo. Enfim, faça como ensina a <strong>Deise <a href="http://arquitetadeisesoares.blogspot.com/" target="_blank" rel="noopener noreferrer">[Arquitetando Ideias]</a></strong>: “<em>leia bastante sobre investimentos e controle financeiro, mesmo que em site para ‘amadores’. Coloque uma meta, e para conquistá-la e nao sofrer tanto, se dê alguns presentes&#8230;mas só alguns!!”.</em>
 </p>
 
 <p style="text-align: justify;">
   E agora, bonitona? Está animada? Todas essas dicas bem valiosas foram dadas por bichas fêmeas navegantes como você, que têm sonhos e dificuldades no dia a dia como qualquer mortal. Sendo assim, se é possível para elas ter a vida financeira controlada, por que não seria para você? A escolha é sua…
 </p>
 
-Imagens: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+Imagens: **<a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>**
 
 **Mais no Bicha Fêmea…**
 

@@ -1,10 +1,7 @@
 ---
-id: 3639
 title: Verdades pouco conhecidas sobre a mulher finlandesa.
-date: 2016-08-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/08/09/mulher-finlandesa/
 permalink: /2016/08/09/mulher-finlandesa/
 categories:
   - Adriana Minhoto
@@ -24,15 +21,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12755" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FINLANDIA-MULHER-FINLANDESA-VAIDADE-FEMININA3.jpg" alt="FINLANDIA-MULHER FINLANDESA-VAIDADE FEMININA[3]" width="800" height="441" />
+  <img class="alignnone size-full wp-image-12755" src="https://www.trololodemulher.com.br/2016/08/FINLANDIA-MULHER-FINLANDESA-VAIDADE-FEMININA3.jpg" alt="FINLANDIA-MULHER FINLANDESA-VAIDADE FEMININA[3]" width="800" height="441" />
 </p>
 
 <p align="center">
-  <em><a href="http://vvilma.weebly.com/naisten-arki-pukeutuminen.html" target="_blank">VIA</a> </em>
+  <em><a href="http://vvilma.weebly.com/naisten-arki-pukeutuminen.html" target="_blank" rel="noopener noreferrer">VIA</a> </em>
 </p>
 
 <p align="justify">
-  <em>Por falar em roupa curta, vale aqui até um parágrafo à parte. Diferentemente do Brasil, o lema aqui é “meu corpo, minhas regras”, e esse lema é respeitado. No <a href="http://www.trololodemulher.com.br/2015/07/24/verao-na-finlandia-2/" target="_blank">verão finlandês</a> passado até me assustei com a quantidade de meia bunda que eu via nas ruas, porque as mulheres usavam shorts e saias extremamente curtos. E ninguém, absolutamente ninguém mexe com elas. Elas podem beber o quanto quiserem e sair trançando as pernas de tão bêbadas. Na Finlândia não existe essa da mulher ter que se respeitar como ouço falar muito ai no Brasil. Aqui elas são respeitadas e tem igualdade social com os homens. </em>
+  <em>Por falar em roupa curta, vale aqui até um parágrafo à parte. Diferentemente do Brasil, o lema aqui é “meu corpo, minhas regras”, e esse lema é respeitado. No <a href="http://www.trololodemulher.com.br/2015/07/24/verao-na-finlandia-2/" target="_blank" rel="noopener noreferrer">verão finlandês</a> passado até me assustei com a quantidade de meia bunda que eu via nas ruas, porque as mulheres usavam shorts e saias extremamente curtos. E ninguém, absolutamente ninguém mexe com elas. Elas podem beber o quanto quiserem e sair trançando as pernas de tão bêbadas. Na Finlândia não existe essa da mulher ter que se respeitar como ouço falar muito ai no Brasil. Aqui elas são respeitadas e tem igualdade social com os homens. </em>
 </p>
 
 <p align="justify">
@@ -40,7 +37,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12754" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FINLANDIA-MULHER-FINLANDESA-VAIDADE-FEMININA2.jpg" alt="FINLANDIA-MULHER FINLANDESA-VAIDADE FEMININA[2]" width="533" height="948" />
+  <img class="alignnone size-full wp-image-12754" src="https://www.trololodemulher.com.br/2016/08/FINLANDIA-MULHER-FINLANDESA-VAIDADE-FEMININA2.jpg" alt="FINLANDIA-MULHER FINLANDESA-VAIDADE FEMININA[2]" width="533" height="948" />
 </p>
 
 <p align="justify">
@@ -52,11 +49,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12753" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/FINLANDIA-MULHER-FINLANDESA-VAIDADE-FEMININA.jpg" alt="FINLANDIA-MULHER FINLANDESA-VAIDADE FEMININA" width="533" height="948" />
+  <img class="alignnone size-full wp-image-12753" src="https://www.trololodemulher.com.br/2016/08/FINLANDIA-MULHER-FINLANDESA-VAIDADE-FEMININA.jpg" alt="FINLANDIA-MULHER FINLANDESA-VAIDADE FEMININA" width="533" height="948" />
 </p>
 
 <p align="justify">
-  <em>Já entre as mulheres de 30, que em geral têm um, dois ou mais filhos, o lema é a praticidade, com leggins ou jeans, tênis e quase sempre uma mochila nas costas com as coisas das crianças. Muito raro não ver uma <a href="http://www.trololodemulher.com.br/2015/02/20/maternidade-finlandia/" target="_blank">mãe finlandesa</a> com filhos pequenos no carrinho e um maior ao lado. Acho que o carrinho de bebê já faz parte do estilo delas! E quem tem crianças sabe como é: abaixar, levantar, sair correndo, pular, pegar no colo&#8230; Ufa!</em>
+  <em>Já entre as mulheres de 30, que em geral têm um, dois ou mais filhos, o lema é a praticidade, com leggins ou jeans, tênis e quase sempre uma mochila nas costas com as coisas das crianças. Muito raro não ver uma <a href="http://www.trololodemulher.com.br/2015/02/20/maternidade-finlandia/" target="_blank" rel="noopener noreferrer">mãe finlandesa</a> com filhos pequenos no carrinho e um maior ao lado. Acho que o carrinho de bebê já faz parte do estilo delas! E quem tem crianças sabe como é: abaixar, levantar, sair correndo, pular, pegar no colo&#8230; Ufa!</em>
 </p>
 
 <p align="justify">
@@ -64,31 +61,31 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11365" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" />
+  <img class="alignnone size-full wp-image-11365" src="https://www.trololodemulher.com.br/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" />
 </p>
 
 **Entenda como tudo começou:**
 
-**<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
+**<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank" rel="noopener noreferrer">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
 
 &nbsp;
 
 **Mais sobre a Finlândia, por Adriana Minhoto:**
 
-**<a href="http://www.trololodemulher.com.br/2016/05/31/finlandia-3/" target="_blank">O que você não sabia sobre a cultura popular na Finlândia.</a>**
+**<a href="http://www.trololodemulher.com.br/2016/05/31/finlandia-3/" target="_blank" rel="noopener noreferrer">O que você não sabia sobre a cultura popular na Finlândia.</a>**
 
-**<a href="http://www.trololodemulher.com.br/2016/04/15/morar-na-finlandia-2/" target="_blank">Casa e morar na Finlândia: o amor colocado à prova.</a>**
+**<a href="http://www.trololodemulher.com.br/2016/04/15/morar-na-finlandia-2/" target="_blank" rel="noopener noreferrer">Casa e morar na Finlândia: o amor colocado à prova.</a>**
 
-**<a href="http://www.trololodemulher.com.br/2016/03/16/finlandia-2/" target="_blank">Infância na Finlândia e Brasil: há ponto em comum?</a>**
+**<a href="http://www.trololodemulher.com.br/2016/03/16/finlandia-2/" target="_blank" rel="noopener noreferrer">Infância na Finlândia e Brasil: há ponto em comum?</a>**
 
 &nbsp;
 
 <p align="justify">
-  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank" rel="noopener noreferrer">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

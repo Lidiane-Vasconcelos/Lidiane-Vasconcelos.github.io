@@ -1,10 +1,7 @@
 ---
-id: 2947
 title: 'Pitacos de decoração: decorando a sala de estar com amarelo!'
-date: 2011-01-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/01/26/decoracao-sala-estar-amarelo/
 permalink: /2011/01/26/decoracao-sala-estar-amarelo/
 categories:
   - Salas
@@ -46,11 +43,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/sala-de-estar1.jpg"><img class="alignnone size-full wp-image-5861" title="sala de estar" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/sala-de-estar1.jpg" alt="" width="512" height="384" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/sala-de-estar1.jpg"><img class="alignnone size-full wp-image-5861" title="sala de estar" src="https://www.trololodemulher.com.br/2011/01/sala-de-estar1.jpg" alt="" width="512" height="384" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/sala-de-estar2.jpg"><img class="alignnone size-full wp-image-5862" title="sala de estar2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/sala-de-estar2.jpg" alt="" width="512" height="384" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/sala-de-estar2.jpg"><img class="alignnone size-full wp-image-5862" title="sala de estar2" src="https://www.trololodemulher.com.br/2011/01/sala-de-estar2.jpg" alt="" width="512" height="384" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -62,11 +59,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/sala-de-estar-amarela3.jpg"><img class="alignnone size-full wp-image-5864" title="sala de estar amarela3" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/sala-de-estar-amarela3.jpg" alt="" width="300" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/sala-de-estar-amarela3.jpg"><img class="alignnone size-full wp-image-5864" title="sala de estar amarela3" src="https://www.trololodemulher.com.br/2011/01/sala-de-estar-amarela3.jpg" alt="" width="300" height="400" /></a>
 </p>
 
 <p style="text-align: center;">
-  <em>Imagem via</em> <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a><em> </em>
+  <em>Imagem via</em> <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a><em> </em>
 </p>
 
 <p style="text-align: justify;">
@@ -82,11 +79,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/sala-de-estar-amarela4.jpg"><img class="alignnone size-full wp-image-5865" title="sala de estar amarela4" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/sala-de-estar-amarela4.jpg" alt="" width="360" height="460" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/sala-de-estar-amarela4.jpg"><img class="alignnone size-full wp-image-5865" title="sala de estar amarela4" src="https://www.trololodemulher.com.br/2011/01/sala-de-estar-amarela4.jpg" alt="" width="360" height="460" /></a>
 </p>
 
 <p style="text-align: center;">
-  <em>Imagem via </em><a href="http://www.countryliving.com/" target="_blank"><em>Country Living</em></a>
+  <em>Imagem via </em><a href="http://www.countryliving.com/" target="_blank" rel="noopener noreferrer"><em>Country Living</em></a>
 </p>
 
 <p style="text-align: justify;">
@@ -102,11 +99,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/sala-de-estar-amarela2.jpg"><img class="alignnone size-full wp-image-5863" title="sala de estar amarela2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/sala-de-estar-amarela2.jpg" alt="" width="400" height="420" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/sala-de-estar-amarela2.jpg"><img class="alignnone size-full wp-image-5863" title="sala de estar amarela2" src="https://www.trololodemulher.com.br/2011/01/sala-de-estar-amarela2.jpg" alt="" width="400" height="420" /></a>
 </p>
 
 <p style="text-align: center;">
-  Imagem via <a href="http://www.myhomeideas.com/" target="_blank">myhomeideas</a>
+  Imagem via <a href="http://www.myhomeideas.com/" target="_blank" rel="noopener noreferrer">myhomeideas</a>
 </p>
 
 <p style="text-align: justify;">
@@ -118,7 +115,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.trololodemulher.com.br/2013/09/16/amarelo-na-decoracao/" target="_blank">Amarelo na decoração: como usar?</a>
+  <a href="http://www.trololodemulher.com.br/2013/09/16/amarelo-na-decoracao/" target="_blank" rel="noopener noreferrer">Amarelo na decoração: como usar?</a>
 </p>
 
 <p style="text-align: justify;">
@@ -130,11 +127,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
+  <a href="http://www.decoracaodacasa.com/" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10262" src="https://www.trololodemulher.com.br/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
 </p>
 
 **_ _**

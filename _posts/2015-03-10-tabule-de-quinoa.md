@@ -1,10 +1,7 @@
 ---
-id: 3405
 title: 'Receita mais fácil não existe: tabule de quinoa'
-date: 2015-03-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/03/10/tabule-de-quinoa/
 permalink: /2015/03/10/tabule-de-quinoa/
 categories:
   - Receitas
@@ -16,13 +13,13 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-TABULE-QUINOA2.png"><img class="alignnone size-full wp-image-10824" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-TABULE-QUINOA2.png" alt="RECEITA-RECEITA FACIL-RECEITA SAUDAVEL-TABULE-QUINOA[2]" width="489" height="90" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-TABULE-QUINOA2.png"><img class="alignnone size-full wp-image-10824" src="https://www.trololodemulher.com.br/2015/03/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-TABULE-QUINOA2.png" alt="RECEITA-RECEITA FACIL-RECEITA SAUDAVEL-TABULE-QUINOA[2]" width="489" height="90" /></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-TABULE-QUINOA.jpg"><img class="alignnone size-full wp-image-10823" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-TABULE-QUINOA.jpg" alt="RECEITA-RECEITA FACIL-RECEITA SAUDAVEL-TABULE-QUINOA" width="800" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-TABULE-QUINOA.jpg"><img class="alignnone size-full wp-image-10823" src="https://www.trololodemulher.com.br/2015/03/RECEITA-RECEITA-FACIL-RECEITA-SAUDAVEL-TABULE-QUINOA.jpg" alt="RECEITA-RECEITA FACIL-RECEITA SAUDAVEL-TABULE-QUINOA" width="800" height="600" /></a>
 </p>
 
 &nbsp;
@@ -58,7 +55,7 @@ Sal e pimenta moída na hora a gosto.
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/CAROL-VIEIRA.png"><img class="alignnone size-full wp-image-10204" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/CAROL-VIEIRA.png" alt="CAROL VIEIRA" width="600" height="251" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/07/CAROL-VIEIRA.png"><img class="alignnone size-full wp-image-10204" src="https://www.trololodemulher.com.br/2014/07/CAROL-VIEIRA.png" alt="CAROL VIEIRA" width="600" height="251" /></a>
 </p>
 
 <p align="justify">
@@ -66,23 +63,23 @@ Sal e pimenta moída na hora a gosto.
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/" target="_blank"><strong>Receita molezinha e gostosa: torta de abóbora + frango</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/" target="_blank" rel="noopener noreferrer"><strong>Receita molezinha e gostosa: torta de abóbora + frango</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank"><strong>Bolinho assado de inhame com bacalhau… hummm…</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank" rel="noopener noreferrer"><strong>Bolinho assado de inhame com bacalhau… hummm…</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank"><strong>Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank" rel="noopener noreferrer"><strong>Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa</strong></a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank" rel="noopener noreferrer">clica aqui, oh</a>.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

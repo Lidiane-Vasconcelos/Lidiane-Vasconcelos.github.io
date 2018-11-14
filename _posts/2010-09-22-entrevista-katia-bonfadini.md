@@ -1,16 +1,13 @@
 ---
-id: 2880
 title: 'Uma Bicha Fêmea por Outra: Katia Bonfadini'
-date: 2010-09-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/09/22/entrevista-katia-bonfadini/
 permalink: /2010/09/22/entrevista-katia-bonfadini/
 categories:
   - Comportamento
   - Entrevistas
 ---
-Katia Bonfadini é uma designer de talento reconhecido na blogosfera. Quem acompanha o seu <a href="http://www.casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa </a>enxerga isso nos detalhes de todo trabalho que a blogueira mostra. O que alguns talvez ainda não saibam é que essa simpática carioca está vivendo um momento especial pela primeira vez e tem muito a falar sobre ele: está batendo asas e voando sozinha em sua carreira, longe das amarras formais de uma empresa.
+Katia Bonfadini é uma designer de talento reconhecido na blogosfera. Quem acompanha o seu <a href="http://www.casosecoisasdabonfa.blogspot.com/" target="_blank" rel="noopener noreferrer">Casos e Coisas da Bonfa </a>enxerga isso nos detalhes de todo trabalho que a blogueira mostra. O que alguns talvez ainda não saibam é que essa simpática carioca está vivendo um momento especial pela primeira vez e tem muito a falar sobre ele: está batendo asas e voando sozinha em sua carreira, longe das amarras formais de uma empresa.
 
 <p style="text-align: justify;">
   O que isso significa na vida de uma profissional? Como essa experiência pode impactar na vida de uma mulher? A Katia conta tudo…
@@ -19,7 +16,7 @@ Katia Bonfadini é uma designer de talento reconhecido na blogosfera. Quem acomp
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Katia-Bonfadini.jpg"><img class="alignnone size-medium wp-image-5221" title="Katia Bonfadini" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Katia-Bonfadini-300x225.jpg" alt="" width="300" height="225" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/Katia-Bonfadini.jpg"><img class="alignnone size-medium wp-image-5221" title="Katia Bonfadini" src="https://www.trololodemulher.com.br/2010/09/Katia-Bonfadini-300x225.jpg" alt="" width="300" height="225" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -43,7 +40,7 @@ Katia Bonfadini é uma designer de talento reconhecido na blogosfera. Quem acomp
 > </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Katia-e-Marcelo.jpg"><img class="alignnone size-medium wp-image-5225" title="Katia e Marcelo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Katia-e-Marcelo-300x225.jpg" alt="" width="300" height="225" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/09/Katia-e-Marcelo.jpg"><img class="alignnone size-medium wp-image-5225" title="Katia e Marcelo" src="https://www.trololodemulher.com.br/2010/09/Katia-e-Marcelo-300x225.jpg" alt="" width="300" height="225" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -75,7 +72,7 @@ Katia Bonfadini é uma designer de talento reconhecido na blogosfera. Quem acomp
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>Você tem estado na blogosfera, deixando sua marca na construção visual de blogs, a exemplo do <a href="http://claudinha-feitoamo.blogspot.com/" target="_blank">Feito a Mão</a>, de Cláudia Ramalho. Há algum outro blog passando por suas mãos e mente criativas no momento?</em></strong>
+  <strong><em>Você tem estado na blogosfera, deixando sua marca na construção visual de blogs, a exemplo do <a href="http://claudinha-feitoamo.blogspot.com/" target="_blank" rel="noopener noreferrer">Feito a Mão</a>, de Cláudia Ramalho. Há algum outro blog passando por suas mãos e mente criativas no momento?</em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -83,7 +80,7 @@ Katia Bonfadini é uma designer de talento reconhecido na blogosfera. Quem acomp
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>Você tem mais sonhos para o <a href="http://www.casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a>?</em></strong>
+  <strong><em>Você tem mais sonhos para o <a href="http://www.casosecoisasdabonfa.blogspot.com/" target="_blank" rel="noopener noreferrer">Casos e Coisas da Bonfa</a>?</em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -95,7 +92,7 @@ Katia Bonfadini é uma designer de talento reconhecido na blogosfera. Quem acomp
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Katia-Bonfadini-no-trololo.jpg"><img class="alignnone size-medium wp-image-5224" title="Katia Bonfadini no trololó" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Katia-Bonfadini-no-trololo-225x300.jpg" alt="" width="225" height="300" /></a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2010/09/Katia-Bonfadini-no-trololo.jpg"><img class="alignnone size-medium wp-image-5224" title="Katia Bonfadini no trololó" src="https://www.trololodemulher.com.br/2010/09/Katia-Bonfadini-no-trololo-225x300.jpg" alt="" width="225" height="300" /></a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -151,11 +148,11 @@ Katia Bonfadini é uma designer de talento reconhecido na blogosfera. Quem acomp
 </p>
 
 <p style="text-align: center;">
-  <strong>Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a>.</strong>
+  <strong>Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea" target="_blank" rel="noopener noreferrer">@bichafemea</a>.</strong>
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank"><em>basta clicar</em></a><em>!</em></strong>
+  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank" rel="noopener noreferrer"><em>basta clicar</em></a><em>!</em></strong>
 </p>
 
 <p style="text-align: center;">

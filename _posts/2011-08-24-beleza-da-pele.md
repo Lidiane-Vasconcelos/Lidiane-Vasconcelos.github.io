@@ -1,10 +1,7 @@
 ---
-id: 3040
 title: 'Tônico facial: você sabe a importância desse produto para a beleza da pele?'
-date: 2011-08-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/08/24/beleza-da-pele/
 permalink: /2011/08/24/beleza-da-pele/
 categories:
   - Beleza
@@ -13,7 +10,7 @@ Se você costuma ter pressa no ritual de **beleza da pele** e, em geral, acaba e
 
 &nbsp;
 
-Para tirar todas as dúvidas que nós podemos ter quanto a esse produtinho, eu consultei a **Dra. Dermatologista Livia Pino**, do **Rio de Janeiro**, que também é blogueira e edita o **<a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">Dermatologia em Foco</a>**. Quer ver o que ela falou a respeito?
+Para tirar todas as dúvidas que nós podemos ter quanto a esse produtinho, eu consultei a **Dra. Dermatologista Livia Pino**, do **Rio de Janeiro**, que também é blogueira e edita o **<a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank" rel="noopener noreferrer">Dermatologia em Foco</a>**. Quer ver o que ela falou a respeito?
 
 <!--more-->
 
@@ -22,7 +19,7 @@ Para tirar todas as dúvidas que nós podemos ter quanto a esse produtinho, eu c
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza.jpg"><img class="alignnone size-full wp-image-6821" title="beleza" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza.jpg" alt="" width="600" height="399" /><br /> </a>Imagem: <strong><a href="http://www.sxc.hu/browse.phtml?f=profile&l=ddrccl" target="_blank">ddrccl</a> via <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/08/beleza.jpg"><img class="alignnone size-full wp-image-6821" title="beleza" src="https://www.trololodemulher.com.br/2011/08/beleza.jpg" alt="" width="600" height="399" /><br /> </a>Imagem: <strong><a href="http://www.sxc.hu/browse.phtml?f=profile&l=ddrccl" target="_blank" rel="noopener noreferrer">ddrccl</a> via <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></strong>
 </p>
 
 &nbsp;
@@ -82,7 +79,7 @@ Para tirar todas as dúvidas que nós podemos ter quanto a esse produtinho, eu c
 </p>
 
 <p align="justify">
-  Todas as informações e dicas que essa profissional tem para te dar são acessíveis no blog que ela edita, o <strong><a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">Dermatologia em Foco</a></strong>. Aproveita!
+  Todas as informações e dicas que essa profissional tem para te dar são acessíveis no blog que ela edita, o <strong><a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank" rel="noopener noreferrer">Dermatologia em Foco</a></strong>. Aproveita!
 </p>
 
 &nbsp;

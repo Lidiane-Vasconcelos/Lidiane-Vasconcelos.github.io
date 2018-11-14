@@ -1,10 +1,7 @@
 ---
-id: 3129
 title: Enteados problemáticos podem causar a separação do casal?
-date: 2012-04-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/04/06/enteados-problematicos/
 permalink: /2012/04/06/enteados-problematicos/
 categories:
   - Comportamento
@@ -18,9 +15,9 @@ categories:
 
 **Veja também:**
 
-**<a href="http://www.trololodemulher.com.br/2015/05/22/casamento-conselhos/" target="_blank">Casamento: os conselhos mais inteligentes. Já leu?</a>**
+**<a href="http://www.trololodemulher.com.br/2015/05/22/casamento-conselhos/" target="_blank" rel="noopener noreferrer">Casamento: os conselhos mais inteligentes. Já leu?</a>**
 
-**<a href="http://www.trololodemulher.com.br/2017/05/05/solidao-a-dois/" target="_blank">Você vive a solidão a dois? Saiba como sair dela.</a>**
+**<a href="http://www.trololodemulher.com.br/2017/05/05/solidao-a-dois/" target="_blank" rel="noopener noreferrer">Você vive a solidão a dois? Saiba como sair dela.</a>**
 
 &nbsp;
 
@@ -33,11 +30,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2010/10/18/casamento-duradouro-segredo/" target="_blank">Casamento duradouro: isto tem algum segredo?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2010/10/18/casamento-duradouro-segredo/" target="_blank" rel="noopener noreferrer">Casamento duradouro: isto tem algum segredo?</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/09/16/relacionamento-2/" target="_blank">Como encontrar a pessoa certa para um relacionamento?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/09/16/relacionamento-2/" target="_blank" rel="noopener noreferrer">Como encontrar a pessoa certa para um relacionamento?</a></strong>
 </p>
 
 <!--more-->
@@ -55,11 +52,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2010/06/30/casamento-2/" target="_blank">Há vida após o casamento?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2010/06/30/casamento-2/" target="_blank" rel="noopener noreferrer">Há vida após o casamento?</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/06/04/felicidade-mitos/" target="_blank">3 verdades duvidosas que minam a sua vida. Fuja disso já!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/06/04/felicidade-mitos/" target="_blank" rel="noopener noreferrer">3 verdades duvidosas que minam a sua vida. Fuja disso já!</a></strong>
 </p>
 
 <p align="justify">
@@ -127,7 +124,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/MADRASTA-ENTEADO.jpg"><img class="alignnone size-full wp-image-8662" title="MADRASTA ENTEADO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/MADRASTA-ENTEADO.jpg" alt="" width="600" height="874" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="https://www.trololodemulher.com.br/2012/04/MADRASTA-ENTEADO.jpg"><img class="alignnone size-full wp-image-8662" title="MADRASTA ENTEADO" src="https://www.trololodemulher.com.br/2012/04/MADRASTA-ENTEADO.jpg" alt="" width="600" height="874" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em></strong>
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -135,7 +132,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2012/11/09/relacoes-amorosas/" target="_blank">Você é daquelas que acreditam nunca acertar em suas relações amorosas?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2012/11/09/relacoes-amorosas/" target="_blank" rel="noopener noreferrer">Você é daquelas que acreditam nunca acertar em suas relações amorosas?</a></strong>
 </p>
 
 &nbsp;
@@ -143,9 +140,9 @@ categories:
 E agora a pergunta que não quer calar:** <span style="font-size: medium;">você já vivenciou algo parecido ou conhece alguém que já passou por essa experiência? O que você faria numa situação dessa?<br /> </span>**
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>

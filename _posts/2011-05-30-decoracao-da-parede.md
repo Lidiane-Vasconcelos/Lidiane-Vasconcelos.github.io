@@ -1,10 +1,7 @@
 ---
-id: 3002
 title: 5 ideias para a decoração da parede vazia em sua casa…
-date: 2011-05-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/05/30/decoracao-da-parede/
 permalink: /2011/05/30/decoracao-da-parede/
 categories:
   - Dicas de Decoração
@@ -22,7 +19,7 @@ Você tem um ambiente em casa, a exemplo do quarto ou sala, com um espaço de **
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-parede.jpg"><img class="alignnone size-full wp-image-6443" title="decoração de parede" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-parede.jpg" alt="" width="550" height="733" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/decoracao-de-parede.jpg"><img class="alignnone size-full wp-image-6443" title="decoração de parede" src="https://www.trololodemulher.com.br/2011/05/decoracao-de-parede.jpg" alt="" width="550" height="733" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -38,7 +35,7 @@ Você tem um ambiente em casa, a exemplo do quarto ou sala, com um espaço de **
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-parede1.jpg"><img class="alignnone size-full wp-image-6444" title="decoração de parede[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-parede1.jpg" alt="" width="550" height="733" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/decoracao-de-parede1.jpg"><img class="alignnone size-full wp-image-6444" title="decoração de parede[1]" src="https://www.trololodemulher.com.br/2011/05/decoracao-de-parede1.jpg" alt="" width="550" height="733" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -46,7 +43,7 @@ Você tem um ambiente em casa, a exemplo do quarto ou sala, com um espaço de **
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-parede4.jpg"><img class="alignnone size-full wp-image-6449" title="decoração de parede[4]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-parede4.jpg" alt="" width="550" height="733" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/decoracao-de-parede4.jpg"><img class="alignnone size-full wp-image-6449" title="decoração de parede[4]" src="https://www.trololodemulher.com.br/2011/05/decoracao-de-parede4.jpg" alt="" width="550" height="733" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -58,7 +55,7 @@ Você tem um ambiente em casa, a exemplo do quarto ou sala, com um espaço de **
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-parede2.jpg"><img class="alignnone size-full wp-image-6445" title="decoração de parede[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-parede2.jpg" alt="" width="550" height="733" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/decoracao-de-parede2.jpg"><img class="alignnone size-full wp-image-6445" title="decoração de parede[2]" src="https://www.trololodemulher.com.br/2011/05/decoracao-de-parede2.jpg" alt="" width="550" height="733" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -70,23 +67,23 @@ Você tem um ambiente em casa, a exemplo do quarto ou sala, com um espaço de **
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Divino-Rosas-Medias.jpg"><img class="alignnone size-full wp-image-6249" title="Divino Rosas Médias" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Divino-Rosas-Medias.jpg" alt="" width="600" height="400" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-divino-rosas-medias/" target="_blank">Quadro Divino Rosas Médias</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/04/Divino-Rosas-Medias.jpg"><img class="alignnone size-full wp-image-6249" title="Divino Rosas Médias" src="https://www.trololodemulher.com.br/2011/04/Divino-Rosas-Medias.jpg" alt="" width="600" height="400" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-divino-rosas-medias/" target="_blank" rel="noopener noreferrer">Quadro Divino Rosas Médias</a></strong>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Regador-Provencal.jpg"><img class="alignnone size-full wp-image-6253" title="Regador Provençal" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Regador-Provencal.jpg" alt="" width="600" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/Regador-Provencal.jpg"><img class="alignnone size-full wp-image-6253" title="Regador Provençal" src="https://www.trololodemulher.com.br/2011/04/Regador-Provencal.jpg" alt="" width="600" height="400" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank">Regador Provençal</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank" rel="noopener noreferrer">Regador Provençal</a></strong>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Espelho-Provencal.jpg"><img class="alignnone size-full wp-image-6254" title="Espelho Provençal" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Espelho-Provencal.jpg" alt="" width="453" height="356" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/Espelho-Provencal.jpg"><img class="alignnone size-full wp-image-6254" title="Espelho Provençal" src="https://www.trololodemulher.com.br/2011/04/Espelho-Provencal.jpg" alt="" width="453" height="356" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/" target="_blank">Espelho Provençal</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/" target="_blank" rel="noopener noreferrer">Espelho Provençal</a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -98,7 +95,7 @@ Você tem um ambiente em casa, a exemplo do quarto ou sala, com um espaço de **
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-parede3.jpg"><img class="alignnone size-full wp-image-6448" title="decoração de parede[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-parede3.jpg" alt="" width="550" height="733" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/decoracao-de-parede3.jpg"><img class="alignnone size-full wp-image-6448" title="decoração de parede[3]" src="https://www.trololodemulher.com.br/2011/05/decoracao-de-parede3.jpg" alt="" width="550" height="733" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -114,7 +111,7 @@ Você tem um ambiente em casa, a exemplo do quarto ou sala, com um espaço de **
 </p>
 
 <p style="text-align: justify;">
-  Imagens: <strong><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></strong>
+  Imagens: <strong><a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a></strong>
 </p>
 
 **Mais no Bicha Fêmea…**

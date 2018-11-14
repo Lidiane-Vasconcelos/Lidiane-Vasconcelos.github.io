@@ -1,10 +1,7 @@
 ---
-id: 3859
 title: Mudanças por aqui, mas com propósito.
-date: 2018-04-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2018/04/15/proposito/
 permalink: /2018/04/15/proposito/
 categories:
   - Bem-estar
@@ -56,7 +53,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14600" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/04/TROLOLODEMULHER-BLOG11.jpg" alt="TROLOLODEMULHER-BLOG[11]" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14600" src="https://www.trololodemulher.com.br/2018/04/TROLOLODEMULHER-BLOG11.jpg" alt="TROLOLODEMULHER-BLOG[11]" width="800" height="800" />
 </p>
 
 <p align="justify">
@@ -80,23 +77,23 @@ categories:
 </p>
 
 <p align="justify">
-  1 – Se você sente que sua casa está fora de controle, se experimenta o sentimento de sobrecarga, cansaço e estresse, e gostaria que seu lar estivesse em ordem e limpo, mas com menos esforço para dar conta dessas demandas, te apresento o <strong>Projeto Lar Bonito Lar</strong>:  meu programa via WhatsApp que te orienta quanto às <strong>melhores práticas na gestão da rotina doméstica</strong>, numa caminhada de 7 semanas onde estaremos juntas numa consultoria em grupo, numa turma vip de no máximo 15 mulheres. As inscrições para a turma de Maio já estão abertas. <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank"><strong>Clique aqui para mais informações sobre o projeto</strong></a>, ou entre em contato comigo via <strong>WhatsApp 81 9 9530-7307 – </strong>pois terei o maior prazer em falar com você, e tirar todas as dúvidas.
+  1 – Se você sente que sua casa está fora de controle, se experimenta o sentimento de sobrecarga, cansaço e estresse, e gostaria que seu lar estivesse em ordem e limpo, mas com menos esforço para dar conta dessas demandas, te apresento o <strong>Projeto Lar Bonito Lar</strong>:  meu programa via WhatsApp que te orienta quanto às <strong>melhores práticas na gestão da rotina doméstica</strong>, numa caminhada de 7 semanas onde estaremos juntas numa consultoria em grupo, numa turma vip de no máximo 15 mulheres. As inscrições para a turma de Maio já estão abertas. <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank" rel="noopener noreferrer"><strong>Clique aqui para mais informações sobre o projeto</strong></a>, ou entre em contato comigo via <strong>WhatsApp 81 9 9530-7307 – </strong>pois terei o maior prazer em falar com você, e tirar todas as dúvidas.
 </p>
 
 <p align="justify">
-  2 – Continuarei com <strong>um post semanal aqui no Trololó de Mulher</strong>, e se quiser ter certeza de que lerá todos, você poderá receber as notificações deles por email. <a href="https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><strong>Assine aqui e receba</strong></a>. É grátis!
+  2 – Continuarei com <strong>um post semanal aqui no Trololó de Mulher</strong>, e se quiser ter certeza de que lerá todos, você poderá receber as notificações deles por email. <a href="https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><strong>Assine aqui e receba</strong></a>. É grátis!
 </p>
 
 <p align="justify">
-  3 – Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de <strong>gestão do tempo, organização pessoal, produtividade, vida simples e bem viver</strong>. Para isso, preciso que você entre na minha lista de relacionamento. <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank"><strong>Avise que quer, neste post</strong></a>. É grátis!
+  3 – Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de <strong>gestão do tempo, organização pessoal, produtividade, vida simples e bem viver</strong>. Para isso, preciso que você entre na minha lista de relacionamento. <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank" rel="noopener noreferrer"><strong>Avise que quer, neste post</strong></a>. É grátis!
 </p>
 
 <p align="justify">
-  4 – Alinhada com este meu novo momento, <strong>desenvolvi um guia com práticas de bem viver</strong>, para que você traga mais qualidade de vida, na prática, para o seu cotidiano. Você deseja recebê-lo? Esse conteúdo foi produzido com muito carinho, e é grátis! <strong><a href="http://www.trololodemulher.com.br/2018/03/09/bem-viver/" target="_blank">Diga que quer, neste post</a></strong>.
+  4 – Alinhada com este meu novo momento, <strong>desenvolvi um guia com práticas de bem viver</strong>, para que você traga mais qualidade de vida, na prática, para o seu cotidiano. Você deseja recebê-lo? Esse conteúdo foi produzido com muito carinho, e é grátis! <strong><a href="http://www.trololodemulher.com.br/2018/03/09/bem-viver/" target="_blank" rel="noopener noreferrer">Diga que quer, neste post</a></strong>.
 </p>
 
 <p align="justify">
-  5 &#8211; Se não estamos conectadas ainda no <a href="https://www.facebook.com/TrololoMulher/" target="_blank"><strong>Facebook, vem cá!</strong></a> Eu também estou no <a href="https://www.instagram.com/trololodemulher/" target="_blank"><strong>Instagram. Vem, também!</strong></a>
+  5 &#8211; Se não estamos conectadas ainda no <a href="https://www.facebook.com/TrololoMulher/" target="_blank" rel="noopener noreferrer"><strong>Facebook, vem cá!</strong></a> Eu também estou no <a href="https://www.instagram.com/trololodemulher/" target="_blank" rel="noopener noreferrer"><strong>Instagram. Vem, também!</strong></a>
 </p>
 
 <p align="justify">
@@ -112,9 +109,9 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/"><img class="wp-image-14554 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/02/PROJETO-LAR-BONITO-LAR-RODAPÉ2.jpg" alt="PROJETO LAR BONITO LAR-RODAPÉ[2]" width="565" height="149" /></a>
+  <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/"><img class="wp-image-14554 size-full" src="https://www.trololodemulher.com.br/2018/02/PROJETO-LAR-BONITO-LAR-RODAPÉ2.jpg" alt="PROJETO LAR BONITO LAR-RODAPÉ[2]" width="565" height="149" /></a>
 </p>

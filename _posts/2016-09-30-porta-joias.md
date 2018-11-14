@@ -1,10 +1,7 @@
 ---
-id: 3678
 title: Sorteio simples de 2 porta-jóias porsonalizados.
-date: 2016-09-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/09/30/porta-joias/
 permalink: /2016/09/30/porta-joias/
 categories:
   - Promoção
@@ -15,11 +12,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13029" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/ARTESANATO-ARTESANATO-MDF-PORTA-JOIAS-ARTESANAL-PORTA-JOIAS-MDF800.jpg" alt="artesanato-artesanato-mdf-porta-joias-artesanal-porta-joias-mdf800" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13029" src="https://www.trololodemulher.com.br/2016/09/ARTESANATO-ARTESANATO-MDF-PORTA-JOIAS-ARTESANAL-PORTA-JOIAS-MDF800.jpg" alt="artesanato-artesanato-mdf-porta-joias-artesanal-porta-joias-mdf800" width="800" height="800" />
 </p>
 
 <p align="justify">
-  Essa é uma caixa porta-jóias exclusiva, porque pode ser personalizada com o seu nome. Essa é apenas mais uma das delicadezas da <strong>Boutique Ateline</strong>, uma <strong>loja especializada em artigos de decoração artesanais, feitos em MDF</strong>. Fique á vontade para <strong>dar uma espiadinha nos produtos</strong>, <a href="http://www.elo7.com.br/boutiqueateline/loja" target="_blank">clicando bem aqui</a>.
+  Essa é uma caixa porta-jóias exclusiva, porque pode ser personalizada com o seu nome. Essa é apenas mais uma das delicadezas da <strong>Boutique Ateline</strong>, uma <strong>loja especializada em artigos de decoração artesanais, feitos em MDF</strong>. Fique á vontade para <strong>dar uma espiadinha nos produtos</strong>, <a href="http://www.elo7.com.br/boutiqueateline/loja" target="_blank" rel="noopener noreferrer">clicando bem aqui</a>.
 </p>
 
 <p align="justify">
@@ -37,7 +34,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  1 – <a href="https://www.facebook.com/TrololoMulher/photos/a.301419516712695.1073741828.252977281556919/587490101438967/?type=3&theater" target="_blank"><strong>Clique aqui e, no post do sorteio no Facebook</strong></a>, marque a amiga que você irá presentear com um porta-jóias.
+  1 – <a href="https://www.facebook.com/TrololoMulher/photos/a.301419516712695.1073741828.252977281556919/587490101438967/?type=3&theater" target="_blank" rel="noopener noreferrer"><strong>Clique aqui e, no post do sorteio no Facebook</strong></a>, marque a amiga que você irá presentear com um porta-jóias.
 </p>
 
 <p style="text-align: justify;">
@@ -45,7 +42,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="https://www.instagram.com/trololodemulher/" target="_blank"><strong>Visite o Instagram do blog</strong></a> e, <strong>na foto oficial do sorteio</strong>, <strong>marque a amiga que você quer presentear</strong>.
+  <a href="https://www.instagram.com/trololodemulher/" target="_blank" rel="noopener noreferrer"><strong>Visite o Instagram do blog</strong></a> e, <strong>na foto oficial do sorteio</strong>, <strong>marque a amiga que você quer presentear</strong>.
 </p>
 
 <p style="text-align: justify;">
@@ -53,7 +50,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  *O objetivo é que você, leitora do blog que vive de amores pelo nosso conteúdo e <strong>aprecia o</strong> <strong>Trololó de Mulher</strong>, apresente este espaço para sua amiga também. Vocês duas, neste momento, também estão tendo a oportunidade de conhecer a <strong><a href="http://www.elo7.com.br/boutiqueateline/loja" target="_blank">Boutique Ateline</a> através do blog</strong>. Não é bacana? Isso tudo é preparado para você, com muito carinho, viu?
+  *O objetivo é que você, leitora do blog que vive de amores pelo nosso conteúdo e <strong>aprecia o</strong> <strong>Trololó de Mulher</strong>, apresente este espaço para sua amiga também. Vocês duas, neste momento, também estão tendo a oportunidade de conhecer a <strong><a href="http://www.elo7.com.br/boutiqueateline/loja" target="_blank" rel="noopener noreferrer">Boutique Ateline</a> através do blog</strong>. Não é bacana? Isso tudo é preparado para você, com muito carinho, viu?
 </p>
 
 &nbsp;
@@ -105,7 +102,7 @@ Boa sorte!
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13080" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/Resultado.jpg" alt="resultado" width="800" height="318" />
+  <img class="alignnone size-full wp-image-13080" src="https://www.trololodemulher.com.br/2016/10/Resultado.jpg" alt="resultado" width="800" height="318" />
 </p>
 
 <p align="justify">
@@ -121,5 +118,5 @@ Boa sorte!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

@@ -1,10 +1,7 @@
 ---
-id: 3563
 title: 'Quarto infantil: retire 5 itens fora de uso… agora!'
-date: 2016-03-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/03/15/quarto-infanti/
 permalink: /2016/03/15/quarto-infanti/
 categories:
   - Organização
@@ -19,11 +16,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12370" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/ORGANIZAÇÃO-QUARTO-INFANTIL-ROTINA-DOMESTICA2.jpg" alt="ORGANIZAÇÃO-QUARTO INFANTIL-ROTINA DOMESTICA[2]" width="800" height="1069" />
+  <img class="alignnone size-full wp-image-12370" src="https://www.trololodemulher.com.br/2016/04/ORGANIZAÇÃO-QUARTO-INFANTIL-ROTINA-DOMESTICA2.jpg" alt="ORGANIZAÇÃO-QUARTO INFANTIL-ROTINA DOMESTICA[2]" width="800" height="1069" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/8113246@N02/4348488461/" target="_blank">dog.happy.art</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC BY-NC</a><b></b>
+  Imagem: <a href="https://www.flickr.com/photos/8113246@N02/4348488461/" target="_blank" rel="noopener noreferrer">dog.happy.art</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC</a><b></b>
 </p>
 
 <p align="justify">
@@ -63,7 +60,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/03/decoracao-infantil/" target="_blank"><strong>3 ideias para organizar os livros infantis e facilitar o acesso.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/03/decoracao-infantil/" target="_blank" rel="noopener noreferrer"><strong>3 ideias para organizar os livros infantis e facilitar o acesso.</strong></a>
 </p>
 
 <p align="justify">
@@ -79,11 +76,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/07/25/organizacao-quarto-infantil/" target="_blank"><strong>Quando a organização favorece a decoração do quarto infantil.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/25/organizacao-quarto-infantil/" target="_blank" rel="noopener noreferrer"><strong>Quando a organização favorece a decoração do quarto infantil.</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

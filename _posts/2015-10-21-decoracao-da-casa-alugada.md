@@ -1,10 +1,7 @@
 ---
-id: 3500
 title: 'Decoração da casa alugada: ideias temporárias'
-date: 2015-10-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/10/21/decoracao-da-casa-alugada/
 permalink: /2015/10/21/decoracao-da-casa-alugada/
 categories:
   - Dicas de Decoração
@@ -18,11 +15,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO.jpeg"><img class="alignnone size-full wp-image-11584" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO.jpeg" alt="DECORACAO-CASA ALUGADA-APARTAMENTO ALUGADO" width="777" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO.jpeg"><img class="alignnone size-full wp-image-11584" src="https://www.trololodemulher.com.br/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO.jpeg" alt="DECORACAO-CASA ALUGADA-APARTAMENTO ALUGADO" width="777" height="800" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
+  Via <a href="http://casa.abril.com.br/" target="_blank" rel="noopener noreferrer">Casa Abril</a>
 </p>
 
 <p align="justify">
@@ -34,15 +31,15 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO2.jpeg"><img class="alignnone size-full wp-image-11585" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO2.jpeg" alt="DECORACAO-CASA ALUGADA-APARTAMENTO ALUGADO[2]" width="736" height="736" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO2.jpeg"><img class="alignnone size-full wp-image-11585" src="https://www.trololodemulher.com.br/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO2.jpeg" alt="DECORACAO-CASA ALUGADA-APARTAMENTO ALUGADO[2]" width="736" height="736" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://www.blancheporte.fr/" target="_blank">Blancheporte</a>
+  Via <a href="http://www.blancheporte.fr/" target="_blank" rel="noopener noreferrer">Blancheporte</a>
 </p>
 
 <p align="justify">
-  Toda casa precisa se vestir, e isso se faz com cortinas! <a href="http://www.decoracaodacasa.com/cortinas-como-escolher/" target="_blank">Escolha cortinas</a> lindas de viver e vista o seu lar. Quando partir, tire-as e leve com você. Simples assim.
+  Toda casa precisa se vestir, e isso se faz com cortinas! <a href="http://www.decoracaodacasa.com/cortinas-como-escolher/" target="_blank" rel="noopener noreferrer">Escolha cortinas</a> lindas de viver e vista o seu lar. Quando partir, tire-as e leve com você. Simples assim.
 </p>
 
 <p align="justify">
@@ -50,11 +47,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO3.jpeg"><img class="alignnone size-full wp-image-11586" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO3.jpeg" alt="DECORACAO-CASA ALUGADA-APARTAMENTO ALUGADO[3]" width="598" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO3.jpeg"><img class="alignnone size-full wp-image-11586" src="https://www.trololodemulher.com.br/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO3.jpeg" alt="DECORACAO-CASA ALUGADA-APARTAMENTO ALUGADO[3]" width="598" height="800" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://medodapressa.com.br/casa-de-pinterest-5/" target="_blank">Medo da Pressa</a>
+  Via <a href="http://medodapressa.com.br/casa-de-pinterest-5/" target="_blank" rel="noopener noreferrer">Medo da Pressa</a>
 </p>
 
 <p align="justify">
@@ -66,11 +63,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO4.jpeg"><img class="alignnone size-full wp-image-11587" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO4.jpeg" alt="DECORACAO-CASA ALUGADA-APARTAMENTO ALUGADO[4]" width="508" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO4.jpeg"><img class="alignnone size-full wp-image-11587" src="https://www.trololodemulher.com.br/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO4.jpeg" alt="DECORACAO-CASA ALUGADA-APARTAMENTO ALUGADO[4]" width="508" height="800" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
+  Via <a href="http://casa.abril.com.br/" target="_blank" rel="noopener noreferrer">Casa Abril</a>
 </p>
 
 <p align="justify">
@@ -82,11 +79,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO5.jpeg"><img class="alignnone size-full wp-image-11588" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO5.jpeg" alt="DECORACAO-CASA ALUGADA-APARTAMENTO ALUGADO[5]" width="533" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO5.jpeg"><img class="alignnone size-full wp-image-11588" src="https://www.trololodemulher.com.br/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO5.jpeg" alt="DECORACAO-CASA ALUGADA-APARTAMENTO ALUGADO[5]" width="533" height="800" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://www.liraby.com/" target="_blank">Liraby</a>
+  Via <a href="http://www.liraby.com/" target="_blank" rel="noopener noreferrer">Liraby</a>
 </p>
 
 <p align="justify">
@@ -98,11 +95,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/primavera-na-decoracao/" target="_blank"><strong>Primavera na decoração: 10 truques simples.</strong></a>
+  <a href="http://www.decoracaodacasa.com/primavera-na-decoracao/" target="_blank" rel="noopener noreferrer"><strong>Primavera na decoração: 10 truques simples.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-cozinha/" target="_blank"><strong>Download grátis: decora a cozinha com quadro de frutas.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-cozinha/" target="_blank" rel="noopener noreferrer"><strong>Download grátis: decora a cozinha com quadro de frutas.</strong></a>
 </p>
 
 <p align="justify">
@@ -110,19 +107,19 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO6.jpeg"><img class="alignnone size-full wp-image-11591" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO6.jpeg" alt="DECORACAO-CASA ALUGADA-APARTAMENTO ALUGADO[6]" width="730" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO6.jpeg"><img class="alignnone size-full wp-image-11591" src="https://www.trololodemulher.com.br/2015/10/DECORACAO-CASA-ALUGADA-APARTAMENTO-ALUGADO6.jpeg" alt="DECORACAO-CASA ALUGADA-APARTAMENTO ALUGADO[6]" width="730" height="800" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
+  Via <a href="http://casa.abril.com.br/" target="_blank" rel="noopener noreferrer">Casa Abril</a>
 </p>
 
 <p align="justify">
-  Em geral quando você aluga uma casa ela vem toda pintadinha de branco, certo? E você deve entregar o imóvel da mesma forma. Se você não quer fazer o investimento na pintura de paredes, para depois ter que refazer tudo, uma boa saída é investir em <em>pitadinhas</em> de cores. Numa loja de decoração você pode encontrar tudo o que precisa: <a href="http://www.trololodemulher.com.br/2013/08/02/sofa-almofada-sala-estar/" target="_blank">almofadas coloridas para decorar um sofá neutro</a>, ornamentos, <em>puffs</em> e demais objetos. O bom disso tudo é que quando mudar, você também levará o que comprou com você para fazer graça no próximo porto seguro. Fica a dica e a inspiração.
+  Em geral quando você aluga uma casa ela vem toda pintadinha de branco, certo? E você deve entregar o imóvel da mesma forma. Se você não quer fazer o investimento na pintura de paredes, para depois ter que refazer tudo, uma boa saída é investir em <em>pitadinhas</em> de cores. Numa loja de decoração você pode encontrar tudo o que precisa: <a href="http://www.trololodemulher.com.br/2013/08/02/sofa-almofada-sala-estar/" target="_blank" rel="noopener noreferrer">almofadas coloridas para decorar um sofá neutro</a>, ornamentos, <em>puffs</em> e demais objetos. O bom disso tudo é que quando mudar, você também levará o que comprou com você para fazer graça no próximo porto seguro. Fica a dica e a inspiração.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

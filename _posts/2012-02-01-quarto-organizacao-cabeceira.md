@@ -1,10 +1,7 @@
 ---
-id: 3110
 title: 'Quarto: ideias de organização para a cabeceira da cama.'
-date: 2012-02-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/02/01/quarto-organizacao-cabeceira/
 permalink: /2012/02/01/quarto-organizacao-cabeceira/
 categories:
   - Organização
@@ -15,13 +12,13 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Este post é justamente para te mostrar ideias legais, que inspiram a aplicação dessas soluções em sua casa aí, bem real. As referências são todas do site <strong><em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em></strong>, e uma delas pode servir exatamente para suas necessidades. Será? Confere!
+  Este post é justamente para te mostrar ideias legais, que inspiram a aplicação dessas soluções em sua casa aí, bem real. As referências são todas do site <strong><em><a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a></em></strong>, e uma delas pode servir exatamente para suas necessidades. Será? Confere!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/QUARTO-ORGANIZACAO-CABECEIRA.jpg"><img class="alignnone size-full wp-image-8495" title="QUARTO ORGANIZACAO CABECEIRA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/QUARTO-ORGANIZACAO-CABECEIRA.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/QUARTO-ORGANIZACAO-CABECEIRA.jpg"><img class="alignnone size-full wp-image-8495" title="QUARTO ORGANIZACAO CABECEIRA" src="https://www.trololodemulher.com.br/2012/01/QUARTO-ORGANIZACAO-CABECEIRA.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 &nbsp;
@@ -33,7 +30,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/QUARTO-ORGANIZACAO-CABECEIRA2.jpg"><img class="alignnone size-full wp-image-8496" title="QUARTO ORGANIZACAO CABECEIRA[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/QUARTO-ORGANIZACAO-CABECEIRA2.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/QUARTO-ORGANIZACAO-CABECEIRA2.jpg"><img class="alignnone size-full wp-image-8496" title="QUARTO ORGANIZACAO CABECEIRA[2]" src="https://www.trololodemulher.com.br/2012/01/QUARTO-ORGANIZACAO-CABECEIRA2.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 &nbsp;
@@ -45,7 +42,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/QUARTO-ORGANIZACAO-CABECEIRA3.jpg"><img class="alignnone size-full wp-image-8497" title="QUARTO ORGANIZACAO CABECEIRA[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/QUARTO-ORGANIZACAO-CABECEIRA3.jpg" alt="" width="550" height="458" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/QUARTO-ORGANIZACAO-CABECEIRA3.jpg"><img class="alignnone size-full wp-image-8497" title="QUARTO ORGANIZACAO CABECEIRA[3]" src="https://www.trololodemulher.com.br/2012/01/QUARTO-ORGANIZACAO-CABECEIRA3.jpg" alt="" width="550" height="458" /></a>
 </p>
 
 &nbsp;
@@ -57,5 +54,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

@@ -1,10 +1,7 @@
 ---
-id: 3472
 title: Como decorar a sala gastando pouco?
-date: 2015-08-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/08/27/decorar-a-sala/
 permalink: /2015/08/27/decorar-a-sala/
 categories:
   - Publieditorial
@@ -39,7 +36,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-SALA-DECORAR-A-SALA.jpeg"><img class="alignnone size-full wp-image-11360" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-SALA-DECORAR-A-SALA.jpeg" alt="DECORACAO-SALA-DECORAR A SALA" width="449" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/DECORACAO-SALA-DECORAR-A-SALA.jpeg"><img class="alignnone size-full wp-image-11360" src="https://www.trololodemulher.com.br/2015/08/DECORACAO-SALA-DECORAR-A-SALA.jpeg" alt="DECORACAO-SALA-DECORAR A SALA" width="449" height="550" /></a>
 </p>
 
 <p align="justify">
@@ -59,7 +56,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-SALA-DECORAR-A-SALA2.jpeg"><img class="alignnone size-full wp-image-11361" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/DECORACAO-SALA-DECORAR-A-SALA2.jpeg" alt="DECORACAO-SALA-DECORAR A SALA[2]" width="574" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/DECORACAO-SALA-DECORAR-A-SALA2.jpeg"><img class="alignnone size-full wp-image-11361" src="https://www.trololodemulher.com.br/2015/08/DECORACAO-SALA-DECORAR-A-SALA2.jpeg" alt="DECORACAO-SALA-DECORAR A SALA[2]" width="574" height="800" /></a>
 </p>
 
 <p align="justify">
@@ -67,15 +64,15 @@ categories:
 </p>
 
 <p align="justify">
-  Agora que sabe que a criatividade, imaginação e o bom gosto são mais importantes na decoração da sua sala do que o dinheiro, procure por <a href="https://siteimovel.com/alugar/ce/fortaleza/cat-casas" target="_blank">casas para alugar em Fortaleza</a> e transforme o ambiente de sua casa. Não se esqueça que o ambiente do lar reflete muitas vezes não só o seu estado de espirito como a sua personalidade e, por esse motivo, faça a diferença no que se refere à modernidade e ao estilo da sua sala.
+  Agora que sabe que a criatividade, imaginação e o bom gosto são mais importantes na decoração da sua sala do que o dinheiro, procure por <a href="https://siteimovel.com/alugar/ce/fortaleza/cat-casas" target="_blank" rel="noopener noreferrer">casas para alugar em Fortaleza</a> e transforme o ambiente de sua casa. Não se esqueça que o ambiente do lar reflete muitas vezes não só o seu estado de espirito como a sua personalidade e, por esse motivo, faça a diferença no que se refere à modernidade e ao estilo da sua sala.
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
+  Imagens: <a href="http://casa.abril.com.br/" target="_blank" rel="noopener noreferrer">Casa Abril</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

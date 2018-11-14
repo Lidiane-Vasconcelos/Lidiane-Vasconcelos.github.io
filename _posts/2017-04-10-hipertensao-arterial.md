@@ -1,10 +1,7 @@
 ---
-id: 3747
 title: 'Hipertensão arterial: tudo que você precisa saber.'
-date: 2017-04-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/04/10/hipertensao-arterial/
 permalink: /2017/04/10/hipertensao-arterial/
 categories:
   - Saúde
@@ -14,11 +11,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13678" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/SAUDE-HIPERTENSAO-HIPERTENSAO-ARTERIAL-PRESSAO-ALTA.png" alt="SAUDE-HIPERTENSAO-HIPERTENSAO ARTERIAL-PRESSAO ALTA" width="800" height="533" />
+  <img class="alignnone size-full wp-image-13678" src="https://www.trololodemulher.com.br/2017/04/SAUDE-HIPERTENSAO-HIPERTENSAO-ARTERIAL-PRESSAO-ALTA.png" alt="SAUDE-HIPERTENSAO-HIPERTENSAO ARTERIAL-PRESSAO ALTA" width="800" height="533" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://foter.com/re/61a764" target="_blank">Foter.com</a>
+  Imagem: <a href="http://foter.com/re/61a764" target="_blank" rel="noopener noreferrer">Foter.com</a>
 </p>
 
 <p align="justify">
@@ -174,15 +171,15 @@ _> Estresse_”
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13677" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/CARDIOLOGISTA-SAO-CAETANO-DO-SUL-GRANDE-ABC-ABC-PAULISTA-DRA-GISELE-DE-BRITO-AZZI-SP.jpg" alt="CARDIOLOGISTA-SAO CAETANO DO SUL-GRANDE ABC-ABC PAULISTA-DRA GISELE DE BRITO AZZI-SP" width="800" height="161" />
+  <img class="alignnone size-full wp-image-13677" src="https://www.trololodemulher.com.br/2017/04/CARDIOLOGISTA-SAO-CAETANO-DO-SUL-GRANDE-ABC-ABC-PAULISTA-DRA-GISELE-DE-BRITO-AZZI-SP.jpg" alt="CARDIOLOGISTA-SAO CAETANO DO SUL-GRANDE ABC-ABC PAULISTA-DRA GISELE DE BRITO AZZI-SP" width="800" height="161" />
 </p>
 
 <p align="justify">
-  A clínica da Dra. Gisele fica no Espaço Cerâmica, em São Caetano do Sul, na região do grande ABC. O endereço é NETWORK BUSINESS TOWER – PARK TOWER, Alameda Terracota, 185 – Conjunto 1530, São Caetano do Sul – Grande ABC – SP, ao lado do PARK SHOPPING SÃO CAETANO , telefone (011) 4224-2000 / (011) 9-3004-2000 whatsapp. <a href="http://cardiologistaabc.com.br/" target="_blank">Clique aqui e visite o site da Dra. Gisele</a> para mais informações sobre seu trabalho, convênios que atende, depoimentos de pacientes, etc. A médica mantém o <a href="http://cardiologistaabc.com.br/index.php/cardio-blog/" target="_blank">Cardio Blog</a>, com informações relevantes e importantes para quem deseja manter a saúde em dia. <a href="https://www.facebook.com/ClinicaAzzi/" target="_blank">Clique aqui e curta a fanpage da Clínica Azzi no Facebook</a>.
+  A clínica da Dra. Gisele fica no Espaço Cerâmica, em São Caetano do Sul, na região do grande ABC. O endereço é NETWORK BUSINESS TOWER – PARK TOWER, Alameda Terracota, 185 – Conjunto 1530, São Caetano do Sul – Grande ABC – SP, ao lado do PARK SHOPPING SÃO CAETANO , telefone (011) 4224-2000 / (011) 9-3004-2000 whatsapp. <a href="http://cardiologistaabc.com.br/" target="_blank" rel="noopener noreferrer">Clique aqui e visite o site da Dra. Gisele</a> para mais informações sobre seu trabalho, convênios que atende, depoimentos de pacientes, etc. A médica mantém o <a href="http://cardiologistaabc.com.br/index.php/cardio-blog/" target="_blank" rel="noopener noreferrer">Cardio Blog</a>, com informações relevantes e importantes para quem deseja manter a saúde em dia. <a href="https://www.facebook.com/ClinicaAzzi/" target="_blank" rel="noopener noreferrer">Clique aqui e curta a fanpage da Clínica Azzi no Facebook</a>.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

@@ -1,10 +1,7 @@
 ---
-id: 3575
 title: 'Decoração com composições: veja 13 dicas e faça a sua!'
-date: 2016-04-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/04/01/decoracao-com-composicoes/
 permalink: /2016/04/01/decoracao-com-composicoes/
 categories:
   - Dicas de Decoração
@@ -18,15 +15,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12218" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COMPOSICAO-QUADROS.jpg" alt="DECORACAO-COMPOSICAO-QUADROS" width="541" height="722" />
+  <img class="alignnone size-full wp-image-12218" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COMPOSICAO-QUADROS.jpg" alt="DECORACAO-COMPOSICAO-QUADROS" width="541" height="722" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagem: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
-  Tem um corte de tecido que você ama e acha tudo de lindo? Encomende a um marceneiro armações de madeira com tamanhos diferentes, faça o recorte do tecido para cobrir cada uma dessas armações com sobra para grampear na moldura de madeira. Depois disso, você precisará de um grampeador apropriado para fixar o tecido na moldura, e talvez seja o caso de levar para um tapeceiro. Estude como fará sua composição na parede e, para isso, veja nesse post sobre <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank">como decorar a parede com quadros</a> tudo o que você precisa saber para isso, e capriche na sua decoração. A simplicidade da ideia não resulta em algo bonito de viver?
+  Tem um corte de tecido que você ama e acha tudo de lindo? Encomende a um marceneiro armações de madeira com tamanhos diferentes, faça o recorte do tecido para cobrir cada uma dessas armações com sobra para grampear na moldura de madeira. Depois disso, você precisará de um grampeador apropriado para fixar o tecido na moldura, e talvez seja o caso de levar para um tapeceiro. Estude como fará sua composição na parede e, para isso, veja nesse post sobre <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank" rel="noopener noreferrer">como decorar a parede com quadros</a> tudo o que você precisa saber para isso, e capriche na sua decoração. A simplicidade da ideia não resulta em algo bonito de viver?
 </p>
 
 <p align="justify">
@@ -34,15 +31,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-tecido-como-fazer/" target="_blank"><strong>Decoração: cortes de tecidos nas mãos e 4 ideias na cabeça!</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-tecido-como-fazer/" target="_blank" rel="noopener noreferrer"><strong>Decoração: cortes de tecidos nas mãos e 4 ideias na cabeça!</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12224" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COMPOSICAO-VASOS-PLANTAS.jpg" alt="DECORACAO-COMPOSICAO-VASOS-PLANTAS" width="533" height="800" />
+  <img class="alignnone size-full wp-image-12224" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COMPOSICAO-VASOS-PLANTAS.jpg" alt="DECORACAO-COMPOSICAO-VASOS-PLANTAS" width="533" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.abeautifulmess.com/" target="_blank">A Beautiful Mess</a>
+  Imagem: <a href="http://www.abeautifulmess.com/" target="_blank" rel="noopener noreferrer">A Beautiful Mess</a>
 </p>
 
 <p align="justify">
@@ -50,11 +47,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12217" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COMPOSICAO-PRATELEIRAS.jpg" alt="DECORACAO-COMPOSICAO-PRATELEIRAS" width="540" height="766" />
+  <img class="alignnone size-full wp-image-12217" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COMPOSICAO-PRATELEIRAS.jpg" alt="DECORACAO-COMPOSICAO-PRATELEIRAS" width="540" height="766" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bellemaison23.com/" target="_blank">Belle Maison</a>
+  Imagem: <a href="http://www.bellemaison23.com/" target="_blank" rel="noopener noreferrer">Belle Maison</a>
 </p>
 
 <p align="justify">
@@ -62,11 +59,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12211" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COMPOSICAO-ESPELHOS.jpg" alt="DECORACAO-COMPOSICAO-ESPELHOS" width="550" height="733" />
+  <img class="alignnone size-full wp-image-12211" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COMPOSICAO-ESPELHOS.jpg" alt="DECORACAO-COMPOSICAO-ESPELHOS" width="550" height="733" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagem: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -74,11 +71,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12219" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COMPOSICAO-QUADROS2.jpg" alt="DECORACAO-COMPOSICAO-QUADROS[2]" width="360" height="480" />
+  <img class="alignnone size-full wp-image-12219" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COMPOSICAO-QUADROS2.jpg" alt="DECORACAO-COMPOSICAO-QUADROS[2]" width="360" height="480" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagem: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -86,11 +83,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12220" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COMPOSICAO-QUADROS3.jpg" alt="DECORACAO-COMPOSICAO-QUADROS[3]" width="550" height="733" />
+  <img class="alignnone size-full wp-image-12220" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COMPOSICAO-QUADROS3.jpg" alt="DECORACAO-COMPOSICAO-QUADROS[3]" width="550" height="733" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagem: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -98,11 +95,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12221" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COMPOSICAO-QUADROS4.jpg" alt="DECORACAO-COMPOSICAO-QUADROS[4]" width="550" height="733" />
+  <img class="alignnone size-full wp-image-12221" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COMPOSICAO-QUADROS4.jpg" alt="DECORACAO-COMPOSICAO-QUADROS[4]" width="550" height="733" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagem: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -110,11 +107,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12212" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COMPOSICAO-ESPELHOS3.jpg" alt="DECORACAO-COMPOSICAO-ESPELHOS[3]" width="550" height="733" />
+  <img class="alignnone size-full wp-image-12212" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COMPOSICAO-ESPELHOS3.jpg" alt="DECORACAO-COMPOSICAO-ESPELHOS[3]" width="550" height="733" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagem: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -122,11 +119,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12210" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COMPOSICAO-ENFEITES.jpg" alt="DECORACAO-COMPOSICAO-ENFEITES" width="550" height="733" />
+  <img class="alignnone size-full wp-image-12210" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COMPOSICAO-ENFEITES.jpg" alt="DECORACAO-COMPOSICAO-ENFEITES" width="550" height="733" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagem: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -134,11 +131,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12213" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COMPOSICAO-ESPELHOS4.jpg" alt="DECORACAO-COMPOSICAO-ESPELHOS[4]" width="450" height="600" />
+  <img class="alignnone size-full wp-image-12213" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COMPOSICAO-ESPELHOS4.jpg" alt="DECORACAO-COMPOSICAO-ESPELHOS[4]" width="450" height="600" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagem: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -146,11 +143,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12214" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COMPOSICAO-FOTOS.jpg" alt="DECORACAO-COMPOSICAO-FOTOS" width="400" height="600" />
+  <img class="alignnone size-full wp-image-12214" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COMPOSICAO-FOTOS.jpg" alt="DECORACAO-COMPOSICAO-FOTOS" width="400" height="600" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.homedit.com/" target="_blank">Homedit</a>
+  Imagem: <a href="http://www.homedit.com/" target="_blank" rel="noopener noreferrer">Homedit</a>
 </p>
 
 <p align="justify">
@@ -158,11 +155,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12215" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COMPOSICAO-FOTOS2.jpg" alt="DECORACAO-COMPOSICAO-FOTOS[2]" width="360" height="450" />
+  <img class="alignnone size-full wp-image-12215" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COMPOSICAO-FOTOS2.jpg" alt="DECORACAO-COMPOSICAO-FOTOS[2]" width="360" height="450" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.shelterness.com/" target="_blank">Shelterness</a>
+  Imagem: <a href="http://www.shelterness.com/" target="_blank" rel="noopener noreferrer">Shelterness</a>
 </p>
 
 <p align="justify">
@@ -170,11 +167,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12216" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-COMPOSICAO-FOTOS3.jpg" alt="DECORACAO-COMPOSICAO-FOTOS[3]" width="360" height="400" />
+  <img class="alignnone size-full wp-image-12216" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-COMPOSICAO-FOTOS3.jpg" alt="DECORACAO-COMPOSICAO-FOTOS[3]" width="360" height="400" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagem: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -182,7 +179,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

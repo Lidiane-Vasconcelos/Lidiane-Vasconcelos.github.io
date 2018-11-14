@@ -1,10 +1,7 @@
 ---
-id: 3403
 title: 'Alimentação e nutrição: 7 dúvidas respondidas.'
-date: 2015-03-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/03/06/alimentacao-nutricao/
 permalink: /2015/03/06/alimentacao-nutricao/
 categories:
   - Saúde
@@ -18,11 +15,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SAUDE-ALIMENTACAO-NUTRICAO-SAUDAVEL.jpg"><img class="alignnone size-full wp-image-10812" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SAUDE-ALIMENTACAO-NUTRICAO-SAUDAVEL.jpg" alt="SAUDE-ALIMENTACAO-NUTRICAO-SAUDAVEL" width="533" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/SAUDE-ALIMENTACAO-NUTRICAO-SAUDAVEL.jpg"><img class="alignnone size-full wp-image-10812" src="https://www.trololodemulher.com.br/2015/03/SAUDE-ALIMENTACAO-NUTRICAO-SAUDAVEL.jpg" alt="SAUDE-ALIMENTACAO-NUTRICAO-SAUDAVEL" width="533" height="800" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://theeverygirl.com/quick-simple-valentines-night-at-home-two-ways" target="_blank">The Everygirl</a>
+  Imagem: <a href="http://theeverygirl.com/quick-simple-valentines-night-at-home-two-ways" target="_blank" rel="noopener noreferrer">The Everygirl</a>
 </p>
 
 <p align="justify">
@@ -66,11 +63,11 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SAUDE-ALIMENTACAO-NUTRICAO-SAUDAVEL3.jpg"><img class="alignnone size-full wp-image-10813" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SAUDE-ALIMENTACAO-NUTRICAO-SAUDAVEL3.jpg" alt="SONY DSC" width="770" height="512" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/SAUDE-ALIMENTACAO-NUTRICAO-SAUDAVEL3.jpg"><img class="alignnone size-full wp-image-10813" src="https://www.trololodemulher.com.br/2015/03/SAUDE-ALIMENTACAO-NUTRICAO-SAUDAVEL3.jpg" alt="SONY DSC" width="770" height="512" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.dailygourmet.co.uk/berry-parfait/" target="_blank">daily gourmet</a>
+  Imagem: <a href="http://www.dailygourmet.co.uk/berry-parfait/" target="_blank" rel="noopener noreferrer">daily gourmet</a>
 </p>
 
 <p align="justify">
@@ -90,7 +87,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/NUTRICIONISTA-PAMELA-MIGUEL-SAO-PAULO.png"><img class="alignnone size-full wp-image-9797" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/NUTRICIONISTA-PAMELA-MIGUEL-SAO-PAULO.png" alt="NUTRICIONISTA-PAMELA MIGUEL-SAO PAULO" width="518" height="304" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/09/NUTRICIONISTA-PAMELA-MIGUEL-SAO-PAULO.png"><img class="alignnone size-full wp-image-9797" src="https://www.trololodemulher.com.br/2013/09/NUTRICIONISTA-PAMELA-MIGUEL-SAO-PAULO.png" alt="NUTRICIONISTA-PAMELA MIGUEL-SAO PAULO" width="518" height="304" /></a>
 </p>
 
 <p align="justify">
@@ -98,23 +95,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/13/cafe-saude-alimentacao/" target="_blank"><strong>Café x saúde: quando é que ele é mocinho ou vilão?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/13/cafe-saude-alimentacao/" target="_blank" rel="noopener noreferrer"><strong>Café x saúde: quando é que ele é mocinho ou vilão?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank"><strong>Me diz o que comes… e te direi se és saudável ou não.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank" rel="noopener noreferrer"><strong>Me diz o que comes… e te direi se és saudável ou não.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/09/30/vinho-suco-de-uva-saude/" target="_blank"><strong>Vinho e suco de uva oferecem os mesmos benefícios para a saúde?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/30/vinho-suco-de-uva-saude/" target="_blank" rel="noopener noreferrer"><strong>Vinho e suco de uva oferecem os mesmos benefícios para a saúde?</strong></a>
 </p>
 
 <p align="justify">
-  A <strong>Dra. Pâmela Miguel</strong> também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
+  A <strong>Dra. Pâmela Miguel</strong> também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank" rel="noopener noreferrer">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

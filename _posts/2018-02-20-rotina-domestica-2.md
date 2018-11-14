@@ -1,10 +1,7 @@
 ---
-id: 3848
 title: Aprenda as melhores práticas na gestão da rotina doméstica!
-date: 2018-02-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2018/02/20/rotina-domestica-2/
 permalink: /2018/02/20/rotina-domestica-2/
 categories:
   - Bem-estar
@@ -17,7 +14,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14539" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/02/PROJETO-LAR-BONITO-LAR-TROLOLO-DE-MULHER.jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14539" src="https://www.trololodemulher.com.br/2018/02/PROJETO-LAR-BONITO-LAR-TROLOLO-DE-MULHER.jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER" width="800" height="800" />
 </p>
 
 <p align="justify">
@@ -41,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  Entre em contato comigo pelo whatsapp – 81 9 95307307 – para fazer sua inscrição ou tirar dúvidas. <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Clique aqui e saiba todos os detalhes sobre o Projeto Lar Bonito Lar</a>.
+  Entre em contato comigo pelo whatsapp – 81 9 95307307 – para fazer sua inscrição ou tirar dúvidas. <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank" rel="noopener noreferrer">Clique aqui e saiba todos os detalhes sobre o Projeto Lar Bonito Lar</a>.
 </p>
 
 <p align="justify">
@@ -49,7 +46,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="justify">

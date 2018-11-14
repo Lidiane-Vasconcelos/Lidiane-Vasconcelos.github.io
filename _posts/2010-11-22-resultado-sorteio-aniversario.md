@@ -1,10 +1,7 @@
 ---
-id: 2916
 title: Resultado do Super Sorteio de Aniversário do Bicha Fêmea.
-date: 2010-11-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/11/22/resultado-sorteio-aniversario/
 permalink: /2010/11/22/resultado-sorteio-aniversario/
 categories:
   - Promoção
@@ -18,7 +15,7 @@ Nossa! **Hoje é 22 de Novembro de 2010**. **2 anos de Bicha Fêmea**, e eu esto
 <!--more-->
 
 <p style="text-align: justify;">
-  Desde já, preciso dizer o quanto estou grata a <strong>Simone</strong>, a querida da <a href="http://www.espacohome.com.br/" target="_blank">Espaço Home</a>, que tem sido presente por aqui como parceira firme, forte e fiel. Também quero agradecer a <strong>Bia Silvestre</strong>, responsável pela <a href="http://www.infinitaarte.com.br/" target="_blank">Infinita Arte for Baby</a> e por deixar as mulheres ensandecidas pelas <em>belezuras</em> da loja. O <strong>Kleber</strong> é a pessoa da <a href="http://www.oligoflora.com.br/" target="_blank">Oligoflora – Vila Mariana</a> a quem quero agradecer. Esta foi nossa primeira parceria , que veio num momento tão especial como esse. Também fico muito grata a <strong>Cristiane</strong>, da <a href="http://closone.blogspot.com/" target="_blank">Closonê Acessórios</a>, que já é parceira de longa data no <strong>Bicha Fêmea</strong> também. E, finalmente, agradeço a <strong>Fernanda Postai</strong>, a talentosa da <a href="http://fernandapostai.blogspot.com/" target="_blank">Catavento Artes</a>, que mais uma vez esteve conosco fazendo a festa das leitoras.
+  Desde já, preciso dizer o quanto estou grata a <strong>Simone</strong>, a querida da <a href="http://www.espacohome.com.br/" target="_blank" rel="noopener noreferrer">Espaço Home</a>, que tem sido presente por aqui como parceira firme, forte e fiel. Também quero agradecer a <strong>Bia Silvestre</strong>, responsável pela <a href="http://www.infinitaarte.com.br/" target="_blank" rel="noopener noreferrer">Infinita Arte for Baby</a> e por deixar as mulheres ensandecidas pelas <em>belezuras</em> da loja. O <strong>Kleber</strong> é a pessoa da <a href="http://www.oligoflora.com.br/" target="_blank" rel="noopener noreferrer">Oligoflora – Vila Mariana</a> a quem quero agradecer. Esta foi nossa primeira parceria , que veio num momento tão especial como esse. Também fico muito grata a <strong>Cristiane</strong>, da <a href="http://closone.blogspot.com/" target="_blank" rel="noopener noreferrer">Closonê Acessórios</a>, que já é parceira de longa data no <strong>Bicha Fêmea</strong> também. E, finalmente, agradeço a <strong>Fernanda Postai</strong>, a talentosa da <a href="http://fernandapostai.blogspot.com/" target="_blank" rel="noopener noreferrer">Catavento Artes</a>, que mais uma vez esteve conosco fazendo a festa das leitoras.
 </p>
 
 <p style="text-align: justify;">
@@ -41,14 +38,14 @@ Nossa! **Hoje é 22 de Novembro de 2010**. **2 anos de Bicha Fêmea**, e eu esto
   Foram <strong>110 inscrições</strong> para ganhar as <a href="http://www.trololodemulher.com.br/2010/11/01/parceria-espaco-home/">toalhas de lavabo da Espaço Home</a><strong> </strong>, e a ganhadora foi:
 </p>
 
-[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Resultado-Sorteio-Espaco-Home.jpg)
+[](https://www.trololodemulher.com.br/2010/11/Resultado-Sorteio-Espaco-Home.jpg)
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Resultado-Sorteio-Espaco-Home.jpg"></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/Resultado-Sorteio-Espaco-Home.jpg"></a>
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Resultado-Sorteio-Espaco-Homeleve.jpg"><img class="alignnone size-full wp-image-5521" title="Resultado Sorteio Espaço Homeleve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Resultado-Sorteio-Espaco-Homeleve.jpg" alt="" width="577" height="269" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2010/11/Resultado-Sorteio-Espaco-Homeleve.jpg"><img class="alignnone size-full wp-image-5521" title="Resultado Sorteio Espaço Homeleve" src="https://www.trololodemulher.com.br/2010/11/Resultado-Sorteio-Espaco-Homeleve.jpg" alt="" width="577" height="269" /></a></em>
 </p>
 
 <p style="text-align: justify;">
@@ -64,7 +61,7 @@ Nossa! **Hoje é 22 de Novembro de 2010**. **2 anos de Bicha Fêmea**, e eu esto
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Resultado-Sorteio-Infinita-Arte-for-Baby-leve.jpg"><img class="alignnone size-full wp-image-5522" title="Resultado Sorteio Infinita Arte for Baby leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Resultado-Sorteio-Infinita-Arte-for-Baby-leve.jpg" alt="" width="630" height="316" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/Resultado-Sorteio-Infinita-Arte-for-Baby-leve.jpg"><img class="alignnone size-full wp-image-5522" title="Resultado Sorteio Infinita Arte for Baby leve" src="https://www.trololodemulher.com.br/2010/11/Resultado-Sorteio-Infinita-Arte-for-Baby-leve.jpg" alt="" width="630" height="316" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -80,7 +77,7 @@ Nossa! **Hoje é 22 de Novembro de 2010**. **2 anos de Bicha Fêmea**, e eu esto
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Resultado-Sorteio-Massagem-Oligoflora-leve.jpg"><img class="alignnone size-full wp-image-5523" title="Resultado Sorteio Massagem Oligoflora leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Resultado-Sorteio-Massagem-Oligoflora-leve.jpg" alt="" width="608" height="291" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/Resultado-Sorteio-Massagem-Oligoflora-leve.jpg"><img class="alignnone size-full wp-image-5523" title="Resultado Sorteio Massagem Oligoflora leve" src="https://www.trololodemulher.com.br/2010/11/Resultado-Sorteio-Massagem-Oligoflora-leve.jpg" alt="" width="608" height="291" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -92,7 +89,7 @@ Nossa! **Hoje é 22 de Novembro de 2010**. **2 anos de Bicha Fêmea**, e eu esto
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Resultado-Sorteio-Peeling-Oligoflora-leve.jpg"><img class="alignnone size-full wp-image-5524" title="Resultado Sorteio Peeling Oligoflora leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Resultado-Sorteio-Peeling-Oligoflora-leve.jpg" alt="" width="615" height="306" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/Resultado-Sorteio-Peeling-Oligoflora-leve.jpg"><img class="alignnone size-full wp-image-5524" title="Resultado Sorteio Peeling Oligoflora leve" src="https://www.trololodemulher.com.br/2010/11/Resultado-Sorteio-Peeling-Oligoflora-leve.jpg" alt="" width="615" height="306" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -108,7 +105,7 @@ Nossa! **Hoje é 22 de Novembro de 2010**. **2 anos de Bicha Fêmea**, e eu esto
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Resultado-Sorteio-Closone-Acessorios-leve.jpg"><img class="alignnone size-full wp-image-5525" title="Resultado Sorteio Closonê Acessórios leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Resultado-Sorteio-Closone-Acessorios-leve.jpg" alt="" width="645" height="307" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/Resultado-Sorteio-Closone-Acessorios-leve.jpg"><img class="alignnone size-full wp-image-5525" title="Resultado Sorteio Closonê Acessórios leve" src="https://www.trololodemulher.com.br/2010/11/Resultado-Sorteio-Closone-Acessorios-leve.jpg" alt="" width="645" height="307" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -124,7 +121,7 @@ Nossa! **Hoje é 22 de Novembro de 2010**. **2 anos de Bicha Fêmea**, e eu esto
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Resultado-Sorteio-Catavento-Artes-leve.jpg"><img class="alignnone size-full wp-image-5526" title="Resultado Sorteio Catavento Artes leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Resultado-Sorteio-Catavento-Artes-leve.jpg" alt="" width="624" height="281" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/Resultado-Sorteio-Catavento-Artes-leve.jpg"><img class="alignnone size-full wp-image-5526" title="Resultado Sorteio Catavento Artes leve" src="https://www.trololodemulher.com.br/2010/11/Resultado-Sorteio-Catavento-Artes-leve.jpg" alt="" width="624" height="281" /></a>
 </p>
 
 <p style="text-align: justify;">

@@ -1,10 +1,7 @@
 ---
-id: 3119
 title: Organize-se! Faça isso por seu bem-estar…
-date: 2012-03-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/03/12/organizacao-casa-domestica/
 permalink: /2012/03/12/organizacao-casa-domestica/
 categories:
   - Bem-estar
@@ -20,13 +17,13 @@ Você não duvida que a desorganização generalizada tumultua o seu dia a dia, 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/ORGANIZACAO-CASA-2.jpg"><img class="alignnone size-full wp-image-8568" title="ORGANIZACAO CASA [2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/ORGANIZACAO-CASA-2.jpg" alt="" width="600" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/03/ORGANIZACAO-CASA-2.jpg"><img class="alignnone size-full wp-image-8568" title="ORGANIZACAO CASA [2]" src="https://www.trololodemulher.com.br/2012/03/ORGANIZACAO-CASA-2.jpg" alt="" width="600" height="400" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  É óbvio que deixar tudo minimamente organizado é impossível porque, vamos combinar? … uma baguncinha de leve faz parte da rotina de qualquer mortal. Aliás, o máximo de ordem nem é um bom sinal, sabia? De acordo com a <strong>Psicanalista Geisa Machado</strong>, que edita o blog <strong><a href="http://geisamachado.blogspot.com/" target="_blank">A Força e a Beleza de Ser Mulher</a></strong>, “<em>o excesso é sempre sinal de nocividade, tem algo que psiquicamente não vai bem. Este lema serve para todo e qualquer excesso nos mais variados âmbitos da vida. Uma pessoa extremamente organizada demonstra que internamente está perturbada. Ela pode ser alguém muito controladora, com medo de que, se perder o controle (relativo ao externo), toda a perturbação interna venha a tona e ela não consiga lidar com o dia a dia</em>”.
+  É óbvio que deixar tudo minimamente organizado é impossível porque, vamos combinar? … uma baguncinha de leve faz parte da rotina de qualquer mortal. Aliás, o máximo de ordem nem é um bom sinal, sabia? De acordo com a <strong>Psicanalista Geisa Machado</strong>, que edita o blog <strong><a href="http://geisamachado.blogspot.com/" target="_blank" rel="noopener noreferrer">A Força e a Beleza de Ser Mulher</a></strong>, “<em>o excesso é sempre sinal de nocividade, tem algo que psiquicamente não vai bem. Este lema serve para todo e qualquer excesso nos mais variados âmbitos da vida. Uma pessoa extremamente organizada demonstra que internamente está perturbada. Ela pode ser alguém muito controladora, com medo de que, se perder o controle (relativo ao externo), toda a perturbação interna venha a tona e ela não consiga lidar com o dia a dia</em>”.
 </p>
 
 <p align="justify">
@@ -40,7 +37,7 @@ Você não duvida que a desorganização generalizada tumultua o seu dia a dia, 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/ORGANIZACAO-CASA.jpg"><img class="alignnone size-full wp-image-8572" title="ORGANIZACAO CASA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/ORGANIZACAO-CASA.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/03/ORGANIZACAO-CASA.jpg"><img class="alignnone size-full wp-image-8572" title="ORGANIZACAO CASA" src="https://www.trololodemulher.com.br/2012/03/ORGANIZACAO-CASA.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 &nbsp;
@@ -56,7 +53,7 @@ Você não duvida que a desorganização generalizada tumultua o seu dia a dia, 
 > </p>
 
 <p align="justify">
-  Se você precisa da ajuda de um profissional como a <strong>Geisa</strong>, ou convive com alguém que precisa, pode ter a internet a seu favor. Atenta aos novos tempos e com o objetivo de encurtar distâncias, <strong>Geisa Machado</strong> faz seus atendimentos clínicos, inclusive, via <em>Skype</em>. Quer saber mais detalhes? Visite o <strong><a href="http://geisamachado.blogspot.com/" target="_blank">blog da profissional</a></strong>, converse com ela e busque um suporte!
+  Se você precisa da ajuda de um profissional como a <strong>Geisa</strong>, ou convive com alguém que precisa, pode ter a internet a seu favor. Atenta aos novos tempos e com o objetivo de encurtar distâncias, <strong>Geisa Machado</strong> faz seus atendimentos clínicos, inclusive, via <em>Skype</em>. Quer saber mais detalhes? Visite o <strong><a href="http://geisamachado.blogspot.com/" target="_blank" rel="noopener noreferrer">blog da profissional</a></strong>, converse com ela e busque um suporte!
 </p>
 
 <p align="justify">
@@ -114,18 +111,18 @@ Você não duvida que a desorganização generalizada tumultua o seu dia a dia, 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/ORGANIZACAO-CASA-3.jpg"><img class="alignnone size-full wp-image-8569" title="ORGANIZACAO CASA [3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/ORGANIZACAO-CASA-3.jpg" alt="" width="401" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/03/ORGANIZACAO-CASA-3.jpg"><img class="alignnone size-full wp-image-8569" title="ORGANIZACAO CASA [3]" src="https://www.trololodemulher.com.br/2012/03/ORGANIZACAO-CASA-3.jpg" alt="" width="401" height="600" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  A moça é de <strong>Betim, Minas Gerais</strong>, mas também busca encurtar distâncias em relação a quem precisa de suas dicas, editando o blog <strong><a href="http://organizarparavivermelhor.blogspot.com/" target="_blank">Organizar Para Viver Melhor</a></strong>. Portanto, se você precisa de dicas práticas para colocar ordem na casa ou no trabalho, e com isso garantir mais qualidade de vida e bem-estar, não perca a oportunidade de aprender muito com essa moça… a escolha é sua!
+  A moça é de <strong>Betim, Minas Gerais</strong>, mas também busca encurtar distâncias em relação a quem precisa de suas dicas, editando o blog <strong><a href="http://organizarparavivermelhor.blogspot.com/" target="_blank" rel="noopener noreferrer">Organizar Para Viver Melhor</a></strong>. Portanto, se você precisa de dicas práticas para colocar ordem na casa ou no trabalho, e com isso garantir mais qualidade de vida e bem-estar, não perca a oportunidade de aprender muito com essa moça… a escolha é sua!
 </p>
 
 &nbsp;
 
-Imagens: **_<a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a>_**
+Imagens: **_<a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">Stock.xchng</a>_**
 
 &nbsp;
 
@@ -137,7 +134,7 @@ Imagens: **_<a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a>_**
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2011/04/01/bagunca-organizacao/"><img class="alignnone size-full wp-image-6190" title="organização200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/organizacao200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2011/04/01/bagunca-organizacao/"><img class="alignnone size-full wp-image-6190" title="organização200" src="https://www.trololodemulher.com.br/2011/03/organizacao200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -147,7 +144,7 @@ Imagens: **_<a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a>_**
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/03/07/ideias-organizar-casa/"><img class="alignnone size-full wp-image-6007" title="organização de pequenos objetos200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/organizacao-de-pequenos-objetos200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/03/07/ideias-organizar-casa/"><strong><span style="font-size: small;">5 ideias para organizar pequenos objetos em casa…</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/03/07/ideias-organizar-casa/"><img class="alignnone size-full wp-image-6007" title="organização de pequenos objetos200" src="https://www.trololodemulher.com.br/2011/02/organizacao-de-pequenos-objetos200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/03/07/ideias-organizar-casa/"><strong><span style="font-size: small;">5 ideias para organizar pequenos objetos em casa…</span></strong></a>
       </p>
     </td>
   </tr>
@@ -155,13 +152,13 @@ Imagens: **_<a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a>_**
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/02/18/dicas-organizacao-casa-2/"><img class="alignnone size-full wp-image-5923" title="florais200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/florais200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/02/18/dicas-organizacao-casa-2/"><strong><span style="font-size: small;">+ de 20 dicas de organização da casa by bichas fêmeas navegantes.</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/02/18/dicas-organizacao-casa-2/"><img class="alignnone size-full wp-image-5923" title="florais200" src="https://www.trololodemulher.com.br/2011/02/florais200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/02/18/dicas-organizacao-casa-2/"><strong><span style="font-size: small;">+ de 20 dicas de organização da casa by bichas fêmeas navegantes.</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/"><img class="alignnone size-full wp-image-5352" title="bagunça200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/bagunca200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/"><strong><span style="font-size: small;">4 passos e sua “gaveta da bagunça” ficará impecável!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/"><img class="alignnone size-full wp-image-5352" title="bagunça200" src="https://www.trololodemulher.com.br/2010/10/bagunca200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/"><strong><span style="font-size: small;">4 passos e sua “gaveta da bagunça” ficará impecável!</span></strong></a>
       </p>
     </td>
   </tr>
@@ -169,24 +166,24 @@ Imagens: **_<a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a>_**
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank"><img class="alignnone size-full wp-image-8573" title="casa[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/casa2200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank"><strong><span style="font-size: small;">18 hábitos da pessoa organizada na arrumação da casa…</span></strong></a>
+        <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8573" title="casa[2]200" src="https://www.trololodemulher.com.br/2012/03/casa2200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank" rel="noopener noreferrer"><strong><span style="font-size: small;">18 hábitos da pessoa organizada na arrumação da casa…</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/organização-da-casa2200.jpg"><img class="alignnone size-full wp-image-8574" title="organização da casa[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/organização-da-casa2200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.decoracaodacasa.com/dicas-para-organizar-a-casa/" target="_blank"><strong><span style="font-size: small;"><br /> 3 dicas simples, básicas e úteis para organizar a casa. Confira!</span></strong></a>
+        <a href="https://www.trololodemulher.com.br/2012/03/organização-da-casa2200.jpg"><img class="alignnone size-full wp-image-8574" title="organização da casa[2]200" src="https://www.trololodemulher.com.br/2012/03/organização-da-casa2200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.decoracaodacasa.com/dicas-para-organizar-a-casa/" target="_blank" rel="noopener noreferrer"><strong><span style="font-size: small;"><br /> 3 dicas simples, básicas e úteis para organizar a casa. Confira!</span></strong></a>
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/organização-doméstica2200.jpg"><img class="alignnone size-full wp-image-8575" title="organização doméstica[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/organização-doméstica2200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.decoracaodacasa.com/ideias-organizacao-da-casa/" target="_blank"><strong><span style="font-size: small;">3 ideias simples para a organização da casa</span></strong></a>
+  <a href="https://www.trololodemulher.com.br/2012/03/organização-doméstica2200.jpg"><img class="alignnone size-full wp-image-8575" title="organização doméstica[2]200" src="https://www.trololodemulher.com.br/2012/03/organização-doméstica2200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.decoracaodacasa.com/ideias-organizacao-da-casa/" target="_blank" rel="noopener noreferrer"><strong><span style="font-size: small;">3 ideias simples para a organização da casa</span></strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -201,13 +198,13 @@ Imagens: **_<a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a>_**
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

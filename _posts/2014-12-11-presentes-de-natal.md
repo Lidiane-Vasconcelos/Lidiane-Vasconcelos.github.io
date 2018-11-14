@@ -1,10 +1,7 @@
 ---
-id: 3376
 title: Você fez listinha de presentes de Natal este ano?
-date: 2014-12-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/12/11/presentes-de-natal/
 permalink: /2014/12/11/presentes-de-natal/
 categories:
   - Publieditorial
@@ -15,15 +12,15 @@ categories:
 </p>
 
 <p align="justify">
-  Os produtos abaixo são da loja <strong><a href="http://ritabrasil.divitae.com.br/home" target="_blank">LemBRAncinhas BRAsil</a></strong>. A loja é toda recheada de mimos artesanais, portanto únicos e personalizados. Este ano a <strong>Rita, proprietária da loja e artesã</strong> que produz essas delicadezas, preparou uma seleção de sugestões de presentes de Natal pra você escolher e fazer feliz quem ama. Além do mais, ela está com um projeto que achei lindo de viver, e quero te mostrar:
+  Os produtos abaixo são da loja <strong><a href="http://ritabrasil.divitae.com.br/home" target="_blank" rel="noopener noreferrer">LemBRAncinhas BRAsil</a></strong>. A loja é toda recheada de mimos artesanais, portanto únicos e personalizados. Este ano a <strong>Rita, proprietária da loja e artesã</strong> que produz essas delicadezas, preparou uma seleção de sugestões de presentes de Natal pra você escolher e fazer feliz quem ama. Além do mais, ela está com um projeto que achei lindo de viver, e quero te mostrar:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/NANINHAS-DO-BEM.png"><img class="alignnone size-full wp-image-10637" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/NANINHAS-DO-BEM.png" alt="NANINHAS DO BEM" width="470" height="72" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/NANINHAS-DO-BEM.png"><img class="alignnone size-full wp-image-10637" src="https://www.trololodemulher.com.br/2014/12/NANINHAS-DO-BEM.png" alt="NANINHAS DO BEM" width="470" height="72" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/NANINHAS-DO-BEM22.png"><img class="alignnone size-full wp-image-10641" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/NANINHAS-DO-BEM22.png" alt="NANINHAS DO BEM[2][2]" width="612" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/NANINHAS-DO-BEM22.png"><img class="alignnone size-full wp-image-10641" src="https://www.trololodemulher.com.br/2014/12/NANINHAS-DO-BEM22.png" alt="NANINHAS DO BEM[2][2]" width="612" height="800" /></a>
 </p>
 
 <p align="justify">
@@ -35,27 +32,27 @@ categories:
 </p>
 
 <p align="justify">
-  Para saber <strong>mais detalhes sobre as Naninhas do Bem, </strong><a href="http://ritabrasil.divitae.com.br/produto-94807-naninha-do-bem" target="_blank"><strong>clique bem aqui</strong></a><strong> e informe-se! Ah, as Naninhas do Bem</strong> ganharam uma <a href="https://www.facebook.com/naninhasdobem/timeline" target="_blank">página só para elas no Facebook</a>. Clique aqui e curta para ficar por dentro de tudo… eu já curti, claro!
+  Para saber <strong>mais detalhes sobre as Naninhas do Bem, </strong><a href="http://ritabrasil.divitae.com.br/produto-94807-naninha-do-bem" target="_blank" rel="noopener noreferrer"><strong>clique bem aqui</strong></a><strong> e informe-se! Ah, as Naninhas do Bem</strong> ganharam uma <a href="https://www.facebook.com/naninhasdobem/timeline" target="_blank" rel="noopener noreferrer">página só para elas no Facebook</a>. Clique aqui e curta para ficar por dentro de tudo… eu já curti, claro!
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/PRESENTES-ARTESANAIS.png"><img class="alignnone size-full wp-image-10639" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/PRESENTES-ARTESANAIS.png" alt="PRESENTES ARTESANAIS" width="619" height="79" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/PRESENTES-ARTESANAIS.png"><img class="alignnone size-full wp-image-10639" src="https://www.trololodemulher.com.br/2014/12/PRESENTES-ARTESANAIS.png" alt="PRESENTES ARTESANAIS" width="619" height="79" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/PRESENTES-ARTESANAIS22.png"><img class="alignnone size-full wp-image-10642" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/PRESENTES-ARTESANAIS22.png" alt="PRESENTES ARTESANAIS[2][2]" width="800" height="431" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/PRESENTES-ARTESANAIS22.png"><img class="alignnone size-full wp-image-10642" src="https://www.trololodemulher.com.br/2014/12/PRESENTES-ARTESANAIS22.png" alt="PRESENTES ARTESANAIS[2][2]" width="800" height="431" /></a>
 </p>
 
 <p align="justify">
-  As sugestões da Rita Brasil para você presentear são várias. Esses foram os meus escolhidos: <strong>bolsa em cartonagem e palavra em mdf decorada</strong>. Mas há muito mais opções, bonita. Você pode ficar por dentro de todos os itens <a href="http://ritabrasil.divitae.com.br/categoria-22519-presentes-artesanais" target="_blank">visitando a loja virtual, clicando bem aqui</a>.
+  As sugestões da Rita Brasil para você presentear são várias. Esses foram os meus escolhidos: <strong>bolsa em cartonagem e palavra em mdf decorada</strong>. Mas há muito mais opções, bonita. Você pode ficar por dentro de todos os itens <a href="http://ritabrasil.divitae.com.br/categoria-22519-presentes-artesanais" target="_blank" rel="noopener noreferrer">visitando a loja virtual, clicando bem aqui</a>.
 </p>
 
 <p align="justify">
-  Ah! A <strong>Rita Brasil</strong> também está no Facebook e você pode <a href="https://www.facebook.com/RitaBrasilArtesanato" target="_blank">curtir sua página bem aqui</a>, é só clicar. Se joga!
+  Ah! A <strong>Rita Brasil</strong> também está no Facebook e você pode <a href="https://www.facebook.com/RitaBrasilArtesanato" target="_blank" rel="noopener noreferrer">curtir sua página bem aqui</a>, é só clicar. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

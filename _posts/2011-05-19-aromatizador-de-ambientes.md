@@ -1,10 +1,7 @@
 ---
-id: 2995
 title: 'Aromatizador de Ambientes: como fazer?'
-date: 2011-05-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/05/19/aromatizador-de-ambientes/
 permalink: /2011/05/19/aromatizador-de-ambientes/
 categories:
   - Faça Você Mesma
@@ -60,7 +57,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/aromatizador-de-ambiente.jpg"><img class="alignnone size-full wp-image-6389" title="aromatizador de ambiente" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/aromatizador-de-ambiente.jpg" alt="" width="338" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/aromatizador-de-ambiente.jpg"><img class="alignnone size-full wp-image-6389" title="aromatizador de ambiente" src="https://www.trololodemulher.com.br/2011/05/aromatizador-de-ambiente.jpg" alt="" width="338" height="600" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -68,19 +65,19 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  A boa notícia é que dá para ter acesso a essências deliciosas online mesmo, sem nem precisar sair de casa! Para quem deseja preparar seu próprio aromatizdor de ambientes em casa, ou ainda produzí-los em quantidade maior para vender, na <a href="http://www.emporioaroma.com.br/" target="_blank">Empório Aroma</a> há opções bem variadas de cheirinhos para seus difusores. Olha só:
+  A boa notícia é que dá para ter acesso a essências deliciosas online mesmo, sem nem precisar sair de casa! Para quem deseja preparar seu próprio aromatizdor de ambientes em casa, ou ainda produzí-los em quantidade maior para vender, na <a href="http://www.emporioaroma.com.br/" target="_blank" rel="noopener noreferrer">Empório Aroma</a> há opções bem variadas de cheirinhos para seus difusores. Olha só:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13513" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/AROMATIZADOR-AROMATIZADOR-DE-AMBIENTES-DIFUSOR-DE-AROMAS-ESSENCIAS-AROMAS-CHEIROS.jpg" alt="AROMATIZADOR-AROMATIZADOR DE AMBIENTES-DIFUSOR DE AROMAS-ESSENCIAS-AROMAS-CHEIROS" width="800" height="709" />
+  <img class="alignnone size-full wp-image-13513" src="https://www.trololodemulher.com.br/2017/02/AROMATIZADOR-AROMATIZADOR-DE-AMBIENTES-DIFUSOR-DE-AROMAS-ESSENCIAS-AROMAS-CHEIROS.jpg" alt="AROMATIZADOR-AROMATIZADOR DE AMBIENTES-DIFUSOR DE AROMAS-ESSENCIAS-AROMAS-CHEIROS" width="800" height="709" />
 </p>
 
 <p style="text-align: center;">
-  <em>1 &#8211; Pêssego Gleide Essência Frutal | 2 &#8211; Romã Essência Frutal | 3 &#8211; Lichia Essência Frutal | 4 &#8211; Alfazema Essência Floral | 5 &#8211; Pomares de Limão Essência Frutal | 6 &#8211; Maçã & Canela Essência Gourmet | 7 &#8211; Chá Branco T.B. Essência Floral | 8 &#8211; Green Tea Essência Verde | 9 &#8211; Erva Cidreira/Capim Limão Essência Cítrica &#8230; <a href="http://www.emporioaroma.com.br/categorias/8/-Essencias-Aromatizador-e-Sache" target="_blank">veja essas e todas as essências disponíveis na Empório Aroma clicando aqui</a>.</em>
+  <em>1 &#8211; Pêssego Gleide Essência Frutal | 2 &#8211; Romã Essência Frutal | 3 &#8211; Lichia Essência Frutal | 4 &#8211; Alfazema Essência Floral | 5 &#8211; Pomares de Limão Essência Frutal | 6 &#8211; Maçã & Canela Essência Gourmet | 7 &#8211; Chá Branco T.B. Essência Floral | 8 &#8211; Green Tea Essência Verde | 9 &#8211; Erva Cidreira/Capim Limão Essência Cítrica &#8230; <a href="http://www.emporioaroma.com.br/categorias/8/-Essencias-Aromatizador-e-Sache" target="_blank" rel="noopener noreferrer">veja essas e todas as essências disponíveis na Empório Aroma clicando aqui</a>.</em>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13512" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/AROMATIZADOR-DE-AMBIENTES-DIFUSOR-DE-AROMAS600.jpg" alt="AROMATIZADOR DE AMBIENTES-DIFUSOR DE AROMAS600" width="600" height="600" />
+  <img class="alignnone size-full wp-image-13512" src="https://www.trololodemulher.com.br/2017/02/AROMATIZADOR-DE-AMBIENTES-DIFUSOR-DE-AROMAS600.jpg" alt="AROMATIZADOR DE AMBIENTES-DIFUSOR DE AROMAS600" width="600" height="600" />
 </p>
 
 <p style="text-align: center;">
@@ -88,11 +85,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Além das essências, na Empório Aroma você encontra essências para sabonetes e cosméticos, essência para perfumaria, essências para velas, matéria prima em geral e acessórios para produzir seus cheirinhos e aromas irresistíveis. A boa notícia é que você pode <em><strong>pagar de maneira facilitada, ganhar desconto e ainda desfrutar de frete grátis!</strong></em> <a href="http://www.emporioaroma.com.br/" target="_blank">Clique aqui, visite a loja e confira todas as vantagens exclusivas</a>. Pra ficar por dentro de todas as novidades do Empório Aromas, não deixe de acompanhá-los no Facebook. <a href="https://www.facebook.com/Emp%C3%B3rio-Aroma-136393423096960/" target="_blank">Clique aqui, curta e saiba tudo em primeira mão</a>!
+  Além das essências, na Empório Aroma você encontra essências para sabonetes e cosméticos, essência para perfumaria, essências para velas, matéria prima em geral e acessórios para produzir seus cheirinhos e aromas irresistíveis. A boa notícia é que você pode <em><strong>pagar de maneira facilitada, ganhar desconto e ainda desfrutar de frete grátis!</strong></em> <a href="http://www.emporioaroma.com.br/" target="_blank" rel="noopener noreferrer">Clique aqui, visite a loja e confira todas as vantagens exclusivas</a>. Pra ficar por dentro de todas as novidades do Empório Aromas, não deixe de acompanhá-los no Facebook. <a href="https://www.facebook.com/Emp%C3%B3rio-Aroma-136393423096960/" target="_blank" rel="noopener noreferrer">Clique aqui, curta e saiba tudo em primeira mão</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

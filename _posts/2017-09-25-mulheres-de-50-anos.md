@@ -1,10 +1,7 @@
 ---
-id: 3804
 title: Qual é a roupa certa para mulheres de 50 anos?
-date: 2017-09-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/09/25/mulheres-de-50-anos/
 permalink: /2017/09/25/mulheres-de-50-anos/
 categories:
   - Moda
@@ -22,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14168" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/MODA-PARA-MULHER-MADURA-MULHERES-DE-50-ANOS.jpg" alt="MODA PARA MULHER MADURA-MULHERES DE 50 ANOS" width="749" height="556" />
+  <img class="alignnone size-full wp-image-14168" src="https://www.trololodemulher.com.br/2017/09/MODA-PARA-MULHER-MADURA-MULHERES-DE-50-ANOS.jpg" alt="MODA PARA MULHER MADURA-MULHERES DE 50 ANOS" width="749" height="556" />
 </p>
 
 <p align="justify">
@@ -66,7 +63,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14171" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/MODA-PARA-MULHER-MADURA-MULHERES-DE-50-ANOS3.jpg" alt="MODA PARA MULHER MADURA-MULHERES DE 50 ANOS[3]" width="760" height="405" />
+  <img class="alignnone size-full wp-image-14171" src="https://www.trololodemulher.com.br/2017/09/MODA-PARA-MULHER-MADURA-MULHERES-DE-50-ANOS3.jpg" alt="MODA PARA MULHER MADURA-MULHERES DE 50 ANOS[3]" width="760" height="405" />
 </p>
 
 <p align="justify">
@@ -82,7 +79,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/03/28/calca-flare/" target="_blank"><strong>Calça flare: aprenda como combinar o modelo da vez.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/03/28/calca-flare/" target="_blank" rel="noopener noreferrer"><strong>Calça flare: aprenda como combinar o modelo da vez.</strong></a>
 </p>
 
 <p align="justify">
@@ -94,7 +91,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14169" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/MODA-PARA-MULHER-MADURA-MULHERES-DE-50-ANOS1.jpg" alt="MODA PARA MULHER MADURA-MULHERES DE 50 ANOS[1]" width="760" height="572" />
+  <img class="alignnone size-full wp-image-14169" src="https://www.trololodemulher.com.br/2017/09/MODA-PARA-MULHER-MADURA-MULHERES-DE-50-ANOS1.jpg" alt="MODA PARA MULHER MADURA-MULHERES DE 50 ANOS[1]" width="760" height="572" />
 </p>
 
 <p align="justify">
@@ -106,7 +103,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14172" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/MODA-PARA-MULHER-MADURA-MULHERES-DE-50-ANOS4.jpg" alt="MODA PARA MULHER MADURA-MULHERES DE 50 ANOS[4]" width="742" height="495" />
+  <img class="alignnone size-full wp-image-14172" src="https://www.trololodemulher.com.br/2017/09/MODA-PARA-MULHER-MADURA-MULHERES-DE-50-ANOS4.jpg" alt="MODA PARA MULHER MADURA-MULHERES DE 50 ANOS[4]" width="742" height="495" />
 </p>
 
 <p align="justify">
@@ -114,7 +111,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/02/29/como-usar-saia/" target="_blank"><strong>Como usar saia, a peça mais feminina?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/02/29/como-usar-saia/" target="_blank" rel="noopener noreferrer"><strong>Como usar saia, a peça mais feminina?</strong></a>
 </p>
 
 <p align="justify">
@@ -130,7 +127,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14170" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/MODA-PARA-MULHER-MADURA-MULHERES-DE-50-ANOS2.jpg" alt="MODA PARA MULHER MADURA-MULHERES DE 50 ANOS[2]" width="760" height="786" />
+  <img class="alignnone size-full wp-image-14170" src="https://www.trololodemulher.com.br/2017/09/MODA-PARA-MULHER-MADURA-MULHERES-DE-50-ANOS2.jpg" alt="MODA PARA MULHER MADURA-MULHERES DE 50 ANOS[2]" width="760" height="786" />
 </p>
 
 <p align="justify">
@@ -140,19 +137,19 @@ categories:
 Fotos: Claudia Medeiros
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13860" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/BLOG-50-E-DAI-CLAUDIA-MEDEIROS2.jpg" alt="BLOG 50 E DAI-CLAUDIA MEDEIROS[2]" width="800" height="153" />
+  <img class="alignnone size-full wp-image-13860" src="https://www.trololodemulher.com.br/2017/05/BLOG-50-E-DAI-CLAUDIA-MEDEIROS2.jpg" alt="BLOG 50 E DAI-CLAUDIA MEDEIROS[2]" width="800" height="153" />
 </p>
 
 **Mais de Claudia no Trololó de Mulher:**
 
-<a href="http://www.trololodemulher.com.br/2017/05/29/mulher-de-50/" target="_blank"><strong>Notícia luxo: conteúdo exclusivo para você, mulher de 50.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/05/29/mulher-de-50/" target="_blank" rel="noopener noreferrer"><strong>Notícia luxo: conteúdo exclusivo para você, mulher de 50.</strong></a>
 
 <p align="justify">
-  Além do <a href="https://50edaiblog.wordpress.com/" target="_blank">Blog `50, e daí?´</a>, você acompanha o conteúdo sobre moda, estilo, beleza e autoestima para mulheres na faixa dos 50 nas redes sociais: <a href="https://www.instagram.com/50edai/" target="_blank">instagram</a> e <a href="https://www.facebook.com/50edai/" target="_blank">facebook</a>. Claudia também edita o blog <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank">Se fosse na Minha Casa</a>, com conteúdo voltado para casa e decoração. Confira <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank">instagram</a> e <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank">facebook</a>. Se joga!
+  Além do <a href="https://50edaiblog.wordpress.com/" target="_blank" rel="noopener noreferrer">Blog `50, e daí?´</a>, você acompanha o conteúdo sobre moda, estilo, beleza e autoestima para mulheres na faixa dos 50 nas redes sociais: <a href="https://www.instagram.com/50edai/" target="_blank" rel="noopener noreferrer">instagram</a> e <a href="https://www.facebook.com/50edai/" target="_blank" rel="noopener noreferrer">facebook</a>. Claudia também edita o blog <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank" rel="noopener noreferrer">Se fosse na Minha Casa</a>, com conteúdo voltado para casa e decoração. Confira <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank" rel="noopener noreferrer">instagram</a> e <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank" rel="noopener noreferrer">facebook</a>. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="justify">

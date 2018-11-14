@@ -1,17 +1,14 @@
 ---
-id: 3676
 title: 'Primavera na decoração: duas dicas adicionais.'
-date: 2016-09-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/09/29/primavera-na-decoracao-2/
 permalink: /2016/09/29/primavera-na-decoracao-2/
 categories:
   - Casa
   - Dicas de Decoração
 ---
 <p style="text-align: justify;">
-  Esta semana foi publicado aqui um post sobre <strong>como colocar a Primavera na decoração, isso com 10 truques</strong>. Você viu? Se não, <a href="http://www.trololodemulher.com.br/2016/09/26/primavera-na-decoracao/" target="_blank">corre e clica aqui</a>&#8230; foi sucesso de audiência! Hoje trago duas dicas belas, inspiradoras e adicionais para o seu arsenal de ideias, tudo para trazer o frescor da estação das flores para o seu lar.
+  Esta semana foi publicado aqui um post sobre <strong>como colocar a Primavera na decoração, isso com 10 truques</strong>. Você viu? Se não, <a href="http://www.trololodemulher.com.br/2016/09/26/primavera-na-decoracao/" target="_blank" rel="noopener noreferrer">corre e clica aqui</a>&#8230; foi sucesso de audiência! Hoje trago duas dicas belas, inspiradoras e adicionais para o seu arsenal de ideias, tudo para trazer o frescor da estação das flores para o seu lar.
 </p>
 
 <p style="text-align: justify;">
@@ -25,7 +22,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13017" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/DECORAÇÃO-FLORAL-FLORES.jpg" alt="decoracao-floral-flores" width="481" height="640" />
+  <img class="alignnone size-full wp-image-13017" src="https://www.trololodemulher.com.br/2016/09/DECORAÇÃO-FLORAL-FLORES.jpg" alt="decoracao-floral-flores" width="481" height="640" />
 </p>
 
 &nbsp;
@@ -37,7 +34,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13018" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/DECORAÇÃO-FLORAL-FLORES1.jpg" alt="decoracao-floral-flores1" width="334" height="500" />
+  <img class="alignnone size-full wp-image-13018" src="https://www.trololodemulher.com.br/2016/09/DECORAÇÃO-FLORAL-FLORES1.jpg" alt="decoracao-floral-flores1" width="334" height="500" />
 </p>
 
 &nbsp;
@@ -48,10 +45,10 @@ categories:
 
 &nbsp;
 
-Imagens: **_<a href="http://www.shelterness.com/" target="_blank">Shelterness</a>_**
+Imagens: **_<a href="http://www.shelterness.com/" target="_blank" rel="noopener noreferrer">Shelterness</a>_**
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

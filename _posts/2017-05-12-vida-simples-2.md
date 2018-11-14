@@ -1,10 +1,7 @@
 ---
-id: 3762
 title: O que te faz mal? Identifique, e torne a vida simples.
-date: 2017-05-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/05/12/vida-simples-2/
 permalink: /2017/05/12/vida-simples-2/
 categories:
   - Comportamento
@@ -31,19 +28,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank"><strong>Produtividade e gestão de tempo: chega de correria.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank" rel="noopener noreferrer"><strong>Produtividade e gestão de tempo: chega de correria.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/04/18/desacelerar/" target="_blank"><strong>Desacelerar e ter uma vida leve: veja quatro dicas práticas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/04/18/desacelerar/" target="_blank" rel="noopener noreferrer"><strong>Desacelerar e ter uma vida leve: veja quatro dicas práticas.</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13806" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/COMPORTAMENTO-VIDA-SIMPLES-800.jpg" alt="COMPORTAMENTO-VIDA SIMPLES-800" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13806" src="https://www.trololodemulher.com.br/2017/05/COMPORTAMENTO-VIDA-SIMPLES-800.jpg" alt="COMPORTAMENTO-VIDA SIMPLES-800" width="800" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: <a href="http://www.laughandpee.com/" target="_blank" rel="noopener noreferrer">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank" rel="noopener noreferrer">Gratisography</a>
 </p>
 
 <p align="justify">
@@ -63,13 +60,13 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank"><strong>Vida simples: menos é mais, e a gente vive melhor.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank" rel="noopener noreferrer"><strong>Vida simples: menos é mais, e a gente vive melhor.</strong></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

@@ -1,10 +1,7 @@
 ---
-id: 3106
 title: Seu filho ama os livros?
-date: 2012-01-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/01/20/literatura-infantil/
 permalink: /2012/01/20/literatura-infantil/
 categories:
   - Comportamento Infantil
@@ -27,7 +24,7 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="justify">
-  A frase acima é de autoria de <strong>Elaine Cunha. </strong>Contadora de histórias  e blogueira, ela edita o <strong><a href="http://www.caminhandocontando.com/" target="_blank">Caminhando e Contando</a></strong>, um espaço dedicado a dividir experiências, aprendizados e novidades no mundo da contação de histórias.
+  A frase acima é de autoria de <strong>Elaine Cunha. </strong>Contadora de histórias  e blogueira, ela edita o <strong><a href="http://www.caminhandocontando.com/" target="_blank" rel="noopener noreferrer">Caminhando e Contando</a></strong>, um espaço dedicado a dividir experiências, aprendizados e novidades no mundo da contação de histórias.
 </p>
 
 <p align="justify">
@@ -83,7 +80,7 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/LITERATURA-INFANTIL.jpg"><img class="alignnone size-full wp-image-8459" title="LITERATURA INFANTIL" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/LITERATURA-INFANTIL.jpg" alt="" width="600" height="517" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="https://www.trololodemulher.com.br/2012/01/LITERATURA-INFANTIL.jpg"><img class="alignnone size-full wp-image-8459" title="LITERATURA INFANTIL" src="https://www.trololodemulher.com.br/2012/01/LITERATURA-INFANTIL.jpg" alt="" width="600" height="517" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
@@ -95,7 +92,7 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="justify">
-  Sim! Como eu poderia deixar de trazer para o <strong>Bicha Fêmea</strong> a opinião de uma mãe que põe em prática, de verdade, as ações recomendadas de incentivo á leitura na vida dos pequenos. <strong>Cláudia Ramalho</strong>, editora do delicioso e <em>superultramega</em> interessante <strong><a href="http://www.blogfeitoamao.com/" target="_blank">Feito á Mão</a></strong>, tem duas filhas. Desde muito cedo as meninas tiveram contato com os livros, e desenvolveram tanto o gosto pela leitura, que o desejo pela compra de livros não depende mais dos estímulos da mãe. Isso não é lindo? Cláudia dividiu um pouco de sua experiência e mostra suas conquistas nesse aspecto da educação das meninas…
+  Sim! Como eu poderia deixar de trazer para o <strong>Bicha Fêmea</strong> a opinião de uma mãe que põe em prática, de verdade, as ações recomendadas de incentivo á leitura na vida dos pequenos. <strong>Cláudia Ramalho</strong>, editora do delicioso e <em>superultramega</em> interessante <strong><a href="http://www.blogfeitoamao.com/" target="_blank" rel="noopener noreferrer">Feito á Mão</a></strong>, tem duas filhas. Desde muito cedo as meninas tiveram contato com os livros, e desenvolveram tanto o gosto pela leitura, que o desejo pela compra de livros não depende mais dos estímulos da mãe. Isso não é lindo? Cláudia dividiu um pouco de sua experiência e mostra suas conquistas nesse aspecto da educação das meninas…
 </p>
 
 &nbsp;
@@ -105,7 +102,7 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 > <p align="justify">
->   “<em>Geralmente, elas escolhem o tema e eu escolho o livro adequado à faixa etária delas. </em><em>Trago sempre comigo, salvo no celular, uma listinha dos melhores livros infantis que as revistas especializadas publicam. A <strong><a href="http://revistacrescer.globo.com/Revista/Crescer/0,,EMI237592-17759,00-OS+MELHORES+LIVROS+INFANTIS.html" target="_blank">Crescer faz uma listinha dessas por ano</a></strong>. Facilita muito na hora de escolher o que comprar. Como em Maceió somos carentes de livrarias boas, quase sempre faço minhas compras on line ou durante viagens. </em><em>Outro dia, estava em Brasília, numa viagem a trabalho, quando recebi por e-mail uma listinha de livros que Clarinha enviou, como sugestão de presente. Ela havia tirado a tal lista de uma edição da Revista Recreio. Fiquei impressionada com sua capacidade. Eu nem sabia que ela tinha criado uma conta de e-mail, muito menos que já tinha interesses literários próprios. Desde então, sempre conversamos sobre o que ela está querendo ler. Suas escolhas são bem peculiares. O último escolhido foi &#8220;O que Einstein disse a seu cozinheiro&#8221;, um livro que aborda as transformações químicas que os alimentos sofrem na cozinha. Muito interessante!”</em>
+>   “<em>Geralmente, elas escolhem o tema e eu escolho o livro adequado à faixa etária delas. </em><em>Trago sempre comigo, salvo no celular, uma listinha dos melhores livros infantis que as revistas especializadas publicam. A <strong><a href="http://revistacrescer.globo.com/Revista/Crescer/0,,EMI237592-17759,00-OS+MELHORES+LIVROS+INFANTIS.html" target="_blank" rel="noopener noreferrer">Crescer faz uma listinha dessas por ano</a></strong>. Facilita muito na hora de escolher o que comprar. Como em Maceió somos carentes de livrarias boas, quase sempre faço minhas compras on line ou durante viagens. </em><em>Outro dia, estava em Brasília, numa viagem a trabalho, quando recebi por e-mail uma listinha de livros que Clarinha enviou, como sugestão de presente. Ela havia tirado a tal lista de uma edição da Revista Recreio. Fiquei impressionada com sua capacidade. Eu nem sabia que ela tinha criado uma conta de e-mail, muito menos que já tinha interesses literários próprios. Desde então, sempre conversamos sobre o que ela está querendo ler. Suas escolhas são bem peculiares. O último escolhido foi &#8220;O que Einstein disse a seu cozinheiro&#8221;, um livro que aborda as transformações químicas que os alimentos sofrem na cozinha. Muito interessante!”</em>
 > </p>
 
 &nbsp;
@@ -169,21 +166,21 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/O-PINTINHO-ED-VERE.jpg"><img class="alignnone size-full wp-image-8463" title="O PINTINHO - ED VERE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/O-PINTINHO-ED-VERE.jpg" alt="" width="191" height="191" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/O-PINTINHO-ED-VERE.jpg"><img class="alignnone size-full wp-image-8463" title="O PINTINHO - ED VERE" src="https://www.trololodemulher.com.br/2012/01/O-PINTINHO-ED-VERE.jpg" alt="" width="191" height="191" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.brinquebook.com.br/livro.php?id=410" target="_blank"><strong><em>O Pintinho</em></strong></a><em> &#8211; </em><a href="http://www.brinquebook.com.br/livro.php?id=410" target="_blank"><strong><em>Ed Vere</em></strong></a><em>  Livro pop-up que mostra o crescimento do Pintinho. Encanta extamamente pelas figuras que surgem.</em>
+  <a href="http://www.brinquebook.com.br/livro.php?id=410" target="_blank" rel="noopener noreferrer"><strong><em>O Pintinho</em></strong></a><em> &#8211; </em><a href="http://www.brinquebook.com.br/livro.php?id=410" target="_blank" rel="noopener noreferrer"><strong><em>Ed Vere</em></strong></a><em>  Livro pop-up que mostra o crescimento do Pintinho. Encanta extamamente pelas figuras que surgem.</em>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/A-PEQUENA-TARTARUGA-VERDE-A.J.WOOD-RACHEL-WILLIAMS.jpg"><img class="alignnone size-full wp-image-8454" title="A PEQUENA TARTARUGA VERDE-A.J.WOOD RACHEL WILLIAMS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/A-PEQUENA-TARTARUGA-VERDE-A.J.WOOD-RACHEL-WILLIAMS.jpg" alt="" width="191" height="191" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/A-PEQUENA-TARTARUGA-VERDE-A.J.WOOD-RACHEL-WILLIAMS.jpg"><img class="alignnone size-full wp-image-8454" title="A PEQUENA TARTARUGA VERDE-A.J.WOOD RACHEL WILLIAMS" src="https://www.trololodemulher.com.br/2012/01/A-PEQUENA-TARTARUGA-VERDE-A.J.WOOD-RACHEL-WILLIAMS.jpg" alt="" width="191" height="191" /></a>
 </p>
 
 <p align="center">
-  <em>A Pequena Tartaruga Verde- </em><a href="http://www.brinquebook.com.br/livro.php?id=424" target="_blank"><strong><em>A.J. Wood</em></strong></a><strong><em> </em><a href="http://www.brinquebook.com.br/livro.php?id=424" target="_blank"><em>Rachel Williams</em></a></strong><strong></strong><em>  A tartaruga acha que não tem nada de especial. Vê nos outros bichos carateristicas que ela não tem. Até que vem uma situação inesperada e ela percebe o quanto ela é. Livro em pop-up. É de encher os olhos quando surgem os bichos.</em>
+  <em>A Pequena Tartaruga Verde- </em><a href="http://www.brinquebook.com.br/livro.php?id=424" target="_blank" rel="noopener noreferrer"><strong><em>A.J. Wood</em></strong></a><strong><em> </em><a href="http://www.brinquebook.com.br/livro.php?id=424" target="_blank" rel="noopener noreferrer"><em>Rachel Williams</em></a></strong><strong></strong><em>  A tartaruga acha que não tem nada de especial. Vê nos outros bichos carateristicas que ela não tem. Até que vem uma situação inesperada e ela percebe o quanto ela é. Livro em pop-up. É de encher os olhos quando surgem os bichos.</em>
 </p>
 
 &nbsp;
@@ -195,7 +192,7 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/DA-PEQUENA-TOUPEIRA.jpg"><img class="alignnone size-full wp-image-8457" title="DA PEQUENA TOUPEIRA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/DA-PEQUENA-TOUPEIRA.jpg" alt="" width="267" height="189" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/DA-PEQUENA-TOUPEIRA.jpg"><img class="alignnone size-full wp-image-8457" title="DA PEQUENA TOUPEIRA" src="https://www.trololodemulher.com.br/2012/01/DA-PEQUENA-TOUPEIRA.jpg" alt="" width="267" height="189" /></a>
 </p>
 
 <p align="center">
@@ -205,7 +202,7 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Que-barulho-é-esse-ratinho.jpg"><img class="alignnone size-full wp-image-8464" title="Que barulho é esse ratinho" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Que-barulho-é-esse-ratinho.jpg" alt="" width="225" height="225" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/Que-barulho-é-esse-ratinho.jpg"><img class="alignnone size-full wp-image-8464" title="Que barulho é esse ratinho" src="https://www.trololodemulher.com.br/2012/01/Que-barulho-é-esse-ratinho.jpg" alt="" width="225" height="225" /></a>
 </p>
 
 <p align="center">
@@ -221,7 +218,7 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Até-as-princesas-soltam-pum.jpg"><img class="alignnone size-full wp-image-8455" title="Até as princesas soltam pum" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Até-as-princesas-soltam-pum.jpg" alt="" width="400" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/Até-as-princesas-soltam-pum.jpg"><img class="alignnone size-full wp-image-8455" title="Até as princesas soltam pum" src="https://www.trololodemulher.com.br/2012/01/Até-as-princesas-soltam-pum.jpg" alt="" width="400" height="400" /></a>
 </p>
 
 <p align="center">
@@ -231,7 +228,7 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Nicola.jpg"><img class="alignnone size-full wp-image-8462" title="Nicola" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Nicola.jpg" alt="" width="180" height="183" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/Nicola.jpg"><img class="alignnone size-full wp-image-8462" title="Nicola" src="https://www.trololodemulher.com.br/2012/01/Nicola.jpg" alt="" width="180" height="183" /></a>
 </p>
 
 <p align="center">
@@ -247,7 +244,7 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/contos-de-enganar-a-morte.jpg"><img class="alignnone size-full wp-image-8456" title="contos de enganar a morte" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/contos-de-enganar-a-morte.jpg" alt="" width="127" height="153" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/contos-de-enganar-a-morte.jpg"><img class="alignnone size-full wp-image-8456" title="contos de enganar a morte" src="https://www.trololodemulher.com.br/2012/01/contos-de-enganar-a-morte.jpg" alt="" width="127" height="153" /></a>
 </p>
 
 <p align="center">
@@ -257,21 +254,21 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Diomira.jpg"><img class="alignnone size-full wp-image-8458" title="Diomira" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Diomira.jpg" alt="" width="191" height="191" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/Diomira.jpg"><img class="alignnone size-full wp-image-8458" title="Diomira" src="https://www.trololodemulher.com.br/2012/01/Diomira.jpg" alt="" width="191" height="191" /></a>
 </p>
 
 <p align="center">
-  <em>Diomira, a Sherazade do sertão, coronel Carrerão e Lucinha &#8211; </em><a href="http://www.brinquebook.com.br/livro.php?id=438" target="_blank"><strong><em>Ivana Arruda Leite</em></strong></a><em> Minha raiz nordestina neste livro. Muito bom!</em>
+  <em>Diomira, a Sherazade do sertão, coronel Carrerão e Lucinha &#8211; </em><a href="http://www.brinquebook.com.br/livro.php?id=438" target="_blank" rel="noopener noreferrer"><strong><em>Ivana Arruda Leite</em></strong></a><em> Minha raiz nordestina neste livro. Muito bom!</em>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Então, bonita! Disposta a incentivar a leitura na vida do seu filho, agora mais do que nunca? Vai em frente e depois curta o resultado toda orgulhosa, assim como a <strong>Cláudia Ramalho</strong> que, aliás, conta muito mais de suas experiências maternas, dentre outras coisas, no <strong><a href="http://www.blogfeitoamao.com/" target="_blank">Feito á Mão</a></strong>.
+  Então, bonita! Disposta a incentivar a leitura na vida do seu filho, agora mais do que nunca? Vai em frente e depois curta o resultado toda orgulhosa, assim como a <strong>Cláudia Ramalho</strong> que, aliás, conta muito mais de suas experiências maternas, dentre outras coisas, no <strong><a href="http://www.blogfeitoamao.com/" target="_blank" rel="noopener noreferrer">Feito á Mão</a></strong>.
 </p>
 
 <p align="justify">
-  Para se manter cada vez mais antenada no universo da contação de histórias e aprender muito mais sobre o assunto, o <strong><a href="http://www.caminhandocontando.com/" target="_blank">Caminhando e Contando</a></strong>, da meiga e delicada <strong>Elaine Cunha</strong>, é leitura obrigatória! Desfrute!
+  Para se manter cada vez mais antenada no universo da contação de histórias e aprender muito mais sobre o assunto, o <strong><a href="http://www.caminhandocontando.com/" target="_blank" rel="noopener noreferrer">Caminhando e Contando</a></strong>, da meiga e delicada <strong>Elaine Cunha</strong>, é leitura obrigatória! Desfrute!
 </p>
 
 <p align="center">
@@ -282,13 +279,13 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2010/05/19/educacao-ecologica-criancas/"><img class="alignnone size-full wp-image-4651" title="Mãe e filha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/Mae-e-filha200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/05/19/educacao-ecologica-criancas/"><span style="font-size: small;">Bichas fêmeas em debate: filho de ecomãe, ecofilho é?</span></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2010/05/19/educacao-ecologica-criancas/"><img class="alignnone size-full wp-image-4651" title="Mãe e filha200" src="https://www.trololodemulher.com.br/2010/05/Mae-e-filha200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/05/19/educacao-ecologica-criancas/"><span style="font-size: small;">Bichas fêmeas em debate: filho de ecomãe, ecofilho é?</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/EDUCACAO-INFANTIL200.jpg"><img class="alignnone size-full wp-image-8200" title="EDUCACAO INFANTIL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/EDUCACAO-INFANTIL200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2009/11/16/educao-criancas/"><span style="font-size: small;"><br /> E a educação? Vem mesmo de berço?</span></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2011/11/EDUCACAO-INFANTIL200.jpg"><img class="alignnone size-full wp-image-8200" title="EDUCACAO INFANTIL200" src="https://www.trololodemulher.com.br/2011/11/EDUCACAO-INFANTIL200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2009/11/16/educao-criancas/"><span style="font-size: small;"><br /> E a educação? Vem mesmo de berço?</span></a></strong>
       </p>
     </td>
   </tr>
@@ -296,13 +293,13 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/flá200.jpg"><img class="alignnone size-full wp-image-8453" title="flá200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/flá200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2009/08/20/maternidade/"><span style="font-size: small;"><br /> De repente você acorda e toma um susto: você é mãe!</span></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2012/01/flá200.jpg"><img class="alignnone size-full wp-image-8453" title="flá200" src="https://www.trololodemulher.com.br/2012/01/flá200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2009/08/20/maternidade/"><span style="font-size: small;"><br /> De repente você acorda e toma um susto: você é mãe!</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/MATERNIDADE200.jpg"><img class="alignnone size-full wp-image-8207" title="MATERNIDADE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/MATERNIDADE200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2009/07/30/maternidade-2/"><span style="font-size: small;"><br /> Maternidade – um aprendizado que requer inteligência</span></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2011/11/MATERNIDADE200.jpg"><img class="alignnone size-full wp-image-8207" title="MATERNIDADE200" src="https://www.trololodemulher.com.br/2011/11/MATERNIDADE200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2009/07/30/maternidade-2/"><span style="font-size: small;"><br /> Maternidade – um aprendizado que requer inteligência</span></a></strong>
       </p>
     </td>
   </tr>
@@ -317,17 +314,17 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/organização-quarto-infantil200.jpg"><img class="alignnone size-full wp-image-8466" title="organização quarto infantil200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/organização-quarto-infantil200.jpg" alt="" width="200" height="200" /></a></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2012/01/organização-quarto-infantil200.jpg"><img class="alignnone size-full wp-image-8466" title="organização quarto infantil200" src="https://www.trololodemulher.com.br/2012/01/organização-quarto-infantil200.jpg" alt="" width="200" height="200" /></a></strong>
 </p>
 
 <p align="center">
-  <strong><a href="http://www.decoracaodacasa.com/organizar-casa-quarto-infantil/" target="_blank"><span style="font-size: small;">Ideias para você organizar um cantinho de leitura e artes infantil</span></a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/organizar-casa-quarto-infantil/" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Ideias para você organizar um cantinho de leitura e artes infantil</span></a></strong>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="rodapé" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="rodapé" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -342,13 +339,13 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

@@ -1,10 +1,7 @@
 ---
-id: 2970
 title: Decoração para quarto de bebê menino e menina…
-date: 2011-03-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/03/28/decoracao-bebe-menino-menina/
 permalink: /2011/03/28/decoracao-bebe-menino-menina/
 categories:
   - Decoração
@@ -25,7 +22,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menina.jpg"><img class="alignnone size-full wp-image-6125" title="decoração bebê menina" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menina.jpg" alt="" width="588" height="391" /></a><br /> <em><a href="http://www.hgtv.com/" target="_blank">HGTV</a></em>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-bebe-menina.jpg"><img class="alignnone size-full wp-image-6125" title="decoração bebê menina" src="https://www.trololodemulher.com.br/2011/03/decoracao-bebe-menina.jpg" alt="" width="588" height="391" /></a><br /> <em><a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer">HGTV</a></em>
 </p>
 
 <p style="text-align: justify;">
@@ -33,7 +30,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menina1.jpg"><img class="alignnone size-full wp-image-6126" title="decoração bebê menina[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menina1.jpg" alt="" width="550" height="550" /></a><em><br /> <a href="http://www.housetohome.co.uk/" target="_blank">housetohome</a></em>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-bebe-menina1.jpg"><img class="alignnone size-full wp-image-6126" title="decoração bebê menina[1]" src="https://www.trololodemulher.com.br/2011/03/decoracao-bebe-menina1.jpg" alt="" width="550" height="550" /></a><em><br /> <a href="http://www.housetohome.co.uk/" target="_blank" rel="noopener noreferrer">housetohome</a></em>
 </p>
 
 <p style="text-align: justify;">
@@ -41,7 +38,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menina2.jpg"><img class="alignnone size-full wp-image-6127" title="decoração bebê menina[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menina2.jpg" alt="" width="550" height="550" /></a><br /> <a href="http://www.housetohome.co.uk/" target="_blank"><em>housetohome</em></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-bebe-menina2.jpg"><img class="alignnone size-full wp-image-6127" title="decoração bebê menina[2]" src="https://www.trololodemulher.com.br/2011/03/decoracao-bebe-menina2.jpg" alt="" width="550" height="550" /></a><br /> <a href="http://www.housetohome.co.uk/" target="_blank" rel="noopener noreferrer"><em>housetohome</em></a>
 </p>
 
 <p style="text-align: justify;">
@@ -53,7 +50,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino.jpg"><img class="alignnone size-full wp-image-6128" title="decoração bebê menino" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino.jpg" alt="" width="600" height="450" /></a><br /> <em><a href="http://www.hgtv.com/" target="_blank">HGTV</a></em>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-bebe-menino.jpg"><img class="alignnone size-full wp-image-6128" title="decoração bebê menino" src="https://www.trololodemulher.com.br/2011/03/decoracao-bebe-menino.jpg" alt="" width="600" height="450" /></a><br /> <em><a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer">HGTV</a></em>
 </p>
 
 <p style="text-align: justify;">
@@ -65,7 +62,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino1.jpg"><img class="alignnone size-full wp-image-6133" title="decoração bebê menino[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino1.jpg" alt="" width="550" height="550" /></a><br /> <a href="http://www.housetohome.co.uk/" target="_blank"><em>housetohome</em></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-bebe-menino1.jpg"><img class="alignnone size-full wp-image-6133" title="decoração bebê menino[1]" src="https://www.trololodemulher.com.br/2011/03/decoracao-bebe-menino1.jpg" alt="" width="550" height="550" /></a><br /> <a href="http://www.housetohome.co.uk/" target="_blank" rel="noopener noreferrer"><em>housetohome</em></a>
 </p>
 
 <p style="text-align: justify;">
@@ -85,7 +82,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino-e-menina.jpg"><img class="alignnone size-full wp-image-6129" title="decoração bebê menino e menina" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino-e-menina.jpg" alt="" width="550" height="550" /></a><br /> <a href="http://www.housetohome.co.uk/" target="_blank"><em>housetohome</em></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-bebe-menino-e-menina.jpg"><img class="alignnone size-full wp-image-6129" title="decoração bebê menino e menina" src="https://www.trololodemulher.com.br/2011/03/decoracao-bebe-menino-e-menina.jpg" alt="" width="550" height="550" /></a><br /> <a href="http://www.housetohome.co.uk/" target="_blank" rel="noopener noreferrer"><em>housetohome</em></a>
 </p>
 
 <p style="text-align: justify;">
@@ -93,7 +90,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino-e-menina1.jpg"><img class="alignnone size-full wp-image-6132" title="decoração bebê menino e menina[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino-e-menina1.jpg" alt="" width="550" height="550" /></a><br /> <a href="http://www.housetohome.co.uk/" target="_blank"><em>housetohome</em></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-bebe-menino-e-menina1.jpg"><img class="alignnone size-full wp-image-6132" title="decoração bebê menino e menina[1]" src="https://www.trololodemulher.com.br/2011/03/decoracao-bebe-menino-e-menina1.jpg" alt="" width="550" height="550" /></a><br /> <a href="http://www.housetohome.co.uk/" target="_blank" rel="noopener noreferrer"><em>housetohome</em></a>
 </p>
 
 <p style="text-align: justify;">
@@ -101,26 +98,26 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Sugestões de mimos decorativos artesanais para quartos infantis: todos os produtos estão a venda no <strong><em><a href="http://www.trololodemulher.com.br/loja/" target="_blank">Mercado de Artes</a></em></strong>, a loja virtual do <strong><em>Bicha Fêmea</em></strong>. Para ver fotos maiores e mais detalhes sobre o produto, clique no nome de cada um deles!
+  Sugestões de mimos decorativos artesanais para quartos infantis: todos os produtos estão a venda no <strong><em><a href="http://www.trololodemulher.com.br/loja/" target="_blank" rel="noopener noreferrer">Mercado de Artes</a></em></strong>, a loja virtual do <strong><em>Bicha Fêmea</em></strong>. Para ver fotos maiores e mais detalhes sobre o produto, clique no nome de cada um deles!
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="200" valign="top">
       <p style="text-align: center;">
-        <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg"><img class="alignnone size-thumbnail wp-image-5330" title="Quadro Meu Primeiro Carrinho200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Meu-Primeiro-Carrinho200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank">Quadro Meu Primeiro Carrinho</a></em></strong>
+        <strong><em><a href="https://www.trololodemulher.com.br/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg"><img class="alignnone size-thumbnail wp-image-5330" title="Quadro Meu Primeiro Carrinho200" src="https://www.trololodemulher.com.br/2010/10/Quadro-Meu-Primeiro-Carrinho200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank" rel="noopener noreferrer">Quadro Meu Primeiro Carrinho</a></em></strong>
       </p>
     </td>
     
     <td width="200" valign="top">
       <p style="text-align: center;">
-        <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Placa-Maternidade-Menino200.jpg"><img class="alignnone size-thumbnail wp-image-5699" title="Placa Maternidade Menino200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Placa-Maternidade-Menino200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-maternidade-menino/" target="_blank">Placa Maternidade Menino</a></em></strong>
+        <strong><em><a href="https://www.trololodemulher.com.br/2010/12/Placa-Maternidade-Menino200.jpg"><img class="alignnone size-thumbnail wp-image-5699" title="Placa Maternidade Menino200" src="https://www.trololodemulher.com.br/2010/12/Placa-Maternidade-Menino200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-maternidade-menino/" target="_blank" rel="noopener noreferrer">Placa Maternidade Menino</a></em></strong>
       </p>
     </td>
     
     <td width="200" valign="top">
       <p style="text-align: center;">
-        <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Sininho-Lilas200.jpg"><img class="alignnone size-thumbnail wp-image-5701" title="Móbile Sininho Lilás200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Sininho-Lilas200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-sininho-lilas/" target="_blank">Móbile Sininho Lilás</a></em></strong>
+        <strong><em><a href="https://www.trololodemulher.com.br/2010/12/Mobile-Sininho-Lilas200.jpg"><img class="alignnone size-thumbnail wp-image-5701" title="Móbile Sininho Lilás200" src="https://www.trololodemulher.com.br/2010/12/Mobile-Sininho-Lilas200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-sininho-lilas/" target="_blank" rel="noopener noreferrer">Móbile Sininho Lilás</a></em></strong>
       </p>
     </td>
   </tr>
@@ -130,13 +127,13 @@ categories:
   <tr>
     <td width="300" valign="top">
       <p style="text-align: center;">
-        <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Gatinho-Rosa200.jpg"><img class="alignnone size-full wp-image-5702" title="Gatinho Rosa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Gatinho-Rosa200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-rosa/" target="_blank">Móbile Gatinho Rosa</a></em></strong>
+        <strong><em><a href="https://www.trololodemulher.com.br/2010/12/Gatinho-Rosa200.jpg"><img class="alignnone size-full wp-image-5702" title="Gatinho Rosa200" src="https://www.trololodemulher.com.br/2010/12/Gatinho-Rosa200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-rosa/" target="_blank" rel="noopener noreferrer">Móbile Gatinho Rosa</a></em></strong>
       </p>
     </td>
     
     <td width="300" valign="top">
       <p style="text-align: center;">
-        <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Gatinho-Lilas200.jpg"><img class="alignnone size-full wp-image-5703" title="Móbile Gatinho Lilás200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Gatinho-Lilas200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-lilas/" target="_blank">Móbile Gatinho Lilás</a></em></strong>
+        <strong><em><a href="https://www.trololodemulher.com.br/2010/12/Mobile-Gatinho-Lilas200.jpg"><img class="alignnone size-full wp-image-5703" title="Móbile Gatinho Lilás200" src="https://www.trololodemulher.com.br/2010/12/Mobile-Gatinho-Lilas200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-lilas/" target="_blank" rel="noopener noreferrer">Móbile Gatinho Lilás</a></em></strong>
       </p>
     </td>
   </tr>
@@ -146,19 +143,19 @@ categories:
   <tr>
     <td width="200" valign="top">
       <p style="text-align: center;">
-        <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Gatinho-Azul200.jpg"><img class="alignnone size-thumbnail wp-image-5704" title="Móbile Gatinho Azul200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Gatinho-Azul200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-azul/" target="_blank">Móbile Gatinho Azul</a></em></strong>
+        <strong><em><a href="https://www.trololodemulher.com.br/2010/12/Mobile-Gatinho-Azul200.jpg"><img class="alignnone size-thumbnail wp-image-5704" title="Móbile Gatinho Azul200" src="https://www.trololodemulher.com.br/2010/12/Mobile-Gatinho-Azul200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-azul/" target="_blank" rel="noopener noreferrer">Móbile Gatinho Azul</a></em></strong>
       </p>
     </td>
     
     <td width="200" valign="top">
       <p style="text-align: center;">
-        <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Butterfly200.jpg"><img class="alignnone size-thumbnail wp-image-5705" title="Móbile Butterfly200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Butterfly200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-butterfly/" target="_blank">Móbile Butterfly</a></em></strong>
+        <strong><em><a href="https://www.trololodemulher.com.br/2010/12/Mobile-Butterfly200.jpg"><img class="alignnone size-thumbnail wp-image-5705" title="Móbile Butterfly200" src="https://www.trololodemulher.com.br/2010/12/Mobile-Butterfly200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-butterfly/" target="_blank" rel="noopener noreferrer">Móbile Butterfly</a></em></strong>
       </p>
     </td>
     
     <td width="200" valign="top">
       <p style="text-align: center;">
-        <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Bike200.jpg"><img class="alignnone size-thumbnail wp-image-5267" title="Móbile Bike200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Bike200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-bike/" target="_blank">Móbile Bike</a></em></strong>
+        <strong><em><a href="https://www.trololodemulher.com.br/2010/09/Mobile-Bike200.jpg"><img class="alignnone size-thumbnail wp-image-5267" title="Móbile Bike200" src="https://www.trololodemulher.com.br/2010/09/Mobile-Bike200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-bike/" target="_blank" rel="noopener noreferrer">Móbile Bike</a></em></strong>
       </p>
     </td>
   </tr>

@@ -1,7 +1,5 @@
 ---
-layout: post
-title:  "We all wait for summer"
-author: Lidiane
+title:  "We all wait for summer"author: Lidiane
 categories: [ Jekyll, tutorial ]
 comments: false
 image: assets/images/5.jpg

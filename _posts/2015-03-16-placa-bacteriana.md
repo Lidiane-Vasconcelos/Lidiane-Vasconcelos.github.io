@@ -1,10 +1,7 @@
 ---
-id: 3410
 title: 'Placa bacteriana: como removê-la?'
-date: 2015-03-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/03/16/placa-bacteriana/
 permalink: /2015/03/16/placa-bacteriana/
 categories:
   - Saúde
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA3.png"><img class="alignnone size-full wp-image-10853" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA3.png" alt="SAUDE-SAUDE DA MULHER- SAUDE DA BOCA-SAUDE BUCAL-PLACA BACTERIANA[3]" width="723" height="86" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA3.png"><img class="alignnone size-full wp-image-10853" src="https://www.trololodemulher.com.br/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA3.png" alt="SAUDE-SAUDE DA MULHER- SAUDE DA BOCA-SAUDE BUCAL-PLACA BACTERIANA[3]" width="723" height="86" /></a>
 </p>
 
 > <p align="justify">
@@ -30,7 +27,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA.jpg"><img class="alignnone size-full wp-image-10851" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA.jpg" alt="SAUDE-SAUDE DA MULHER- SAUDE DA BOCA-SAUDE BUCAL-PLACA BACTERIANA" width="800" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA.jpg"><img class="alignnone size-full wp-image-10851" src="https://www.trololodemulher.com.br/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA.jpg" alt="SAUDE-SAUDE DA MULHER- SAUDE DA BOCA-SAUDE BUCAL-PLACA BACTERIANA" width="800" height="450" /></a>
 </p>
 
 <p align="center">
@@ -38,7 +35,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA4.png"><img class="alignnone size-full wp-image-10854" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA4.png" alt="SAUDE-SAUDE DA MULHER- SAUDE DA BOCA-SAUDE BUCAL-PLACA BACTERIANA[4]" width="550" height="69" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA4.png"><img class="alignnone size-full wp-image-10854" src="https://www.trololodemulher.com.br/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA4.png" alt="SAUDE-SAUDE DA MULHER- SAUDE DA BOCA-SAUDE BUCAL-PLACA BACTERIANA[4]" width="550" height="69" /></a>
 </p>
 
 > <p align="justify">
@@ -46,11 +43,11 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA5.png"><img class="alignnone size-full wp-image-10855" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA5.png" alt="SAUDE-SAUDE DA MULHER- SAUDE DA BOCA-SAUDE BUCAL-PLACA BACTERIANA[5]" width="746" height="80" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA5.png"><img class="alignnone size-full wp-image-10855" src="https://www.trololodemulher.com.br/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA5.png" alt="SAUDE-SAUDE DA MULHER- SAUDE DA BOCA-SAUDE BUCAL-PLACA BACTERIANA[5]" width="746" height="80" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA2.jpg"><img class="alignnone size-full wp-image-10852" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA2.jpg" alt="SAUDE-SAUDE DA MULHER- SAUDE DA BOCA-SAUDE BUCAL-PLACA BACTERIANA[2]" width="390" height="390" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA2.jpg"><img class="alignnone size-full wp-image-10852" src="https://www.trololodemulher.com.br/2015/03/SAUDE-SAUDE-DA-MULHER-SAUDE-DA-BOCA-SAUDE-BUCAL-PLACA-BACTERIANA2.jpg" alt="SAUDE-SAUDE DA MULHER- SAUDE DA BOCA-SAUDE BUCAL-PLACA BACTERIANA[2]" width="390" height="390" /></a>
 </p>
 
 <p align="center">
@@ -86,7 +83,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/DRA-ANA-PAULA-PASQUALIN-TOKUNAGA.png"><img class="alignnone size-full wp-image-9417" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/DRA-ANA-PAULA-PASQUALIN-TOKUNAGA.png" alt="DRA ANA PAULA PASQUALIN TOKUNAGA" width="532" height="295" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/04/DRA-ANA-PAULA-PASQUALIN-TOKUNAGA.png"><img class="alignnone size-full wp-image-9417" src="https://www.trololodemulher.com.br/2013/04/DRA-ANA-PAULA-PASQUALIN-TOKUNAGA.png" alt="DRA ANA PAULA PASQUALIN TOKUNAGA" width="532" height="295" /></a>
 </p>
 
 <p align="justify">
@@ -94,23 +91,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/27/dentes-bonitos/" target="_blank"><strong>Dentes bonitos e saudáveis: o que fazer e evitar?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/05/27/dentes-bonitos/" target="_blank" rel="noopener noreferrer"><strong>Dentes bonitos e saudáveis: o que fazer e evitar?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/04/02/higiene-dos-dentes/" target="_blank"><strong>Você sabe mesmo cuidar da higiene dos dentes?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/04/02/higiene-dos-dentes/" target="_blank" rel="noopener noreferrer"><strong>Você sabe mesmo cuidar da higiene dos dentes?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/07/27/saude-bucal/" target="_blank"><strong>Creme ou enxaguantes bucais de ação clareadora: isso funciona?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/07/27/saude-bucal/" target="_blank" rel="noopener noreferrer"><strong>Creme ou enxaguantes bucais de ação clareadora: isso funciona?</strong></a>
 </p>
 
 <p align="justify">
-  A <strong>Dra. Ana</strong> é a autora do blog <a href="http://medodedentista.com.br/" target="_blank">Medo de Dentista</a> e, como o nome sugere, esse medo é o que move o blog, no sentido de desconstruí-lo. O blog é repleto de informação útil e necessária, mas tudo feito de forma simples e direta, para leigas como nós que querem vencer o medo através da informação. Quer ver só que interessante o conteúdo desse blog? Se joga e <a href="http://medodedentista.com.br/" target="_blank">clica aqui</a>, bonita! Além do mais, não deixe de acompanhar a Dra. e todo o seu conteúdo relevante no <a href="https://www.facebook.com/medodedentista?fref=ts" target="_blank">Facebook. Clique aqui, curta</a> e fique por dentro!
+  A <strong>Dra. Ana</strong> é a autora do blog <a href="http://medodedentista.com.br/" target="_blank" rel="noopener noreferrer">Medo de Dentista</a> e, como o nome sugere, esse medo é o que move o blog, no sentido de desconstruí-lo. O blog é repleto de informação útil e necessária, mas tudo feito de forma simples e direta, para leigas como nós que querem vencer o medo através da informação. Quer ver só que interessante o conteúdo desse blog? Se joga e <a href="http://medodedentista.com.br/" target="_blank" rel="noopener noreferrer">clica aqui</a>, bonita! Além do mais, não deixe de acompanhar a Dra. e todo o seu conteúdo relevante no <a href="https://www.facebook.com/medodedentista?fref=ts" target="_blank" rel="noopener noreferrer">Facebook. Clique aqui, curta</a> e fique por dentro!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

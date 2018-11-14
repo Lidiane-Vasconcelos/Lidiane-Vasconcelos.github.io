@@ -1,10 +1,7 @@
 ---
-id: 3193
 title: 'Sabe quem ganhou uma tolha de mesa linda de viver por aqui? [ATUALIZADO]'
-date: 2012-10-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/10/02/sorteio-artesanal-shop-2/
 permalink: /2012/10/02/sorteio-artesanal-shop-2/
 categories:
   - Promoção
@@ -20,7 +17,7 @@ Pois é… chegou o dia de a gente saber quem foi a sortuda que levará uma **[t
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/10/02/sorteio-artesanal-shop-2/resultado-sorteio-2/" rel="attachment wp-att-9190"><img class="alignnone size-full wp-image-9190" title="Resultado Sorteio" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/Resultado-Sorteio.png" alt="" width="588" height="382" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/10/02/sorteio-artesanal-shop-2/resultado-sorteio-2/" rel="attachment wp-att-9190"><img class="alignnone size-full wp-image-9190" title="Resultado Sorteio" src="https://www.trololodemulher.com.br/2012/09/Resultado-Sorteio.png" alt="" width="588" height="382" /></a>
 </p>
 
 &nbsp;
@@ -65,7 +62,7 @@ Pois é… chegou o dia de a gente saber quem foi a sortuda que levará uma **[t
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/?attachment_id=9216"><img class="alignnone size-full wp-image-9216" title="RESULTADO[II]SORTEIO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/RESULTADOIISORTEIO.png" alt="" width="600" height="415" /></a>
+    <a href="http://www.trololodemulher.com.br/?attachment_id=9216"><img class="alignnone size-full wp-image-9216" title="RESULTADO[II]SORTEIO" src="https://www.trololodemulher.com.br/2012/10/RESULTADOIISORTEIO.png" alt="" width="600" height="415" /></a>
   </p>
   
   <p>

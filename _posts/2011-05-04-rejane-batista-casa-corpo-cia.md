@@ -1,10 +1,7 @@
 ---
-id: 2988
 title: 'Uma bicha fêmea por outra: Rejane Batista'
-date: 2011-05-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/05/04/rejane-batista-casa-corpo-cia/
 permalink: /2011/05/04/rejane-batista-casa-corpo-cia/
 categories:
   - Comportamento
@@ -13,7 +10,7 @@ categories:
 Além de jovem, bonita e inteligente, o que mais chama a atenção nos seus posts é outro atributo: a efervescência de ideias extremamente criativas e a sua disposição para colocá-las em prática a fim de deixar a casa toda _embonecada_.
 
 <p style="text-align: justify;">
-  Quem acompanha a <strong>Rejane</strong>, dona do frequentadíssimo <strong><a href="http://casacorpoecia.blogspot.com/" target="_blank">Casa Corpo e Cia</a></strong>, acaba sendo envolvida por esse <em>faniquito</em> decorativo que toma conta da blogueira, e contagiada pelas inspirações da moça, sai louca e descontrolada querendo <em>embonecar</em> sua casa também…
+  Quem acompanha a <strong>Rejane</strong>, dona do frequentadíssimo <strong><a href="http://casacorpoecia.blogspot.com/" target="_blank" rel="noopener noreferrer">Casa Corpo e Cia</a></strong>, acaba sendo envolvida por esse <em>faniquito</em> decorativo que toma conta da blogueira, e contagiada pelas inspirações da moça, sai louca e descontrolada querendo <em>embonecar</em> sua casa também…
 </p>
 
 <!--more-->
@@ -43,7 +40,7 @@ Além de jovem, bonita e inteligente, o que mais chama a atenção nos seus post
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Rejane-Casa-Corpo-e-Cia.jpg"><img class="alignnone size-full wp-image-6322" title="Rejane - Casa Corpo e Cia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Rejane-Casa-Corpo-e-Cia.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/Rejane-Casa-Corpo-e-Cia.jpg"><img class="alignnone size-full wp-image-6322" title="Rejane - Casa Corpo e Cia" src="https://www.trololodemulher.com.br/2011/05/Rejane-Casa-Corpo-e-Cia.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -51,7 +48,7 @@ Além de jovem, bonita e inteligente, o que mais chama a atenção nos seus post
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://casacorpoecia.blogspot.com/" target="_blank">Casa Corpo e Cia</a></strong> é o nome de um blog com vocação para a variedade de assuntos. Entretanto, quem te acompanha percebe que o assunto Casa & Decoração impera absoluto no seu espaço virtual. O que mudou, desde a criação do blog, para que essa temática viesse cada vez com mais força para o centeúdo do seu blog?
+  <strong><a href="http://casacorpoecia.blogspot.com/" target="_blank" rel="noopener noreferrer">Casa Corpo e Cia</a></strong> é o nome de um blog com vocação para a variedade de assuntos. Entretanto, quem te acompanha percebe que o assunto Casa & Decoração impera absoluto no seu espaço virtual. O que mudou, desde a criação do blog, para que essa temática viesse cada vez com mais força para o centeúdo do seu blog?
 </p>
 
 <blockquote style="text-align: justify;">
@@ -141,7 +138,7 @@ Seu blog tem uma marca registrada: muitas brincadeiras que desencadeiam muitos c
 </blockquote>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Rejane-Casa-Corpo-e-Cia2.jpg"><img class="alignnone size-full wp-image-6323" title="Rejane - Casa Corpo e Cia[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Rejane-Casa-Corpo-e-Cia2.jpg" alt="" width="600" height="898" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/Rejane-Casa-Corpo-e-Cia2.jpg"><img class="alignnone size-full wp-image-6323" title="Rejane - Casa Corpo e Cia[2]" src="https://www.trololodemulher.com.br/2011/05/Rejane-Casa-Corpo-e-Cia2.jpg" alt="" width="600" height="898" /></a>
 </p>
 
 <p style="text-align: center;">

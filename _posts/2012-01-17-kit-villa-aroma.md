@@ -1,15 +1,12 @@
 ---
-id: 3107
 title: Ganhe um Kit Villa Aroma… sinta e desfrute a vida como você merece!
-date: 2012-01-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/01/17/kit-villa-aroma/
 permalink: /2012/01/17/kit-villa-aroma/
 categories:
   - Publieditorial
 ---
-E quem não quer viver a vida se não for vivendo todo o aconchego que ela pode dar? É exatamente nisso no que a **<a href="http://villapano.com.br/" target="_blank">Villa Pano</a>** acredita, e procura levar para cada um de seus produtos toda essa sensação.
+E quem não quer viver a vida se não for vivendo todo o aconchego que ela pode dar? É exatamente nisso no que a **<a href="http://villapano.com.br/" target="_blank" rel="noopener noreferrer">Villa Pano</a>** acredita, e procura levar para cada um de seus produtos toda essa sensação.
 
 &nbsp;
 
@@ -34,7 +31,7 @@ E quem não quer viver a vida se não for vivendo todo o aconchego que ela pode 
 </p>
 
 <p align="justify">
-  Uma delas eu já sei que combina, é a <strong><a href="http://villapano.com.br/produtos/164/shopbrowse" target="_blank">Villa Aroma</a></strong>! Quem não gosta de sentir um cheirinho gostoso, não é verdade? Já pensou se esse monte de produtos cheirosos e gostosos de sentir fosse seu, e chegasse aí, na sua casa?
+  Uma delas eu já sei que combina, é a <strong><a href="http://villapano.com.br/produtos/164/shopbrowse" target="_blank" rel="noopener noreferrer">Villa Aroma</a></strong>! Quem não gosta de sentir um cheirinho gostoso, não é verdade? Já pensou se esse monte de produtos cheirosos e gostosos de sentir fosse seu, e chegasse aí, na sua casa?
 </p>
 
 &nbsp;
@@ -49,12 +46,12 @@ Pois é… e não é que pode? **Quer ganhar?**
 
 &nbsp;
 
-**Então, conta para mim, qual é a outra área da** <a href="http://villapano.com.br/" target="_blank"><strong>Villa Pano</strong></a>**, além da** <a href="http://villapano.com.br/produtos/164/shopbrowse" target="_blank"><strong>Villa Aroma</strong></a>**, que mais combina com você?**
+**Então, conta para mim, qual é a outra área da** <a href="http://villapano.com.br/" target="_blank" rel="noopener noreferrer"><strong>Villa Pano</strong></a>**, além da** <a href="http://villapano.com.br/produtos/164/shopbrowse" target="_blank" rel="noopener noreferrer"><strong>Villa Aroma</strong></a>**, que mais combina com você?**
 
 &nbsp;
 
 <p align="center">
-  <span style="font-size: medium;">É a <strong><a href="http://villapano.com.br/produtos/139/shopbrowse" target="_blank">Villa Casa</a></strong> … a <strong><a href="http://villapano.com.br/produtos/140/shopbrowse" target="_blank">Villa Fashion</a></strong>… a <strong><a href="http://villapano.com.br/produtos/165/shopbrowse" target="_blank">Villa Gift</a></strong>… ou a <strong><a href="http://villapano.com.br/produtos/171/shopbrowse" target="_blank">Villa Kids</a></strong>? Por quê?</span>
+  <span style="font-size: medium;">É a <strong><a href="http://villapano.com.br/produtos/139/shopbrowse" target="_blank" rel="noopener noreferrer">Villa Casa</a></strong> … a <strong><a href="http://villapano.com.br/produtos/140/shopbrowse" target="_blank" rel="noopener noreferrer">Villa Fashion</a></strong>… a <strong><a href="http://villapano.com.br/produtos/165/shopbrowse" target="_blank" rel="noopener noreferrer">Villa Gift</a></strong>… ou a <strong><a href="http://villapano.com.br/produtos/171/shopbrowse" target="_blank" rel="noopener noreferrer">Villa Kids</a></strong>? Por quê?</span>
 </p>
 
 &nbsp;
@@ -68,7 +65,7 @@ Pois é… e não é que pode? **Quer ganhar?**
 </p>
 
 <p align="justify">
-  Ah! Se você quiser receber todas as novidades da <strong>Villa Pano no seu e-mail</strong>, não perca tempo, <strong><a href="http://villapano.blogspot.com/p/receba-nossa-news.html" target="_blank">cadastre-se bem aqui</a></strong>!
+  Ah! Se você quiser receber todas as novidades da <strong>Villa Pano no seu e-mail</strong>, não perca tempo, <strong><a href="http://villapano.blogspot.com/p/receba-nossa-news.html" target="_blank" rel="noopener noreferrer">cadastre-se bem aqui</a></strong>!
 </p>
 
 <p align="justify">

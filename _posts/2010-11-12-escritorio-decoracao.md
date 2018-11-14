@@ -1,10 +1,7 @@
 ---
-id: 2908
 title: 'Home office: soluções simples de decoração &#038; organização.'
-date: 2010-11-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/11/12/escritorio-decoracao/
 permalink: /2010/11/12/escritorio-decoracao/
 categories:
   - Escritório
@@ -21,7 +18,7 @@ categories:
 <!--more-->
 
 <p style="text-align: justify;">
-  Quem tem a chance de trabalhar a partir de casa, e se adapta facilmente a essa rotina, sabe que a opção oferece benefícios irresistíveis. Por aqui, nos meus domínios, eu vejo essa realidade de perto. Marido trabalha de casa, e por isso já providenciamos <a href="http://www.trololodemulher.com.br/2010/01/25/projeto-escritorio-home-office/" target="_blank">nosso home office</a> de modo que atenda nossas necessidades.
+  Quem tem a chance de trabalhar a partir de casa, e se adapta facilmente a essa rotina, sabe que a opção oferece benefícios irresistíveis. Por aqui, nos meus domínios, eu vejo essa realidade de perto. Marido trabalha de casa, e por isso já providenciamos <a href="http://www.trololodemulher.com.br/2010/01/25/projeto-escritorio-home-office/" target="_blank" rel="noopener noreferrer">nosso home office</a> de modo que atenda nossas necessidades.
 </p>
 
 <p style="text-align: justify;">
@@ -33,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/escritorio-organizado-parede.jpg"><img class="alignnone size-full wp-image-5435" title="escritório organizado - parede" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/escritorio-organizado-parede.jpg" alt="" width="300" height="333" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/escritorio-organizado-parede.jpg"><img class="alignnone size-full wp-image-5435" title="escritório organizado - parede" src="https://www.trololodemulher.com.br/2010/11/escritorio-organizado-parede.jpg" alt="" width="300" height="333" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -49,7 +46,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/home-office-na-sala.jpg"><img class="alignnone size-full wp-image-5439" title="home office na sala" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/home-office-na-sala.jpg" alt="" width="300" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/home-office-na-sala.jpg"><img class="alignnone size-full wp-image-5439" title="home office na sala" src="https://www.trololodemulher.com.br/2010/11/home-office-na-sala.jpg" alt="" width="300" height="400" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -57,7 +54,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/escritorio-na-sala.jpg"><img class="alignnone size-full wp-image-5434" title="escritório na sala" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/escritorio-na-sala.jpg" alt="" width="300" height="250" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/escritorio-na-sala.jpg"><img class="alignnone size-full wp-image-5434" title="escritório na sala" src="https://www.trololodemulher.com.br/2010/11/escritorio-na-sala.jpg" alt="" width="300" height="250" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -81,7 +78,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/escritorio-organizado-e-decorado.jpg"><img class="alignnone size-full wp-image-5438" title="escritório organizado e decorado" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/escritorio-organizado-e-decorado.jpg" alt="" width="300" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/escritorio-organizado-e-decorado.jpg"><img class="alignnone size-full wp-image-5438" title="escritório organizado e decorado" src="https://www.trololodemulher.com.br/2010/11/escritorio-organizado-e-decorado.jpg" alt="" width="300" height="400" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -98,7 +95,7 @@ categories:
 
 <p style="text-align: center;">
   <p>
-    <em>Imagens: </em><a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Gardens</em></a>
+    <em>Imagens: </em><a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer"><em>Better Homes and Gardens</em></a>
   </p>
   
   <p>
@@ -106,5 +103,5 @@ categories:
   </p>
   
   <p align="center">
-    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
   </p>

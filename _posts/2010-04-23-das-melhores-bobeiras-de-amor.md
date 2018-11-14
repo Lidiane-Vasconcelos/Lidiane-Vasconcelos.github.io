@@ -1,10 +1,7 @@
 ---
-id: 2782
 title: Das melhores bobeiras de amor…
-date: 2010-04-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/04/23/das-melhores-bobeiras-de-amor/
 permalink: /2010/04/23/das-melhores-bobeiras-de-amor/
 categories:
   - Trololó
@@ -20,7 +17,7 @@ Bonita, você nem imagina o sorriso de alegria e surpresa que isso tirou do rost
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/coracao.jpg"><img class="aligncenter size-medium wp-image-4266" title="coração" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/coracao-300x200.jpg" alt="" width="300" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/02/coracao.jpg"><img class="aligncenter size-medium wp-image-4266" title="coração" src="https://www.trololodemulher.com.br/2010/02/coracao-300x200.jpg" alt="" width="300" height="200" /></a>
     </td>
   </tr>
 </table>
@@ -36,7 +33,7 @@ Ah! E por falar em fazer carinho, queria mostrar aqui um que recebi recentemente
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/velas-e-bolsa-para-moedas-leve.jpg"><img class="aligncenter size-medium wp-image-4577" title="velas e bolsa para moedas leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/velas-e-bolsa-para-moedas-leve-300x200.jpg" alt="" width="300" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/04/velas-e-bolsa-para-moedas-leve.jpg"><img class="aligncenter size-medium wp-image-4577" title="velas e bolsa para moedas leve" src="https://www.trololodemulher.com.br/2010/04/velas-e-bolsa-para-moedas-leve-300x200.jpg" alt="" width="300" height="200" /></a>
     </td>
     
     <td>
@@ -47,10 +44,10 @@ Ah! E por falar em fazer carinho, queria mostrar aqui um que recebi recentemente
 
  
 
-Viu? São velas e uma bolsinha para moedas. Fiquei feliz, serelepe e saltitante com o presente. Quem me fez o carinho foi a Flávia Simoni, do blog <a href="http://minhacasaminhafamilia.blogspot.com/" target="_blank">Lar Doce Lar</a>.
+Viu? São velas e uma bolsinha para moedas. Fiquei feliz, serelepe e saltitante com o presente. Quem me fez o carinho foi a Flávia Simoni, do blog <a href="http://minhacasaminhafamilia.blogspot.com/" target="_blank" rel="noopener noreferrer">Lar Doce Lar</a>.
 
 _Flávia, muito obrigada por sua gentileza, viu?! Gostei de verdade, muito, pode acreditar!_
 
 Ei! Bom fim de semana!!!
 
-Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+Imagem: <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>

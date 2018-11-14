@@ -1,10 +1,7 @@
 ---
-id: 3556
 title: 'Casa organizada: hábitos simples pra aplicar já!'
-date: 2016-03-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/03/08/casa-organizada/
 permalink: /2016/03/08/casa-organizada/
 categories:
   - Organização
@@ -14,11 +11,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12046" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DOMESTICA-DICAS-DE-ORGANIZACAO.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DOMESTICA-DICAS DE ORGANIZACAO" width="563" height="748" />
+  <img class="alignnone size-full wp-image-12046" src="https://www.trololodemulher.com.br/2016/03/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DOMESTICA-DICAS-DE-ORGANIZACAO.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DOMESTICA-DICAS DE ORGANIZACAO" width="563" height="748" />
 </p>
 
 <p align="center">
-  Via <a href="https://www.flickr.com/photos/indrarado/4469732640/" target="_blank">indrarado</a> / <a href="http://foter.com/" target="_blank">Foter</a> / <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">CC BY-NC-SA</a>
+  Via <a href="https://www.flickr.com/photos/indrarado/4469732640/" target="_blank" rel="noopener noreferrer">indrarado</a> / <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a> / <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA</a>
 </p>
 
 > <p align="justify">
@@ -26,7 +23,7 @@ categories:
 > </p>
 
 <p align="justify">
-  <strong>Willy Neves</strong> é profissional da área de organização e pretende facilitar sua vida nesse sentido. Ela é de Fortaleza – CE. Para entrar em contato ligue 85 8879.1810, ou ainda envie e-mail para <a href="mailto:willyneves@hotmail.com">willyneves@hotmail.com</a>. Willy também atualiza constantemente sua página no Facebook – <a href="https://www.facebook.com/pages/Tudo-em-Ordem-por-Willy-Neves/757226514367697?sk=timeline" target="_blank">Tudo em Ordem por Willy Neves</a> – basta curtir e acompanhá-la por lá também.
+  <strong>Willy Neves</strong> é profissional da área de organização e pretende facilitar sua vida nesse sentido. Ela é de Fortaleza – CE. Para entrar em contato ligue 85 8879.1810, ou ainda envie e-mail para <a href="mailto:willyneves@hotmail.com">willyneves@hotmail.com</a>. Willy também atualiza constantemente sua página no Facebook – <a href="https://www.facebook.com/pages/Tudo-em-Ordem-por-Willy-Neves/757226514367697?sk=timeline" target="_blank" rel="noopener noreferrer">Tudo em Ordem por Willy Neves</a> – basta curtir e acompanhá-la por lá também.
 </p>
 
 <p align="justify">
@@ -34,7 +31,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-da-casa-3/" target="_blank"><strong>Organização da casa: o post definitivo!</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-da-casa-3/" target="_blank" rel="noopener noreferrer"><strong>Organização da casa: o post definitivo!</strong></a>
 </p>
 
 > <p align="justify">
@@ -42,7 +39,7 @@ categories:
 > </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12050" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DOMESTICA-DICAS-DE-ORGANIZACAO-BANDEJA-GELADEIRA2.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DOMESTICA-DICAS DE ORGANIZACAO-BANDEJA GELADEIRA[2]" width="800" height="600" />
+  <img class="alignnone size-full wp-image-12050" src="https://www.trololodemulher.com.br/2016/03/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DOMESTICA-DICAS-DE-ORGANIZACAO-BANDEJA-GELADEIRA2.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DOMESTICA-DICAS DE ORGANIZACAO-BANDEJA GELADEIRA[2]" width="800" height="600" />
 </p>
 
 <p align="justify">
@@ -50,7 +47,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><a href="http://www.decoracaodacasa.com/decoracao-bandejas/" target="_blank"><strong>Truques de decoração: bandejas… por que te quero?</strong></a></em>
+  <em><a href="http://www.decoracaodacasa.com/decoracao-bandejas/" target="_blank" rel="noopener noreferrer"><strong>Truques de decoração: bandejas… por que te quero?</strong></a></em>
 </p>
 
 > <p align="justify">
@@ -58,7 +55,7 @@ categories:
 > </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12051" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DOMESTICA-DICAS-DE-ORGANIZACAO-CAIXA-DE-ENTRADA.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DOMESTICA-DICAS DE ORGANIZACAO-CAIXA DE ENTRADA" width="788" height="521" />
+  <img class="alignnone size-full wp-image-12051" src="https://www.trololodemulher.com.br/2016/03/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DOMESTICA-DICAS-DE-ORGANIZACAO-CAIXA-DE-ENTRADA.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DOMESTICA-DICAS DE ORGANIZACAO-CAIXA DE ENTRADA" width="788" height="521" />
 </p>
 
 <p align="justify">
@@ -66,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em><a href="http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/" target="_blank">Caixas: 5 soluções de organização da casa</a></em></strong>
+  <strong><em><a href="http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/" target="_blank" rel="noopener noreferrer">Caixas: 5 soluções de organização da casa</a></em></strong>
 </p>
 
 <p align="justify">
@@ -74,7 +71,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12052" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DOMESTICA-DICAS-DE-ORGANIZACAO-FICHARIO-DO-LAR3.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DOMESTICA-DICAS DE ORGANIZACAO-FICHARIO DO LAR[3]" width="800" height="402" />
+  <img class="alignnone size-full wp-image-12052" src="https://www.trololodemulher.com.br/2016/03/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DOMESTICA-DICAS-DE-ORGANIZACAO-FICHARIO-DO-LAR3.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DOMESTICA-DICAS DE ORGANIZACAO-FICHARIO DO LAR[3]" width="800" height="402" />
 </p>
 
 <p align="justify">
@@ -82,13 +79,13 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12053" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DOMESTICA-DICAS-DE-ORGANIZACAO-MENU-SEMANAL.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DOMESTICA-DICAS DE ORGANIZACAO-MENU SEMANAL" width="800" height="482" />
+  <img class="alignnone size-full wp-image-12053" src="https://www.trololodemulher.com.br/2016/03/ORGANIZACAO-ORGANIZACAO-DA-CASA-ORGANIZACAO-DOMESTICA-DICAS-DE-ORGANIZACAO-MENU-SEMANAL.jpg" alt="ORGANIZACAO-ORGANIZACAO DA CASA-ORGANIZACAO DOMESTICA-DICAS DE ORGANIZACAO-MENU SEMANAL" width="800" height="482" />
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  <strong>Kalinka Carvalho</strong> é <em>Personal Organizer</em> e ministra cursos e palestras sobre organização pessoal e profissional. Para falar com ela basta <a href="http://www.kalinkacarvalho.com.br/index.html" target="_blank">visitar o seu blog</a> e preencher o formulário de contato. Kalinka também está no Facebook e você pode <a href="https://www.facebook.com/kalinkascarvalho/timeline" target="_blank">curtir sua página aqui</a>, e ficar por dentro de todas as novidades sobre organização.
+  <strong>Kalinka Carvalho</strong> é <em>Personal Organizer</em> e ministra cursos e palestras sobre organização pessoal e profissional. Para falar com ela basta <a href="http://www.kalinkacarvalho.com.br/index.html" target="_blank" rel="noopener noreferrer">visitar o seu blog</a> e preencher o formulário de contato. Kalinka também está no Facebook e você pode <a href="https://www.facebook.com/kalinkascarvalho/timeline" target="_blank" rel="noopener noreferrer">curtir sua página aqui</a>, e ficar por dentro de todas as novidades sobre organização.
 </p>
 
 &nbsp;
@@ -102,7 +99,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-casa-brinquedos/" target="_blank"><strong>Organização da casa: suas crianças ajudam?</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-casa-brinquedos/" target="_blank" rel="noopener noreferrer"><strong>Organização da casa: suas crianças ajudam?</strong></a>
 </p>
 
 > <p align="justify">
@@ -118,15 +115,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank"><strong>Como evitar o acúmulo e organizar o lar? Dicas práticas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank" rel="noopener noreferrer"><strong>Como evitar o acúmulo e organizar o lar? Dicas práticas.</strong></a>
 </p>
 
 <p align="justify">
-  <strong>Claudia Medeiros</strong> é <em>Personal Organizer</em> e <em>Designer</em> de Interiores. Você pode acessar o seu blog, <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank">Se Fosse na Minha Casa</a>, e ficar por dentro de todas as dicas e novidades. Claudia também atualiza sua <a href="https://www.facebook.com/SeFosseNaMinhaCasa?fref=ts" target="_blank">página no Facebook bem aqui</a>. Curta e fique bem informada sobre Decoração, Design, Arquitetura e Organização da Casa. Se joga!
+  <strong>Claudia Medeiros</strong> é <em>Personal Organizer</em> e <em>Designer</em> de Interiores. Você pode acessar o seu blog, <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank" rel="noopener noreferrer">Se Fosse na Minha Casa</a>, e ficar por dentro de todas as dicas e novidades. Claudia também atualiza sua <a href="https://www.facebook.com/SeFosseNaMinhaCasa?fref=ts" target="_blank" rel="noopener noreferrer">página no Facebook bem aqui</a>. Curta e fique bem informada sobre Decoração, Design, Arquitetura e Organização da Casa. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

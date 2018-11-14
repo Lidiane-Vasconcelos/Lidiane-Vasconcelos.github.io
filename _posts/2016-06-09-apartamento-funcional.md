@@ -1,10 +1,7 @@
 ---
-id: 3623
 title: 'Apartamento funcional: escolhas certas, inúmeras inspirações.'
-date: 2016-06-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/06/09/apartamento-funcional/
 permalink: /2016/06/09/apartamento-funcional/
 categories:
   - Dicas de Decoração
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12633" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL" width="800" height="450" />
+  <img class="alignnone size-full wp-image-12633" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL" width="800" height="450" />
 </p>
 
 <p align="justify">
@@ -30,7 +27,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12634" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL2.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[2]" width="800" height="450" />
+  <img class="alignnone size-full wp-image-12634" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL2.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[2]" width="800" height="450" />
 </p>
 
 <p align="justify">
@@ -50,57 +47,57 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12636" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL3.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[3]" width="800" height="450" />
+  <img class="alignnone size-full wp-image-12636" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL3.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[3]" width="800" height="450" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12637" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL4.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[4]" width="569" height="800" />
+  <img class="alignnone size-full wp-image-12637" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL4.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[4]" width="569" height="800" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12639" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL5.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[5]" width="569" height="800" />
+  <img class="alignnone size-full wp-image-12639" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL5.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[5]" width="569" height="800" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12640" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL6.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[6]" width="800" height="520" />
+  <img class="alignnone size-full wp-image-12640" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL6.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[6]" width="800" height="520" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12641" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL7.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[7]" width="800" height="520" />
+  <img class="alignnone size-full wp-image-12641" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL7.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[7]" width="800" height="520" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12642" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL8.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[8]" width="800" height="520" />
+  <img class="alignnone size-full wp-image-12642" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL8.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[8]" width="800" height="520" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12643" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL9.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[9]" width="800" height="520" />
+  <img class="alignnone size-full wp-image-12643" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL9.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[9]" width="800" height="520" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12644" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL10.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[10]" width="800" height="800" />
+  <img class="alignnone size-full wp-image-12644" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL10.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[10]" width="800" height="800" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12645" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL11.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[11]" width="800" height="800" />
+  <img class="alignnone size-full wp-image-12645" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL11.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[11]" width="800" height="800" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12646" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL12.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[12]" width="569" height="800" />
+  <img class="alignnone size-full wp-image-12646" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL12.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[12]" width="569" height="800" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12647" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL13.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[13]" width="800" height="800" />
+  <img class="alignnone size-full wp-image-12647" src="https://www.trololodemulher.com.br/2016/06/DECORACAO-DECORACAO-DE-INTERIORES-APARTAMENTO-APARTAMENTO-PRATICO-APARTAMENTO-FUNCIONAL13.jpg" alt="DECORACAO-DECORACAO DE INTERIORES-APARTAMENTO-APARTAMENTO PRATICO-APARTAMENTO FUNCIONAL[13]" width="800" height="800" />
 </p>
 
 &nbsp;
 
-Imagens: <a href="http://www.home-designing.com/" target="_blank">Home Designing</a>
+Imagens: <a href="http://www.home-designing.com/" target="_blank" rel="noopener noreferrer">Home Designing</a>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

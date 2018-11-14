@@ -1,10 +1,7 @@
 ---
-id: 3442
 title: 'Saúde e beleza das unhas: verdades que você não sabia.'
-date: 2015-07-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/07/06/saude-e-beleza-das-unhas/
 permalink: /2015/07/06/saude-e-beleza-das-unhas/
 categories:
   - Beleza
@@ -19,7 +16,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/BELEZA-SAUDE-UNHAS2.jpg"><img class="alignnone size-full wp-image-11086" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/BELEZA-SAUDE-UNHAS2.jpg" alt="BELEZA-SAUDE-UNHAS[2]" width="800" height="68" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/BELEZA-SAUDE-UNHAS2.jpg"><img class="alignnone size-full wp-image-11086" src="https://www.trololodemulher.com.br/2015/07/BELEZA-SAUDE-UNHAS2.jpg" alt="BELEZA-SAUDE-UNHAS[2]" width="800" height="68" /></a>
 </p>
 
 <p align="justify">
@@ -27,7 +24,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/BELEZA-SAUDE-UNHAS3.png"><img class="alignnone size-full wp-image-11087" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/BELEZA-SAUDE-UNHAS3.png" alt="BELEZA-SAUDE-UNHAS[3]" width="660" height="88" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/BELEZA-SAUDE-UNHAS3.png"><img class="alignnone size-full wp-image-11087" src="https://www.trololodemulher.com.br/2015/07/BELEZA-SAUDE-UNHAS3.png" alt="BELEZA-SAUDE-UNHAS[3]" width="660" height="88" /></a>
 </p>
 
 <p align="justify">
@@ -35,11 +32,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/BELEZA-SAUDE-UNHAS.jpg"><img class="alignnone size-full wp-image-11082" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/07/BELEZA-SAUDE-UNHAS.jpg" alt="BELEZA-SAUDE-UNHAS" width="800" height="535" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/07/BELEZA-SAUDE-UNHAS.jpg"><img class="alignnone size-full wp-image-11082" src="https://www.trololodemulher.com.br/2015/07/BELEZA-SAUDE-UNHAS.jpg" alt="BELEZA-SAUDE-UNHAS" width="800" height="535" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/" target="_blank">Gratisography</a>
+  Imagem: <a href="http://www.laughandpee.com/" target="_blank" rel="noopener noreferrer">Ryan McGuire</a> via <a href="http://www.gratisography.com/" target="_blank" rel="noopener noreferrer">Gratisography</a>
 </p>
 
 <p align="justify">
@@ -59,7 +56,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/DRA-MARCELLA-LEDO-DERMATOLOGISTA-JUNDIAI-SP.png"><img class="alignnone size-full wp-image-11010" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/DRA-MARCELLA-LEDO-DERMATOLOGISTA-JUNDIAI-SP.png" alt="DRA MARCELLA LEDO-DERMATOLOGISTA-JUNDIAI-SP" width="800" height="181" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/DRA-MARCELLA-LEDO-DERMATOLOGISTA-JUNDIAI-SP.png"><img class="alignnone size-full wp-image-11010" src="https://www.trololodemulher.com.br/2015/06/DRA-MARCELLA-LEDO-DERMATOLOGISTA-JUNDIAI-SP.png" alt="DRA MARCELLA LEDO-DERMATOLOGISTA-JUNDIAI-SP" width="800" height="181" /></a>
 </p>
 
 <p align="justify">
@@ -67,15 +64,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/06/08/cuidados-pele-pescoco/" target="_blank"><strong>Cuidados com a pele do pescoço: você não esqueceu, certo?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/06/08/cuidados-pele-pescoco/" target="_blank" rel="noopener noreferrer"><strong>Cuidados com a pele do pescoço: você não esqueceu, certo?</strong></a>
 </p>
 
 <p align="justify">
-  A Dra. Marcella Ledo dispõe de um site que está em construção e, logo logo, terá muitas novidades. Você pode acessá-lo <a href="http://www.marcellaledo.com.br/" target="_blank">clicando aqui</a>. Além do mais, não perca suas dicas sobre pele, cabelos e unhas, todas sendo atualizadas e compartilhadas pela médica em sua <a href="https://www.facebook.com/marcellaledodermato/timeline" target="_blank">página no Facebook, bem aqui</a>. Eu, que não sou boba, já curti. Vem também?! Aproveite!
+  A Dra. Marcella Ledo dispõe de um site que está em construção e, logo logo, terá muitas novidades. Você pode acessá-lo <a href="http://www.marcellaledo.com.br/" target="_blank" rel="noopener noreferrer">clicando aqui</a>. Além do mais, não perca suas dicas sobre pele, cabelos e unhas, todas sendo atualizadas e compartilhadas pela médica em sua <a href="https://www.facebook.com/marcellaledodermato/timeline" target="_blank" rel="noopener noreferrer">página no Facebook, bem aqui</a>. Eu, que não sou boba, já curti. Vem também?! Aproveite!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

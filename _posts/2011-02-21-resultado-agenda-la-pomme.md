@@ -1,10 +1,7 @@
 ---
-id: 2960
 title: Resultado do sorteio da agenda by La Pomme no Bicha Fêmea.
-date: 2011-02-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/02/21/resultado-agenda-la-pomme/
 permalink: /2011/02/21/resultado-agenda-la-pomme/
 categories:
   - Promoção
@@ -16,7 +13,7 @@ Para saber se foi você mesma, vai em frente e confere…
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Resultado-Sorteio-Agenda-La-Pomme1.jpg"><img class="alignnone size-full wp-image-6031" title="Resultado Sorteio Agenda La Pomme1" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Resultado-Sorteio-Agenda-La-Pomme1.jpg" alt="" width="598" height="314" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/Resultado-Sorteio-Agenda-La-Pomme1.jpg"><img class="alignnone size-full wp-image-6031" title="Resultado Sorteio Agenda La Pomme1" src="https://www.trololodemulher.com.br/2011/02/Resultado-Sorteio-Agenda-La-Pomme1.jpg" alt="" width="598" height="314" /></a>
 </p>
 
 <p style="text-align: justify;">

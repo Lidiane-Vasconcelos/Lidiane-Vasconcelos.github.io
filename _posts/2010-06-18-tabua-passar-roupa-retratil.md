@@ -1,10 +1,7 @@
 ---
-id: 2833
 title: 'Organização na lavanderia: ganhe espaço com uma tábua de passar roupa retrátil.'
-date: 2010-06-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/06/18/tabua-passar-roupa-retratil/
 permalink: /2010/06/18/tabua-passar-roupa-retratil/
 categories:
   - Organização
@@ -20,7 +17,7 @@ categories:
 <!--more-->
 
 <p style="text-align: justify;">
-  E quem não quer ideias assim? Fala a verdade. A Luma que o diga, porque foi no post sobre <a href="http://www.trololodemulher.com.br/2010/04/14/organizacao-lavanderia-maquina/" target="_blank"><strong><em>organização numa lavanderia pequena</em></strong> </a>(que talvez você não tenha visto, e vale a pena a leitura!) que ela manifestou o desejo de uma diva do lar desesperada. Veja só:
+  E quem não quer ideias assim? Fala a verdade. A Luma que o diga, porque foi no post sobre <a href="http://www.trololodemulher.com.br/2010/04/14/organizacao-lavanderia-maquina/" target="_blank" rel="noopener noreferrer"><strong><em>organização numa lavanderia pequena</em></strong> </a>(que talvez você não tenha visto, e vale a pena a leitura!) que ela manifestou o desejo de uma diva do lar desesperada. Veja só:
 </p>
 
 > <p style="text-align: justify;">
@@ -32,13 +29,13 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  A boa notícia é que há possibilidades bacanas para solucionar esse problema doméstico, e tudo o que a gente precisa conseguir é um bom profissional capaz de tornar real o que a gente deseja. Digo isso porque as <strong><em><a href="http://www.trololodemulher.com.br/2010/01/25/projeto-escritorio-home-office/" target="_blank">ideias para o home office</a></em></strong> daqui de casa, por exemplo, foram as que marido garimpou na web estrangeira, mas nosso marceneiro (que é da região de Campinas e, para quem quiser, posso passar os contatos), conseguiu executar tudo o que mostramos. Ele viu imagens, e nos garantiu que conseguiria reproduzí-las em nossa casa. E assim o fez! Não é ótimo?
+  A boa notícia é que há possibilidades bacanas para solucionar esse problema doméstico, e tudo o que a gente precisa conseguir é um bom profissional capaz de tornar real o que a gente deseja. Digo isso porque as <strong><em><a href="http://www.trololodemulher.com.br/2010/01/25/projeto-escritorio-home-office/" target="_blank" rel="noopener noreferrer">ideias para o home office</a></em></strong> daqui de casa, por exemplo, foram as que marido garimpou na web estrangeira, mas nosso marceneiro (que é da região de Campinas e, para quem quiser, posso passar os contatos), conseguiu executar tudo o que mostramos. Ele viu imagens, e nos garantiu que conseguiria reproduzí-las em nossa casa. E assim o fez! Não é ótimo?
 </p>
 
 Sendo assim, e isto posto, vamos ás ideias?
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/tabua-de-passar-roupa-que-desce-inteira-do-compartimento.jpg"><img class="alignnone size-full wp-image-4765" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/tabua-de-passar-roupa-que-desce-inteira-do-compartimento.jpg" alt="tábua de passar roupa que desce inteira do compartimento" width="300" height="250" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/06/tabua-de-passar-roupa-que-desce-inteira-do-compartimento.jpg"><img class="alignnone size-full wp-image-4765" src="https://www.trololodemulher.com.br/2010/06/tabua-de-passar-roupa-que-desce-inteira-do-compartimento.jpg" alt="tábua de passar roupa que desce inteira do compartimento" width="300" height="250" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -46,7 +43,7 @@ Sendo assim, e isto posto, vamos ás ideias?
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/tabua-de-passar-roupas-deslizante.jpg"><img class="alignnone size-full wp-image-4766" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/tabua-de-passar-roupas-deslizante.jpg" alt="tábua de passar roupas deslizante" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/06/tabua-de-passar-roupas-deslizante.jpg"><img class="alignnone size-full wp-image-4766" src="https://www.trololodemulher.com.br/2010/06/tabua-de-passar-roupas-deslizante.jpg" alt="tábua de passar roupas deslizante" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -54,7 +51,7 @@ Sendo assim, e isto posto, vamos ás ideias?
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/tabua-de-passar-roupas-dobravel-acoplada-ao-armario.jpg"><img class="alignnone size-full wp-image-4767" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/tabua-de-passar-roupas-dobravel-acoplada-ao-armario.jpg" alt="tábua de passar roupas dobrável acoplada ao armário" width="300" height="250" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/06/tabua-de-passar-roupas-dobravel-acoplada-ao-armario.jpg"><img class="alignnone size-full wp-image-4767" src="https://www.trololodemulher.com.br/2010/06/tabua-de-passar-roupas-dobravel-acoplada-ao-armario.jpg" alt="tábua de passar roupas dobrável acoplada ao armário" width="300" height="250" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -62,7 +59,7 @@ Sendo assim, e isto posto, vamos ás ideias?
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/tabua-de-passar-roupas-presa-por-varao-de-metal.jpg"><img class="alignnone size-full wp-image-4768" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/tabua-de-passar-roupas-presa-por-varao-de-metal.jpg" alt="tábua de passar roupas presa por varão de metal" width="300" height="250" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/06/tabua-de-passar-roupas-presa-por-varao-de-metal.jpg"><img class="alignnone size-full wp-image-4768" src="https://www.trololodemulher.com.br/2010/06/tabua-de-passar-roupas-presa-por-varao-de-metal.jpg" alt="tábua de passar roupas presa por varão de metal" width="300" height="250" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -73,12 +70,12 @@ Sendo assim, e isto posto, vamos ás ideias?
   Agora, Luma, é colocar a mão na massa no sentido de localizar profissionais que te ajudem a executar ideias diferentes que atendam a sua necessidade. E quem sabe mais ideias não apareçam nos desdobamentos dos comentários, hã? Vamos aguardar as cenas dos próximos capítulos…
 </p>
 
-_Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Gardens</em></a>
+_Imagens:_ <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer"><em>Better Homes and Gardens</em></a>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

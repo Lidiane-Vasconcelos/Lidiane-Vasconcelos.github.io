@@ -1,10 +1,7 @@
 ---
-id: 3508
 title: Sua resolução para 2016 é emagrecer? A hora é agora!
-date: 2015-11-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/11/05/emagrecer/
 permalink: /2015/11/05/emagrecer/
 categories:
   - Publieditorial
@@ -19,11 +16,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/11/SAUDE-EMAGRECER-EMAGRECIMENTO-SAUDAVEL.jpg"><img class="alignnone size-full wp-image-11647" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/11/SAUDE-EMAGRECER-EMAGRECIMENTO-SAUDAVEL.jpg" alt="SAUDE-EMAGRECER-EMAGRECIMENTO SAUDAVEL" width="800" height="530" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/11/SAUDE-EMAGRECER-EMAGRECIMENTO-SAUDAVEL.jpg"><img class="alignnone size-full wp-image-11647" src="https://www.trololodemulher.com.br/2015/11/SAUDE-EMAGRECER-EMAGRECIMENTO-SAUDAVEL.jpg" alt="SAUDE-EMAGRECER-EMAGRECIMENTO SAUDAVEL" width="800" height="530" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: <a href="http://www.laughandpee.com/" target="_blank" rel="noopener noreferrer">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank" rel="noopener noreferrer">Gratisography</a>
 </p>
 
 <p align="justify">
@@ -59,7 +56,7 @@ categories:
 </p>
 
 <p align="justify">
-  Quer ter acesso a mais informações, saber tudo <em>tim tim por tim tim</em>, e confirmar se o método é mesmo pra você? <strong><a href="http://hotmart.net.br/show.html?a=O3480332W&ap=440d&src=trololo" target="_blank">Clique aqui</a> </strong>e não perca tempo!
+  Quer ter acesso a mais informações, saber tudo <em>tim tim por tim tim</em>, e confirmar se o método é mesmo pra você? <strong><a href="http://hotmart.net.br/show.html?a=O3480332W&ap=440d&src=trololo" target="_blank" rel="noopener noreferrer">Clique aqui</a> </strong>e não perca tempo!
 </p>
 
 <p align="justify">
@@ -79,15 +76,15 @@ categories:
 </p>
 
 <p align="justify">
-  Se você é daquelas mulheres já cansadas de tentar dietas restritivas e que não têm surtido efeito, confira mais detalhes sobre esse livro e avalie o custo/benefício de comer bem, sem restrições mirabolantes e que proporcione um emagrecimento saudável. <strong><a href="http://hotmart.net.br/show.html?a=C3480457P&src=trololo" target="_blank">Clica aqui e se joga</a></strong>!
+  Se você é daquelas mulheres já cansadas de tentar dietas restritivas e que não têm surtido efeito, confira mais detalhes sobre esse livro e avalie o custo/benefício de comer bem, sem restrições mirabolantes e que proporcione um emagrecimento saudável. <strong><a href="http://hotmart.net.br/show.html?a=C3480457P&src=trololo" target="_blank" rel="noopener noreferrer">Clica aqui e se joga</a></strong>!
 </p>
 
 <p align="justify">
-  Quer receber mais dicas e <strong>conteúdo de qualidade</strong> sobre emagrecimento, alimentação saudável, e desvendar os mitos sobre o que comer e fazer para Emagrecer? Então se cadastre <a href="http://corpoementeemforma.com/emagrecer-de-vez" target="_blank">AQUI</a>!
+  Quer receber mais dicas e <strong>conteúdo de qualidade</strong> sobre emagrecimento, alimentação saudável, e desvendar os mitos sobre o que comer e fazer para Emagrecer? Então se cadastre <a href="http://corpoementeemforma.com/emagrecer-de-vez" target="_blank" rel="noopener noreferrer">AQUI</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

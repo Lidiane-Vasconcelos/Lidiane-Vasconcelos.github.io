@@ -1,10 +1,7 @@
 ---
-id: 3690
 title: 'Natal em apartamento pequeno: 5 dicas para decoração.'
-date: 2016-10-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/10/20/natal-em-apartamento-pequeno/
 permalink: /2016/10/20/natal-em-apartamento-pequeno/
 categories:
   - Casa
@@ -12,11 +9,11 @@ categories:
   - Natal
 ---
 <p align="justify">
-  Decorar espaços mínimos pode ser uma tarefa difícil, especialmente quando se pensa no <strong>Natal em apartamento pequeno</strong>. Se você me acompanha um pouquinho mais de perto sabe que <a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">mudei de Campinas – SP para Recife – PE</a>, e ano passado, mais ou menos nesta época, ainda estava reformando meu apartamento atual. Por pouco não passei meu Natal onde moro hoje, mas em um apartamento que alugamos temporariamente e, oh: ele era <em>beeeem</em> pequeno. Num primeiro momento pensei em não decorá-lo quando Dezembro chegasse, pois tinha receio de deixar o espaço ainda mais apertado. Repensei, e decidi que, sim, haveria espírito natalino na decoração do nosso <em>cafofinho </em>à época. O que mudou? Minha expectativa acerca da decoração natalina.
+  Decorar espaços mínimos pode ser uma tarefa difícil, especialmente quando se pensa no <strong>Natal em apartamento pequeno</strong>. Se você me acompanha um pouquinho mais de perto sabe que <a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank" rel="noopener noreferrer">mudei de Campinas – SP para Recife – PE</a>, e ano passado, mais ou menos nesta época, ainda estava reformando meu apartamento atual. Por pouco não passei meu Natal onde moro hoje, mas em um apartamento que alugamos temporariamente e, oh: ele era <em>beeeem</em> pequeno. Num primeiro momento pensei em não decorá-lo quando Dezembro chegasse, pois tinha receio de deixar o espaço ainda mais apertado. Repensei, e decidi que, sim, haveria espírito natalino na decoração do nosso <em>cafofinho </em>à época. O que mudou? Minha expectativa acerca da decoração natalina.
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13147" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA3-1.jpg" alt="decoracao-de-natal-decoracao-natalina3" width="752" height="750" />
+  <img class="alignnone size-full wp-image-13147" src="https://www.trololodemulher.com.br/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA3-1.jpg" alt="decoracao-de-natal-decoracao-natalina3" width="752" height="750" />
 </p>
 
 <p align="justify">
@@ -28,11 +25,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13152" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-GUIRLANDA-GUIRLANDA-DE-NATAL-GUIRLANDA-NATALINA.jpg" alt="decoracao-de-natal-decoracao-natalina-guirlanda-guirlanda-de-natal-guirlanda-natalina" width="640" height="834" />
+  <img class="alignnone size-full wp-image-13152" src="https://www.trololodemulher.com.br/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-GUIRLANDA-GUIRLANDA-DE-NATAL-GUIRLANDA-NATALINA.jpg" alt="decoracao-de-natal-decoracao-natalina-guirlanda-guirlanda-de-natal-guirlanda-natalina" width="640" height="834" />
 </p>
 
 <p align="justify">
-  Use recursos decorativos que tenham um visual limpo, para que o resultado final não fique poluído. Por exemplo: você pode substituir a guirlanda por algo que você mesma faça, evitando o uso daquelas vendidas em lojas de decoração natalina, que nem sempre são simples. Veja esta acima: a moça usou tiras de tecido que ela mesma escolheu para revestir uma guirlanda de isopor. Ao passo que ela passava uma tira, prendia com alfinetes, e dessa forma ela cobriu toda a peça. Ao final ela colocou dois enfeitinhos, que você também pode fazer usando cola quente. Aproveite a ideia! Via <a href="http://www.thehomemakery.co.uk/blog/diy-sew-fabric-wreath-christmas/" target="_blank">Homemakery</a>.
+  Use recursos decorativos que tenham um visual limpo, para que o resultado final não fique poluído. Por exemplo: você pode substituir a guirlanda por algo que você mesma faça, evitando o uso daquelas vendidas em lojas de decoração natalina, que nem sempre são simples. Veja esta acima: a moça usou tiras de tecido que ela mesma escolheu para revestir uma guirlanda de isopor. Ao passo que ela passava uma tira, prendia com alfinetes, e dessa forma ela cobriu toda a peça. Ao final ela colocou dois enfeitinhos, que você também pode fazer usando cola quente. Aproveite a ideia! Via <a href="http://www.thehomemakery.co.uk/blog/diy-sew-fabric-wreath-christmas/" target="_blank" rel="noopener noreferrer">Homemakery</a>.
 </p>
 
 <p align="justify">
@@ -40,11 +37,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank"><strong>3 guirlandas diferentes e criativas: faça você mesma.</strong></a>
+  <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank" rel="noopener noreferrer"><strong>3 guirlandas diferentes e criativas: faça você mesma.</strong></a>
 </p>
 
 <p align="justify">
-  Se você preferir, nem guirlanda precisa usar para decorar sua casa. Dá para usar outros recursos no lugar dela. Veja <a href="http://www.trololodemulher.com.br/2015/11/11/decoracao-da-porta-no-natal/" target="_blank">4 ideias de decoração de porta sem guirlanda natalina</a>, e inspire-se!
+  Se você preferir, nem guirlanda precisa usar para decorar sua casa. Dá para usar outros recursos no lugar dela. Veja <a href="http://www.trololodemulher.com.br/2015/11/11/decoracao-da-porta-no-natal/" target="_blank" rel="noopener noreferrer">4 ideias de decoração de porta sem guirlanda natalina</a>, e inspire-se!
 </p>
 
 <p align="justify">
@@ -52,11 +49,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13153" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-TOALHA-DE-MESA.jpg" alt="decoracao-de-natal-decoracao-natalina-toalha-de-mesa" width="667" height="500" />
+  <img class="alignnone size-full wp-image-13153" src="https://www.trololodemulher.com.br/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-TOALHA-DE-MESA.jpg" alt="decoracao-de-natal-decoracao-natalina-toalha-de-mesa" width="667" height="500" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.deborahsharpelinens.com/index.html" target="_blank">Deborah sharpe Linens</a>
+  Via <a href="http://www.deborahsharpelinens.com/index.html" target="_blank" rel="noopener noreferrer">Deborah sharpe Linens</a>
 </p>
 
 <p align="justify">
@@ -64,15 +61,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13150" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-ARRANJO-DE-MESA.jpg" alt="decoracao-de-natal-decoracao-natalina-arranjo-de-mesa" width="700" height="1050" />
+  <img class="alignnone size-full wp-image-13150" src="https://www.trololodemulher.com.br/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-ARRANJO-DE-MESA.jpg" alt="decoracao-de-natal-decoracao-natalina-arranjo-de-mesa" width="700" height="1050" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.thepinksprinkle.com/2014/12/easy-diy-holiday-centerpiece/" target="_blank">The Pink Sprinkle</a>
+  Via <a href="http://www.thepinksprinkle.com/2014/12/easy-diy-holiday-centerpiece/" target="_blank" rel="noopener noreferrer">The Pink Sprinkle</a>
 </p>
 
 <p align="justify">
-  Você pode usar uma arranjo de mesa também, desde que bem pequeno. Se não encontrar algo para sua necessidade, não crie pânico! Faça você mesma um enfeite com algumas boas ideias. Olha o da imagem acima: uma pequena bandeja, velas vermelhas dispostas e algumas pequenas bolinhas natalinas ao redor. Pronto! Um <a href="http://www.trololodemulher.com.br/2015/10/07/arranjo-de-mesa-de-natal/" target="_blank">arranjo de mesa de Natal</a> pequeno, simples e na medida que você precisa. Inspire-se!
+  Você pode usar uma arranjo de mesa também, desde que bem pequeno. Se não encontrar algo para sua necessidade, não crie pânico! Faça você mesma um enfeite com algumas boas ideias. Olha o da imagem acima: uma pequena bandeja, velas vermelhas dispostas e algumas pequenas bolinhas natalinas ao redor. Pronto! Um <a href="http://www.trololodemulher.com.br/2015/10/07/arranjo-de-mesa-de-natal/" target="_blank" rel="noopener noreferrer">arranjo de mesa de Natal</a> pequeno, simples e na medida que você precisa. Inspire-se!
 </p>
 
 <p align="justify">
@@ -80,7 +77,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13144" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-1.jpg" alt="decoracao-de-natal-decoracao-natalina" width="500" height="375" />
+  <img class="alignnone size-full wp-image-13144" src="https://www.trololodemulher.com.br/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-1.jpg" alt="decoracao-de-natal-decoracao-natalina" width="500" height="375" />
 </p>
 
 <p style="text-align: center;" align="justify">
@@ -96,7 +93,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13145" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA2-1.jpg" alt="decoracao-de-natal-decoracao-natalina2" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13145" src="https://www.trololodemulher.com.br/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA2-1.jpg" alt="decoracao-de-natal-decoracao-natalina2" width="800" height="800" />
 </p>
 
 <p align="center">
@@ -112,7 +109,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13151" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-ARVORE-DE-NATAL-ARVORE-NATALINA-PEQUENA.jpg" alt="decoracao-de-natal-decoracao-natalina-arvore-de-natal-arvore-natalina-pequena" width="414" height="581" />
+  <img class="alignnone size-full wp-image-13151" src="https://www.trololodemulher.com.br/2016/10/DECORACAO-DE-NATAL-DECORACAO-NATALINA-ARVORE-DE-NATAL-ARVORE-NATALINA-PEQUENA.jpg" alt="decoracao-de-natal-decoracao-natalina-arvore-de-natal-arvore-natalina-pequena" width="414" height="581" />
 </p>
 
 <p align="center">
@@ -128,11 +125,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14331" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/ARVORE-DE-NATAL-MDF-DECORACAO-DE-NATAL-DECORACAO-NATALINA-ENFEITE-DE-NATAL-ENFEITE-NATALINO2800.jpg" alt="ARVORE DE NATAL MDF-DECORACAO DE NATAL-DECORACAO NATALINA-ENFEITE DE NATAL-ENFEITE NATALINO[2]800" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14331" src="https://www.trololodemulher.com.br/2017/10/ARVORE-DE-NATAL-MDF-DECORACAO-DE-NATAL-DECORACAO-NATALINA-ENFEITE-DE-NATAL-ENFEITE-NATALINO2800.jpg" alt="ARVORE DE NATAL MDF-DECORACAO DE NATAL-DECORACAO NATALINA-ENFEITE DE NATAL-ENFEITE NATALINO[2]800" width="800" height="800" />
 </p>
 
 <p align="center">
-  Ela tem 43 cm de altura! Veja <a href="http://loja.trololodemulher.com.br/2017/10/09/arvore-de-natal/" target="_blank">mais detalhes dessa belezinha clicando aqui</a>.
+  Ela tem 43 cm de altura! Veja <a href="http://loja.trololodemulher.com.br/2017/10/09/arvore-de-natal/" target="_blank" rel="noopener noreferrer">mais detalhes dessa belezinha clicando aqui</a>.
 </p>
 
 <p align="justify">
@@ -140,9 +137,9 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14278 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER.png" alt="LOJA TROLOLO DE MULHER" width="468" height="176" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14278 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER.png" alt="LOJA TROLOLO DE MULHER" width="468" height="176" /></a>
 </p>

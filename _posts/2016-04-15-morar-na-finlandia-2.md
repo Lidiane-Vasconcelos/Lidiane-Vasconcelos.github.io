@@ -1,10 +1,7 @@
 ---
-id: 3591
 title: 'Casar e morar na Finlândia: o amor colocado à prova!'
-date: 2016-04-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/04/15/morar-na-finlandia-2/
 permalink: /2016/04/15/morar-na-finlandia-2/
 categories:
   - Adriana Minhoto
@@ -21,7 +18,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12400" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/CASAMENTO-FINLANDIA.jpg" alt="CASAMENTO-FINLANDIA" width="598" height="798" />
+  <img class="alignnone size-full wp-image-12400" src="https://www.trololodemulher.com.br/2016/04/CASAMENTO-FINLANDIA.jpg" alt="CASAMENTO-FINLANDIA" width="598" height="798" />
 </p>
 
 <p align="center">
@@ -45,7 +42,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12402" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/CASAMENTO-FINLANDIA3.jpg" alt="CASAMENTO-FINLANDIA[3]" width="598" height="798" />
+  <img class="alignnone size-full wp-image-12402" src="https://www.trololodemulher.com.br/2016/04/CASAMENTO-FINLANDIA3.jpg" alt="CASAMENTO-FINLANDIA[3]" width="598" height="798" />
 </p>
 
 <p align="justify">
@@ -53,7 +50,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>“Fiz algumas amigas brasileiras desde que cheguei. É engraçado porque as amizades aqui acabam sendo poucas e mais intensas, pois estamos todas mais ou menos na mesma situação: </em><a href="http://www.trololodemulher.com.br/2015/08/21/mulheres-brasileiras-na-finlandia/" target="_blank"><em>brasileiras na Finlândia</em></a><em>”, conta Daniela, que usa o Skype para conversar com suas amigas e família no Brasil. Ela nos confidencia que uma das coisas que mais sente falta é do “colo da mãe” quando está triste ou chateada.</em>
+  <em>“Fiz algumas amigas brasileiras desde que cheguei. É engraçado porque as amizades aqui acabam sendo poucas e mais intensas, pois estamos todas mais ou menos na mesma situação: </em><a href="http://www.trololodemulher.com.br/2015/08/21/mulheres-brasileiras-na-finlandia/" target="_blank" rel="noopener noreferrer"><em>brasileiras na Finlândia</em></a><em>”, conta Daniela, que usa o Skype para conversar com suas amigas e família no Brasil. Ela nos confidencia que uma das coisas que mais sente falta é do “colo da mãe” quando está triste ou chateada.</em>
 </p>
 
 <p align="justify">
@@ -65,7 +62,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12401" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/CASAMENTO-FINLANDIA2.jpg" alt="CASAMENTO-FINLANDIA[2]" width="800" height="600" />
+  <img class="alignnone size-full wp-image-12401" src="https://www.trololodemulher.com.br/2016/04/CASAMENTO-FINLANDIA2.jpg" alt="CASAMENTO-FINLANDIA[2]" width="800" height="600" />
 </p>
 
 <p align="justify">
@@ -73,31 +70,31 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11365" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" />
+  <img class="alignnone size-full wp-image-11365" src="https://www.trololodemulher.com.br/2015/08/ADRIANA-MINHOTO.jpg" alt="ADRIANA MINHOTO" width="800" height="180" />
 </p>
 
 **Entenda como tudo começou:**
 
-**<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
+**<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank" rel="noopener noreferrer">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
 
 &nbsp;
 
 **Mais sobre a Finlândia, por Adriana Minhoto:**
 
-**<a href="http://www.trololodemulher.com.br/2016/03/16/finlandia-2/" target="_blank">Infância na Finlândia e Brasil: há ponto em comum?</a>**
+**<a href="http://www.trololodemulher.com.br/2016/03/16/finlandia-2/" target="_blank" rel="noopener noreferrer">Infância na Finlândia e Brasil: há ponto em comum?</a>**
 
-**<a href="http://www.trololodemulher.com.br/2015/12/18/finlandia/" target="_blank">Dri Minhoto na Finlândia: pausa pra reflexão.</a>**
+**<a href="http://www.trololodemulher.com.br/2015/12/18/finlandia/" target="_blank" rel="noopener noreferrer">Dri Minhoto na Finlândia: pausa pra reflexão.</a>**
 
-**<a href="http://www.trololodemulher.com.br/2015/11/20/saude-publica-na-finlandia/" target="_blank">Por que o sistema de saúde pública na Finlândia funciona?</a>**
+**<a href="http://www.trololodemulher.com.br/2015/11/20/saude-publica-na-finlandia/" target="_blank" rel="noopener noreferrer">Por que o sistema de saúde pública na Finlândia funciona?</a>**
 
 &nbsp;
 
 <p align="justify">
-  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank" rel="noopener noreferrer">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

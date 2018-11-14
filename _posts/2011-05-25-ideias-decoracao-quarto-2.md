@@ -1,10 +1,7 @@
 ---
-id: 3001
 title: 6 ideias de decoração para mudar o seu quarto…
-date: 2011-05-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/05/25/ideias-decoracao-quarto-2/
 permalink: /2011/05/25/ideias-decoracao-quarto-2/
 categories:
   - Quarto
@@ -22,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-quarto.jpg"><img class="alignnone size-full wp-image-6433" title="decoração de quarto" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-quarto.jpg" alt="" width="500" height="575" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/decoracao-de-quarto.jpg"><img class="alignnone size-full wp-image-6433" title="decoração de quarto" src="https://www.trololodemulher.com.br/2011/05/decoracao-de-quarto.jpg" alt="" width="500" height="575" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -34,11 +31,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-quarto1.jpg"><img class="alignnone size-full wp-image-6434" title="decoração de quarto[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-quarto1.jpg" alt="" width="500" height="575" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/decoracao-de-quarto1.jpg"><img class="alignnone size-full wp-image-6434" title="decoração de quarto[1]" src="https://www.trololodemulher.com.br/2011/05/decoracao-de-quarto1.jpg" alt="" width="500" height="575" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Vamos combinar que não precisa usar esse recurso em todos os jogos de cama que você tem? Mas pelo menos um deles pode ter esse toque especial. Por que não? Eu mesma aderi a essa ideia, e tenho um jogo de cama com a palavrinha <strong>NEOQEAV</strong> <strong>bordada</strong> no lençol que cobre a cama e nas fronhas. O que significa? Deixa eu te contar: <strong>N</strong>ão <strong>E</strong>squeça <strong>O Q</strong>uanto <strong>A</strong>mo <strong>V</strong>ocê. Esta palavrinha ganhou um sentido especial para mim pouco tempo depois de conhecer o marido, há quase 10 anos, quando li <strong><a href="http://www.pedroozorio.com.br/mensagens/neoqav.htm" target="_blank">esta mensagem</a></strong>…
+  Vamos combinar que não precisa usar esse recurso em todos os jogos de cama que você tem? Mas pelo menos um deles pode ter esse toque especial. Por que não? Eu mesma aderi a essa ideia, e tenho um jogo de cama com a palavrinha <strong>NEOQEAV</strong> <strong>bordada</strong> no lençol que cobre a cama e nas fronhas. O que significa? Deixa eu te contar: <strong>N</strong>ão <strong>E</strong>squeça <strong>O Q</strong>uanto <strong>A</strong>mo <strong>V</strong>ocê. Esta palavrinha ganhou um sentido especial para mim pouco tempo depois de conhecer o marido, há quase 10 anos, quando li <strong><a href="http://www.pedroozorio.com.br/mensagens/neoqav.htm" target="_blank" rel="noopener noreferrer">esta mensagem</a></strong>…
 </p>
 
 <p style="text-align: justify;">
@@ -50,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-quarto2.jpg"><img class="alignnone size-full wp-image-6435" title="decoração de quarto[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-quarto2.jpg" alt="" width="600" height="404" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/decoracao-de-quarto2.jpg"><img class="alignnone size-full wp-image-6435" title="decoração de quarto[2]" src="https://www.trololodemulher.com.br/2011/05/decoracao-de-quarto2.jpg" alt="" width="600" height="404" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -70,7 +67,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-quarto3.jpg"><img class="alignnone size-full wp-image-6436" title="decoração de quarto[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-quarto3.jpg" alt="" width="500" height="575" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/decoracao-de-quarto3.jpg"><img class="alignnone size-full wp-image-6436" title="decoração de quarto[3]" src="https://www.trololodemulher.com.br/2011/05/decoracao-de-quarto3.jpg" alt="" width="500" height="575" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -82,7 +79,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Está mesmo disposta a forrar a sua parede com tecido? A <strong>Elisa</strong>, que é leitora do blog <strong><a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a></strong>, forrou a parede do <em>home office</em> dela e mostrou como ficou <strong>bem aqui</strong>. Se você precisa de mais estímulos para isso, a leitura desse post bem que pode ajudá-la nesse sentido… vai lá!
+  Está mesmo disposta a forrar a sua parede com tecido? A <strong>Elisa</strong>, que é leitora do blog <strong><a href="http://www.margaretss.com.br/" target="_blank" rel="noopener noreferrer">Margaretss</a></strong>, forrou a parede do <em>home office</em> dela e mostrou como ficou <strong>bem aqui</strong>. Se você precisa de mais estímulos para isso, a leitura desse post bem que pode ajudá-la nesse sentido… vai lá!
 </p>
 
 <p style="text-align: center;">
@@ -90,7 +87,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-quarto4.jpg"><img class="alignnone size-full wp-image-6437" title="decoração de quarto[4]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-quarto4.jpg" alt="" width="500" height="575" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/decoracao-de-quarto4.jpg"><img class="alignnone size-full wp-image-6437" title="decoração de quarto[4]" src="https://www.trololodemulher.com.br/2011/05/decoracao-de-quarto4.jpg" alt="" width="500" height="575" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -106,17 +103,17 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-quarto5.jpg"><img class="alignnone size-full wp-image-6440" title="decoração de quarto[5]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-quarto5.jpg" alt="" width="500" height="575" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/decoracao-de-quarto5.jpg"><img class="alignnone size-full wp-image-6440" title="decoração de quarto[5]" src="https://www.trololodemulher.com.br/2011/05/decoracao-de-quarto5.jpg" alt="" width="500" height="575" /></a>
 </p>
 
 <p style="text-align: justify;">
   Por que não? Pense comigo e você verá que essa ideia tem seu valor. Tudo depende da <strong>cadeira que você escolhe para ser uma mesinha de cabeceira</strong>. Basta que ela tenha charme…e você pode complementar o catinho com uma bela <strong>composição de pôsters</strong> a exemplo do que você vê na imagem para sua referência… repara novamente!
 </p>
 
-Imagens: **<a href="http://www.countryliving.com/" target="_blank">CountryLiving</a>**
+Imagens: **<a href="http://www.countryliving.com/" target="_blank" rel="noopener noreferrer">CountryLiving</a>**
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

@@ -1,10 +1,7 @@
 ---
-id: 3058
 title: Os dias quentes estão chegando… o que você vai fazer?
-date: 2011-09-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/09/30/dias-quentes/
 permalink: /2011/09/30/dias-quentes/
 categories:
   - Trololó
@@ -26,7 +23,7 @@ Finalmente os **dias quentes** estão mesmo dando o ar da graça… oba! A Prima
 &nbsp;
 
 <p align="justify">
-  A <strong>Fátima Moral</strong>, editora do blog <strong><a href="http://personalbuyers.blogspot.com/" target="_blank">Personal Buyers – First Class</a></strong>, está pensando em mudar algumas atitudes em prol do próprio corpo para desfilar serelepe, saltitante, linda e absoluta quando o sol vier com tudo. Mas essas pequenas mudanças que, com certeza, serão de grande efeito, serão colocadas em prática antes do Verão chegar. Planos para ficar mais bonita é que não faltam para essa bonita… olha só:
+  A <strong>Fátima Moral</strong>, editora do blog <strong><a href="http://personalbuyers.blogspot.com/" target="_blank" rel="noopener noreferrer">Personal Buyers – First Class</a></strong>, está pensando em mudar algumas atitudes em prol do próprio corpo para desfilar serelepe, saltitante, linda e absoluta quando o sol vier com tudo. Mas essas pequenas mudanças que, com certeza, serão de grande efeito, serão colocadas em prática antes do Verão chegar. Planos para ficar mais bonita é que não faltam para essa bonita… olha só:
 </p>
 
 &nbsp;
@@ -42,7 +39,7 @@ Finalmente os **dias quentes** estão mesmo dando o ar da graça… oba! A Prima
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Gel-Bye-Bye-Celulite-Nivea.png"><img class="alignnone size-full wp-image-6971" title="Gel Bye Bye Celulite Nivea" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Gel-Bye-Bye-Celulite-Nivea.png" alt="" width="368" height="473" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/09/Gel-Bye-Bye-Celulite-Nivea.png"><img class="alignnone size-full wp-image-6971" title="Gel Bye Bye Celulite Nivea" src="https://www.trololodemulher.com.br/2011/09/Gel-Bye-Bye-Celulite-Nivea.png" alt="" width="368" height="473" /></a>
 </p>
 
 <p align="center">
@@ -52,7 +49,7 @@ Finalmente os **dias quentes** estão mesmo dando o ar da graça… oba! A Prima
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Natura-Chronos-Bio-Redutor.jpg"><img class="alignnone size-full wp-image-6972" title="Natura Chronos Bio Redutor" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Natura-Chronos-Bio-Redutor.jpg" alt="" width="326" height="326" /></a><br /> <em>”…mas tenho dois tubos fechados da natura (bio-redutor) e vou acabar com ele.”</em>
+  <a href="https://www.trololodemulher.com.br/2011/09/Natura-Chronos-Bio-Redutor.jpg"><img class="alignnone size-full wp-image-6972" title="Natura Chronos Bio Redutor" src="https://www.trololodemulher.com.br/2011/09/Natura-Chronos-Bio-Redutor.jpg" alt="" width="326" height="326" /></a><br /> <em>”…mas tenho dois tubos fechados da natura (bio-redutor) e vou acabar com ele.”</em>
 </p>
 
 &nbsp;
@@ -62,7 +59,7 @@ Finalmente os **dias quentes** estão mesmo dando o ar da graça… oba! A Prima
 > </p>
 
 > <p align="justify">
->   <em>4. Fazer um <strong><a href="http://personalbuyers.blogspot.com/2011/08/nova-parceria-clinica-de-estetica.html" target="_blank">pacote de drenagem linfática + manthus + ortomolecular</a></strong> com nossa terapeuta <strong>Cynthia Fracarola;</strong> </em>
+>   <em>4. Fazer um <strong><a href="http://personalbuyers.blogspot.com/2011/08/nova-parceria-clinica-de-estetica.html" target="_blank" rel="noopener noreferrer">pacote de drenagem linfática + manthus + ortomolecular</a></strong> com nossa terapeuta <strong>Cynthia Fracarola;</strong> </em>
 > </p>
 
 > <p align="justify">
@@ -94,13 +91,13 @@ Finalmente os **dias quentes** estão mesmo dando o ar da graça… oba! A Prima
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Verao.jpg"><img class="alignnone size-full wp-image-6973" title="Verão" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Verao.jpg" alt="" width="600" height="338" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/09/Verao.jpg"><img class="alignnone size-full wp-image-6973" title="Verão" src="https://www.trololodemulher.com.br/2011/09/Verao.jpg" alt="" width="600" height="338" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">Stock.xchng</a></strong>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Pensa que é só a Fátima que está atenta aos cuidados do corpo para dar boas vindas ao Verão sentindo-se bem e mais bonita? Não mesmo! A <strong>Vânia Pinho</strong>, do blog <strong><a href="http://casadebonecadecor.blogspot.com/" target="_blank">Casa de Boneca</a></strong>, também está neste clima, e conta o que vai fazer quando os dias ensolarados chegarem:
+  Pensa que é só a Fátima que está atenta aos cuidados do corpo para dar boas vindas ao Verão sentindo-se bem e mais bonita? Não mesmo! A <strong>Vânia Pinho</strong>, do blog <strong><a href="http://casadebonecadecor.blogspot.com/" target="_blank" rel="noopener noreferrer">Casa de Boneca</a></strong>, também está neste clima, e conta o que vai fazer quando os dias ensolarados chegarem:
 </p>
 
 &nbsp;
@@ -145,13 +142,13 @@ Se curiosidade matasse… coitada de mim! Então, conta aí…** <span style="fo
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Laguna-Colorada-Bolivia200.jpg"><img class="alignnone size-full wp-image-6710" title="Laguna Colorada - Bolívia200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Laguna-Colorada-Bolivia200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/08/05/viagem-5-lugares-para-conhecer/"><span style="font-size: small;">Viagem: 5 lugares para conhecer e se surpreender. Duvida?!</span></a></strong>
+        <a href="https://www.trololodemulher.com.br/2011/08/Laguna-Colorada-Bolivia200.jpg"><img class="alignnone size-full wp-image-6710" title="Laguna Colorada - Bolívia200" src="https://www.trololodemulher.com.br/2011/08/Laguna-Colorada-Bolivia200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/08/05/viagem-5-lugares-para-conhecer/"><span style="font-size: small;">Viagem: 5 lugares para conhecer e se surpreender. Duvida?!</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/cha-ou-cafe-da-tarde200.jpg"><img class="alignnone size-full wp-image-4847" title="chá ou café da tarde200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/cha-ou-cafe-da-tarde200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/07/12/cha-cafe-da-tarde/"><span style="font-size: small;"><strong>Chá ou café da tarde com amigas: dicas e ideias.</strong></span></a>
+        <a href="https://www.trololodemulher.com.br/2010/06/cha-ou-cafe-da-tarde200.jpg"><img class="alignnone size-full wp-image-4847" title="chá ou café da tarde200" src="https://www.trololodemulher.com.br/2010/06/cha-ou-cafe-da-tarde200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/07/12/cha-cafe-da-tarde/"><span style="font-size: small;"><strong>Chá ou café da tarde com amigas: dicas e ideias.</strong></span></a>
       </p>
     </td>
   </tr>
@@ -161,19 +158,19 @@ Se curiosidade matasse… coitada de mim! Então, conta aí…** <span style="fo
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Final-de-semana200.jpg"><img class="alignnone size-thumbnail wp-image-6969" title="Final de semana200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Final-de-semana200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/08/21/vivendo-fim-de-semana/"><span style="font-size: small;">Como você vive e aproveita os fins de semana?</span></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2011/09/Final-de-semana200.jpg"><img class="alignnone size-thumbnail wp-image-6969" title="Final de semana200" src="https://www.trololodemulher.com.br/2011/09/Final-de-semana200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/08/21/vivendo-fim-de-semana/"><span style="font-size: small;">Como você vive e aproveita os fins de semana?</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Jardim-Japones200.jpg"><img class="alignnone size-thumbnail wp-image-6970" title="Jardim Japonês200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Jardim-Japones200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/05/22/jardim-japones/"><span style="font-size: small;">Do jardim japonês e tudo o mais que nos acalme.</span></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2011/09/Jardim-Japones200.jpg"><img class="alignnone size-thumbnail wp-image-6970" title="Jardim Japonês200" src="https://www.trololodemulher.com.br/2011/09/Jardim-Japones200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/05/22/jardim-japones/"><span style="font-size: small;">Do jardim japonês e tudo o mais que nos acalme.</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Cappuccino200.jpg"><img class="alignnone size-thumbnail wp-image-6968" title="Cappuccino200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Cappuccino200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/05/15/gostosuras-da-vida/"><span style="font-size: small;">Gostosuras que dão graça no estilo de viver…</span></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2011/09/Cappuccino200.jpg"><img class="alignnone size-thumbnail wp-image-6968" title="Cappuccino200" src="https://www.trololodemulher.com.br/2011/09/Cappuccino200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/05/15/gostosuras-da-vida/"><span style="font-size: small;">Gostosuras que dão graça no estilo de viver…</span></a></strong>
       </p>
     </td>
   </tr>

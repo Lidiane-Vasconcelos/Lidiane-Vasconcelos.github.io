@@ -1,10 +1,7 @@
 ---
-id: 2948
 title: Ganhei mimos by Joana Campos. Vem cá que eu te mostro!
-date: 2011-01-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/01/26/joana-campos-artesanato/
 permalink: /2011/01/26/joana-campos-artesanato/
 categories:
   - Trololó
@@ -18,19 +15,19 @@ Sabe como a gente fica feliz da vida quando chega um pacotinho por correspondên
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/descanso-para-copos-e-pimentas-decorativas-artesanais.jpg"></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/descanso-para-copos-e-pimentas-decorativas-artesanais.jpg"></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/descanso-para-copos-e-pimentas-decorativas-artesanais1.jpg"><img class="size-full wp-image-5876 aligncenter" title="descanso para copos e pimentas decorativas artesanais" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/descanso-para-copos-e-pimentas-decorativas-artesanais1.jpg" alt="" width="600" height="452" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/descanso-para-copos-e-pimentas-decorativas-artesanais1.jpg"><img class="size-full wp-image-5876 aligncenter" title="descanso para copos e pimentas decorativas artesanais" src="https://www.trololodemulher.com.br/2011/01/descanso-para-copos-e-pimentas-decorativas-artesanais1.jpg" alt="" width="600" height="452" /></a>
 </p>
 
 <p style="text-align: justify;">
-  A <strong>Joana Campos</strong>, que edita um <a href="http://www.joanacampos.com/" target="_blank">blog que leva o nome dela</a>, inaugurou há um certo tempo uma lojinha virtual, a <a href="http://www.joanacampos.com/" target="_blank">JoanaJoana</a>. Ela é artesã, e produz tudo o que está disponível em sua loja. Um dos produtos com maior variedade são os descansos de copo, a exemplo desses que você vê na imagem acima, todo fofo de poá. E não é que fui mimada com um conjunto desses, além de pimentas decorativas?
+  A <strong>Joana Campos</strong>, que edita um <a href="http://www.joanacampos.com/" target="_blank" rel="noopener noreferrer">blog que leva o nome dela</a>, inaugurou há um certo tempo uma lojinha virtual, a <a href="http://www.joanacampos.com/" target="_blank" rel="noopener noreferrer">JoanaJoana</a>. Ela é artesã, e produz tudo o que está disponível em sua loja. Um dos produtos com maior variedade são os descansos de copo, a exemplo desses que você vê na imagem acima, todo fofo de poá. E não é que fui mimada com um conjunto desses, além de pimentas decorativas?
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/descanso-para-copos-artesanal.jpg"><img class="alignnone size-full wp-image-5870" title="descanso para copos artesanal" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/descanso-para-copos-artesanal.jpg" alt="" width="588" height="504" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/descanso-para-copos-artesanal.jpg"><img class="alignnone size-full wp-image-5870" title="descanso para copos artesanal" src="https://www.trololodemulher.com.br/2011/01/descanso-para-copos-artesanal.jpg" alt="" width="588" height="504" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -38,7 +35,7 @@ Sabe como a gente fica feliz da vida quando chega um pacotinho por correspondên
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/pimentas-decorativas-artesanais.jpg"><img class="alignnone size-full wp-image-5874" title="pimentas decorativas artesanais" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/pimentas-decorativas-artesanais.jpg" alt="" width="541" height="506" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/pimentas-decorativas-artesanais.jpg"><img class="alignnone size-full wp-image-5874" title="pimentas decorativas artesanais" src="https://www.trololodemulher.com.br/2011/01/pimentas-decorativas-artesanais.jpg" alt="" width="541" height="506" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -61,36 +58,36 @@ Sabe como a gente fica feliz da vida quando chega um pacotinho por correspondên
   <tr>
     <td width="59" valign="top">
       <div>
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/e-mail.jpg"><img class="size-full wp-image-5845 alignleft" title="e-mail" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/e-mail.jpg" alt="" width="40" height="40" /></a>
+        <a href="https://www.trololodemulher.com.br/2011/01/e-mail.jpg"><img class="size-full wp-image-5845 alignleft" title="e-mail" src="https://www.trololodemulher.com.br/2011/01/e-mail.jpg" alt="" width="40" height="40" /></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/e-mail.jpg"></a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/e-mail.jpg"></a>
+        <a href="https://www.trololodemulher.com.br/2011/01/e-mail.jpg"></a><a href="https://www.trololodemulher.com.br/2011/01/e-mail.jpg"></a>
       </div>
     </td>
     
     <td style="text-align: justify;" width="541" valign="top">
-      Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">Assine. É grátis!</a></em></strong>
+      Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer">Assine. É grátis!</a></em></strong>
     </td>
   </tr>
   
   <tr>
     <td width="59" valign="top">
-      <img class="size-full wp-image-5850 alignleft" title="twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/twitter1.jpg" alt="" width="40" height="39" />
+      <img class="size-full wp-image-5850 alignleft" title="twitter" src="https://www.trololodemulher.com.br/2011/01/twitter1.jpg" alt="" width="40" height="39" />
     </td>
     
     <td style="text-align: right;" width="541" valign="top">
-      Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a></em></strong>
+      Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea" target="_blank" rel="noopener noreferrer">@bichafemea</a></em></strong>
     </td>
   </tr>
   
   <tr>
     <td width="59" valign="top">
-      <img class="size-full wp-image-5849 alignleft" title="orkut" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/orkut.jpg" alt="" width="40" height="39" />
+      <img class="size-full wp-image-5849 alignleft" title="orkut" src="https://www.trololodemulher.com.br/2011/01/orkut.jpg" alt="" width="40" height="39" />
     </td>
     
     <td style="text-align: right;" width="541" valign="top">
-      Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900" target="_blank">Adicione!</a></em></strong>
+      Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900" target="_blank" rel="noopener noreferrer">Adicione!</a></em></strong>
     </td>
   </tr>
 </table>

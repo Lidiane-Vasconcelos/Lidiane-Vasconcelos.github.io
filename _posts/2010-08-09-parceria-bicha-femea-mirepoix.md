@@ -1,16 +1,13 @@
 ---
-id: 2858
 title: 'Parceria Bicha Fêmea &#038; Mirepoix = presente para as apaixonadas por cupcakes!'
-date: 2010-08-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/08/09/parceria-bicha-femea-mirepoix/
 permalink: /2010/08/09/parceria-bicha-femea-mirepoix/
 categories:
   - Promoção
   - Publieditorial
 ---
-Você já ouviu falar do <a href="http://chefdeboracordeiro.blogspot.com/" target="_blank"><em>MIREPOIX</em></a>? Interessante e diferente o nome, não é? Sabe o que há por trás dele? Olha só: aulas de culinária; encomendas de doces, salgados, pratos prontos, etc.; aulas-presente de culinária; apostilas gastronômicas.
+Você já ouviu falar do <a href="http://chefdeboracordeiro.blogspot.com/" target="_blank" rel="noopener noreferrer"><em>MIREPOIX</em></a>? Interessante e diferente o nome, não é? Sabe o que há por trás dele? Olha só: aulas de culinária; encomendas de doces, salgados, pratos prontos, etc.; aulas-presente de culinária; apostilas gastronômicas.
 
 Ufa! E sabe quem dá conta de prestar tantos serviços personalizados e que descomplicam a vida de qualquer bicha fêmea moderna? A _Chef_ Debora Cordeiro!
 
@@ -21,17 +18,17 @@ Debora é gastrônoma, pós-graduada em docência, consultora e professora, ou s
 E sabe o que é melhor? Através da parceria entre o **_Bicha Fêmea_** e o **_MIREPOIX_**, você pode ter a chance de receber um **_kit muito fofo para cupcakes_** e, de quebra, **_apostilas que vão te ensinar a produzir gostosuras_** que darão sabor e alegria a sua vida. Não é bom?
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/kitmirepoixbichafemea.jpg"></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/kitmirepoixbichafemea.jpg"></a>
 </p>
 
 Sabe do que se trata o kit? Vamos lá: **_24 forminhas para usar em cupcakes, muffins ou minibolos + 24 enfeites de papel (balãozinho e chapéu – 12 de cada) para os bolinhos que você preparar_**. Tudo isso você pode receber em casa!
 
-E você pensa que acabou por aí? Não mesmo! Além do kit, a sortuda ainda receberá, **_por e-mail, duas apostilas:_** <a href="http://apostilasgastronomicasmirepoix.blogspot.com/2010/03/apostila-de-cupcakes.html" target="_blank"><strong><em>apostila de cupcakes</em></strong></a>** _e_** <a href="http://apostilasgastronomicasmirepoix.blogspot.com/2008/10/apostila-de-confeitaria.html" target="_blank"><strong><em>apostila de confeitaria</em></strong></a>**_._** 
+E você pensa que acabou por aí? Não mesmo! Além do kit, a sortuda ainda receberá, **_por e-mail, duas apostilas:_** <a href="http://apostilasgastronomicasmirepoix.blogspot.com/2010/03/apostila-de-cupcakes.html" target="_blank" rel="noopener noreferrer"><strong><em>apostila de cupcakes</em></strong></a>** _e_** <a href="http://apostilasgastronomicasmirepoix.blogspot.com/2008/10/apostila-de-confeitaria.html" target="_blank" rel="noopener noreferrer"><strong><em>apostila de confeitaria</em></strong></a>**_._** 
 
-Há uma série de apostilas, com uma infinidade de títulos, que são disponibilizadas pela Debora Cordeiro na <a href="http://apostilasgastronomicasmirepoix.blogspot.com/" target="_blank">loja virtual</a>. Se você quiser adquirir algumas delas para facilitar ainda mais a sua vida, você conta com **_10% de desconto_** nas **_compras a partir de R$ 30,00_**, com **_pagamento através de depósito em conta, até 30/Agosto_**. O desconto aumenta para **_15% se a compra for a partir de R$ 100,00_**. Basta informar o código **MIRBIC082010** na hora de fazer sua solicitação. Olha a oportunidade aí, bonita!!!
+Há uma série de apostilas, com uma infinidade de títulos, que são disponibilizadas pela Debora Cordeiro na <a href="http://apostilasgastronomicasmirepoix.blogspot.com/" target="_blank" rel="noopener noreferrer">loja virtual</a>. Se você quiser adquirir algumas delas para facilitar ainda mais a sua vida, você conta com **_10% de desconto_** nas **_compras a partir de R$ 30,00_**, com **_pagamento através de depósito em conta, até 30/Agosto_**. O desconto aumenta para **_15% se a compra for a partir de R$ 100,00_**. Basta informar o código **MIRBIC082010** na hora de fazer sua solicitação. Olha a oportunidade aí, bonita!!!
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/banner125mirepoix300.png"><img class="size-full wp-image-5037 aligncenter" title="banner125mirepoix300" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/banner125mirepoix300.png" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/banner125mirepoix300.png"><img class="size-full wp-image-5037 aligncenter" title="banner125mirepoix300" src="https://www.trololodemulher.com.br/2010/08/banner125mirepoix300.png" alt="" width="300" height="300" /></a>
 </p>
 
 Agora, vem cá! Quer participar do sorteio? Então veja que é bem fácil, como sempre… **_basta deixar uma mensagem neste post, preenchendo o formulário do comentário com um e-mail válido_** (e que você consulte com regularidade para não perder o prêmio), e torcer muito para ganhar!

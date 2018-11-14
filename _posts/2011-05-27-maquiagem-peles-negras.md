@@ -1,15 +1,12 @@
 ---
-id: 3000
 title: 'Dicas de beleza: maquiagem para peles negras. Anote!'
-date: 2011-05-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/05/27/maquiagem-peles-negras/
 permalink: /2011/05/27/maquiagem-peles-negras/
 categories:
   - Beleza
 ---
-Você quer sair por aí toda bonitona, com capricho na _**make**_, mas fica insegura na hora de produzir sua **maquiagem**? Então, não é por isso que você vai ficar de cara lavada, _viu_? O maquiador **Alexandre Capellie**, que é do **Rio de Janeiro** e edita o blog **<a href="http://maquisempre.blogspot.com/" target="_blank">Maquiagem Sempre</a>**, dá todas as dicas que você precisa para realçar seu tom de pele.
+Você quer sair por aí toda bonitona, com capricho na _**make**_, mas fica insegura na hora de produzir sua **maquiagem**? Então, não é por isso que você vai ficar de cara lavada, _viu_? O maquiador **Alexandre Capellie**, que é do **Rio de Janeiro** e edita o blog **<a href="http://maquisempre.blogspot.com/" target="_blank" rel="noopener noreferrer">Maquiagem Sempre</a>**, dá todas as dicas que você precisa para realçar seu tom de pele.
 
 <p style="text-align: justify;">
   Lápis e papel na mão… na hora de comprar produtos de maquiagem, tenha ao seu alcance as dicas que o Alexandre deu, com exclusividade, para o Bicha Fêmea:
@@ -30,11 +27,11 @@ Você quer sair por aí toda bonitona, com capricho na _**make**_, mas fica inse
 </p>
 
 <p style="text-align: justify;">
-  Na hora de escolher o tom de sombras, a dica é apostar em <strong>cores quentes</strong> como o <strong>marrom, bronze, dourado e afins</strong>. Entretanto, é possível variar sem medo. Alexandre ensina que “<em>tons frios podem ser muito interessantes pois somos miscigenados, como o azul, o lilás, o violeta, o roxo. Os tons de cinza, chumbo e preto também podem ficar muito elegantes</em>”. Ficou interessada em explorar mais o assunto “cores quentes x cores frias”? O Alexandre já escreveu sobre o assunto <strong><a href="http://maquisempre.blogspot.com/2010/09/cores-quentes-e-frias-como-assim.html" target="_blank">aqui</a></strong>. Confira!
+  Na hora de escolher o tom de sombras, a dica é apostar em <strong>cores quentes</strong> como o <strong>marrom, bronze, dourado e afins</strong>. Entretanto, é possível variar sem medo. Alexandre ensina que “<em>tons frios podem ser muito interessantes pois somos miscigenados, como o azul, o lilás, o violeta, o roxo. Os tons de cinza, chumbo e preto também podem ficar muito elegantes</em>”. Ficou interessada em explorar mais o assunto “cores quentes x cores frias”? O Alexandre já escreveu sobre o assunto <strong><a href="http://maquisempre.blogspot.com/2010/09/cores-quentes-e-frias-como-assim.html" target="_blank" rel="noopener noreferrer">aqui</a></strong>. Confira!
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/dicas-maquiagem-pele-negra.jpg"><img class="alignnone size-full wp-image-6428" title="dicas maquiagem pele negra" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/dicas-maquiagem-pele-negra.jpg" alt="" width="600" height="674" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/dicas-maquiagem-pele-negra.jpg"><img class="alignnone size-full wp-image-6428" title="dicas maquiagem pele negra" src="https://www.trololodemulher.com.br/2011/05/dicas-maquiagem-pele-negra.jpg" alt="" width="600" height="674" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -50,7 +47,7 @@ Você quer sair por aí toda bonitona, com capricho na _**make**_, mas fica inse
 </p>
 
 <p style="text-align: justify;">
-  No quesito bocas, há sugestões para quem tem <strong>lábios carnudos</strong>, o que acontece com a maioria das negras, e para as que têm <strong>lábios finos</strong>. No <strong>primeiro caso</strong>, “ <em>usamos tons mais fechados e evitamos brilhos para mulheres que querem disfarçar isto</em>”, explica Alexandre. “<em>E para aquela que gosta de ressaltar ou tem <strong>lábios mais finos</strong>,<strong> tons mais claros e com brilho, molhado tipo &#8216;verniz&#8217; ou com micro partículas tipo &#8216;glitter'&#8221;</strong></em>, continua ensinando. Há muito mais dicas sobre como maquiar os lábios, todas dadas pelo Alexandre, <strong><a href="http://maquisempre.blogspot.com/2010/10/como-aumentar-seus-labios.html" target="_blank">bem aqui</a></strong>. Aproveita!
+  No quesito bocas, há sugestões para quem tem <strong>lábios carnudos</strong>, o que acontece com a maioria das negras, e para as que têm <strong>lábios finos</strong>. No <strong>primeiro caso</strong>, “ <em>usamos tons mais fechados e evitamos brilhos para mulheres que querem disfarçar isto</em>”, explica Alexandre. “<em>E para aquela que gosta de ressaltar ou tem <strong>lábios mais finos</strong>,<strong> tons mais claros e com brilho, molhado tipo &#8216;verniz&#8217; ou com micro partículas tipo &#8216;glitter'&#8221;</strong></em>, continua ensinando. Há muito mais dicas sobre como maquiar os lábios, todas dadas pelo Alexandre, <strong><a href="http://maquisempre.blogspot.com/2010/10/como-aumentar-seus-labios.html" target="_blank" rel="noopener noreferrer">bem aqui</a></strong>. Aproveita!
 </p>
 
 <p style="text-align: center;">
@@ -62,10 +59,10 @@ Você quer sair por aí toda bonitona, com capricho na _**make**_, mas fica inse
 > </p>
 
 <p style="text-align: justify;">
-  Alexandre ainda explica que as dicas que foram dadas aqui são bem básicas, para o seu dia a dia. Na verdade, existem <strong>orientações</strong> bem <strong>específicas</strong> que <strong>variam de pessoa para pessoa</strong>, levando-se em consideração o formato do rosto, lábios, etc. Por isso, Alexandre desenvolve o trabalho de <em>personal</em> da beleza. Já pensou ter um profissional ao seu lado para te orientar na hora das compras dos produtos de maquiagem e afins? Pois é nisso que ele pode te ajudar, bonita! Se joga no <strong><a href="http://alecapellie.site.com.br/" target="_blank">site do rapaz</a></strong>… fica a dica!
+  Alexandre ainda explica que as dicas que foram dadas aqui são bem básicas, para o seu dia a dia. Na verdade, existem <strong>orientações</strong> bem <strong>específicas</strong> que <strong>variam de pessoa para pessoa</strong>, levando-se em consideração o formato do rosto, lábios, etc. Por isso, Alexandre desenvolve o trabalho de <em>personal</em> da beleza. Já pensou ter um profissional ao seu lado para te orientar na hora das compras dos produtos de maquiagem e afins? Pois é nisso que ele pode te ajudar, bonita! Se joga no <strong><a href="http://alecapellie.site.com.br/" target="_blank" rel="noopener noreferrer">site do rapaz</a></strong>… fica a dica!
 </p>
 
-Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+Imagem: **<a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>**
 
 **Mais no Bicha Fêmea…**
 

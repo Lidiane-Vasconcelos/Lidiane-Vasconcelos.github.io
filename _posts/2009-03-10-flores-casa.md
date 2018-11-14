@@ -1,23 +1,20 @@
 ---
-id: 2637
 title: Onde é o lugar das flores na sua casa?
-date: 2009-03-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/03/10/flores-casa/
 permalink: /2009/03/10/flores-casa/
 categories:
   - Dicas de Decoração
 ---
 Quando comecei a blogar, estava no início de um caso de amor incondicional com a casa para onde vim morar há não muito tempo.
 
-Desde então, tenho aprendido a olhar o espaço ao meu redor com muito mais afago no coração, e a querer enfeitá-lo de todas as maneiras que me forem possíveis para o encantamento dos olhos. faz bem para as emoções…ô, se faz.[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/03/clip-image00124.gif)
+Desde então, tenho aprendido a olhar o espaço ao meu redor com muito mais afago no coração, e a querer enfeitá-lo de todas as maneiras que me forem possíveis para o encantamento dos olhos. faz bem para as emoções…ô, se faz.[](https://www.trololodemulher.com.br/2009/03/clip-image00124.gif)
 
-E agora me pego pensando em como florir, e quais espaços privilegiar na hora de ornar com flores. É um exercício delicioso. E apenas pensar e imaginar o espaço florido, para depois executar o que foi imaginado, já traz tanta satisfação… alguém explica o que é isso?[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/03/clip-image00148.gif)
+E agora me pego pensando em como florir, e quais espaços privilegiar na hora de ornar com flores. É um exercício delicioso. E apenas pensar e imaginar o espaço florido, para depois executar o que foi imaginado, já traz tanta satisfação… alguém explica o que é isso?[](https://www.trololodemulher.com.br/2009/03/clip-image00148.gif)
 
-O fato é que essa seleção de imagens fofas, floridas e com cara de “casinha” é um convite a vocês, porque sou curiosa (repararam?), a revelarem onde é o lugar da casa de vocês para onde as flores vão.[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/03/clip-image00167.gif)
+O fato é que essa seleção de imagens fofas, floridas e com cara de “casinha” é um convite a vocês, porque sou curiosa (repararam?), a revelarem onde é o lugar da casa de vocês para onde as flores vão.[](https://www.trololodemulher.com.br/2009/03/clip-image00167.gif)
 
-Sou iniciante na arte de florescer a casa, e enquanto revelo o que penso sobre como e onde florescer a minha, espero descobrir novas possibilidades através da de vocês…[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/03/clip-image00186.gif)
+Sou iniciante na arte de florescer a casa, e enquanto revelo o que penso sobre como e onde florescer a minha, espero descobrir novas possibilidades através da de vocês…[](https://www.trololodemulher.com.br/2009/03/clip-image00186.gif)
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="http://www.countryhome.com/" src="http://www.countryhome.com/images/img_plantsandplans_ss4.jpg" alt="http://www.countryhome.com/" />
@@ -47,7 +44,7 @@ O vaso predileto, seja ele da forma ou cor que for, certamente fica em algum lug
 
 E é lá, no centro da mesa de jantar, que fica meu vaso mais “_rechonchundinho_” e com cara de casa. Nem sei porque ele tem mais “cara de casa”, mas casa sem vaso “_rechonchundinho_” com flores na mesa não há de ser casa, ora pois!
 
-Imagens: <a href="http://www.countryhome.com/" target="_blank">Country Home</a>
+Imagens: <a href="http://www.countryhome.com/" target="_blank" rel="noopener noreferrer">Country Home</a>
 
 <span style="color: #800080;">Diz aí, onde é o lugar das flores na sua casa?</span>
 

@@ -1,10 +1,7 @@
 ---
-id: 3136
 title: Quer fazer boas compras no supermercado?
-date: 2012-06-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/06/13/compras-no-supermercado/
 permalink: /2012/06/13/compras-no-supermercado/
 categories:
   - Finanças Pessoais
@@ -22,7 +19,7 @@ Ah, bonita! Para isso você precisa ver as dicas deste post, dadas por mim e mui
 <!--more-->
 
 <p align="justify">
-  Pois é, toda diva do lar precisa mesmo dar uma olhadinha e conferir o que tantas outras têm a dizer sobre compras no supermercado. A primeira de todas as dicas é jamais ir ao mercado com fome, pois isso vai fazer você comprar mais. Esse alerta é dado pela <strong>Milena Orlando</strong> e pela <strong>Elaine Cunha | <a href="http://www.caminhandocontando.com/" target="_blank">Caminhando e Contando</a></strong>. Além do mais, a <strong>Milena</strong> faz outros alertas, dentre eles, o de não levar crianças para as compras:
+  Pois é, toda diva do lar precisa mesmo dar uma olhadinha e conferir o que tantas outras têm a dizer sobre compras no supermercado. A primeira de todas as dicas é jamais ir ao mercado com fome, pois isso vai fazer você comprar mais. Esse alerta é dado pela <strong>Milena Orlando</strong> e pela <strong>Elaine Cunha | <a href="http://www.caminhandocontando.com/" target="_blank" rel="noopener noreferrer">Caminhando e Contando</a></strong>. Além do mais, a <strong>Milena</strong> faz outros alertas, dentre eles, o de não levar crianças para as compras:
 </p>
 
 &nbsp;
@@ -34,7 +31,7 @@ Ah, bonita! Para isso você precisa ver as dicas deste post, dadas por mim e mui
 &nbsp;
 
 <p align="justify">
-  A propósito, levar crianças não é uma boa ideia na opinião da <strong>Márcia da Costa Trigueiro | <a href="http://www.simplesmenteaprendiz.blogspot.com.br/" target="_blank">Simplesmente Aprendiz</a></strong> também: “<em>Uma dica que eu levo muito a sério é deixar as crianças em casa com alguém: economia de tempo, preocupação e dinheiro !!!!”</em>
+  A propósito, levar crianças não é uma boa ideia na opinião da <strong>Márcia da Costa Trigueiro | <a href="http://www.simplesmenteaprendiz.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Simplesmente Aprendiz</a></strong> também: “<em>Uma dica que eu levo muito a sério é deixar as crianças em casa com alguém: economia de tempo, preocupação e dinheiro !!!!”</em>
 </p>
 
 &nbsp;
@@ -68,13 +65,13 @@ Ah, bonita! Para isso você precisa ver as dicas deste post, dadas por mim e mui
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/13/compras-no-supermercado/organizacao-domestica/" rel="attachment wp-att-8719"><img class="alignnone size-full wp-image-8719" title="ORGANIZACAO DOMESTICA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/ORGANIZACAO-DOMESTICA.png" alt="" width="396" height="317" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/2012/06/13/compras-no-supermercado/organizacao-domestica/" rel="attachment wp-att-8719"><img class="alignnone size-full wp-image-8719" title="ORGANIZACAO DOMESTICA" src="https://www.trololodemulher.com.br/2012/06/ORGANIZACAO-DOMESTICA.png" alt="" width="396" height="317" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">Stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  E agora já aprendi outros truques com a <strong>Simone |</strong> <strong><a href="http://www.newsespacohome.blogspot.com.br/" target="_blank">Organização com Estilo</a></strong>… <em>espia</em>:
+  E agora já aprendi outros truques com a <strong>Simone |</strong> <strong><a href="http://www.newsespacohome.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Organização com Estilo</a></strong>… <em>espia</em>:
 </p>
 
 &nbsp;
@@ -85,7 +82,7 @@ Ah, bonita! Para isso você precisa ver as dicas deste post, dadas por mim e mui
 
 &nbsp;
 
-Além do mais, a **Yvone | <a href="http://casaspossiveis.blogspot.com.br/" target="_blank">Casas Possíveis</a>**, que não tem mais filhos pequenos e, portanto, está numa outra fase da vida, também deixou seu recado compartilhando dicas valiosas. Anote:
+Além do mais, a **Yvone | <a href="http://casaspossiveis.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Casas Possíveis</a>**, que não tem mais filhos pequenos e, portanto, está numa outra fase da vida, também deixou seu recado compartilhando dicas valiosas. Anote:
 
 &nbsp;
 
@@ -109,13 +106,13 @@ Além do mais, a **Yvone | <a href="http://casaspossiveis.blogspot.com.br/" targ
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/13/compras-no-supermercado/sustentabilidade-em-casa200/" rel="attachment wp-att-8558"><img class="alignnone size-full wp-image-8558" title="SUSTENTABILIDADE EM CASA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/02/SUSTENTABILIDADE-EM-CASA200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/03/02/sustentabilidade-casa/"><strong><span style="font-size: small;">Sustentabilidade na casa de cada uma de nós: é possível?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/06/13/compras-no-supermercado/sustentabilidade-em-casa200/" rel="attachment wp-att-8558"><img class="alignnone size-full wp-image-8558" title="SUSTENTABILIDADE EM CASA200" src="https://www.trololodemulher.com.br/2012/02/SUSTENTABILIDADE-EM-CASA200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/03/02/sustentabilidade-casa/"><strong><span style="font-size: small;">Sustentabilidade na casa de cada uma de nós: é possível?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/aromatizador-de-ambiente200/" rel="attachment wp-att-6391"><img class="alignnone size-full wp-image-6391" title="aromatizador de ambiente200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/aromatizador-de-ambiente200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/05/19/aromatizador-de-ambientes/"><strong><span style="font-size: small;"><br /> Aromatizador de ambientes: como fazer?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/aromatizador-de-ambiente200/" rel="attachment wp-att-6391"><img class="alignnone size-full wp-image-6391" title="aromatizador de ambiente200" src="https://www.trololodemulher.com.br/2011/05/aromatizador-de-ambiente200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/05/19/aromatizador-de-ambientes/"><strong><span style="font-size: small;"><br /> Aromatizador de ambientes: como fazer?</span></strong></a>
       </p>
     </td>
   </tr>
@@ -123,13 +120,13 @@ Além do mais, a **Yvone | <a href="http://casaspossiveis.blogspot.com.br/" targ
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/casa200/" rel="attachment wp-att-5150"><img class="alignnone size-full wp-image-5150" title="casa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/casa200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2010/09/10/dicas-rotina-domestica/"><strong><span style="font-size: small;"><br /> Dicas para facilitar a rotina doméstica</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/casa200/" rel="attachment wp-att-5150"><img class="alignnone size-full wp-image-5150" title="casa200" src="https://www.trololodemulher.com.br/2010/08/casa200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2010/09/10/dicas-rotina-domestica/"><strong><span style="font-size: small;"><br /> Dicas para facilitar a rotina doméstica</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/casaedecoracao/image-description-6/" rel="attachment wp-att-5130"><img class="alignnone size-full wp-image-5130" title="image description" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/agua-planeta-terra200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/casaedecoracao/image-description-6/" rel="attachment wp-att-5130"><img class="alignnone size-full wp-image-5130" title="image description" src="https://www.trololodemulher.com.br/2010/08/agua-planeta-terra200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -141,7 +138,7 @@ Além do mais, a **Yvone | <a href="http://casaspossiveis.blogspot.com.br/" targ
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/cobertores-200/" rel="attachment wp-att-5078"><img class="alignnone size-full wp-image-5078" title="cobertores 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/cobertores-200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/cobertores-200/" rel="attachment wp-att-5078"><img class="alignnone size-full wp-image-5078" title="cobertores 200" src="https://www.trololodemulher.com.br/2010/08/cobertores-200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
       </p>
       
       <p align="center">
@@ -151,7 +148,7 @@ Além do mais, a **Yvone | <a href="http://casaspossiveis.blogspot.com.br/" targ
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/casaedecoracao/casa-ecologica-200/" rel="attachment wp-att-4990"><img class="alignnone size-full wp-image-4990" title="casa ecológica 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/casa-ecologica-200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/casaedecoracao/casa-ecologica-200/" rel="attachment wp-att-4990"><img class="alignnone size-full wp-image-4990" title="casa ecológica 200" src="https://www.trololodemulher.com.br/2010/07/casa-ecologica-200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -166,7 +163,7 @@ Além do mais, a **Yvone | <a href="http://casaspossiveis.blogspot.com.br/" targ
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -181,13 +178,13 @@ Além do mais, a **Yvone | <a href="http://casaspossiveis.blogspot.com.br/" targ
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

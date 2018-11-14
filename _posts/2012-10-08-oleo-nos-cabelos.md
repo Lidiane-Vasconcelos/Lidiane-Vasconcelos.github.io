@@ -1,10 +1,7 @@
 ---
-id: 3196
 title: 'Óleo nos cabelos&#8230; funciona?'
-date: 2012-10-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/10/08/oleo-nos-cabelos/
 permalink: /2012/10/08/oleo-nos-cabelos/
 categories:
   - Beleza
@@ -26,7 +23,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/10/08/oleo-nos-cabelos/beleza-cabelos-oleos/" rel="attachment wp-att-9211"><img class="alignnone size-full wp-image-9211" title="BELEZA-CABELOS-OLEOS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-CABELOS-OLEOS.png" alt="" width="431" height="466" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/10/08/oleo-nos-cabelos/beleza-cabelos-oleos/" rel="attachment wp-att-9211"><img class="alignnone size-full wp-image-9211" title="BELEZA-CABELOS-OLEOS" src="https://www.trololodemulher.com.br/2012/10/BELEZA-CABELOS-OLEOS.png" alt="" width="431" height="466" /></a>
 </p>
 
 &nbsp;
@@ -46,5 +43,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

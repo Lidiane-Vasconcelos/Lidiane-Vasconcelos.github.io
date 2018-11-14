@@ -1,10 +1,7 @@
 ---
-id: 3077
 title: 'Filtros solares: além de proteção e saúde…'
-date: 2011-11-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/11/14/filtros-solares/
 permalink: /2011/11/14/filtros-solares/
 categories:
   - Saúde
@@ -30,11 +27,11 @@ Parece que a indústria de cosméticos ouviu nossos apelos, e com boa informaç�
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/FILTRO-SOLAR.jpg"><img class="alignnone size-full wp-image-8167" title="FILTRO SOLAR" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/FILTRO-SOLAR.jpg" alt="" width="402" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/FILTRO-SOLAR.jpg"><img class="alignnone size-full wp-image-8167" title="FILTRO SOLAR" src="https://www.trololodemulher.com.br/2011/11/FILTRO-SOLAR.jpg" alt="" width="402" height="600" /></a>
 </p>
 
 <p align="center">
-  Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  Imagem: <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></strong>
 </p>
 
 &nbsp;
@@ -74,11 +71,11 @@ Parece que a indústria de cosméticos ouviu nossos apelos, e com boa informaç�
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/ANTHELIOS-PROTETOR-SOLAR-LA-ROCHE-POSAY.png"><img class="alignnone size-full wp-image-8166" title="ANTHELIOS PROTETOR SOLAR LA ROCHE POSAY" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/ANTHELIOS-PROTETOR-SOLAR-LA-ROCHE-POSAY.png" alt="" width="373" height="421" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/ANTHELIOS-PROTETOR-SOLAR-LA-ROCHE-POSAY.png"><img class="alignnone size-full wp-image-8166" title="ANTHELIOS PROTETOR SOLAR LA ROCHE POSAY" src="https://www.trololodemulher.com.br/2011/11/ANTHELIOS-PROTETOR-SOLAR-LA-ROCHE-POSAY.png" alt="" width="373" height="421" /></a>
 </p>
 
 <p align="center">
-  “… <em>no rosto podemos utilizar filtro que já possua hidratante, como por exemplo o <a href="http://www.anthelios.com.br/" target="_blank"><strong>Anthelios da da La Roche Posay</strong> </a>que possui ácido hialurônico em sua formulação</em>…”
+  “… <em>no rosto podemos utilizar filtro que já possua hidratante, como por exemplo o <a href="http://www.anthelios.com.br/" target="_blank" rel="noopener noreferrer"><strong>Anthelios da da La Roche Posay</strong> </a>que possui ácido hialurônico em sua formulação</em>…”
 </p>
 
 &nbsp;
@@ -114,15 +111,15 @@ Parece que a indústria de cosméticos ouviu nossos apelos, e com boa informaç�
 &nbsp;
 
 > <p align="justify">
->   <em>“A indústria cosmética está cada vez mais antenada quanto a necessidade de investir em pesquisas e lançar no mercado novos protetores que se adequem a pele da brasileira, que em geral tende a ser oleosa. Afinal, vivemos em um pais tropical onde nossas glândulas que produzem o suor são estimuladas diariamente. </em><em>A <strong>La Roche Posay acabou de lançar um veículo novo de filtro solar em mousse que quando em contato com a pele vira uma espécie de pó que matifica a pele</strong>. </em><em>A <strong>Vichy lançou o Capital Soleil</strong>, que possui ativos que controlam a oleosidade. </em><em>Assim como outros lançamentos. </em><em>O verão está chegando e o cuidado com o sol deve ser redobrado. Como falei no <strong><a href="http://dermatologiaemfoco.blogspot.com/2011/10/o-verao-ainda-nao-chegou-mas-o-sol.html" target="_blank">post do dia 24/10 no meu blog</a></strong>, o indice de radiação uv esta altíssimo já na Primavera, imagina no Verão!”</em>
+>   <em>“A indústria cosmética está cada vez mais antenada quanto a necessidade de investir em pesquisas e lançar no mercado novos protetores que se adequem a pele da brasileira, que em geral tende a ser oleosa. Afinal, vivemos em um pais tropical onde nossas glândulas que produzem o suor são estimuladas diariamente. </em><em>A <strong>La Roche Posay acabou de lançar um veículo novo de filtro solar em mousse que quando em contato com a pele vira uma espécie de pó que matifica a pele</strong>. </em><em>A <strong>Vichy lançou o Capital Soleil</strong>, que possui ativos que controlam a oleosidade. </em><em>Assim como outros lançamentos. </em><em>O verão está chegando e o cuidado com o sol deve ser redobrado. Como falei no <strong><a href="http://dermatologiaemfoco.blogspot.com/2011/10/o-verao-ainda-nao-chegou-mas-o-sol.html" target="_blank" rel="noopener noreferrer">post do dia 24/10 no meu blog</a></strong>, o indice de radiação uv esta altíssimo já na Primavera, imagina no Verão!”</em>
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/VICHY-CAPITAL-SOLEIL-PROTETOR-SOLAR.jpg"><img class="alignnone size-full wp-image-8171" title="VICHY CAPITAL SOLEIL PROTETOR SOLAR" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/VICHY-CAPITAL-SOLEIL-PROTETOR-SOLAR.jpg" alt="" width="500" height="500" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/VICHY-CAPITAL-SOLEIL-PROTETOR-SOLAR.jpg"><img class="alignnone size-full wp-image-8171" title="VICHY CAPITAL SOLEIL PROTETOR SOLAR" src="https://www.trololodemulher.com.br/2011/11/VICHY-CAPITAL-SOLEIL-PROTETOR-SOLAR.jpg" alt="" width="500" height="500" /></a>
 </p>
 
 <p align="center">
-  “<em>A <strong><a href="http://www.vichy.com.br/flash/index.html" target="_blank">Vichy lançou o Capital Soleil</a></strong>, que possui ativos que controlam a oleosidade.”</em>
+  “<em>A <strong><a href="http://www.vichy.com.br/flash/index.html" target="_blank" rel="noopener noreferrer">Vichy lançou o Capital Soleil</a></strong>, que possui ativos que controlam a oleosidade.”</em>
 </p>
 
 &nbsp;
@@ -156,15 +153,15 @@ Parece que a indústria de cosméticos ouviu nossos apelos, e com boa informaç�
 </p>
 
 <p align="justify">
-  Na dúvida, perguntei para as meninas que fazem parte da <strong><a href="http://www.orkut.com.br/Community?cmm=92609046" target="_blank">comunidade do blog no Orkut (se você não faz parte, por que não entra?)</a></strong>, e a <strong>Luisa</strong> dividiu sua recomendação pessoal com a gente. Sabe o que ela disse? Confere!
+  Na dúvida, perguntei para as meninas que fazem parte da <strong><a href="http://www.orkut.com.br/Community?cmm=92609046" target="_blank" rel="noopener noreferrer">comunidade do blog no Orkut (se você não faz parte, por que não entra?)</a></strong>, e a <strong>Luisa</strong> dividiu sua recomendação pessoal com a gente. Sabe o que ela disse? Confere!
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/RóC-Minesol-actif-unify-fator-60.jpg"><img class="alignnone size-full wp-image-8170" title="RóC Minesol (actif unify) fator 60" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/RóC-Minesol-actif-unify-fator-60.jpg" alt="" width="194" height="294" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/11/RóC-Minesol-actif-unify-fator-60.jpg"><img class="alignnone size-full wp-image-8170" title="RóC Minesol (actif unify) fator 60" src="https://www.trololodemulher.com.br/2011/11/RóC-Minesol-actif-unify-fator-60.jpg" alt="" width="194" height="294" /></a>
 </p>
 
 > <p align="justify">
->   “E<em>u uso o da <strong><a href="http://www.minesol.com.br/produto-actif-unify.html#actifunify" target="_blank">RóC Minesol (actif unify) fator 60</a></strong>. Eu gosto dele porque não deixa a minha pele tão oleosa, isto é, depende do clima. Moro em Brasília, no período da seca minha pele fica com muito brilho (só neste período) porque ela é mista (minha pele), mas eu noto que ele protege bem a pele do rosto. Gosto muito dele! O preço dele é na faixa de R$ 60,00. Ele é um creme -gel!!”</em>
+>   “E<em>u uso o da <strong><a href="http://www.minesol.com.br/produto-actif-unify.html#actifunify" target="_blank" rel="noopener noreferrer">RóC Minesol (actif unify) fator 60</a></strong>. Eu gosto dele porque não deixa a minha pele tão oleosa, isto é, depende do clima. Moro em Brasília, no período da seca minha pele fica com muito brilho (só neste período) porque ela é mista (minha pele), mas eu noto que ele protege bem a pele do rosto. Gosto muito dele! O preço dele é na faixa de R$ 60,00. Ele é um creme -gel!!”</em>
 > </p>
 
 <p align="justify">
@@ -172,15 +169,15 @@ Parece que a indústria de cosméticos ouviu nossos apelos, e com boa informaç�
 </p>
 
 <p align="justify">
-  Quer se manter ainda mais informada sobre os assuntos de beleza totalmente atrelados a sua sáude, então não deixe de acompanhar as atualizações da <strong>Dra. Livia Pino</strong> em seu blog, o <a href="http://dermatologiaemfoco.blogspot.com/" target="_blank"><strong>Dermatologia em Foco</strong></a><strong>.</strong> O blog é cheio de dicas sobre beleza, saúde, produtos, lançamentos e tudo o mais que um bicha fêmea precisa para ficar cada vez mais bonita e de pele saudável. Confere!
+  Quer se manter ainda mais informada sobre os assuntos de beleza totalmente atrelados a sua sáude, então não deixe de acompanhar as atualizações da <strong>Dra. Livia Pino</strong> em seu blog, o <a href="http://dermatologiaemfoco.blogspot.com/" target="_blank" rel="noopener noreferrer"><strong>Dermatologia em Foco</strong></a><strong>.</strong> O blog é cheio de dicas sobre beleza, saúde, produtos, lançamentos e tudo o mais que um bicha fêmea precisa para ficar cada vez mais bonita e de pele saudável. Confere!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>

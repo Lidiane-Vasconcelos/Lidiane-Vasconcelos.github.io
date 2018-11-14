@@ -1,10 +1,7 @@
 ---
-id: 3771
 title: 'Prateleira do Trololó de mulher de Junho: mês do amor!'
-date: 2017-06-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/06/05/trololo-de-mulher-13/
 permalink: /2017/06/05/trololo-de-mulher-13/
 categories:
   - Prateleira do Trololó de Mulher
@@ -14,11 +11,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13892" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/06/FILHA.png" alt="FILHA" width="441" height="90" />
+  <img class="alignnone size-full wp-image-13892" src="https://www.trololodemulher.com.br/2017/06/FILHA.png" alt="FILHA" width="441" height="90" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13882" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/06/porta-retrato.jpg" alt="porta retrato" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13882" src="https://www.trololodemulher.com.br/2017/06/porta-retrato.jpg" alt="porta retrato" width="800" height="800" />
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -26,11 +23,11 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  <a href="https://www.facebook.com/boutiqueateline/" target="_blank">Facebook Boutique Ateline</a> | <a href="https://www.instagram.com/boutiqueateline/" target="_blank">Instagram Boutique Ateline</a>
+  <a href="https://www.facebook.com/boutiqueateline/" target="_blank" rel="noopener noreferrer">Facebook Boutique Ateline</a> | <a href="https://www.instagram.com/boutiqueateline/" target="_blank" rel="noopener noreferrer">Instagram Boutique Ateline</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13888" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/06/SAIA-CACTUS.jpg" alt="SAIA CACTUS" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13888" src="https://www.trololodemulher.com.br/2017/06/SAIA-CACTUS.jpg" alt="SAIA CACTUS" width="800" height="800" />
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -38,11 +35,11 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  <a href="https://www.facebook.com/AliciaMaeeFilha/" target="_blank">Facebook Alícia Mãe & Filha</a> | <a href="https://www.instagram.com/aliciamaeefilha/" target="_blank">Instagram Alícia Mãe & Filha</a>
+  <a href="https://www.facebook.com/AliciaMaeeFilha/" target="_blank" rel="noopener noreferrer">Facebook Alícia Mãe & Filha</a> | <a href="https://www.instagram.com/aliciamaeefilha/" target="_blank" rel="noopener noreferrer">Instagram Alícia Mãe & Filha</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13879" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/06/BLUSA-HATCH.jpg" alt="BLUSA HATCH" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13879" src="https://www.trololodemulher.com.br/2017/06/BLUSA-HATCH.jpg" alt="BLUSA HATCH" width="800" height="800" />
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -50,27 +47,27 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  <a href="https://www.facebook.com/AliciaMaeeFilha/" target="_blank">Facebook Alícia Mãe & Filha</a> | <a href="https://www.instagram.com/aliciamaeefilha/" target="_blank">Instagram Alícia Mãe & Filha</a>
+  <a href="https://www.facebook.com/AliciaMaeeFilha/" target="_blank" rel="noopener noreferrer">Facebook Alícia Mãe & Filha</a> | <a href="https://www.instagram.com/aliciamaeefilha/" target="_blank" rel="noopener noreferrer">Instagram Alícia Mãe & Filha</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13889" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/06/TECIDO-ORIENTAL.jpg" alt="TECIDO ORIENTAL" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13889" src="https://www.trololodemulher.com.br/2017/06/TECIDO-ORIENTAL.jpg" alt="TECIDO ORIENTAL" width="800" height="800" />
 </p>
 
 <p style="text-align: justify;" align="center">
-  Inverno na <a href="https://www.elo7.com.br/aliciamaeefilha/loja" target="_blank">Alícia Mãe & Filha</a> é cheio de referências orientais! Para não te deixar de fora das tendências, veja novas estampas para você montar suas peças exclusivas e arrasar com sua pequena! <a href="https://www.elo7.com.br/monte-sua-peca/al/D2AD5" target="_blank">Clique aqui</a> e escolha a sua preferida.
+  Inverno na <a href="https://www.elo7.com.br/aliciamaeefilha/loja" target="_blank" rel="noopener noreferrer">Alícia Mãe & Filha</a> é cheio de referências orientais! Para não te deixar de fora das tendências, veja novas estampas para você montar suas peças exclusivas e arrasar com sua pequena! <a href="https://www.elo7.com.br/monte-sua-peca/al/D2AD5" target="_blank" rel="noopener noreferrer">Clique aqui</a> e escolha a sua preferida.
 </p>
 
 <p style="text-align: justify;" align="center">
-  <a href="https://www.facebook.com/AliciaMaeeFilha/" target="_blank">Facebook Alícia Mãe & Filha</a> | <a href="https://www.instagram.com/aliciamaeefilha/" target="_blank">Instagram Alícia Mãe & Filha</a>
+  <a href="https://www.facebook.com/AliciaMaeeFilha/" target="_blank" rel="noopener noreferrer">Facebook Alícia Mãe & Filha</a> | <a href="https://www.instagram.com/aliciamaeefilha/" target="_blank" rel="noopener noreferrer">Instagram Alícia Mãe & Filha</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13891" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/06/CARA-METADE.png" alt="CARA-METADE" width="562" height="75" />
+  <img class="alignnone size-full wp-image-13891" src="https://www.trololodemulher.com.br/2017/06/CARA-METADE.png" alt="CARA-METADE" width="562" height="75" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13887" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/06/SABONETES2.jpg" alt="SABONETES[2]" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13887" src="https://www.trololodemulher.com.br/2017/06/SABONETES2.jpg" alt="SABONETES[2]" width="800" height="800" />
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -86,11 +83,11 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  <a href="https://www.facebook.com/savonnerieartesanal/" target="_blank">Facebook Savonnerie</a> | <a href="https://www.instagram.com/savonnerie_artesanal/" target="_blank">Instagram Savonnerie</a>
+  <a href="https://www.facebook.com/savonnerieartesanal/" target="_blank" rel="noopener noreferrer">Facebook Savonnerie</a> | <a href="https://www.instagram.com/savonnerie_artesanal/" target="_blank" rel="noopener noreferrer">Instagram Savonnerie</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13880" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/06/CAIXA-PORTA-ALIANÇA.jpg" alt="CAIXA PORTA ALIANÇA" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13880" src="https://www.trololodemulher.com.br/2017/06/CAIXA-PORTA-ALIANÇA.jpg" alt="CAIXA PORTA ALIANÇA" width="800" height="800" />
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -98,11 +95,11 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  <a href="https://www.facebook.com/boutiqueateline/" target="_blank">Facebook Boutique Ateline</a> | <a href="https://www.instagram.com/boutiqueateline/" target="_blank">Instagram Boutique Ateline</a>
+  <a href="https://www.facebook.com/boutiqueateline/" target="_blank" rel="noopener noreferrer">Facebook Boutique Ateline</a> | <a href="https://www.instagram.com/boutiqueateline/" target="_blank" rel="noopener noreferrer">Instagram Boutique Ateline</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13881" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/06/INICIAIS-DECORATIVAS4.jpg" alt="INICIAIS DECORATIVAS[4]" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13881" src="https://www.trololodemulher.com.br/2017/06/INICIAIS-DECORATIVAS4.jpg" alt="INICIAIS DECORATIVAS[4]" width="800" height="800" />
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -110,15 +107,15 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  <a href="https://www.facebook.com/boutiqueateline/" target="_blank">Facebook Boutique Ateline</a> | <a href="https://www.instagram.com/boutiqueateline/" target="_blank">Instagram Boutique Ateline</a>
+  <a href="https://www.facebook.com/boutiqueateline/" target="_blank" rel="noopener noreferrer">Facebook Boutique Ateline</a> | <a href="https://www.instagram.com/boutiqueateline/" target="_blank" rel="noopener noreferrer">Instagram Boutique Ateline</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13893" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/06/VOCÊ.png" alt="VOCÊ" width="462" height="95" />
+  <img class="alignnone size-full wp-image-13893" src="https://www.trololodemulher.com.br/2017/06/VOCÊ.png" alt="VOCÊ" width="462" height="95" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13885" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/06/SABONETE-ALECRIM.jpg" alt="SABONETE ALECRIM" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13885" src="https://www.trololodemulher.com.br/2017/06/SABONETE-ALECRIM.jpg" alt="SABONETE ALECRIM" width="800" height="800" />
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -126,11 +123,11 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  <a href="https://www.facebook.com/savonnerieartesanal/" target="_blank">Facebook Savonnerie</a> | <a href="https://www.instagram.com/savonnerie_artesanal/" target="_blank">Instagram Savonnerie</a>
+  <a href="https://www.facebook.com/savonnerieartesanal/" target="_blank" rel="noopener noreferrer">Facebook Savonnerie</a> | <a href="https://www.instagram.com/savonnerie_artesanal/" target="_blank" rel="noopener noreferrer">Instagram Savonnerie</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13886" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/06/SABONETE-MACÃ-VERDE.jpg" alt="SABONETE MACÃ-VERDE" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13886" src="https://www.trololodemulher.com.br/2017/06/SABONETE-MACÃ-VERDE.jpg" alt="SABONETE MACÃ-VERDE" width="800" height="800" />
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -138,11 +135,11 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  <a href="https://www.facebook.com/savonnerieartesanal/" target="_blank">Facebook Savonnerie</a> | <a href="https://www.instagram.com/savonnerie_artesanal/" target="_blank">Instagram Savonnerie</a>
+  <a href="https://www.facebook.com/savonnerieartesanal/" target="_blank" rel="noopener noreferrer">Facebook Savonnerie</a> | <a href="https://www.instagram.com/savonnerie_artesanal/" target="_blank" rel="noopener noreferrer">Instagram Savonnerie</a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

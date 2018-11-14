@@ -1,10 +1,7 @@
 ---
-id: 3596
 title: 'Truques de decoração: bandejas… por que te quero?'
-date: 2016-04-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/04/22/decoracao-bandejas/
 permalink: /2016/04/22/decoracao-bandejas/
 categories:
   - Dicas de Decoração
@@ -20,17 +17,17 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12431" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-DICAS-DE-DECORACAO-BANDEJA-OBJETOS-ENFEITES3.jpg" alt="DECORACAO-DICAS DE DECORACAO-BANDEJA-OBJETOS-ENFEITES[3]" width="800" height="74" />
+  <img class="alignnone size-full wp-image-12431" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-DICAS-DE-DECORACAO-BANDEJA-OBJETOS-ENFEITES3.jpg" alt="DECORACAO-DICAS DE DECORACAO-BANDEJA-OBJETOS-ENFEITES[3]" width="800" height="74" />
 </p>
 
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12429" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-DICAS-DE-DECORACAO-BANDEJA-OBJETOS-ENFEITES.jpg" alt="DECORACAO-DICAS DE DECORACAO-BANDEJA-OBJETOS-ENFEITES" width="533" height="800" />
+  <img class="alignnone size-full wp-image-12429" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-DICAS-DE-DECORACAO-BANDEJA-OBJETOS-ENFEITES.jpg" alt="DECORACAO-DICAS DE DECORACAO-BANDEJA-OBJETOS-ENFEITES" width="533" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://handmademood.com/" target="_blank">Handmade Mood</a>
+  Imagem: <a href="http://handmademood.com/" target="_blank" rel="noopener noreferrer">Handmade Mood</a>
 </p>
 
 <p align="center">
@@ -40,17 +37,17 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12432" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-DICAS-DE-DECORACAO-BANDEJA-OBJETOS-ENFEITES4.png" alt="DECORACAO-DICAS DE DECORACAO-BANDEJA-OBJETOS-ENFEITES[4]" width="607" height="92" />
+  <img class="alignnone size-full wp-image-12432" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-DICAS-DE-DECORACAO-BANDEJA-OBJETOS-ENFEITES4.png" alt="DECORACAO-DICAS DE DECORACAO-BANDEJA-OBJETOS-ENFEITES[4]" width="607" height="92" />
 </p>
 
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12430" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-DICAS-DE-DECORACAO-BANDEJA-OBJETOS-ENFEITES2.jpg" alt="DECORACAO-DICAS DE DECORACAO-BANDEJA-OBJETOS-ENFEITES[2]" width="540" height="778" />
+  <img class="alignnone size-full wp-image-12430" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-DICAS-DE-DECORACAO-BANDEJA-OBJETOS-ENFEITES2.jpg" alt="DECORACAO-DICAS DE DECORACAO-BANDEJA-OBJETOS-ENFEITES[2]" width="540" height="778" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://mittvitahus.blogspot.se/" target="_blank">Mitt Vita Hus</a>
+  Imagem: <a href="http://mittvitahus.blogspot.se/" target="_blank" rel="noopener noreferrer">Mitt Vita Hus</a>
 </p>
 
 &nbsp;
@@ -62,7 +59,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

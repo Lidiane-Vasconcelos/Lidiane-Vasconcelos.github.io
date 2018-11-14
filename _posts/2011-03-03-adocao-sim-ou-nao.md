@@ -1,10 +1,7 @@
 ---
-id: 2962
 title: Adoção, sim ou não?!
-date: 2011-03-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/03/03/adocao-sim-ou-nao/
 permalink: /2011/03/03/adocao-sim-ou-nao/
 categories:
   - Comportamento
@@ -22,7 +19,7 @@ E, quando você menos espera&#8230;_pumba_&#8230;cresceram!!
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/bebe.jpg"><img class="alignnone size-full wp-image-6049" title="bebê" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/bebe.jpg" alt="" width="596" height="447" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/bebe.jpg"><img class="alignnone size-full wp-image-6049" title="bebê" src="https://www.trololodemulher.com.br/2011/02/bebe.jpg" alt="" width="596" height="447" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -36,7 +33,7 @@ Já ouvi muitas pessoas falarem que: criança adotiva dá muito trabalho quando 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/bebe1.jpg"><img class="alignnone size-full wp-image-6050" title="bebê1" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/bebe1.jpg" alt="" width="397" height="596" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/bebe1.jpg"><img class="alignnone size-full wp-image-6050" title="bebê1" src="https://www.trololodemulher.com.br/2011/02/bebe1.jpg" alt="" width="397" height="596" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -60,25 +57,25 @@ Já ouvi muitas pessoas falarem que: criança adotiva dá muito trabalho quando 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Adocao10001.pdf">Adoção10001</a>
+  <a href="https://www.trololodemulher.com.br/2011/03/Adocao10001.pdf">Adoção10001</a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/adocao20001.pdf">adoção20001</a>
+  <a href="https://www.trololodemulher.com.br/2011/03/adocao20001.pdf">adoção20001</a>
 </p>
 
-_Imagens:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagens:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="300" valign="top">
       <p style="text-align: center;">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Simone.jpg"><img class="alignnone size-thumbnail wp-image-6053" title="Simone" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Simone-150x150.jpg" alt="" width="150" height="150" /></a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/Simone.jpg"></a>
+        <a href="https://www.trololodemulher.com.br/2011/02/Simone.jpg"><img class="alignnone size-thumbnail wp-image-6053" title="Simone" src="https://www.trololodemulher.com.br/2011/02/Simone-150x150.jpg" alt="" width="150" height="150" /></a><a href="https://www.trololodemulher.com.br/2011/02/Simone.jpg"></a>
       </p>
     </td>
     
     <td style="text-align: justify;" width="300" valign="top">
-      <em><strong><br /> Simone Cotrufo França</strong>, Engenheira de Produção Química, atuou vários anos na indústria química e petroquímica e em empresa de consultoria para o ramo automotivo. Hoje, juntamente com outros sócios, é proprietária das marcas Espaço Home e Pura Tendência,  com as quais busca alcançar o ideal de Organizar sua vida com Estilo proporcionando qualidade de vida e beleza. Simone é uma das editoras do blog </em><a href="http://newsespacohome.blogspot.com/" target="_blank"><em>Organização com Estilo</em></a><em>.</em> 
+      <em><strong><br /> Simone Cotrufo França</strong>, Engenheira de Produção Química, atuou vários anos na indústria química e petroquímica e em empresa de consultoria para o ramo automotivo. Hoje, juntamente com outros sócios, é proprietária das marcas Espaço Home e Pura Tendência,  com as quais busca alcançar o ideal de Organizar sua vida com Estilo proporcionando qualidade de vida e beleza. Simone é uma das editoras do blog </em><a href="http://newsespacohome.blogspot.com/" target="_blank" rel="noopener noreferrer"><em>Organização com Estilo</em></a><em>.</em> 
     </td>
   </tr>
 </table>

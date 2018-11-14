@@ -1,10 +1,7 @@
 ---
-id: 3210
 title: Dicas que seu bolso agradece, e muito!
-date: 2012-11-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/11/16/financas-pessoais/
 permalink: /2012/11/16/financas-pessoais/
 categories:
   - Finanças Pessoais
@@ -49,7 +46,7 @@ Se você não se importa com o seu bem-estar no futuro, se você gasta compulsiv
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/pilhas-de-moedas/" rel="attachment wp-att-9330"><img class="alignnone size-full wp-image-9330" title="FINANCAS PESSOAIS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/FINANCAS-PESOAIS.jpg" alt="" width="505" height="478" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/profile/caboco" target="_blank">Caboco</a></strong> via <strong><em>stock.xchng</em></strong>
+  <a href="http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/pilhas-de-moedas/" rel="attachment wp-att-9330"><img class="alignnone size-full wp-image-9330" title="FINANCAS PESSOAIS" src="https://www.trololodemulher.com.br/2012/11/FINANCAS-PESOAIS.jpg" alt="" width="505" height="478" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/profile/caboco" target="_blank" rel="noopener noreferrer">Caboco</a></strong> via <strong><em>stock.xchng</em></strong>
 </p>
 
 &nbsp;
@@ -70,7 +67,7 @@ Se você não se importa com o seu bem-estar no futuro, se você gasta compulsiv
 >   </p>
 >   
 >   <p align="center">
->     <a href="http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/maiara-xavier/" rel="attachment wp-att-9333"><img class="alignnone size-full wp-image-9333" title="MAIARA XAVIER" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/MAIARA-XAVIER.png" alt="" width="529" height="299" /></a>
+>     <a href="http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/maiara-xavier/" rel="attachment wp-att-9333"><img class="alignnone size-full wp-image-9333" title="MAIARA XAVIER" src="https://www.trololodemulher.com.br/2012/11/MAIARA-XAVIER.png" alt="" width="529" height="299" /></a>
 >   </p>
 >   
 >   <p>
@@ -82,7 +79,7 @@ Se você não se importa com o seu bem-estar no futuro, se você gasta compulsiv
 >   </p>
 >   
 >   <p align="justify">
->     A <strong>Maiara</strong> edita o blog <strong><a href="http://mulherica.blogspot.com.br/" target="_blank">Mulher Rica</a></strong>, voltado para nós, bichas fêmeas navegantes. O nome do blog, bem sugestivo, indica bem seu público alvo: a mulher que quer ficar rica. Engana-se quem acha que seus posts são para aquelas que querem alcançar a independência financeira com base numa herança, ser sorteada na mega sena ou passar num concurso público&#8230; <em>nã nã nim nã não</em>! Quer você mesma correr atrás disso já, no presente? Então <strong><a href="http://mulherica.blogspot.com.br/" target="_blank">se joga no blog da moça</a></strong> porque o<em> trololó</em> por lá é exatamente sobre esse assunto.
+>     A <strong>Maiara</strong> edita o blog <strong><a href="http://mulherica.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Mulher Rica</a></strong>, voltado para nós, bichas fêmeas navegantes. O nome do blog, bem sugestivo, indica bem seu público alvo: a mulher que quer ficar rica. Engana-se quem acha que seus posts são para aquelas que querem alcançar a independência financeira com base numa herança, ser sorteada na mega sena ou passar num concurso público&#8230; <em>nã nã nim nã não</em>! Quer você mesma correr atrás disso já, no presente? Então <strong><a href="http://mulherica.blogspot.com.br/" target="_blank" rel="noopener noreferrer">se joga no blog da moça</a></strong> porque o<em> trololó</em> por lá é exatamente sobre esse assunto.
 >   </p>
 >   
 >   <p>
@@ -97,13 +94,13 @@ Se você não se importa com o seu bem-estar no futuro, se você gasta compulsiv
 >     <tr>
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/bem-viver/carteira200/" rel="attachment wp-att-6934"><img class="alignnone size-full wp-image-6934" title="carteira200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/carteira200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2011/09/23/consumismo/"><strong><span style="font-size: medium;"><br /> Cosumismo: você ficaria 365 dias sem compras?</span></strong></a>
+>           <a href="http://www.trololodemulher.com.br/bem-viver/carteira200/" rel="attachment wp-att-6934"><img class="alignnone size-full wp-image-6934" title="carteira200" src="https://www.trololodemulher.com.br/2011/09/carteira200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2011/09/23/consumismo/"><strong><span style="font-size: medium;"><br /> Cosumismo: você ficaria 365 dias sem compras?</span></strong></a>
 >         </p>
 >       </td>
 >       
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/2012/06/29/comida-internacional/divitae2200/" rel="attachment wp-att-8729"><img class="alignnone size-full wp-image-8729" title="Divitae[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/Divitae2200.png" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/06/15/trabalhar-sem-sair-da-casa/"><strong><span style="font-size: medium;"><br /> Quer trabalhar sem sair de casa? Abra sua loja na Divitae!</span></strong></a>
+>           <a href="http://www.trololodemulher.com.br/2012/06/29/comida-internacional/divitae2200/" rel="attachment wp-att-8729"><img class="alignnone size-full wp-image-8729" title="Divitae[2]200" src="https://www.trololodemulher.com.br/2012/06/Divitae2200.png" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/06/15/trabalhar-sem-sair-da-casa/"><strong><span style="font-size: medium;"><br /> Quer trabalhar sem sair de casa? Abra sua loja na Divitae!</span></strong></a>
 >         </p>
 >       </td>
 >     </tr>
@@ -111,13 +108,13 @@ Se você não se importa com o seu bem-estar no futuro, se você gasta compulsiv
 >     <tr>
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/bem-viver/vendas-online200/" rel="attachment wp-att-8238"><img class="alignnone size-full wp-image-8238" title="VENDAS ONLINE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/VENDAS-ONLINE200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/11/22/compra-venda/"><strong><span style="font-size: medium;"><br /> Desapega, bonita! Tem sempre quem compre o que você vende!</span></strong></a>
+>           <a href="http://www.trololodemulher.com.br/bem-viver/vendas-online200/" rel="attachment wp-att-8238"><img class="alignnone size-full wp-image-8238" title="VENDAS ONLINE200" src="https://www.trololodemulher.com.br/2011/11/VENDAS-ONLINE200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/11/22/compra-venda/"><strong><span style="font-size: medium;"><br /> Desapega, bonita! Tem sempre quem compre o que você vende!</span></strong></a>
 >         </p>
 >       </td>
 >       
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/2011/12/16/vida-cheia-de-estilo/cupcakes-doces-abobrinhas200/" rel="attachment wp-att-7002"><img class="alignnone size-full wp-image-7002" title="cupcakes - doces abobrinhas200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/cupcakes-doces-abobrinhas200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/"><strong><span style="font-size: medium;"><br /> O talento na cozinha pode mesmo virar uma fonte de renda?</span></strong></a>
+>           <a href="http://www.trololodemulher.com.br/2011/12/16/vida-cheia-de-estilo/cupcakes-doces-abobrinhas200/" rel="attachment wp-att-7002"><img class="alignnone size-full wp-image-7002" title="cupcakes - doces abobrinhas200" src="https://www.trololodemulher.com.br/2011/10/cupcakes-doces-abobrinhas200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/"><strong><span style="font-size: medium;"><br /> O talento na cozinha pode mesmo virar uma fonte de renda?</span></strong></a>
 >         </p>
 >       </td>
 >     </tr>
@@ -125,13 +122,13 @@ Se você não se importa com o seu bem-estar no futuro, se você gasta compulsiv
 >     <tr>
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/2011/12/16/vida-cheia-de-estilo/home-office200/" rel="attachment wp-att-6891"><img class="alignnone size-full wp-image-6891" title="home office200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/home-office200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/09/09/trabalhar-home-office/"><strong><span style="font-size: medium;"><br /> Quer trabalhar sem sair de casa mas não sabe como?</span></strong></a>
+>           <a href="http://www.trololodemulher.com.br/2011/12/16/vida-cheia-de-estilo/home-office200/" rel="attachment wp-att-6891"><img class="alignnone size-full wp-image-6891" title="home office200" src="https://www.trololodemulher.com.br/2011/09/home-office200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/09/09/trabalhar-home-office/"><strong><span style="font-size: medium;"><br /> Quer trabalhar sem sair de casa mas não sabe como?</span></strong></a>
 >         </p>
 >       </td>
 >       
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/2012/01/13/entrevista-claudia-medeiros/calculadora200/" rel="attachment wp-att-6398"><img class="alignnone size-full wp-image-6398" title="calculadora200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/calculadora200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/"><strong><span style="font-size: medium;"><br /> Suas finanças pessoais estão no azul ou no vermelho?</span></strong></a>
+>           <a href="http://www.trololodemulher.com.br/2012/01/13/entrevista-claudia-medeiros/calculadora200/" rel="attachment wp-att-6398"><img class="alignnone size-full wp-image-6398" title="calculadora200" src="https://www.trololodemulher.com.br/2011/05/calculadora200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/"><strong><span style="font-size: medium;"><br /> Suas finanças pessoais estão no azul ou no vermelho?</span></strong></a>
 >         </p>
 >       </td>
 >     </tr>
@@ -146,7 +143,7 @@ Se você não se importa com o seu bem-estar no futuro, se você gasta compulsiv
 >   </p>
 >   
 >   <p align="center">
->     <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+>     <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 >   </p>
 >   
 >   <p>
@@ -165,13 +162,13 @@ Se você não se importa com o seu bem-estar no futuro, se você gasta compulsiv
 >     <tr>
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+>           <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
 >         </p>
 >       </td>
 >       
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+>           <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
 >         </p>
 >       </td>
 >     </tr>

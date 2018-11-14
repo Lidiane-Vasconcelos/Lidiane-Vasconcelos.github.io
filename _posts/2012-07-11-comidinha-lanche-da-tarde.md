@@ -1,10 +1,7 @@
 ---
-id: 3152
 title: Quem gosta de uma comidinha no lanchinho da tarde?
-date: 2012-07-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/07/11/comidinha-lanche-da-tarde/
 permalink: /2012/07/11/comidinha-lanche-da-tarde/
 categories:
   - Receitas
@@ -26,7 +23,7 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/07/11/comidinha-lanche-da-tarde/cheesecake-light-copinho/" rel="attachment wp-att-8864"><img class="alignnone size-full wp-image-8864" title="CHEESECAKE-LIGHT-COPINHO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/CHEESECAKE-LIGHT-COPINHO.jpg" alt="" width="600" height="434" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/11/comidinha-lanche-da-tarde/cheesecake-light-copinho/" rel="attachment wp-att-8864"><img class="alignnone size-full wp-image-8864" title="CHEESECAKE-LIGHT-COPINHO" src="https://www.trololodemulher.com.br/2012/07/CHEESECAKE-LIGHT-COPINHO.jpg" alt="" width="600" height="434" /></a>
 </p>
 
 &nbsp;
@@ -56,7 +53,7 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 &nbsp;
 
 > <p align="justify">
->   “<em>Cozinhar para mim é uma paixão que eu cultivo desde muito pequena. Quando cresci um pouco, comecei a pesquisar receitas e a copiar os livros das avós, da mãe, das tias&#8230;até montar meu próprio acervo e começar a misturar ingredientes por conta própria. Comecei a ver a dificuldade que é para encontrar uma receita em meio a tantos papéis. Criei o <strong>Nossa Cozinha</strong>, afinal, agora tudo que estava acontecendo na minha cozinha seria compartilhado com os internautas do mundo todo. O blog <strong>Nossa Cozinha</strong> foi criado com um objetivo muito simples: mostrar e ensinar aquelas receitas simples, mas que cativam a todos os gostos!”</em> <strong>Danieli Cascaes | </strong><a href="http://www.nossacozinhadani.blogspot.com.br/" target="_blank"><strong>Nossa Cozinha</strong></a>
+>   “<em>Cozinhar para mim é uma paixão que eu cultivo desde muito pequena. Quando cresci um pouco, comecei a pesquisar receitas e a copiar os livros das avós, da mãe, das tias&#8230;até montar meu próprio acervo e começar a misturar ingredientes por conta própria. Comecei a ver a dificuldade que é para encontrar uma receita em meio a tantos papéis. Criei o <strong>Nossa Cozinha</strong>, afinal, agora tudo que estava acontecendo na minha cozinha seria compartilhado com os internautas do mundo todo. O blog <strong>Nossa Cozinha</strong> foi criado com um objetivo muito simples: mostrar e ensinar aquelas receitas simples, mas que cativam a todos os gostos!”</em> <strong>Danieli Cascaes | </strong><a href="http://www.nossacozinhadani.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>Nossa Cozinha</strong></a>
 > </p>
 
 &nbsp;
@@ -68,7 +65,7 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/07/11/comidinha-lanche-da-tarde/biscoito-biscoitinho-goiaba/" rel="attachment wp-att-8861"><img class="alignnone size-full wp-image-8861" title="BISCOITO-BISCOITINHO-GOIABA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/BISCOITO-BISCOITINHO-GOIABA.jpg" alt="" width="600" height="338" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/11/comidinha-lanche-da-tarde/biscoito-biscoitinho-goiaba/" rel="attachment wp-att-8861"><img class="alignnone size-full wp-image-8861" title="BISCOITO-BISCOITINHO-GOIABA" src="https://www.trololodemulher.com.br/2012/07/BISCOITO-BISCOITINHO-GOIABA.jpg" alt="" width="600" height="338" /></a>
 </p>
 
 &nbsp;
@@ -98,7 +95,7 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 &nbsp;
 
 > <p align="justify">
->   “<em>Sou uma mulher casada e muito feliz. Adoro novidades! Sou curiosa, gosto de fotos, de cozinhar e de uma mesa bem bonita. Amo viagens, adoro academia e artesanato. Ahhh&#8230; eu já ia esquecendo&#8230; minha cor favorita é lilás. Afinal, o mundo poderia ser lilás para mim!”</em> <strong>Carol Vieira | </strong><a href="http://mundocarolvieira.blogspot.com.br/" target="_blank"><strong>Mundo da Carol</strong></a>
+>   “<em>Sou uma mulher casada e muito feliz. Adoro novidades! Sou curiosa, gosto de fotos, de cozinhar e de uma mesa bem bonita. Amo viagens, adoro academia e artesanato. Ahhh&#8230; eu já ia esquecendo&#8230; minha cor favorita é lilás. Afinal, o mundo poderia ser lilás para mim!”</em> <strong>Carol Vieira | </strong><a href="http://mundocarolvieira.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>Mundo da Carol</strong></a>
 > </p>
 
 &nbsp;
@@ -110,7 +107,7 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/07/11/comidinha-lanche-da-tarde/enroladinho-salsicha/" rel="attachment wp-att-8865"><img class="alignnone size-full wp-image-8865" title="ENROLADINHO-SALSICHA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/ENROLADINHO-SALSICHA.png" alt="" width="600" height="409" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/11/comidinha-lanche-da-tarde/enroladinho-salsicha/" rel="attachment wp-att-8865"><img class="alignnone size-full wp-image-8865" title="ENROLADINHO-SALSICHA" src="https://www.trololodemulher.com.br/2012/07/ENROLADINHO-SALSICHA.png" alt="" width="600" height="409" /></a>
 </p>
 
 &nbsp;
@@ -172,7 +169,7 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 &nbsp;
 
 > <p align="justify">
->   “<em>37 anos, esposa e mãe, mas desde cedo amante da culinária, descobrindo agora o meu talento. Resolvi me dedicar, talvez temporariamente, ou não, neste ramo. Espero que gostem do meu trabalho, um forte abraço a todos!”</em> <strong>Elisandra Brait | </strong><a href="http://eliquemfaz.blogspot.com.br/" target="_blank"><strong>A Eli quem faz!</strong></a>
+>   “<em>37 anos, esposa e mãe, mas desde cedo amante da culinária, descobrindo agora o meu talento. Resolvi me dedicar, talvez temporariamente, ou não, neste ramo. Espero que gostem do meu trabalho, um forte abraço a todos!”</em> <strong>Elisandra Brait | </strong><a href="http://eliquemfaz.blogspot.com.br/" target="_blank" rel="noopener noreferrer"><strong>A Eli quem faz!</strong></a>
 > </p>
 
 &nbsp;
@@ -185,13 +182,13 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/07/11/comidinha-lanche-da-tarde/bolo-fofo-de-canela-carol200/" rel="attachment wp-att-8747"><img class="alignnone size-full wp-image-8747" title="BOLO FOFO DE CANELA - CAROL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/BOLO-FOFO-DE-CANELA-CAROL200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/"><strong><span style="font-size: medium;"><br /> Bolo: 8 receitas delícia para apreciar com café nos dias frios…</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/07/11/comidinha-lanche-da-tarde/bolo-fofo-de-canela-carol200/" rel="attachment wp-att-8747"><img class="alignnone size-full wp-image-8747" title="BOLO FOFO DE CANELA - CAROL200" src="https://www.trololodemulher.com.br/2012/06/BOLO-FOFO-DE-CANELA-CAROL200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/"><strong><span style="font-size: medium;"><br /> Bolo: 8 receitas delícia para apreciar com café nos dias frios…</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/caldo-verde-amarelo-adriana-magre200/" rel="attachment wp-att-8706"><img class="alignnone size-full wp-image-8706" title="CALDO VERDE AMARELO - ADRIANA MAGRE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/CALDO-VERDE-AMARELO-ADRIANA-MAGRE200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/caldo-verde-amarelo-adriana-magre200/" rel="attachment wp-att-8706"><img class="alignnone size-full wp-image-8706" title="CALDO VERDE AMARELO - ADRIANA MAGRE200" src="https://www.trololodemulher.com.br/2012/06/CALDO-VERDE-AMARELO-ADRIANA-MAGRE200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -203,7 +200,7 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2012/03/28/cozinha-apartamento-pequeno/pano-de-copa-caroline200/" rel="attachment wp-att-8595"><img class="alignnone size-full wp-image-8595" title="Pano de Copa Caroline200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/Pano-de-Copa-Caroline200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2012/03/28/cozinha-apartamento-pequeno/pano-de-copa-caroline200/" rel="attachment wp-att-8595"><img class="alignnone size-full wp-image-8595" title="Pano de Copa Caroline200" src="https://www.trololodemulher.com.br/2012/03/Pano-de-Copa-Caroline200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -213,7 +210,7 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/casaedecoracao/batata-ao-forno-funghi-secchi200/" rel="attachment wp-att-8564"><img class="alignnone size-full wp-image-8564" title="BATATA AO FORNO FUNGHI SECCHI200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/BATATA-AO-FORNO-FUNGHI-SECCHI200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/casaedecoracao/batata-ao-forno-funghi-secchi200/" rel="attachment wp-att-8564"><img class="alignnone size-full wp-image-8564" title="BATATA AO FORNO FUNGHI SECCHI200" src="https://www.trololodemulher.com.br/2012/03/BATATA-AO-FORNO-FUNGHI-SECCHI200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -225,7 +222,7 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/laranja200/" rel="attachment wp-att-8516"><img class="alignnone size-full wp-image-8516" title="LARANJA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/LARANJA200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/laranja200/" rel="attachment wp-att-8516"><img class="alignnone size-full wp-image-8516" title="LARANJA200" src="https://www.trololodemulher.com.br/2012/01/LARANJA200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
       </p>
       
       <p align="center">
@@ -235,7 +232,7 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/casaedecoracao/copos-coloridos200/" rel="attachment wp-att-8379"><img class="alignnone size-full wp-image-8379" title="COPOS COLORIDOS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/COPOS-COLORIDOS200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/casaedecoracao/copos-coloridos200/" rel="attachment wp-att-8379"><img class="alignnone size-full wp-image-8379" title="COPOS COLORIDOS200" src="https://www.trololodemulher.com.br/2011/12/COPOS-COLORIDOS200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -250,7 +247,7 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -265,13 +262,13 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

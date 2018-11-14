@@ -1,10 +1,7 @@
 ---
-id: 3755
 title: 'Cozinha americana pequena e simples: ideias, dicas e modelos.'
-date: 2017-05-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/05/02/cozinha-americana/
 permalink: /2017/05/02/cozinha-americana/
 categories:
   - Cozinha
@@ -14,27 +11,27 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13749" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/DECORACAO-COZINHA-AMERICANA.jpeg" alt="DECORACAO-COZINHA AMERICANA" width="800" height="549" />
+  <img class="alignnone size-full wp-image-13749" src="https://www.trololodemulher.com.br/2017/04/DECORACAO-COZINHA-AMERICANA.jpeg" alt="DECORACAO-COZINHA AMERICANA" width="800" height="549" />
 </p>
 
 <p align="center">
-  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
+  Via <a href="http://casa.abril.com.br/" target="_blank" rel="noopener noreferrer">Casa Abril</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13750" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/DECORACAO-COZINHA-AMERICANA2.jpeg" alt="DECORACAO-COZINHA AMERICANA[2]" width="800" height="608" />
+  <img class="alignnone size-full wp-image-13750" src="https://www.trololodemulher.com.br/2017/04/DECORACAO-COZINHA-AMERICANA2.jpeg" alt="DECORACAO-COZINHA AMERICANA[2]" width="800" height="608" />
 </p>
 
 <p align="center">
-  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
+  Via <a href="http://casa.abril.com.br/" target="_blank" rel="noopener noreferrer">Casa Abril</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13753" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/DECORACAO-COZINHA-AMERICANA3.jpeg" alt="DECORACAO-COZINHA AMERICANA[3]" width="760" height="628" />
+  <img class="alignnone size-full wp-image-13753" src="https://www.trololodemulher.com.br/2017/04/DECORACAO-COZINHA-AMERICANA3.jpeg" alt="DECORACAO-COZINHA AMERICANA[3]" width="760" height="628" />
 </p>
 
 <p align="center">
-  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
+  Via <a href="http://casa.abril.com.br/" target="_blank" rel="noopener noreferrer">Casa Abril</a>
 </p>
 
 <p align="justify">
@@ -42,7 +39,7 @@ categories:
 </p>
 
 <p align="justify">
-  Uma cozinha americana tem como característica principal o fato de ser aberta para a área comum de convivência do lar, e isso faz dela o coração que integra a família. Mas ela também pode e deve ser um espaço funcional, que sirva ao seu propósito de maneira eficiente. Uma vez que na cozinha a gente guarda um monte de apetrechos de trabalho como louça, panela, talheres, eletrodomésticos, etc., e também os alimentos, é importante que o espaço de armazenamento seja pensado com carinho. Em geral, apenas uma parede ganhará armários nesse espaço, certo? É preciso usar essa parede de maneira inteligente, de modo que fique bonito, já que ficará aberto para o resto da casa, e atenda às necessidades quanto a guardar o que você precisa ter nesse ambiente. Veja <a href="http://www.trololodemulher.com.br/2017/04/11/armario-de-cozinha/" target="_blank">como escolher armários de cozinha</a> e aposte nas melhores opções para seu ambiente.
+  Uma cozinha americana tem como característica principal o fato de ser aberta para a área comum de convivência do lar, e isso faz dela o coração que integra a família. Mas ela também pode e deve ser um espaço funcional, que sirva ao seu propósito de maneira eficiente. Uma vez que na cozinha a gente guarda um monte de apetrechos de trabalho como louça, panela, talheres, eletrodomésticos, etc., e também os alimentos, é importante que o espaço de armazenamento seja pensado com carinho. Em geral, apenas uma parede ganhará armários nesse espaço, certo? É preciso usar essa parede de maneira inteligente, de modo que fique bonito, já que ficará aberto para o resto da casa, e atenda às necessidades quanto a guardar o que você precisa ter nesse ambiente. Veja <a href="http://www.trololodemulher.com.br/2017/04/11/armario-de-cozinha/" target="_blank" rel="noopener noreferrer">como escolher armários de cozinha</a> e aposte nas melhores opções para seu ambiente.
 </p>
 
 <p align="justify">
@@ -50,27 +47,27 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13754" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/DECORACAO-COZINHA-AMERICANA4.jpeg" alt="DECORACAO-COZINHA AMERICANA[4]" width="800" height="583" />
+  <img class="alignnone size-full wp-image-13754" src="https://www.trololodemulher.com.br/2017/04/DECORACAO-COZINHA-AMERICANA4.jpeg" alt="DECORACAO-COZINHA AMERICANA[4]" width="800" height="583" />
 </p>
 
 <p align="center">
-  Via <a href="http://casandocomamor.com.br/" target="_blank">Casando com amor</a>
+  Via <a href="http://casandocomamor.com.br/" target="_blank" rel="noopener noreferrer">Casando com amor</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13755" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/DECORACAO-COZINHA-AMERICANA5.jpeg" alt="DECORACAO-COZINHA AMERICANA[5]" width="616" height="462" />
+  <img class="alignnone size-full wp-image-13755" src="https://www.trololodemulher.com.br/2017/04/DECORACAO-COZINHA-AMERICANA5.jpeg" alt="DECORACAO-COZINHA AMERICANA[5]" width="616" height="462" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.globodicas.com.br/" target="_blank">Globo Dicas</a>
+  Via <a href="http://www.globodicas.com.br/" target="_blank" rel="noopener noreferrer">Globo Dicas</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13756" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/DECORACAO-COZINHA-AMERICANA6.jpeg" alt="DECORACAO-COZINHA AMERICANA[6]" width="720" height="486" />
+  <img class="alignnone size-full wp-image-13756" src="https://www.trololodemulher.com.br/2017/04/DECORACAO-COZINHA-AMERICANA6.jpeg" alt="DECORACAO-COZINHA AMERICANA[6]" width="720" height="486" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.globodicas.com.br/" target="_blank">Globo Dicas</a>
+  Via <a href="http://www.globodicas.com.br/" target="_blank" rel="noopener noreferrer">Globo Dicas</a>
 </p>
 
 <p align="justify">
@@ -78,27 +75,27 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13757" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/DECORACAO-COZINHA-AMERICANA7.jpeg" alt="DECORACAO-COZINHA AMERICANA[7]" width="600" height="442" />
+  <img class="alignnone size-full wp-image-13757" src="https://www.trololodemulher.com.br/2017/04/DECORACAO-COZINHA-AMERICANA7.jpeg" alt="DECORACAO-COZINHA AMERICANA[7]" width="600" height="442" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.cozinhaamericana.org/" target="_blank">Cozinha Americana</a>
+  Via <a href="http://www.cozinhaamericana.org/" target="_blank" rel="noopener noreferrer">Cozinha Americana</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13758" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/DECORACAO-COZINHA-AMERICANA8.jpeg" alt="DECORACAO-COZINHA AMERICANA[8]" width="798" height="479" />
+  <img class="alignnone size-full wp-image-13758" src="https://www.trololodemulher.com.br/2017/04/DECORACAO-COZINHA-AMERICANA8.jpeg" alt="DECORACAO-COZINHA AMERICANA[8]" width="798" height="479" />
 </p>
 
 <p align="center">
-  Via <a href="http://decorandocasas.com.br/" target="_blank">Decorando Casas</a>
+  Via <a href="http://decorandocasas.com.br/" target="_blank" rel="noopener noreferrer">Decorando Casas</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13759" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/DECORACAO-COZINHA-AMERICANA9.jpeg" alt="DECORACAO-COZINHA AMERICANA[9]" width="580" height="454" />
+  <img class="alignnone size-full wp-image-13759" src="https://www.trololodemulher.com.br/2017/04/DECORACAO-COZINHA-AMERICANA9.jpeg" alt="DECORACAO-COZINHA AMERICANA[9]" width="580" height="454" />
 </p>
 
 <p align="center">
-  Via <a href="http://revista.zapimoveis.com.br/" target="_blank">Revista Zap Imóveis</a>
+  Via <a href="http://revista.zapimoveis.com.br/" target="_blank" rel="noopener noreferrer">Revista Zap Imóveis</a>
 </p>
 
 <p align="justify">
@@ -114,27 +111,27 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13760" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/DECORACAO-COZINHA-AMERICANA10.jpeg" alt="DECORACAO-COZINHA AMERICANA[10]" width="580" height="386" />
+  <img class="alignnone size-full wp-image-13760" src="https://www.trololodemulher.com.br/2017/04/DECORACAO-COZINHA-AMERICANA10.jpeg" alt="DECORACAO-COZINHA AMERICANA[10]" width="580" height="386" />
 </p>
 
 <p align="center">
-  Via <a href="http://pequenoapartamento.com.br/" target="_blank">Pequeno Apartamento</a>
+  Via <a href="http://pequenoapartamento.com.br/" target="_blank" rel="noopener noreferrer">Pequeno Apartamento</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13761" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/DECORACAO-COZINHA-AMERICANA11.jpeg" alt="DECORACAO-COZINHA AMERICANA[11]" width="550" height="697" />
+  <img class="alignnone size-full wp-image-13761" src="https://www.trololodemulher.com.br/2017/04/DECORACAO-COZINHA-AMERICANA11.jpeg" alt="DECORACAO-COZINHA AMERICANA[11]" width="550" height="697" />
 </p>
 
 <p align="center">
-  Via <a href="http://pequenoapartamento.com.br/" target="_blank">Pequeno Apartamento</a>
+  Via <a href="http://pequenoapartamento.com.br/" target="_blank" rel="noopener noreferrer">Pequeno Apartamento</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13762" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/DECORACAO-COZINHA-AMERICANA12.jpeg" alt="DECORACAO-COZINHA AMERICANA[12]" width="640" height="480" />
+  <img class="alignnone size-full wp-image-13762" src="https://www.trololodemulher.com.br/2017/04/DECORACAO-COZINHA-AMERICANA12.jpeg" alt="DECORACAO-COZINHA AMERICANA[12]" width="640" height="480" />
 </p>
 
 <p align="center">
-  Via <a href="http://pequenoapartamento.com.br/" target="_blank">Pequeno Apartamento</a>
+  Via <a href="http://pequenoapartamento.com.br/" target="_blank" rel="noopener noreferrer">Pequeno Apartamento</a>
 </p>
 
 <p align="justify">
@@ -142,7 +139,7 @@ categories:
 </p>
 
 <p align="justify">
-  1 &#8211; Não é porque sua cozinha é integrada que você vai tentar usar a luz comum de todo o ambiente, ok? Dedique a sua cozinha uma <strong>iluminação própria para ela</strong>, porque o ambiente precisa estar bem iluminado para que você trabalhe melhor lá. Deixe o <a href="http://www.trololodemulher.com.br/2016/12/06/lustre-pendente/" target="_blank">lustre pendente para a sala/mesa de jantar</a>. Embaixo dos seus armários também pode haver pequenos focos de luz, que cumprem uma função decorativa bastante interessante.
+  1 &#8211; Não é porque sua cozinha é integrada que você vai tentar usar a luz comum de todo o ambiente, ok? Dedique a sua cozinha uma <strong>iluminação própria para ela</strong>, porque o ambiente precisa estar bem iluminado para que você trabalhe melhor lá. Deixe o <a href="http://www.trololodemulher.com.br/2016/12/06/lustre-pendente/" target="_blank" rel="noopener noreferrer">lustre pendente para a sala/mesa de jantar</a>. Embaixo dos seus armários também pode haver pequenos focos de luz, que cumprem uma função decorativa bastante interessante.
 </p>
 
 <p align="justify">
@@ -154,5 +151,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

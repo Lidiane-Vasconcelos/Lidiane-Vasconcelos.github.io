@@ -1,10 +1,7 @@
 ---
-id: 3564
 title: Qual a melhor cabeceira pra sua cama?
-date: 2016-03-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/03/17/cabeceira/
 permalink: /2016/03/17/cabeceira/
 categories:
   - Quarto
@@ -46,7 +43,7 @@ categories:
 </p>
 
 <p style="text-align: center;" align="center">
-  <em>Se você é do tipo que precisa do maior espaço possível na sua cabeceira para armazenar os objetos que você tanto precisa, a saída pode ser algo planejado, sob medida para suas necessidades. O design dessa mesa de cabeceira super diferenciada, que na verdade são prateleiras, reserva espaço para várias coisas: luminária, livros, remédios e até objetos de decoração. Veja mais em “</em><a href="http://www.trololodemulher.com.br/2012/02/01/quarto-organizacao-cabeceira/" target="_blank"><em>Quarto: ideias de organização para a cabeceira da cama</em></a><em>”.</em>
+  <em>Se você é do tipo que precisa do maior espaço possível na sua cabeceira para armazenar os objetos que você tanto precisa, a saída pode ser algo planejado, sob medida para suas necessidades. O design dessa mesa de cabeceira super diferenciada, que na verdade são prateleiras, reserva espaço para várias coisas: luminária, livros, remédios e até objetos de decoração. Veja mais em “</em><a href="http://www.trololodemulher.com.br/2012/02/01/quarto-organizacao-cabeceira/" target="_blank" rel="noopener noreferrer"><em>Quarto: ideias de organização para a cabeceira da cama</em></a><em>”.</em>
 </p>
 
 <p align="justify">
@@ -66,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-de-quarto-pequeno-2/" target="_blank"><strong>O que fazer na decoração de quarto pequeno?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-de-quarto-pequeno-2/" target="_blank" rel="noopener noreferrer"><strong>O que fazer na decoração de quarto pequeno?</strong></a>
 </p>
 
 <p align="center">
@@ -74,7 +71,7 @@ categories:
 </p>
 
 <p style="text-align: center;" align="center">
-  <em>As esculturas de parede de metal que imitam folhagens são mesmo peças decorativas lindas de viver, não é? Você já viu sua possibilidade de uso assim, como cabeceira? Pois bem, inspire-se no efeito de modernidade e elegância que esse recurso de decoração pode trazer para o seu quarto e capriche na escolha das peças certas… seus olhos agradecem! Veja mais em “</em><a href="http://www.decoracaodacasa.com/cabeceiras-diferentes/" target="_blank"><em>3 ideias de cabeceiras diferentes… nada convencionais!</em></a><em>”.</em>
+  <em>As esculturas de parede de metal que imitam folhagens são mesmo peças decorativas lindas de viver, não é? Você já viu sua possibilidade de uso assim, como cabeceira? Pois bem, inspire-se no efeito de modernidade e elegância que esse recurso de decoração pode trazer para o seu quarto e capriche na escolha das peças certas… seus olhos agradecem! Veja mais em “</em><a href="http://www.decoracaodacasa.com/cabeceiras-diferentes/" target="_blank" rel="noopener noreferrer"><em>3 ideias de cabeceiras diferentes… nada convencionais!</em></a><em>”.</em>
 </p>
 
 <p align="center">
@@ -82,7 +79,7 @@ categories:
 </p>
 
 <p style="text-align: center;" align="center">
-  <em>Papel de parede aplicado até metade da parede, em toda a extensão, recebendo um acabamento com madeira, que serve como apoio para quadros. Veja mais em “</em><a href="http://www.decoracaodacasa.com/papel-de-parede-na-cabeceira/" target="_blank"><em>Papel de parede na cabeceira na cama: inspirações</em></a><em>”.</em>
+  <em>Papel de parede aplicado até metade da parede, em toda a extensão, recebendo um acabamento com madeira, que serve como apoio para quadros. Veja mais em “</em><a href="http://www.decoracaodacasa.com/papel-de-parede-na-cabeceira/" target="_blank" rel="noopener noreferrer"><em>Papel de parede na cabeceira na cama: inspirações</em></a><em>”.</em>
 </p>
 
 <p align="justify">
@@ -130,13 +127,13 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cabeceira-enchimento/" target="_blank"><strong>Cabeceira com enchimento “fofinho”: como fazer?</strong></a>
+  <a href="http://www.decoracaodacasa.com/cabeceira-enchimento/" target="_blank" rel="noopener noreferrer"><strong>Cabeceira com enchimento “fofinho”: como fazer?</strong></a>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.decoracaodacasa.com/cabeceira-cama-quarto/" target="_blank">Uma ideia de cabeceira simples, rápida e barata: quarto com novo visual.</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/cabeceira-cama-quarto/" target="_blank" rel="noopener noreferrer">Uma ideia de cabeceira simples, rápida e barata: quarto com novo visual.</a></strong>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

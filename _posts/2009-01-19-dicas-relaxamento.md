@@ -1,10 +1,7 @@
 ---
-id: 2605
 title: Dicas para relaxar em casa, como se você estivesse em um SPA.
-date: 2009-01-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/01/19/dicas-relaxamento/
 permalink: /2009/01/19/dicas-relaxamento/
 categories:
   - Bem-estar
@@ -15,7 +12,7 @@ E se pudéssemos ter um SPA em casa? Já pensou que delícia? Pensa bem: o que 
 
 Nós buscamos relaxar. Esse é o principal motivo por que se vai para o SPA, certo? Mas, se a gente não dispõe de dinheiro suficiente para pagar um, quer dizer que não podemos desfrutar de momentos de relaxamento?!?
 
-Explorando o “<a href="http://www.realsimple.com/realsimple/homepage/flash/0,23022,,00.shtml?origref=http://www.realsimple.com/realsimple/homepage/flash/0,23022,,00.shtml?origref=http://www.realsimple.com/realsimple/package/0,21861,1168444-1850351-2,00.html" target="_blank">Real Simple</a>”, encontrei <a href="http://www.realsimple.com/realsimple/package/0,21861,1168444-1850351-1,00.html" target="_blank">algumas dicas</a> preciosas e simples para a gente se auto proporcionar momentos bem gosotosos. E o melhor: em casa! Quer saber como?
+Explorando o “<a href="http://www.realsimple.com/realsimple/homepage/flash/0,23022,,00.shtml?origref=http://www.realsimple.com/realsimple/homepage/flash/0,23022,,00.shtml?origref=http://www.realsimple.com/realsimple/package/0,21861,1168444-1850351-2,00.html" target="_blank" rel="noopener noreferrer">Real Simple</a>”, encontrei <a href="http://www.realsimple.com/realsimple/package/0,21861,1168444-1850351-1,00.html" target="_blank" rel="noopener noreferrer">algumas dicas</a> preciosas e simples para a gente se auto proporcionar momentos bem gosotosos. E o melhor: em casa! Quer saber como?
 
 1 – **_Tomando banho_**.
 
@@ -24,7 +21,7 @@ A sugestão aqui é trocar o sabonete convencional por um **_sabonte líquido_**
 2 – **_Massageando as mãos._**
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/maos-femininas.jpg"><img class="size-medium wp-image-4918 aligncenter" title="mãos femininas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/maos-femininas-224x300.jpg" alt="" width="224" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/maos-femininas.jpg"><img class="size-medium wp-image-4918 aligncenter" title="mãos femininas" src="https://www.trololodemulher.com.br/2010/07/maos-femininas-224x300.jpg" alt="" width="224" height="300" /></a>
 </p>
 
 Após **_aplicar nas mãos um hidratante de sua preferência para facilitar os movimentos de massagem_**, **_use seus dedos para deslizar sobre o músculo largo que fica sob seu polegar, fazendo movimentos circulares com pressão bem suave nessa região_**.
@@ -40,7 +37,7 @@ Além da sensação refrescante e de hidratação, o cheiro de pepino proporcion
 4 –** _Escovando os cabelos_**.
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/cabelos.jpg"><img class="size-full wp-image-4919 aligncenter" title="cabelos" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/cabelos.jpg" alt="" width="298" height="232" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/cabelos.jpg"><img class="size-full wp-image-4919 aligncenter" title="cabelos" src="https://www.trololodemulher.com.br/2010/07/cabelos.jpg" alt="" width="298" height="232" /></a>
 </p>
 
 Bom mesmo é quando alguém nos faz um cafuné, não é? Mas se a gente mesma parar um instante para **_escovar os cabelos_**, o movimento repetitivo desse cuidado pode proporcionar o mesmo prazer. Eu pessoalmente diria que **_tudo é uma questão de não fazê-lo automaticamente_**, mas parar para sentir o prazer do gesto. Eu já faço isso, primeiro com o objetivo de desembaraçar os cabelos antes de lavá-los, e depois porque a sensação é gostosa mesmo.
@@ -48,7 +45,7 @@ Bom mesmo é quando alguém nos faz um cafuné, não é? Mas se a gente mesma pa
 5 – Recorrendo aos aromas.
 
 <p style="text-align: center;">
-   <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/lavanda.jpg"><img class="size-medium wp-image-4920 aligncenter" title="lavanda" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/lavanda-300x225.jpg" alt="" width="300" height="225" /></a>
+   <a href="https://www.trololodemulher.com.br/2010/07/lavanda.jpg"><img class="size-medium wp-image-4920 aligncenter" title="lavanda" src="https://www.trololodemulher.com.br/2010/07/lavanda-300x225.jpg" alt="" width="300" height="225" /></a>
 </p>
 
 Aqui a sugestão é usar óleo corporal ou hidratante com aroma de lavanda e colocá-lo em locais estratégicos do corpo como na base do pescoço, parte interna dos pulsos e nas têmporas antes de ir dormir, porque cheiro de lavanda acalma. Além de aromas que acalmem como o de lavanda, para dormir bem vale adotar algumas **_<a href="http://www.trololodemulher.com.br/2009/01/29/1-2-3-4-5-carneirinhos-6-dicas-e-durma-bem/" target="_self">dicas para evitar insônia</a>_**. Aí sim, a noite será completa em relaxamento e bem-estar&#8230;

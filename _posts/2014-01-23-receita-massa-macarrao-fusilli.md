@@ -1,10 +1,7 @@
 ---
-id: 3275
 title: 'Fusilli Temperado: fácil, rápido e gostoso.'
-date: 2014-01-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/01/23/receita-massa-macarrao-fusilli/
 permalink: /2014/01/23/receita-massa-macarrao-fusilli/
 categories:
   - Receitas
@@ -14,7 +11,7 @@ Semana passada reproduzi esta receita aqui em casa, e já nem sei quantas vezes 
 &nbsp;
 
 <p style="text-align: justify;">
-  O mérito dessa dica pra lá de gostosa é toda do <strong>Sr. Aquiles</strong>, do blog <strong><a href="http://receitasdoquilao.com.br/" target="_blank">Receitas do Quilão</a></strong>. Ele é o amor da <strong><a href="http://www.margaretss.com.br/" target="_blank">Margaret</a></strong>, a diva da blogosfera, dona da <strong><a href="http://divitae.com.br/" target="_blank">Divitae</a></strong> e a sortuda que saboreia todas as delícias que ele prepara. A boa notícia é que seu blog é recheado de tantas outras receitas simples e gostosas como essa. Prepare-se para viver de vontade de comer essa gostosura só de olhar… repara:
+  O mérito dessa dica pra lá de gostosa é toda do <strong>Sr. Aquiles</strong>, do blog <strong><a href="http://receitasdoquilao.com.br/" target="_blank" rel="noopener noreferrer">Receitas do Quilão</a></strong>. Ele é o amor da <strong><a href="http://www.margaretss.com.br/" target="_blank" rel="noopener noreferrer">Margaret</a></strong>, a diva da blogosfera, dona da <strong><a href="http://divitae.com.br/" target="_blank" rel="noopener noreferrer">Divitae</a></strong> e a sortuda que saboreia todas as delícias que ele prepara. A boa notícia é que seu blog é recheado de tantas outras receitas simples e gostosas como essa. Prepare-se para viver de vontade de comer essa gostosura só de olhar… repara:
 </p>
 
 <!--more-->
@@ -62,7 +59,7 @@ Semana passada reproduzi esta receita aqui em casa, e já nem sei quantas vezes 
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/RECEITA-MASSA-MACARRAO-PARAFUSO-FUSILLI.jpg"><img class="alignnone size-full wp-image-9870" alt="RECEITA-MASSA-MACARRAO-PARAFUSO-FUSILLI" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/RECEITA-MASSA-MACARRAO-PARAFUSO-FUSILLI.jpg" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/01/RECEITA-MASSA-MACARRAO-PARAFUSO-FUSILLI.jpg"><img class="alignnone size-full wp-image-9870" alt="RECEITA-MASSA-MACARRAO-PARAFUSO-FUSILLI" src="https://www.trololodemulher.com.br/2014/01/RECEITA-MASSA-MACARRAO-PARAFUSO-FUSILLI.jpg" width="600" height="450" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -78,7 +75,7 @@ Semana passada reproduzi esta receita aqui em casa, e já nem sei quantas vezes 
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BLOG-RECEITAS-DO-QUILÃO-ACHILES-FINARDI.png"><img class="alignnone size-full wp-image-9869" alt="BLOG RECEITAS DO QUILÃO - ACHILES FINARDI" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BLOG-RECEITAS-DO-QUILÃO-ACHILES-FINARDI.png" width="600" height="317" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/01/BLOG-RECEITAS-DO-QUILÃO-ACHILES-FINARDI.png"><img class="alignnone size-full wp-image-9869" alt="BLOG RECEITAS DO QUILÃO - ACHILES FINARDI" src="https://www.trololodemulher.com.br/2014/01/BLOG-RECEITAS-DO-QUILÃO-ACHILES-FINARDI.png" width="600" height="317" /></a>
 </p>
 
 &nbsp;
@@ -88,7 +85,7 @@ Semana passada reproduzi esta receita aqui em casa, e já nem sei quantas vezes 
 &nbsp;
 
 <p style="text-align: justify;">
-  É com essa simpatia que o Sr. Aquiles nos recebe em seu blog, com receitas fáceis de fazer, despretensiosas, com ingredientes fáceis de serem encontrados em qualquer parte, tudo acessível para mortais como a gente. Quer aprender com ele, que ensina o que sabe de forma tão calorosa e didática? Se joga nas <strong><a href="http://receitasdoquilao.com.br/" target="_blank">Receitas do Quilão</a></strong>, bonita!!!
+  É com essa simpatia que o Sr. Aquiles nos recebe em seu blog, com receitas fáceis de fazer, despretensiosas, com ingredientes fáceis de serem encontrados em qualquer parte, tudo acessível para mortais como a gente. Quer aprender com ele, que ensina o que sabe de forma tão calorosa e didática? Se joga nas <strong><a href="http://receitasdoquilao.com.br/" target="_blank" rel="noopener noreferrer">Receitas do Quilão</a></strong>, bonita!!!
 </p>
 
 &nbsp;
@@ -120,7 +117,7 @@ Semana passada reproduzi esta receita aqui em casa, e já nem sei quantas vezes 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -137,13 +134,13 @@ Semana passada reproduzi esta receita aqui em casa, e já nem sei quantas vezes 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -152,5 +149,5 @@ Semana passada reproduzi esta receita aqui em casa, e já nem sei quantas vezes 
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
+  <a href="https://www.facebook.com/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="https://www.trololodemulher.com.br/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
 </p>

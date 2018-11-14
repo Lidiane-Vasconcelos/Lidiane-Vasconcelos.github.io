@@ -1,10 +1,7 @@
 ---
-id: 3600
 title: Como usar cores vibrantes na sala de estar?
-date: 2016-04-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/04/27/cores-decoracao-sala-de-estar/
 permalink: /2016/04/27/cores-decoracao-sala-de-estar/
 categories:
   - Salas
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12458" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-DESIGNER-DE-INTERIORES.png" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-DESIGNER DE INTERIORES" width="452" height="81" />
+  <img class="alignnone size-full wp-image-12458" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-DESIGNER-DE-INTERIORES.png" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-DESIGNER DE INTERIORES" width="452" height="81" />
 </p>
 
 > <p align="justify">
@@ -26,7 +23,7 @@ categories:
 > </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12459" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-DESIGNER-DE-INTERIORES2.png" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-DESIGNER DE INTERIORES[2]" width="521" height="74" />
+  <img class="alignnone size-full wp-image-12459" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-DESIGNER-DE-INTERIORES2.png" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-DESIGNER DE INTERIORES[2]" width="521" height="74" />
 </p>
 
 <p align="center">
@@ -42,7 +39,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12460" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-DESIGNER-DE-INTERIORES3.png" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-DESIGNER DE INTERIORES[3]" width="492" height="77" />
+  <img class="alignnone size-full wp-image-12460" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-DESIGNER-DE-INTERIORES3.png" alt="DECORACAO-DECORACAO DE INTERIORES-DECORACAO DE AMBIENTES-DESIGNER DE INTERIORES[3]" width="492" height="77" />
 </p>
 
 > <p align="justify">
@@ -54,7 +51,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cadeiras-sala-jantar/" target="_blank"><strong>Cadeiras vermelhas: 6 ambientes para te encorajar a usá-las.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cadeiras-sala-jantar/" target="_blank" rel="noopener noreferrer"><strong>Cadeiras vermelhas: 6 ambientes para te encorajar a usá-las.</strong></a>
 </p>
 
 <p align="center">
@@ -62,7 +59,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Imagem: ambiente acima – <a href="http://www.dibentomoveis.com.br/index/" target="_blank">DiBento Móveis e Decorações</a> | almofadas abaixo: <a href="https://www.leroymerlin.com.br/" target="_blank">Leroy Merlin</a></em>
+  <em>Imagem: ambiente acima – <a href="http://www.dibentomoveis.com.br/index/" target="_blank" rel="noopener noreferrer">DiBento Móveis e Decorações</a> | almofadas abaixo: <a href="https://www.leroymerlin.com.br/" target="_blank" rel="noopener noreferrer">Leroy Merlin</a></em>
 </p>
 
 > <p align="justify">
@@ -74,7 +71,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Imagem: ambientes <a href="http://www.dibentomoveis.com.br/index/" target="_blank">DiBento Móveis e Decorações</a></em>
+  <em>Imagem: ambientes <a href="http://www.dibentomoveis.com.br/index/" target="_blank" rel="noopener noreferrer">DiBento Móveis e Decorações</a></em>
 </p>
 
 > <p align="justify">
@@ -86,7 +83,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/mesa-centro-sala-estar/" target="_blank"><strong>Mesa de centro da sala de estar: compre sem erro!</strong></a>
+  <a href="http://www.decoracaodacasa.com/mesa-centro-sala-estar/" target="_blank" rel="noopener noreferrer"><strong>Mesa de centro da sala de estar: compre sem erro!</strong></a>
 </p>
 
 <p align="center">
@@ -94,7 +91,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Imagem: cafeteira <a href="https://www.nespresso.com/br/pt/home" target="_blank">Nespresso</a> | mantimentos via <a href="http://www.comprafacil.com.br/" target="_blank">comprafacil</a> | eletrodomésticos <a href="http://loja.kitchenaid.com.br/" target="_blank">KitchenAid</a></em>
+  <em>Imagem: cafeteira <a href="https://www.nespresso.com/br/pt/home" target="_blank" rel="noopener noreferrer">Nespresso</a> | mantimentos via <a href="http://www.comprafacil.com.br/" target="_blank" rel="noopener noreferrer">comprafacil</a> | eletrodomésticos <a href="http://loja.kitchenaid.com.br/" target="_blank" rel="noopener noreferrer">KitchenAid</a></em>
 </p>
 
 > <p align="justify">
@@ -106,11 +103,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Maristela </strong>atua em Florianópolis e região, empregando seu conhecimento para ajudar você na realização do que você sente como sendo seu sonho de morar bem. Você pode contar com a moça para reforma, construção, mobília e decoração residencial ou comercial, tudo de forma personalizada, de acordo com seu estilo. Conheça seu site, sua proposta de trabalho e formas de contato com a <em>designer</em> <a href="http://www.maristelaleonel.com.br/bem-vindo" target="_blank">clicando aqui</a>. Maristela também dispõe de uma página no <em>Facebook</em> onde apresenta seus projetos e compartilha informações. <a href="https://www.facebook.com/maristelaleoneldi/timeline" target="_blank">Eu já curti… vem também</a>!
+  <strong>Maristela </strong>atua em Florianópolis e região, empregando seu conhecimento para ajudar você na realização do que você sente como sendo seu sonho de morar bem. Você pode contar com a moça para reforma, construção, mobília e decoração residencial ou comercial, tudo de forma personalizada, de acordo com seu estilo. Conheça seu site, sua proposta de trabalho e formas de contato com a <em>designer</em> <a href="http://www.maristelaleonel.com.br/bem-vindo" target="_blank" rel="noopener noreferrer">clicando aqui</a>. Maristela também dispõe de uma página no <em>Facebook</em> onde apresenta seus projetos e compartilha informações. <a href="https://www.facebook.com/maristelaleoneldi/timeline" target="_blank" rel="noopener noreferrer">Eu já curti… vem também</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

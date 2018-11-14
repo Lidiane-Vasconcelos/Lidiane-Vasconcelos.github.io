@@ -1,10 +1,7 @@
 ---
-id: 3534
 title: 'Empreendedorismo: 6 maneiras de agir e nunca desistir.'
-date: 2016-01-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/01/29/empreendedorismo-2/
 permalink: /2016/01/29/empreendedorismo-2/
 categories:
   - Empreendedorismo Feminino
@@ -19,11 +16,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11836" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/01/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIOS2.jpg" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-CARREIRA-NEGOCIOS[2]" width="764" height="751" />
+  <img class="alignnone size-full wp-image-11836" src="https://www.trololodemulher.com.br/2016/01/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIOS2.jpg" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-CARREIRA-NEGOCIOS[2]" width="764" height="751" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: <a href="http://www.laughandpee.com/" target="_blank" rel="noopener noreferrer">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank" rel="noopener noreferrer">Gratisography</a>
 </p>
 
 <p align="justify">
@@ -55,7 +52,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank">De hobby a trabalho: como ganhar dinheiro?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank" rel="noopener noreferrer">De hobby a trabalho: como ganhar dinheiro?</a></strong>
 </p>
 
 <p align="justify">
@@ -79,15 +76,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/01/22/tempo-e-produtividade/" target="_blank">Gestão do tempo e produtividade: 6 dicas pra fazer mais.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/01/22/tempo-e-produtividade/" target="_blank" rel="noopener noreferrer">Gestão do tempo e produtividade: 6 dicas pra fazer mais.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/10/30/produtividade-2/" target="_blank">Produtividade: 5 mulheres empreendedoras dão dicas top.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/10/30/produtividade-2/" target="_blank" rel="noopener noreferrer">Produtividade: 5 mulheres empreendedoras dão dicas top.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/08/28/produtividade/" target="_blank">Boa produtividade é realizar o essencial e eliminar o resto.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/08/28/produtividade/" target="_blank" rel="noopener noreferrer">Boa produtividade é realizar o essencial e eliminar o resto.</a></strong>
 </p>
 
 <p align="justify">
@@ -95,7 +92,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Exato. Medo é um convite para pausa, não para parar o que você está fazendo. O mais importante nos momentos de medo é questionar se são <a href="http://www.trololodemulher.com.br/2015/11/27/empreendedorismo/" target="_blank">medos lógicos ou ilógicos</a>. Pela minha experiência, 95% desses medos são ilógicos porque são baseados na nossa mentalidade que pode estar contaminada de percepções limitantes que eu chamo de “Regras.&#8221;</em>
+  “<em>Exato. Medo é um convite para pausa, não para parar o que você está fazendo. O mais importante nos momentos de medo é questionar se são <a href="http://www.trololodemulher.com.br/2015/11/27/empreendedorismo/" target="_blank" rel="noopener noreferrer">medos lógicos ou ilógicos</a>. Pela minha experiência, 95% desses medos são ilógicos porque são baseados na nossa mentalidade que pode estar contaminada de percepções limitantes que eu chamo de “Regras.&#8221;</em>
 </p>
 
 <p align="justify">
@@ -115,15 +112,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11705" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/11/EMPREENDEDORISMO-FEMININO-SIMONE-MITJANS3.jpg" alt="EMPREENDEDORISMO FEMININO-SIMONE MITJANS[3]" width="800" height="169" />
+  <img class="alignnone size-full wp-image-11705" src="https://www.trololodemulher.com.br/2015/11/EMPREENDEDORISMO-FEMININO-SIMONE-MITJANS3.jpg" alt="EMPREENDEDORISMO FEMININO-SIMONE MITJANS[3]" width="800" height="169" />
 </p>
 
 <p align="justify">
-  Como uma mulher empreendedora, ou fortemente orientada a tornar-se uma, você sente que precisa alinhar algumas questões para seguir em frente com sua paixão? Uma mentora de sucesso pode mesmo ser um divisor de águas nessa sua trajetória, de maneira que você se sinta bem orientada e mantenha a sua motivação viva. Se você deseja uma companhia nesse sentido na sua jornada, assim como um atleta precisa de um treinador em quem possa confiar, pode contar com a Simone Mitjans como o suporte que você precisa. É para as mulheres de sucesso que a Simone direciona toda a sua energia e conhecimentos, e você pode entender como esse trabalho é realizado <a href="http://www.simonemitjans.com.br/" target="_blank">visitando o seu site</a>. Além do mais, <a href="https://www.facebook.com/simonemitjans/?fref=ts" target="_blank">curta a fanpage da Simone no Facebook</a> e fique por dentro de tudo o que pode facilitar para a energia do sucesso chegar até você. Se joga!
+  Como uma mulher empreendedora, ou fortemente orientada a tornar-se uma, você sente que precisa alinhar algumas questões para seguir em frente com sua paixão? Uma mentora de sucesso pode mesmo ser um divisor de águas nessa sua trajetória, de maneira que você se sinta bem orientada e mantenha a sua motivação viva. Se você deseja uma companhia nesse sentido na sua jornada, assim como um atleta precisa de um treinador em quem possa confiar, pode contar com a Simone Mitjans como o suporte que você precisa. É para as mulheres de sucesso que a Simone direciona toda a sua energia e conhecimentos, e você pode entender como esse trabalho é realizado <a href="http://www.simonemitjans.com.br/" target="_blank" rel="noopener noreferrer">visitando o seu site</a>. Além do mais, <a href="https://www.facebook.com/simonemitjans/?fref=ts" target="_blank" rel="noopener noreferrer">curta a fanpage da Simone no Facebook</a> e fique por dentro de tudo o que pode facilitar para a energia do sucesso chegar até você. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

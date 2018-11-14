@@ -1,10 +1,7 @@
 ---
-id: 3775
 title: Combata doenças mais comuns no inverno com o Yoga.
-date: 2017-06-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/06/19/doencas-mais-comuns-no-inverno/
 permalink: /2017/06/19/doencas-mais-comuns-no-inverno/
 categories:
   - Bem-estar
@@ -19,7 +16,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13912" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/06/PAULA-ELISA-YOGA.jpg" alt="PAULA ELISA-YOGA" width="641" height="960" />
+  <img class="alignnone size-full wp-image-13912" src="https://www.trololodemulher.com.br/2017/06/PAULA-ELISA-YOGA.jpg" alt="PAULA ELISA-YOGA" width="641" height="960" />
 </p>
 
 <p align="center">
@@ -43,7 +40,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13913" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/06/PAULA-ELISA-YOGA2.jpg" alt="PAULA ELISA-YOGA[2]" width="800" height="532" />
+  <img class="alignnone size-full wp-image-13913" src="https://www.trololodemulher.com.br/2017/06/PAULA-ELISA-YOGA2.jpg" alt="PAULA ELISA-YOGA[2]" width="800" height="532" />
 </p>
 
 <p align="center">
@@ -71,25 +68,25 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="https://www.ncbi.nlm.nih.gov/pubmed/26181573" target="_blank"><em>Texto 1</em></a><em> | </em><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3099098/" target="_blank"><em>Texto 2</em></a><em> | </em><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4623627/" target="_blank"><em>Texto 3</em></a><em>”</em>
+  <a href="https://www.ncbi.nlm.nih.gov/pubmed/26181573" target="_blank" rel="noopener noreferrer"><em>Texto 1</em></a><em> | </em><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3099098/" target="_blank" rel="noopener noreferrer"><em>Texto 2</em></a><em> | </em><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4623627/" target="_blank" rel="noopener noreferrer"><em>Texto 3</em></a><em>”</em>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-10568" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/YOGA-MEDITACAO-SAUDE-BEM-ESTAR-PROFESSORA-PAULA-ELISA2.png" alt="YOGA-MEDITACAO-SAUDE-BEM ESTAR-PROFESSORA-PAULA ELISA[2]" width="800" height="212" />
+  <img class="alignnone size-full wp-image-10568" src="https://www.trololodemulher.com.br/2014/11/YOGA-MEDITACAO-SAUDE-BEM-ESTAR-PROFESSORA-PAULA-ELISA2.png" alt="YOGA-MEDITACAO-SAUDE-BEM ESTAR-PROFESSORA-PAULA ELISA[2]" width="800" height="212" />
 </p>
 
 &nbsp;
 
 **Mais consultorias de Paula:**
 
-<a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank"><strong>O que a meditação pode fazer por seu bem-estar e saúde?</strong></a>
+<a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank" rel="noopener noreferrer"><strong>O que a meditação pode fazer por seu bem-estar e saúde?</strong></a>
 
 <p align="justify">
-  Paula também é blogueira, para nossa alegria. Ela edita um blog repleto de informações sobre a prática da Yoga e tudo o mais que está ligado a esse universo. Sua linguagem é simples, didática e incrivelmente gostosa de ser lida. Aproveite! Acompanhe suas atualizações pelo <strong>Namastê Yoga Blog</strong>, <a href="http://www.namasteyoga.com.br/" target="_blank">clicando aqui</a>. Não deixe de conferir suas postagens que fazem tanto bem em outro canal, no Facebook. <a href="https://www.facebook.com/namasteyoga2" target="_blank">Sua página está bem aqui, clique</a>, confira e curta!
+  Paula também é blogueira, para nossa alegria. Ela edita um blog repleto de informações sobre a prática da Yoga e tudo o mais que está ligado a esse universo. Sua linguagem é simples, didática e incrivelmente gostosa de ser lida. Aproveite! Acompanhe suas atualizações pelo <strong>Namastê Yoga Blog</strong>, <a href="http://www.namasteyoga.com.br/" target="_blank" rel="noopener noreferrer">clicando aqui</a>. Não deixe de conferir suas postagens que fazem tanto bem em outro canal, no Facebook. <a href="https://www.facebook.com/namasteyoga2" target="_blank" rel="noopener noreferrer">Sua página está bem aqui, clique</a>, confira e curta!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

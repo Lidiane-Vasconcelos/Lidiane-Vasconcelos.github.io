@@ -1,10 +1,7 @@
 ---
-id: 3412
 title: 'Tanto tempo longe da família e amigos: quem aguenta?'
-date: 2015-03-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/03/20/longe-da-familia-saudade/
 permalink: /2015/03/20/longe-da-familia-saudade/
 categories:
   - Adriana Minhoto
@@ -32,7 +29,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/FINLANDIA.jpg"><img class="alignnone size-full wp-image-10864" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/FINLANDIA.jpg" alt="FINLANDIA" width="800" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/FINLANDIA.jpg"><img class="alignnone size-full wp-image-10864" src="https://www.trololodemulher.com.br/2015/03/FINLANDIA.jpg" alt="FINLANDIA" width="800" height="449" /></a>
 </p>
 
 <p align="center">
@@ -44,7 +41,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/FINLANDIA4.jpg"><img class="alignnone size-full wp-image-10867" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/FINLANDIA4.jpg" alt="FINLANDIA[4]" width="800" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/FINLANDIA4.jpg"><img class="alignnone size-full wp-image-10867" src="https://www.trololodemulher.com.br/2015/03/FINLANDIA4.jpg" alt="FINLANDIA[4]" width="800" height="449" /></a>
 </p>
 
 <p align="center">
@@ -56,7 +53,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/FINLANDIA5.jpg"><img class="alignnone size-full wp-image-10868" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/FINLANDIA5.jpg" alt="FINLANDIA[5]" width="597" height="796" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/FINLANDIA5.jpg"><img class="alignnone size-full wp-image-10868" src="https://www.trololodemulher.com.br/2015/03/FINLANDIA5.jpg" alt="FINLANDIA[5]" width="597" height="796" /></a>
 </p>
 
 <p align="center">
@@ -64,7 +61,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/FINLANDIA2.jpg"><img class="alignnone size-full wp-image-10865" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/FINLANDIA2.jpg" alt="FINLANDIA[2]" width="800" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/FINLANDIA2.jpg"><img class="alignnone size-full wp-image-10865" src="https://www.trololodemulher.com.br/2015/03/FINLANDIA2.jpg" alt="FINLANDIA[2]" width="800" height="449" /></a>
 </p>
 
 <p align="center">
@@ -76,7 +73,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/FINLANDIA3.jpg"><img class="alignnone size-full wp-image-10866" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/FINLANDIA3.jpg" alt="FINLANDIA[3]" width="800" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/FINLANDIA3.jpg"><img class="alignnone size-full wp-image-10866" src="https://www.trololodemulher.com.br/2015/03/FINLANDIA3.jpg" alt="FINLANDIA[3]" width="800" height="449" /></a>
 </p>
 
 <p align="center">
@@ -92,7 +89,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/DINAMARCA.jpg"><img class="alignnone size-full wp-image-10862" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/DINAMARCA.jpg" alt="DINAMARCA" width="800" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/DINAMARCA.jpg"><img class="alignnone size-full wp-image-10862" src="https://www.trololodemulher.com.br/2015/03/DINAMARCA.jpg" alt="DINAMARCA" width="800" height="449" /></a>
 </p>
 
 <p align="center">
@@ -100,7 +97,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/NORUEGA.jpg"><img class="alignnone size-full wp-image-10869" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/NORUEGA.jpg" alt="NORUEGA" width="800" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/NORUEGA.jpg"><img class="alignnone size-full wp-image-10869" src="https://www.trololodemulher.com.br/2015/03/NORUEGA.jpg" alt="NORUEGA" width="800" height="449" /></a>
 </p>
 
 <p align="center">
@@ -108,7 +105,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SUECIA.jpg"><img class="alignnone size-full wp-image-10871" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/SUECIA.jpg" alt="SUECIA" width="800" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/SUECIA.jpg"><img class="alignnone size-full wp-image-10871" src="https://www.trololodemulher.com.br/2015/03/SUECIA.jpg" alt="SUECIA" width="800" height="449" /></a>
 </p>
 
 <p align="center">
@@ -116,7 +113,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/ESTONIA.jpg"><img class="alignnone size-full wp-image-10863" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/03/ESTONIA.jpg" alt="ESTONIA" width="800" height="449" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/03/ESTONIA.jpg"><img class="alignnone size-full wp-image-10863" src="https://www.trololodemulher.com.br/2015/03/ESTONIA.jpg" alt="ESTONIA" width="800" height="449" /></a>
 </p>
 
 <p align="center">
@@ -160,7 +157,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ADRIANA-MINHOTO.png"><img class="alignnone size-full wp-image-10378" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ADRIANA-MINHOTO.png" alt="ADRIANA MINHOTO" width="800" height="227" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/ADRIANA-MINHOTO.png"><img class="alignnone size-full wp-image-10378" src="https://www.trololodemulher.com.br/2014/09/ADRIANA-MINHOTO.png" alt="ADRIANA MINHOTO" width="800" height="227" /></a>
 </p>
 
 <p align="justify">
@@ -168,7 +165,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank" rel="noopener noreferrer">As voltas que a vida dá nos leva a lugares inimagináveis!</a></strong>
 </p>
 
 <p align="justify">
@@ -176,23 +173,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/02/20/maternidade-finlandia/" target="_blank">Se você fosse mãe lá na Finlândia…</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/02/20/maternidade-finlandia/" target="_blank" rel="noopener noreferrer">Se você fosse mãe lá na Finlândia…</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank">Educação, ordem e progresso… lá na Finlândia é assim!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank" rel="noopener noreferrer">Educação, ordem e progresso… lá na Finlândia é assim!</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/01/16/finlandia-novembro/" target="_blank">Dias e dias sem sol: o temido Novembro lá na Finlândia</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/01/16/finlandia-novembro/" target="_blank" rel="noopener noreferrer">Dias e dias sem sol: o temido Novembro lá na Finlândia</a></strong>
 </p>
 
 <p align="justify">
-  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank" rel="noopener noreferrer">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank" rel="noopener noreferrer">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank" rel="noopener noreferrer">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

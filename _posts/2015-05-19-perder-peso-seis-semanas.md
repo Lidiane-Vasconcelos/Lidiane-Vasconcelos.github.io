@@ -1,10 +1,7 @@
 ---
-id: 3424
 title: Como perder peso em seis semanas com o Corpo D21.
-date: 2015-05-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/05/19/perder-peso-seis-semanas/
 permalink: /2015/05/19/perder-peso-seis-semanas/
 categories:
   - Beleza
@@ -21,7 +18,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://corposaudeebeleza.com/secar_barriga3" target="_blank"><img class="alignnone size-full wp-image-10950" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/CORPO-D212.jpg" alt="CORPO D21[2]" width="700" height="355" /></a>
+  <a href="http://corposaudeebeleza.com/secar_barriga3" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10950" src="https://www.trololodemulher.com.br/2015/05/CORPO-D212.jpg" alt="CORPO D21[2]" width="700" height="355" /></a>
 </p>
 
 <p align="justify">
@@ -40,11 +37,11 @@ categories:
 </p>
 
 <p align="justify">
-  Lembrando: o programa tem duração de 6 semanas. O aluno acompanha tudo de casa, tendo acesso ao produto com login e senha. Quer saber mais? <a href="http://corposaudeebeleza.com/secar_barriga3" target="_blank">Clique aqui, cadastre-se e confira</a>! Ah! E a <a href="https://www.facebook.com/corpod21/timeline" target="_blank">página no Facebook</a> é bem aqui, oh: eu curti… vem!
+  Lembrando: o programa tem duração de 6 semanas. O aluno acompanha tudo de casa, tendo acesso ao produto com login e senha. Quer saber mais? <a href="http://corposaudeebeleza.com/secar_barriga3" target="_blank" rel="noopener noreferrer">Clique aqui, cadastre-se e confira</a>! Ah! E a <a href="https://www.facebook.com/corpod21/timeline" target="_blank" rel="noopener noreferrer">página no Facebook</a> é bem aqui, oh: eu curti… vem!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

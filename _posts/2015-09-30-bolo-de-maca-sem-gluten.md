@@ -1,10 +1,7 @@
 ---
-id: 3493
 title: Bolo de maçã sem glúten
-date: 2015-09-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/09/30/bolo-de-maca-sem-gluten/
 permalink: /2015/09/30/bolo-de-maca-sem-gluten/
 categories:
   - Receitas
@@ -17,7 +14,7 @@ categories:
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECEITA-RECEITA-SAUDAVEL-BOLO-DE-MACA-SEM-GLUTEN-GLUTEN-FREE.jpg"><img class="alignnone size-full wp-image-11528" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RECEITA-RECEITA-SAUDAVEL-BOLO-DE-MACA-SEM-GLUTEN-GLUTEN-FREE.jpg" alt="RECEITA-RECEITA SAUDAVEL-BOLO DE MACA-SEM GLUTEN-GLUTEN FREE" width="800" height="600" /></a>
+        <a href="https://www.trololodemulher.com.br/2015/09/RECEITA-RECEITA-SAUDAVEL-BOLO-DE-MACA-SEM-GLUTEN-GLUTEN-FREE.jpg"><img class="alignnone size-full wp-image-11528" src="https://www.trololodemulher.com.br/2015/09/RECEITA-RECEITA-SAUDAVEL-BOLO-DE-MACA-SEM-GLUTEN-GLUTEN-FREE.jpg" alt="RECEITA-RECEITA SAUDAVEL-BOLO DE MACA-SEM GLUTEN-GLUTEN FREE" width="800" height="600" /></a>
       </p>
       
       <p align="justify">
@@ -93,7 +90,7 @@ categories:
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/CAROL-VIEIRA.png"><img class="alignnone size-full wp-image-10204" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/CAROL-VIEIRA.png" alt="CAROL VIEIRA" width="600" height="251" /></a>
+        <a href="https://www.trololodemulher.com.br/2014/07/CAROL-VIEIRA.png"><img class="alignnone size-full wp-image-10204" src="https://www.trololodemulher.com.br/2014/07/CAROL-VIEIRA.png" alt="CAROL VIEIRA" width="600" height="251" /></a>
       </p>
       
       <p align="justify">
@@ -101,23 +98,23 @@ categories:
       </p>
       
       <p align="justify">
-        <strong><a href="http://www.trololodemulher.com.br/2015/09/16/pure-de-ervilha/" target="_blank">Purê de ervilha: bonito, saudável e nutritivo</a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2015/09/16/pure-de-ervilha/" target="_blank" rel="noopener noreferrer">Purê de ervilha: bonito, saudável e nutritivo</a></strong>
       </p>
       
       <p align="justify">
-        <strong><a href="http://www.trololodemulher.com.br/2015/09/02/saint-peter/" target="_blank">Saint peter ao forno ao molho de abóbora</a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2015/09/02/saint-peter/" target="_blank" rel="noopener noreferrer">Saint peter ao forno ao molho de abóbora</a></strong>
       </p>
       
       <p align="justify">
-        <strong><a href="http://www.trololodemulher.com.br/2015/08/19/mousse-de-chocolate/" target="_blank">Mousse de chocolate com café: porque merecemos!</a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2015/08/19/mousse-de-chocolate/" target="_blank" rel="noopener noreferrer">Mousse de chocolate com café: porque merecemos!</a></strong>
       </p>
       
       <p align="justify">
-        Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+        Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank" rel="noopener noreferrer">clica aqui, oh</a>.
       </p>
       
       <p align="center">
-        <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+        <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
       </p>
       
       <p align="justify">

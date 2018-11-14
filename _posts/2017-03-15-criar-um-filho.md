@@ -1,10 +1,7 @@
 ---
-id: 3739
 title: Criar um filho, e não um rei, é difícil mas compensa!
-date: 2017-03-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/03/15/criar-um-filho/
 permalink: /2017/03/15/criar-um-filho/
 categories:
   - Comportamento Infantil
@@ -19,11 +16,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13610" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/MATERNIDADE-FILHOS-COMPORTAMENTO-INFANTIL-EDUCACAO-INFANTIL-CRIAR-UM-FILHO800.jpg" alt="MATERNIDADE-FILHOS-COMPORTAMENTO INFANTIL-EDUCACAO INFANTIL-CRIAR UM FILHO800" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13610" src="https://www.trololodemulher.com.br/2017/03/MATERNIDADE-FILHOS-COMPORTAMENTO-INFANTIL-EDUCACAO-INFANTIL-CRIAR-UM-FILHO800.jpg" alt="MATERNIDADE-FILHOS-COMPORTAMENTO INFANTIL-EDUCACAO INFANTIL-CRIAR UM FILHO800" width="800" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/imagesbywestfall/3606314694/" target="_blank">greg westfall.</a> via <a href="http://foter.com/re/9f0146" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Imagem: <a href="https://www.flickr.com/photos/imagesbywestfall/3606314694/" target="_blank" rel="noopener noreferrer">greg westfall.</a> via <a href="http://foter.com/re/9f0146" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener noreferrer">CC BY</a>
 </p>
 
 <p align="justify">
@@ -49,17 +46,17 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13611" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/VIVIAN-SANCHES-PSICOLOGA-INFANTIL-SAO-PAULO-SP.jpg" alt="VIVIAN SANCHES-PSICOLOGA INFANTIL-SAO PAULO-SP" width="800" height="157" />
+  <img class="alignnone size-full wp-image-13611" src="https://www.trololodemulher.com.br/2017/03/VIVIAN-SANCHES-PSICOLOGA-INFANTIL-SAO-PAULO-SP.jpg" alt="VIVIAN SANCHES-PSICOLOGA INFANTIL-SAO PAULO-SP" width="800" height="157" />
 </p>
 
 &nbsp;
 
 <p align="justify">
-  A Psicóloga atende em São Paulo, capital, na Clínica Marre de Psicologia, na Rua Darwin, 527 – Jardim Santo Amaro &#8211; Próximo ao Shopping Boa Vista e estação Adolfo Pinheiro, linha Lilás do metrô. Para mais informações, o telefone de contato é (11) 995551561 &#8211; Operadora: Claro, ou e-mail: <a href="mailto:vivian.psico@outlook.com">vivian.psico@outlook.com</a>. <a href="http://psicoinfantil22.wixsite.com/viviansanchespsico" target="_blank">Clique aqui e visite o site de Vivian</a>, onde você terá acesso a mais informações sobre a profissional, ver fotos do espaço onde ela atende, saber valores, etc. Além do mais, a Psicóloga está no Facebook, compartilhando conteúdo interessante e importante para quem valoriza boa informação sobre comportamento e educação infantil. <a href="https://www.facebook.com/viviansanches.psico/" target="_blank">Clique aqui, curta e acompanhe</a>!
+  A Psicóloga atende em São Paulo, capital, na Clínica Marre de Psicologia, na Rua Darwin, 527 – Jardim Santo Amaro &#8211; Próximo ao Shopping Boa Vista e estação Adolfo Pinheiro, linha Lilás do metrô. Para mais informações, o telefone de contato é (11) 995551561 &#8211; Operadora: Claro, ou e-mail: <a href="mailto:vivian.psico@outlook.com">vivian.psico@outlook.com</a>. <a href="http://psicoinfantil22.wixsite.com/viviansanchespsico" target="_blank" rel="noopener noreferrer">Clique aqui e visite o site de Vivian</a>, onde você terá acesso a mais informações sobre a profissional, ver fotos do espaço onde ela atende, saber valores, etc. Além do mais, a Psicóloga está no Facebook, compartilhando conteúdo interessante e importante para quem valoriza boa informação sobre comportamento e educação infantil. <a href="https://www.facebook.com/viviansanches.psico/" target="_blank" rel="noopener noreferrer">Clique aqui, curta e acompanhe</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

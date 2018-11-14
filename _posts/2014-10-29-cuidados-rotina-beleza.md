@@ -1,10 +1,7 @@
 ---
-id: 3361
 title: Cuidados básicos e indispensáveis na rotina de beleza.
-date: 2014-10-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/10/29/cuidados-rotina-beleza/
 permalink: /2014/10/29/cuidados-rotina-beleza/
 categories:
   - Beleza
@@ -22,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/BELEZA-CORPO-CUIDADOS-MAOS.jpg"><img class="alignnone size-full wp-image-10520" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/BELEZA-CORPO-CUIDADOS-MAOS.jpg" alt="BELEZA-CORPO-CUIDADOS-MAOS" width="500" height="750" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/BELEZA-CORPO-CUIDADOS-MAOS.jpg"><img class="alignnone size-full wp-image-10520" src="https://www.trololodemulher.com.br/2014/10/BELEZA-CORPO-CUIDADOS-MAOS.jpg" alt="BELEZA-CORPO-CUIDADOS-MAOS" width="500" height="750" /></a>
 </p>
 
 <p align="center">
@@ -38,7 +35,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/BELEZA-CORPO-CUIDADOS-PES.jpg"><img class="alignnone size-full wp-image-10521" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/BELEZA-CORPO-CUIDADOS-PES.jpg" alt="BELEZA-CORPO-CUIDADOS-PES" width="500" height="649" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/BELEZA-CORPO-CUIDADOS-PES.jpg"><img class="alignnone size-full wp-image-10521" src="https://www.trololodemulher.com.br/2014/10/BELEZA-CORPO-CUIDADOS-PES.jpg" alt="BELEZA-CORPO-CUIDADOS-PES" width="500" height="649" /></a>
 </p>
 
 <p align="center">
@@ -78,11 +75,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/BELEZA-CORPO-CUIDADOS-ROSTO.jpg"><img class="alignnone size-full wp-image-10523" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/10/BELEZA-CORPO-CUIDADOS-ROSTO.jpg" alt="BELEZA-CORPO-CUIDADOS-ROSTO" width="500" height="749" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/10/BELEZA-CORPO-CUIDADOS-ROSTO.jpg"><img class="alignnone size-full wp-image-10523" src="https://www.trololodemulher.com.br/2014/10/BELEZA-CORPO-CUIDADOS-ROSTO.jpg" alt="BELEZA-CORPO-CUIDADOS-ROSTO" width="500" height="749" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://simple-cruelties.tumblr.com/post/65900946796" target="_blank">Daqui.</a>
+  Imagem: <a href="http://simple-cruelties.tumblr.com/post/65900946796" target="_blank" rel="noopener noreferrer">Daqui.</a>
 </p>
 
 <p align="justify">
@@ -110,15 +107,15 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/Dra.-Rafaela-Salvato-DERMATOLOGISTA-FLORIANÓPOLIS.png"><img class="alignnone size-full wp-image-10276" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/Dra.-Rafaela-Salvato-DERMATOLOGISTA-FLORIANÓPOLIS.png" alt="Dra. Rafaela Salvato - DERMATOLOGISTA- FLORIANÓPOLIS" width="600" height="205" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/08/Dra.-Rafaela-Salvato-DERMATOLOGISTA-FLORIANÓPOLIS.png"><img class="alignnone size-full wp-image-10276" src="https://www.trololodemulher.com.br/2014/08/Dra.-Rafaela-Salvato-DERMATOLOGISTA-FLORIANÓPOLIS.png" alt="Dra. Rafaela Salvato - DERMATOLOGISTA- FLORIANÓPOLIS" width="600" height="205" /></a>
 </p>
 
 <p align="justify">
-  A Dra. Rafaela tem presença constante na internet, isso para nossa alegria, viu? É possível acompanhar suas atualizações em seu blog, e você pode <a href="http://www.blografaelasalvato.med.br/" target="_blank">acessar clicando aqui</a>. Acompanhe os posts com temas pertinentes a saúde e beleza da pele, fique bem informada, saudável e bonita. Além do mais você pode conhecer mais de seu trabalho <a href="http://rafaelasalvato.com.br/" target="_blank">acessando seu site aqui</a>, ou curtir sua <a href="https://www.facebook.com/rafaelasalvatodermatologia" target="_blank">página no Facebook bem aqui</a>. Se joga!
+  A Dra. Rafaela tem presença constante na internet, isso para nossa alegria, viu? É possível acompanhar suas atualizações em seu blog, e você pode <a href="http://www.blografaelasalvato.med.br/" target="_blank" rel="noopener noreferrer">acessar clicando aqui</a>. Acompanhe os posts com temas pertinentes a saúde e beleza da pele, fique bem informada, saudável e bonita. Além do mais você pode conhecer mais de seu trabalho <a href="http://rafaelasalvato.com.br/" target="_blank" rel="noopener noreferrer">acessando seu site aqui</a>, ou curtir sua <a href="https://www.facebook.com/rafaelasalvatodermatologia" target="_blank" rel="noopener noreferrer">página no Facebook bem aqui</a>. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

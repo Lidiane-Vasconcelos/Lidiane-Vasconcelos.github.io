@@ -1,23 +1,20 @@
 ---
-id: 2813
 title: Resultado do Sorteio Infinita Arte for Baby no Bicha Fêmea
-date: 2010-05-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/05/03/resultado-do-sorteio-infinita-arte-for-baby-no-bicha-femea/
 permalink: /2010/05/03/resultado-do-sorteio-infinita-arte-for-baby-no-bicha-femea/
 categories:
   - Promoção
   - Publieditorial
 ---
-Pois é! Saiu o resultado de mais um sorteio por aqui, no Bicha Fêmea. A sortuda da vez vai receber em casa uma manta linda e fofa da **_<a href="http://infinitaarteforbaby.blogspot.com/" target="_blank">Infinita Arte for Baby</a>_**, nossa parceira nessa promoção. E de quebra, ainda vai uma ovelhinha linda. Quer saber quem levou o prêmio?
+Pois é! Saiu o resultado de mais um sorteio por aqui, no Bicha Fêmea. A sortuda da vez vai receber em casa uma manta linda e fofa da **_<a href="http://infinitaarteforbaby.blogspot.com/" target="_blank" rel="noopener noreferrer">Infinita Arte for Baby</a>_**, nossa parceira nessa promoção. E de quebra, ainda vai uma ovelhinha linda. Quer saber quem levou o prêmio?
 
 <!--more-->
 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/Resultado-Sorteio.jpg"><img class="aligncenter size-medium wp-image-4608" title="Resultado Sorteio" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/Resultado-Sorteio-300x127.jpg" alt="" width="300" height="127" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/05/Resultado-Sorteio.jpg"><img class="aligncenter size-medium wp-image-4608" title="Resultado Sorteio" src="https://www.trololodemulher.com.br/2010/05/Resultado-Sorteio-300x127.jpg" alt="" width="300" height="127" /></a>
     </td>
     
     <td>

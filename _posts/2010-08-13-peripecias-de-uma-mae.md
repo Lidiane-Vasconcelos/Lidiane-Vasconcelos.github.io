@@ -1,10 +1,7 @@
 ---
-id: 2860
 title: Peripécias de uma mãe desesperada…
-date: 2010-08-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/08/13/peripecias-de-uma-mae/
 permalink: /2010/08/13/peripecias-de-uma-mae/
 categories:
   - Comportamento
@@ -26,7 +23,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/brinquedo.jpg"><img class="size-medium wp-image-5050 aligncenter" title="brinquedo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/brinquedo-300x225.jpg" alt="" width="300" height="225" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/brinquedo.jpg"><img class="size-medium wp-image-5050 aligncenter" title="brinquedo" src="https://www.trololodemulher.com.br/2010/08/brinquedo-300x225.jpg" alt="" width="300" height="225" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -46,7 +43,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/crianca.jpg"><img class="size-medium wp-image-5053 aligncenter" title="criança" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/crianca-300x225.jpg" alt="" width="300" height="225" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/crianca.jpg"><img class="size-medium wp-image-5053 aligncenter" title="criança" src="https://www.trololodemulher.com.br/2010/08/crianca-300x225.jpg" alt="" width="300" height="225" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -78,7 +75,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/crianca-com-bola.jpg"><img class="size-medium wp-image-5054 aligncenter" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/crianca-com-bola-300x224.jpg" alt="" width="300" height="224" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/crianca-com-bola.jpg"><img class="size-medium wp-image-5054 aligncenter" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2010/08/crianca-com-bola-300x224.jpg" alt="" width="300" height="224" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -105,7 +102,7 @@ categories:
   <strong>O que eu queria dizer é o seguinte: MÃES, as coisas melhoram! Acreditem! (até o marido colabora mais hoje…) </strong>
 </p>
 
-_Imagens: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>_
+_Imagens: <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>_
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
@@ -116,7 +113,7 @@ _Imagens: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>_
   
   <tr>
     <td width="600" valign="top">
-      <a href="http://coisasqueeuamoetc.blogspot.com/" target="_blank">Coisas que eu amo e são tudo pra mim…</a>
+      <a href="http://coisasqueeuamoetc.blogspot.com/" target="_blank" rel="noopener noreferrer">Coisas que eu amo e são tudo pra mim…</a>
     </td>
   </tr>
 </table>

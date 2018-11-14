@@ -1,17 +1,14 @@
 ---
-id: 2654
 title: 'Decoração de quartos: cabeceiras.'
-date: 2009-04-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/04/30/cabeceiras-cama-casal/
 permalink: /2009/04/30/cabeceiras-cama-casal/
 categories:
   - Quarto
 ---
-Na decoração do meu quarto a **cabeceira de cama** não está concluida.[<img style="display: inline;" title="clip_image001" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image001-thumb28.gif" alt="clip_image001" width="23" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00155.gif)
+Na decoração do meu quarto a **cabeceira de cama** não está concluida.[<img style="display: inline;" title="clip_image001" src="https://www.trololodemulher.com.br/2009/04/clip-image001-thumb28.gif" alt="clip_image001" width="23" height="18" />](https://www.trololodemulher.com.br/2009/04/clip-image00155.gif)
 
-Sei exatamente como será a minha. Há imagens neste post que me inspiram a compor minha **cabeceira,** e podem inspirar você também quanto a sua. Quer ver? Espero que você aproveite também.[<img title="clip_image001[10]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00110-thumb6.gif" alt="clip_image001[10]" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image001107.gif)
+Sei exatamente como será a minha. Há imagens neste post que me inspiram a compor minha **cabeceira,** e podem inspirar você também quanto a sua. Quer ver? Espero que você aproveite também.[<img title="clip_image001[10]" src="https://www.trololodemulher.com.br/2009/04/clip-image00110-thumb6.gif" alt="clip_image001[10]" width="18" height="18" />](https://www.trololodemulher.com.br/2009/04/clip-image001107.gif)
 
 <p style="text-align: center;">
   <img class="aligncenter" title="hgtv.com" src="http://img.hgtv.com/HGTV/2004/03/08/kbrown_Secondaryroom_lg.jpg" alt="hgtv.com" />
@@ -27,17 +24,17 @@ A propósito, se você tiver muitos quadros em casa e pretende dispô-los em uma
   <img class="aligncenter" title="hgtv.com" src="http://img.hgtv.com/HGTV/2007/06/06/hdivd1004_1b_lg.jpg" alt="hgtv.com" />
 </p>
 
-Essa cabeceira, com painéis em MDF com cor clara que descem do teto e eles mesmos formam as mesinhas de cabeceira, é algo muito perto do que pretendo fazer no meu quarto. Meu _closet_ é exatamente dessa cor, parte interna e porta de correr. Chamam essa cor de _maple_, e é ela mesma que pretendo usar para a confecção dos painéis. Acho que vão ficar bons, acho mesmo…[<img style="display: inline;" title="clip_image001[12]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00112-thumb7.gif" alt="clip_image001[12]" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image001128.gif)
+Essa cabeceira, com painéis em MDF com cor clara que descem do teto e eles mesmos formam as mesinhas de cabeceira, é algo muito perto do que pretendo fazer no meu quarto. Meu _closet_ é exatamente dessa cor, parte interna e porta de correr. Chamam essa cor de _maple_, e é ela mesma que pretendo usar para a confecção dos painéis. Acho que vão ficar bons, acho mesmo…[<img style="display: inline;" title="clip_image001[12]" src="https://www.trololodemulher.com.br/2009/04/clip-image00112-thumb7.gif" alt="clip_image001[12]" width="18" height="18" />](https://www.trololodemulher.com.br/2009/04/clip-image001128.gif)
 
 <p style="text-align: center;">
   <img class="aligncenter" title="hgtv.com" src="http://img.hgtv.com/HGTV/2005/12/05/8Charalambous_beekman__lg.jpg" alt="hgtv.com" />
 </p>
 
-Aqui algo parecido, em termos de opção do que fazer como cabeceira, com a primeira opção. Só que dessa vez a pintura compreende um painel grande que carece de um investimento maior. Mas continua sendo um boa e diferente opção do que fazer/colocar como cabeceira, não?[<img style="display: inline;" title="clip_image001[14]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00114-thumb5.gif" alt="clip_image001[14]" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image001145.gif) 
+Aqui algo parecido, em termos de opção do que fazer como cabeceira, com a primeira opção. Só que dessa vez a pintura compreende um painel grande que carece de um investimento maior. Mas continua sendo um boa e diferente opção do que fazer/colocar como cabeceira, não?[<img style="display: inline;" title="clip_image001[14]" src="https://www.trololodemulher.com.br/2009/04/clip-image00114-thumb5.gif" alt="clip_image001[14]" width="18" height="18" />](https://www.trololodemulher.com.br/2009/04/clip-image001145.gif) 
 
-Quem sabe um painel pintado por uma bicha fêmea _beeeem_ talentosa? Sei que há dessas (arteiras) que passam por aqui e lêem o Bicha… fica a sugestão.[<img style="display: inline;" title="clip_image001[16]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00116-thumb4.gif" alt="clip_image001[16]" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image001164.gif)
+Quem sabe um painel pintado por uma bicha fêmea _beeeem_ talentosa? Sei que há dessas (arteiras) que passam por aqui e lêem o Bicha… fica a sugestão.[<img style="display: inline;" title="clip_image001[16]" src="https://www.trololodemulher.com.br/2009/04/clip-image00116-thumb4.gif" alt="clip_image001[16]" width="18" height="18" />](https://www.trololodemulher.com.br/2009/04/clip-image001164.gif)
 
-Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
+Imagens: <a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer">HGTV.com</a>
 
 <span style="color: #ff0000;"> </span>
 
@@ -54,13 +51,13 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
 [**_Os 10 erros em seu quarto…_**](http://www.trololodemulher.com.br/2009/01/15/os-10-erros-em-seu-quarto/)
 
 <p style="text-align: center;">
-  <strong>Gostou desse post? Receba atualizações do Bicha Fêmea por <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><strong>e-mail</strong> </a>ou </strong><a href="http://feeds2.feedburner.com/blogbichafemea" target="_blank"><strong>feed</strong></a><strong> </strong><strong>.</strong>
+  <strong>Gostou desse post? Receba atualizações do Bicha Fêmea por <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><strong>e-mail</strong> </a>ou </strong><a href="http://feeds2.feedburner.com/blogbichafemea" target="_blank" rel="noopener noreferrer"><strong>feed</strong></a><strong> </strong><strong>.</strong>
 </p>
 
 <p style="text-align: center;">
-  <strong>Siga o Bicha Fêmea no Twitter &#8211; <a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a>.</strong>
+  <strong>Siga o Bicha Fêmea no Twitter &#8211; <a href="http://twitter.com/bichafemea" target="_blank" rel="noopener noreferrer">@bichafemea</a>.</strong>
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank"><em>basta clicar</em></a><em>!</em></strong>
+  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank" rel="noopener noreferrer"><em>basta clicar</em></a><em>!</em></strong>
 </p>

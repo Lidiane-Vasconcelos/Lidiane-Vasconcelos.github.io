@@ -1,10 +1,7 @@
 ---
-id: 2864
 title: 'Câncer de mama: o importante é nunca desistir.'
-date: 2010-08-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/08/23/cancer-de-mama/
 permalink: /2010/08/23/cancer-de-mama/
 categories:
   - Saúde
@@ -40,7 +37,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/Ana-Paula-Tardido-Ca-de-Mama.jpg"><img class="size-medium wp-image-5085 aligncenter" title="Ana Paula Tardido - Ca de Mama" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/Ana-Paula-Tardido-Ca-de-Mama-300x225.jpg" alt="" width="300" height="225" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/Ana-Paula-Tardido-Ca-de-Mama.jpg"><img class="size-medium wp-image-5085 aligncenter" title="Ana Paula Tardido - Ca de Mama" src="https://www.trololodemulher.com.br/2010/08/Ana-Paula-Tardido-Ca-de-Mama-300x225.jpg" alt="" width="300" height="225" /></a>
 </p>
 
 <p style="text-align: center;">

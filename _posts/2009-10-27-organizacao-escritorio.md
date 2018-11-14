@@ -1,10 +1,7 @@
 ---
-id: 2714
 title: 'Organização de Escritório ou Home Office: dicas.'
-date: 2009-10-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/10/27/organizacao-escritorio/
 permalink: /2009/10/27/organizacao-escritorio/
 categories:
   - Escritório
@@ -23,7 +20,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-2593 aligncenter" title="ss_101187683[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/ss_1011876831.jpg" alt="ss_101187683[1]" width="300" height="400" />
+  <img class="size-full wp-image-2593 aligncenter" title="ss_101187683[1]" src="https://www.trololodemulher.com.br/2009/10/ss_1011876831.jpg" alt="ss_101187683[1]" width="300" height="400" />
 </p>
 
 <p style="text-align: justify;">
@@ -31,23 +28,23 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-2595 aligncenter" title="ss_100910232[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/ss_1009102321.jpg" alt="ss_100910232[1]" width="300" height="400" />
+  <img class="size-full wp-image-2595 aligncenter" title="ss_100910232[1]" src="https://www.trololodemulher.com.br/2009/10/ss_1009102321.jpg" alt="ss_100910232[1]" width="300" height="400" />
 </p>
 
 <p style="text-align: justify;">
-  Sabe aquelas coisinhas pequenas que a gente perde fácil fácil? Certamente você sabe, porque deve perder as suas também. Que tal colocar algo que tenha divisões para arrumar esses <em>trecos</em>, <em>hein</em>? A solução daqui de casa vocês vão ver como fizemos, quando eu postar as fotos, mas quem quiser algo mais rápido e que surte o mesmo efeito, pode colocar algo como um porta-talheres daqueles de plástico dentro da gaveta. Ah! Essa eu aprendi com a Isabela Kastrup, que escreve no blog <a href="http://www.arrumadissimoecia.blogspot.com/" target="_blank">ARRUMADÍSSIMO</a>. E isso serve para o escritório, não serve? Claro que serve, bonita!!!
+  Sabe aquelas coisinhas pequenas que a gente perde fácil fácil? Certamente você sabe, porque deve perder as suas também. Que tal colocar algo que tenha divisões para arrumar esses <em>trecos</em>, <em>hein</em>? A solução daqui de casa vocês vão ver como fizemos, quando eu postar as fotos, mas quem quiser algo mais rápido e que surte o mesmo efeito, pode colocar algo como um porta-talheres daqueles de plástico dentro da gaveta. Ah! Essa eu aprendi com a Isabela Kastrup, que escreve no blog <a href="http://www.arrumadissimoecia.blogspot.com/" target="_blank" rel="noopener noreferrer">ARRUMADÍSSIMO</a>. E isso serve para o escritório, não serve? Claro que serve, bonita!!!
 </p>
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-2599 aligncenter" title="ss_100909980[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/ss_1009099801.jpg" alt="ss_100909980[1]" width="300" height="400" />
+  <img class="size-full wp-image-2599 aligncenter" title="ss_100909980[1]" src="https://www.trololodemulher.com.br/2009/10/ss_1009099801.jpg" alt="ss_100909980[1]" width="300" height="400" />
 </p>
 
 <p style="text-align: justify;">
-  Olha como um suporte com cestas empilhadas pode ser uma grande ideia para colocar ordem no escritório? Isso me fez lembrar uma sugestão que dei <a href="http://www.trololodemulher.com.br/2009/10/06/reutilizacao-de-objetos-com-novos-usos/" target="_blank">neste post, em que falávamos sobre reutilização de objetos e até mudanças de usos desses</a>. Lembro-me que sugeri usar uma fruteira de chão e com prateleiras para colocar ordem na lavanderia, pois está aí um outro espaço da casa onde ela serviria muito bem. É ou não é?
+  Olha como um suporte com cestas empilhadas pode ser uma grande ideia para colocar ordem no escritório? Isso me fez lembrar uma sugestão que dei <a href="http://www.trololodemulher.com.br/2009/10/06/reutilizacao-de-objetos-com-novos-usos/" target="_blank" rel="noopener noreferrer">neste post, em que falávamos sobre reutilização de objetos e até mudanças de usos desses</a>. Lembro-me que sugeri usar uma fruteira de chão e com prateleiras para colocar ordem na lavanderia, pois está aí um outro espaço da casa onde ela serviria muito bem. É ou não é?
 </p>
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-2601 aligncenter" title="ss_100163222[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/ss_1001632221.jpg" alt="ss_100163222[1]" width="300" height="400" />
+  <img class="size-full wp-image-2601 aligncenter" title="ss_100163222[1]" src="https://www.trololodemulher.com.br/2009/10/ss_1001632221.jpg" alt="ss_100163222[1]" width="300" height="400" />
 </p>
 
 <p style="text-align: justify;">
@@ -55,7 +52,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-2603 aligncenter" title="ss_100628163[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/ss_1006281631.jpg" alt="ss_100628163[1]" width="300" height="400" />
+  <img class="size-full wp-image-2603 aligncenter" title="ss_100628163[1]" src="https://www.trololodemulher.com.br/2009/10/ss_1006281631.jpg" alt="ss_100628163[1]" width="300" height="400" />
 </p>
 
 <p style="text-align: justify;">
@@ -63,7 +60,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-2605 aligncenter" title="ss_101187681[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/ss_1011876811.jpg" alt="ss_101187681[1]" width="300" height="333" />
+  <img class="size-full wp-image-2605 aligncenter" title="ss_101187681[1]" src="https://www.trololodemulher.com.br/2009/10/ss_1011876811.jpg" alt="ss_101187681[1]" width="300" height="333" />
 </p>
 
 <p style="text-align: justify;">
@@ -75,7 +72,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes</a>
+  Imagens: <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes</a>
 </p>
 
 <p style="text-align: justify;">
@@ -87,7 +84,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>A Fla, mulher boa de forno e fogão e que edita o </strong><a href="http://artenacozinha.blogspot.com/" target="_blank"><strong>ARTE NA COZINHA</strong></a><strong>, mencionou o seguinte:</strong>
+  <strong>A Fla, mulher boa de forno e fogão e que edita o </strong><a href="http://artenacozinha.blogspot.com/" target="_blank" rel="noopener noreferrer"><strong>ARTE NA COZINHA</strong></a><strong>, mencionou o seguinte:</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -95,9 +92,9 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>Pois é, Fla, essa ideia que você deu é muito massa, e talvez tenha tudo a ver com um bastidor de bordado que foi mostrado </strong><a href="http://www.trololodemulher.com.br/2009/10/06/reutilizacao-de-objetos-com-novos-usos/" target="_blank"><strong>neste post onde falamos de reaproveitamento e reutilização de materiais</strong></a><strong>.</strong>
+  <strong>Pois é, Fla, essa ideia que você deu é muito massa, e talvez tenha tudo a ver com um bastidor de bordado que foi mostrado </strong><a href="http://www.trololodemulher.com.br/2009/10/06/reutilizacao-de-objetos-com-novos-usos/" target="_blank" rel="noopener noreferrer"><strong>neste post onde falamos de reaproveitamento e reutilização de materiais</strong></a><strong>.</strong>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

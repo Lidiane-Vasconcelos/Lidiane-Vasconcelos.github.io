@@ -1,10 +1,7 @@
 ---
-id: 3641
 title: Wabi Sabi na decoração e o resgate do simples.
-date: 2016-08-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/08/11/wabi-sabi-na-decoracao/
 permalink: /2016/08/11/wabi-sabi-na-decoracao/
 categories:
   - Dicas de Decoração
@@ -20,11 +17,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12768" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-SIMPLES-WABI-SABI.jpg" alt="DECORACAO-SIMPLES-WABI SABI" width="630" height="875" />
+  <img class="alignnone size-full wp-image-12768" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-SIMPLES-WABI-SABI.jpg" alt="DECORACAO-SIMPLES-WABI SABI" width="630" height="875" />
 </p>
 
 <p align="center">
-  Via <a href="http://architizer.com/firms/abaton-architects/" target="_blank">Abaton Architects</a>
+  Via <a href="http://architizer.com/firms/abaton-architects/" target="_blank" rel="noopener noreferrer">Abaton Architects</a>
 </p>
 
 &nbsp;
@@ -48,11 +45,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12769" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-SIMPLES-WABI-SABI2.jpg" alt="DECORACAO-SIMPLES-WABI SABI[2]" width="500" height="375" />
+  <img class="alignnone size-full wp-image-12769" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-SIMPLES-WABI-SABI2.jpg" alt="DECORACAO-SIMPLES-WABI SABI[2]" width="500" height="375" />
 </p>
 
 <p align="center">
-  <em>Via <a href="http://caribbeanlivingblog.com/" target="_blank">Caribbean Living Blog</a></em>
+  <em>Via <a href="http://caribbeanlivingblog.com/" target="_blank" rel="noopener noreferrer">Caribbean Living Blog</a></em>
 </p>
 
 <p style="text-align: justify;">
@@ -60,11 +57,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12771" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-SIMPLES-WABI-SABI4.jpg" alt="DECORACAO-SIMPLES-WABI SABI[4]" width="600" height="799" />
+  <img class="alignnone size-full wp-image-12771" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-SIMPLES-WABI-SABI4.jpg" alt="DECORACAO-SIMPLES-WABI SABI[4]" width="600" height="799" />
 </p>
 
 <p align="center">
-  <em>Via <a href="http://dzinetrip.com/" target="_blank">DZine Trip</a></em>
+  <em>Via <a href="http://dzinetrip.com/" target="_blank" rel="noopener noreferrer">DZine Trip</a></em>
 </p>
 
 <p style="text-align: justify;">
@@ -78,11 +75,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12774" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-SIMPLES-WABI-SABI5.jpg" alt="DECORACAO-SIMPLES-WABI SABI[5]" width="800" height="391" />
+  <img class="alignnone size-full wp-image-12774" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-SIMPLES-WABI-SABI5.jpg" alt="DECORACAO-SIMPLES-WABI SABI[5]" width="800" height="391" />
 </p>
 
 <p align="center">
-  <em>Via <a href="http://www.hutsly.com/" target="_blank">Hutsly</a></em>
+  <em>Via <a href="http://www.hutsly.com/" target="_blank" rel="noopener noreferrer">Hutsly</a></em>
 </p>
 
 <p style="text-align: justify;">
@@ -96,11 +93,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12770" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-SIMPLES-WABI-SABI3.jpg" alt="DECORACAO-SIMPLES-WABI SABI[3]" width="610" height="431" />
+  <img class="alignnone size-full wp-image-12770" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-SIMPLES-WABI-SABI3.jpg" alt="DECORACAO-SIMPLES-WABI SABI[3]" width="610" height="431" />
 </p>
 
 <p align="center">
-  <em>Via <a href="http://design4dreaming.net/" target="_blank">Design4Dreaming</a></em>
+  <em>Via <a href="http://design4dreaming.net/" target="_blank" rel="noopener noreferrer">Design4Dreaming</a></em>
 </p>
 
 <p style="text-align: justify;">
@@ -114,7 +111,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12775" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-SIMPLES-WABI-SABI6.jpg" alt="DECORACAO-SIMPLES-WABI SABI[6]" width="500" height="678" />
+  <img class="alignnone size-full wp-image-12775" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-SIMPLES-WABI-SABI6.jpg" alt="DECORACAO-SIMPLES-WABI SABI[6]" width="500" height="678" />
 </p>
 
 <p align="center">
@@ -132,29 +129,29 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12776" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-SIMPLES-WABI-SABI8.jpg" alt="DECORACAO-SIMPLES-WABI SABI[8]" width="450" height="588" />
+  <img class="alignnone size-full wp-image-12776" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-SIMPLES-WABI-SABI8.jpg" alt="DECORACAO-SIMPLES-WABI SABI[8]" width="450" height="588" />
 </p>
 
 <p style="text-align: center;">
-  <em>Via <a href="http://thewhitedresser.com/" target="_blank">White Decorating</a></em>
+  <em>Via <a href="http://thewhitedresser.com/" target="_blank" rel="noopener noreferrer">White Decorating</a></em>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12767" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-ARQUITETURA-ARQUITETA-SAO-PAULO-REGIANE-YUKI-SABANAI.jpg" alt="DECORACAO-ARQUITETURA-ARQUITETA-SAO-PAULO-REGIANE-YUKI-SABANAI" width="800" height="193" />
+  <img class="alignnone size-full wp-image-12767" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-ARQUITETURA-ARQUITETA-SAO-PAULO-REGIANE-YUKI-SABANAI.jpg" alt="DECORACAO-ARQUITETURA-ARQUITETA-SAO-PAULO-REGIANE-YUKI-SABANAI" width="800" height="193" />
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Regiane divide-se entre <strong>Brasil e Portugal</strong>, colocando sua competência a favor de uma decoração de muito bom gosto e alinhada com o estilo de seus clientes, seja em terra tupiniquim ou além mar. Você pode acompanhar mais detalhes do trabalho da Arquiteta através de seu site, o <a href="http://www.studiorys.com/crbst_0.html" target="_blank">Studio Rys</a>, ou ainda através de sua página no Facebook, <a href="https://www.facebook.com/StudioRYS/timeline" target="_blank">clicando bem aqui</a>. Aproveite!
+  Regiane divide-se entre <strong>Brasil e Portugal</strong>, colocando sua competência a favor de uma decoração de muito bom gosto e alinhada com o estilo de seus clientes, seja em terra tupiniquim ou além mar. Você pode acompanhar mais detalhes do trabalho da Arquiteta através de seu site, o <a href="http://www.studiorys.com/crbst_0.html" target="_blank" rel="noopener noreferrer">Studio Rys</a>, ou ainda através de sua página no Facebook, <a href="https://www.facebook.com/StudioRYS/timeline" target="_blank" rel="noopener noreferrer">clicando bem aqui</a>. Aproveite!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

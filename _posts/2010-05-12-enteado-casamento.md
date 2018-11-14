@@ -1,10 +1,7 @@
 ---
-id: 2815
 title: 'Leitoras em Debate: enteado á vista no casamento. E agora?'
-date: 2010-05-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/05/12/enteado-casamento/
 permalink: /2010/05/12/enteado-casamento/
 categories:
   - Comportamento
@@ -19,11 +16,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2015/05/22/casamento-conselhos/" target="_blank">Casamento: os conselhos mais inteligentes. Já leu?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2015/05/22/casamento-conselhos/" target="_blank" rel="noopener noreferrer">Casamento: os conselhos mais inteligentes. Já leu?</a></strong>
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.trololodemulher.com.br/2017/05/05/solidao-a-dois/" target="_blank"><strong>Você vive a solidão a dois? Saiba como sair dela.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/05/05/solidao-a-dois/" target="_blank" rel="noopener noreferrer"><strong>Você vive a solidão a dois? Saiba como sair dela.</strong></a>
 </p>
 
 &nbsp;
@@ -41,11 +38,11 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/mulher-pensando.jpg"><img class="alignnone size-full wp-image-4627" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/mulher-pensando.jpg" alt="mulher pensando" width="229" height="386" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/05/mulher-pensando.jpg"><img class="alignnone size-full wp-image-4627" src="https://www.trololodemulher.com.br/2010/05/mulher-pensando.jpg" alt="mulher pensando" width="229" height="386" /></a>
 </p>
 
 <p style="text-align: center;">
-  Imagem: <a href="http://www.sxc.hu/profile/yoshiaka" target="_blank">Yoshiaka</a> via <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+  Imagem: <a href="http://www.sxc.hu/profile/yoshiaka" target="_blank" rel="noopener noreferrer">Yoshiaka</a> via <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>
 </p>
 
 <p style="text-align: justify;">
@@ -53,11 +50,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2010/10/18/casamento-duradouro-segredo/" target="_blank">Casamento duradouro: isto tem algum segredo?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2010/10/18/casamento-duradouro-segredo/" target="_blank" rel="noopener noreferrer">Casamento duradouro: isto tem algum segredo?</a></strong>
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2016/09/16/relacionamento-2/" target="_blank">Como encontrar a pessoa certa para um relacionamento?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/09/16/relacionamento-2/" target="_blank" rel="noopener noreferrer">Como encontrar a pessoa certa para um relacionamento?</a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -65,7 +62,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Para a psicanalista clínica Geisa Machado, que tem seus olhos de especialista voltados para o comportamento da mulher nos tempos atuais, e que escreve no blog “<a href="http://geisamachado.blogspot.com/" target="_blank">A FORÇA E A BELEZA DE SER MULHER</a>”, essa postura é possível, sim. Segundo Geisa, “<strong><em>as pessoas sabem o que fazer numa situação dessas, mas o medo das consequências é que não deixa a decisão ser tomada”.</em></strong>
+  Para a psicanalista clínica Geisa Machado, que tem seus olhos de especialista voltados para o comportamento da mulher nos tempos atuais, e que escreve no blog “<a href="http://geisamachado.blogspot.com/" target="_blank" rel="noopener noreferrer">A FORÇA E A BELEZA DE SER MULHER</a>”, essa postura é possível, sim. Segundo Geisa, “<strong><em>as pessoas sabem o que fazer numa situação dessas, mas o medo das consequências é que não deixa a decisão ser tomada”.</em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -73,7 +70,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2010/06/30/casamento-2/" target="_blank">Há vida após o casamento?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2010/06/30/casamento-2/" target="_blank" rel="noopener noreferrer">Há vida após o casamento?</a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -85,11 +82,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2014/06/04/felicidade-mitos/" target="_blank">3 verdades duvidosas que podem estar minando a sua vida: fuja disso já!</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2014/06/04/felicidade-mitos/" target="_blank" rel="noopener noreferrer">3 verdades duvidosas que podem estar minando a sua vida: fuja disso já!</a></strong>
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2012/11/09/relacoes-amorosas/" target="_blank">Você é daquelas que acreditam nunca acertar em suas relações amorosas?</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2012/11/09/relacoes-amorosas/" target="_blank" rel="noopener noreferrer">Você é daquelas que acreditam nunca acertar em suas relações amorosas?</a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -97,11 +94,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/debate.jpg"><img class="alignnone size-full wp-image-4625" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/debate.jpg" alt="debate" width="287" height="406" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/05/debate.jpg"><img class="alignnone size-full wp-image-4625" src="https://www.trololodemulher.com.br/2010/05/debate.jpg" alt="debate" width="287" height="406" /></a>
 </p>
 
 <p style="text-align: center;">
-  Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+  Imagem: <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>
 </p>
 
 <p style="text-align: justify;">
@@ -113,17 +110,17 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.trololodemulher.com.br/2012/04/06/enteados-problematicos/" target="_blank"><strong>Enteados problemáticos podem causar a separação do casal?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/04/06/enteados-problematicos/" target="_blank" rel="noopener noreferrer"><strong>Enteados problemáticos podem causar a separação do casal?</strong></a>
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.trololodemulher.com.br/2010/01/28/como-lidar-enteado-mal-educado/" target="_blank"><strong>E se fosse você, como lidaria com um enteado mal educado?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/01/28/como-lidar-enteado-mal-educado/" target="_blank" rel="noopener noreferrer"><strong>E se fosse você, como lidaria com um enteado mal educado?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>

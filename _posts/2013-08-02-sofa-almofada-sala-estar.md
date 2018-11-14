@@ -1,10 +1,7 @@
 ---
-id: 3249
 title: Sofá neutro + almofadas coloridas = sucesso na decor da sala de estar
-date: 2013-08-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/08/02/sofa-almofada-sala-estar/
 permalink: /2013/08/02/sofa-almofada-sala-estar/
 categories:
   - Salas
@@ -26,20 +23,20 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/07/DECORACAO-SALA-ESTAR-MOVEIS-SOFA-ALMOFADAS.jpg"><img class="alignnone size-full wp-image-9681" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/07/DECORACAO-SALA-ESTAR-MOVEIS-SOFA-ALMOFADAS.jpg" alt="DECORACAO-SALA-ESTAR-MOVEIS-SOFA-ALMOFADAS" width="600" height="396" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/07/DECORACAO-SALA-ESTAR-MOVEIS-SOFA-ALMOFADAS.jpg"><img class="alignnone size-full wp-image-9681" src="https://www.trololodemulher.com.br/2013/07/DECORACAO-SALA-ESTAR-MOVEIS-SOFA-ALMOFADAS.jpg" alt="DECORACAO-SALA-ESTAR-MOVEIS-SOFA-ALMOFADAS" width="600" height="396" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/07/DECORACAO-SALA-ESTAR-MOVEIS-SOFA-ALMOFADAS2.jpg"><img class="alignnone size-full wp-image-9682" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/07/DECORACAO-SALA-ESTAR-MOVEIS-SOFA-ALMOFADAS2.jpg" alt="DECORACAO-SALA-ESTAR-MOVEIS-SOFA-ALMOFADAS[2]" width="600" height="448" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/07/DECORACAO-SALA-ESTAR-MOVEIS-SOFA-ALMOFADAS2.jpg"><img class="alignnone size-full wp-image-9682" src="https://www.trololodemulher.com.br/2013/07/DECORACAO-SALA-ESTAR-MOVEIS-SOFA-ALMOFADAS2.jpg" alt="DECORACAO-SALA-ESTAR-MOVEIS-SOFA-ALMOFADAS[2]" width="600" height="448" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/07/DECORACAO-SALA-ESTAR-MOVEIS-SOFA-ALMOFADAS3.jpg"><img class="alignnone size-full wp-image-9683" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/07/DECORACAO-SALA-ESTAR-MOVEIS-SOFA-ALMOFADAS3.jpg" alt="DECORACAO-SALA-ESTAR-MOVEIS-SOFA-ALMOFADAS[3]" width="600" height="540" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/07/DECORACAO-SALA-ESTAR-MOVEIS-SOFA-ALMOFADAS3.jpg"><img class="alignnone size-full wp-image-9683" src="https://www.trololodemulher.com.br/2013/07/DECORACAO-SALA-ESTAR-MOVEIS-SOFA-ALMOFADAS3.jpg" alt="DECORACAO-SALA-ESTAR-MOVEIS-SOFA-ALMOFADAS[3]" width="600" height="540" /></a>
 </p>
 
 &nbsp;
 
-Imagens: **_<a href="http://www.homedit.com/" target="_blank">homedit</a>_**
+Imagens: **_<a href="http://www.homedit.com/" target="_blank" rel="noopener noreferrer">homedit</a>_**
 
 &nbsp;
 
@@ -64,5 +61,5 @@ Imagens: **_<a href="http://www.homedit.com/" target="_blank">homedit</a>_**
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

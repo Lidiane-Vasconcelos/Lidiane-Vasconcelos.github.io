@@ -1,10 +1,7 @@
 ---
-id: 3137
 title: Quer trabalhar sem sair de casa? Abra sua loja na Divitae!
-date: 2012-06-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/06/15/trabalhar-sem-sair-da-casa/
 permalink: /2012/06/15/trabalhar-sem-sair-da-casa/
 categories:
   - Empreendedorismo Feminino
@@ -21,15 +18,15 @@ categories:
 Quem vê o noticiário na TV e assiste a programas cuja temática é o empreendedorismo, ou ainda lê matérias em revistas de negócios e sites do gênero, já ouviu falar no quanto o comércio virtual anda crescendo no Brasil. Quem abre um negócio na internet, se dedica com afinco ao projeto, se informa sobre as melhores práticas para conduzí-lo e procura tocar o trabalho com seriedade e competência, certamente tem grandes chances de se sobressair.
 
 <p align="justify">
-  Você estaria disposta a trabalhar firme no seu projeto de vendas de seus produtos sem sair de casa? Se sim, e se a ideia de ter uma loja virtual já passou por sua cabeça, você precisa conhecer a <strong><a href="http://divitae.com.br/index.php" target="_blank">Divitae</a></strong>.
+  Você estaria disposta a trabalhar firme no seu projeto de vendas de seus produtos sem sair de casa? Se sim, e se a ideia de ter uma loja virtual já passou por sua cabeça, você precisa conhecer a <strong><a href="http://divitae.com.br/index.php" target="_blank" rel="noopener noreferrer">Divitae</a></strong>.
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/15/trabalhar-sem-sair-da-casa/divitae/" rel="attachment wp-att-8726"><img class="alignnone size-full wp-image-8726" title="Divitae" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/Divitae.png" alt="" width="536" height="161" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/06/15/trabalhar-sem-sair-da-casa/divitae/" rel="attachment wp-att-8726"><img class="alignnone size-full wp-image-8726" title="Divitae" src="https://www.trololodemulher.com.br/2012/06/Divitae.png" alt="" width="536" height="161" /></a>
 </p>
 
 <p align="justify">
-  A <strong>Divitae</strong> é um sistema de lojas virtuais <em>superultramega</em> bacana idealizado pela <strong>Margaret</strong>, a querida que edita o <strong><a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a></strong>, uma mulher linda de viver e muito conhecida pela blogosfera pelas inúmeras qualidades e talentos que tem. Pois bem… foi pensando em você que quer empreender na internet e gostaria de <strong>algo simples, rápido para colocar em prática, que pudesse ser personalizado ao seu gosto e de fácil gerenciamento</strong>, que ela passou meses debruçada nisso tudo. Assim nasceu a <strong>Divitae</strong>!
+  A <strong>Divitae</strong> é um sistema de lojas virtuais <em>superultramega</em> bacana idealizado pela <strong>Margaret</strong>, a querida que edita o <strong><a href="http://www.margaretss.com.br/" target="_blank" rel="noopener noreferrer">Margaretss</a></strong>, uma mulher linda de viver e muito conhecida pela blogosfera pelas inúmeras qualidades e talentos que tem. Pois bem… foi pensando em você que quer empreender na internet e gostaria de <strong>algo simples, rápido para colocar em prática, que pudesse ser personalizado ao seu gosto e de fácil gerenciamento</strong>, que ela passou meses debruçada nisso tudo. Assim nasceu a <strong>Divitae</strong>!
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -37,23 +34,23 @@ Quem vê o noticiário na TV e assiste a programas cuja temática é o empreende
 </p>
 
 <p align="center">
-  <a href="http://anabenetartes.divitae.com.br/" target="_blank"><img class="alignnone size-full wp-image-8725" title="Ana Benet Artes" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/Ana-Benet-Artes.png" alt="" width="600" height="147" /></a>
+  <a href="http://anabenetartes.divitae.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8725" title="Ana Benet Artes" src="https://www.trololodemulher.com.br/2012/06/Ana-Benet-Artes.png" alt="" width="600" height="147" /></a>
 </p>
 
 <p align="center">
-  <a href="http://alemdarua.divitae.com.br/" target="_blank"><img class="alignnone size-full wp-image-8724" title="Além da Rua Atelier" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/Além-da-Rua-Atelier.png" alt="" width="600" height="267" /></a>
+  <a href="http://alemdarua.divitae.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8724" title="Além da Rua Atelier" src="https://www.trololodemulher.com.br/2012/06/Além-da-Rua-Atelier.png" alt="" width="600" height="267" /></a>
 </p>
 
 <p align="center">
-  <a href="http://gamela.divitae.com.br/" target="_blank"><img class="alignnone size-full wp-image-8730" title="Gamela Presentes" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/Gamela-Presentes.png" alt="" width="600" height="150" /></a>
+  <a href="http://gamela.divitae.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8730" title="Gamela Presentes" src="https://www.trololodemulher.com.br/2012/06/Gamela-Presentes.png" alt="" width="600" height="150" /></a>
 </p>
 
 <p align="justify">
-  Ficou com vontade de conhecer um pouco mais sobre a <strong>Divitae</strong>? Não perca tempo, bonita! Conheça o <strong><a href="http://divitae.com.br/index.php" target="_blank">site clicando aqui</a></strong> e o <strong><a href="http://divitae.com.br/blog/" target="_blank">blog bem aqui</a></strong>. Informe-se, planeje-se, coloque a mão na massa e ponha em prática o seu sonho… quem sabe não é agora?
+  Ficou com vontade de conhecer um pouco mais sobre a <strong>Divitae</strong>? Não perca tempo, bonita! Conheça o <strong><a href="http://divitae.com.br/index.php" target="_blank" rel="noopener noreferrer">site clicando aqui</a></strong> e o <strong><a href="http://divitae.com.br/blog/" target="_blank" rel="noopener noreferrer">blog bem aqui</a></strong>. Informe-se, planeje-se, coloque a mão na massa e ponha em prática o seu sonho… quem sabe não é agora?
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

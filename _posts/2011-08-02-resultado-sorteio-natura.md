@@ -1,10 +1,7 @@
 ---
-id: 3031
 title: Resultado do sorteio de produtos Natura no Bicha Fêmea…
-date: 2011-08-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/08/02/resultado-sorteio-natura/
 permalink: /2011/08/02/resultado-sorteio-natura/
 categories:
   - Promoção
@@ -20,7 +17,7 @@ Você se inscreveu nesse sorteio? Então deve estar bem ansiosa para espiar quem
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Resultado-Sorteio-Natura.png"><img class="alignnone size-full wp-image-6695" title="Resultado Sorteio Natura" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Resultado-Sorteio-Natura.png" alt="" width="600" height="238" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/Resultado-Sorteio-Natura.png"><img class="alignnone size-full wp-image-6695" title="Resultado Sorteio Natura" src="https://www.trololodemulher.com.br/2011/08/Resultado-Sorteio-Natura.png" alt="" width="600" height="238" /></a>
 </p>
 
 &nbsp;

@@ -1,10 +1,7 @@
 ---
-id: 3585
 title: O que é essencial num enxoval de bebê?
-date: 2016-04-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/04/11/enxoval-de-bebe/
 permalink: /2016/04/11/enxoval-de-bebe/
 categories:
   - Enxoval
@@ -15,11 +12,11 @@ categories:
 </p>
 
 <p align="justify">
-  Sendo assim, neste post vou te mostrar alguns itens que julgo importantes, <strong>daqueles que não podem faltar num enxoval essencial</strong>, e que funcionaram muito bem pra mim no dia a dia com Artur. Quero te mostrar também que você pode comprar alguns deles, com bastante comodidade, na loja virtual <a href="http://bit.ly/xxbtrololo" target="_blank">Xique Xique Brasil</a>, que é repleta de opções para você montar um enxoval lindo de viver para sua cria que está a caminho… vem comigo!
+  Sendo assim, neste post vou te mostrar alguns itens que julgo importantes, <strong>daqueles que não podem faltar num enxoval essencial</strong>, e que funcionaram muito bem pra mim no dia a dia com Artur. Quero te mostrar também que você pode comprar alguns deles, com bastante comodidade, na loja virtual <a href="http://bit.ly/xxbtrololo" target="_blank" rel="noopener noreferrer">Xique Xique Brasil</a>, que é repleta de opções para você montar um enxoval lindo de viver para sua cria que está a caminho… vem comigo!
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12348" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/ENXOVAL-DE-BEBE-SAPATINHO2.jpg" alt="ENXOVAL DE BEBE-SAPATINHO[2]" width="642" height="640" />
+  <img class="alignnone size-full wp-image-12348" src="https://www.trololodemulher.com.br/2016/04/ENXOVAL-DE-BEBE-SAPATINHO2.jpg" alt="ENXOVAL DE BEBE-SAPATINHO[2]" width="642" height="640" />
 </p>
 
 <p align="justify">
@@ -39,19 +36,19 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12345" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/ENXOVAL-DE-BEBE-FRALDA.jpg" alt="ENXOVAL DE BEBE-FRALDA" width="800" height="802" />
+  <img class="alignnone size-full wp-image-12345" src="https://www.trololodemulher.com.br/2016/04/ENXOVAL-DE-BEBE-FRALDA.jpg" alt="ENXOVAL DE BEBE-FRALDA" width="800" height="802" />
 </p>
 
 <p align="center">
-  Fraldas maiores, e super versáteis, da Xique Xique Brasil. Veja todas as versões, e mais detalhes dos produtos, <a href="http://bit.ly/fraldas-trololo" target="_blank">clicando aqui</a>.
+  Fraldas maiores, e super versáteis, da Xique Xique Brasil. Veja todas as versões, e mais detalhes dos produtos, <a href="http://bit.ly/fraldas-trololo" target="_blank" rel="noopener noreferrer">clicando aqui</a>.
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12347" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/ENXOVAL-DE-BEBE-PANO-DE-BOCA.jpg" alt="ENXOVAL DE BEBE-PANO DE BOCA" width="800" height="699" />
+  <img class="alignnone size-full wp-image-12347" src="https://www.trololodemulher.com.br/2016/04/ENXOVAL-DE-BEBE-PANO-DE-BOCA.jpg" alt="ENXOVAL DE BEBE-PANO DE BOCA" width="800" height="699" />
 </p>
 
 <p align="center">
-  Panos de boca, que são fraldas em versões menores, da Xique Xique Brasil. Todas as opções, com preços e mais detalhes, <a href="http://bit.ly/chupeta-trololo" target="_blank">você vê clicando aqui</a>.
+  Panos de boca, que são fraldas em versões menores, da Xique Xique Brasil. Todas as opções, com preços e mais detalhes, <a href="http://bit.ly/chupeta-trololo" target="_blank" rel="noopener noreferrer">você vê clicando aqui</a>.
 </p>
 
 <p align="justify">
@@ -63,27 +60,27 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12346" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/ENXOVAL-DE-BEBE-JOGO-DE-LENCOL.jpg" alt="ENXOVAL DE BEBE-JOGO DE LENCOL" width="800" height="702" />
+  <img class="alignnone size-full wp-image-12346" src="https://www.trololodemulher.com.br/2016/04/ENXOVAL-DE-BEBE-JOGO-DE-LENCOL.jpg" alt="ENXOVAL DE BEBE-JOGO DE LENCOL" width="800" height="702" />
 </p>
 
 <p align="center">
-  Jogos de lençol da Xique Xique Brasil. Veja todas as opçõe e detalhes <a href="http://bit.ly/lencolberco-trololo" target="_blank">clicando aqui</a>.
+  Jogos de lençol da Xique Xique Brasil. Veja todas as opçõe e detalhes <a href="http://bit.ly/lencolberco-trololo" target="_blank" rel="noopener noreferrer">clicando aqui</a>.
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12351" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/ENXOVAL-DE-BEBE-TOALHA-DE-BANHO-COM-CAPUZ.jpg" alt="ENXOVAL DE BEBE-TOALHA DE BANHO COM CAPUZ" width="800" height="804" />
+  <img class="alignnone size-full wp-image-12351" src="https://www.trololodemulher.com.br/2016/04/ENXOVAL-DE-BEBE-TOALHA-DE-BANHO-COM-CAPUZ.jpg" alt="ENXOVAL DE BEBE-TOALHA DE BANHO COM CAPUZ" width="800" height="804" />
 </p>
 
 <p align="center">
-  Veja todas as tolhas de banho para bebê, da Xique Xique Brasil, <a href="http://bit.ly/banho-trololo" target="_blank">clicando aqui</a>.
+  Veja todas as tolhas de banho para bebê, da Xique Xique Brasil, <a href="http://bit.ly/banho-trololo" target="_blank" rel="noopener noreferrer">clicando aqui</a>.
 </p>
 
 <p align="justify">
-  Na Xique Xique Brasil você encontra vários outros itens bastante importantes para o enxoval de seu bebê, a exemplo de <strong>mantas e cueiros</strong>, dentre outros. A variedade é enorme e você pode comprovar visitando a loja, <a href="http://bit.ly/xxbtrololo" target="_blank">clicando aqui</a>. A Xique Xique Brasil também está no Facebook, inspirando você que deseja preparar a chegada do seu bebê com peças lindas, de qualidade e bom gosto. <a href="https://www.facebook.com/XiqueXiqueBrasil" target="_blank">Clique aqui, curta</a> e acompanhe!
+  Na Xique Xique Brasil você encontra vários outros itens bastante importantes para o enxoval de seu bebê, a exemplo de <strong>mantas e cueiros</strong>, dentre outros. A variedade é enorme e você pode comprovar visitando a loja, <a href="http://bit.ly/xxbtrololo" target="_blank" rel="noopener noreferrer">clicando aqui</a>. A Xique Xique Brasil também está no Facebook, inspirando você que deseja preparar a chegada do seu bebê com peças lindas, de qualidade e bom gosto. <a href="https://www.facebook.com/XiqueXiqueBrasil" target="_blank" rel="noopener noreferrer">Clique aqui, curta</a> e acompanhe!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

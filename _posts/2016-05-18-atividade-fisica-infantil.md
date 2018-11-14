@@ -1,10 +1,7 @@
 ---
-id: 3611
 title: Você sabe qual atividade física infantil é boa pra sua cria?
-date: 2016-05-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/05/18/atividade-fisica-infantil/
 permalink: /2016/05/18/atividade-fisica-infantil/
 categories:
   - Comportamento Infantil
@@ -20,11 +17,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12542" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/MATERNIDADE-FILHOS-ATIVIDADE-FISICA-INFANTIL-MOTRICIDADE-INFANTIL.jpg" alt="MATERNIDADE-FILHOS-ATIVIDADE FISICA INFANTIL-MOTRICIDADE INFANTIL" width="750" height="751" />
+  <img class="alignnone size-full wp-image-12542" src="https://www.trololodemulher.com.br/2016/05/MATERNIDADE-FILHOS-ATIVIDADE-FISICA-INFANTIL-MOTRICIDADE-INFANTIL.jpg" alt="MATERNIDADE-FILHOS-ATIVIDADE FISICA INFANTIL-MOTRICIDADE INFANTIL" width="750" height="751" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/nzdave/537552257/" target="_blank">(nz)dave</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Imagem: <a href="https://www.flickr.com/photos/nzdave/537552257/" target="_blank" rel="noopener noreferrer">(nz)dave</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND</a>
 </p>
 
 <p align="justify">
@@ -80,15 +77,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12541" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/CAMILA-MIRA-EDUCADORA-FISICA-SAO-PAULO-MOTRICIDADE-INFANTIL.jpg" alt="CAMILA MIRA - EDUCADORA FISICA - SAO PAULO - MOTRICIDADE INFANTIL" width="800" height="182" />
+  <img class="alignnone size-full wp-image-12541" src="https://www.trololodemulher.com.br/2016/05/CAMILA-MIRA-EDUCADORA-FISICA-SAO-PAULO-MOTRICIDADE-INFANTIL.jpg" alt="CAMILA MIRA - EDUCADORA FISICA - SAO PAULO - MOTRICIDADE INFANTIL" width="800" height="182" />
 </p>
 
 <p align="justify">
-  Camila defende que “<em>a atividade motora é de suma importância no desenvolvimento global da criança. É através de experiências motoras que a criança desenvolve a consciência de si mesmo e do meio que a cerca. Um bom desenvolvimento motor é de suma importância para a aquisição de habilidades cognitivas e sociais</em>”, e mostra, em <a href="https://www.facebook.com/motricidadeinfantil/timeline" target="_blank">sua fanpage no Facebook</a>, informações e atividades a respeito do desenvolvimento motor infantil. Curta e acompanhe! O atendimento de Camila fica na Rua Itapicuru, 545, Perdizes, São Paulo – (11) 98603-3088. O e-mail dela é <a href="mailto:camilaalvesmira@gmail.com">camilaalvesmira@gmail.com</a> – Entre em contato!
+  Camila defende que “<em>a atividade motora é de suma importância no desenvolvimento global da criança. É através de experiências motoras que a criança desenvolve a consciência de si mesmo e do meio que a cerca. Um bom desenvolvimento motor é de suma importância para a aquisição de habilidades cognitivas e sociais</em>”, e mostra, em <a href="https://www.facebook.com/motricidadeinfantil/timeline" target="_blank" rel="noopener noreferrer">sua fanpage no Facebook</a>, informações e atividades a respeito do desenvolvimento motor infantil. Curta e acompanhe! O atendimento de Camila fica na Rua Itapicuru, 545, Perdizes, São Paulo – (11) 98603-3088. O e-mail dela é <a href="mailto:camilaalvesmira@gmail.com">camilaalvesmira@gmail.com</a> – Entre em contato!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

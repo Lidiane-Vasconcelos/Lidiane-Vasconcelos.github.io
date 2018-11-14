@@ -1,10 +1,7 @@
 ---
-id: 3758
 title: 'Varizes na gravidez: como minimizar o problema?'
-date: 2017-05-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/05/03/varizes-na-gravidez/
 permalink: /2017/05/03/varizes-na-gravidez/
 categories:
   - Maternidade
@@ -15,11 +12,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13782" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/VARIZES-NA-GRAVIDEZ800.jpg" alt="VARIZES NA GRAVIDEZ800" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13782" src="https://www.trololodemulher.com.br/2017/05/VARIZES-NA-GRAVIDEZ800.jpg" alt="VARIZES NA GRAVIDEZ800" width="800" height="800" />
 </p>
 
 <p align="center">
-  <strong>Imagem: <a href="http://www.flickr.com/photos/7485630@N06/" target="_blank">The 5th Ape</a> via <a href="http://foter.com/re/62f681" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a></strong>
+  <strong>Imagem: <a href="http://www.flickr.com/photos/7485630@N06/" target="_blank" rel="noopener noreferrer">The 5th Ape</a> via <a href="http://foter.com/re/62f681" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener noreferrer">CC BY</a></strong>
 </p>
 
 <p align="justify">
@@ -79,15 +76,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13779" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/DRA-NIVEA-LINS-CZERNOCHA-MEDICA-ANGIOLOGISTA-CIRURGIA-VASCULAR-RIO-DE-JANEIRO-RJ.jpg" alt="DRA NIVEA LINS CZERNOCHA-MEDICA ANGIOLOGISTA-CIRURGIA VASCULAR-RIO DE JANEIRO-RJ" width="800" height="158" />
+  <img class="alignnone size-full wp-image-13779" src="https://www.trololodemulher.com.br/2017/05/DRA-NIVEA-LINS-CZERNOCHA-MEDICA-ANGIOLOGISTA-CIRURGIA-VASCULAR-RIO-DE-JANEIRO-RJ.jpg" alt="DRA NIVEA LINS CZERNOCHA-MEDICA ANGIOLOGISTA-CIRURGIA VASCULAR-RIO DE JANEIRO-RJ" width="800" height="158" />
 </p>
 
 <p align="justify">
-  Dra. Nivea atende na Av. nossa Senhora de Copacabana, 978, sala 805, Copacabana, Rio de Janeiro. Os telefones são 3208-3870 ou 7879-8534. No Facebook você pode acompanhar de perto o que a médica tem postado em termos de informação nessa área, <a href="https://www.facebook.com/niveaangiologista/" target="_blank">clique aqui e curta</a>. A Inovariz, clínica onde a médica também atende, dispõe de um site com todas as informações que você precisa pra entender ainda mais sobre esse problema, e agendar sua consulta. <a href="http://www.inovariz.com.br/" target="_blank">Clique aqui e acesse</a>!
+  Dra. Nivea atende na Av. nossa Senhora de Copacabana, 978, sala 805, Copacabana, Rio de Janeiro. Os telefones são 3208-3870 ou 7879-8534. No Facebook você pode acompanhar de perto o que a médica tem postado em termos de informação nessa área, <a href="https://www.facebook.com/niveaangiologista/" target="_blank" rel="noopener noreferrer">clique aqui e curta</a>. A Inovariz, clínica onde a médica também atende, dispõe de um site com todas as informações que você precisa pra entender ainda mais sobre esse problema, e agendar sua consulta. <a href="http://www.inovariz.com.br/" target="_blank" rel="noopener noreferrer">Clique aqui e acesse</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

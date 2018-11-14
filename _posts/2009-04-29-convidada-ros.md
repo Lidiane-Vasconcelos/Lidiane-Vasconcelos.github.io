@@ -1,17 +1,14 @@
 ---
-id: 2653
 title: 'Bicha Fêmea Convidada: Rose'
-date: 2009-04-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/04/29/convidada-ros/
 permalink: /2009/04/29/convidada-ros/
 categories:
   - Sem categoria
 ---
-**_Por Rose – <a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank">Receitinhas e Frescurinhas</a>_**
+**_Por Rose – <a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank" rel="noopener noreferrer">Receitinhas e Frescurinhas</a>_**
 
-Eu sou a <a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank">Rose</a>, uma mulher de 40 e quase 41 (15/07). Descobri o Bicha Fêmea por pura coincidência&#8230; estava _euzinha_ pesquisando sobre decoração de natal no tio _google_ quando cheguei a este blog&#8230; amei de paixão, li todos os _posts_ da Lidiane desde quando começou o blog&#8230; gosto da forma com que ela escreve. A sensação que tenho é de como se ela estivesse conversando comigo&#8230; simples, direto; e é feito pra nós, sem firulas ou “frescuras”&#8230; e olha que eu adoro uma _frescurinha!_&#8230; rsrs
+Eu sou a <a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank" rel="noopener noreferrer">Rose</a>, uma mulher de 40 e quase 41 (15/07). Descobri o Bicha Fêmea por pura coincidência&#8230; estava _euzinha_ pesquisando sobre decoração de natal no tio _google_ quando cheguei a este blog&#8230; amei de paixão, li todos os _posts_ da Lidiane desde quando começou o blog&#8230; gosto da forma com que ela escreve. A sensação que tenho é de como se ela estivesse conversando comigo&#8230; simples, direto; e é feito pra nós, sem firulas ou “frescuras”&#8230; e olha que eu adoro uma _frescurinha!_&#8230; rsrs
 
 Bem, hoje literalmente eu _to_ me achando… recebi um convite enviado por ela para que eu escrevesse na seção “Bicha Fêmea convidada”&#8230; afff&#8230; amei, adorei&#8230; e fiquei pensando: como o tema era livre, _karaka!_ Escrever sobre o quê?
 
@@ -23,7 +20,7 @@ _Parabéns pra você_ tem origem na canção _Good Morning to All_ (Bom Dia a To
 
 **Versão nos Estados do Sudeste e Centro-Oeste (do Brasil)**
 
-**[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="media.photobucket.com (5)" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/mediaphotobucketcom5-thumb.jpg" border="0" alt="media.photobucket.com (5)" width="177" height="240" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/mediaphotobucketcom5.jpg) (ritmo acompanhado de palmas)**
+**[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="media.photobucket.com (5)" src="https://www.trololodemulher.com.br/2009/04/mediaphotobucketcom5-thumb.jpg" border="0" alt="media.photobucket.com (5)" width="177" height="240" align="right" />](https://www.trololodemulher.com.br/2009/04/mediaphotobucketcom5.jpg) (ritmo acompanhado de palmas)**
 
 _Parabéns pra você_
   
@@ -63,7 +60,7 @@ GRITOS
 
 **(ritmo acompanhado de palmas)**
 
-_[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="a3.vox.com" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/a3voxcom-thumb.jpg" border="0" alt="a3.vox.com" width="240" height="143" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/a3voxcom.jpg) Parabéns pra você_
+_[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="a3.vox.com" src="https://www.trololodemulher.com.br/2009/04/a3voxcom-thumb.jpg" border="0" alt="a3.vox.com" width="240" height="143" align="right" />](https://www.trololodemulher.com.br/2009/04/a3voxcom.jpg) Parabéns pra você_
   
 _Nesta data querida_
   
@@ -87,7 +84,7 @@ _Rá-tim-bum!_
   
 _&#8220;aniversariante&#8221;! &#8220;aniversariante&#8221;! &#8220;aniversariante&#8221;!_
 
-  * Trocar &#8220;aniversariante&#8221; pelo nome do aniversariante em questão.**Versão no Estado da Bahia (Brasil)****(ritmo acompanhado de palmas)**_[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="media.photobucket.com (6)" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/mediaphotobucketcom6-thumb.jpg" border="0" alt="media.photobucket.com (6)" width="167" height="240" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/mediaphotobucketcom6.jpg) Parabéns pra você_
+  * Trocar &#8220;aniversariante&#8221; pelo nome do aniversariante em questão.**Versão no Estado da Bahia (Brasil)****(ritmo acompanhado de palmas)**_[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="media.photobucket.com (6)" src="https://www.trololodemulher.com.br/2009/04/mediaphotobucketcom6-thumb.jpg" border="0" alt="media.photobucket.com (6)" width="167" height="240" align="right" />](https://www.trololodemulher.com.br/2009/04/mediaphotobucketcom6.jpg) Parabéns pra você_
   
     _Nesta data querida_
   
@@ -140,7 +137,7 @@ _&#8220;aniversariante&#8221;! &#8220;aniversariante&#8221;! &#8220;aniversarian
     
     **Versão no Estado do Rio Grande do Sul (Brasil)**
     
-    [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="imagecache.allposters.com" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/imagecacheallposterscom-thumb.jpg" border="0" alt="imagecache.allposters.com" width="166" height="240" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/imagecacheallposterscom.jpg) Parabéns, parabéns
+    [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="imagecache.allposters.com" src="https://www.trololodemulher.com.br/2009/04/imagecacheallposterscom-thumb.jpg" border="0" alt="imagecache.allposters.com" width="166" height="240" align="right" />](https://www.trololodemulher.com.br/2009/04/imagecacheallposterscom.jpg) Parabéns, parabéns
     
     Saúde e felicidade
     
@@ -284,7 +281,7 @@ _&#8220;aniversariante&#8221;! &#8220;aniversariante&#8221;! &#8220;aniversarian
     
     Massa:
     
-    [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="empadinhas de queijo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/imagem-045-thumb.jpg" border="0" alt="empadinhas de queijo" width="278" height="331" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/imagem-045.jpg) &#8211; 3 xícaras (chá) de farinha de trigo
+    [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="empadinhas de queijo" src="https://www.trololodemulher.com.br/2009/04/imagem-045-thumb.jpg" border="0" alt="empadinhas de queijo" width="278" height="331" align="right" />](https://www.trololodemulher.com.br/2009/04/imagem-045.jpg) &#8211; 3 xícaras (chá) de farinha de trigo
   
     &#8211; 1 colher (sopa) de fermento em pó
   
@@ -316,7 +313,7 @@ _&#8220;aniversariante&#8221;! &#8220;aniversariante&#8221;! &#8220;aniversarian
   
     &#8211; 3 ovos inteiros batidos com um garfo
     
-    [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="empadinhas de queijo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/imagem-046-thumb.jpg" border="0" alt="empadinhas de queijo" width="278" height="331" align="left" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/imagem-046.jpg) Misture todos os ingredientes da massa (se necessário acrescente mais farinha tem que desgrudar das mãos) abra porções da massa em forminhas de empadinha&#8230; não precisa untar.
+    [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="empadinhas de queijo" src="https://www.trololodemulher.com.br/2009/04/imagem-046-thumb.jpg" border="0" alt="empadinhas de queijo" width="278" height="331" align="left" />](https://www.trololodemulher.com.br/2009/04/imagem-046.jpg) Misture todos os ingredientes da massa (se necessário acrescente mais farinha tem que desgrudar das mãos) abra porções da massa em forminhas de empadinha&#8230; não precisa untar.
     
     Misture todos os ingredientes do recheio. Coloque  nas forminhas, arrume dentro de uma forma grande e leve ao forno pré-aquecido e asse até dourar&#8230; depois de assadas elas abaixam um pouco, isso é normal por causa do queijo.
     

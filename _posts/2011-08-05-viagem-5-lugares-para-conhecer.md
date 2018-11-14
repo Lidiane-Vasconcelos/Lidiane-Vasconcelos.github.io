@@ -1,10 +1,7 @@
 ---
-id: 3033
 title: 'Viagem: 5 lugares para conhecer e se surpreender. Duvida?!'
-date: 2011-08-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/08/05/viagem-5-lugares-para-conhecer/
 permalink: /2011/08/05/viagem-5-lugares-para-conhecer/
 categories:
   - Trololó
@@ -24,13 +21,13 @@ Sempre que marido e eu pensamos sobre qual lugar conhecer na **próxima viagem**
 </p>
 
 <p align="justify">
-  Imagino que você, que também gosta de sair por aí para aproveitar o que de melhor o mundo tem a oferecer, vai ficar inquieta para experimentar as sensações que a <strong>Katia</strong>, editora do inspirador <strong><a href="http://casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a></strong>, tem para dividir sobre cada um dos destinos que ela esolheu com exclusividade para indicar para você, leitora do Bicha Fêmea. <em>Espia</em> logo abaixo e viaje nas palavras e recomendações da bonita…
+  Imagino que você, que também gosta de sair por aí para aproveitar o que de melhor o mundo tem a oferecer, vai ficar inquieta para experimentar as sensações que a <strong>Katia</strong>, editora do inspirador <strong><a href="http://casosecoisasdabonfa.blogspot.com/" target="_blank" rel="noopener noreferrer">Casos e Coisas da Bonfa</a></strong>, tem para dividir sobre cada um dos destinos que ela esolheu com exclusividade para indicar para você, leitora do Bicha Fêmea. <em>Espia</em> logo abaixo e viaje nas palavras e recomendações da bonita…
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cairo-Abu-Simbel-Egito.jpg"><img class="alignnone size-full wp-image-6706" title="Cairo - Abu Simbel - Egito" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cairo-Abu-Simbel-Egito.jpg" alt="" width="450" height="600" /></a><br /> <strong><a href="http://casosecoisasdabonfa.blogspot.com/search/label/Egito" target="_blank">Cairo e Abu Simbel, Egito (2009)</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/08/Cairo-Abu-Simbel-Egito.jpg"><img class="alignnone size-full wp-image-6706" title="Cairo - Abu Simbel - Egito" src="https://www.trololodemulher.com.br/2011/08/Cairo-Abu-Simbel-Egito.jpg" alt="" width="450" height="600" /></a><br /> <strong><a href="http://casosecoisasdabonfa.blogspot.com/search/label/Egito" target="_blank" rel="noopener noreferrer">Cairo e Abu Simbel, Egito (2009)</a></strong>
 </p>
 
 > <p align="justify">
@@ -38,7 +35,7 @@ Sempre que marido e eu pensamos sobre qual lugar conhecer na **próxima viagem**
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cidade-Proibida-Praca-da-Paz-Celestial-Muralha-em-Badaling-China.jpg"><img class="alignnone size-full wp-image-6707" title="Cidade Proibida - Praça da Paz Celestial - Muralha em Badaling - China" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cidade-Proibida-Praca-da-Paz-Celestial-Muralha-em-Badaling-China.jpg" alt="" width="545" height="376" /></a><br /> <strong>Cidade Proibida (vista da Praça da Paz Celestial) em Beijing e parte da Muralha em Badaling, China (1997)</strong>
+  <a href="https://www.trololodemulher.com.br/2011/08/Cidade-Proibida-Praca-da-Paz-Celestial-Muralha-em-Badaling-China.jpg"><img class="alignnone size-full wp-image-6707" title="Cidade Proibida - Praça da Paz Celestial - Muralha em Badaling - China" src="https://www.trololodemulher.com.br/2011/08/Cidade-Proibida-Praca-da-Paz-Celestial-Muralha-em-Badaling-China.jpg" alt="" width="545" height="376" /></a><br /> <strong>Cidade Proibida (vista da Praça da Paz Celestial) em Beijing e parte da Muralha em Badaling, China (1997)</strong>
 </p>
 
 > <p align="justify">
@@ -46,7 +43,7 @@ Sempre que marido e eu pensamos sobre qual lugar conhecer na **próxima viagem**
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Laguna-Colorada-Bolivia.jpg"><img class="alignnone size-full wp-image-6708" title="Laguna Colorada - Bolívia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Laguna-Colorada-Bolivia.jpg" alt="" width="600" height="415" /></a><br /> <strong><a href="http://casosecoisasdabonfa.blogspot.com/2010/12/resumao-das-ferias-no-deserto-do.html" target="_blank">Laguna Colorada na Bolívia</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/08/Laguna-Colorada-Bolivia.jpg"><img class="alignnone size-full wp-image-6708" title="Laguna Colorada - Bolívia" src="https://www.trololodemulher.com.br/2011/08/Laguna-Colorada-Bolivia.jpg" alt="" width="600" height="415" /></a><br /> <strong><a href="http://casosecoisasdabonfa.blogspot.com/2010/12/resumao-das-ferias-no-deserto-do.html" target="_blank" rel="noopener noreferrer">Laguna Colorada na Bolívia</a></strong>
 </p>
 
 <p align="center">
@@ -60,7 +57,7 @@ Sempre que marido e eu pensamos sobre qual lugar conhecer na **próxima viagem**
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Parque-Vigeland-Oslo-Noruega.jpg"><img class="alignnone size-full wp-image-6711" title="Parque Vigeland - Oslo - Noruega" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Parque-Vigeland-Oslo-Noruega.jpg" alt="" width="545" height="409" /></a><br /> <strong>Parque Vigeland em Oslo, Noruega (2008)</strong>
+  <a href="https://www.trololodemulher.com.br/2011/08/Parque-Vigeland-Oslo-Noruega.jpg"><img class="alignnone size-full wp-image-6711" title="Parque Vigeland - Oslo - Noruega" src="https://www.trololodemulher.com.br/2011/08/Parque-Vigeland-Oslo-Noruega.jpg" alt="" width="545" height="409" /></a><br /> <strong>Parque Vigeland em Oslo, Noruega (2008)</strong>
 </p>
 
 &nbsp;
@@ -72,7 +69,7 @@ Sempre que marido e eu pensamos sobre qual lugar conhecer na **próxima viagem**
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Sidi-Bou-Said-Mar-Mediterraneo-Tuninia.jpg"><img class="alignnone size-full wp-image-6712" title="Sidi Bou Said - Mar Mediterrâneo - Tunísia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Sidi-Bou-Said-Mar-Mediterraneo-Tuninia.jpg" alt="" width="545" height="366" /><br /> </a><strong><a href="http://casosecoisasdabonfa.blogspot.com/2009/10/minha-primeira-viagem-africa-tunisia.html" target="_blank">Sidi Bou Said e o Mar Mediterrâneo ao fundo, Tunísia (2007)</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/08/Sidi-Bou-Said-Mar-Mediterraneo-Tuninia.jpg"><img class="alignnone size-full wp-image-6712" title="Sidi Bou Said - Mar Mediterrâneo - Tunísia" src="https://www.trololodemulher.com.br/2011/08/Sidi-Bou-Said-Mar-Mediterraneo-Tuninia.jpg" alt="" width="545" height="366" /><br /> </a><strong><a href="http://casosecoisasdabonfa.blogspot.com/2009/10/minha-primeira-viagem-africa-tunisia.html" target="_blank" rel="noopener noreferrer">Sidi Bou Said e o Mar Mediterrâneo ao fundo, Tunísia (2007)</a></strong>
 </p>
 
 > <p align="justify">

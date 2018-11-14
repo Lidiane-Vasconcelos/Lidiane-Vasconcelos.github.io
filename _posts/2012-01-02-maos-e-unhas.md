@@ -1,10 +1,7 @@
 ---
-id: 3100
 title: 'Mãos e unhas: você trata as suas como elas merecem?'
-date: 2012-01-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/01/02/maos-e-unhas/
 permalink: /2012/01/02/maos-e-unhas/
 categories:
   - Beleza
@@ -14,13 +11,13 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Pois é, como imaginei que, além de mim, você também quisesse saber mais sobre isso, eu conversei com a <strong>Carol</strong>, blogueira que está a frente do <strong><em><a href="http://www.thenails.com.br/" target="_blank">The Nails</a></em></strong>, e pedi que ela me contasse TU-DO que ela faz para ficar com mãos e unhas impecáveis. Acompanha o resultado…
+  Pois é, como imaginei que, além de mim, você também quisesse saber mais sobre isso, eu conversei com a <strong>Carol</strong>, blogueira que está a frente do <strong><em><a href="http://www.thenails.com.br/" target="_blank" rel="noopener noreferrer">The Nails</a></em></strong>, e pedi que ela me contasse TU-DO que ela faz para ficar com mãos e unhas impecáveis. Acompanha o resultado…
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Carol-Santos.jpg"><img class="alignnone size-full wp-image-6788" title="Camera 360" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Carol-Santos.jpg" alt="" width="402" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/Carol-Santos.jpg"><img class="alignnone size-full wp-image-6788" title="Camera 360" src="https://www.trololodemulher.com.br/2011/08/Carol-Santos.jpg" alt="" width="402" height="600" /></a>
 </p>
 
 <p align="center">
@@ -72,7 +69,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/MAOS-E-UNHAS.jpg"><img class="alignnone size-full wp-image-8398" title="MAOS E UNHAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/MAOS-E-UNHAS.jpg" alt="" width="400" height="600" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/12/MAOS-E-UNHAS.jpg"><img class="alignnone size-full wp-image-8398" title="MAOS E UNHAS" src="https://www.trololodemulher.com.br/2011/12/MAOS-E-UNHAS.jpg" alt="" width="400" height="600" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a></strong>
 </p>
 
 &nbsp;
@@ -82,11 +79,11 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Agora, de posse das dicas da blogueira bonita e <em>expert</em> nos cuidados das mãos e unhas, é só partir para a ação. E se você quiser acompanhar todas as novidades e dicas que a Carol disponibiliza em seu blog, dá um <strong><a href="http://www.thenails.com.br/" target="_blank">cliquinho aqui</a></strong> e não perca tempo, bonitona!
+  Agora, de posse das dicas da blogueira bonita e <em>expert</em> nos cuidados das mãos e unhas, é só partir para a ação. E se você quiser acompanhar todas as novidades e dicas que a Carol disponibiliza em seu blog, dá um <strong><a href="http://www.thenails.com.br/" target="_blank" rel="noopener noreferrer">cliquinho aqui</a></strong> e não perca tempo, bonitona!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

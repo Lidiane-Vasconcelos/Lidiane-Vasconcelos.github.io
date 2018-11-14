@@ -1,10 +1,7 @@
 ---
-id: 3120
 title: 'Josefina Chocolates: quando sabor, requinte e beleza se encontram…'
-date: 2012-03-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/03/08/chocolate-artesanal-pascoa/
 permalink: /2012/03/08/chocolate-artesanal-pascoa/
 categories:
   - Publieditorial
@@ -20,19 +17,19 @@ A **Páscoa** está chegando… as idas aos supermercados são providenciais par
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/JOSEFINA-CHOCOLATES.jpg"><img class="alignnone size-full wp-image-8587" title="JOSEFINA CHOCOLATES" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/JOSEFINA-CHOCOLATES.jpg" alt="" width="512" height="512" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/03/JOSEFINA-CHOCOLATES.jpg"><img class="alignnone size-full wp-image-8587" title="JOSEFINA CHOCOLATES" src="https://www.trololodemulher.com.br/2012/03/JOSEFINA-CHOCOLATES.jpg" alt="" width="512" height="512" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  A moça indiscutivelmente talentosa por trás disso tudo? Não! Ela não se chama Josefina… é a <strong>Gabriela Schwab</strong>. A bonita, que mostrou o amor pela gastronomia desde criança, vem materializando seu amor pela criação e pelos chocolates nas delicadezas lindas de viver da <strong><a href="http://josefinachocolates.blogspot.com/" target="_blank">Josefina Chocolates</a></strong>…
+  A moça indiscutivelmente talentosa por trás disso tudo? Não! Ela não se chama Josefina… é a <strong>Gabriela Schwab</strong>. A bonita, que mostrou o amor pela gastronomia desde criança, vem materializando seu amor pela criação e pelos chocolates nas delicadezas lindas de viver da <strong><a href="http://josefinachocolates.blogspot.com/" target="_blank" rel="noopener noreferrer">Josefina Chocolates</a></strong>…
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/JOSEFINA-CHOCOLATES2.png"><img class="alignnone size-full wp-image-8588" title="JOSEFINA CHOCOLATES[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/JOSEFINA-CHOCOLATES2.png" alt="" width="380" height="380" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/03/JOSEFINA-CHOCOLATES2.png"><img class="alignnone size-full wp-image-8588" title="JOSEFINA CHOCOLATES[2]" src="https://www.trololodemulher.com.br/2012/03/JOSEFINA-CHOCOLATES2.png" alt="" width="380" height="380" /></a>
 </p>
 
 &nbsp;
@@ -44,7 +41,7 @@ A **Páscoa** está chegando… as idas aos supermercados são providenciais par
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/JOSEFINA-CHOCOLATES-PASCOA-2012.jpg"><img class="alignnone size-full wp-image-8584" title="JOSEFINA CHOCOLATES PASCOA 2012" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/JOSEFINA-CHOCOLATES-PASCOA-2012.jpg" alt="" width="512" height="512" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/03/JOSEFINA-CHOCOLATES-PASCOA-2012.jpg"><img class="alignnone size-full wp-image-8584" title="JOSEFINA CHOCOLATES PASCOA 2012" src="https://www.trololodemulher.com.br/2012/03/JOSEFINA-CHOCOLATES-PASCOA-2012.jpg" alt="" width="512" height="512" /></a>
 </p>
 
 <p align="center">
@@ -54,7 +51,7 @@ A **Páscoa** está chegando… as idas aos supermercados são providenciais par
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/JOSEFINA-CHOCOLATES-PASCOA-20122.jpg"><img class="alignnone size-full wp-image-8585" title="JOSEFINA CHOCOLATES PASCOA 2012[2]]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/JOSEFINA-CHOCOLATES-PASCOA-20122.jpg" alt="" width="512" height="512" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/03/JOSEFINA-CHOCOLATES-PASCOA-20122.jpg"><img class="alignnone size-full wp-image-8585" title="JOSEFINA CHOCOLATES PASCOA 2012[2]]" src="https://www.trololodemulher.com.br/2012/03/JOSEFINA-CHOCOLATES-PASCOA-20122.jpg" alt="" width="512" height="512" /></a>
 </p>
 
 <p align="center">
@@ -64,7 +61,7 @@ A **Páscoa** está chegando… as idas aos supermercados são providenciais par
 &nbsp;
 
 <p align="justify">
-  Como se não bastasse a moça caprichar na elaboração dos chocolates, com sabores que deixam a gente literalmente com água na boca só de ler a<strong> <a href="http://josefinachocolates.blogspot.com/p/sabores.html" target="_blank">listinha bem aqui</a></strong>, tudo isso vem <strong>embalado com uma apresentação incrível</strong>!
+  Como se não bastasse a moça caprichar na elaboração dos chocolates, com sabores que deixam a gente literalmente com água na boca só de ler a<strong> <a href="http://josefinachocolates.blogspot.com/p/sabores.html" target="_blank" rel="noopener noreferrer">listinha bem aqui</a></strong>, tudo isso vem <strong>embalado com uma apresentação incrível</strong>!
 </p>
 
 <p align="justify">
@@ -74,7 +71,7 @@ A **Páscoa** está chegando… as idas aos supermercados são providenciais par
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/JOSEFINA-CHOCOLATES-PASCOA-20123.jpg"><img class="alignnone size-full wp-image-8586" title="JOSEFINA CHOCOLATES PASCOA 2012[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/JOSEFINA-CHOCOLATES-PASCOA-20123.jpg" alt="" width="512" height="512" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/03/JOSEFINA-CHOCOLATES-PASCOA-20123.jpg"><img class="alignnone size-full wp-image-8586" title="JOSEFINA CHOCOLATES PASCOA 2012[3]" src="https://www.trololodemulher.com.br/2012/03/JOSEFINA-CHOCOLATES-PASCOA-20123.jpg" alt="" width="512" height="512" /></a>
 </p>
 
 <p align="center">
@@ -82,7 +79,7 @@ A **Páscoa** está chegando… as idas aos supermercados são providenciais par
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/JOSEFINA-CHOCOLATES-PASCOA-2012-4.jpg"><img class="alignnone size-full wp-image-8583" title="JOSEFINA CHOCOLATES PASCOA 2012 [4]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/JOSEFINA-CHOCOLATES-PASCOA-2012-4.jpg" alt="" width="512" height="512" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/03/JOSEFINA-CHOCOLATES-PASCOA-2012-4.jpg"><img class="alignnone size-full wp-image-8583" title="JOSEFINA CHOCOLATES PASCOA 2012 [4]" src="https://www.trololodemulher.com.br/2012/03/JOSEFINA-CHOCOLATES-PASCOA-2012-4.jpg" alt="" width="512" height="512" /></a>
 </p>
 
 <p align="center">
@@ -96,7 +93,7 @@ A **Páscoa** está chegando… as idas aos supermercados são providenciais par
 </p>
 
 <p align="justify">
-  Não duvide da variedade de produtos que a <strong><a href="http://josefinachocolates.blogspot.com/" target="_blank">Josefina Chocolates</a></strong> tem para oferecer, <em>viu</em>? O leque de opções é enorme e você pode ver tudinho <strong><a href="http://josefinachocolates.blogspot.com/p/produtos-josefina.html" target="_blank">bem aqui</a></strong>. Quanto ás <strong>encomendas</strong>? Não perca de vista o seguinte: elas <strong>devem ser feitas com antecedência</strong> porque, vale reforçar, tudo é artesanal e exclusivo. Além do mais, os pedidos são atendidos <strong>somente para São Paulo capital</strong>, está bem? Todos os detalhes você encontra <strong><a href="http://josefinachocolates.blogspot.com/p/temas.html" target="_blank">bem aqui</a></strong>.
+  Não duvide da variedade de produtos que a <strong><a href="http://josefinachocolates.blogspot.com/" target="_blank" rel="noopener noreferrer">Josefina Chocolates</a></strong> tem para oferecer, <em>viu</em>? O leque de opções é enorme e você pode ver tudinho <strong><a href="http://josefinachocolates.blogspot.com/p/produtos-josefina.html" target="_blank" rel="noopener noreferrer">bem aqui</a></strong>. Quanto ás <strong>encomendas</strong>? Não perca de vista o seguinte: elas <strong>devem ser feitas com antecedência</strong> porque, vale reforçar, tudo é artesanal e exclusivo. Além do mais, os pedidos são atendidos <strong>somente para São Paulo capital</strong>, está bem? Todos os detalhes você encontra <strong><a href="http://josefinachocolates.blogspot.com/p/temas.html" target="_blank" rel="noopener noreferrer">bem aqui</a></strong>.
 </p>
 
 <p align="justify">

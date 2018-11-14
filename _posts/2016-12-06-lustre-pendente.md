@@ -1,10 +1,7 @@
 ---
-id: 3714
 title: Como decorar a sala de jantar com lustre pendente?
-date: 2016-12-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/12/06/lustre-pendente/
 permalink: /2016/12/06/lustre-pendente/
 categories:
   - Salas
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13377" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE17.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente17" width="751" height="753" />
+  <img class="alignnone size-full wp-image-13377" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE17.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente17" width="751" height="753" />
 </p>
 
 <p align="justify">
@@ -22,23 +19,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/luminaria-pendente-sala-jantar/" target="_blank"><strong>Ventilador de teto + luminária pendente… pode?</strong></a>
+  <a href="http://www.decoracaodacasa.com/luminaria-pendente-sala-jantar/" target="_blank" rel="noopener noreferrer"><strong>Ventilador de teto + luminária pendente… pode?</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13359" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente" width="650" height="650" />
+  <img class="alignnone size-full wp-image-13359" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente" width="650" height="650" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.lumens.com/" target="_blank">Lumens</a>
+  Via <a href="http://www.lumens.com/" target="_blank" rel="noopener noreferrer">Lumens</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13360" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE2.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente2" width="650" height="650" />
+  <img class="alignnone size-full wp-image-13360" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE2.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente2" width="650" height="650" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.lumens.com/" target="_blank">Lumens</a>
+  Via <a href="http://www.lumens.com/" target="_blank" rel="noopener noreferrer">Lumens</a>
 </p>
 
 <p align="justify">
@@ -50,23 +47,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/salas-de-jantar-modernas/" target="_blank"><strong>5 salas de jantar modernas para viver de amores.</strong></a>
+  <a href="http://www.decoracaodacasa.com/salas-de-jantar-modernas/" target="_blank" rel="noopener noreferrer"><strong>5 salas de jantar modernas para viver de amores.</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13361" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE3.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente3" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13361" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE3.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente3" width="800" height="800" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.lightology.com/" target="_blank">Lightology</a>
+  Via <a href="http://www.lightology.com/" target="_blank" rel="noopener noreferrer">Lightology</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13362" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE4.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente4" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13362" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE4.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente4" width="800" height="800" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.goinglighting.com/" target="_blank">Going Lighting</a>
+  Via <a href="http://www.goinglighting.com/" target="_blank" rel="noopener noreferrer">Going Lighting</a>
 </p>
 
 <p align="justify">
@@ -74,59 +71,59 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13363" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE5.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente5" width="650" height="650" />
+  <img class="alignnone size-full wp-image-13363" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE5.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente5" width="650" height="650" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.lumens.com/" target="_blank">Lumens</a>
+  Via <a href="http://www.lumens.com/" target="_blank" rel="noopener noreferrer">Lumens</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13364" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE6.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente6" width="650" height="650" />
+  <img class="alignnone size-full wp-image-13364" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE6.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente6" width="650" height="650" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.lumens.com/" target="_blank">Lumens</a>
+  Via <a href="http://www.lumens.com/" target="_blank" rel="noopener noreferrer">Lumens</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13365" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE7.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente7" width="558" height="558" />
+  <img class="alignnone size-full wp-image-13365" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE7.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente7" width="558" height="558" />
 </p>
 
 <p align="center">
-  Via <a href="http://deepkod.com/" target="_blank">Deekpod</a>
+  Via <a href="http://deepkod.com/" target="_blank" rel="noopener noreferrer">Deekpod</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13366" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE8.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente8" width="800" height="613" />
+  <img class="alignnone size-full wp-image-13366" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE8.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente8" width="800" height="613" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.wrexhamonline.net/" target="_blank">Pendant Light</a>
+  Via <a href="http://www.wrexhamonline.net/" target="_blank" rel="noopener noreferrer">Pendant Light</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13367" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE9.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente9" width="800" height="552" />
+  <img class="alignnone size-full wp-image-13367" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE9.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente9" width="800" height="552" />
 </p>
 
 <p align="center">
-  Via <a href="http://olpos.com/" target="_blank">Olpos Design</a>
+  Via <a href="http://olpos.com/" target="_blank" rel="noopener noreferrer">Olpos Design</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13368" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE10.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente10" width="600" height="597" />
+  <img class="alignnone size-full wp-image-13368" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE10.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente10" width="600" height="597" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.homedit.com/" target="_blank">Homedit</a>
+  Via <a href="http://www.homedit.com/" target="_blank" rel="noopener noreferrer">Homedit</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13369" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE11.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente11" width="550" height="734" />
+  <img class="alignnone size-full wp-image-13369" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE11.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente11" width="550" height="734" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.athomeinlove.com/" target="_blank">At Home in Love</a>
+  Via <a href="http://www.athomeinlove.com/" target="_blank" rel="noopener noreferrer">At Home in Love</a>
 </p>
 
 <p align="justify">
@@ -134,51 +131,51 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13370" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE12.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente12" width="650" height="650" />
+  <img class="alignnone size-full wp-image-13370" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE12.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente12" width="650" height="650" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.lumens.com/" target="_blank">Lumens</a>
+  Via <a href="http://www.lumens.com/" target="_blank" rel="noopener noreferrer">Lumens</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13371" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE13.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente13" width="650" height="650" />
+  <img class="alignnone size-full wp-image-13371" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE13.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente13" width="650" height="650" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.lumens.com/" target="_blank">Lumens</a>
+  Via <a href="http://www.lumens.com/" target="_blank" rel="noopener noreferrer">Lumens</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13372" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE14.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente14" width="650" height="650" />
+  <img class="alignnone size-full wp-image-13372" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE14.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente14" width="650" height="650" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.lumens.com/" target="_blank">Lumens</a>
+  Via <a href="http://www.lumens.com/" target="_blank" rel="noopener noreferrer">Lumens</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13373" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE15.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente15" width="700" height="857" />
+  <img class="alignnone size-full wp-image-13373" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE15.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente15" width="700" height="857" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.lucente.eu/index.php" target="_blank">Lucente</a>
+  Via <a href="http://www.lucente.eu/index.php" target="_blank" rel="noopener noreferrer">Lucente</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13374" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE16.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente16" width="700" height="563" />
+  <img class="alignnone size-full wp-image-13374" src="https://www.trololodemulher.com.br/2016/12/DECORACAO-SALA-SALA-DE-JANTAR-LUSTRE-LUSTRE-PENDENTE-LUMINARIA-PENDENTE16.jpg" alt="decoracao-sala-sala-de-jantar-lustre-lustre-pendente-luminaria-pendente16" width="700" height="563" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.gubi.dk/" target="_blank">Gubi</a>
+  Via <a href="http://www.gubi.dk/" target="_blank" rel="noopener noreferrer">Gubi</a>
 </p>
 
 <p align="justify">
-  E para ter certeza sobre a altura ideal da peça, não deixe de conferir o post “<a href="http://www.decoracaodacasa.com/luminaria-pendente-decoracao/" target="_blank">Você sabe mesmo inserir a luminária pendente na decoração da casa?</a>”. Altamente recomendado!
+  E para ter certeza sobre a altura ideal da peça, não deixe de conferir o post “<a href="http://www.decoracaodacasa.com/luminaria-pendente-decoracao/" target="_blank" rel="noopener noreferrer">Você sabe mesmo inserir a luminária pendente na decoração da casa?</a>”. Altamente recomendado!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

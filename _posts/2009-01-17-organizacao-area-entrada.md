@@ -1,10 +1,7 @@
 ---
-id: 2603
 title: Ideia para organização de objetos na área de entrada (hall) da casa.
-date: 2009-01-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/01/17/organizacao-area-entrada/
 permalink: /2009/01/17/organizacao-area-entrada/
 categories:
   - Organização
@@ -27,9 +24,9 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Eu fiquei inspiradíssima pela idéia e resolvi dividí-la com vocês. Para quem tem talento com trabalhos manuais, acho até que dá para arriscar a confecção de uma peça assim porque não parece ser tão difícil. Vi essa idéia <a href="http://www.apartmenttherapy.com/la/diy/ikea-hack-paolas-entryway-organizer-073849" target="_blank">aqui, ó</a>!
+  Eu fiquei inspiradíssima pela idéia e resolvi dividí-la com vocês. Para quem tem talento com trabalhos manuais, acho até que dá para arriscar a confecção de uma peça assim porque não parece ser tão difícil. Vi essa idéia <a href="http://www.apartmenttherapy.com/la/diy/ikea-hack-paolas-entryway-organizer-073849" target="_blank" rel="noopener noreferrer">aqui, ó</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

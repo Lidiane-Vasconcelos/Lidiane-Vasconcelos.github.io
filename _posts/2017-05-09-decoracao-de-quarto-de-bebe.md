@@ -1,10 +1,7 @@
 ---
-id: 3760
 title: 'Decoração de quarto de bebê bonita, segura e funcional: veja 8 dicas.'
-date: 2017-05-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/05/09/decoracao-de-quarto-de-bebe/
 permalink: /2017/05/09/decoracao-de-quarto-de-bebe/
 categories:
   - Decoração
@@ -19,7 +16,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">Freeimages</a>
+  Imagem: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">Freeimages</a>
 </p>
 
 <p align="justify">
@@ -31,7 +28,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>A escolha do berço é muito pessoal, varia de acordo com o gosto. Qualquer que seja o modelo, o essencial é a segurança: escolher um modelo que siga as regras do <a href="http://www.inmetro.gov.br/" target="_blank">INMETRO</a> e as indicações da <a href="http://criancasegura.org.br/" target="_blank">ONG Criança Segura</a>. Modelos que viram minicamas, acompanham a criança nos primeiros anos de vida. Já os berços do tipo Moisés (cestos) podem ser usados apenas nos primeiros meses.”</strong>
+>   <strong>A escolha do berço é muito pessoal, varia de acordo com o gosto. Qualquer que seja o modelo, o essencial é a segurança: escolher um modelo que siga as regras do <a href="http://www.inmetro.gov.br/" target="_blank" rel="noopener noreferrer">INMETRO</a> e as indicações da <a href="http://criancasegura.org.br/" target="_blank" rel="noopener noreferrer">ONG Criança Segura</a>. Modelos que viram minicamas, acompanham a criança nos primeiros anos de vida. Já os berços do tipo Moisés (cestos) podem ser usados apenas nos primeiros meses.”</strong>
 > </p>
 
 <p align="center">
@@ -39,7 +36,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem via <a href="http://zontaarquitetura.blogspot.com.br/" target="_blank">Zonta | Arquitetura</a>
+  Imagem via <a href="http://zontaarquitetura.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Zonta | Arquitetura</a>
 </p>
 
 <p align="justify">
@@ -55,7 +52,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem do ursinho via <a href="http://www.freeimages.com/" target="_blank">Freeimages</a>
+  Imagem do ursinho via <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">Freeimages</a>
 </p>
 
 <p align="justify">
@@ -79,7 +76,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem via <a href="http://www.loveinspirations.com.br/" target="_blank">Love Inspirations</a>
+  Imagem via <a href="http://www.loveinspirations.com.br/" target="_blank" rel="noopener noreferrer">Love Inspirations</a>
 </p>
 
 <p align="justify">
@@ -103,7 +100,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://carseatexperts.com/best-wall-arts-reviewed/" target="_blank">Adesivos de parede infantis</a>: lista com algumas opções avaliadas.</strong>
+  <strong><a href="http://carseatexperts.com/best-wall-arts-reviewed/" target="_blank" rel="noopener noreferrer">Adesivos de parede infantis</a>: lista com algumas opções avaliadas.</strong>
 </p>
 
 <p align="justify">
@@ -119,7 +116,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/03/13/quarto-bebe-menino/" target="_blank"><strong>4 quartos de bebê menino para você suspirar… e se inspirar.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/03/13/quarto-bebe-menino/" target="_blank" rel="noopener noreferrer"><strong>4 quartos de bebê menino para você suspirar… e se inspirar.</strong></a>
 </p>
 
 <p align="justify">
@@ -131,15 +128,15 @@ categories:
 > </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12866" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/ADRIANA-MAGRE.jpg" alt="ADRIANA MAGRE" width="800" height="197" />
+  <img class="alignnone size-full wp-image-12866" src="https://www.trololodemulher.com.br/2016/08/ADRIANA-MAGRE.jpg" alt="ADRIANA MAGRE" width="800" height="197" />
 </p>
 
 <p align="justify">
-  A <strong>Adriana</strong> edita seu blog com tanta informação útil e de qualidade que eu acredito ser leitura obrigatória para quem curte decoração e todo o universo que envolve a casa. Tanto no blog – <strong><a href="http://www.coresdacasa.com.br/" target="_blank">Cores da Casa</a></strong> – quanto na fanpage do Facebook – <strong><a href="https://www.facebook.com/coresdacasa" target="_blank">curta e acompanhe</a></strong> – as fontes são de informação da melhor qualidade, pode apostar! Quer tirar a prova? Se joga, conheça e confira!
+  A <strong>Adriana</strong> edita seu blog com tanta informação útil e de qualidade que eu acredito ser leitura obrigatória para quem curte decoração e todo o universo que envolve a casa. Tanto no blog – <strong><a href="http://www.coresdacasa.com.br/" target="_blank" rel="noopener noreferrer">Cores da Casa</a></strong> – quanto na fanpage do Facebook – <strong><a href="https://www.facebook.com/coresdacasa" target="_blank" rel="noopener noreferrer">curta e acompanhe</a></strong> – as fontes são de informação da melhor qualidade, pode apostar! Quer tirar a prova? Se joga, conheça e confira!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

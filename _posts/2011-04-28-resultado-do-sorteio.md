@@ -1,10 +1,7 @@
 ---
-id: 2985
 title: Saiu o resultado do sorteio da SCA! Você se inscreveu?
-date: 2011-04-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/04/28/resultado-do-sorteio/
 permalink: /2011/04/28/resultado-do-sorteio/
 categories:
   - Promoção
@@ -18,7 +15,7 @@ E então? Você se inscreveu no **sorteio** do **Bicha Fêmea**, em parceria com
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Resultado-do-Sorteio-SCA.jpg"><img class="alignnone size-full wp-image-6295" title="Resultado do Sorteio SCA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Resultado-do-Sorteio-SCA.jpg" alt="" width="600" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/Resultado-do-Sorteio-SCA.jpg"><img class="alignnone size-full wp-image-6295" title="Resultado do Sorteio SCA" src="https://www.trololodemulher.com.br/2011/04/Resultado-do-Sorteio-SCA.jpg" alt="" width="600" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">

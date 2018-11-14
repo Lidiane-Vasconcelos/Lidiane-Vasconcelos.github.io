@@ -1,10 +1,7 @@
 ---
-id: 3759
 title: Você vive a solidão a dois? Saiba como sair dela.
-date: 2017-05-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/05/05/solidao-a-dois/
 permalink: /2017/05/05/solidao-a-dois/
 categories:
   - Comportamento
@@ -21,11 +18,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13784" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/05/CASAMENTO-SOLIDAO-A-DOIS.jpg" alt="CASAMENTO-SOLIDAO A DOIS" width="800" height="533" />
+  <img class="alignnone size-full wp-image-13784" src="https://www.trololodemulher.com.br/2017/05/CASAMENTO-SOLIDAO-A-DOIS.jpg" alt="CASAMENTO-SOLIDAO A DOIS" width="800" height="533" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://foter.com/re/0461ae" target="_blank">Foter.com</a>
+  Imagem: <a href="http://foter.com/re/0461ae" target="_blank" rel="noopener noreferrer">Foter.com</a>
 </p>
 
 &nbsp;
@@ -63,7 +60,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12109" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/ELAINE-SIBINELLI-PSICOLOGA-CAMPINAS.jpg" alt="ELAINE SIBINELLI - PSICOLOGA - CAMPINAS" width="800" height="179" />
+  <img class="alignnone size-full wp-image-12109" src="https://www.trololodemulher.com.br/2016/03/ELAINE-SIBINELLI-PSICOLOGA-CAMPINAS.jpg" alt="ELAINE SIBINELLI - PSICOLOGA - CAMPINAS" width="800" height="179" />
 </p>
 
 <p align="justify">
@@ -71,23 +68,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/09/16/relacionamento-2/" target="_blank"><strong>Como encontrar a pessoa certa para um relacionamento?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/09/16/relacionamento-2/" target="_blank" rel="noopener noreferrer"><strong>Como encontrar a pessoa certa para um relacionamento?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/08/12/intolerancia/" target="_blank"><strong>Como lidar com a intolerância, nossa e dos outros?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/08/12/intolerancia/" target="_blank" rel="noopener noreferrer"><strong>Como lidar com a intolerância, nossa e dos outros?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/05/13/relacionamento-com-as-pessoas/" target="_blank"><strong>Entenda por que é difícil o relacionamento com as pessoas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/05/13/relacionamento-com-as-pessoas/" target="_blank" rel="noopener noreferrer"><strong>Entenda por que é difícil o relacionamento com as pessoas.</strong></a>
 </p>
 
 <p align="justify">
-  Elaine atende na Av. Nossa Senhora da Consolação, 768, Jardim Aurélia – Campinas SP. Fones: (19) 3385-8241 ou (19) 99785-5505. Para mais informações junto à Psicóloga você ainda pode entrar em contato pelo e-mail <a href="mailto:sibinelllipsico@gmail.com">sibinelllipsico@gmail.com</a>. Ela também tem <strong>página do Facebook</strong>, onde há atualização de conteúdo sobre comportamento que, certamente, pode ajudar a todas nós. <a href="https://www.facebook.com/ElaineSibinelliPsicologaClinica/timeline" target="_blank">Clique aqui e curta</a>! Além do mais, você também pode seguir o perfil da Psicóloga no Instagram. <a href="https://www.instagram.com/psicologiaxreiki/" target="_blank">Clique aqui, siga</a> e fique por dentro de suas ricas atualizações.
+  Elaine atende na Av. Nossa Senhora da Consolação, 768, Jardim Aurélia – Campinas SP. Fones: (19) 3385-8241 ou (19) 99785-5505. Para mais informações junto à Psicóloga você ainda pode entrar em contato pelo e-mail <a href="mailto:sibinelllipsico@gmail.com">sibinelllipsico@gmail.com</a>. Ela também tem <strong>página do Facebook</strong>, onde há atualização de conteúdo sobre comportamento que, certamente, pode ajudar a todas nós. <a href="https://www.facebook.com/ElaineSibinelliPsicologaClinica/timeline" target="_blank" rel="noopener noreferrer">Clique aqui e curta</a>! Além do mais, você também pode seguir o perfil da Psicóloga no Instagram. <a href="https://www.instagram.com/psicologiaxreiki/" target="_blank" rel="noopener noreferrer">Clique aqui, siga</a> e fique por dentro de suas ricas atualizações.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

@@ -1,10 +1,7 @@
 ---
-id: 3371
 title: Como receber em um espaço pequeno? Dicas valiosas!
-date: 2014-11-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/11/17/receber-espaco-pequeno/
 permalink: /2014/11/17/receber-espaco-pequeno/
 categories:
   - Dicas de Decoração
@@ -40,7 +37,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO2.png"><img class="alignnone size-full wp-image-10590" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO2.png" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[2]" width="700" height="719" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO2.png"><img class="alignnone size-full wp-image-10590" src="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO2.png" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[2]" width="700" height="719" /></a>
 </p>
 
 <p align="center">
@@ -56,23 +53,23 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO3.png"><img class="alignnone size-full wp-image-10599" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO3.png" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[3]" width="700" height="700" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO3.png"><img class="alignnone size-full wp-image-10599" src="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO3.png" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[3]" width="700" height="700" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO4.png"><img class="alignnone size-full wp-image-10600" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO4.png" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[4]" width="700" height="776" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO4.png"><img class="alignnone size-full wp-image-10600" src="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO4.png" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[4]" width="700" height="776" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO5.png"><img class="alignnone size-full wp-image-10591" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO5.png" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[5]" width="800" height="390" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO5.png"><img class="alignnone size-full wp-image-10591" src="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO5.png" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[5]" width="800" height="390" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO11.png"><img class="alignnone size-full wp-image-10598" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO11.png" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[11]" width="800" height="390" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO11.png"><img class="alignnone size-full wp-image-10598" src="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO11.png" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[11]" width="800" height="390" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO6.png"><img class="alignnone size-full wp-image-10592" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO6.png" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[6]" width="700" height="700" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO6.png"><img class="alignnone size-full wp-image-10592" src="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO6.png" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[6]" width="700" height="700" /></a>
 </p>
 
 <p align="center">
@@ -80,15 +77,15 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO7.jpg"><img class="alignnone size-full wp-image-10593" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO7.jpg" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[7]" width="512" height="796" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO7.jpg"><img class="alignnone size-full wp-image-10593" src="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO7.jpg" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[7]" width="512" height="796" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO8.png"><img class="alignnone size-full wp-image-10594" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO8.png" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[8]" width="545" height="361" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO8.png"><img class="alignnone size-full wp-image-10594" src="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO8.png" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[8]" width="545" height="361" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO9.png"><img class="alignnone size-full wp-image-10595" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO9.png" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[9]" width="545" height="361" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO9.png"><img class="alignnone size-full wp-image-10595" src="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO9.png" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[9]" width="545" height="361" /></a>
 </p>
 
 <p align="center">
@@ -104,7 +101,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO10.png"><img class="alignnone size-full wp-image-10597" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO10.png" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[10]" width="545" height="520" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO10.png"><img class="alignnone size-full wp-image-10597" src="https://www.trololodemulher.com.br/2014/11/ESTILO-RECEBER-FESTAS-FIM-DE-ANO10.png" alt="ESTILO-RECEBER-FESTAS FIM DE ANO[10]" width="545" height="520" /></a>
 </p>
 
 <p align="center">
@@ -149,7 +146,7 @@ categories:
 >           </blockquote> 
 >           
 >           <p align="center">
->             <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/KATIA-BONFADINI.png"><img class="alignnone size-full wp-image-9107" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/KATIA-BONFADINI.png" alt="KATIA BONFADINI" width="529" height="288" /></a>
+>             <a href="https://www.trololodemulher.com.br/2012/09/KATIA-BONFADINI.png"><img class="alignnone size-full wp-image-9107" src="https://www.trololodemulher.com.br/2012/09/KATIA-BONFADINI.png" alt="KATIA BONFADINI" width="529" height="288" /></a>
 >           </p>
 >           
 >           <p align="justify">
@@ -157,25 +154,25 @@ categories:
 >           </p>
 >           
 >           <p align="justify">
->             <strong><a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/" target="_blank">Você está em terras cariocas e curte comer bem? Este post é para você!</a></strong>
+>             <strong><a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/" target="_blank" rel="noopener noreferrer">Você está em terras cariocas e curte comer bem? Este post é para você!</a></strong>
 >           </p>
 >           
 >           <p align="justify">
->             <strong><a href="http://www.trololodemulher.com.br/2011/12/21/cozinha-utensilios-design/" target="_blank">Cozinha com estilo e design… quem não quer?</a></strong>
+>             <strong><a href="http://www.trololodemulher.com.br/2011/12/21/cozinha-utensilios-design/" target="_blank" rel="noopener noreferrer">Cozinha com estilo e design… quem não quer?</a></strong>
 >           </p>
 >           
 >           <p align="justify">
->             <strong><a href="http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/" target="_blank">Decoração “faça você mesma”: luminárias de taça de vinho.</a></strong>
+>             <strong><a href="http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/" target="_blank" rel="noopener noreferrer">Decoração “faça você mesma”: luminárias de taça de vinho.</a></strong>
 >           </p>
 >           
 >           <p align="justify">
->             <strong>Katia Bonfadini</strong> é uma blogueira das mais queridas, que edita seu <a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank">Casos e Coisas da Bonfa</a> com carinho e cuidado inquestionáveis. Essa moça bonita é formada em <em>Designer</em> Industrial e mostra seus trabalhos incríveis e lindos de viver ligados ao desenvolvimento de identidades visuais, o que inclui criação de logomarcas, cartões de visita, convites, <em>folders</em>, ilustrações, etc. Além do mais, quem acompanha o seu blog recebe generosas doses de inspiração sobre viagem, gastronomia e bem viver… quer espiar o blog da moça, certo? Se joga <a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank">clicando aqui</a>, bonita, e delicie-se!
+>             <strong>Katia Bonfadini</strong> é uma blogueira das mais queridas, que edita seu <a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Casos e Coisas da Bonfa</a> com carinho e cuidado inquestionáveis. Essa moça bonita é formada em <em>Designer</em> Industrial e mostra seus trabalhos incríveis e lindos de viver ligados ao desenvolvimento de identidades visuais, o que inclui criação de logomarcas, cartões de visita, convites, <em>folders</em>, ilustrações, etc. Além do mais, quem acompanha o seu blog recebe generosas doses de inspiração sobre viagem, gastronomia e bem viver… quer espiar o blog da moça, certo? Se joga <a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank" rel="noopener noreferrer">clicando aqui</a>, bonita, e delicie-se!
 >           </p>
 >           
 >           <p align="center">
->             <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+>             <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 >           </p>
 >           
 >           <p align="center">
->             <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+>             <a href="http://loja.trololodemulher.com.br/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-14333 size-full" src="https://www.trololodemulher.com.br/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 >           </p>

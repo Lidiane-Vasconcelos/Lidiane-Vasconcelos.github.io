@@ -1,10 +1,7 @@
 ---
-id: 3377
 title: 'Empreendedorismo feminino: 3 mulheres contaram tudo!'
-date: 2014-12-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/12/12/empreendedorismo-feminino/
 permalink: /2014/12/12/empreendedorismo-feminino/
 categories:
   - Empreendedorismo Feminino
@@ -19,7 +16,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/13/trabalho-empreendedorismo/" target="_blank"><strong>Trabalho: o que é mais importante na hora de empreender?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/06/13/trabalho-empreendedorismo/" target="_blank" rel="noopener noreferrer"><strong>Trabalho: o que é mais importante na hora de empreender?</strong></a>
 </p>
 
 <p align="justify">
@@ -31,15 +28,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/" target="_blank"><strong>O que faz uma mãe optar pelo trabalho autônomo?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/" target="_blank" rel="noopener noreferrer"><strong>O que faz uma mãe optar pelo trabalho autônomo?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO2.jpg"><img class="alignnone size-full wp-image-10648" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO2.jpg" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO FEMININO[2]" width="800" height="91" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO2.jpg"><img class="alignnone size-full wp-image-10648" src="https://www.trololodemulher.com.br/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO2.jpg" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO FEMININO[2]" width="800" height="91" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/TAIS-MARCAL-DOCES-CASEIROS-MARIA-MEL.png"><img class="alignnone size-full wp-image-10653" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/TAIS-MARCAL-DOCES-CASEIROS-MARIA-MEL.png" alt="TAIS MARCAL-DOCES CASEIROS-MARIA MEL" width="536" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/TAIS-MARCAL-DOCES-CASEIROS-MARIA-MEL.png"><img class="alignnone size-full wp-image-10653" src="https://www.trololodemulher.com.br/2014/12/TAIS-MARCAL-DOCES-CASEIROS-MARIA-MEL.png" alt="TAIS MARCAL-DOCES CASEIROS-MARIA MEL" width="536" height="800" /></a>
 </p>
 
 <p align="center">
@@ -47,7 +44,7 @@ categories:
 </p>
 
 <p align="justify">
-  A relação de Taís com os doces vem de muito tempo, de quando ela era ainda uma menina. Com 10 ou 11 anos cismou que iria aprender a fazer bolo de chocolate, com muito brigadeiro e… quer saber? Aquele capricho de menina dava sinais sobre por onde a mulher empreendedora do futuro iria enveredar: Taís deu início ao seu projeto literalmente delicioso, a empresa <strong><a href="https://www.facebook.com/cozinhamariamel/timeline" target="_blank">Maria Mel</a></strong>.
+  A relação de Taís com os doces vem de muito tempo, de quando ela era ainda uma menina. Com 10 ou 11 anos cismou que iria aprender a fazer bolo de chocolate, com muito brigadeiro e… quer saber? Aquele capricho de menina dava sinais sobre por onde a mulher empreendedora do futuro iria enveredar: Taís deu início ao seu projeto literalmente delicioso, a empresa <strong><a href="https://www.facebook.com/cozinhamariamel/timeline" target="_blank" rel="noopener noreferrer">Maria Mel</a></strong>.
 </p>
 
 <p align="justify">
@@ -67,11 +64,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO3.png"><img class="alignnone size-full wp-image-10649" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO3.png" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO FEMININO[3]" width="800" height="77" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO3.png"><img class="alignnone size-full wp-image-10649" src="https://www.trololodemulher.com.br/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO3.png" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO FEMININO[3]" width="800" height="77" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/LILIAN-JORDAO-CONSULTORIA-ESTILO-IMAGEM.jpg"><img class="alignnone size-full wp-image-10652" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/LILIAN-JORDAO-CONSULTORIA-ESTILO-IMAGEM.jpg" alt="LILIAN JORDAO-CONSULTORIA ESTILO-IMAGEM" width="532" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/LILIAN-JORDAO-CONSULTORIA-ESTILO-IMAGEM.jpg"><img class="alignnone size-full wp-image-10652" src="https://www.trololodemulher.com.br/2014/12/LILIAN-JORDAO-CONSULTORIA-ESTILO-IMAGEM.jpg" alt="LILIAN JORDAO-CONSULTORIA ESTILO-IMAGEM" width="532" height="800" /></a>
 </p>
 
 <p align="center">
@@ -83,7 +80,7 @@ categories:
 </p>
 
 <p align="justify">
-  Da ideia para a concretização do sonho do negócio ela não demorou muito, e começou tão logo concluiu o seu curso. Dessa forma, deu o início necessário a sua atuação como <strong><a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank">Consultora de Estilo</a></strong>. Entretanto, viu seu projeto ser alavancado quando idealizou algo inovador, o seu congresso &#8211; <strong><a href="https://www.facebook.com/conastyle/timeline" target="_blank">ConaStyle &#8211; Congresso Nacional de Estilo</a></strong>.
+  Da ideia para a concretização do sonho do negócio ela não demorou muito, e começou tão logo concluiu o seu curso. Dessa forma, deu o início necessário a sua atuação como <strong><a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank" rel="noopener noreferrer">Consultora de Estilo</a></strong>. Entretanto, viu seu projeto ser alavancado quando idealizou algo inovador, o seu congresso &#8211; <strong><a href="https://www.facebook.com/conastyle/timeline" target="_blank" rel="noopener noreferrer">ConaStyle &#8211; Congresso Nacional de Estilo</a></strong>.
 </p>
 
 <p align="justify">
@@ -95,11 +92,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO4.png"><img class="alignnone size-full wp-image-10650" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO4.png" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO FEMININO[4]" width="800" height="66" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO4.png"><img class="alignnone size-full wp-image-10650" src="https://www.trololodemulher.com.br/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO4.png" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO FEMININO[4]" width="800" height="66" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/ADRIANA-GALVAO-ARTESANATO-KECA-ATELIE.jpg"><img class="alignnone size-full wp-image-10646" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/ADRIANA-GALVAO-ARTESANATO-KECA-ATELIE.jpg" alt="ADRIANA GALVAO-ARTESANATO-KECA ATELIE" width="517" height="417" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/ADRIANA-GALVAO-ARTESANATO-KECA-ATELIE.jpg"><img class="alignnone size-full wp-image-10646" src="https://www.trololodemulher.com.br/2014/12/ADRIANA-GALVAO-ARTESANATO-KECA-ATELIE.jpg" alt="ADRIANA GALVAO-ARTESANATO-KECA ATELIE" width="517" height="417" /></a>
 </p>
 
 <p align="center">
@@ -111,11 +108,11 @@ categories:
 </p>
 
 <p align="justify">
-  A hora da virada se deu em 2012 quando, com o apoio do marido e da família, essa criativa corajosa resolveu assumir sua veia artística e deu a volta por cima: largou o emprego formal e investiu o seu tempo e seus esforços no seu negócio do coração. Foi assim que nasceu o <strong><a href="https://www.facebook.com/kecaatelie/timeline" target="_blank">KeCa Ateliê</a></strong>.
+  A hora da virada se deu em 2012 quando, com o apoio do marido e da família, essa criativa corajosa resolveu assumir sua veia artística e deu a volta por cima: largou o emprego formal e investiu o seu tempo e seus esforços no seu negócio do coração. Foi assim que nasceu o <strong><a href="https://www.facebook.com/kecaatelie/timeline" target="_blank" rel="noopener noreferrer">KeCa Ateliê</a></strong>.
 </p>
 
 <p align="justify">
-  <em>“Inicialmente vendi alguns mimos para amigos e estes foram indicando novos clientes, mas a </em><a href="http://www.vitrine.elo7.com.br/kecaatelie" target="_blank"><strong><em>loja virtual</em></strong></a><em> foi criada em conjunto. Quando fiz minha primeira venda pela loja virtual para uma pessoa que nunca tinha visto e de outro estado, foi um dia marcante e especial pra mim. Vi que estava no caminho certo. Hoje já temos mimos do <strong>KeCa ateliê</strong> em todos os estados da federação, EUA e Argentina. Costumo dizer no grupo de clientes do facebook que nossa família está crescendo, já somos mais de 450 membros, 450 pessoas que valorizam o meu trabalho e que apreciam a minha arte</em>”, revela Adriana, orgulhosa de seu feito. E não é pra menos!
+  <em>“Inicialmente vendi alguns mimos para amigos e estes foram indicando novos clientes, mas a </em><a href="http://www.vitrine.elo7.com.br/kecaatelie" target="_blank" rel="noopener noreferrer"><strong><em>loja virtual</em></strong></a><em> foi criada em conjunto. Quando fiz minha primeira venda pela loja virtual para uma pessoa que nunca tinha visto e de outro estado, foi um dia marcante e especial pra mim. Vi que estava no caminho certo. Hoje já temos mimos do <strong>KeCa ateliê</strong> em todos os estados da federação, EUA e Argentina. Costumo dizer no grupo de clientes do facebook que nossa família está crescendo, já somos mais de 450 membros, 450 pessoas que valorizam o meu trabalho e que apreciam a minha arte</em>”, revela Adriana, orgulhosa de seu feito. E não é pra menos!
 </p>
 
 <p align="justify">
@@ -123,11 +120,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO5.png"><img class="alignnone size-full wp-image-10651" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO5.png" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO FEMININO[5]" width="800" height="66" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO5.png"><img class="alignnone size-full wp-image-10651" src="https://www.trololodemulher.com.br/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO5.png" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO FEMININO[5]" width="800" height="66" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO.jpg"><img class="alignnone size-full wp-image-10647" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO.jpg" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO FEMININO" width="635" height="375" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO.jpg"><img class="alignnone size-full wp-image-10647" src="https://www.trololodemulher.com.br/2014/12/EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO-FEMININO.jpg" alt="EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO-CARREIRA-NEGOCIO-COMPORTAMENTO-COMPORTAMENTO FEMININO" width="635" height="375" /></a>
 </p>
 
 <p align="center">
@@ -143,7 +140,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/08/16/margaret-empreendedorismo/" target="_blank"><strong>Qual é o mistério do sucesso da Margaret?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/08/16/margaret-empreendedorismo/" target="_blank" rel="noopener noreferrer"><strong>Qual é o mistério do sucesso da Margaret?</strong></a>
 </p>
 
 <p align="justify">
@@ -151,19 +148,19 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Uma dica é sempre acreditar em seus sonhos, fazer tudo com dedicação, aprender sempre, e nunca, nunca, nunca desistir, por que um dia se torna realidade, se focar realmente no que quer. Fé e foco! O tempo que vai demorar, não importa, o tempo passa de qualquer forma, então aproveita para subir de um em um degrau até chegar lá!” Taís Marçal – </strong><a href="https://www.facebook.com/cozinhamariamel/timeline" target="_blank"><strong>Maria Mel</strong></a>
+>   <strong>Uma dica é sempre acreditar em seus sonhos, fazer tudo com dedicação, aprender sempre, e nunca, nunca, nunca desistir, por que um dia se torna realidade, se focar realmente no que quer. Fé e foco! O tempo que vai demorar, não importa, o tempo passa de qualquer forma, então aproveita para subir de um em um degrau até chegar lá!” Taís Marçal – </strong><a href="https://www.facebook.com/cozinhamariamel/timeline" target="_blank" rel="noopener noreferrer"><strong>Maria Mel</strong></a>
 > </p>
 
 > <p align="justify">
->   <strong>Perfil Empreendedor; Buscar conhecimento sempre; Tirar a ideia do papel; Conheça sua área; Errar é humano; Nunca desista dos seus sonhos; Ame o que você faz.” Lilian Jordão – </strong><a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank"><strong>Consultoria de Estilo</strong></a>
+>   <strong>Perfil Empreendedor; Buscar conhecimento sempre; Tirar a ideia do papel; Conheça sua área; Errar é humano; Nunca desista dos seus sonhos; Ame o que você faz.” Lilian Jordão – </strong><a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank" rel="noopener noreferrer"><strong>Consultoria de Estilo</strong></a>
 > </p>
 
 > <p align="justify">
->   <strong>Minha dica pra quem quer viver exclusivamente de sua arte é concentrar-se no que faz de melhor e depois partir para novos desafios. Investir tempo para criar uma identidade para seu trabalho, um conceito, algo que faça as pessoas perceberem o quanto de paixão e de carinho há em cada detalhe da sua peça. Não tenha medo de colocar mais de você em sua marca. Por fim, persistir sempre!” Adriana Galvão – </strong><a href="https://www.facebook.com/kecaatelie/timeline" target="_blank"><strong>KeCa Ateliê</strong></a>
+>   <strong>Minha dica pra quem quer viver exclusivamente de sua arte é concentrar-se no que faz de melhor e depois partir para novos desafios. Investir tempo para criar uma identidade para seu trabalho, um conceito, algo que faça as pessoas perceberem o quanto de paixão e de carinho há em cada detalhe da sua peça. Não tenha medo de colocar mais de você em sua marca. Por fim, persistir sempre!” Adriana Galvão – </strong><a href="https://www.facebook.com/kecaatelie/timeline" target="_blank" rel="noopener noreferrer"><strong>KeCa Ateliê</strong></a>
 > </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

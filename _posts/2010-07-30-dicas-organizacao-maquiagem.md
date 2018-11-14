@@ -1,10 +1,7 @@
 ---
-id: 2853
 title: Dicas para organizar sua maquiagem.
-date: 2010-07-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/07/30/dicas-organizacao-maquiagem/
 permalink: /2010/07/30/dicas-organizacao-maquiagem/
 categories:
   - Beleza
@@ -29,7 +26,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/estojo-maquiagem.jpg"><img class="size-medium wp-image-5000 aligncenter" title="estojo maquiagem" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/estojo-maquiagem-300x225.jpg" alt="" width="300" height="225" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/estojo-maquiagem.jpg"><img class="size-medium wp-image-5000 aligncenter" title="estojo maquiagem" src="https://www.trololodemulher.com.br/2010/07/estojo-maquiagem-300x225.jpg" alt="" width="300" height="225" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -37,7 +34,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  2 – <strong><em>Retire</em></strong> do seu montante de maquiagens o que <strong><em>está vencido ou algum item quebrado</em></strong>. Lembre-se de sempre <strong><em>anotar o vencimento de cada item</em></strong>, hein? Se eles constam apenas na embalagem, <strong><em>a dica é você anotar em algum lugar</em></strong>. Eu, que <strong><em>sou adepta de agendas, costumo anotar esse tipo de informação nelas</em></strong>. Certamente você encontrará sua melhor forma. Em <strong><em>média, o prazo de validade dos produtos são os seguintes,</em></strong> de acordo com o <a href="http://www.organizesuavida.com.br/si/site/1013" target="_blank">artigo publicado sobre organização de maquiagem</a>, pela <a href="http://www.organizesuavida.com.br/si/site/0000" target="_blank">OZ</a>!:
+  2 – <strong><em>Retire</em></strong> do seu montante de maquiagens o que <strong><em>está vencido ou algum item quebrado</em></strong>. Lembre-se de sempre <strong><em>anotar o vencimento de cada item</em></strong>, hein? Se eles constam apenas na embalagem, <strong><em>a dica é você anotar em algum lugar</em></strong>. Eu, que <strong><em>sou adepta de agendas, costumo anotar esse tipo de informação nelas</em></strong>. Certamente você encontrará sua melhor forma. Em <strong><em>média, o prazo de validade dos produtos são os seguintes,</em></strong> de acordo com o <a href="http://www.organizesuavida.com.br/si/site/1013" target="_blank" rel="noopener noreferrer">artigo publicado sobre organização de maquiagem</a>, pela <a href="http://www.organizesuavida.com.br/si/site/0000" target="_blank" rel="noopener noreferrer">OZ</a>!:
 </p>
 
 <p style="text-align: justify;">
@@ -65,7 +62,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/organizador-de-maquiagem1.jpg"><img class="size-medium wp-image-5003 aligncenter" title="organizador de maquiagem" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/organizador-de-maquiagem1-199x300.jpg" alt="" width="199" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/organizador-de-maquiagem1.jpg"><img class="size-medium wp-image-5003 aligncenter" title="organizador de maquiagem" src="https://www.trololodemulher.com.br/2010/07/organizador-de-maquiagem1-199x300.jpg" alt="" width="199" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -73,7 +70,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em><span style="font-size: x-small;">Imagens: </span><a href="http://www.sxc.hu/ " target="_blank"><span style="font-size: x-small;">stock.xchng</span></a></em>
+  <em><span style="font-size: x-small;">Imagens: </span><a href="http://www.sxc.hu/ " target="_blank" rel="noopener noreferrer"><span style="font-size: x-small;">stock.xchng</span></a></em>
 </p>
 
 <p style="text-align: justify;">

@@ -1,10 +1,7 @@
 ---
-id: 3491
 title: Sorteio (simples de tudo) de relicário lindo de viver.
-date: 2015-09-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/09/24/sorteio-customize-sk/
 permalink: /2015/09/24/sorteio-customize-sk/
 categories:
   - Moda
@@ -16,7 +13,7 @@ categories:
 </p>
 
 <p align="justify">
-  Não faz muito tempo eu apresentei pra você a <a href="http://www.trololodemulher.com.br/2015/08/18/sorelle-kleis/" target="_blank">Customize SK</a>, das irmãs Lyvia e Alessandra. A proposta das meninas é linda, porque permite que possamos customizar nossos acessórios de acordo com nossa história pessoal. A gente escolhe pequenos componentes para personalizar colares ou pulseiras, por exemplo, dando significado a cada pequena parte. O resultado é uma peça cheia de estilo e personalidade, que mais do que nos enfeitar, carrega junto o nosso coração, memórias e muito afeto. Não é pra viver de amores?
+  Não faz muito tempo eu apresentei pra você a <a href="http://www.trololodemulher.com.br/2015/08/18/sorelle-kleis/" target="_blank" rel="noopener noreferrer">Customize SK</a>, das irmãs Lyvia e Alessandra. A proposta das meninas é linda, porque permite que possamos customizar nossos acessórios de acordo com nossa história pessoal. A gente escolhe pequenos componentes para personalizar colares ou pulseiras, por exemplo, dando significado a cada pequena parte. O resultado é uma peça cheia de estilo e personalidade, que mais do que nos enfeitar, carrega junto o nosso coração, memórias e muito afeto. Não é pra viver de amores?
 </p>
 
 <p align="justify">
@@ -24,7 +21,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RELICÁRIO4.jpg"><img class="alignnone size-full wp-image-11514" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/09/RELICÁRIO4.jpg" alt="RELICÁRIO[4]" width="800" height="671" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/09/RELICÁRIO4.jpg"><img class="alignnone size-full wp-image-11514" src="https://www.trololodemulher.com.br/2015/09/RELICÁRIO4.jpg" alt="RELICÁRIO[4]" width="800" height="671" /></a>
 </p>
 
 <p align="center">
@@ -32,7 +29,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>O relicário pode ser usado junto com qualquer peça de roupa e ocasiões. Não pense que esses lindos colares têm idade para ser usado. Basta customizá-lo de acordo com seu gosto e estilo. Ele é super neutro e fica bem legal misturar com outras correntinhas. Este tem duas opções de uso: a frente com strass e a sem strass, é só virar os pins e a placa. Pode ser complementado com pingentes na corrente e outras opções de pins, que você encontra na nosso </em><a href="www.customiesk.com.br" target="_blank"><em>loja virtual</em></a><em>. Se preferir, pode revelar uma foto e substituir pela placa. Um colar com muitas possibilidades de estilos e gostos. Só usar a imaginação e criatividade, uma boa opção para compor qualquer look</em>”. <strong>Lyvia Kleis</strong>
+  “<em>O relicário pode ser usado junto com qualquer peça de roupa e ocasiões. Não pense que esses lindos colares têm idade para ser usado. Basta customizá-lo de acordo com seu gosto e estilo. Ele é super neutro e fica bem legal misturar com outras correntinhas. Este tem duas opções de uso: a frente com strass e a sem strass, é só virar os pins e a placa. Pode ser complementado com pingentes na corrente e outras opções de pins, que você encontra na nosso </em><a href="www.customiesk.com.br" target="_blank" rel="noopener noreferrer"><em>loja virtual</em></a><em>. Se preferir, pode revelar uma foto e substituir pela placa. Um colar com muitas possibilidades de estilos e gostos. Só usar a imaginação e criatividade, uma boa opção para compor qualquer look</em>”. <strong>Lyvia Kleis</strong>
 </p>
 
 <p align="justify">
@@ -60,7 +57,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/Resultado-Sorteio.jpg"><img class="alignnone size-full wp-image-11554" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/Resultado-Sorteio.jpg" alt="Resultado Sorteio" width="800" height="408" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/Resultado-Sorteio.jpg"><img class="alignnone size-full wp-image-11554" src="https://www.trololodemulher.com.br/2015/10/Resultado-Sorteio.jpg" alt="Resultado Sorteio" width="800" height="408" /></a>
 </p>
 
 <p align="justify">
@@ -76,5 +73,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

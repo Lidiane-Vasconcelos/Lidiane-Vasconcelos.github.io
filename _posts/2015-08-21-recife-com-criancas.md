@@ -1,24 +1,21 @@
 ---
-id: 3469
 title: 'Agenda Recife com crianças: 22 e 23 de Agosto'
-date: 2015-08-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/08/21/recife-com-criancas/
 permalink: /2015/08/21/recife-com-criancas/
 categories:
   - Sem categoria
 ---
 <p align="justify">
-  E vem chegando o final de semana! Eba! Delícia é viver a vida em família, e por isso essa é mais uma novidade por aqui: agenda <strong>Recife com crianças</strong>, mostrando atividades para fazer em família na capital pernambucana. Não faz muito tempo houve o lançamento da Agenda Cultural – São Paulo com crinças, que será mensal e alimentada pela Adriana Minhoto. Se você é de Sampa e não viu, não perca tempo e <a href="http://www.trololodemulher.com.br/2015/07/31/sao-paulo-com-criancas/" target="_blank">clique aqui</a>. Esta de Recife eu pretendo que seja semanal e quem vai cuidar dela sou eu mesma. Espero que você curta tanto quanto estou curtindo a  ideia de produzí-la… porque eu quero mais é ser feliz com meus amados e quero que você entre nessa frequência junto comigo, e aprecie a vida com o seus. <em>Bora</em>?!
+  E vem chegando o final de semana! Eba! Delícia é viver a vida em família, e por isso essa é mais uma novidade por aqui: agenda <strong>Recife com crianças</strong>, mostrando atividades para fazer em família na capital pernambucana. Não faz muito tempo houve o lançamento da Agenda Cultural – São Paulo com crinças, que será mensal e alimentada pela Adriana Minhoto. Se você é de Sampa e não viu, não perca tempo e <a href="http://www.trololodemulher.com.br/2015/07/31/sao-paulo-com-criancas/" target="_blank" rel="noopener noreferrer">clique aqui</a>. Esta de Recife eu pretendo que seja semanal e quem vai cuidar dela sou eu mesma. Espero que você curta tanto quanto estou curtindo a  ideia de produzí-la… porque eu quero mais é ser feliz com meus amados e quero que você entre nessa frequência junto comigo, e aprecie a vida com o seus. <em>Bora</em>?!
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/AGENDA-CULTURAL-RECIFE-CRIANÇAS.jpg"><img class="alignnone size-full wp-image-11341" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/AGENDA-CULTURAL-RECIFE-CRIANÇAS.jpg" alt="AGENDA CULTURAL - RECIFE -CRIANÇAS" width="800" height="529" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/AGENDA-CULTURAL-RECIFE-CRIANÇAS.jpg"><img class="alignnone size-full wp-image-11341" src="https://www.trololodemulher.com.br/2015/08/AGENDA-CULTURAL-RECIFE-CRIANÇAS.jpg" alt="AGENDA CULTURAL - RECIFE -CRIANÇAS" width="800" height="529" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://www.flickr.com/photos/tacoekkel/" target="_blank">[2]</a><b> / </b><a href="http://foter.com/" target="_blank">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Via <a href="http://www.flickr.com/photos/tacoekkel/" target="_blank" rel="noopener noreferrer">[2]</a><b> / </b><a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener noreferrer">CC BY</a>
 </p>
 
 <p align="justify">
@@ -26,23 +23,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Manhãs Analógicas – </strong><a href="http://zepelimbrinquedos.com.br/" target="_blank"><strong>Zepelim</strong></a><strong> {Rua da Hora} e Manhãs Lúdicas – </strong><a href="http://zepelimbrinquedos.com.br/" target="_blank"><strong>Zepelim Brinquedos Educativos</strong></a><strong> e </strong><a href="https://www.facebook.com/pages/ReiNoceronte/717931391561337?sk=timeline" target="_blank"><strong>Reinoceronte</strong></a>
+  <strong>Manhãs Analógicas – </strong><a href="http://zepelimbrinquedos.com.br/" target="_blank" rel="noopener noreferrer"><strong>Zepelim</strong></a><strong> {Rua da Hora} e Manhãs Lúdicas – </strong><a href="http://zepelimbrinquedos.com.br/" target="_blank" rel="noopener noreferrer"><strong>Zepelim Brinquedos Educativos</strong></a><strong> e </strong><a href="https://www.facebook.com/pages/ReiNoceronte/717931391561337?sk=timeline" target="_blank" rel="noopener noreferrer"><strong>Reinoceronte</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ZEPELIM-BRINQUEDOS-EDUCATIVOS.png"><img class="alignnone size-full wp-image-11349" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ZEPELIM-BRINQUEDOS-EDUCATIVOS.png" alt="ZEPELIM BRINQUEDOS EDUCATIVOS" width="612" height="612" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/ZEPELIM-BRINQUEDOS-EDUCATIVOS.png"><img class="alignnone size-full wp-image-11349" src="https://www.trololodemulher.com.br/2015/08/ZEPELIM-BRINQUEDOS-EDUCATIVOS.png" alt="ZEPELIM BRINQUEDOS EDUCATIVOS" width="612" height="612" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ZEPELIM-BRINQUEDOS-EDUCATIVOS-REINOCERONTE.png"><img class="alignnone size-full wp-image-11348" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/ZEPELIM-BRINQUEDOS-EDUCATIVOS-REINOCERONTE.png" alt="ZEPELIM BRINQUEDOS EDUCATIVOS - REINOCERONTE" width="612" height="612" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/ZEPELIM-BRINQUEDOS-EDUCATIVOS-REINOCERONTE.png"><img class="alignnone size-full wp-image-11348" src="https://www.trololodemulher.com.br/2015/08/ZEPELIM-BRINQUEDOS-EDUCATIVOS-REINOCERONTE.png" alt="ZEPELIM BRINQUEDOS EDUCATIVOS - REINOCERONTE" width="612" height="612" /></a>
 </p>
 
 <p align="justify">
-  <strong>#PartiuVacina – Campanha Nacional Contra Poliomielite – <a href="http://www2.recife.pe.gov.br/" target="_blank">Prefeitura do Recife</a></strong>
+  <strong>#PartiuVacina – Campanha Nacional Contra Poliomielite – <a href="http://www2.recife.pe.gov.br/" target="_blank" rel="noopener noreferrer">Prefeitura do Recife</a></strong>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/VACINA.png"><img class="alignnone size-full wp-image-11347" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/VACINA.png" alt="VACINA" width="800" height="537" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/VACINA.png"><img class="alignnone size-full wp-image-11347" src="https://www.trololodemulher.com.br/2015/08/VACINA.png" alt="VACINA" width="800" height="537" /></a>
 </p>
 
 <p align="justify">
@@ -54,11 +51,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>OLHA! RECIFE – </strong><a href="http://www.olharecife.com.br/" target="_blank"><strong>Olha Recife</strong></a><strong> – Passeio Pedalando</strong>
+  <strong>OLHA! RECIFE – </strong><a href="http://www.olharecife.com.br/" target="_blank" rel="noopener noreferrer"><strong>Olha Recife</strong></a><strong> – Passeio Pedalando</strong>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/OLHA-RECIFE.jpg"><img class="alignnone size-full wp-image-11346" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/OLHA-RECIFE.jpg" alt="OLHA RECIFE" width="800" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/OLHA-RECIFE.jpg"><img class="alignnone size-full wp-image-11346" src="https://www.trololodemulher.com.br/2015/08/OLHA-RECIFE.jpg" alt="OLHA RECIFE" width="800" height="800" /></a>
 </p>
 
 <p align="justify">
@@ -66,11 +63,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>OLHA! RECIFE – </strong><a href="http://www.olharecife.com.br/" target="_blank"><strong>Olha Recife</strong></a><strong> – Passeio à Pé</strong>
+  <strong>OLHA! RECIFE – </strong><a href="http://www.olharecife.com.br/" target="_blank" rel="noopener noreferrer"><strong>Olha Recife</strong></a><strong> – Passeio à Pé</strong>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/OLHA-RECIFE-2.jpg"><img class="alignnone size-full wp-image-11345" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/OLHA-RECIFE-2.jpg" alt="OLHA RECIFE [2]" width="800" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/OLHA-RECIFE-2.jpg"><img class="alignnone size-full wp-image-11345" src="https://www.trololodemulher.com.br/2015/08/OLHA-RECIFE-2.jpg" alt="OLHA RECIFE [2]" width="800" height="800" /></a>
 </p>
 
 <p align="justify">
@@ -82,11 +79,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Sonoros Ofícios – Cantos de Trabalho – </strong><a href="http://www.caisdosertao.com.br/" target="_blank"><strong>Museu Cais do Sertão</strong></a>
+  <strong>Sonoros Ofícios – Cantos de Trabalho – </strong><a href="http://www.caisdosertao.com.br/" target="_blank" rel="noopener noreferrer"><strong>Museu Cais do Sertão</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/MUSEU-CAIS-DO-SERTÃO.jpg"><img class="alignnone size-full wp-image-11344" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/MUSEU-CAIS-DO-SERTÃO.jpg" alt="MUSEU CAIS DO SERTÃO" width="583" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/MUSEU-CAIS-DO-SERTÃO.jpg"><img class="alignnone size-full wp-image-11344" src="https://www.trololodemulher.com.br/2015/08/MUSEU-CAIS-DO-SERTÃO.jpg" alt="MUSEU CAIS DO SERTÃO" width="583" height="800" /></a>
 </p>
 
 <p align="justify">
@@ -104,7 +101,7 @@ categories:
 23/08 &#8211; Quebradeiras de Coco Babaçu (MA)
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

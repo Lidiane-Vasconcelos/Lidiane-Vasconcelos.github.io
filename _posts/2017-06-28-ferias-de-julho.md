@@ -1,10 +1,7 @@
 ---
-id: 3777
 title: Aviso de férias de Julho do blog
-date: 2017-06-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/06/28/ferias-de-julho/
 permalink: /2017/06/28/ferias-de-julho/
 categories:
   - Trololó
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13924" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/06/FERIAS-JULHO-20172.jpg" alt="FERIAS-JULHO-2017[2]" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13924" src="https://www.trololodemulher.com.br/2017/06/FERIAS-JULHO-20172.jpg" alt="FERIAS-JULHO-2017[2]" width="800" height="800" />
 </p>
 
 <p align="justify">
@@ -38,5 +35,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

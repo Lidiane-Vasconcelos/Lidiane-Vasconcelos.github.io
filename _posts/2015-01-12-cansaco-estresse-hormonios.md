@@ -1,10 +1,7 @@
 ---
-id: 3385
 title: Cansaço ou estresse? Que nada! São seus hormônios!
-date: 2015-01-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/01/12/cansaco-estresse-hormonios/
 permalink: /2015/01/12/cansaco-estresse-hormonios/
 categories:
   - Bem-estar
@@ -19,7 +16,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS.jpg"><img class="alignnone size-full wp-image-10694" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS.jpg" alt="SAUDE-SAUDE DA MULHER-BEM-ESTAR-HORMONIOS" width="533" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS.jpg"><img class="alignnone size-full wp-image-10694" src="https://www.trololodemulher.com.br/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS.jpg" alt="SAUDE-SAUDE DA MULHER-BEM-ESTAR-HORMONIOS" width="533" height="800" /></a>
 </p>
 
 <p align="center">
@@ -27,7 +24,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS2.jpg"><img class="alignnone size-full wp-image-10698" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS2.jpg" alt="SAUDE-SAUDE DA MULHER-BEM-ESTAR-HORMONIOS[2]" width="800" height="82" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS2.jpg"><img class="alignnone size-full wp-image-10698" src="https://www.trololodemulher.com.br/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS2.jpg" alt="SAUDE-SAUDE DA MULHER-BEM-ESTAR-HORMONIOS[2]" width="800" height="82" /></a>
 </p>
 
 <p align="justify">
@@ -47,11 +44,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank"><strong>O que a meditação pode fazer por seu bem-estar e saúde?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank" rel="noopener noreferrer"><strong>O que a meditação pode fazer por seu bem-estar e saúde?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS3.png"><img class="alignnone size-full wp-image-10699" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS3.png" alt="SAUDE-SAUDE DA MULHER-BEM-ESTAR-HORMONIOS[3]" width="734" height="102" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS3.png"><img class="alignnone size-full wp-image-10699" src="https://www.trololodemulher.com.br/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS3.png" alt="SAUDE-SAUDE DA MULHER-BEM-ESTAR-HORMONIOS[3]" width="734" height="102" /></a>
 </p>
 
 <p align="justify">
@@ -95,15 +92,15 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS4.png"><img class="alignnone size-full wp-image-10700" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS4.png" alt="SAUDE-SAUDE DA MULHER-BEM-ESTAR-HORMONIOS[4]" width="405" height="100" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS4.png"><img class="alignnone size-full wp-image-10700" src="https://www.trololodemulher.com.br/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS4.png" alt="SAUDE-SAUDE DA MULHER-BEM-ESTAR-HORMONIOS[4]" width="405" height="100" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS-INSONIA.jpg"><img class="alignnone size-full wp-image-10696" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS-INSONIA.jpg" alt="SAUDE-SAUDE DA MULHER-BEM-ESTAR-HORMONIOS-INSONIA" width="500" height="375" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS-INSONIA.jpg"><img class="alignnone size-full wp-image-10696" src="https://www.trololodemulher.com.br/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS-INSONIA.jpg" alt="SAUDE-SAUDE DA MULHER-BEM-ESTAR-HORMONIOS-INSONIA" width="500" height="375" /></a>
 </p>
 
 <p style="text-align: center;">
-  Imagem: <a href="http://www.womansday.com/health-fitness/conditions-diseases/sleep-deprivation-effects#slide-1" target="_blank">Woman´s Day</a>
+  Imagem: <a href="http://www.womansday.com/health-fitness/conditions-diseases/sleep-deprivation-effects#slide-1" target="_blank" rel="noopener noreferrer">Woman´s Day</a>
 </p>
 
 <p align="justify">
@@ -119,11 +116,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/05/20/o-que-voce-faz-para-dormir-bem/" target="_blank"><strong>O que fazer para dormir bem?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/05/20/o-que-voce-faz-para-dormir-bem/" target="_blank" rel="noopener noreferrer"><strong>O que fazer para dormir bem?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS5.png"><img class="alignnone size-full wp-image-10701" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS5.png" alt="SAUDE-SAUDE DA MULHER-BEM-ESTAR-HORMONIOS[5]" width="781" height="95" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS5.png"><img class="alignnone size-full wp-image-10701" src="https://www.trololodemulher.com.br/2015/01/SAUDE-SAUDE-DA-MULHER-BEM-ESTAR-HORMONIOS5.png" alt="SAUDE-SAUDE DA MULHER-BEM-ESTAR-HORMONIOS[5]" width="781" height="95" /></a>
 </p>
 
 <p align="justify">
@@ -131,15 +128,15 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/PAULA-PIRES-ENDOCRINOLOGISTA-SAO-PAULO-SP.png"><img class="alignnone size-full wp-image-10693" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/PAULA-PIRES-ENDOCRINOLOGISTA-SAO-PAULO-SP.png" alt="PAULA PIRES-ENDOCRINOLOGISTA-SAO PAULO-SP" width="800" height="192" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/PAULA-PIRES-ENDOCRINOLOGISTA-SAO-PAULO-SP.png"><img class="alignnone size-full wp-image-10693" src="https://www.trololodemulher.com.br/2015/01/PAULA-PIRES-ENDOCRINOLOGISTA-SAO-PAULO-SP.png" alt="PAULA PIRES-ENDOCRINOLOGISTA-SAO PAULO-SP" width="800" height="192" /></a>
 </p>
 
 <p align="justify">
-  A <strong>Dra. Paula Pires </strong>pode ser encontrada pessoalmente em seu consultório, na cidade de São Paulo. Seu atendimento se dá mediante agendamento prévio, e você pode saber mais detalhes sobre como fazer isso <strong>visitando o site da médica</strong>. Além do mais, no site você encontra uma série de dicas importantes e que certamente farão diferença na sua qualidade de vida no dia a dia, dentre elas, inclusive, receitas saudáveis para serem incluídas em sua rotina alimentar. <a href="http://www.paulapiresendocrino.com.br/" target="_blank">Visite o site, clicando aqui</a>, e não perca a oportunidade de se manter informada pelo seu bem, e de sua família. Se joga!
+  A <strong>Dra. Paula Pires </strong>pode ser encontrada pessoalmente em seu consultório, na cidade de São Paulo. Seu atendimento se dá mediante agendamento prévio, e você pode saber mais detalhes sobre como fazer isso <strong>visitando o site da médica</strong>. Além do mais, no site você encontra uma série de dicas importantes e que certamente farão diferença na sua qualidade de vida no dia a dia, dentre elas, inclusive, receitas saudáveis para serem incluídas em sua rotina alimentar. <a href="http://www.paulapiresendocrino.com.br/" target="_blank" rel="noopener noreferrer">Visite o site, clicando aqui</a>, e não perca a oportunidade de se manter informada pelo seu bem, e de sua família. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

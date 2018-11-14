@@ -1,10 +1,7 @@
 ---
-id: 2755
 title: Dicas para automotivação na prática de exercícios físicos.
-date: 2009-12-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/12/28/dicas-exercicios-fisicos/
 permalink: /2009/12/28/dicas-exercicios-fisicos/
 categories:
   - Saúde
@@ -15,14 +12,14 @@ Pronto. Falei!
 
 A boa notícia é que sempre há uma estratégia, para a gente colocar em prática, no sentido de criar um ambiente (uma situação?) que nos motive a fazer exercícios físicos. Claro! Isso serve para você que pensa como eu, e não gosta de fazê-los. Quer descobrir qual o “pulo do gato”?<!--more-->
 
-Aprendi o que fazer para criar em mim o desejo pelo exercício físico quando estava no Twitter. Hã?!? Isso, bonita, no Twitter. Há alguma vantagem de estar por lá, afinal… aproveita e me segue aí, vai <a href="http://twitter.com/bichafemea" target="_blank">(@bichafemea)!!</a>
+Aprendi o que fazer para criar em mim o desejo pelo exercício físico quando estava no Twitter. Hã?!? Isso, bonita, no Twitter. Há alguma vantagem de estar por lá, afinal… aproveita e me segue aí, vai <a href="http://twitter.com/bichafemea" target="_blank" rel="noopener noreferrer">(@bichafemea)!!</a>
 
-Continuando… foi a Ana Medeiros <a href="http://twitter.com/AninhaMedeiros" target="_blank">(@AninhaMedeiros)</a> quem _tuitou_ <a href="http://vidasimples.abril.com.br/edicoes/087/simples_assim/conteudo_519032.shtml" target="_blank">o texto que ensina como “programar” a mente para que possamos gostar de exercícios físicos</a>, e que foi publicado no site da revista <a href="http://vidasimples.abril.com.br/" target="_blank">Vida Simples</a>.
+Continuando… foi a Ana Medeiros <a href="http://twitter.com/AninhaMedeiros" target="_blank" rel="noopener noreferrer">(@AninhaMedeiros)</a> quem _tuitou_ <a href="http://vidasimples.abril.com.br/edicoes/087/simples_assim/conteudo_519032.shtml" target="_blank" rel="noopener noreferrer">o texto que ensina como “programar” a mente para que possamos gostar de exercícios físicos</a>, e que foi publicado no site da revista <a href="http://vidasimples.abril.com.br/" target="_blank" rel="noopener noreferrer">Vida Simples</a>.
 
 Sabe que as estratégias não são tão difíceis, nem algo do outro mundo? Dá para a gente fazer de forma tranquila, e avaliar os resultados. Se você concorda comigo que há coisas que, se não fazem bem, mal também não fazem, confere comigo as ideias…
 
 <p style="text-align: center;">
-  <img class="size-medium wp-image-3973  aligncenter" title="caminhada" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/12/caminhada-300x225.jpg" alt="caminhada" width="300" height="225" />
+  <img class="size-medium wp-image-3973  aligncenter" title="caminhada" src="https://www.trololodemulher.com.br/2009/12/caminhada-300x225.jpg" alt="caminhada" width="300" height="225" />
 </p>
 
 São cinco as dicas de atitudes que favorecem essa mudança de comportamento. A **primeira** delas ensina que é preciso a gente traçar objetivos. O meu é manter meu nível de colesterol sob controle. Já falei que tenho tendência a ter alterações nesse índice? Pois é. Eu que sempre fui magra, um verdadeiro “sibito baleado”, jurava que esse mal jamais me acometeria. Puro preconceito e infeliz engano…
@@ -45,4 +42,4 @@ Diz aí, você vai se mexer depois de tantas dicas para facilitar a saída do se
 
 **<a href="http://www.trololodemulher.com.br/2009/04/06/perca-calorias/" target="_self"><em>Queime calorias e ganhe saúde cuidando da casa!</em></a>**
 
-Imagem: <a href="http://www.sxc.hu/profile/ClaudioArg" target="_blank">Claudio Arg</a>
+Imagem: <a href="http://www.sxc.hu/profile/ClaudioArg" target="_blank" rel="noopener noreferrer">Claudio Arg</a>

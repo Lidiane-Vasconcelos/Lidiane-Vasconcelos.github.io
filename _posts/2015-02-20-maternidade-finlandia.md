@@ -1,10 +1,7 @@
 ---
-id: 3399
 title: Se você fosse mãe lá na Finlândia…
-date: 2015-02-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/02/20/maternidade-finlandia/
 permalink: /2015/02/20/maternidade-finlandia/
 categories:
   - Adriana Minhoto
@@ -44,11 +41,11 @@ categories:
 >   </blockquote>
 >   
 >   <p align="center">
->     <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/MATERNIDADE-FILHOS-FINLANDIA.jpg"><img class="alignnone size-full wp-image-10788" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/MATERNIDADE-FILHOS-FINLANDIA.jpg" alt="MATERNIDADE-FILHOS-FINLANDIA" width="550" height="473" /></a>
+>     <a href="https://www.trololodemulher.com.br/2015/02/MATERNIDADE-FILHOS-FINLANDIA.jpg"><img class="alignnone size-full wp-image-10788" src="https://www.trololodemulher.com.br/2015/02/MATERNIDADE-FILHOS-FINLANDIA.jpg" alt="MATERNIDADE-FILHOS-FINLANDIA" width="550" height="473" /></a>
 >   </p>
 >   
 >   <p align="center">
->     Imagem: <a href="http://www.popsugar.com/moms/Cardboard-Boxes-Finnish-Babies-30710469" target="_blank">Popsugar</a>
+>     Imagem: <a href="http://www.popsugar.com/moms/Cardboard-Boxes-Finnish-Babies-30710469" target="_blank" rel="noopener noreferrer">Popsugar</a>
 >   </p>
 >   
 >   <blockquote>
@@ -58,11 +55,11 @@ categories:
 >   </blockquote>
 >   
 >   <p align="center">
->     <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/MATERNIDADE-FILHOS-FINLANDIA3.jpg"><img class="alignnone size-full wp-image-10790" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/MATERNIDADE-FILHOS-FINLANDIA3.jpg" alt="MATERNIDADE-FILHOS-FINLANDIA3]" width="624" height="418" /></a>
+>     <a href="https://www.trololodemulher.com.br/2015/02/MATERNIDADE-FILHOS-FINLANDIA3.jpg"><img class="alignnone size-full wp-image-10790" src="https://www.trololodemulher.com.br/2015/02/MATERNIDADE-FILHOS-FINLANDIA3.jpg" alt="MATERNIDADE-FILHOS-FINLANDIA3]" width="624" height="418" /></a>
 >   </p>
 >   
 >   <p align="center">
->     Imagem: <a href="http://www.bbc.com/news/magazine-22751415" target="_blank">BBC</a>
+>     Imagem: <a href="http://www.bbc.com/news/magazine-22751415" target="_blank" rel="noopener noreferrer">BBC</a>
 >   </p>
 >   
 >   <blockquote>
@@ -72,11 +69,11 @@ categories:
 >   </blockquote>
 >   
 >   <p align="center">
->     <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/MATERNIDADE-FILHOS-FINLANDIA2.jpg"><img class="alignnone size-full wp-image-10789" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/MATERNIDADE-FILHOS-FINLANDIA2.jpg" alt="MATERNIDADE-FILHOS-FINLANDIA2]" width="550" height="359" /></a>
+>     <a href="https://www.trololodemulher.com.br/2015/02/MATERNIDADE-FILHOS-FINLANDIA2.jpg"><img class="alignnone size-full wp-image-10789" src="https://www.trololodemulher.com.br/2015/02/MATERNIDADE-FILHOS-FINLANDIA2.jpg" alt="MATERNIDADE-FILHOS-FINLANDIA2]" width="550" height="359" /></a>
 >   </p>
 >   
 >   <p align="center">
->     Imagem: <a href="http://www.popsugar.com/moms/Cardboard-Boxes-Finnish-Babies-30710469" target="_blank">Popsugar</a>
+>     Imagem: <a href="http://www.popsugar.com/moms/Cardboard-Boxes-Finnish-Babies-30710469" target="_blank" rel="noopener noreferrer">Popsugar</a>
 >   </p>
 >   
 >   <blockquote>
@@ -164,11 +161,11 @@ categories:
 >   </blockquote>
 >   
 >   <p align="center">
->     <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/MATERNIDADE-FILHOS.png"><img class="alignnone size-full wp-image-10786" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/MATERNIDADE-FILHOS.png" alt="MATERNIDADE-FILHOS" width="731" height="491" /></a>
+>     <a href="https://www.trololodemulher.com.br/2015/02/MATERNIDADE-FILHOS.png"><img class="alignnone size-full wp-image-10786" src="https://www.trololodemulher.com.br/2015/02/MATERNIDADE-FILHOS.png" alt="MATERNIDADE-FILHOS" width="731" height="491" /></a>
 >   </p>
 >   
 >   <p align="center">
->     Imagem: <a href="http://www.kellimurray.com/2013/11/14/cousins/" target="_blank">Kelli Murray</a>
+>     Imagem: <a href="http://www.kellimurray.com/2013/11/14/cousins/" target="_blank" rel="noopener noreferrer">Kelli Murray</a>
 >   </p>
 >   
 >   <blockquote>
@@ -184,7 +181,7 @@ categories:
 >   </blockquote>
 >   
 >   <p align="center">
->     <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ADRIANA-MINHOTO.png"><img class="alignnone size-full wp-image-10378" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ADRIANA-MINHOTO.png" alt="ADRIANA MINHOTO" width="800" height="227" /></a>
+>     <a href="https://www.trololodemulher.com.br/2014/09/ADRIANA-MINHOTO.png"><img class="alignnone size-full wp-image-10378" src="https://www.trololodemulher.com.br/2014/09/ADRIANA-MINHOTO.png" alt="ADRIANA MINHOTO" width="800" height="227" /></a>
 >   </p>
 >   
 >   <p>
@@ -192,7 +189,7 @@ categories:
 >   </p>
 >   
 >   <p>
->     <strong><a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a></strong>
+>     <strong><a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank" rel="noopener noreferrer">As voltas que a vida dá nos leva a lugares inimagináveis!</a></strong>
 >   </p>
 >   
 >   <p>
@@ -204,15 +201,15 @@ categories:
 >   </p>
 >   
 >   <p>
->     <strong><a href="http://www.trololodemulher.com.br/2015/01/16/finlandia-novembro/" target="_blank">Dias e dias sem sol: o temido Novembro na Finlândia</a></strong>
+>     <strong><a href="http://www.trololodemulher.com.br/2015/01/16/finlandia-novembro/" target="_blank" rel="noopener noreferrer">Dias e dias sem sol: o temido Novembro na Finlândia</a></strong>
 >   </p>
 >   
 >   <p>
->     <strong><a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank">Educação, ordem e progresso: lá na Finlândia é assim!</a></strong>
+>     <strong><a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank" rel="noopener noreferrer">Educação, ordem e progresso: lá na Finlândia é assim!</a></strong>
 >   </p>
 >   
 >   <p>
->     <strong><a href="http://www.trololodemulher.com.br/2014/10/10/compras-finlandia/" target="_blank">Fazer compras é simples, a menos que seja na Finlândia!</a></strong>
+>     <strong><a href="http://www.trololodemulher.com.br/2014/10/10/compras-finlandia/" target="_blank" rel="noopener noreferrer">Fazer compras é simples, a menos que seja na Finlândia!</a></strong>
 >   </p>
 >   
 >   <p>
@@ -220,7 +217,7 @@ categories:
 >   </p>
 >   
 >   <p style="text-align: justify;">
->     Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+>     Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank" rel="noopener noreferrer">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank" rel="noopener noreferrer">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank" rel="noopener noreferrer">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank" rel="noopener noreferrer">página no Facebook, viu? Já curtiu?</a> Eu já!
 >   </p>
 >   
 >   <p>
@@ -228,5 +225,5 @@ categories:
 >   </p>
 >   
 >   <p align="center">
->     <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+>     <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 >   </p>

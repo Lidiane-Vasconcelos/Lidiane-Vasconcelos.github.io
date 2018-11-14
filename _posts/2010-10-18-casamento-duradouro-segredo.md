@@ -1,10 +1,7 @@
 ---
-id: 2891
 title: Casamento duradouro. Isto tem algum segredo?
-date: 2010-10-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/10/18/casamento-duradouro-segredo/
 permalink: /2010/10/18/casamento-duradouro-segredo/
 categories:
   - Comportamento
@@ -29,7 +26,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/casal-discutindo.jpg"><img class="alignnone size-medium wp-image-5315" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/casal-discutindo-245x300.jpg" alt="" width="245" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/casal-discutindo.jpg"><img class="alignnone size-medium wp-image-5315" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2010/10/casal-discutindo-245x300.jpg" alt="" width="245" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -37,7 +34,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Para a <strong><em>psicanalista</em></strong> <strong><em>Geisa Machado</em></strong>, que edita o espaço virtual “<strong><em><a href="http://geisamachado.blogspot.com/" target="_blank">A Força e a Beleza de Ser Mulher</a></em></strong>”, um casamento precisa de delicadezas e muito mais porque “<em>muitos casais até usam as palavras &#8220;perdão, por favor e obrigado&#8221;, mas na primeira oportunidade maltratam-se e humilham-se de diversas formas</em>”. A <strong><em>psicanalista</em></strong>, que <strong><em>também é terapeuta de casais</em></strong>, explica que vê situações em que, “<em>na realidade, os conjuges estão a favor de si (se defendendo e atacando o outro) e não a favor da relação. O amadurecimento emocional implica nas pessoas olharem as próprias falhas, buscar corrigi-las e parar de procurar culpados quando as coisas não vão bem.”</em>
+  Para a <strong><em>psicanalista</em></strong> <strong><em>Geisa Machado</em></strong>, que edita o espaço virtual “<strong><em><a href="http://geisamachado.blogspot.com/" target="_blank" rel="noopener noreferrer">A Força e a Beleza de Ser Mulher</a></em></strong>”, um casamento precisa de delicadezas e muito mais porque “<em>muitos casais até usam as palavras &#8220;perdão, por favor e obrigado&#8221;, mas na primeira oportunidade maltratam-se e humilham-se de diversas formas</em>”. A <strong><em>psicanalista</em></strong>, que <strong><em>também é terapeuta de casais</em></strong>, explica que vê situações em que, “<em>na realidade, os conjuges estão a favor de si (se defendendo e atacando o outro) e não a favor da relação. O amadurecimento emocional implica nas pessoas olharem as próprias falhas, buscar corrigi-las e parar de procurar culpados quando as coisas não vão bem.”</em>
 </p>
 
 <p style="text-align: justify;">
@@ -45,17 +42,17 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/casal.jpg"><img class="alignnone size-medium wp-image-5312" title="casal" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/casal-300x225.jpg" alt="" width="300" height="225" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/casal.jpg"><img class="alignnone size-medium wp-image-5312" title="casal" src="https://www.trololodemulher.com.br/2010/10/casal-300x225.jpg" alt="" width="300" height="225" /></a>
 </p>
 
-A Katia Bonfadini, **_designer_** que comanda o “**_<a href="http://www.casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a>_**”, aposta no respeito ás singularidades de cada um:
+A Katia Bonfadini, **_designer_** que comanda o “**_<a href="http://www.casosecoisasdabonfa.blogspot.com/" target="_blank" rel="noopener noreferrer">Casos e Coisas da Bonfa</a>_**”, aposta no respeito ás singularidades de cada um:
 
 > <p style="text-align: justify;">
 >   &#8220;<strong><em>Acho que respeito em geral é muito importante, inclusive no que concerne às singularidades e à privacidade de cada um no casamento. Conviver com alguém pode se tornar algo bastante complicado e exige um bom jogo de cintura, seja com o parceiro, seja com familiares ou colegas de trabalho. Acredito que numa relação saudável e equilibrada deve haver respeito aos limites do outro.&#8221;</em></strong>
 > </p>
 
 <p style="text-align: justify;">
-  Já a Simone Scharamm, editora do blog “<strong><em><a href="http://simonescharamm.blogspot.com/" target="_blank">Festas e etc…”</a></em></strong> e que vivenciou o fim de um casamento mas continuou acreditando no amor, aponta a necessidade de paixão e companheirismo na relação:
+  Já a Simone Scharamm, editora do blog “<strong><em><a href="http://simonescharamm.blogspot.com/" target="_blank" rel="noopener noreferrer">Festas e etc…”</a></em></strong> e que vivenciou o fim de um casamento mas continuou acreditando no amor, aponta a necessidade de paixão e companheirismo na relação:
 </p>
 
 > <p style="text-align: justify;">
@@ -63,7 +60,7 @@ A Katia Bonfadini, **_designer_** que comanda o “**_<a href="http://www.casose
 > </p>
 
 <p style="text-align: justify;">
-  A Juliana, dona da “<a href="http://www.pitadinha.com/" target="_blank"><strong><em>Pitadinha</em></strong></a>”, acredita que a forma como o casamento é encarado e as expectativas em torno dele é que podem influenciar na durabilidade, ou não, de uma relação:
+  A Juliana, dona da “<a href="http://www.pitadinha.com/" target="_blank" rel="noopener noreferrer"><strong><em>Pitadinha</em></strong></a>”, acredita que a forma como o casamento é encarado e as expectativas em torno dele é que podem influenciar na durabilidade, ou não, de uma relação:
 </p>
 
 > <p style="text-align: justify;">
@@ -99,7 +96,7 @@ A Katia Bonfadini, **_designer_** que comanda o “**_<a href="http://www.casose
 </p>
 
 <p style="text-align: justify;">
-  Imagens: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+  Imagens: <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>
 </p>
 
 <p style="text-align: justify;">
@@ -116,10 +113,10 @@ Viu? E o debate está bom mesmo é nos comentários&#8230; corre lá!
 
 **Veja também:**
 
-**<a href="http://www.trololodemulher.com.br/2015/05/22/casamento-conselhos/" target="_blank">Casamento: os conselhos mais inteligentes. Já leu?</a>**
+**<a href="http://www.trololodemulher.com.br/2015/05/22/casamento-conselhos/" target="_blank" rel="noopener noreferrer">Casamento: os conselhos mais inteligentes. Já leu?</a>**
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

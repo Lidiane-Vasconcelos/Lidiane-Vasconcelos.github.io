@@ -1,15 +1,12 @@
 ---
-id: 2901
 title: Parceria Infinita Arte for Baby no Aniversário do Bicha Fêmea!
-date: 2010-11-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/11/01/parceria-infinita-arte-baby/
 permalink: /2010/11/01/parceria-infinita-arte-baby/
 categories:
   - Publieditorial
 ---
-Mais uma vez a <a href="http://www.infinitaarte.com.br/" target="_blank">Infinita Arte for Baby</a> dá o ar de sua graça mimosa no Bicha Fêmea. Que bom! E quem agradece são as mamães que são bichas fêmeas navegantes e seu pimpolhos. Pudera! O que tem de _lindeza_ por lá não é brincadeira!
+Mais uma vez a <a href="http://www.infinitaarte.com.br/" target="_blank" rel="noopener noreferrer">Infinita Arte for Baby</a> dá o ar de sua graça mimosa no Bicha Fêmea. Que bom! E quem agradece são as mamães que são bichas fêmeas navegantes e seu pimpolhos. Pudera! O que tem de _lindeza_ por lá não é brincadeira!
 
 <!--more-->
 
@@ -18,7 +15,7 @@ Mais uma vez a <a href="http://www.infinitaarte.com.br/" target="_blank">Infinit
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Kit-Manta-Ursinho-Menino.jpg"><img class="alignnone size-full wp-image-5373" title="Kit Manta Ursinho Menino" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Kit-Manta-Ursinho-Menino.jpg" alt="" width="425" height="493" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/Kit-Manta-Ursinho-Menino.jpg"><img class="alignnone size-full wp-image-5373" title="Kit Manta Ursinho Menino" src="https://www.trololodemulher.com.br/2010/10/Kit-Manta-Ursinho-Menino.jpg" alt="" width="425" height="493" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -26,7 +23,7 @@ Mais uma vez a <a href="http://www.infinitaarte.com.br/" target="_blank">Infinit
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Kit-Manta-e-Ursinho-Menina.jpg"><img class="alignnone size-full wp-image-5370" title="Kit Manta e Ursinho Menina" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Kit-Manta-e-Ursinho-Menina.jpg" alt="" width="377" height="440" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/Kit-Manta-e-Ursinho-Menina.jpg"><img class="alignnone size-full wp-image-5370" title="Kit Manta e Ursinho Menina" src="https://www.trololodemulher.com.br/2010/10/Kit-Manta-e-Ursinho-Menina.jpg" alt="" width="377" height="440" /></a>
 </p>
 
 <p style="text-align: justify;">

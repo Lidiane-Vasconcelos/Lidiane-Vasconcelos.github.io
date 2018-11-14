@@ -1,10 +1,7 @@
 ---
-id: 3401
 title: 'Alimentação na gravidez: saúde pra mamãe e bebê.'
-date: 2015-02-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/02/27/alimentacao-gravidez-nutricao/
 permalink: /2015/02/27/alimentacao-gravidez-nutricao/
 categories:
   - Maternidade
@@ -20,11 +17,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="https://thefitbay.com/best-prenatal-multivitamins-reviewed/" target="_blank">Veja mais aqui</a>!
+  <a href="https://thefitbay.com/best-prenatal-multivitamins-reviewed/" target="_blank" rel="noopener noreferrer">Veja mais aqui</a>!
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO4.png"><img class="alignnone size-full wp-image-10802" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO4.png" alt="GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO SAUDAVEL-GESTACAO[4]" width="482" height="93" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO4.png"><img class="alignnone size-full wp-image-10802" src="https://www.trololodemulher.com.br/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO4.png" alt="GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO SAUDAVEL-GESTACAO[4]" width="482" height="93" /></a>
 </p>
 
 <p align="justify">
@@ -32,11 +29,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO.jpg"><img class="alignnone size-full wp-image-10798" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO.jpg" alt="GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO SAUDAVEL-GESTACAO" width="520" height="375" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO.jpg"><img class="alignnone size-full wp-image-10798" src="https://www.trololodemulher.com.br/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO.jpg" alt="GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO SAUDAVEL-GESTACAO" width="520" height="375" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://matheaw.hubpages.com/hub/Gestation-Diabetes-Meal-Plans" target="_blank">Hubpages</a>
+  Imagem: <a href="http://matheaw.hubpages.com/hub/Gestation-Diabetes-Meal-Plans" target="_blank" rel="noopener noreferrer">Hubpages</a>
 </p>
 
 <p align="justify">
@@ -88,7 +85,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO3.png"><img class="alignnone size-full wp-image-10801" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO3.png" alt="GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO SAUDAVEL-GESTACAO[3]" width="534" height="101" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO3.png"><img class="alignnone size-full wp-image-10801" src="https://www.trololodemulher.com.br/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO3.png" alt="GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO SAUDAVEL-GESTACAO[3]" width="534" height="101" /></a>
 </p>
 
 <p align="justify">
@@ -104,15 +101,15 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO2.jpg"><img class="alignnone size-full wp-image-10799" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO2.jpg" alt="GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO SAUDAVEL-GESTACAO[2]" width="534" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO2.jpg"><img class="alignnone size-full wp-image-10799" src="https://www.trololodemulher.com.br/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO2.jpg" alt="GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO SAUDAVEL-GESTACAO[2]" width="534" height="400" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://kimberlysnyder.com/blog/2012/02/07/what-foods-you-should-eat-and-not-eat-when-pregnant/" target="_blank">Kimberly Snyder</a>
+  Imagem: <a href="http://kimberlysnyder.com/blog/2012/02/07/what-foods-you-should-eat-and-not-eat-when-pregnant/" target="_blank" rel="noopener noreferrer">Kimberly Snyder</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO5.png"><img class="alignnone size-full wp-image-10803" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO5.png" alt="GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO SAUDAVEL-GESTACAO[5]" width="604" height="89" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO5.png"><img class="alignnone size-full wp-image-10803" src="https://www.trololodemulher.com.br/2015/02/GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO-SAUDAVEL-GESTACAO5.png" alt="GRAVIDEZ-MATERNIDADE-ALIMENTACAO-NUTRICAO-ALIMENTACAO SAUDAVEL-GESTACAO[5]" width="604" height="89" /></a>
 </p>
 
 <p align="justify">
@@ -166,19 +163,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/01/09/gravidez-saudavel-gestacao/" target="_blank"><strong>Gravidez saudável, segura e em equilíbrio: como vivenciá-la?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/01/09/gravidez-saudavel-gestacao/" target="_blank" rel="noopener noreferrer"><strong>Gravidez saudável, segura e em equilíbrio: como vivenciá-la?</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/FABIANA-CARVALHO-NUTRICIONISTA-RIO-DE-JANEIRO.png"><img class="alignnone size-full wp-image-10797" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/FABIANA-CARVALHO-NUTRICIONISTA-RIO-DE-JANEIRO.png" alt="FABIANA CARVALHO-NUTRICIONISTA-RIO DE JANEIRO" width="800" height="205" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/02/FABIANA-CARVALHO-NUTRICIONISTA-RIO-DE-JANEIRO.png"><img class="alignnone size-full wp-image-10797" src="https://www.trololodemulher.com.br/2015/02/FABIANA-CARVALHO-NUTRICIONISTA-RIO-DE-JANEIRO.png" alt="FABIANA CARVALHO-NUTRICIONISTA-RIO DE JANEIRO" width="800" height="205" /></a>
 </p>
 
 <p align="justify">
-  Fabiana é uma nutricionista querida que conheço de longa data. Além de competente, a moça esbanja simpatia e é super acessível. Para encontrá-la na cidade do Rio de Janeiro, seus contatos são: (21) 981363498 | E-mail: <a href="mailto:fabicarvalhos@globo.com">fabicarvalhos@globo.com</a> | ou ainda <a href="http://www.facebook.com.br/fabicarvalhos" target="_blank">via Facebbok… clique aqui e se joga</a>!
+  Fabiana é uma nutricionista querida que conheço de longa data. Além de competente, a moça esbanja simpatia e é super acessível. Para encontrá-la na cidade do Rio de Janeiro, seus contatos são: (21) 981363498 | E-mail: <a href="mailto:fabicarvalhos@globo.com">fabicarvalhos@globo.com</a> | ou ainda <a href="http://www.facebook.com.br/fabicarvalhos" target="_blank" rel="noopener noreferrer">via Facebbok… clique aqui e se joga</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

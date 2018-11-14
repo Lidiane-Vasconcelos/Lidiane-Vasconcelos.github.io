@@ -1,10 +1,7 @@
 ---
-id: 3531
 title: 'Gestão do tempo e produtividade: 6 dicas pra fazer mais.'
-date: 2016-01-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/01/22/tempo-e-produtividade/
 permalink: /2016/01/22/tempo-e-produtividade/
 categories:
   - Empreendedorismo Feminino
@@ -12,7 +9,7 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p align="justify">
-  O dia tem apenas 24 horas, mas lá no fundinho, quem nunca lamentou que ele não tivesse mais? Duro é quando a gente percebe que há muito por fazer, e a quantidade de horas parece ainda ser menor. Para quem trabalha por conta própria, a ideia de que fazer os próprios horários é luxo, glória e poder logo cai por terra se não houver uma <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank">gestão do tempo eficiente</a>. Como preservar o equilíbrio no dia a dia entre vida pessoal e trabalho, garantindo, ainda assim, a <a href="http://www.trololodemulher.com.br/2015/10/30/produtividade-2/" target="_blank">produtividade</a>? O pulo do gato, bonita, está em conciliar <strong>tempo e produtividade</strong>, de modo a identificar o que rouba o primeiro, e prejudica o segundo.
+  O dia tem apenas 24 horas, mas lá no fundinho, quem nunca lamentou que ele não tivesse mais? Duro é quando a gente percebe que há muito por fazer, e a quantidade de horas parece ainda ser menor. Para quem trabalha por conta própria, a ideia de que fazer os próprios horários é luxo, glória e poder logo cai por terra se não houver uma <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank" rel="noopener noreferrer">gestão do tempo eficiente</a>. Como preservar o equilíbrio no dia a dia entre vida pessoal e trabalho, garantindo, ainda assim, a <a href="http://www.trololodemulher.com.br/2015/10/30/produtividade-2/" target="_blank" rel="noopener noreferrer">produtividade</a>? O pulo do gato, bonita, está em conciliar <strong>tempo e produtividade</strong>, de modo a identificar o que rouba o primeiro, e prejudica o segundo.
 </p>
 
 <p align="justify">
@@ -28,7 +25,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/09/25/empreendedorismo-criativo/" target="_blank"><strong>O que é empreendedorismo criativo?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/09/25/empreendedorismo-criativo/" target="_blank" rel="noopener noreferrer"><strong>O que é empreendedorismo criativo?</strong></a>
 </p>
 
 <p align="justify">
@@ -36,11 +33,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-11816" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/01/TEMPO-E-PRODUTIVIDADE-GESTAO-DO-TEMPO-PRODUTIVIDADE-EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO2.jpg" alt="TEMPO E PRODUTIVIDADE-GESTAO DO TEMPO-PRODUTIVIDADE-EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO[2]" width="750" height="751" />
+  <img class="alignnone size-full wp-image-11816" src="https://www.trololodemulher.com.br/2016/01/TEMPO-E-PRODUTIVIDADE-GESTAO-DO-TEMPO-PRODUTIVIDADE-EMPREENDEDORISMO-EMPREENDEDORISMO-FEMININO2.jpg" alt="TEMPO E PRODUTIVIDADE-GESTAO DO TEMPO-PRODUTIVIDADE-EMPREENDEDORISMO-EMPREENDEDORISMO FEMININO[2]" width="750" height="751" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: <a href="http://www.laughandpee.com/" target="_blank" rel="noopener noreferrer">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank" rel="noopener noreferrer">Gratisography</a>
 </p>
 
 <p align="justify">
@@ -72,7 +69,7 @@ categories:
 </p>
 
 <p align="justify">
-  Além do mais, se você vai passar <a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank">menos tempo em redes sociais</a>, proponho que isso seja feito com qualidade. Sendo assim, preste atenção em como você usa seu tempo por lá, e selecione o que de fato acrescenta algo de bom no seu dia a dia. Quais pessoas vale à pena seguir? Quais páginas te apresentam conteúdo que te divertem, te informam, te jogam pra cima e te fazem ser mais feliz. Se agarre nesse povo!
+  Além do mais, se você vai passar <a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank" rel="noopener noreferrer">menos tempo em redes sociais</a>, proponho que isso seja feito com qualidade. Sendo assim, preste atenção em como você usa seu tempo por lá, e selecione o que de fato acrescenta algo de bom no seu dia a dia. Quais pessoas vale à pena seguir? Quais páginas te apresentam conteúdo que te divertem, te informam, te jogam pra cima e te fazem ser mais feliz. Se agarre nesse povo!
 </p>
 
 <p align="justify">
@@ -80,7 +77,7 @@ categories:
 </p>
 
 <p align="justify">
-  Daí que sua jornada encerra e… lá está você no computador, no<em> tablet</em> ou no celular. Se você planeja descansar, e passou todo o seu tempo dedicada ao trabalho e agarrada a um computador, desconecte. Vai brincar com seu filho no parquinho? Não se apegue ao celular. Vai sair com a família para comer? Pra que se conectar à mesa? Vai ficar com a família à noite, e jogar conversa fora? Desligue um pouco a TV! <em>Desplugue</em> dos eletrônicos e viva! A vida acontece no modo <em>off line</em> e, perceba, isso de fato favorece o <a href="http://www.trololodemulher.com.br/2015/06/22/bem-estar-em-casa/" target="_blank">descanso do seu corpo e mente</a>. Não tenha dúvidas, bonita, sua produtividade estará afiada no dia seguinte. A vida e o trabalho fluem mais leves e gostosos no dia a dia. Experimente!
+  Daí que sua jornada encerra e… lá está você no computador, no<em> tablet</em> ou no celular. Se você planeja descansar, e passou todo o seu tempo dedicada ao trabalho e agarrada a um computador, desconecte. Vai brincar com seu filho no parquinho? Não se apegue ao celular. Vai sair com a família para comer? Pra que se conectar à mesa? Vai ficar com a família à noite, e jogar conversa fora? Desligue um pouco a TV! <em>Desplugue</em> dos eletrônicos e viva! A vida acontece no modo <em>off line</em> e, perceba, isso de fato favorece o <a href="http://www.trololodemulher.com.br/2015/06/22/bem-estar-em-casa/" target="_blank" rel="noopener noreferrer">descanso do seu corpo e mente</a>. Não tenha dúvidas, bonita, sua produtividade estará afiada no dia seguinte. A vida e o trabalho fluem mais leves e gostosos no dia a dia. Experimente!
 </p>
 
 <p align="justify">
@@ -112,7 +109,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

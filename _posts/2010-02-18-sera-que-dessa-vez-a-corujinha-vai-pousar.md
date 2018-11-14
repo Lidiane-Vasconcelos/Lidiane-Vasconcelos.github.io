@@ -1,10 +1,7 @@
 ---
-id: 2790
 title: Será que dessa vez a corujinha vai pousar?
-date: 2010-02-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/02/18/sera-que-dessa-vez-a-corujinha-vai-pousar/
 permalink: /2010/02/18/sera-que-dessa-vez-a-corujinha-vai-pousar/
 categories:
   - Promoção
@@ -12,16 +9,16 @@ categories:
 ---
 Saiu, saiu, saiu!!!!
 
-Fiz um novo sorteio e a corujinha produzida pela Cristiane Inokuma, da **_<a href="http://closone.blogspot.com/" target="_blank">Closonê Acessórios</a>_**, que foi oferecida como prenda na <a href="http://www.trololodemulher.com.br/2010/01/18/sorteio-no-bicha-femea-em-parceria-com-a-closone-acessorios%e2%80%a6/" target="_self">primeira promoção do Bicha Fêmea</a>, terá um novo endereço em potencial onde ela poderá pousar. Sabe onde é?
+Fiz um novo sorteio e a corujinha produzida pela Cristiane Inokuma, da **_<a href="http://closone.blogspot.com/" target="_blank" rel="noopener noreferrer">Closonê Acessórios</a>_**, que foi oferecida como prenda na <a href="http://www.trololodemulher.com.br/2010/01/18/sorteio-no-bicha-femea-em-parceria-com-a-closone-acessorios%e2%80%a6/" target="_self">primeira promoção do Bicha Fêmea</a>, terá um novo endereço em potencial onde ela poderá pousar. Sabe onde é?
 
 <!--more-->
 
-…_hum_… já que a <a href="http://www.trololodemulher.com.br/2010/02/09/procura-se-uma-bicha-femea-para-a-corujinha/" target="_self">Raine não apareceu, não deu qualquer sinal de fumaça</a>, a corujinha agora poderá bater asas em direção a casa da Luma. Isso mesmo, a Luma do blog <a href="http://luzdeluma.blogspot.com/" target="_blank">Luz de Luma, yes party</a>!
+…_hum_… já que a <a href="http://www.trololodemulher.com.br/2010/02/09/procura-se-uma-bicha-femea-para-a-corujinha/" target="_self">Raine não apareceu, não deu qualquer sinal de fumaça</a>, a corujinha agora poderá bater asas em direção a casa da Luma. Isso mesmo, a Luma do blog <a href="http://luzdeluma.blogspot.com/" target="_blank" rel="noopener noreferrer">Luz de Luma, yes party</a>!
 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/Sorteio-Bicha-Femea-Closone-Acessorios-II.jpg"><img class="aligncenter size-medium wp-image-4331" title="Sorteio Bicha Fêmea & Closonê Acessórios II" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/Sorteio-Bicha-Femea-Closone-Acessorios-II-300x187.jpg" alt="" width="300" height="187" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/02/Sorteio-Bicha-Femea-Closone-Acessorios-II.jpg"><img class="aligncenter size-medium wp-image-4331" title="Sorteio Bicha Fêmea & Closonê Acessórios II" src="https://www.trololodemulher.com.br/2010/02/Sorteio-Bicha-Femea-Closone-Acessorios-II-300x187.jpg" alt="" width="300" height="187" /></a>
     </td>
   </tr>
 </table>

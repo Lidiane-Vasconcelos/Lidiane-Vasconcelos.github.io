@@ -1,10 +1,7 @@
 ---
-id: 3337
 title: “Se eu não lutasse, se eu não tivesse fé, não teria aguentado até aqui”
-date: 2014-09-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/09/01/cancer-de-mama-3/
 permalink: /2014/09/01/cancer-de-mama-3/
 categories:
   - Comportamento
@@ -32,7 +29,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/SAÚDE-SAÚDE-DA-MULHER-CÂNCER-DE-MAMA-COMPORTAMENTO-COMPORTAMENTO-FEMININO-SUPERAÇAO-MANUELANYGAARD.jpg"><img class="alignnone size-full wp-image-10357" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/SAÚDE-SAÚDE-DA-MULHER-CÂNCER-DE-MAMA-COMPORTAMENTO-COMPORTAMENTO-FEMININO-SUPERAÇAO-MANUELANYGAARD.jpg" alt="SAÚDE-SAÚDE DA MULHER-CÂNCER DE MAMA-COMPORTAMENTO-COMPORTAMENTO FEMININO-SUPERAÇAO-MANUELANYGAARD" width="600" height="818" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/08/SAÚDE-SAÚDE-DA-MULHER-CÂNCER-DE-MAMA-COMPORTAMENTO-COMPORTAMENTO-FEMININO-SUPERAÇAO-MANUELANYGAARD.jpg"><img class="alignnone size-full wp-image-10357" src="https://www.trololodemulher.com.br/2014/08/SAÚDE-SAÚDE-DA-MULHER-CÂNCER-DE-MAMA-COMPORTAMENTO-COMPORTAMENTO-FEMININO-SUPERAÇAO-MANUELANYGAARD.jpg" alt="SAÚDE-SAÚDE DA MULHER-CÂNCER DE MAMA-COMPORTAMENTO-COMPORTAMENTO FEMININO-SUPERAÇAO-MANUELANYGAARD" width="600" height="818" /></a>
 </p>
 
 <p align="justify">
@@ -56,7 +53,7 @@ categories:
 > </p>
 
 <p align="justify">
-  <strong>Bicha Fêmea > Apesar da doença e os tratamentos dolorosos para o corpo, você não se isolou. Você esteve presente na blogosfera [<a href="http://eraumavezumcancer.blogspot.com.br/" target="_blank">Era uma vez um câncer&#8230;</a>], redes sociais e eventos na sua cidade, esbanjando vontade de viver. A vida continua? </strong>
+  <strong>Bicha Fêmea > Apesar da doença e os tratamentos dolorosos para o corpo, você não se isolou. Você esteve presente na blogosfera [<a href="http://eraumavezumcancer.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Era uma vez um câncer&#8230;</a>], redes sociais e eventos na sua cidade, esbanjando vontade de viver. A vida continua? </strong>
 </p>
 
 <p align="justify">
@@ -74,7 +71,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;

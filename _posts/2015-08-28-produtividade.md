@@ -1,10 +1,7 @@
 ---
-id: 3471
 title: Boa produtividade é realizar o essencial e eliminar o resto.
-date: 2015-08-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/08/28/produtividade/
 permalink: /2015/08/28/produtividade/
 categories:
   - Empreendedorismo Feminino
@@ -13,7 +10,7 @@ categories:
   - Trololó
 ---
 <p align="justify">
-  Se você for como eu, tem uma lista enorme de coisas para fazer durante o dia. Eu, que trabalho por conta própria e de casa, tenho atividades diferentes e que caminham lado a lado no dia a dia: cuidar dos blogs <strong>Trololó de Mulher</strong> e <a href="http://www.decoracaodacasa.com/" target="_blank">Decoração da Casa</a>, da casa, cozinhar, cuidar de Artur – que ainda não vai para escola, e por aí vai. Cada área de responsabilidade dessa exige de mim atenção para outras listas de tarefas, que vão crescendo, se misturando e, facilmente, poderiam me levar ao estresse. É fácil se atrapalhar com tantas atribuições, e eu sei muito bem que você sabe do que estou falando, porque deve ter uma rotina de afazeres que também toma todo o seu tempo, certo? Cansada de viver no limite, tendo o meu tempo completamente ocupado, o que me levava a viver na eterna e comum “correria”, resolvi virar o jogo. Passei a me informar sobre produtividade, e experimentar maneiras de usar o meu tempo de maneira mais inteligente. Eu queria fazer mais, em menos tempo. E eu consegui! Esse post é para conversar contigo sobre isso, compartilhar como cheguei lá e, já te adianto: tudo passa por simplificar a vida. Simples assim.
+  Se você for como eu, tem uma lista enorme de coisas para fazer durante o dia. Eu, que trabalho por conta própria e de casa, tenho atividades diferentes e que caminham lado a lado no dia a dia: cuidar dos blogs <strong>Trololó de Mulher</strong> e <a href="http://www.decoracaodacasa.com/" target="_blank" rel="noopener noreferrer">Decoração da Casa</a>, da casa, cozinhar, cuidar de Artur – que ainda não vai para escola, e por aí vai. Cada área de responsabilidade dessa exige de mim atenção para outras listas de tarefas, que vão crescendo, se misturando e, facilmente, poderiam me levar ao estresse. É fácil se atrapalhar com tantas atribuições, e eu sei muito bem que você sabe do que estou falando, porque deve ter uma rotina de afazeres que também toma todo o seu tempo, certo? Cansada de viver no limite, tendo o meu tempo completamente ocupado, o que me levava a viver na eterna e comum “correria”, resolvi virar o jogo. Passei a me informar sobre produtividade, e experimentar maneiras de usar o meu tempo de maneira mais inteligente. Eu queria fazer mais, em menos tempo. E eu consegui! Esse post é para conversar contigo sobre isso, compartilhar como cheguei lá e, já te adianto: tudo passa por simplificar a vida. Simples assim.
 </p>
 
 <p align="justify">
@@ -21,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank"><strong>Produtividade e gestão do tempo: chega de correria!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank" rel="noopener noreferrer"><strong>Produtividade e gestão do tempo: chega de correria!</strong></a>
 </p>
 
 <p align="justify">
@@ -33,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/08/21/viver-sem-estresse/" target="_blank"><strong>Como desacelerar a vida e viver sem estresse?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/08/21/viver-sem-estresse/" target="_blank" rel="noopener noreferrer"><strong>Como desacelerar a vida e viver sem estresse?</strong></a>
 </p>
 
 <p align="justify">
@@ -45,7 +42,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank"><strong>Vida simples: menos é mais e a gente vive melhor…</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank" rel="noopener noreferrer"><strong>Vida simples: menos é mais e a gente vive melhor…</strong></a>
 </p>
 
 <p align="justify">
@@ -57,11 +54,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/PRODUTIVIDADE-GESTAO-DO-TEMPO-EMPREENDEDORISMO2.jpg"><img class="alignnone size-full wp-image-11356" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/PRODUTIVIDADE-GESTAO-DO-TEMPO-EMPREENDEDORISMO2.jpg" alt="PRODUTIVIDADE-GESTAO DO TEMPO-EMPREENDEDORISMO[2]" width="800" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/PRODUTIVIDADE-GESTAO-DO-TEMPO-EMPREENDEDORISMO2.jpg"><img class="alignnone size-full wp-image-11356" src="https://www.trololodemulher.com.br/2015/08/PRODUTIVIDADE-GESTAO-DO-TEMPO-EMPREENDEDORISMO2.jpg" alt="PRODUTIVIDADE-GESTAO DO TEMPO-EMPREENDEDORISMO[2]" width="800" height="800" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://www.flickr.com/photos/86530412@N02/" target="_blank">StockMonkeys.com</a> / <a href="http://foter.com/" target="_blank">Foter</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Via <a href="http://www.flickr.com/photos/86530412@N02/" target="_blank" rel="noopener noreferrer">StockMonkeys.com</a> / <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener noreferrer">CC BY</a>
 </p>
 
 <p align="justify">
@@ -81,7 +78,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank"><strong>Redes sociais e produtividade no dia a dia: qual o impacto?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank" rel="noopener noreferrer"><strong>Redes sociais e produtividade no dia a dia: qual o impacto?</strong></a>
 </p>
 
 <p align="justify">
@@ -89,7 +86,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

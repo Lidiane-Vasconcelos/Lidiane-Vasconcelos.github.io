@@ -1,16 +1,13 @@
 ---
-id: 3102
 title: Há vida inteligente na blogosfera feminina?
-date: 2012-01-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/01/06/blogosfera-feminina/
 permalink: /2012/01/06/blogosfera-feminina/
 categories:
   - Comportamento
   - Comportamento Feminino
 ---
-Felizmente, há! Faz um bom tempo eu acompanho o blog de uma querida, desde o início do **Bicha Fêmea**, quando eu estava me jogando por essa rede de blogs _mulherísticos_ por aí afora… e eu achei a **Patricia Pirota**! Ah, bonita… se você ainda não conhece a **<a href="http://patriciapirota.blogspot.com/" target="_blank">Ainda MininaMá</a>** do coração de gengibre… nem imagina o que está perdendo.
+Felizmente, há! Faz um bom tempo eu acompanho o blog de uma querida, desde o início do **Bicha Fêmea**, quando eu estava me jogando por essa rede de blogs _mulherísticos_ por aí afora… e eu achei a **Patricia Pirota**! Ah, bonita… se você ainda não conhece a **<a href="http://patriciapirota.blogspot.com/" target="_blank" rel="noopener noreferrer">Ainda MininaMá</a>** do coração de gengibre… nem imagina o que está perdendo.
 
 &nbsp;
 
@@ -19,7 +16,7 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Rock.jpg"><img class="alignnone size-full wp-image-8418" title="Rock" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Rock.jpg" alt="" width="431" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/Rock.jpg"><img class="alignnone size-full wp-image-8418" title="Rock" src="https://www.trololodemulher.com.br/2012/01/Rock.jpg" alt="" width="431" height="600" /></a>
 </p>
 
 <p align="center">
@@ -69,11 +66,11 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 </p>
 
 <p align="justify">
-  <em>1. <strong><a href="http://demarcelaparaana.com/" target="_blank">De Marcela, para Ana</a></strong></em>
+  <em>1. <strong><a href="http://demarcelaparaana.com/" target="_blank" rel="noopener noreferrer">De Marcela, para Ana</a></strong></em>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/De-Marcela-para-Ana.png"><img class="alignnone size-full wp-image-8414" title="De Marcela, para Ana" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/De-Marcela-para-Ana.png" alt="" width="600" height="100" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/De-Marcela-para-Ana.png"><img class="alignnone size-full wp-image-8414" title="De Marcela, para Ana" src="https://www.trololodemulher.com.br/2012/01/De-Marcela-para-Ana.png" alt="" width="600" height="100" /></a>
 </p>
 
 <p align="justify">
@@ -97,11 +94,11 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 </p>
 
 <p align="justify">
-  <em>2.<strong><a href="http://www.little-doll-house.com/" target="_blank">Little Doll House</a></strong></em>
+  <em>2.<strong><a href="http://www.little-doll-house.com/" target="_blank" rel="noopener noreferrer">Little Doll House</a></strong></em>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Little-Doll-House.png"><img class="alignnone size-full wp-image-8415" title="Little Doll House" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Little-Doll-House.png" alt="" width="600" height="246" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/Little-Doll-House.png"><img class="alignnone size-full wp-image-8415" title="Little Doll House" src="https://www.trololodemulher.com.br/2012/01/Little-Doll-House.png" alt="" width="600" height="246" /></a>
 </p>
 
 <p align="justify">
@@ -117,11 +114,11 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 </p>
 
 <p align="justify">
-  <em>3. <strong><a href="http://luzdeluma.blogspot.com/" target="_blank">Luz de Luma, yes party!</a></strong></em>
+  <em>3. <strong><a href="http://luzdeluma.blogspot.com/" target="_blank" rel="noopener noreferrer">Luz de Luma, yes party!</a></strong></em>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Luz-de-Luma-yes-party.png"><img class="alignnone size-full wp-image-8416" title="Luz de Luma, yes party!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Luz-de-Luma-yes-party.png" alt="" width="600" height="205" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/Luz-de-Luma-yes-party.png"><img class="alignnone size-full wp-image-8416" title="Luz de Luma, yes party!" src="https://www.trololodemulher.com.br/2012/01/Luz-de-Luma-yes-party.png" alt="" width="600" height="205" /></a>
 </p>
 
 <p align="justify">
@@ -137,11 +134,11 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 </p>
 
 <p align="justify">
-  <em>4. <strong><a href="http://www.obatomdeclarice.com/" target="_blank">O Batom de Clarice</a></strong></em>
+  <em>4. <strong><a href="http://www.obatomdeclarice.com/" target="_blank" rel="noopener noreferrer">O Batom de Clarice</a></strong></em>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/O-batom-de-Clarice.png"><img class="alignnone size-full wp-image-8417" title="O batom de Clarice" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/O-batom-de-Clarice.png" alt="" width="600" height="191" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/O-batom-de-Clarice.png"><img class="alignnone size-full wp-image-8417" title="O batom de Clarice" src="https://www.trololodemulher.com.br/2012/01/O-batom-de-Clarice.png" alt="" width="600" height="191" /></a>
 </p>
 
 <p align="justify">
@@ -169,11 +166,11 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 </p>
 
 <p align="justify">
-  <em>5. <strong><a href="http://vidaorganizada.com/" target="_blank">Vida Organizada</a></strong></em>
+  <em>5. <strong><a href="http://vidaorganizada.com/" target="_blank" rel="noopener noreferrer">Vida Organizada</a></strong></em>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Vida-Organizada.png"><img class="alignnone size-full wp-image-8422" title="Vida Organizada" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/Vida-Organizada.png" alt="" width="600" height="179" /></a>
+  <a href="https://www.trololodemulher.com.br/2012/01/Vida-Organizada.png"><img class="alignnone size-full wp-image-8422" title="Vida Organizada" src="https://www.trololodemulher.com.br/2012/01/Vida-Organizada.png" alt="" width="600" height="179" /></a>
 </p>
 
 <p align="justify">
@@ -209,7 +206,7 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 </p>
 
 <p align="center">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/SITES-FEMININOS.jpg"><img class="alignnone size-full wp-image-8419" title="SITES FEMININOS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/SITES-FEMININOS.jpg" alt="" width="600" height="473" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></strong></em>
+  <em><a href="https://www.trololodemulher.com.br/2012/01/SITES-FEMININOS.jpg"><img class="alignnone size-full wp-image-8419" title="SITES FEMININOS" src="https://www.trololodemulher.com.br/2012/01/SITES-FEMININOS.jpg" alt="" width="600" height="473" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">Stock.xchng</a></strong></em>
 </p>
 
 &nbsp;
@@ -228,13 +225,13 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2011/08/26/boas-maneiras-internet/"><img class="alignnone size-full wp-image-6836" title="image description" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/internet3200.jpg" alt="" width="200" height="200" /></a></strong><a href="http://www.trololodemulher.com.br/2011/08/26/boas-maneiras-internet/"><br /> <strong><span style="font-size: small;">Bloguetiqueta” ou etiqueta na blogosfera: você se importa com isso?</span></strong></a>
+        <strong><a href="http://www.trololodemulher.com.br/2011/08/26/boas-maneiras-internet/"><img class="alignnone size-full wp-image-6836" title="image description" src="https://www.trololodemulher.com.br/2011/08/internet3200.jpg" alt="" width="200" height="200" /></a></strong><a href="http://www.trololodemulher.com.br/2011/08/26/boas-maneiras-internet/"><br /> <strong><span style="font-size: small;">Bloguetiqueta” ou etiqueta na blogosfera: você se importa com isso?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/07/29/ansiedade-bloguistica/"><img class="alignnone size-full wp-image-6687" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/ansiedade200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/07/29/ansiedade-bloguistica/"><strong><span style="font-size: small;">Ansiedade bloguística: você sente isso?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/07/29/ansiedade-bloguistica/"><img class="alignnone size-full wp-image-6687" title="OLYMPUS DIGITAL CAMERA" src="https://www.trololodemulher.com.br/2011/07/ansiedade200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/07/29/ansiedade-bloguistica/"><strong><span style="font-size: small;">Ansiedade bloguística: você sente isso?</span></strong></a>
       </p>
     </td>
   </tr>
@@ -242,13 +239,13 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2010/06/11/organizacao-blogosfera/"><img class="alignnone size-full wp-image-4712" title="mulher no computador200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/mulher-no-computador200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/06/11/organizacao-blogosfera/"><strong><span style="font-size: small;">Organização como blogueira: faz alguma diferença?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2010/06/11/organizacao-blogosfera/"><img class="alignnone size-full wp-image-4712" title="mulher no computador200" src="https://www.trololodemulher.com.br/2010/06/mulher-no-computador200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/06/11/organizacao-blogosfera/"><strong><span style="font-size: small;">Organização como blogueira: faz alguma diferença?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/11/25/estilos-de-vida/"><img class="alignnone  wp-image-8383" title="banner 200x200 tipo jpg" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/banner-200x200-tipo-jpg.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/11/25/estilos-de-vida/"><strong><span style="font-size: small;">Estilos de vida e de blogar: cada bicha fêmea com o seu!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/11/25/estilos-de-vida/"><img class="alignnone  wp-image-8383" title="banner 200x200 tipo jpg" src="https://www.trololodemulher.com.br/2011/12/banner-200x200-tipo-jpg.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/11/25/estilos-de-vida/"><strong><span style="font-size: small;">Estilos de vida e de blogar: cada bicha fêmea com o seu!</span></strong></a>
       </p>
     </td>
   </tr>
@@ -274,13 +271,13 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="http://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     

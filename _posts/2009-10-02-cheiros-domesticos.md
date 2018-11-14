@@ -1,17 +1,14 @@
 ---
-id: 2711
 title: Cheiros domésticos trazem bem-estar?
-date: 2009-10-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/10/02/cheiros-domesticos/
 permalink: /2009/10/02/cheiros-domesticos/
 categories:
   - Bem-estar
   - Rotina da Casa
   - Sem categoria
 ---
-Fiquei por aqui pensando nos aromas de uma casa e o que eles podem fazer por nossa alma depois que li e comentei no <a href="http://adonadomundo.blogspot.com/2009/09/do-meu-gosto-pela-simplicidade-e-pelo.html" target="_blank">post da Karol, que falava do perfume do coentro no bacucu</a>, no blog <a href="http://adonadomundo.blogspot.com/" target="_blank">A DONA DO MUNDO.</a>
+Fiquei por aqui pensando nos aromas de uma casa e o que eles podem fazer por nossa alma depois que li e comentei no <a href="http://adonadomundo.blogspot.com/2009/09/do-meu-gosto-pela-simplicidade-e-pelo.html" target="_blank" rel="noopener noreferrer">post da Karol, que falava do perfume do coentro no bacucu</a>, no blog <a href="http://adonadomundo.blogspot.com/" target="_blank" rel="noopener noreferrer">A DONA DO MUNDO.</a>
 
 <p style="text-align: justify;">
   Fiquei pensando&#8230;
@@ -26,7 +23,7 @@ Fiquei por aqui pensando nos aromas de uma casa e o que eles podem fazer por nos
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/cheiro-domestico.jpg"><img class="size-medium wp-image-5108 aligncenter" title="cheiro doméstico" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/cheiro-domestico-96x300.jpg" alt="" width="96" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/cheiro-domestico.jpg"><img class="size-medium wp-image-5108 aligncenter" title="cheiro doméstico" src="https://www.trololodemulher.com.br/2010/08/cheiro-domestico-96x300.jpg" alt="" width="96" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -41,7 +38,7 @@ Fiquei por aqui pensando nos aromas de uma casa e o que eles podem fazer por nos
   Cheiro bom é o que leva a gente longe, e até faz a garganta dar um nó, numa precipitação de lágrimas, daquelas de saudade&#8230;
 </p>
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 
 **Mais no Bicha Fêmea&#8230;**
 

@@ -1,10 +1,7 @@
 ---
-id: 2869
 title: 6 dicas para economizar água nas atividades domésticas
-date: 2010-09-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/09/03/dicas-economizar-agua/
 permalink: /2010/09/03/dicas-economizar-agua/
 categories:
   - Finanças Pessoais
@@ -20,7 +17,7 @@ Hoje em dia é rotina a gente escutar na TV, por exemplo, o quanto precisamos cu
 <!--more-->
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/escova-de-dente.jpg"><img class="size-medium wp-image-5119 aligncenter" title="escova de dente" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/escova-de-dente-300x168.jpg" alt="" width="300" height="168" /></a></em></strong>
+  <strong><em><a href="https://www.trololodemulher.com.br/2010/08/escova-de-dente.jpg"><img class="size-medium wp-image-5119 aligncenter" title="escova de dente" src="https://www.trololodemulher.com.br/2010/08/escova-de-dente-300x168.jpg" alt="" width="300" height="168" /></a></em></strong>
 </p>
 
 <p style="text-align: center;">
@@ -32,7 +29,7 @@ Hoje em dia é rotina a gente escutar na TV, por exemplo, o quanto precisamos cu
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/garrafa-spray.jpg"><img class="size-medium wp-image-5121 aligncenter" title="garrafa spray" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/garrafa-spray-171x300.jpg" alt="" width="171" height="300" /></a></em></strong>
+  <strong><em><a href="https://www.trololodemulher.com.br/2010/08/garrafa-spray.jpg"><img class="size-medium wp-image-5121 aligncenter" title="garrafa spray" src="https://www.trololodemulher.com.br/2010/08/garrafa-spray-171x300.jpg" alt="" width="171" height="300" /></a></em></strong>
 </p>
 
 <p style="text-align: center;">
@@ -44,7 +41,7 @@ Hoje em dia é rotina a gente escutar na TV, por exemplo, o quanto precisamos cu
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/esponja-de-banho.jpg"><img class="size-medium wp-image-5120 aligncenter" title="esponja de banho" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/esponja-de-banho-300x200.jpg" alt="" width="300" height="200" /></a></em></strong>
+  <strong><em><a href="https://www.trololodemulher.com.br/2010/08/esponja-de-banho.jpg"><img class="size-medium wp-image-5120 aligncenter" title="esponja de banho" src="https://www.trololodemulher.com.br/2010/08/esponja-de-banho-300x200.jpg" alt="" width="300" height="200" /></a></em></strong>
 </p>
 
 <p style="text-align: center;">
@@ -52,13 +49,13 @@ Hoje em dia é rotina a gente escutar na TV, por exemplo, o quanto precisamos cu
 </p>
 
 <p style="text-align: justify;">
-  Esta dica é da Chica, que edita o “<a href="http://sementesdiarias.blogspot.com/" target="_blank">Sementes da Chica</a>”, e dá o seguinte recado:
+  Esta dica é da Chica, que edita o “<a href="http://sementesdiarias.blogspot.com/" target="_blank" rel="noopener noreferrer">Sementes da Chica</a>”, e dá o seguinte recado:
 </p>
 
 > _“No banho, não esquecer o chuveiro ligado por muito tempo, podemos nos ensaboar e depois tirar o sabonete. Importante sempre observar os famosos pinguinhos que muitas vezes as crianças deixam nas torneiras correndo&#8230; Juntos, gastam um montão…”_
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/maquina-de-lavar-roupas.jpg"><img class="size-medium wp-image-5122 aligncenter" title="<Digimax S500 / Kenox S500 / Digimax Cyber 530>" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/maquina-de-lavar-roupas-222x300.jpg" alt="" width="222" height="300" /></a></em></strong>
+  <strong><em><a href="https://www.trololodemulher.com.br/2010/08/maquina-de-lavar-roupas.jpg"><img class="size-medium wp-image-5122 aligncenter" title="<Digimax S500 / Kenox S500 / Digimax Cyber 530>" src="https://www.trololodemulher.com.br/2010/08/maquina-de-lavar-roupas-222x300.jpg" alt="" width="222" height="300" /></a></em></strong>
 </p>
 
 <p style="text-align: center;">
@@ -66,7 +63,7 @@ Hoje em dia é rotina a gente escutar na TV, por exemplo, o quanto precisamos cu
 </p>
 
 <p style="text-align: justify;">
-  A Marília, que cuida do “<a href="http://coisas-da-gigi.blogspot.com/" target="_blank">Coisas da Gigi</a>”, é uma diva do lar <em>antenada</em> com a economia doméstica e a saúde, e avisa:
+  A Marília, que cuida do “<a href="http://coisas-da-gigi.blogspot.com/" target="_blank" rel="noopener noreferrer">Coisas da Gigi</a>”, é uma diva do lar <em>antenada</em> com a economia doméstica e a saúde, e avisa:
 </p>
 
 > _“Eu geralmente reaproveito a água da máquina de lavar, na última enxaguada eu encho baldes com a água para a próxima lavada, claro, se eu for lavar em sequência. Não guardo por causa dos mosquitos da dengue. Assim a água já está limpa, e então aproveito para a proxima quando vou colocar o sabão em pó.”_
@@ -76,7 +73,7 @@ Hoje em dia é rotina a gente escutar na TV, por exemplo, o quanto precisamos cu
 </p>
 
 <p style="text-align: justify;">
-  Quem dá mais dicas sobre o que fazer com essa água? É a Rosemary, que cuida da “<a href="http://www.fabricadosconvites.blogspot.com/" target="_blank">Fábrica dos Convites</a>”. Olha só:
+  Quem dá mais dicas sobre o que fazer com essa água? É a Rosemary, que cuida da “<a href="http://www.fabricadosconvites.blogspot.com/" target="_blank" rel="noopener noreferrer">Fábrica dos Convites</a>”. Olha só:
 </p>
 
 > _“O que fazemos muito aqui em casa é lavar o quintal com a última água da máquina de lavar.”_
@@ -86,17 +83,17 @@ Hoje em dia é rotina a gente escutar na TV, por exemplo, o quanto precisamos cu
 </p>
 
 <p style="text-align: justify;">
-  Quem faz isso é a Karla, responsável pelo “<a href="http://karla-ascoisasdekarla.blogspot.com/" target="_blank">As Coisas de Karla</a>”. Ela explica assim:
+  Quem faz isso é a Karla, responsável pelo “<a href="http://karla-ascoisasdekarla.blogspot.com/" target="_blank" rel="noopener noreferrer">As Coisas de Karla</a>”. Ela explica assim:
 </p>
 
 > _“Costumo quando lavo louças, ensaboar tudo primeiro e depois enxaguar tudo de uma vez, também lavo roupas somente uma vez por semana e a água do enxague, uso para lavar o piso da varanda.”_
 
 <p style="text-align: center;">
-   <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/agua-planeta-terra.jpg"><img class="size-medium wp-image-5129 aligncenter" title="image description" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/agua-planeta-terra-300x242.jpg" alt="" width="300" height="242" /></a>
+   <a href="https://www.trololodemulher.com.br/2010/08/agua-planeta-terra.jpg"><img class="size-medium wp-image-5129 aligncenter" title="image description" src="https://www.trololodemulher.com.br/2010/08/agua-planeta-terra-300x242.jpg" alt="" width="300" height="242" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Essas 6 dicas listadas aqui podem se multiplicar se várias divas do lar, como você, dividirem o que faz em casa para poupar água. A Adriana Vieira do blog <a href="http://coisasqueeuamoetc.blogspot.com/" target="_blank">Coisas que eu amo e são tudo pra mim&#8230; </a> revelou, por exemplo, que dá banho nas três crianças que tem de uma só vez, o que a faz poupar água, energia e tempo. Ela ensinou isso e muito mais quando escreveu, para o Bicha Fêmea, o texto “<strong><em><a href="http://www.trololodemulher.com.br/2010/07/26/dicas-domesticas-evitar-gastos/">Todos somos donos de casa: homens, mulheres, crianças</a></em></strong>”.
+  Essas 6 dicas listadas aqui podem se multiplicar se várias divas do lar, como você, dividirem o que faz em casa para poupar água. A Adriana Vieira do blog <a href="http://coisasqueeuamoetc.blogspot.com/" target="_blank" rel="noopener noreferrer">Coisas que eu amo e são tudo pra mim&#8230; </a> revelou, por exemplo, que dá banho nas três crianças que tem de uma só vez, o que a faz poupar água, energia e tempo. Ela ensinou isso e muito mais quando escreveu, para o Bicha Fêmea, o texto “<strong><em><a href="http://www.trololodemulher.com.br/2010/07/26/dicas-domesticas-evitar-gastos/">Todos somos donos de casa: homens, mulheres, crianças</a></em></strong>”.
 </p>
 
 <p style="text-align: justify;">
@@ -107,7 +104,7 @@ Hoje em dia é rotina a gente escutar na TV, por exemplo, o quanto precisamos cu
   E então, você tem dicas?
 </p>
 
-_Imagens:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagens:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 
 **Mais no Bicha Fêmea…**
 

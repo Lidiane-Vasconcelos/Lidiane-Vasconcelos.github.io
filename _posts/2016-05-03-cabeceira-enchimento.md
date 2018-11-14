@@ -1,17 +1,14 @@
 ---
-id: 3602
 title: 'Cabeceira com enchimento “fofinho”: como fazer?'
-date: 2016-05-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/05/03/cabeceira-enchimento/
 permalink: /2016/05/03/cabeceira-enchimento/
 categories:
   - Faça Você Mesma
   - Quarto
 ---
 <p align="justify">
-  Esta é uma dúvida deixada por uma leitora do <strong>Trololó de Mulher no Facebook</strong>. Você já conhece a página do blog por lá? Se não, <strong><a href="https://www.facebook.com/TrololoMulher" target="_blank">vem por aqui, clica, e curta</a></strong>! Será um prazer ter você por lá também, <em>viu</em>? Pois então… a leitora viu a ideia de uma <strong><a href="http://www.decoracaodacasa.com/cabeceira-cama-quarto/" target="_blank">cabeceira feita com vários pedaços de madeira, revestidos com tecido</a>. </strong>Foi ai que a a <strong>Flávia Cristina</strong> deixou um recadinho bem assim:
+  Esta é uma dúvida deixada por uma leitora do <strong>Trololó de Mulher no Facebook</strong>. Você já conhece a página do blog por lá? Se não, <strong><a href="https://www.facebook.com/TrololoMulher" target="_blank" rel="noopener noreferrer">vem por aqui, clica, e curta</a></strong>! Será um prazer ter você por lá também, <em>viu</em>? Pois então… a leitora viu a ideia de uma <strong><a href="http://www.decoracaodacasa.com/cabeceira-cama-quarto/" target="_blank" rel="noopener noreferrer">cabeceira feita com vários pedaços de madeira, revestidos com tecido</a>. </strong>Foi ai que a a <strong>Flávia Cristina</strong> deixou um recadinho bem assim:
 </p>
 
 <p align="justify">
@@ -19,7 +16,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cabeceiras-diferentes/" target="_blank"><strong>3 ideias de cabeceiras diferentes… nada convencionais.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cabeceiras-diferentes/" target="_blank" rel="noopener noreferrer"><strong>3 ideias de cabeceiras diferentes… nada convencionais.</strong></a>
 </p>
 
 > <p align="justify">
@@ -35,7 +32,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/08/moveis-quarto/" target="_blank"><strong>Móveis da casa: falta a mesa de cabeceira no quarto? Improvisa!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/05/08/moveis-quarto/" target="_blank" rel="noopener noreferrer"><strong>Móveis da casa: falta a mesa de cabeceira no quarto? Improvisa!</strong></a>
 </p>
 
 <p align="center">
@@ -43,7 +40,7 @@ categories:
 </p>
 
 <p align="justify">
-  O resultado é lindo de viver, não é? E a execução é <em>superultramega simples, viu</em>? Para fazer exatamente algo assim, o necessário é uma moldura de madeira, que pode ser encomendada numa marcenaria, manta acrílica com medidas um pouco maiores que a moldura, tecido de sua preferência e um grampeador apropriado para esse tipo de trabalho. E só! Você pode ver o <a href="http://theharpsterhome.wordpress.com/2011/11/17/headboard-it-up/" target="_blank">passo a passo em imagens no blog The Harpster Home</a> e, acredite, é incrivelmente simples!
+  O resultado é lindo de viver, não é? E a execução é <em>superultramega simples, viu</em>? Para fazer exatamente algo assim, o necessário é uma moldura de madeira, que pode ser encomendada numa marcenaria, manta acrílica com medidas um pouco maiores que a moldura, tecido de sua preferência e um grampeador apropriado para esse tipo de trabalho. E só! Você pode ver o <a href="http://theharpsterhome.wordpress.com/2011/11/17/headboard-it-up/" target="_blank" rel="noopener noreferrer">passo a passo em imagens no blog The Harpster Home</a> e, acredite, é incrivelmente simples!
 </p>
 
 <p align="justify">
@@ -51,7 +48,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/04/30/cabeceiras-cama-casal/" target="_blank"><strong>Decoração de quartos: cabeceiras.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/04/30/cabeceiras-cama-casal/" target="_blank" rel="noopener noreferrer"><strong>Decoração de quartos: cabeceiras.</strong></a>
 </p>
 
 <p align="justify">
@@ -59,7 +56,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

@@ -1,15 +1,12 @@
 ---
-id: 3177
 title: Quer saber como decorar com fotos?
-date: 2012-08-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/08/29/como-decorar-com-fotos/
 permalink: /2012/08/29/como-decorar-com-fotos/
 categories:
   - Dicas de Decoração
 ---
-Imagino que você esteja buscando ideias e inspirações diferentes para enfeitar a casa com imagens de pessoas queridas, viajens inesquecíveis, ou o que mais você imaginar.  Acertei? Então repare nas **3 ideias** garimpadas no site **_<a href="http://www.scrapbooksetc.com/" target="_blank">scrapbooks etc</a>_**., separe suas fotos prediletas e aplique uma dessas ideias por aí… ou todas elas!
+Imagino que você esteja buscando ideias e inspirações diferentes para enfeitar a casa com imagens de pessoas queridas, viajens inesquecíveis, ou o que mais você imaginar.  Acertei? Então repare nas **3 ideias** garimpadas no site **_<a href="http://www.scrapbooksetc.com/" target="_blank" rel="noopener noreferrer">scrapbooks etc</a>_**., separe suas fotos prediletas e aplique uma dessas ideias por aí… ou todas elas!
 
 &nbsp;
 
@@ -20,7 +17,7 @@ Imagino que você esteja buscando ideias e inspirações diferentes para enfeita
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/29/como-decorar-com-fotos/decoracao-fotos/" rel="attachment wp-att-9060"><img class="alignnone size-full wp-image-9060" title="DECORACAO-FOTOS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-FOTOS.jpg" alt="" width="360" height="480" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/29/como-decorar-com-fotos/decoracao-fotos/" rel="attachment wp-att-9060"><img class="alignnone size-full wp-image-9060" title="DECORACAO-FOTOS" src="https://www.trololodemulher.com.br/2012/08/DECORACAO-FOTOS.jpg" alt="" width="360" height="480" /></a>
 </p>
 
 &nbsp;
@@ -32,7 +29,7 @@ Imagino que você esteja buscando ideias e inspirações diferentes para enfeita
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/29/como-decorar-com-fotos/decoracao-fotos2/" rel="attachment wp-att-9061"><img class="alignnone size-full wp-image-9061" title="DECORACAO-FOTOS[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-FOTOS2.jpg" alt="" width="360" height="400" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/29/como-decorar-com-fotos/decoracao-fotos2/" rel="attachment wp-att-9061"><img class="alignnone size-full wp-image-9061" title="DECORACAO-FOTOS[2]" src="https://www.trololodemulher.com.br/2012/08/DECORACAO-FOTOS2.jpg" alt="" width="360" height="400" /></a>
 </p>
 
 &nbsp;
@@ -44,7 +41,7 @@ Imagino que você esteja buscando ideias e inspirações diferentes para enfeita
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/29/como-decorar-com-fotos/decoracao-fotos3/" rel="attachment wp-att-9064"><img class="alignnone size-full wp-image-9064" title="DECORACAO-FOTOS[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-FOTOS3.jpg" alt="" width="360" height="360" /></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/29/como-decorar-com-fotos/decoracao-fotos3/" rel="attachment wp-att-9064"><img class="alignnone size-full wp-image-9064" title="DECORACAO-FOTOS[3]" src="https://www.trololodemulher.com.br/2012/08/DECORACAO-FOTOS3.jpg" alt="" width="360" height="360" /></a>
 </p>
 
 &nbsp;
@@ -63,13 +60,13 @@ Imagino que você esteja buscando ideias e inspirações diferentes para enfeita
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/decoracao-faca-voce-mesma-quarto-cabeceira200/" rel="attachment wp-att-9020"><img class="alignnone size-full wp-image-9020" title="DECORACAO FACA VOCE MESMA - QUARTO-CABECEIRA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-FACA-VOCE-MESMA-QUARTO-CABECEIRA200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/08/15/decoracao-faca-voce-mesma-5/"><strong><span style="font-size: medium;">Decoração “faça você mesma” bem barata? É com a Keilla Colombo!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/decoracao-faca-voce-mesma-quarto-cabeceira200/" rel="attachment wp-att-9020"><img class="alignnone size-full wp-image-9020" title="DECORACAO FACA VOCE MESMA - QUARTO-CABECEIRA200" src="https://www.trololodemulher.com.br/2012/08/DECORACAO-FACA-VOCE-MESMA-QUARTO-CABECEIRA200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/08/15/decoracao-faca-voce-mesma-5/"><strong><span style="font-size: medium;">Decoração “faça você mesma” bem barata? É com a Keilla Colombo!</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/artesanal-shop2200/" rel="attachment wp-att-8957"><img class="alignnone size-full wp-image-8957" title="ARTESANAL SHOP[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/ARTESANAL-SHOP2200.png" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/artesanal-shop2200/" rel="attachment wp-att-8957"><img class="alignnone size-full wp-image-8957" title="ARTESANAL SHOP[2]200" src="https://www.trololodemulher.com.br/2012/07/ARTESANAL-SHOP2200.png" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -81,7 +78,7 @@ Imagino que você esteja buscando ideias e inspirações diferentes para enfeita
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/decoracao-moveis-papelao-luminaria200/" rel="attachment wp-att-8916"><img class="alignnone size-full wp-image-8916" title="DECORACAO-MOVEIS-PAPELAO-LUMINARIA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/DECORACAO-MOVEIS-PAPELAO-LUMINARIA200.png" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/decoracao-moveis-papelao-luminaria200/" rel="attachment wp-att-8916"><img class="alignnone size-full wp-image-8916" title="DECORACAO-MOVEIS-PAPELAO-LUMINARIA200" src="https://www.trololodemulher.com.br/2012/07/DECORACAO-MOVEIS-PAPELAO-LUMINARIA200.png" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -91,7 +88,7 @@ Imagino que você esteja buscando ideias e inspirações diferentes para enfeita
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/decoracao-cortinas200/" rel="attachment wp-att-8843"><img class="alignnone size-full wp-image-8843" title="DECORACAO - CORTINAS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/DECORACAO-CORTINAS200.jpg" alt="" width="200" height="200" /></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/decoracao-cortinas200/" rel="attachment wp-att-8843"><img class="alignnone size-full wp-image-8843" title="DECORACAO - CORTINAS200" src="https://www.trololodemulher.com.br/2012/07/DECORACAO-CORTINAS200.jpg" alt="" width="200" height="200" /></a>
       </p>
       
       <p align="center">
@@ -103,7 +100,7 @@ Imagino que você esteja buscando ideias e inspirações diferentes para enfeita
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/casaedecoracao/decoracao-faca-voce-mesma200/" rel="attachment wp-att-8827"><img class="alignnone size-full wp-image-8827" title="DECORACAO FACA VOCE MESMA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/DECORACAO-FACA-VOCE-MESMA200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/casaedecoracao/decoracao-faca-voce-mesma200/" rel="attachment wp-att-8827"><img class="alignnone size-full wp-image-8827" title="DECORACAO FACA VOCE MESMA200" src="https://www.trololodemulher.com.br/2012/07/DECORACAO-FACA-VOCE-MESMA200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -113,7 +110,7 @@ Imagino que você esteja buscando ideias e inspirações diferentes para enfeita
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2012/07/04/adesivo-carro-decoracao/adesivos-decorativos2200/" rel="attachment wp-att-8787"><img class="alignnone size-full wp-image-8787" title="ADESIVOS DECORATIVOS[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/ADESIVOS-DECORATIVOS2200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2012/07/04/adesivo-carro-decoracao/adesivos-decorativos2200/" rel="attachment wp-att-8787"><img class="alignnone size-full wp-image-8787" title="ADESIVOS DECORATIVOS[2]200" src="https://www.trololodemulher.com.br/2012/06/ADESIVOS-DECORATIVOS2200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -128,7 +125,7 @@ Imagino que você esteja buscando ideias e inspirações diferentes para enfeita
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -143,13 +140,13 @@ Imagino que você esteja buscando ideias e inspirações diferentes para enfeita
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

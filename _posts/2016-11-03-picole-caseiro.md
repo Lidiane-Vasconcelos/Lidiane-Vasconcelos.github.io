@@ -1,10 +1,7 @@
 ---
-id: 3696
 title: 'Por um Verão perfeito: picolé caseiro de morango e iogurte.'
-date: 2016-11-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/11/03/picole-caseiro/
 permalink: /2016/11/03/picole-caseiro/
 categories:
   - Receitas
@@ -16,7 +13,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13191" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/RECEITA-RECEITA-SAUDAVEL-RECEITA-SIMPLES-PICOLE.jpg" alt="receita-receita-saudavel-receita-simples-picole" width="800" height="1200" />
+  <img class="alignnone size-full wp-image-13191" src="https://www.trololodemulher.com.br/2016/11/RECEITA-RECEITA-SAUDAVEL-RECEITA-SIMPLES-PICOLE.jpg" alt="receita-receita-saudavel-receita-simples-picole" width="800" height="1200" />
 </p>
 
 &nbsp;
@@ -74,7 +71,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13037" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/TANIA-TEVA-I-WANT-TO-BE-A-COOK-RECEITAS.jpg" alt="tania-teva-i-want-to-be-a-cook-receitas" width="800" height="154" />
+  <img class="alignnone size-full wp-image-13037" src="https://www.trololodemulher.com.br/2016/10/TANIA-TEVA-I-WANT-TO-BE-A-COOK-RECEITAS.jpg" alt="tania-teva-i-want-to-be-a-cook-receitas" width="800" height="154" />
 </p>
 
 <p align="justify">
@@ -82,23 +79,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/10/25/brigadeiro-de-pistache/" target="_blank">Brigadeiro de pistache pra adoçar a vida com bossa.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/10/25/brigadeiro-de-pistache/" target="_blank" rel="noopener noreferrer">Brigadeiro de pistache pra adoçar a vida com bossa.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/10/21/alho-assado/" target="_blank">Alho assado com alecrim, pra tornar tudo especial.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/10/21/alho-assado/" target="_blank" rel="noopener noreferrer">Alho assado com alecrim, pra tornar tudo especial.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/10/13/sorvete-caseiro/" target="_blank">Sorvete caseiro de melancia para dias de sol.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/10/13/sorvete-caseiro/" target="_blank" rel="noopener noreferrer">Sorvete caseiro de melancia para dias de sol.</a></strong>
 </p>
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank" rel="noopener noreferrer">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

@@ -1,10 +1,7 @@
 ---
-id: 3701
 title: 'Empreendedorismo feminino: dicas de sucesso com Ju Amorim.'
-date: 2016-11-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/11/10/empreendedorismo-feminino-3/
 permalink: /2016/11/10/empreendedorismo-feminino-3/
 categories:
   - Empreendedorismo Feminino
@@ -17,7 +14,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13232" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/EMPREENDEDORISMO-FEMININO2.jpg" alt="empreendedorismo-feminino2" width="700" height="720" />
+  <img class="alignnone size-full wp-image-13232" src="https://www.trololodemulher.com.br/2016/11/EMPREENDEDORISMO-FEMININO2.jpg" alt="empreendedorismo-feminino2" width="700" height="720" />
 </p>
 
 <p align="center">
@@ -27,13 +24,13 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13231" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/EMPREENDEDORISMO-FEMININO.jpg" alt="empreendedorismo-feminino" width="647" height="185" />
+  <img class="alignnone size-full wp-image-13231" src="https://www.trololodemulher.com.br/2016/11/EMPREENDEDORISMO-FEMININO.jpg" alt="empreendedorismo-feminino" width="647" height="185" />
 </p>
 
 &nbsp;
 
 <p align="justify">
-  “<em>Sempre tive o sonho de ter o meu próprio negócio, e amadureci a ideia de criar minha própria marca. A <strong><a href="http://www.boduchinhos.com.br/" target="_blank">Boduchinhos</a></strong> foi concebida durante minha segunda gravidez. Comecei com a escolha do nome, que veio como um &#8220;click&#8221;: por que não usar o apelido do meu primeiro filho, Boducho? Resolvi arriscar no mercado da moda, dando vida às minhas ideias, usando toda a criatividade e minha a experiência como designer gráfica. Observava que o mercado não oferecia produtos que eu gostaria de ter para meus filhos, foi um processo muito natural, e vejo que tudo fez parte do conceito da marca. Faço com muita dedicação, tento me organizar para dar conta de todo o trabalho, no qual hoje ainda faço sozinha, e não deixo que os obstáculos e problemas me deixem abater. O amor envolvido no meu trabalho é muito grande, e muito maior pelos Boduchos que me inspiraram</em>.”
+  “<em>Sempre tive o sonho de ter o meu próprio negócio, e amadureci a ideia de criar minha própria marca. A <strong><a href="http://www.boduchinhos.com.br/" target="_blank" rel="noopener noreferrer">Boduchinhos</a></strong> foi concebida durante minha segunda gravidez. Comecei com a escolha do nome, que veio como um &#8220;click&#8221;: por que não usar o apelido do meu primeiro filho, Boducho? Resolvi arriscar no mercado da moda, dando vida às minhas ideias, usando toda a criatividade e minha a experiência como designer gráfica. Observava que o mercado não oferecia produtos que eu gostaria de ter para meus filhos, foi um processo muito natural, e vejo que tudo fez parte do conceito da marca. Faço com muita dedicação, tento me organizar para dar conta de todo o trabalho, no qual hoje ainda faço sozinha, e não deixo que os obstáculos e problemas me deixem abater. O amor envolvido no meu trabalho é muito grande, e muito maior pelos Boduchos que me inspiraram</em>.”
 </p>
 
 <p align="justify">
@@ -41,15 +38,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/" target="_blank"><strong>O que faz uma mãe decidir pelo trabalho autônomo?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/" target="_blank" rel="noopener noreferrer"><strong>O que faz uma mãe decidir pelo trabalho autônomo?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/10/14/trabalho-em-casa/" target="_blank"><strong>Trabalho em casa e rotina doméstica: como conciliá-los?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/10/14/trabalho-em-casa/" target="_blank" rel="noopener noreferrer"><strong>Trabalho em casa e rotina doméstica: como conciliá-los?</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13233" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/EMPREENDEDORISMO-FEMININO3.jpg" alt="empreendedorismo-feminino3" width="633" height="205" />
+  <img class="alignnone size-full wp-image-13233" src="https://www.trololodemulher.com.br/2016/11/EMPREENDEDORISMO-FEMININO3.jpg" alt="empreendedorismo-feminino3" width="633" height="205" />
 </p>
 
 <p align="justify">
@@ -61,15 +58,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/13/empreendedorismo-feminino-2/" target="_blank"><strong>Empreendedorismo feminino: o que é mais importante?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/06/13/empreendedorismo-feminino-2/" target="_blank" rel="noopener noreferrer"><strong>Empreendedorismo feminino: o que é mais importante?</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13237" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/EMPREENDEDORISMO-FEMININO7.jpg" alt="empreendedorismo-feminino7" width="700" height="656" />
+  <img class="alignnone size-full wp-image-13237" src="https://www.trololodemulher.com.br/2016/11/EMPREENDEDORISMO-FEMININO7.jpg" alt="empreendedorismo-feminino7" width="700" height="656" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13234" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/EMPREENDEDORISMO-FEMININO4.jpg" alt="empreendedorismo-feminino4" width="634" height="179" />
+  <img class="alignnone size-full wp-image-13234" src="https://www.trololodemulher.com.br/2016/11/EMPREENDEDORISMO-FEMININO4.jpg" alt="empreendedorismo-feminino4" width="634" height="179" />
 </p>
 
 <p align="justify">
@@ -77,11 +74,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13238" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/EMPREENDEDORISMO-FEMININO8.jpg" alt="empreendedorismo-feminino8" width="764" height="920" />
+  <img class="alignnone size-full wp-image-13238" src="https://www.trololodemulher.com.br/2016/11/EMPREENDEDORISMO-FEMININO8.jpg" alt="empreendedorismo-feminino8" width="764" height="920" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13235" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/EMPREENDEDORISMO-FEMININO5.jpg" alt="empreendedorismo-feminino5" width="637" height="199" />
+  <img class="alignnone size-full wp-image-13235" src="https://www.trololodemulher.com.br/2016/11/EMPREENDEDORISMO-FEMININO5.jpg" alt="empreendedorismo-feminino5" width="637" height="199" />
 </p>
 
 <p align="justify">
@@ -89,11 +86,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13239" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/EMPREENDEDORISMO-FEMININO9.jpg" alt="empreendedorismo-feminino9" width="800" height="515" />
+  <img class="alignnone size-full wp-image-13239" src="https://www.trololodemulher.com.br/2016/11/EMPREENDEDORISMO-FEMININO9.jpg" alt="empreendedorismo-feminino9" width="800" height="515" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13236" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/EMPREENDEDORISMO-FEMININO6.jpg" alt="empreendedorismo-feminino6" width="632" height="240" />
+  <img class="alignnone size-full wp-image-13236" src="https://www.trololodemulher.com.br/2016/11/EMPREENDEDORISMO-FEMININO6.jpg" alt="empreendedorismo-feminino6" width="632" height="240" />
 </p>
 
 <p align="justify">
@@ -101,7 +98,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

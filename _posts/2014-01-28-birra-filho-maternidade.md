@@ -1,10 +1,7 @@
 ---
-id: 3276
 title: 'O que fazer na hora da &#8220;birra&#8221;?'
-date: 2014-01-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/01/28/birra-filho-maternidade/
 permalink: /2014/01/28/birra-filho-maternidade/
 categories:
   - Comportamento Infantil
@@ -15,7 +12,7 @@ Você já deve saber, sou mãe de primeira viagem de Artur, que hoje tem 1 aninh
 &nbsp;
 
 <p style="text-align: justify;">
-  Essa não é uma dúvida só minha, concorda? Foi por isso que eu quis editar este post sobre o assunto com a ajuda de quem já vivenciou a situação e aprendeu a contornar esse imprevisto. A boa notícia é que a <strong>Neli Rodrigues</strong>, blogueira no <strong><a href="http://www.caprichosbyneli.com/" target="_blank">Caprichos by Neli</a></strong>, topou dividir sua experiência conosco. Ela é palestrante num curso de gestantes, onde aborda o limite na educação das crianças, e deu o seu recado:
+  Essa não é uma dúvida só minha, concorda? Foi por isso que eu quis editar este post sobre o assunto com a ajuda de quem já vivenciou a situação e aprendeu a contornar esse imprevisto. A boa notícia é que a <strong>Neli Rodrigues</strong>, blogueira no <strong><a href="http://www.caprichosbyneli.com/" target="_blank" rel="noopener noreferrer">Caprichos by Neli</a></strong>, topou dividir sua experiência conosco. Ela é palestrante num curso de gestantes, onde aborda o limite na educação das crianças, e deu o seu recado:
 </p>
 
 <!--more-->
@@ -27,23 +24,23 @@ Você já deve saber, sou mãe de primeira viagem de Artur, que hoje tem 1 aninh
 &nbsp;
 
 <p style="text-align: justify;">
-  Além da contribuição da Neli, a <strong>Elaine Cunha</strong>, do blog <strong><a href="http://www.caminhandocontando.com/" target="_blank">Caminhando e Contando</a></strong>, me enviou um link <em>superultramega</em> bacana abordando o assunto. O tema foi tratado no texto <strong><a href="http://maternar.blogfolha.uol.com.br/2014/01/16/pais-sao-responsaveis-pelas-birras-dos-filhos-conheca-a-criacao-com-apego/" target="_blank">Pais são responsáveis pelas birras dos filhos; conheça a criação com apego</a></strong>, escrito pela <strong>Giovanna Balogh</strong>. O que se vê no que foi escrito é a importância que os pais devem dar ao exercício da observação. Há colocações bem pertinentes, feitas pela <strong>Neurocientista Andréia C.K. Mortensen</strong>, a respeito dos pontos desencadeadores de uma birra: cansaço, sono, tédio, fome, angústia, o fato de a criança estar num ambiente que gera muitos estímulos, a exemplo de um shopping, etc. Sendo assim, o<em> X</em> da questão seria: qual o motivo da birra?
+  Além da contribuição da Neli, a <strong>Elaine Cunha</strong>, do blog <strong><a href="http://www.caminhandocontando.com/" target="_blank" rel="noopener noreferrer">Caminhando e Contando</a></strong>, me enviou um link <em>superultramega</em> bacana abordando o assunto. O tema foi tratado no texto <strong><a href="http://maternar.blogfolha.uol.com.br/2014/01/16/pais-sao-responsaveis-pelas-birras-dos-filhos-conheca-a-criacao-com-apego/" target="_blank" rel="noopener noreferrer">Pais são responsáveis pelas birras dos filhos; conheça a criação com apego</a></strong>, escrito pela <strong>Giovanna Balogh</strong>. O que se vê no que foi escrito é a importância que os pais devem dar ao exercício da observação. Há colocações bem pertinentes, feitas pela <strong>Neurocientista Andréia C.K. Mortensen</strong>, a respeito dos pontos desencadeadores de uma birra: cansaço, sono, tédio, fome, angústia, o fato de a criança estar num ambiente que gera muitos estímulos, a exemplo de um shopping, etc. Sendo assim, o<em> X</em> da questão seria: qual o motivo da birra?
 </p>
 
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/FAMILIA-FILHOS-MATERNIDADE-COMPORTAMENTO-INFANTIL-EDUCACAO-INFANTIL-BIRRA.jpg"><img class="alignnone size-full wp-image-9875" alt="FAMILIA-FILHOS-MATERNIDADE-COMPORTAMENTO INFANTIL-EDUCACAO INFANTIL-BIRRA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/FAMILIA-FILHOS-MATERNIDADE-COMPORTAMENTO-INFANTIL-EDUCACAO-INFANTIL-BIRRA.jpg" width="600" height="402" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/01/FAMILIA-FILHOS-MATERNIDADE-COMPORTAMENTO-INFANTIL-EDUCACAO-INFANTIL-BIRRA.jpg"><img class="alignnone size-full wp-image-9875" alt="FAMILIA-FILHOS-MATERNIDADE-COMPORTAMENTO INFANTIL-EDUCACAO INFANTIL-BIRRA" src="https://www.trololodemulher.com.br/2014/01/FAMILIA-FILHOS-MATERNIDADE-COMPORTAMENTO-INFANTIL-EDUCACAO-INFANTIL-BIRRA.jpg" width="600" height="402" /></a>
 </p>
 
 <p style="text-align: center;">
-  Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  Quem mais conhece nossa cria? A prática da observação se dá no dia a dia, na atenção aos pormenores do comportamento do filho. Disso eu entendo! Isso exige paciência, é verdade, mas o resultado é fantástico, porque nos dá poderes enormes para detectar o que pode estar perturbando a criança. E mais, é a partir da intimidade que construímos com os pequenos que podemos nos atencipar e evitar certas situações de desconforto. Enfim, de acordo com o posicionamento da especialista no texto, “<em>não existe uma fórmula de como cessar a birra, pois não a controlamos, mas lidamos com elas. Para cada birra, é necessária uma atitude diferente, dependendo da sua causa</em>”. A indicação da Elaine, realmente, foi muito feliz. A leitura vale muito a pena, é bastante rica para nós, que somos mães dispostas a conduzir a criação dos filhos com leveza, sem violência. Dê um<strong> <a href="http://maternar.blogfolha.uol.com.br/2014/01/16/pais-sao-responsaveis-pelas-birras-dos-filhos-conheca-a-criacao-com-apego/" target="_blank">clique aqui</a></strong>, e boa leitura!
+  Quem mais conhece nossa cria? A prática da observação se dá no dia a dia, na atenção aos pormenores do comportamento do filho. Disso eu entendo! Isso exige paciência, é verdade, mas o resultado é fantástico, porque nos dá poderes enormes para detectar o que pode estar perturbando a criança. E mais, é a partir da intimidade que construímos com os pequenos que podemos nos atencipar e evitar certas situações de desconforto. Enfim, de acordo com o posicionamento da especialista no texto, “<em>não existe uma fórmula de como cessar a birra, pois não a controlamos, mas lidamos com elas. Para cada birra, é necessária uma atitude diferente, dependendo da sua causa</em>”. A indicação da Elaine, realmente, foi muito feliz. A leitura vale muito a pena, é bastante rica para nós, que somos mães dispostas a conduzir a criação dos filhos com leveza, sem violência. Dê um<strong> <a href="http://maternar.blogfolha.uol.com.br/2014/01/16/pais-sao-responsaveis-pelas-birras-dos-filhos-conheca-a-criacao-com-apego/" target="_blank" rel="noopener noreferrer">clique aqui</a></strong>, e boa leitura!
 </p>
 
 <p style="text-align: justify;">
@@ -93,7 +90,7 @@ Você já deve saber, sou mãe de primeira viagem de Artur, que hoje tem 1 aninh
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -110,13 +107,13 @@ Você já deve saber, sou mãe de primeira viagem de Artur, que hoje tem 1 aninh
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -125,5 +122,5 @@ Você já deve saber, sou mãe de primeira viagem de Artur, que hoje tem 1 aninh
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
+  <a href="https://www.facebook.com/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="https://www.trololodemulher.com.br/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
 </p>

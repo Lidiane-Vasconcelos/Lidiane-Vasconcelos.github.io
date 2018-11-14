@@ -1,10 +1,7 @@
 ---
-id: 3437
 title: 'Compare: a diferença da Primavera no Brasil e na Finlândia.'
-date: 2015-06-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/06/19/primavera-finlandia/
 permalink: /2015/06/19/primavera-finlandia/
 categories:
   - Adriana Minhoto
@@ -27,7 +24,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/FINLANDIA-PRIMAVERA-FLORES-TULIPA.jpg"><img class="alignnone size-full wp-image-11055" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/FINLANDIA-PRIMAVERA-FLORES-TULIPA.jpg" alt="FINLANDIA-PRIMAVERA-FLORES-TULIPA" width="597" height="796" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/FINLANDIA-PRIMAVERA-FLORES-TULIPA.jpg"><img class="alignnone size-full wp-image-11055" src="https://www.trololodemulher.com.br/2015/06/FINLANDIA-PRIMAVERA-FLORES-TULIPA.jpg" alt="FINLANDIA-PRIMAVERA-FLORES-TULIPA" width="597" height="796" /></a>
 </p>
 
 <p align="center">
@@ -35,11 +32,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/FINLANDIA-PRIMAVERA-ARVORE.jpg"><img class="alignnone size-full wp-image-11051" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/FINLANDIA-PRIMAVERA-ARVORE.jpg" alt="FINLANDIA-PRIMAVERA-ARVORE" width="800" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/FINLANDIA-PRIMAVERA-ARVORE.jpg"><img class="alignnone size-full wp-image-11051" src="https://www.trololodemulher.com.br/2015/06/FINLANDIA-PRIMAVERA-ARVORE.jpg" alt="FINLANDIA-PRIMAVERA-ARVORE" width="800" height="600" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/FINLANDIA-PRIMAVERA-FLORES.jpg"><img class="alignnone size-full wp-image-11054" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/FINLANDIA-PRIMAVERA-FLORES.jpg" alt="FINLANDIA-PRIMAVERA-FLORES" width="800" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/FINLANDIA-PRIMAVERA-FLORES.jpg"><img class="alignnone size-full wp-image-11054" src="https://www.trololodemulher.com.br/2015/06/FINLANDIA-PRIMAVERA-FLORES.jpg" alt="FINLANDIA-PRIMAVERA-FLORES" width="800" height="600" /></a>
 </p>
 
 <p align="center">
@@ -51,7 +48,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/FINALANDIA-PRIMAVERA-22H.jpg"><img class="alignnone size-full wp-image-11048" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/FINALANDIA-PRIMAVERA-22H.jpg" alt="FINALANDIA-PRIMAVERA-22H" width="800" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/FINALANDIA-PRIMAVERA-22H.jpg"><img class="alignnone size-full wp-image-11048" src="https://www.trololodemulher.com.br/2015/06/FINALANDIA-PRIMAVERA-22H.jpg" alt="FINALANDIA-PRIMAVERA-22H" width="800" height="600" /></a>
 </p>
 
 <p align="center">
@@ -59,7 +56,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/FINLANDIA-PRIMAVERA-23H.jpg"><img class="alignnone size-full wp-image-11049" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/FINLANDIA-PRIMAVERA-23H.jpg" alt="FINLANDIA-PRIMAVERA-23H" width="800" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/FINLANDIA-PRIMAVERA-23H.jpg"><img class="alignnone size-full wp-image-11049" src="https://www.trololodemulher.com.br/2015/06/FINLANDIA-PRIMAVERA-23H.jpg" alt="FINLANDIA-PRIMAVERA-23H" width="800" height="600" /></a>
 </p>
 
 <p align="center">
@@ -67,7 +64,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/FINLANDIA-PRIMAVERA-24H.jpg"><img class="alignnone size-full wp-image-11050" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/FINLANDIA-PRIMAVERA-24H.jpg" alt="FINLANDIA-PRIMAVERA-24H" width="800" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/FINLANDIA-PRIMAVERA-24H.jpg"><img class="alignnone size-full wp-image-11050" src="https://www.trololodemulher.com.br/2015/06/FINLANDIA-PRIMAVERA-24H.jpg" alt="FINLANDIA-PRIMAVERA-24H" width="800" height="600" /></a>
 </p>
 
 <p align="center">
@@ -83,7 +80,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ADRIANA-MINHOTO.png"><img class="alignnone size-full wp-image-10378" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ADRIANA-MINHOTO.png" alt="ADRIANA MINHOTO" width="800" height="227" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/09/ADRIANA-MINHOTO.png"><img class="alignnone size-full wp-image-10378" src="https://www.trololodemulher.com.br/2014/09/ADRIANA-MINHOTO.png" alt="ADRIANA MINHOTO" width="800" height="227" /></a>
 </p>
 
 **Entenda como tudo começou:**
@@ -92,20 +89,20 @@ categories:
 
 **Mais sobre a Finlândia, por Adriana Minhoto:**
 
-<a href="http://www.trololodemulher.com.br/2015/05/15/dri-de-volta-pra-finlandia/" target="_blank"><strong>Dri… de volta pra Finlândia.</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/05/15/dri-de-volta-pra-finlandia/" target="_blank" rel="noopener noreferrer"><strong>Dri… de volta pra Finlândia.</strong></a>
 
-<a href="http://www.trololodemulher.com.br/2015/03/20/longe-da-familia-saudade/" target="_blank"><strong>Tanto tempo longe da família e amigos… quem aguenta?</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/03/20/longe-da-familia-saudade/" target="_blank" rel="noopener noreferrer"><strong>Tanto tempo longe da família e amigos… quem aguenta?</strong></a>
 
-<a href="http://www.trololodemulher.com.br/2015/02/20/maternidade-finlandia/" target="_blank"><strong>Se você fosse mãe lá na Finlândia…</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/02/20/maternidade-finlandia/" target="_blank" rel="noopener noreferrer"><strong>Se você fosse mãe lá na Finlândia…</strong></a>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/">clicar aqui e se jogar</a>! Vai! Ah! O<strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank" rel="noopener noreferrer">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank" rel="noopener noreferrer">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/">clicar aqui e se jogar</a>! Vai! Ah! O<strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank" rel="noopener noreferrer">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p style="text-align: justify;">

@@ -1,10 +1,7 @@
 ---
-id: 2920
 title: Colesterol alto? Invista na reeducação alimentar!
-date: 2010-12-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/12/03/reeducacao-alimentar/
 permalink: /2010/12/03/reeducacao-alimentar/
 categories:
   - Saúde
@@ -22,11 +19,11 @@ Você foi ao médico verificar como anda sua saúde e descobriu que tem tendênc
 </p>
 
 <p style="text-align: justify;">
-  Consultei a <strong>Dra. Kilza Miranda</strong>, que é <strong>Nutricionista</strong> e responsável pelo site <a href="http://kilzakoch.com.br/" target="_blank">Kilza Koch</a>. É ela quem dá dicas e orientações básicas para pessoas como você e eu, que querem fazer mudanças no hábito alimentar e usar isso como aliado definitivo na prevenção do aumento do colesterol ruim no organismo. É importante salientar, entretanto, que a consulta com um profissional jamais deve ser descartada, porque “<em>após avaliação nutricional com o nutricionista, será prescrito uma dieta individual específica para redução do colesterol</em>”, alerta a Dra. Kilza.
+  Consultei a <strong>Dra. Kilza Miranda</strong>, que é <strong>Nutricionista</strong> e responsável pelo site <a href="http://kilzakoch.com.br/" target="_blank" rel="noopener noreferrer">Kilza Koch</a>. É ela quem dá dicas e orientações básicas para pessoas como você e eu, que querem fazer mudanças no hábito alimentar e usar isso como aliado definitivo na prevenção do aumento do colesterol ruim no organismo. É importante salientar, entretanto, que a consulta com um profissional jamais deve ser descartada, porque “<em>após avaliação nutricional com o nutricionista, será prescrito uma dieta individual específica para redução do colesterol</em>”, alerta a Dra. Kilza.
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/pao-com-leite.jpg"><img class="alignnone size-full wp-image-5554" title="pão com leite" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/pao-com-leite.jpg" width="285" height="427" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/pao-com-leite.jpg"><img class="alignnone size-full wp-image-5554" title="pão com leite" alt="" src="https://www.trololodemulher.com.br/2010/12/pao-com-leite.jpg" width="285" height="427" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -162,7 +159,7 @@ Você foi ao médico verificar como anda sua saúde e descobriu que tem tendênc
 </table>
 
 <p style="text-align: justify;">
-  Você pode conferir outras sugestões de trocas saudáveis no <a href="http://kilzakoch.com.br/" target="_blank">Kilza Koch</a>. Manter-se informada sobre o que pode ou não fazer bem a sua saúde pode contar pontos a favor. No intuito de prevenir o colesterol alto, muitas pessoas passam a usar azeite em tudo para substituir os demais óleos, inclusive aquecendo o produto. Eu já caí nessa armadilha. Essa prática faz mal, sabia? Segundo a <strong>Dra. Kilza Miranda</strong>, “<em>o azeite quando aquecido gera uma substância chamada acroelina, sendo cancerígena. Neste caso, o ideal é consumir na forma natural</em>”. Por isso, informar-se muito bem será sempre a melhor estratégia.
+  Você pode conferir outras sugestões de trocas saudáveis no <a href="http://kilzakoch.com.br/" target="_blank" rel="noopener noreferrer">Kilza Koch</a>. Manter-se informada sobre o que pode ou não fazer bem a sua saúde pode contar pontos a favor. No intuito de prevenir o colesterol alto, muitas pessoas passam a usar azeite em tudo para substituir os demais óleos, inclusive aquecendo o produto. Eu já caí nessa armadilha. Essa prática faz mal, sabia? Segundo a <strong>Dra. Kilza Miranda</strong>, “<em>o azeite quando aquecido gera uma substância chamada acroelina, sendo cancerígena. Neste caso, o ideal é consumir na forma natural</em>”. Por isso, informar-se muito bem será sempre a melhor estratégia.
 </p>
 
 <p style="text-align: justify;">
@@ -183,7 +180,7 @@ Você foi ao médico verificar como anda sua saúde e descobriu que tem tendênc
   * Faça uso das castanhas, nozes, amêndoas.
 </p>
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 
 **Mais no Bicha Fêmea…**
 

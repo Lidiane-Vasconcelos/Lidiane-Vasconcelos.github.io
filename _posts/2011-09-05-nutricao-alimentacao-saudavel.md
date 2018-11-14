@@ -1,10 +1,7 @@
 ---
-id: 3046
 title: A sua escolha na alimentação do dia a dia é saudável?
-date: 2011-09-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/09/05/nutricao-alimentacao-saudavel/
 permalink: /2011/09/05/nutricao-alimentacao-saudavel/
 categories:
   - Saúde
@@ -42,13 +39,13 @@ Quer ficar **mais bonita e saudável** para aguentar bem a correria diária? Ót
 >     <tr>
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/emagrecimento200.jpg"><img class="alignnone size-full wp-image-6472" title="emagrecimento200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/emagrecimento200.jpg" alt="" width="200" height="200" /></a><br /> <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2010/01/26/emagrecimento/">Emagrecimento e organização</a></span></strong>
+>           <a href="https://www.trololodemulher.com.br/2011/05/emagrecimento200.jpg"><img class="alignnone size-full wp-image-6472" title="emagrecimento200" src="https://www.trololodemulher.com.br/2011/05/emagrecimento200.jpg" alt="" width="200" height="200" /></a><br /> <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2010/01/26/emagrecimento/">Emagrecimento e organização</a></span></strong>
 >         </p>
 >       </td>
 >       
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/cafe-da-manha1200.jpg"><img class="alignnone size-full wp-image-5881" title="café da manhã1200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/cafe-da-manha1200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2009/02/07/dieta-2/"><span style="font-size: small;">4 razões para você tomar café da manhã</span></a></strong>
+>           <a href="https://www.trololodemulher.com.br/2011/01/cafe-da-manha1200.jpg"><img class="alignnone size-full wp-image-5881" title="café da manhã1200" src="https://www.trololodemulher.com.br/2011/01/cafe-da-manha1200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2009/02/07/dieta-2/"><span style="font-size: small;">4 razões para você tomar café da manhã</span></a></strong>
 >         </p>
 >       </td>
 >     </tr>
@@ -58,19 +55,19 @@ Quer ficar **mais bonita e saudável** para aguentar bem a correria diária? Ót
 >     <tr>
 >       <td valign="top" width="200">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/crianca200.jpg"><img class="alignnone size-thumbnail wp-image-6470" title="criança200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/crianca200-150x150.jpg" alt="" width="150" height="150" /></a><strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2010/04/12/obesidade-infantil/">Excesso de lanches pode estar contribuindo para a obesidade infantil</a></span></strong>
+>           <a href="https://www.trololodemulher.com.br/2011/05/crianca200.jpg"><img class="alignnone size-thumbnail wp-image-6470" title="criança200" src="https://www.trololodemulher.com.br/2011/05/crianca200-150x150.jpg" alt="" width="150" height="150" /></a><strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2010/04/12/obesidade-infantil/">Excesso de lanches pode estar contribuindo para a obesidade infantil</a></span></strong>
 >         </p>
 >       </td>
 >       
 >       <td valign="top" width="200">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/morango.jpg"><img class="alignnone size-thumbnail wp-image-4934" title="morango" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/morango-150x150.jpg" alt="" width="150" height="150" /></a><strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2010/05/28/escolha-alimentos-saudaveis/">Alimentos gordurosos X escolhas saudáveis</a></span></strong>
+>           <a href="https://www.trololodemulher.com.br/2010/07/morango.jpg"><img class="alignnone size-thumbnail wp-image-4934" title="morango" src="https://www.trololodemulher.com.br/2010/07/morango-150x150.jpg" alt="" width="150" height="150" /></a><strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2010/05/28/escolha-alimentos-saudaveis/">Alimentos gordurosos X escolhas saudáveis</a></span></strong>
 >         </p>
 >       </td>
 >       
 >       <td valign="top" width="200">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/nutricao200.jpg"><img class="alignnone size-thumbnail wp-image-6870" title="nutrição200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/nutricao200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2010/01/13/comer-bem/">Comer bem para viver melhor</a></span></strong>
+>           <a href="https://www.trololodemulher.com.br/2011/09/nutricao200.jpg"><img class="alignnone size-thumbnail wp-image-6870" title="nutrição200" src="https://www.trololodemulher.com.br/2011/09/nutricao200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2010/01/13/comer-bem/">Comer bem para viver melhor</a></span></strong>
 >         </p>
 >       </td>
 >     </tr>
@@ -80,19 +77,19 @@ Quer ficar **mais bonita e saudável** para aguentar bem a correria diária? Ót
 >     <tr>
 >       <td valign="top" width="200">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/dieta200.jpg"><img class="alignnone size-thumbnail wp-image-5825" title="dieta200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/dieta200-150x150.jpg" alt="" width="150" height="150" /><br /> </a><strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2010/02/02/dieta/">Erros comuns que podem estragar sua dieta</a></span></strong>
+>           <a href="https://www.trololodemulher.com.br/2011/01/dieta200.jpg"><img class="alignnone size-thumbnail wp-image-5825" title="dieta200" src="https://www.trololodemulher.com.br/2011/01/dieta200-150x150.jpg" alt="" width="150" height="150" /><br /> </a><strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2010/02/02/dieta/">Erros comuns que podem estragar sua dieta</a></span></strong>
 >         </p>
 >       </td>
 >       
 >       <td valign="top" width="200">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/prancheta200.jpg"><img class="alignnone size-thumbnail wp-image-6059" title="prancheta200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/prancheta200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/03/11/registre-e-emagreca/"><span style="font-size: small;"><strong>Registre e emagreça!</strong></span></a>
+>           <a href="https://www.trololodemulher.com.br/2011/02/prancheta200.jpg"><img class="alignnone size-thumbnail wp-image-6059" title="prancheta200" src="https://www.trololodemulher.com.br/2011/02/prancheta200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/03/11/registre-e-emagreca/"><span style="font-size: small;"><strong>Registre e emagreça!</strong></span></a>
 >         </p>
 >       </td>
 >       
 >       <td valign="top" width="200">
 >         <p align="center">
->           <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/pao-com-leite200.jpg"><img class="alignnone size-thumbnail wp-image-5556" title="pão com leite200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/pao-com-leite200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2010/12/03/reeducacao-alimentar/">Colesterol alto? Invista na reeducação alimentar!</a></span></strong>
+>           <a href="https://www.trololodemulher.com.br/2010/12/pao-com-leite200.jpg"><img class="alignnone size-thumbnail wp-image-5556" title="pão com leite200" src="https://www.trololodemulher.com.br/2010/12/pao-com-leite200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2010/12/03/reeducacao-alimentar/">Colesterol alto? Invista na reeducação alimentar!</a></span></strong>
 >         </p>
 >       </td>
 >     </tr>

@@ -1,15 +1,12 @@
 ---
-id: 2620
 title: Alternativas para decorar uma mesa de jantar.
-date: 2009-02-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/02/11/decoracao-mesa-sala-jantar/
 permalink: /2009/02/11/decoracao-mesa-sala-jantar/
 categories:
   - Salas
 ---
-Cá estou eu mais uma vez com o objetivo de ajudar a <a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank">Rose</a>, que pediu minha ajuda para garimpar imagens que a inspirassem e dessem idéias possíveis para ela arrumar sua **mesa da sala de jantar**. 
+Cá estou eu mais uma vez com o objetivo de ajudar a <a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank" rel="noopener noreferrer">Rose</a>, que pediu minha ajuda para garimpar imagens que a inspirassem e dessem idéias possíveis para ela arrumar sua **mesa da sala de jantar**. 
 
 Aliás, também dei _pitacos_ na decoração da sala de jantar de outra bicha fêmea navegante. Foi na casa da Flávia que algumas opiniões foram dadas para a** __**<a href="http://www.trololodemulher.com.br/2010/04/09/pitacos-de-bicha-femea-sala-de-estar-e-de-jantar/" target="_self"><strong><em>decoração da sala de jantar</em></strong></a> e estar dela&#8230;
 
@@ -19,7 +16,7 @@ Quanto a este post, lógico que a gente vai pegar carona nessas inspirações…
 
  ![www.thefurniture.com](http://www.thefurniture.com/store/images/global/siena/table_lg.jpg "www.thefurniture.com")
 
-Imagem: <a href="http://www.thefurniture.com/store/" target="_blank">The Furniture</a>
+Imagem: <a href="http://www.thefurniture.com/store/" target="_blank" rel="noopener noreferrer">The Furniture</a>
 
 Se a gente se garantir que a madeira da mesa está “nos trinques”, não há necessidade de sempre cobrir a mesa, certo? Ou ainda, se você gostar, poderia usar um caminho de mesa. Que tal? Na verdade, essa é uma escolha bem pessoal. Há quem goste, como eu. Muitas bichas fêmeas navegantes deram sua opinião sobre o <a href="http://www.trololodemulher.com.br/2009/11/05/caminho-de-mesa-em-mesa-de-vidro-usar-ou-no/" target="_self"><strong><em>uso do caminho de mesa</em></strong> </a>e talvez você queira saber, _hã_? 
 
@@ -55,7 +52,7 @@ Esta é uma alternativa diferente, bonita e bastante interessante. É possível 
   </p>
   
   <p>
-    Demais imagens: <a href="http://www.housetohome.co.uk/" target="_blank">House to Home</a>
+    Demais imagens: <a href="http://www.housetohome.co.uk/" target="_blank" rel="noopener noreferrer">House to Home</a>
   </p>
   
   <p>
@@ -91,9 +88,9 @@ Esta é uma alternativa diferente, bonita e bastante interessante. É possível 
   </p>
   
   <p style="text-align: center;">
-    Receba atualizações do Bicha Fêmea por <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">e-mail </a>ou <a href="http://feeds2.feedburner.com/blogbichafemea" target="_blank">feed</a> . Siga o Bicha Fêmea no Twitter &#8211; <a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a>.
+    Receba atualizações do Bicha Fêmea por <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer">e-mail </a>ou <a href="http://feeds2.feedburner.com/blogbichafemea" target="_blank" rel="noopener noreferrer">feed</a> . Siga o Bicha Fêmea no Twitter &#8211; <a href="http://twitter.com/bichafemea" target="_blank" rel="noopener noreferrer">@bichafemea</a>.
   </p>
   
   <p style="text-align: center;">
-    <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank"><em>basta clicar</em></a><em>!</em></strong>
+    <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank" rel="noopener noreferrer"><em>basta clicar</em></a><em>!</em></strong>
   </p>

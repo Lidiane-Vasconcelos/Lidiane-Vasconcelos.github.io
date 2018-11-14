@@ -1,10 +1,7 @@
 ---
-id: 2898
 title: Como melhorar o Bicha Fêmea?
-date: 2010-11-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/11/03/como-melhorar-o-bicha-femea/
 permalink: /2010/11/03/como-melhorar-o-bicha-femea/
 categories:
   - Trololó
@@ -18,7 +15,7 @@ Sim, faço a você, bicha fêmea navegante, essa pergunta, porque quem acha que 
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Pesquisa-de-satisfacao.jpg"><img class="alignnone size-full wp-image-5360" title="Pesquisa de satisfação" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Pesquisa-de-satisfacao.jpg" alt="" width="450" height="414" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/Pesquisa-de-satisfacao.jpg"><img class="alignnone size-full wp-image-5360" title="Pesquisa de satisfação" src="https://www.trololodemulher.com.br/2010/10/Pesquisa-de-satisfacao.jpg" alt="" width="450" height="414" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -38,7 +35,7 @@ Sim, faço a você, bicha fêmea navegante, essa pergunta, porque quem acha que 
 </p>
 
 <p style="text-align: justify;">
-  <em>Imagem: </em><a href="http://www.sxc.hu/" target="_blank"><em>sotck.xchng</em></a>
+  <em>Imagem: </em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>sotck.xchng</em></a>
 </p>
 
 <p style="text-align: center;">

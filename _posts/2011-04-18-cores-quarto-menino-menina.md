@@ -1,10 +1,7 @@
 ---
-id: 2978
 title: Como combinar cores no quarto de meninos e meninas?
-date: 2011-04-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/04/18/cores-quarto-menino-menina/
 permalink: /2011/04/18/cores-quarto-menino-menina/
 categories:
   - Decoração
@@ -25,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/decoracao-infantil-quarto-de-menino.jpg"><img class="alignnone size-full wp-image-6240" title="decoração infantil - quarto de menino" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/decoracao-infantil-quarto-de-menino.jpg" alt="" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/decoracao-infantil-quarto-de-menino.jpg"><img class="alignnone size-full wp-image-6240" title="decoração infantil - quarto de menino" src="https://www.trololodemulher.com.br/2011/04/decoracao-infantil-quarto-de-menino.jpg" alt="" width="550" height="550" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -45,11 +42,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.decoracaodacasa.com/decoracao-quarto-menino/" target="_blank">Decoração para quarto de menino.</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/decoracao-quarto-menino/" target="_blank" rel="noopener noreferrer">Decoração para quarto de menino.</a></strong>
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.decoracaodacasa.com/quarto-de-menino-branco/" target="_blank">Quarto de menino completamente branco?</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/quarto-de-menino-branco/" target="_blank" rel="noopener noreferrer">Quarto de menino completamente branco?</a></strong>
 </p>
 
 <p style="text-align: center;">
@@ -57,7 +54,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/decoracao-infantil-quarto-de-menina.jpg"><img class="alignnone size-full wp-image-6238" title="decoração infantil - quarto de menina" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/decoracao-infantil-quarto-de-menina.jpg" alt="" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/decoracao-infantil-quarto-de-menina.jpg"><img class="alignnone size-full wp-image-6238" title="decoração infantil - quarto de menina" src="https://www.trololodemulher.com.br/2011/04/decoracao-infantil-quarto-de-menina.jpg" alt="" width="550" height="550" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -77,7 +74,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/decoracao-infantil-quarto-de-menina2.jpg"><img class="alignnone size-full wp-image-6239" title="decoração infantil - quarto de menina[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/decoracao-infantil-quarto-de-menina2.jpg" alt="" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/decoracao-infantil-quarto-de-menina2.jpg"><img class="alignnone size-full wp-image-6239" title="decoração infantil - quarto de menina[2]" src="https://www.trololodemulher.com.br/2011/04/decoracao-infantil-quarto-de-menina2.jpg" alt="" width="550" height="550" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -93,7 +90,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.decoracaodacasa.com/decoracao-quarto-menina/" target="_blank">Decoração infantil: quartos fofos para meninas.</a></strong>
+  <strong><a href="http://www.decoracaodacasa.com/decoracao-quarto-menina/" target="_blank" rel="noopener noreferrer">Decoração infantil: quartos fofos para meninas.</a></strong>
 </p>
 
 <p style="text-align: center;">
@@ -101,7 +98,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/decoracao-infantil-quarto-de-menino2.jpg"><img class="alignnone size-full wp-image-6243" title="decoração infantil - quarto de menino[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/decoracao-infantil-quarto-de-menino2.jpg" alt="" width="550" height="550" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/decoracao-infantil-quarto-de-menino2.jpg"><img class="alignnone size-full wp-image-6243" title="decoração infantil - quarto de menino[2]" src="https://www.trololodemulher.com.br/2011/04/decoracao-infantil-quarto-de-menino2.jpg" alt="" width="550" height="550" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -113,23 +110,23 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/decoracao-tecido-na-parede.jpg"><img class="alignnone size-full wp-image-6244" title="decoração tecido na parede" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/decoracao-tecido-na-parede.jpg" alt="" width="538" height="432" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/decoracao-tecido-na-parede.jpg"><img class="alignnone size-full wp-image-6244" title="decoração tecido na parede" src="https://www.trololodemulher.com.br/2011/04/decoracao-tecido-na-parede.jpg" alt="" width="538" height="432" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Corre no <strong><a href="http://www.margaretss.com.br/" target="_blank">blog da Margaret</a></strong> e veja mais detalhes de como a Elisa Pinheiro, sua leitora arteira, fez isso. Está tudo <strong><a href="http://www.margaretss.com.br/archives/5053" target="_blank">aqui</a></strong>. Inspire-se e faça algo como a parede de listras no quarto do seu filho!
+  Corre no <strong><a href="http://www.margaretss.com.br/" target="_blank" rel="noopener noreferrer">blog da Margaret</a></strong> e veja mais detalhes de como a Elisa Pinheiro, sua leitora arteira, fez isso. Está tudo <strong><a href="http://www.margaretss.com.br/archives/5053" target="_blank" rel="noopener noreferrer">aqui</a></strong>. Inspire-se e faça algo como a parede de listras no quarto do seu filho!
 </p>
 
-Imagens: **<a href="http://www.housetohome.co.uk/" target="_blank">housetohome</a>**
+Imagens: **<a href="http://www.housetohome.co.uk/" target="_blank" rel="noopener noreferrer">housetohome</a>**
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
+  <a href="http://www.decoracaodacasa.com/" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10262" src="https://www.trololodemulher.com.br/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
 </p>
 
 &nbsp;

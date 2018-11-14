@@ -1,10 +1,7 @@
 ---
-id: 3323
 title: Chegou o frio… e as doenças infantis. E agora?
-date: 2014-07-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/07/21/frio-doencas-infantis/
 permalink: /2014/07/21/frio-doencas-infantis/
 categories:
   - Maternidade
@@ -31,11 +28,11 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/SAÚDE-CRIANÇA-INFANTIL-DOENÇA-INVERNO.jpg"><img class="alignnone size-full wp-image-10222" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/SAÚDE-CRIANÇA-INFANTIL-DOENÇA-INVERNO.jpg" alt="SAÚDE-CRIANÇA-INFANTIL-DOENÇA-INVERNO" width="600" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/07/SAÚDE-CRIANÇA-INFANTIL-DOENÇA-INVERNO.jpg"><img class="alignnone size-full wp-image-10222" src="https://www.trololodemulher.com.br/2014/07/SAÚDE-CRIANÇA-INFANTIL-DOENÇA-INVERNO.jpg" alt="SAÚDE-CRIANÇA-INFANTIL-DOENÇA-INVERNO" width="600" height="600" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
+  Imagem: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">free images</a>
 </p>
 
 &nbsp;
@@ -65,15 +62,15 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/PAOLLA-LIMY-MATSUURA-ALBERTON-PEDIATRA-CAMPINAS.png"><img class="alignnone size-full wp-image-9572" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/PAOLLA-LIMY-MATSUURA-ALBERTON-PEDIATRA-CAMPINAS.png" alt="PAOLLA LIMY MATSUURA ALBERTON PEDIATRA CAMPINAS" width="516" height="283" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/06/PAOLLA-LIMY-MATSUURA-ALBERTON-PEDIATRA-CAMPINAS.png"><img class="alignnone size-full wp-image-9572" src="https://www.trololodemulher.com.br/2013/06/PAOLLA-LIMY-MATSUURA-ALBERTON-PEDIATRA-CAMPINAS.png" alt="PAOLLA LIMY MATSUURA ALBERTON PEDIATRA CAMPINAS" width="516" height="283" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  A <strong>Dra. Paolla</strong> também é blogueira, e escreve <strong>textos informativos na linguagem de mãe</strong>, de modo que possamos usufruir de conhecimento, o que é imprescindível na criação de nossas crianças, e ainda trocarmos experiência com ela, que também é mãe. Isso não é bacana? Aposto que você gostou da ideia de dar uma <em>espiada</em> no blog da Dra Paolla, o <a href="https://mamiped.wordpress.com/" target="_blank">Mamiped</a>, e até acompanhá-la em suas publicações, certo? Eu imaginei… então, oh: se joga também na <a href="https://www.facebook.com/mamaepediatra/" target="_blank">Fanpage da médica</a>, e no <a href="https://www.instagram.com/mamiped/" target="_blank">Instagram</a>. Aproveita!
+  A <strong>Dra. Paolla</strong> também é blogueira, e escreve <strong>textos informativos na linguagem de mãe</strong>, de modo que possamos usufruir de conhecimento, o que é imprescindível na criação de nossas crianças, e ainda trocarmos experiência com ela, que também é mãe. Isso não é bacana? Aposto que você gostou da ideia de dar uma <em>espiada</em> no blog da Dra Paolla, o <a href="https://mamiped.wordpress.com/" target="_blank" rel="noopener noreferrer">Mamiped</a>, e até acompanhá-la em suas publicações, certo? Eu imaginei… então, oh: se joga também na <a href="https://www.facebook.com/mamaepediatra/" target="_blank" rel="noopener noreferrer">Fanpage da médica</a>, e no <a href="https://www.instagram.com/mamiped/" target="_blank" rel="noopener noreferrer">Instagram</a>. Aproveita!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

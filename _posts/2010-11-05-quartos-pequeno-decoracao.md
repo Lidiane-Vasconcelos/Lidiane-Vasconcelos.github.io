@@ -1,10 +1,7 @@
 ---
-id: 2905
 title: 'Quartos: soluções de decoração para pouco espaço.'
-date: 2010-11-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/11/05/quartos-pequeno-decoracao/
 permalink: /2010/11/05/quartos-pequeno-decoracao/
 categories:
   - Pequenos Espaços
@@ -23,7 +20,7 @@ Você tem **_pouco espaço_** em casa? Então, assim como na maioria das casas d
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Gaveta-sob-a-cama.jpg"><img class="alignnone size-full wp-image-5405" title="Gaveta sob a cama" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Gaveta-sob-a-cama.jpg" alt="" width="300" height="361" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/Gaveta-sob-a-cama.jpg"><img class="alignnone size-full wp-image-5405" title="Gaveta sob a cama" src="https://www.trololodemulher.com.br/2010/11/Gaveta-sob-a-cama.jpg" alt="" width="300" height="361" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -35,7 +32,7 @@ Você tem **_pouco espaço_** em casa? Então, assim como na maioria das casas d
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/cabeceira-de-mdf-decorada-com-stencil.jpg"><img class="alignnone size-full wp-image-5402" title="cabeceira de mdf decorada com stencil" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/cabeceira-de-mdf-decorada-com-stencil.jpg" alt="" width="300" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/cabeceira-de-mdf-decorada-com-stencil.jpg"><img class="alignnone size-full wp-image-5402" title="cabeceira de mdf decorada com stencil" src="https://www.trololodemulher.com.br/2010/11/cabeceira-de-mdf-decorada-com-stencil.jpg" alt="" width="300" height="400" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -43,7 +40,7 @@ Você tem **_pouco espaço_** em casa? Então, assim como na maioria das casas d
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/cama-sob-janela.jpg"><img class="alignnone size-full wp-image-5403" title="cama sob janela" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/cama-sob-janela.jpg" alt="" width="300" height="422" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/cama-sob-janela.jpg"><img class="alignnone size-full wp-image-5403" title="cama sob janela" src="https://www.trololodemulher.com.br/2010/11/cama-sob-janela.jpg" alt="" width="300" height="422" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -62,7 +59,7 @@ Você tem **_pouco espaço_** em casa? Então, assim como na maioria das casas d
   <tr>
     <td width="300" valign="top">
       <p style="text-align: center;">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Primavera200.jpg"><img class="alignnone size-full wp-image-5279" title="Móbile Primavera200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Primavera200.jpg" alt="" width="200" height="200" /></a>
+        <a href="https://www.trololodemulher.com.br/2010/09/Mobile-Primavera200.jpg"><img class="alignnone size-full wp-image-5279" title="Móbile Primavera200" src="https://www.trololodemulher.com.br/2010/09/Mobile-Primavera200.jpg" alt="" width="200" height="200" /></a>
       </p>
     </td>
     
@@ -76,7 +73,7 @@ Você tem **_pouco espaço_** em casa? Então, assim como na maioria das casas d
       </p>
       
       <p style="text-align: justify;">
-        O Móbile Primavera está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/" target="_blank">basta clicar</a></strong>!
+        O Móbile Primavera está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!
       </p>
     </td>
   </tr>
@@ -87,7 +84,7 @@ Você tem **_pouco espaço_** em casa? Então, assim como na maioria das casas d
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/paredes-listradas.jpg"><img class="alignnone size-full wp-image-5406" title="paredes listradas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/paredes-listradas.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/paredes-listradas.jpg"><img class="alignnone size-full wp-image-5406" title="paredes listradas" src="https://www.trololodemulher.com.br/2010/11/paredes-listradas.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -95,7 +92,7 @@ Você tem **_pouco espaço_** em casa? Então, assim como na maioria das casas d
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/espelho-no-quarto.jpg"><img class="alignnone size-full wp-image-5404" title="espelho no quarto" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/espelho-no-quarto.jpg" alt="" width="300" height="250" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/espelho-no-quarto.jpg"><img class="alignnone size-full wp-image-5404" title="espelho no quarto" src="https://www.trololodemulher.com.br/2010/11/espelho-no-quarto.jpg" alt="" width="300" height="250" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -118,13 +115,13 @@ Você tem **_pouco espaço_** em casa? Então, assim como na maioria das casas d
       </p>
       
       <p style="text-align: justify;">
-        <em>O <strong>Espelho Provençal</strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/" target="_blank">basta clicar</a></strong>!</em>
+        <em>O <strong>Espelho Provençal</strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
       </p>
     </td>
     
     <td width="300" valign="top">
       <p style="text-align: center;">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Espelho-Provencal200.jpg"><img class="alignnone size-full wp-image-5409" title="Espelho Provençal200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Espelho-Provencal200.jpg" alt="" width="200" height="200" /></a>
+        <a href="https://www.trololodemulher.com.br/2010/11/Espelho-Provencal200.jpg"><img class="alignnone size-full wp-image-5409" title="Espelho Provençal200" src="https://www.trololodemulher.com.br/2010/11/Espelho-Provencal200.jpg" alt="" width="200" height="200" /></a>
       </p>
     </td>
   </tr>
@@ -134,7 +131,7 @@ Você tem **_pouco espaço_** em casa? Então, assim como na maioria das casas d
   E você, que já tem um quarto pequeno e devidamente decorado, tem sugestões para acalmar os ânimos de quem está buscando ideias para compor um espaço assim também? Então, corre nos comentários e deixe suas sugestões. É lá, nos comentários, onde o melhor do Bicha Fêmea acontece…
 </p>
 
-_Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Gardens</em></a>
+_Imagens:_ <a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer"><em>Better Homes and Gardens</em></a>
 
 **Mais no Bicha Fêmea…**
 

@@ -1,10 +1,7 @@
 ---
-id: 3582
 title: Aprenda uma dica top e deixe a decoração do quarto linda!
-date: 2016-04-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/04/07/decoracao-do-quarto-2/
 permalink: /2016/04/07/decoracao-do-quarto-2/
 categories:
   - Dicas de Decoração
@@ -12,11 +9,11 @@ categories:
   - Quarto
 ---
 <p align="justify">
-  Este post tem o propósito de te surpreender, bem positivamente eu diria, com uma ideia simples e prática para você <em>trans-for-mar</em> a <strong>decoração do quarto</strong> já! Acompanha comigo: já imaginou colocar <em>pitadinhas</em> de cor, alegria e <em>design</em> na sua cama, de modo que a decoração fique exatamente com sua cara, seu jeito? Essa ideia é da <strong><a href="https://www.primitas.com.br/" target="_blank">Primitas</a></strong>, uma loja virtual especializada em vender <strong>fronhas avulsas</strong>, com estampas que traduzem os mais variados estilos e que, sim, podem promover a mudança que você deseja ao seu cantinho de dormir, tudo por precinhos bem camaradas.
+  Este post tem o propósito de te surpreender, bem positivamente eu diria, com uma ideia simples e prática para você <em>trans-for-mar</em> a <strong>decoração do quarto</strong> já! Acompanha comigo: já imaginou colocar <em>pitadinhas</em> de cor, alegria e <em>design</em> na sua cama, de modo que a decoração fique exatamente com sua cara, seu jeito? Essa ideia é da <strong><a href="https://www.primitas.com.br/" target="_blank" rel="noopener noreferrer">Primitas</a></strong>, uma loja virtual especializada em vender <strong>fronhas avulsas</strong>, com estampas que traduzem os mais variados estilos e que, sim, podem promover a mudança que você deseja ao seu cantinho de dormir, tudo por precinhos bem camaradas.
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12321" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-QUARTO-CAMA-FRONHA1.jpg" alt="DECORACAO-QUARTO-CAMA-FRONHA[1]" width="751" height="750" />
+  <img class="alignnone size-full wp-image-12321" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-QUARTO-CAMA-FRONHA1.jpg" alt="DECORACAO-QUARTO-CAMA-FRONHA[1]" width="751" height="750" />
 </p>
 
 <p align="justify">
@@ -24,15 +21,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12325" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-QUARTO-CAMA-FRONHA6-1.jpg" alt="DECORACAO-QUARTO-CAMA-FRONHA[6]" width="798" height="798" />
+  <img class="alignnone size-full wp-image-12325" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-QUARTO-CAMA-FRONHA6-1.jpg" alt="DECORACAO-QUARTO-CAMA-FRONHA[6]" width="798" height="798" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12324" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-QUARTO-CAMA-FRONHA7.jpg" alt="DECORACAO-QUARTO-CAMA-FRONHA[7]" width="736" height="798" />
+  <img class="alignnone size-full wp-image-12324" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-QUARTO-CAMA-FRONHA7.jpg" alt="DECORACAO-QUARTO-CAMA-FRONHA[7]" width="736" height="798" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12314" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-QUARTO-CAMA-FRONHA3.jpg" alt="DECORACAO-QUARTO-CAMA-FRONHA[3]" width="800" height="870" />
+  <img class="alignnone size-full wp-image-12314" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-QUARTO-CAMA-FRONHA3.jpg" alt="DECORACAO-QUARTO-CAMA-FRONHA[3]" width="800" height="870" />
 </p>
 
 <p align="justify">
@@ -56,23 +53,23 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12315" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-QUARTO-CAMA-FRONHA4.jpg" alt="DECORACAO-QUARTO-CAMA-FRONHA[4]" width="800" height="812" />
+  <img class="alignnone size-full wp-image-12315" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-QUARTO-CAMA-FRONHA4.jpg" alt="DECORACAO-QUARTO-CAMA-FRONHA[4]" width="800" height="812" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12316" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-QUARTO-CAMA-FRONHA5.jpg" alt="DECORACAO-QUARTO-CAMA-FRONHA[5]" width="800" height="800" />
+  <img class="alignnone size-full wp-image-12316" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-QUARTO-CAMA-FRONHA5.jpg" alt="DECORACAO-QUARTO-CAMA-FRONHA[5]" width="800" height="800" />
 </p>
 
 <p align="justify">
-  “<em>Em nossas redes sociais (</em><a href="https://www.facebook.com/primitasloja?_rdr=p" target="_blank"><em>Facebook</em></a><em>, </em><a href="https://www.instagram.com/primitasloja/" target="_blank"><em>Instagram</em></a><em> e </em><a href="https://br.pinterest.com/primitas/" target="_blank"><em>Pinterest</em></a><em>) estamos sempre dando ideias dos mix que nos agradam. E adoramos ver as </em><a href="https://www.primitas.com.br/opinioes-dos-cliente" target="_blank"><em>produções de quem leva as fronhas para casa</em></a><em>. Então, compartilhe conosco! Mas por que somente as fronhas? Ah, faça um teste&#8230; Deixe o lençol liso e coloque fronhas que combinem com você. Agora fala que não mudou tudo? 🙂</em>”
+  “<em>Em nossas redes sociais (</em><a href="https://www.facebook.com/primitasloja?_rdr=p" target="_blank" rel="noopener noreferrer"><em>Facebook</em></a><em>, </em><a href="https://www.instagram.com/primitasloja/" target="_blank" rel="noopener noreferrer"><em>Instagram</em></a><em> e </em><a href="https://br.pinterest.com/primitas/" target="_blank" rel="noopener noreferrer"><em>Pinterest</em></a><em>) estamos sempre dando ideias dos mix que nos agradam. E adoramos ver as </em><a href="https://www.primitas.com.br/opinioes-dos-cliente" target="_blank" rel="noopener noreferrer"><em>produções de quem leva as fronhas para casa</em></a><em>. Então, compartilhe conosco! Mas por que somente as fronhas? Ah, faça um teste&#8230; Deixe o lençol liso e coloque fronhas que combinem com você. Agora fala que não mudou tudo? 🙂</em>”
 </p>
 
 <p align="justify">
-  Gente! Muda mesmo! E quem der uma espiadinha nas redes sociais da Primitas vai confirmar isso. E, oh: prepare-se para o <em>siricotico</em> que você terá dar para dar uma repaginada no visual do seu quarto em 3,2,1… <a href="https://www.primitas.com.br/" target="_blank">clique aqui, conheça a loja</a>. Se joga!
+  Gente! Muda mesmo! E quem der uma espiadinha nas redes sociais da Primitas vai confirmar isso. E, oh: prepare-se para o <em>siricotico</em> que você terá dar para dar uma repaginada no visual do seu quarto em 3,2,1… <a href="https://www.primitas.com.br/" target="_blank" rel="noopener noreferrer">clique aqui, conheça a loja</a>. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

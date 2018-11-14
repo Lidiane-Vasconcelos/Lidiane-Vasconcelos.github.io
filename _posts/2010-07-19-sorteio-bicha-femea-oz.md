@@ -1,10 +1,7 @@
 ---
-id: 2850
 title: 'Parceria Bicha Fêmea &#038; OZ! = Quem ganha na organização é você!'
-date: 2010-07-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/07/19/sorteio-bicha-femea-oz/
 permalink: /2010/07/19/sorteio-bicha-femea-oz/
 categories:
   - Promoção
@@ -12,7 +9,7 @@ categories:
 ---
 Quando se fala em **_organização_** e em itens que possam facilitar esse aspecto no dia a dia eu fico toda animada. Sim! Acredito que ter as coisas organizadas facilitam nossa produtividade, porque temos acesso a tudo de forma rápida. Sem falar que fica mais bonito!
 
-E de organização a **_<a href="http://www.organizesuavida.com.br/si/site/0000" target="_blank">OZ!</a>_** entende, sabia? Imagine um local onde você possa encontrar acessórios úteis para manter sua casa e sua vida em ordem. Imaginou? Pois é lá o lugar!
+E de organização a **_<a href="http://www.organizesuavida.com.br/si/site/0000" target="_blank" rel="noopener noreferrer">OZ!</a>_** entende, sabia? Imagine um local onde você possa encontrar acessórios úteis para manter sua casa e sua vida em ordem. Imaginou? Pois é lá o lugar!
 
 <!--more-->
 
@@ -21,7 +18,7 @@ Aliás, além de acessórios para a organização no dia a dia, a **_OZ!_** se p
 Agora, mais do que nunca, pense na delícia que seria ter um acessório **_OZ!_** para organizar sua maquiagem: _LU-XO_! Pois é possível, sabia? Na **_parceria Bicha Fêmea & OZ! quem ganha é você_**! _Espia_ aqui abaixo, clica na imagem para ampliar, e veja que beleza de presente pode chegar na sua casa:
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/organizador-de-maquiagem.jpg"><img class="size-medium wp-image-4960 aligncenter" title="organizador de maquiagem" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/organizador-de-maquiagem-300x300.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/organizador-de-maquiagem.jpg"><img class="size-medium wp-image-4960 aligncenter" title="organizador de maquiagem" src="https://www.trololodemulher.com.br/2010/07/organizador-de-maquiagem-300x300.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 Viu? Trata-se de um **_organizador de maquiagem em MDF, branco, com as seguintes dimensões: 28x 16 x 15,5 cm (com x lar x prof). Ele possui o seguinte:_** 
@@ -36,7 +33,7 @@ Viu? Trata-se de um **_organizador de maquiagem em MDF, branco, com as seguintes
 
 Com ele você organiza tudo de forma prática, bonita e com charme. E, oh! Deixe tudo no seu guarda-roupas, _closet_ ou sobre uma cômoda. Enfim, no banheiro é que não pode ficar, porque a umidade e alteração de temperatura estragam seus produtos. Olha lá, _hein_?!
 
-Olha que legal! A **_OZ!_** liberou um **_desconto de 30%_** para as leitoras do Bicha Fêmea na compra do organizador de maquiagem Styllus. Arrasou! Está interessada? Então acesse o produto na loja virtual através<a href="http://www.lojaoz.com.br/sistema/ListaProdutos.asp?IDLoja=6809&Det=True&IDProduto=2179704&q=Organizador+de+Maquiagem+Styllus&1ST=1&Y=5344858911964" target="_blank"><strong><em> deste link</em></strong> </a>e use o código **_bicho_femea_** no campo “Cupom de Desconto”. A promoção é válida somente até 10/08/10. Aproveite!!
+Olha que legal! A **_OZ!_** liberou um **_desconto de 30%_** para as leitoras do Bicha Fêmea na compra do organizador de maquiagem Styllus. Arrasou! Está interessada? Então acesse o produto na loja virtual através<a href="http://www.lojaoz.com.br/sistema/ListaProdutos.asp?IDLoja=6809&Det=True&IDProduto=2179704&q=Organizador+de+Maquiagem+Styllus&1ST=1&Y=5344858911964" target="_blank" rel="noopener noreferrer"><strong><em> deste link</em></strong> </a>e use o código **_bicho_femea_** no campo “Cupom de Desconto”. A promoção é válida somente até 10/08/10. Aproveite!!
 
 Para participar do sorteio é bem simples, como tem que ser e tem sido desde sempre no Bicha Fêmea: **_deixe uma mensagem neste post, preechendo o formulário de comentário com um endereço de e-mail válido_**. Se você for a sorteada, entrarei em contato pelo e-mail e, num **_prazo de uma semana_**, **_se eu não receber resposta_**, **_faço novo sorteio_**. Ah! Seu **_endereço de entrega precisa ser em território brasileiro_**, _tá_?!
 

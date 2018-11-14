@@ -1,10 +1,7 @@
 ---
-id: 2923
 title: O que é a blogosfera? Que é que você está fazendo nela?
-date: 2010-12-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/12/08/o-que-e-a-blogosfera/
 permalink: /2010/12/08/o-que-e-a-blogosfera/
 categories:
   - Trololó
@@ -28,7 +25,7 @@ Uma pessoa que não conhece esse mundo pode fazer essas perguntas, atônita e de
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/blogosfera-1.jpg"><img class="alignnone size-full wp-image-5581" title="blogosfera 1" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/blogosfera-1.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/blogosfera-1.jpg"><img class="alignnone size-full wp-image-5581" title="blogosfera 1" src="https://www.trololodemulher.com.br/2010/12/blogosfera-1.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -47,7 +44,7 @@ Eu quero cuidar de mim, do amor que sinto por mim mesma, e dos meus. Eu quero co
 
 Você já se perguntou o que é a blogosfera? Afinal, o que você está fazendo aqui?
 
-Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+Imagem: <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>
 
 **Mais no Bicha Fêmea&#8230;**
 

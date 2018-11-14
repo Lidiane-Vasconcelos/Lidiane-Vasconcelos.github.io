@@ -1,17 +1,14 @@
 ---
-id: 3660
 title: 'Empreendedorismo: minha entrevista com Rafa Cappai'
-date: 2016-09-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/09/09/empreendedorismo-3/
 permalink: /2016/09/09/empreendedorismo-3/
 categories:
   - Empreendedorismo Feminino
   - 'Trabalho &amp; Dinheiro'
 ---
 <p align="justify">
-  Quando se fala em <strong>empreendedorismo</strong> criativo, não dá outra: Rafa Cappai é referência! Não lembro mais quando foi, mas um belo e grato dia, esbarrei na internet com essa moça <em>superultramega</em> talentosa e inspiradora e, desde então, tenho aprendido <em>muuuuita</em> coisa bacana sobre o que é o tal do <a href="http://www.trololodemulher.com.br/2015/09/25/empreendedorismo-criativo/" target="_blank">empreendedorismo criativo</a>. Rafaela Cappai é a responsável por me tirar da zona de conforto constantemente. Sem que Rafa soubesse (até o dia em que entrei em contato com ela e pedi a entrevista), eu acompanhava o seu trabalho na <a href="http://www.espaconave.com.br/" target="_blank">Espaçonave</a> – <em>para artistas e criativos que decidiram viver fazendo o que amam e transformar paixão em negócio</em> &#8211; há bastante tempo através de sua <strong>Mensagem de Bordo</strong> (é assim que ela chama a sua deliciosa e inspiradora <em>newsletter</em>), seus inúmeros e criativos vídeos do <a href="https://www.youtube.com/user/aespaconave" target="_blank">canal do Youtube</a>, a exemplo da série <strong><em>VQVResponde</em></strong>, ou ainda em suas atualizações ou transmissões ao vivo na <a href="https://www.facebook.com/espaconave/" target="_blank">sua Fanpage</a>. Como se não bastasse, ano passado comprei seu livro e recebi em casa minha versão autografada (Ui!) do <a href="http://www.espaconave.com.br/livro/" target="_blank">Criativo e Empreendedor, sim senhor!</a> … pois é, tornei-me uma entusiasta de carteirinha do trabalho da Rafa.
+  Quando se fala em <strong>empreendedorismo</strong> criativo, não dá outra: Rafa Cappai é referência! Não lembro mais quando foi, mas um belo e grato dia, esbarrei na internet com essa moça <em>superultramega</em> talentosa e inspiradora e, desde então, tenho aprendido <em>muuuuita</em> coisa bacana sobre o que é o tal do <a href="http://www.trololodemulher.com.br/2015/09/25/empreendedorismo-criativo/" target="_blank" rel="noopener noreferrer">empreendedorismo criativo</a>. Rafaela Cappai é a responsável por me tirar da zona de conforto constantemente. Sem que Rafa soubesse (até o dia em que entrei em contato com ela e pedi a entrevista), eu acompanhava o seu trabalho na <a href="http://www.espaconave.com.br/" target="_blank" rel="noopener noreferrer">Espaçonave</a> – <em>para artistas e criativos que decidiram viver fazendo o que amam e transformar paixão em negócio</em> &#8211; há bastante tempo através de sua <strong>Mensagem de Bordo</strong> (é assim que ela chama a sua deliciosa e inspiradora <em>newsletter</em>), seus inúmeros e criativos vídeos do <a href="https://www.youtube.com/user/aespaconave" target="_blank" rel="noopener noreferrer">canal do Youtube</a>, a exemplo da série <strong><em>VQVResponde</em></strong>, ou ainda em suas atualizações ou transmissões ao vivo na <a href="https://www.facebook.com/espaconave/" target="_blank" rel="noopener noreferrer">sua Fanpage</a>. Como se não bastasse, ano passado comprei seu livro e recebi em casa minha versão autografada (Ui!) do <a href="http://www.espaconave.com.br/livro/" target="_blank" rel="noopener noreferrer">Criativo e Empreendedor, sim senhor!</a> … pois é, tornei-me uma entusiasta de carteirinha do trabalho da Rafa.
 </p>
 
 <p align="justify">
@@ -23,7 +20,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12911" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/09/TROLOLO-DE-MULHER-RAFAELA-CAPPAI.jpg" alt="trololo-de-mulher-rafaela-cappai" width="729" height="730" />
+  <img class="alignnone size-full wp-image-12911" src="https://www.trololodemulher.com.br/2016/09/TROLOLO-DE-MULHER-RAFAELA-CAPPAI.jpg" alt="trololo-de-mulher-rafaela-cappai" width="729" height="730" />
 </p>
 
 <p align="center">
@@ -93,14 +90,14 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Como você lida com a alta expectativa criada pelos seus alunos do programa <a href="http://decolalab.com.br/" target="_blank">Decola! Lab</a>?</strong>
+  <strong>Trololó de Mulher >>> Como você lida com a alta expectativa criada pelos seus alunos do programa <a href="http://decolalab.com.br/" target="_blank" rel="noopener noreferrer">Decola! Lab</a>?</strong>
 </p>
 
 <p align="center">
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

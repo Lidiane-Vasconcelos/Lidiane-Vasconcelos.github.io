@@ -1,10 +1,7 @@
 ---
-id: 3470
 title: 'Emagrecimento com determinação: Carol Willrich contou tudo!'
-date: 2015-08-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/08/24/emagrecimento-2/
 permalink: /2015/08/24/emagrecimento-2/
 categories:
   - Saúde
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/CAROL-WILLRICH5.jpg"><img class="alignnone size-full wp-image-11351" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/CAROL-WILLRICH5.jpg" alt="CAROL WILLRICH[5]" width="531" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/CAROL-WILLRICH5.jpg"><img class="alignnone size-full wp-image-11351" src="https://www.trololodemulher.com.br/2015/08/CAROL-WILLRICH5.jpg" alt="CAROL WILLRICH[5]" width="531" height="800" /></a>
 </p>
 
 <p align="center">
@@ -34,7 +31,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/27/como-perder-a-barriga/" target="_blank"><strong>Como perder a barriga? 3 profissionais contam tudo!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/27/como-perder-a-barriga/" target="_blank" rel="noopener noreferrer"><strong>Como perder a barriga? 3 profissionais contam tudo!</strong></a>
 </p>
 
 <p align="justify">
@@ -58,11 +55,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/05/12/bonita-sem-dietas/" target="_blank"><strong>Bonita, saudável e feliz… sem dietas!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/05/12/bonita-sem-dietas/" target="_blank" rel="noopener noreferrer"><strong>Bonita, saudável e feliz… sem dietas!</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/CAROL-WILLRICH6.jpg"><img class="alignnone size-full wp-image-11354" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/CAROL-WILLRICH6.jpg" alt="CAROL WILLRICH[6]" width="800" height="753" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/CAROL-WILLRICH6.jpg"><img class="alignnone size-full wp-image-11354" src="https://www.trololodemulher.com.br/2015/08/CAROL-WILLRICH6.jpg" alt="CAROL WILLRICH[6]" width="800" height="753" /></a>
 </p>
 
 <p align="center">
@@ -78,7 +75,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

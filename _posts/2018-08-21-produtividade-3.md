@@ -1,10 +1,7 @@
 ---
-id: 3874
 title: Como evitar que o celular impacte sua produtividade?
-date: 2018-08-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2018/08/21/produtividade-3/
 permalink: /2018/08/21/produtividade-3/
 categories:
   - Bem viver
@@ -22,11 +19,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14684" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/08/PRODUTIVIDADE-GESTAO-DO-TEMPO-ORGANIZACAO-PESSOAL-VIDA-SIMPLES-BEM-VIVER-BLOG.jpg" alt="PRODUTIVIDADE-GESTAO DO TEMPO-ORGANIZACAO PESSOAL- VIDA SIMPLES - BEM VIVER-BLOG" width="800" height="800" />
+  <img class="alignnone size-full wp-image-14684" src="https://www.trololodemulher.com.br/2018/08/PRODUTIVIDADE-GESTAO-DO-TEMPO-ORGANIZACAO-PESSOAL-VIDA-SIMPLES-BEM-VIVER-BLOG.jpg" alt="PRODUTIVIDADE-GESTAO DO TEMPO-ORGANIZACAO PESSOAL- VIDA SIMPLES - BEM VIVER-BLOG" width="800" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="https://foter.com/" target="_blank">foter.com</a>
+  Imagem: <a href="https://foter.com/" target="_blank" rel="noopener noreferrer">foter.com</a>
 </p>
 
 <p align="justify">
@@ -58,7 +55,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>[A PROPÓSITO]</strong> O desafio do uso mais equilibrado do celular no dia a dia é um dos passos consistentemente trabalhados no <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Projeto Lar Bonito Lar</a>, que está com inscrições encerradas. Se quiser fazer parte da próxima turma, aguarde notícias!
+  <strong>[A PROPÓSITO]</strong> O desafio do uso mais equilibrado do celular no dia a dia é um dos passos consistentemente trabalhados no <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank" rel="noopener noreferrer">Projeto Lar Bonito Lar</a>, que está com inscrições encerradas. Se quiser fazer parte da próxima turma, aguarde notícias!
 </p>
 
 <p align="justify">
@@ -74,7 +71,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Projeto Lar Bonito Lar</a> | <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">Newsletter Trololó de Mulher – Grátis</a> | <a href="https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank">Assine e receba o post semanal do blog no seu e-mail – Grátis.</a>
+  <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank" rel="noopener noreferrer">Projeto Lar Bonito Lar</a> | <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank" rel="noopener noreferrer">Newsletter Trololó de Mulher – Grátis</a> | <a href="https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer">Assine e receba o post semanal do blog no seu e-mail – Grátis.</a>
 </p>
 
 <p align="center">
@@ -82,7 +79,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2018/03/09/bem-viver/" target="_blank">Guia Bem Viver – Grátis</a> | <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307" target="_blank">Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.</a>
+  <a href="http://www.trololodemulher.com.br/2018/03/09/bem-viver/" target="_blank" rel="noopener noreferrer">Guia Bem Viver – Grátis</a> | <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307" target="_blank" rel="noopener noreferrer">Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.</a>
 </p>
 
 <p align="center">
@@ -90,7 +87,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/lidiane.vasconcelos.94" target="_blank">Perfil pessoal no Facebook</a> | <a href="https://www.facebook.com/TrololoMulher/" target="_blank">Fanpage no Facebook</a> | <a href="https://www.instagram.com/trololodemulher/" target="_blank">Instagram</a>
+  <a href="https://www.facebook.com/lidiane.vasconcelos.94" target="_blank" rel="noopener noreferrer">Perfil pessoal no Facebook</a> | <a href="https://www.facebook.com/TrololoMulher/" target="_blank" rel="noopener noreferrer">Fanpage no Facebook</a> | <a href="https://www.instagram.com/trololodemulher/" target="_blank" rel="noopener noreferrer">Instagram</a>
 </p>
 
 <p align="justify">

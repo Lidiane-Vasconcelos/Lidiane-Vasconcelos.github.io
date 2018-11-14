@@ -1,10 +1,7 @@
 ---
-id: 2834
 title: 'Sorteio Bicha Fêmea &#038; CATAVENTO ARTES. Imperdível!!!!'
-date: 2010-06-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/06/14/sorteio-catavento-artes/
 permalink: /2010/06/14/sorteio-catavento-artes/
 categories:
   - Promoção
@@ -12,16 +9,16 @@ categories:
 ---
 Quem gosta de **sorteio** levanta o dedo _aêêê_!!! Eu gosto demais, e quando é de coisas fofas, mimosas, bonitas e úteis? Nossa! Aí é o pacote completo! E quando eles acontecem aqui no Bicha Fêmea, para que você tenha a chance de ganhar o prêmio? Nem se fala!
 
-E eu falei que teria um por aqui muito em breve, não falei? Claro que sim! Quem me segue no Twitter já estava sabendo por antecipação (aliás, **_<a href="http://twitter.com/bichafemea" target="_blank">me segue aí</a>_**!), e só estava aguardando as cenas dos próximos capítulos…
+E eu falei que teria um por aqui muito em breve, não falei? Claro que sim! Quem me segue no Twitter já estava sabendo por antecipação (aliás, **_<a href="http://twitter.com/bichafemea" target="_blank" rel="noopener noreferrer">me segue aí</a>_**!), e só estava aguardando as cenas dos próximos capítulos…
 
 <!--more-->
 
-E as cenas são essas, oh: você conhece o <a href="http://fernandapostai.blogspot.com/" target="_blank">CATAVENTO ARTES</a>?  Esse é um lindo projeto da **Fernanda Postai**, uma artesã super sensível e talentosa que transforma papel em **cartões, convites, lembrancinhas e presentes artesanais**.
+E as cenas são essas, oh: você conhece o <a href="http://fernandapostai.blogspot.com/" target="_blank" rel="noopener noreferrer">CATAVENTO ARTES</a>?  Esse é um lindo projeto da **Fernanda Postai**, uma artesã super sensível e talentosa que transforma papel em **cartões, convites, lembrancinhas e presentes artesanais**.
 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/catavento-artes.jpg"><img class="alignnone size-medium wp-image-4777" title="catavento artes" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/catavento-artes-300x82.jpg" alt="" width="300" height="82" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/catavento-artes.jpg"><img class="alignnone size-medium wp-image-4777" title="catavento artes" src="https://www.trololodemulher.com.br/2010/06/catavento-artes-300x82.jpg" alt="" width="300" height="82" /></a>
     </td>
     
     <td>
@@ -49,7 +46,7 @@ E por falar em _fofurice_, olha o kit lindão do CATAVENTO ARTES que será sorte
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/kitsorteio.jpg"><img class="alignnone size-medium wp-image-4778" title="kitsorteio" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/kitsorteio-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/kitsorteio.jpg"><img class="alignnone size-medium wp-image-4778" title="kitsorteio" src="https://www.trololodemulher.com.br/2010/06/kitsorteio-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
     
     <td>

@@ -1,10 +1,7 @@
 ---
-id: 2868
 title: Resultado do sorteio no Bicha Fêmea em parceria com a MIREPOIX.
-date: 2010-08-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/08/23/resultado-sorteio-mirepoix/
 permalink: /2010/08/23/resultado-sorteio-mirepoix/
 categories:
   - Promoção
@@ -18,7 +15,7 @@ Chegou o grande dia para as bichas fêmeas navegantes amantes de _cupcakes_. Sim
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/Resultado-sorteio-parceria-Bicha-Femea-Mirepoix.jpg"><img class="size-medium wp-image-5111 aligncenter" title="Resultado sorteio parceria Bicha Fêmea & Mirepoix" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/Resultado-sorteio-parceria-Bicha-Femea-Mirepoix-300x96.jpg" alt="" width="300" height="96" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/Resultado-sorteio-parceria-Bicha-Femea-Mirepoix.jpg"><img class="size-medium wp-image-5111 aligncenter" title="Resultado sorteio parceria Bicha Fêmea & Mirepoix" src="https://www.trololodemulher.com.br/2010/08/Resultado-sorteio-parceria-Bicha-Femea-Mirepoix-300x96.jpg" alt="" width="300" height="96" /></a>
 </p>
 
 <p style="text-align: justify;">

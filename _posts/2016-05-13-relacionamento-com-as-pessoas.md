@@ -1,10 +1,7 @@
 ---
-id: 3608
 title: Entenda por que é difícil o relacionamento com as pessoas.
-date: 2016-05-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/05/13/relacionamento-com-as-pessoas/
 permalink: /2016/05/13/relacionamento-com-as-pessoas/
 categories:
   - Comportamento
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12524" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/TROLOLO-MULHER-MULHER742.jpg" alt="TROLOLO MULHER-MULHER[74][2]" width="800" height="671" />
+  <img class="alignnone size-full wp-image-12524" src="https://www.trololodemulher.com.br/2016/05/TROLOLO-MULHER-MULHER742.jpg" alt="TROLOLO MULHER-MULHER[74][2]" width="800" height="671" />
 </p>
 
 &nbsp;
@@ -42,11 +39,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12519" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/COMPORTAMENTO-RELACIONAMENTO-INTERPESSOAL-RELACIONAMENTO-COM-PESSOAS.jpg" alt="COMPORTAMENTO-RELACIONAMENTO INTERPESSOAL-RELACIONAMENTO COM PESSOAS" width="750" height="750" />
+  <img class="alignnone size-full wp-image-12519" src="https://www.trololodemulher.com.br/2016/05/COMPORTAMENTO-RELACIONAMENTO-INTERPESSOAL-RELACIONAMENTO-COM-PESSOAS.jpg" alt="COMPORTAMENTO-RELACIONAMENTO INTERPESSOAL-RELACIONAMENTO COM PESSOAS" width="750" height="750" />
 </p>
 
 <p align="center">
-  <em>Imagem: <a href="https://www.flickr.com/photos/127107506@N02/15106281058/" target="_blank">moiggi.interactive</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC BY-NC</a></em>
+  <em>Imagem: <a href="https://www.flickr.com/photos/127107506@N02/15106281058/" target="_blank" rel="noopener noreferrer">moiggi.interactive</a> via <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC</a></em>
 </p>
 
 <p align="justify">
@@ -66,7 +63,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12109" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/ELAINE-SIBINELLI-PSICOLOGA-CAMPINAS.jpg" alt="ELAINE SIBINELLI - PSICOLOGA - CAMPINAS" width="800" height="179" />
+  <img class="alignnone size-full wp-image-12109" src="https://www.trololodemulher.com.br/2016/03/ELAINE-SIBINELLI-PSICOLOGA-CAMPINAS.jpg" alt="ELAINE SIBINELLI - PSICOLOGA - CAMPINAS" width="800" height="179" />
 </p>
 
 <p align="justify">
@@ -74,15 +71,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/03/11/autoimagem-feminina/" target="_blank">Autoimagem feminina: por que mulheres tão insatisfeitas?</a>
+  <a href="http://www.trololodemulher.com.br/2016/03/11/autoimagem-feminina/" target="_blank" rel="noopener noreferrer">Autoimagem feminina: por que mulheres tão insatisfeitas?</a>
 </p>
 
 <p align="justify">
-  Elaine atende na Av. Nossa Senhora da Consolação, 768, Jardim Aurélia – Campinas SP. Fones: (19) 3385-8241 ou (19) 99785-5505. Para mais informações junto à Psicóloga você ainda pode entrar em contato pelo e-mail <a href="mailto:sibinelllipsico@gmail.com" target="_blank">sibinelllipsico@gmail.com</a>. Ela também tem <strong>página do Facebook</strong>, onde há atualização de conteúdo sobre comportamento que, certamente, pode ajudar a todas nós. <a href="https://www.facebook.com/ElaineSibinelliPsicologaClinica/timeline" target="_blank">Clique aqui e curta</a>!
+  Elaine atende na Av. Nossa Senhora da Consolação, 768, Jardim Aurélia – Campinas SP. Fones: (19) 3385-8241 ou (19) 99785-5505. Para mais informações junto à Psicóloga você ainda pode entrar em contato pelo e-mail <a href="mailto:sibinelllipsico@gmail.com" target="_blank" rel="noopener noreferrer">sibinelllipsico@gmail.com</a>. Ela também tem <strong>página do Facebook</strong>, onde há atualização de conteúdo sobre comportamento que, certamente, pode ajudar a todas nós. <a href="https://www.facebook.com/ElaineSibinelliPsicologaClinica/timeline" target="_blank" rel="noopener noreferrer">Clique aqui e curta</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

@@ -1,10 +1,7 @@
 ---
-id: 3782
 title: 'Chá de menta de Marraquexe, ou como acolher bem&#8230;'
-date: 2017-08-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/08/15/cha-de-menta/
 permalink: /2017/08/15/cha-de-menta/
 categories:
   - Receitas
@@ -14,11 +11,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13963" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/CHA-DE-MENTA.jpg" alt="CHA DE MENTA" width="800" height="534" />
+  <img class="alignnone size-full wp-image-13963" src="https://www.trololodemulher.com.br/2017/08/CHA-DE-MENTA.jpg" alt="CHA DE MENTA" width="800" height="534" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13964" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/CHA-DE-MENTA2.jpg" alt="CHA DE MENTA[2]" width="800" height="534" />
+  <img class="alignnone size-full wp-image-13964" src="https://www.trololodemulher.com.br/2017/08/CHA-DE-MENTA2.jpg" alt="CHA DE MENTA[2]" width="800" height="534" />
 </p>
 
 <p style="text-align: justify;">
@@ -26,11 +23,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13965" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/CHA-DE-MENTA3.jpg" alt="CHA DE MENTA[3]" width="800" height="1200" />
+  <img class="alignnone size-full wp-image-13965" src="https://www.trololodemulher.com.br/2017/08/CHA-DE-MENTA3.jpg" alt="CHA DE MENTA[3]" width="800" height="1200" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13966" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/CHA-DE-MENTA4.jpg" alt="CHA DE MENTA[4]" width="800" height="1200" />
+  <img class="alignnone size-full wp-image-13966" src="https://www.trololodemulher.com.br/2017/08/CHA-DE-MENTA4.jpg" alt="CHA DE MENTA[4]" width="800" height="1200" />
 </p>
 
 <p style="text-align: justify;">
@@ -38,11 +35,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13967" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/CHA-DE-MENTA5.jpg" alt="CHA DE MENTA[5]" width="800" height="1382" />
+  <img class="alignnone size-full wp-image-13967" src="https://www.trololodemulher.com.br/2017/08/CHA-DE-MENTA5.jpg" alt="CHA DE MENTA[5]" width="800" height="1382" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13968" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/CHA-DE-MENTA6.jpg" alt="CHA DE MENTA[6]" width="800" height="534" />
+  <img class="alignnone size-full wp-image-13968" src="https://www.trololodemulher.com.br/2017/08/CHA-DE-MENTA6.jpg" alt="CHA DE MENTA[6]" width="800" height="534" />
 </p>
 
 <p style="text-align: justify;">
@@ -50,11 +47,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13969" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/CHA-DE-MENTA7.jpg" alt="CHA DE MENTA[7]" width="800" height="534" />
+  <img class="alignnone size-full wp-image-13969" src="https://www.trololodemulher.com.br/2017/08/CHA-DE-MENTA7.jpg" alt="CHA DE MENTA[7]" width="800" height="534" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13972" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/CHA-DE-MENTA8.jpg" alt="CHA DE MENTA[8]" width="800" height="1200" />
+  <img class="alignnone size-full wp-image-13972" src="https://www.trololodemulher.com.br/2017/08/CHA-DE-MENTA8.jpg" alt="CHA DE MENTA[8]" width="800" height="1200" />
 </p>
 
 <p style="text-align: justify;">
@@ -62,15 +59,15 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13973" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/CHA-DE-MENTA9.jpg" alt="CHA DE MENTA[9]" width="800" height="534" />
+  <img class="alignnone size-full wp-image-13973" src="https://www.trololodemulher.com.br/2017/08/CHA-DE-MENTA9.jpg" alt="CHA DE MENTA[9]" width="800" height="534" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13974" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/CHA-DE-MENTA10.jpg" alt="CHA DE MENTA[10]" width="800" height="539" />
+  <img class="alignnone size-full wp-image-13974" src="https://www.trololodemulher.com.br/2017/08/CHA-DE-MENTA10.jpg" alt="CHA DE MENTA[10]" width="800" height="539" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13975" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/CHA-DE-MENTA11.jpg" alt="CHA DE MENTA[11]" width="800" height="534" />
+  <img class="alignnone size-full wp-image-13975" src="https://www.trololodemulher.com.br/2017/08/CHA-DE-MENTA11.jpg" alt="CHA DE MENTA[11]" width="800" height="534" />
 </p>
 
 _**Ingredientes**_
@@ -88,37 +85,37 @@ _**Ingredientes**_
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13976" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/CHA-DE-MENTA12.jpg" alt="CHA DE MENTA[12]" width="800" height="1200" />
+  <img class="alignnone size-full wp-image-13976" src="https://www.trololodemulher.com.br/2017/08/CHA-DE-MENTA12.jpg" alt="CHA DE MENTA[12]" width="800" height="1200" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13977" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/CHA-DE-MENTA13.jpg" alt="CHA DE MENTA[13]" width="800" height="1200" />
+  <img class="alignnone size-full wp-image-13977" src="https://www.trololodemulher.com.br/2017/08/CHA-DE-MENTA13.jpg" alt="CHA DE MENTA[13]" width="800" height="1200" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13978" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/CHA-DE-MENTA14.jpg" alt="CHA DE MENTA[14]" width="800" height="1200" />
+  <img class="alignnone size-full wp-image-13978" src="https://www.trololodemulher.com.br/2017/08/CHA-DE-MENTA14.jpg" alt="CHA DE MENTA[14]" width="800" height="1200" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13037" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/TANIA-TEVA-I-WANT-TO-BE-A-COOK-RECEITAS.jpg" alt="tania-teva-i-want-to-be-a-cook-receitas" width="800" height="154" />
+  <img class="alignnone size-full wp-image-13037" src="https://www.trololodemulher.com.br/2016/10/TANIA-TEVA-I-WANT-TO-BE-A-COOK-RECEITAS.jpg" alt="tania-teva-i-want-to-be-a-cook-receitas" width="800" height="154" />
 </p>
 
 **Mais receitas de Tânia:**
   
-<a href="http://www.trololodemulher.com.br/2017/06/06/sopa-de-abobora-2/" target="_blank">Sopa de abóbora e alho para aquecer os dias frios.</a>
+<a href="http://www.trololodemulher.com.br/2017/06/06/sopa-de-abobora-2/" target="_blank" rel="noopener noreferrer">Sopa de abóbora e alho para aquecer os dias frios.</a>
   
-<a href="http://www.trololodemulher.com.br/2017/05/23/receita-de-brownie-de-chocolate/" target="_blank">Receita de brownie de chocolate marmorizado.</a>
+<a href="http://www.trololodemulher.com.br/2017/05/23/receita-de-brownie-de-chocolate/" target="_blank" rel="noopener noreferrer">Receita de brownie de chocolate marmorizado.</a>
 
 **E ainda&#8230;**
   
-<a href="http://www.trololodemulher.com.br/2017/05/19/blog-de-culinaria/" target="_blank">Tânia Telva, o talento por trás de um blog de culinária incrível!</a>
+<a href="http://www.trololodemulher.com.br/2017/05/19/blog-de-culinaria/" target="_blank" rel="noopener noreferrer">Tânia Telva, o talento por trás de um blog de culinária incrível!</a>
 
 <p style="text-align: justify;">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank">o blog de Tânia clicando aqui</a>, e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">o blog de Tânia clicando aqui</a>, e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank" rel="noopener noreferrer">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank" rel="noopener noreferrer">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

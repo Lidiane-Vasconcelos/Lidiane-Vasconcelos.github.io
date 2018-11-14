@@ -1,10 +1,7 @@
 ---
-id: 3135
 title: 'Para ficar mais bonita no Inverno: beleza á prova de frio!'
-date: 2012-06-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/06/11/inverno-beleza/
 permalink: /2012/06/11/inverno-beleza/
 categories:
   - Beleza
@@ -42,11 +39,11 @@ O Verão acabou, mas nem por isso a gente quer se descuidar da beleza, certo? Mu
 &nbsp;
 
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/2012/06/11/inverno-beleza/beleza-2/" rel="attachment wp-att-6821"><img class="alignnone size-full wp-image-6821" title="beleza" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza.jpg" alt="" width="600" height="399" /></a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2012/06/11/inverno-beleza/beleza-2/" rel="attachment wp-att-6821"><img class="alignnone size-full wp-image-6821" title="beleza" src="https://www.trololodemulher.com.br/2011/08/beleza.jpg" alt="" width="600" height="399" /></a></strong>
 </p>
 
 <p style="text-align: center;">
-  <strong>Imagem: <em><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></em></strong>
+  <strong>Imagem: <em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">Stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
@@ -74,7 +71,7 @@ O Verão acabou, mas nem por isso a gente quer se descuidar da beleza, certo? Mu
 &nbsp;
 
 <p align="justify">
-  As dicas da <strong>Dra. Livia Pino</strong> são dadas com frequência no  blog que ela edita, o <strong><a href="http://dermatologiaemfoco.blogspot.com.br/" target="_blank">Dermatologia em Foco</a></strong>. No espaço você encontra muita informação para manter a pele saudável e sempre muito bonita, dicas práticas para cuidar da beleza no dia a dia, além de conhecer lançamentos de produtos. Agora é só conferir!
+  As dicas da <strong>Dra. Livia Pino</strong> são dadas com frequência no  blog que ela edita, o <strong><a href="http://dermatologiaemfoco.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Dermatologia em Foco</a></strong>. No espaço você encontra muita informação para manter a pele saudável e sempre muito bonita, dicas práticas para cuidar da beleza no dia a dia, além de conhecer lançamentos de produtos. Agora é só conferir!
 </p>
 
 &nbsp;
@@ -87,13 +84,13 @@ O Verão acabou, mas nem por isso a gente quer se descuidar da beleza, certo? Mu
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/corpo/mascara-para-cilios200/" rel="attachment wp-att-8629"><img class="alignnone size-full wp-image-8629" title="MASCARA PARA CILIOS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/MASCARA-PARA-CILIOS200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/03/26/mascara-para-cilios/"><strong><span style="font-size: small;"><br /> Máscara para cílios… beleza e olhos irresistíveis!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/corpo/mascara-para-cilios200/" rel="attachment wp-att-8629"><img class="alignnone size-full wp-image-8629" title="MASCARA PARA CILIOS200" src="https://www.trololodemulher.com.br/2012/03/MASCARA-PARA-CILIOS200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/03/26/mascara-para-cilios/"><strong><span style="font-size: small;"><br /> Máscara para cílios… beleza e olhos irresistíveis!</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/corpo/mel200/" rel="attachment wp-att-8508"><img class="alignnone size-full wp-image-8508" title="MEL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/MEL200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/02/06/beleza/"><strong><span style="font-size: small;"><br /> Mel: bom para a saúde, melhor ainda para sua beleza…</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/corpo/mel200/" rel="attachment wp-att-8508"><img class="alignnone size-full wp-image-8508" title="MEL200" src="https://www.trololodemulher.com.br/2012/01/MEL200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/02/06/beleza/"><strong><span style="font-size: small;"><br /> Mel: bom para a saúde, melhor ainda para sua beleza…</span></strong></a>
       </p>
     </td>
   </tr>
@@ -101,13 +98,13 @@ O Verão acabou, mas nem por isso a gente quer se descuidar da beleza, certo? Mu
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/corpo/esfoliacao-da-pele200/" rel="attachment wp-att-8483"><img class="alignnone size-full wp-image-8483" title="ESFOLIACAO DA PELE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/ESFOLIACAO-DA-PELE200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/01/23/pele-esfoliacao/"><strong><span style="font-size: small;"><br /> Você costuma promover a renovação da pele com a esfoliação?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/corpo/esfoliacao-da-pele200/" rel="attachment wp-att-8483"><img class="alignnone size-full wp-image-8483" title="ESFOLIACAO DA PELE200" src="https://www.trololodemulher.com.br/2012/01/ESFOLIACAO-DA-PELE200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/01/23/pele-esfoliacao/"><strong><span style="font-size: small;"><br /> Você costuma promover a renovação da pele com a esfoliação?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/corpo/maos-e-unhas200-3/" rel="attachment wp-att-8400"><img class="alignnone size-full wp-image-8400" title="MAOS E UNHAS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/MAOS-E-UNHAS200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/corpo/maos-e-unhas200-3/" rel="attachment wp-att-8400"><img class="alignnone size-full wp-image-8400" title="MAOS E UNHAS200" src="https://www.trololodemulher.com.br/2011/12/MAOS-E-UNHAS200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -119,13 +116,13 @@ O Verão acabou, mas nem por isso a gente quer se descuidar da beleza, certo? Mu
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/01/02/maos-e-unhas/keka200/" rel="attachment wp-att-8347"><img class="alignnone size-full wp-image-8347" title="Keka200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Keka200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/12/19/beleza-dicas-blogueiras/"><strong><span style="font-size: small;">Beleza… só no trololó: segredos das blogueiras</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/01/02/maos-e-unhas/keka200/" rel="attachment wp-att-8347"><img class="alignnone size-full wp-image-8347" title="Keka200" src="https://www.trololodemulher.com.br/2011/12/Keka200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/12/19/beleza-dicas-blogueiras/"><strong><span style="font-size: small;">Beleza… só no trololó: segredos das blogueiras</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/corpo/pauline-costa200/" rel="attachment wp-att-8273"><img class="alignnone size-full wp-image-8273" title="pauline-costa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/pauline-costa200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/12/05/produtos-de-beleza/"><strong><span style="font-size: small;">Produtinhos de beleza recomendados pela blogueira Pauline Costa</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/corpo/pauline-costa200/" rel="attachment wp-att-8273"><img class="alignnone size-full wp-image-8273" title="pauline-costa200" src="https://www.trololodemulher.com.br/2011/12/pauline-costa200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/12/05/produtos-de-beleza/"><strong><span style="font-size: small;">Produtinhos de beleza recomendados pela blogueira Pauline Costa</span></strong></a>
       </p>
     </td>
   </tr>
@@ -136,7 +133,7 @@ O Verão acabou, mas nem por isso a gente quer se descuidar da beleza, certo? Mu
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -151,13 +148,13 @@ O Verão acabou, mas nem por isso a gente quer se descuidar da beleza, certo? Mu
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

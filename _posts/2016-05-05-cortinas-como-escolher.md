@@ -1,10 +1,7 @@
 ---
-id: 3605
 title: 'Cortinas: como escolher?'
-date: 2016-05-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/05/05/cortinas-como-escolher/
 permalink: /2016/05/05/cortinas-como-escolher/
 categories:
   - Dicas de Decoração
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-cortinas-persianas/" target="_blank"><strong>4 ideias de decoração com cortinas e persianas nas janelas.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-cortinas-persianas/" target="_blank" rel="noopener noreferrer"><strong>4 ideias de decoração com cortinas e persianas nas janelas.</strong></a>
 </p>
 
 <p align="justify">
@@ -34,15 +31,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cortinas/" target="_blank"><strong>Quer ver 2 estilos diferentes (e simples!) de cortinas?</strong></a>
+  <a href="http://www.decoracaodacasa.com/cortinas/" target="_blank" rel="noopener noreferrer"><strong>Quer ver 2 estilos diferentes (e simples!) de cortinas?</strong></a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12506" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-CORTINAS6.png" alt="DECORACAO-CORTINAS[6]" width="800" height="70" />
+  <img class="alignnone size-full wp-image-12506" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-CORTINAS6.png" alt="DECORACAO-CORTINAS[6]" width="800" height="70" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12498" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-CORTINAS.png" alt="DECORACAO-CORTINAS" width="800" height="362" />
+  <img class="alignnone size-full wp-image-12498" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-CORTINAS.png" alt="DECORACAO-CORTINAS" width="800" height="362" />
 </p>
 
 <p align="center">
@@ -54,7 +51,7 @@ categories:
 > </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12507" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-CORTINAS7.png" alt="DECORACAO-CORTINAS[7]" width="549" height="87" />
+  <img class="alignnone size-full wp-image-12507" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-CORTINAS7.png" alt="DECORACAO-CORTINAS[7]" width="549" height="87" />
 </p>
 
 > **Os estilos de prega mais utilizados e conhecidos são:**
@@ -62,7 +59,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12499" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-CORTINAS2.jpg" alt="DECORACAO-CORTINAS[2]" width="690" height="415" />
+  <img class="alignnone size-full wp-image-12499" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-CORTINAS2.jpg" alt="DECORACAO-CORTINAS[2]" width="690" height="415" />
 </p>
 
 <p align="center">
@@ -76,7 +73,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12500" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-CORTINAS3.jpg" alt="DECORACAO-CORTINAS[3]" width="600" height="398" />
+  <img class="alignnone size-full wp-image-12500" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-CORTINAS3.jpg" alt="DECORACAO-CORTINAS[3]" width="600" height="398" />
 </p>
 
 <p align="center">
@@ -90,11 +87,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12502" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-CORTINAS4.jpg" alt="DECORACAO-CORTINAS[4]" width="450" height="496" />
+  <img class="alignnone size-full wp-image-12502" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-CORTINAS4.jpg" alt="DECORACAO-CORTINAS[4]" width="450" height="496" />
 </p>
 
 <p style="text-align: center;">
-  Imagem: <a href="http://casa.abril.com.br/materia/cortinas-transparentes-e-vaporosas#2" target="_blank">casa.com.br</a>
+  Imagem: <a href="http://casa.abril.com.br/materia/cortinas-transparentes-e-vaporosas#2" target="_blank" rel="noopener noreferrer">casa.com.br</a>
 </p>
 
 &nbsp;
@@ -104,11 +101,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12505" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-CORTINAS5.jpg" alt="DECORACAO-CORTINAS[5]" width="677" height="800" />
+  <img class="alignnone size-full wp-image-12505" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-CORTINAS5.jpg" alt="DECORACAO-CORTINAS[5]" width="677" height="800" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://casa.abril.com.br/materia/70-fotos-de-cortinas-e-persianas-para-todos-os-gostos#27" target="_blank">casa.com.br</a>
+  Imagem: <a href="http://casa.abril.com.br/materia/70-fotos-de-cortinas-e-persianas-para-todos-os-gostos#27" target="_blank" rel="noopener noreferrer">casa.com.br</a>
 </p>
 
 &nbsp;
@@ -144,17 +141,17 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12497" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/05/DECORACAO-ARQUITETURA-ARQUITETA-SAO-PAULO-REGIANE-YUKI-SABANAI.png" alt="DECORACAO-ARQUITETURA-ARQUITETA-SAO PAULO-REGIANE YUKI SABANAI" width="800" height="193" />
+  <img class="alignnone size-full wp-image-12497" src="https://www.trololodemulher.com.br/2016/05/DECORACAO-ARQUITETURA-ARQUITETA-SAO-PAULO-REGIANE-YUKI-SABANAI.png" alt="DECORACAO-ARQUITETURA-ARQUITETA-SAO PAULO-REGIANE YUKI SABANAI" width="800" height="193" />
 </p>
 
 &nbsp;
 
-Regiane divide-se entre **Brasil e Portugal**, colocando sua competência a favor de uma decoração de muito bom gosto e alinhada com o estilo de seus clientes, seja em terra tupiniquim ou além mar. Você pode acompanhar mais detalhes do trabalho da Arquiteta através de seu site, o <a href="http://www.studiorys.com/crbst_0.html" target="_blank">Studio Rys</a>, ou ainda através de sua página no Facebook, <a href="https://www.facebook.com/StudioRYS/timeline" target="_blank">clicando bem aqui</a>. Aproveite!
+Regiane divide-se entre **Brasil e Portugal**, colocando sua competência a favor de uma decoração de muito bom gosto e alinhada com o estilo de seus clientes, seja em terra tupiniquim ou além mar. Você pode acompanhar mais detalhes do trabalho da Arquiteta através de seu site, o <a href="http://www.studiorys.com/crbst_0.html" target="_blank" rel="noopener noreferrer">Studio Rys</a>, ou ainda através de sua página no Facebook, <a href="https://www.facebook.com/StudioRYS/timeline" target="_blank" rel="noopener noreferrer">clicando bem aqui</a>. Aproveite!
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

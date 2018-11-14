@@ -1,10 +1,7 @@
 ---
-id: 3027
 title: 'Decoração de Cozinha: + 2 dúvidas sobre revestimento respondidas!'
-date: 2011-07-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/07/25/decoracao-cozinha-revestimento/
 permalink: /2011/07/25/decoracao-cozinha-revestimento/
 categories:
   - Cozinha
@@ -28,7 +25,7 @@ categories:
 > </p>
 
 <p align="justify">
-  Essa é uma dúvida que você tem também? Pois agora chegou o momento de eliminá-la. Quem dá as orientações básicas para a gente sobre isso é a <strong>Carol Carneiro</strong>, que é de <strong>Belo Horizonte</strong> e atua como <strong><em>Designer</em> de Ambientes</strong>, além de produzir trabalhos manuais, uma de suas paixões. Editora do <strong><a href="http://www.blogcarolcarneiro.blogspot.com/" target="_blank">blog que leva seu nome</a></strong>, ela responde a esse tipo de questionamento explicando que, de fato, <strong>é possível fazer o revestimento parcial da cozinha, isto é: acima da bancada da pia (entre a bancada e o armário alto) em toda extensão, e atrás do fogão.</strong> Segundo a <em>designer</em>, “<em>estes são locais onde são indispensáveis o uso de revestimentos como azulejo, madeira, vidro, ladrilhos hidráulicos (um tipo de cerâmica), dentre outros</em>”.
+  Essa é uma dúvida que você tem também? Pois agora chegou o momento de eliminá-la. Quem dá as orientações básicas para a gente sobre isso é a <strong>Carol Carneiro</strong>, que é de <strong>Belo Horizonte</strong> e atua como <strong><em>Designer</em> de Ambientes</strong>, além de produzir trabalhos manuais, uma de suas paixões. Editora do <strong><a href="http://www.blogcarolcarneiro.blogspot.com/" target="_blank" rel="noopener noreferrer">blog que leva seu nome</a></strong>, ela responde a esse tipo de questionamento explicando que, de fato, <strong>é possível fazer o revestimento parcial da cozinha, isto é: acima da bancada da pia (entre a bancada e o armário alto) em toda extensão, e atrás do fogão.</strong> Segundo a <em>designer</em>, “<em>estes são locais onde são indispensáveis o uso de revestimentos como azulejo, madeira, vidro, ladrilhos hidráulicos (um tipo de cerâmica), dentre outros</em>”.
 </p>
 
 <p align="justify">
@@ -40,11 +37,11 @@ categories:
 > </p>
 
 <p align="justify">
-  Para quem gosta de <strong>cores na cozinha</strong>, <strong>Carol</strong> sugere os <strong>ladrilhos hidráulicos ou pastilhas de “vidrotil” de cores e desenhos variados</strong>. Para facilitar a limpeza, a orientação é a seguinte: <em>“placas de vidro laqueado (tem várias opções de cores) são muito bem vindas também, pois quanto mais liso for o revestimento, mais fácil será a limpeza daquela área e não vai acumular resíduos e sujeiras. Além disso, dará um toque chiquérrimo à sua cozinha”</em>. Para finalizar, <strong>Carol</strong> sugere o uso de tinta acrílica da <strong><a href="http://www.suvinil.com.br/" target="_blank">Suvinil</a></strong> para a pintura do resto da cozinha, pois ela <em>“apresenta característica lavável, permitindo o uso de bucha na limpeza, o cheiro não é forte e é uma solução mais em conta”.</em>
+  Para quem gosta de <strong>cores na cozinha</strong>, <strong>Carol</strong> sugere os <strong>ladrilhos hidráulicos ou pastilhas de “vidrotil” de cores e desenhos variados</strong>. Para facilitar a limpeza, a orientação é a seguinte: <em>“placas de vidro laqueado (tem várias opções de cores) são muito bem vindas também, pois quanto mais liso for o revestimento, mais fácil será a limpeza daquela área e não vai acumular resíduos e sujeiras. Além disso, dará um toque chiquérrimo à sua cozinha”</em>. Para finalizar, <strong>Carol</strong> sugere o uso de tinta acrílica da <strong><a href="http://www.suvinil.com.br/" target="_blank" rel="noopener noreferrer">Suvinil</a></strong> para a pintura do resto da cozinha, pois ela <em>“apresenta característica lavável, permitindo o uso de bucha na limpeza, o cheiro não é forte e é uma solução mais em conta”.</em>
 </p>
 
 <p align="center">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/cozinha.jpg"><img class="alignnone size-full wp-image-6673" title="cozinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/cozinha.jpg" alt="" width="600" height="512" /></a><br /> <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong></em>
+  <em><a href="https://www.trololodemulher.com.br/2011/07/cozinha.jpg"><img class="alignnone size-full wp-image-6673" title="cozinha" src="https://www.trololodemulher.com.br/2011/07/cozinha.jpg" alt="" width="600" height="512" /></a><br /> <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></strong></em>
 </p>
 
 <p align="justify">
@@ -56,7 +53,7 @@ categories:
 > </p>
 
 <p align="justify">
-  Sim! Concordo com a <strong>Gleici.</strong> Parece ser uma opção bastante interessante. Já pensou trocar o piso da cozinha sem precisar quebrar tudo? Curiosa para saber do que se tratava, consultei a <strong>Arquiteta e Decoradora de São Paulo, Larissa Lieders</strong>. Ela edita o blog &#8211;  <strong><a href="http://fuimorarnumacasinha.blogspot.com/" target="_blank">Fui morar numa casinha…</a></strong> &#8211;  e, gentilmente, explicou do que se trata:
+  Sim! Concordo com a <strong>Gleici.</strong> Parece ser uma opção bastante interessante. Já pensou trocar o piso da cozinha sem precisar quebrar tudo? Curiosa para saber do que se tratava, consultei a <strong>Arquiteta e Decoradora de São Paulo, Larissa Lieders</strong>. Ela edita o blog &#8211;  <strong><a href="http://fuimorarnumacasinha.blogspot.com/" target="_blank" rel="noopener noreferrer">Fui morar numa casinha…</a></strong> &#8211;  e, gentilmente, explicou do que se trata:
 </p>
 
 &nbsp;
@@ -70,7 +67,7 @@ categories:
 </p>
 
 <p align="justify">
-  Entretanto, ao que tudo indica, esse parece mesmo ser um produto promissor. De acordo com a <strong><a href="http://www.portobello.com.br/" target="_blank">Portobello</a></strong>, o <strong>Extra Fino</strong> é um tipo de porcelanato com apenas <strong>4,7mm</strong> de espessura, e pode ser assentado sobre piso e parede. Os avanços tecnológicos permitiram a combinação de redução da espessura e performance de resistência, resultando num produto que tem vantagens como <strong>evitar a quebra e o entulho, além da possibilidade de ser assentado em diferentes bases. </strong>Não parece perfeito para acalmar um pouco do estresse que toda construção e reforma gera? … Ô!
+  Entretanto, ao que tudo indica, esse parece mesmo ser um produto promissor. De acordo com a <strong><a href="http://www.portobello.com.br/" target="_blank" rel="noopener noreferrer">Portobello</a></strong>, o <strong>Extra Fino</strong> é um tipo de porcelanato com apenas <strong>4,7mm</strong> de espessura, e pode ser assentado sobre piso e parede. Os avanços tecnológicos permitiram a combinação de redução da espessura e performance de resistência, resultando num produto que tem vantagens como <strong>evitar a quebra e o entulho, além da possibilidade de ser assentado em diferentes bases. </strong>Não parece perfeito para acalmar um pouco do estresse que toda construção e reforma gera? … Ô!
 </p>
 
 <p align="justify">
@@ -98,7 +95,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

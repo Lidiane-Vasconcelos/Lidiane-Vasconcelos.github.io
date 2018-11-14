@@ -1,10 +1,7 @@
 ---
-id: 3637
 title: Hora da amamentação!
-date: 2016-08-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/08/05/amamentacao/
 permalink: /2016/08/05/amamentacao/
 categories:
   - Maternidade
@@ -15,7 +12,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12738" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/SEMANA-INTERNACIONAL-DE-AMAMENTACAO-2016.jpg" alt="SEMANA INTERNACIONAL DE AMAMENTACAO-2016" width="800" height="533" />
+  <img class="alignnone size-full wp-image-12738" src="https://www.trololodemulher.com.br/2016/08/SEMANA-INTERNACIONAL-DE-AMAMENTACAO-2016.jpg" alt="SEMANA INTERNACIONAL DE AMAMENTACAO-2016" width="800" height="533" />
 </p>
 
 <p align="center">
@@ -55,7 +52,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12737" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/PAOLLA-ALBERTON-PEDIATRA-CAMPINAS-SP.jpg" alt="PAOLLA ALBERTON - PEDIATRA CAMPINAS-SP" width="800" height="182" />
+  <img class="alignnone size-full wp-image-12737" src="https://www.trololodemulher.com.br/2016/08/PAOLLA-ALBERTON-PEDIATRA-CAMPINAS-SP.jpg" alt="PAOLLA ALBERTON - PEDIATRA CAMPINAS-SP" width="800" height="182" />
 </p>
 
 <p align="justify">
@@ -63,23 +60,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/13/desfralde-maternidade-bebe/" target="_blank"><strong>Desfralde: mais simples do que você imagina.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/03/13/desfralde-maternidade-bebe/" target="_blank" rel="noopener noreferrer"><strong>Desfralde: mais simples do que você imagina.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/21/frio-doencas-infantis/" target="_blank"><strong>Chegou o frio… e as doenças infantis. E agora?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/21/frio-doencas-infantis/" target="_blank" rel="noopener noreferrer"><strong>Chegou o frio… e as doenças infantis. E agora?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/06/28/bebe-assaduras/" target="_blank"><strong>Bebê sem assaduras: é possível, sim, mamãe!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/06/28/bebe-assaduras/" target="_blank" rel="noopener noreferrer"><strong>Bebê sem assaduras: é possível, sim, mamãe!</strong></a>
 </p>
 
 <p align="justify">
-  A <strong>Dra. Paolla</strong> também é blogueira, e escreve <strong>textos informativos na linguagem de mãe</strong>, de modo que possamos usufruir de conhecimento, o que é imprescindível na criação de nossas crianças, e ainda trocarmos experiência com ela, que também é mãe. Isso não é bacana? Aposto que você gostou da ideia de dar uma <em>espiada</em> no blog da Dra Paolla, o <a href="http://mamaepediatra.blogspot.com.br/" target="_blank">Mamãe Pediatra</a>, e até acompanhá-la em suas publicações, certo? Eu imaginei… então, oh: se joga no <a href="http://mamaepediatra.blogspot.com.br/" target="_blank">blog</a> e aproveita! Ah! No Facebook também dá para acompanhá-la de pertinho. <a href="https://www.facebook.com/mamaepediatra/home" target="_blank">Clique aqui e curta sua fanpage</a>!
+  A <strong>Dra. Paolla</strong> também é blogueira, e escreve <strong>textos informativos na linguagem de mãe</strong>, de modo que possamos usufruir de conhecimento, o que é imprescindível na criação de nossas crianças, e ainda trocarmos experiência com ela, que também é mãe. Isso não é bacana? Aposto que você gostou da ideia de dar uma <em>espiada</em> no blog da Dra Paolla, o <a href="http://mamaepediatra.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Mamãe Pediatra</a>, e até acompanhá-la em suas publicações, certo? Eu imaginei… então, oh: se joga no <a href="http://mamaepediatra.blogspot.com.br/" target="_blank" rel="noopener noreferrer">blog</a> e aproveita! Ah! No Facebook também dá para acompanhá-la de pertinho. <a href="https://www.facebook.com/mamaepediatra/home" target="_blank" rel="noopener noreferrer">Clique aqui e curta sua fanpage</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

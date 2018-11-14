@@ -1,10 +1,7 @@
 ---
-id: 2854
 title: Passar fome emagrece?
-date: 2010-08-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/08/02/passar-fome-nao-emagrece/
 permalink: /2010/08/02/passar-fome-nao-emagrece/
 categories:
   - Comportamento
@@ -28,7 +25,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/pao-e-agua.jpg"><img class="size-medium wp-image-5007   aligncenter" title="pão e água" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/pao-e-agua-300x212.jpg" alt="" width="300" height="212" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/07/pao-e-agua.jpg"><img class="size-medium wp-image-5007   aligncenter" title="pão e água" src="https://www.trololodemulher.com.br/2010/07/pao-e-agua-300x212.jpg" alt="" width="300" height="212" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -52,7 +49,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em>Imagem</em>: <em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>
+  <em>Imagem</em>: <em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em>
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -70,7 +67,7 @@ categories:
   
   <tr>
     <td width="600" valign="top">
-      <a href="http://comportamentomagro.com.br/" target="_blank">Comportamento Magro</a>
+      <a href="http://comportamentomagro.com.br/" target="_blank" rel="noopener noreferrer">Comportamento Magro</a>
     </td>
   </tr>
 </table>

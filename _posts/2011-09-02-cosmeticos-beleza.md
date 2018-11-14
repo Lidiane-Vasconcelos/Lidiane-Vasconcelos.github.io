@@ -1,10 +1,7 @@
 ---
-id: 3045
 title: Dicas de cosméticos para manter a beleza de uma bicha fêmea em dia!
-date: 2011-09-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/09/02/cosmeticos-beleza/
 permalink: /2011/09/02/cosmeticos-beleza/
 categories:
   - Beleza
@@ -32,7 +29,7 @@ O que vem a ser uma bicha fêmea? Penso que a melhor definição é de que é um
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/cely3.jpg"><img class="alignnone size-full wp-image-6858" title="cely3" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/cely3.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/cely3.jpg"><img class="alignnone size-full wp-image-6858" title="cely3" src="https://www.trololodemulher.com.br/2011/08/cely3.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 &nbsp;
@@ -50,7 +47,7 @@ O que vem a ser uma bicha fêmea? Penso que a melhor definição é de que é um
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/lait_de_gommage.jpg"><img class="alignnone size-full wp-image-6863" title="lait_de_gommage" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/lait_de_gommage.jpg" alt="" width="236" height="443" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/lait_de_gommage.jpg"><img class="alignnone size-full wp-image-6863" title="lait_de_gommage" src="https://www.trololodemulher.com.br/2011/08/lait_de_gommage.jpg" alt="" width="236" height="443" /></a>
 </p>
 
 <p align="center">
@@ -58,7 +55,7 @@ O que vem a ser uma bicha fêmea? Penso que a melhor definição é de que é um
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Gel-Esfoliante-para-o-rosto.jpg"><img class="alignnone size-full wp-image-6862" title="Gel-Esfoliante-para-o-rosto" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Gel-Esfoliante-para-o-rosto.jpg" alt="" width="330" height="330" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/Gel-Esfoliante-para-o-rosto.jpg"><img class="alignnone size-full wp-image-6862" title="Gel-Esfoliante-para-o-rosto" src="https://www.trololodemulher.com.br/2011/08/Gel-Esfoliante-para-o-rosto.jpg" alt="" width="330" height="330" /></a>
 </p>
 
 <p align="center">
@@ -80,7 +77,7 @@ O que vem a ser uma bicha fêmea? Penso que a melhor definição é de que é um
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/corretivo.jpg"><img class="alignnone size-full wp-image-6861" title="corretivo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/corretivo.jpg" alt="" width="280" height="280" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/corretivo.jpg"><img class="alignnone size-full wp-image-6861" title="corretivo" src="https://www.trololodemulher.com.br/2011/08/corretivo.jpg" alt="" width="280" height="280" /></a>
 </p>
 
 <p align="center">
@@ -88,11 +85,11 @@ O que vem a ser uma bicha fêmea? Penso que a melhor definição é de que é um
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/po.jpg"><img class="alignnone size-full wp-image-6864" title="po" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/po.jpg" alt="" width="350" height="350" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/po.jpg"><img class="alignnone size-full wp-image-6864" title="po" src="https://www.trololodemulher.com.br/2011/08/po.jpg" alt="" width="350" height="350" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/the-colossal.jpg"><img class="alignnone size-full wp-image-6866" title="the colossal" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/the-colossal.jpg" alt="" width="289" height="238" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/the-colossal.jpg"><img class="alignnone size-full wp-image-6866" title="the colossal" src="https://www.trololodemulher.com.br/2011/08/the-colossal.jpg" alt="" width="289" height="238" /></a>
 </p>
 
 <p align="center">
@@ -100,7 +97,7 @@ O que vem a ser uma bicha fêmea? Penso que a melhor definição é de que é um
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/soft_face.jpg"><img class="alignnone size-full wp-image-6865" title="soft_face" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/soft_face.jpg" alt="" width="220" height="160" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/08/soft_face.jpg"><img class="alignnone size-full wp-image-6865" title="soft_face" src="https://www.trololodemulher.com.br/2011/08/soft_face.jpg" alt="" width="220" height="160" /></a>
 </p>
 
 <p align="center">

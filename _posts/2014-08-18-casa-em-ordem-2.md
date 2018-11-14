@@ -1,10 +1,7 @@
 ---
-id: 3332
 title: 'Se sua casa estiver em ordem, não duvide: você ficará bem.'
-date: 2014-08-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2014/08/18/casa-em-ordem-2/
 permalink: /2014/08/18/casa-em-ordem-2/
 categories:
   - Bem-estar
@@ -16,17 +13,17 @@ Uma vez uma leitora me disse que uma casa em ordem até nos ilude quanto a limpe
 &nbsp;
 
 <p align="justify">
-  Não sei se você sabe, tenho um menino de 1 ano e 8 meses. Eu mesma cuido da casa por aqui, em parceria com o marido, claro! Eu trabalho cuidando deste blog e do <a href="http://www.decoracaodacasa.com/" target="_blank">Decoração da Casa</a>. Tenho ajuda extra, sim, mas a cada 15 dias. Como você deve imaginar, seria bem fácil o caos se instalar num lar onde há criança e a não há alguém com dedicação ex-clu-si-va para as coisas da casa, certo? #sóquenão!
+  Não sei se você sabe, tenho um menino de 1 ano e 8 meses. Eu mesma cuido da casa por aqui, em parceria com o marido, claro! Eu trabalho cuidando deste blog e do <a href="http://www.decoracaodacasa.com/" target="_blank" rel="noopener noreferrer">Decoração da Casa</a>. Tenho ajuda extra, sim, mas a cada 15 dias. Como você deve imaginar, seria bem fácil o caos se instalar num lar onde há criança e a não há alguém com dedicação ex-clu-si-va para as coisas da casa, certo? #sóquenão!
 </p>
 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/CASA-ROTINA-DOMÉSTICA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA.jpg"><img class="alignnone size-full wp-image-10284" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/08/CASA-ROTINA-DOMÉSTICA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA.jpg" alt="CASA, ROTINA DOMÉSTICA, ORGANIZAÇÃO, ORGANIZAÇÃO DA CASA" width="512" height="768" /></a>
+  <a href="https://www.trololodemulher.com.br/2014/08/CASA-ROTINA-DOMÉSTICA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA.jpg"><img class="alignnone size-full wp-image-10284" src="https://www.trololodemulher.com.br/2014/08/CASA-ROTINA-DOMÉSTICA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA.jpg" alt="CASA, ROTINA DOMÉSTICA, ORGANIZAÇÃO, ORGANIZAÇÃO DA CASA" width="512" height="768" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">freeimages</a>
+  Imagem: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">freeimages</a>
 </p>
 
 <p align="justify">
@@ -40,15 +37,15 @@ Uma vez uma leitora me disse que uma casa em ordem até nos ilude quanto a limpe
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/06/casa-em-ordem/" target="_blank"><strong>Casa em ordem, já! Como? Veja 19 dicas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/06/06/casa-em-ordem/" target="_blank" rel="noopener noreferrer"><strong>Casa em ordem, já! Como? Veja 19 dicas.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/04/01/bagunca-organizacao/" target="_blank"><strong>Siga 10 passos e o canto da bagunça deixará de existir.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/04/01/bagunca-organizacao/" target="_blank" rel="noopener noreferrer"><strong>Siga 10 passos e o canto da bagunça deixará de existir.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank"><strong>18 hábitos da pessoa organizada na arrumação da casa.</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank" rel="noopener noreferrer"><strong>18 hábitos da pessoa organizada na arrumação da casa.</strong></a>
 </p>
 
 <p align="justify">
@@ -64,11 +61,11 @@ Uma vez uma leitora me disse que uma casa em ordem até nos ilude quanto a limpe
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/dicas-organizacao-da-casa/" target="_blank"><strong>Dicas de organização para toda a casa.</strong></a>
+  <a href="http://www.decoracaodacasa.com/dicas-organizacao-da-casa/" target="_blank" rel="noopener noreferrer"><strong>Dicas de organização para toda a casa.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/5-dicas-de-oganizacao/" target="_blank"><strong>5 dicas de organização, passe bem, e seja feliz!</strong></a>
+  <a href="http://www.decoracaodacasa.com/5-dicas-de-oganizacao/" target="_blank" rel="noopener noreferrer"><strong>5 dicas de organização, passe bem, e seja feliz!</strong></a>
 </p>
 
 <p align="justify">
@@ -80,17 +77,17 @@ Uma vez uma leitora me disse que uma casa em ordem até nos ilude quanto a limpe
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/07/05/tarefas-domesticas/" target="_blank"><strong>Como você dá conta das tarefas diárias? Veja 20 dicas e agilize!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/07/05/tarefas-domesticas/" target="_blank" rel="noopener noreferrer"><strong>Como você dá conta das tarefas diárias? Veja 20 dicas e agilize!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/09/10/dicas-rotina-domestica/" target="_blank"><strong>Dicas para facilitar a rotina doméstica.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/09/10/dicas-rotina-domestica/" target="_blank" rel="noopener noreferrer"><strong>Dicas para facilitar a rotina doméstica.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/08/20/cuidado-da-casa/" target="_blank"><strong>Ações esquecidas no cuidado da casa, porém necessárias.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/08/20/cuidado-da-casa/" target="_blank" rel="noopener noreferrer"><strong>Ações esquecidas no cuidado da casa, porém necessárias.</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

@@ -1,10 +1,7 @@
 ---
-id: 3707
 title: 'Decoração da sala de jantar: dúvidas da leitora solucionadas.'
-date: 2016-11-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/11/22/sala-de-jantar-3/
 permalink: /2016/11/22/sala-de-jantar-3/
 categories:
   - Salas
@@ -18,11 +15,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13298" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/DECORACAO-SALA-DE-JANTAR2.jpg" alt="decoracao-sala-de-jantar2" width="800" height="449" />
+  <img class="alignnone size-full wp-image-13298" src="https://www.trololodemulher.com.br/2016/11/DECORACAO-SALA-DE-JANTAR2.jpg" alt="decoracao-sala-de-jantar2" width="800" height="449" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13297" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/DECORACAO-SALA-DE-JANTAR.jpg" alt="decoracao-sala-de-jantar" width="800" height="449" />
+  <img class="alignnone size-full wp-image-13297" src="https://www.trololodemulher.com.br/2016/11/DECORACAO-SALA-DE-JANTAR.jpg" alt="decoracao-sala-de-jantar" width="800" height="449" />
 </p>
 
 <p align="justify">
@@ -38,7 +35,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13292" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/DECORACAO-SALA-PAPEL-DE-PAREDE.jpg" alt="decoracao-sala-papel-de-parede" width="640" height="637" />
+  <img class="alignnone size-full wp-image-13292" src="https://www.trololodemulher.com.br/2016/11/DECORACAO-SALA-PAPEL-DE-PAREDE.jpg" alt="decoracao-sala-papel-de-parede" width="640" height="637" />
 </p>
 
 <p align="center">
@@ -50,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13293" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/DECORACAO-SALA-PENDENTE.jpg" alt="decoracao-sala-pendente" width="693" height="693" />
+  <img class="alignnone size-full wp-image-13293" src="https://www.trololodemulher.com.br/2016/11/DECORACAO-SALA-PENDENTE.jpg" alt="decoracao-sala-pendente" width="693" height="693" />
 </p>
 
 <p align="center">
@@ -62,11 +59,11 @@ categories:
 </p>
 
 <p align="justify">
-  <em><a href="http://www.trololodemulher.com.br/2016/08/29/luminaria-pendente/" target="_blank"><strong>Você sabe inserir a luminária pendente na decoração?</strong></a></em>
+  <em><a href="http://www.trololodemulher.com.br/2016/08/29/luminaria-pendente/" target="_blank" rel="noopener noreferrer"><strong>Você sabe inserir a luminária pendente na decoração?</strong></a></em>
 </p>
 
 <p align="justify">
-  <em><a href="http://decoracaodacasa.com/lustre-pendente/" target="_blank"><strong>Como decorar a sala de jantar com lustre pendente?</strong></a></em>
+  <em><a href="http://decoracaodacasa.com/lustre-pendente/" target="_blank" rel="noopener noreferrer"><strong>Como decorar a sala de jantar com lustre pendente?</strong></a></em>
 </p>
 
 <p align="justify">
@@ -74,7 +71,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13287" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/aparador-laca-aberto.jpg" alt="aparador-laca-aberto" width="800" height="800" />
+  <img class="alignnone size-full wp-image-13287" src="https://www.trololodemulher.com.br/2016/11/aparador-laca-aberto.jpg" alt="aparador-laca-aberto" width="800" height="800" />
 </p>
 
 <p align="center">
@@ -82,7 +79,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13289" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/aparador.jpg" alt="aparador" width="800" height="686" />
+  <img class="alignnone size-full wp-image-13289" src="https://www.trololodemulher.com.br/2016/11/aparador.jpg" alt="aparador" width="800" height="686" />
 </p>
 
 <p align="center">
@@ -90,7 +87,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13288" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/aparador-laca.jpg" alt="aparador-laca" width="692" height="398" />
+  <img class="alignnone size-full wp-image-13288" src="https://www.trololodemulher.com.br/2016/11/aparador-laca.jpg" alt="aparador-laca" width="692" height="398" />
 </p>
 
 <p align="center">
@@ -106,7 +103,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13300" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/CLAUDIA-MEDEIROS-DESIGNER-DE-INTERIORES-PERSONAL-ORGANIZER-CAMPINAS-SP.jpg" alt="claudia-medeiros-designer-de-interiores-personal-organizer-campinas-sp" width="800" height="157" />
+  <img class="alignnone size-full wp-image-13300" src="https://www.trololodemulher.com.br/2016/11/CLAUDIA-MEDEIROS-DESIGNER-DE-INTERIORES-PERSONAL-ORGANIZER-CAMPINAS-SP.jpg" alt="claudia-medeiros-designer-de-interiores-personal-organizer-campinas-sp" width="800" height="157" />
 </p>
 
 <p align="justify">
@@ -114,23 +111,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank"><strong>4º post da série para organização da casa: closet.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank" rel="noopener noreferrer"><strong>4º post da série para organização da casa: closet.</strong></a>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/02/02/piso-que-imita-madeira/" target="_blank">Revestimento de piso que imita madeira: 6 dicas de expert.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2016/02/02/piso-que-imita-madeira/" target="_blank" rel="noopener noreferrer">Revestimento de piso que imita madeira: 6 dicas de expert.</a></strong>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/" target="_blank">Antes x depois do quarto do casal: dicas de expert.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/" target="_blank" rel="noopener noreferrer">Antes x depois do quarto do casal: dicas de expert.</a></strong>
 </p>
 
 <p align="justify">
-  A <strong>Claudia Medeiros</strong> também tem um blog, o <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank">Se fosse na minha casa</a><strong>. </strong>A <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank">fanpage do blog você clica e curte aqui</a>. Como Personal Organizer a moça atualiza uma <a href="https://www.facebook.com/claudiamedeirosdesigner/timeline" target="_blank">página no Facebook bem aqui</a>. Você ainda pode ver mais informações em seu <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank">perfil no Instagram</a>. Se joga!
+  A <strong>Claudia Medeiros</strong> também tem um blog, o <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank" rel="noopener noreferrer">Se fosse na minha casa</a><strong>. </strong>A <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank" rel="noopener noreferrer">fanpage do blog você clica e curte aqui</a>. Como Personal Organizer a moça atualiza uma <a href="https://www.facebook.com/claudiamedeirosdesigner/timeline" target="_blank" rel="noopener noreferrer">página no Facebook bem aqui</a>. Você ainda pode ver mais informações em seu <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank" rel="noopener noreferrer">perfil no Instagram</a>. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

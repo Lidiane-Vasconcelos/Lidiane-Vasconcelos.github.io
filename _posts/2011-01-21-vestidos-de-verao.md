@@ -1,16 +1,13 @@
 ---
-id: 2941
 title: 'Vestidos de Verão: moda, dicas e elegância…'
-date: 2011-01-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/01/21/vestidos-de-verao/
 permalink: /2011/01/21/vestidos-de-verao/
 categories:
   - Moda
 ---
 <p style="text-align: justify;">
-  Quando o <strong>Verão</strong> se aproxima, e segue a todo vapor, logo as mulheres ficam em polvorosa: é hora de usar os <strong>vestidos</strong>. Os modelos são os mais diversos, desde que sejam confortáveis, afinal de contas, “o<em> vestido é a cara do verão porque é a vestimenta que mais permite a circulação do ar pelo corpo. Como nesta estação além do sol forte o tempo fica muito abafado, usar roupas confortáveis é de suma importância</em>”, afirma <strong>Tatianna Carvalho</strong>, colunista de moda do blog <strong><a href="http://mixdeinformacao.blogspot.com/" target="_blank">Mix Cultural</a></strong>.
+  Quando o <strong>Verão</strong> se aproxima, e segue a todo vapor, logo as mulheres ficam em polvorosa: é hora de usar os <strong>vestidos</strong>. Os modelos são os mais diversos, desde que sejam confortáveis, afinal de contas, “o<em> vestido é a cara do verão porque é a vestimenta que mais permite a circulação do ar pelo corpo. Como nesta estação além do sol forte o tempo fica muito abafado, usar roupas confortáveis é de suma importância</em>”, afirma <strong>Tatianna Carvalho</strong>, colunista de moda do blog <strong><a href="http://mixdeinformacao.blogspot.com/" target="_blank" rel="noopener noreferrer">Mix Cultural</a></strong>.
 </p>
 
 <p style="text-align: justify;">
@@ -34,11 +31,11 @@ categories:
 </blockquote>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/vestido-de-manga-1.jpg"><img class="alignnone size-full wp-image-5789" title="vestido de manga 1" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/vestido-de-manga-1.jpg" alt="" width="560" height="315" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/vestido-de-manga-1.jpg"><img class="alignnone size-full wp-image-5789" title="vestido de manga 1" src="https://www.trololodemulher.com.br/2011/01/vestido-de-manga-1.jpg" alt="" width="560" height="315" /></a>
 </p>
 
 <p style="text-align: center;">
-  Vestido de manga, diferencial no Verão, usado pela <strong>Daniela Garlet.</strong> A moça<strong>,</strong> sempre muito bela, mostra fotos de seus looks no seu <a href="http://www.danigarlet.com/" target="_blank">Blog Dani Garlet</a>.
+  Vestido de manga, diferencial no Verão, usado pela <strong>Daniela Garlet.</strong> A moça<strong>,</strong> sempre muito bela, mostra fotos de seus looks no seu <a href="http://www.danigarlet.com/" target="_blank" rel="noopener noreferrer">Blog Dani Garlet</a>.
 </p>
 
  
@@ -46,17 +43,17 @@ categories:
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/vestido-longo.jpg"><img class="alignnone size-full wp-image-5790" title="vestido longo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/vestido-longo.jpg" alt="" width="183" height="400" /></a>
+      <a href="https://www.trololodemulher.com.br/2011/01/vestido-longo.jpg"><img class="alignnone size-full wp-image-5790" title="vestido longo" src="https://www.trololodemulher.com.br/2011/01/vestido-longo.jpg" alt="" width="183" height="400" /></a>
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/vestido-longo-costas.jpg"><img class="alignnone size-full wp-image-5791" title="vestido longo costas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/vestido-longo-costas.jpg" alt="" width="188" height="400" /></a>
+      <a href="https://www.trololodemulher.com.br/2011/01/vestido-longo-costas.jpg"><img class="alignnone size-full wp-image-5791" title="vestido longo costas" src="https://www.trololodemulher.com.br/2011/01/vestido-longo-costas.jpg" alt="" width="188" height="400" /></a>
     </td>
   </tr>
 </table>
 
 <p style="text-align: center;">
-  Vestido longo, um clássico do Verão, usado pela <strong>Daniela Garlet</strong>, a bonita que edita e enfeita o <a href="http://www.danigarlet.com/" target="_blank">Blog Dani Garlet</a>.
+  Vestido longo, um clássico do Verão, usado pela <strong>Daniela Garlet</strong>, a bonita que edita e enfeita o <a href="http://www.danigarlet.com/" target="_blank" rel="noopener noreferrer">Blog Dani Garlet</a>.
 </p>
 
 <p style="text-align: center;">
@@ -72,11 +69,11 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/vestido-curto.jpg"><img class="alignnone size-full wp-image-5786" title="vestido curto" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/vestido-curto.jpg" alt="" width="640" height="480" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/vestido-curto.jpg"><img class="alignnone size-full wp-image-5786" title="vestido curto" src="https://www.trololodemulher.com.br/2011/01/vestido-curto.jpg" alt="" width="640" height="480" /></a>
 </p>
 
 <p style="text-align: center;">
-  Vestido curto e alegre para passear, usado lindamente pela <strong>Daniela Garlet</strong> e mostrado em seu <a href="http://www.danigarlet.com/" target="_blank">Blog Dani Garlet</a> .
+  Vestido curto e alegre para passear, usado lindamente pela <strong>Daniela Garlet</strong> e mostrado em seu <a href="http://www.danigarlet.com/" target="_blank" rel="noopener noreferrer">Blog Dani Garlet</a> .
 </p>
 
 <p style="text-align: justify;">

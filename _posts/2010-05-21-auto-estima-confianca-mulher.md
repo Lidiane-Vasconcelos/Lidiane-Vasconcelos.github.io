@@ -1,10 +1,7 @@
 ---
-id: 2819
 title: Você é confiante?
-date: 2010-05-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/05/21/auto-estima-confianca-mulher/
 permalink: /2010/05/21/auto-estima-confianca-mulher/
 categories:
   - Comportamento
@@ -31,7 +28,7 @@ Escolham a forma que for mais conveniente, mais acessível, mas vá, busque a mu
 
 Um bom recomeço para você!
 
-**<a href="http://blog.comportamentomagro.com.br/" target="_blank">Luciana Kotaka – Psicóloga Clínica</a>**
+**<a href="http://blog.comportamentomagro.com.br/" target="_blank" rel="noopener noreferrer">Luciana Kotaka – Psicóloga Clínica</a>**
 
 Especialista em Obesidade  e Transtornos Alimentares
 

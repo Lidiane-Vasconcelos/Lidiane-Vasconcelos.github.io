@@ -1,10 +1,7 @@
 ---
-id: 3802
 title: 'Receita de salada de figo: com história e afeto.'
-date: 2017-09-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/09/26/receita-de-salada/
 permalink: /2017/09/26/receita-de-salada/
 categories:
   - Receitas
@@ -14,11 +11,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14156" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/VIAGEM-ITALIA-BORGO-DI-VOTIGNO-RECEITA-DE-SALADA-SALADA-DE-FIGO.jpg" alt="VIAGEM-ITALIA-BORGO DI VOTIGNO-RECEITA DE SALADA-SALADA DE FIGO" width="800" height="534" />
+  <img class="alignnone size-full wp-image-14156" src="https://www.trololodemulher.com.br/2017/09/VIAGEM-ITALIA-BORGO-DI-VOTIGNO-RECEITA-DE-SALADA-SALADA-DE-FIGO.jpg" alt="VIAGEM-ITALIA-BORGO DI VOTIGNO-RECEITA DE SALADA-SALADA DE FIGO" width="800" height="534" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14157" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/VIAGEM-ITALIA-BORGO-DI-VOTIGNO-RECEITA-DE-SALADA-SALADA-DE-FIGO2.jpg" alt="VIAGEM-ITALIA-BORGO DI VOTIGNO-RECEITA DE SALADA-SALADA DE FIGO[2]" width="800" height="521" />
+  <img class="alignnone size-full wp-image-14157" src="https://www.trololodemulher.com.br/2017/09/VIAGEM-ITALIA-BORGO-DI-VOTIGNO-RECEITA-DE-SALADA-SALADA-DE-FIGO2.jpg" alt="VIAGEM-ITALIA-BORGO DI VOTIGNO-RECEITA DE SALADA-SALADA DE FIGO[2]" width="800" height="521" />
 </p>
 
 <p align="justify">
@@ -26,11 +23,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14158" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/VIAGEM-ITALIA-BORGO-DI-VOTIGNO-RECEITA-DE-SALADA-SALADA-DE-FIGO3.jpg" alt="VIAGEM-ITALIA-BORGO DI VOTIGNO-RECEITA DE SALADA-SALADA DE FIGO[3]" width="800" height="578" />
+  <img class="alignnone size-full wp-image-14158" src="https://www.trololodemulher.com.br/2017/09/VIAGEM-ITALIA-BORGO-DI-VOTIGNO-RECEITA-DE-SALADA-SALADA-DE-FIGO3.jpg" alt="VIAGEM-ITALIA-BORGO DI VOTIGNO-RECEITA DE SALADA-SALADA DE FIGO[3]" width="800" height="578" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14159" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/VIAGEM-ITALIA-BORGO-DI-VOTIGNO-RECEITA-DE-SALADA-SALADA-DE-FIGO4.jpg" alt="VIAGEM-ITALIA-BORGO DI VOTIGNO-RECEITA DE SALADA-SALADA DE FIGO[4]" width="800" height="1200" />
+  <img class="alignnone size-full wp-image-14159" src="https://www.trololodemulher.com.br/2017/09/VIAGEM-ITALIA-BORGO-DI-VOTIGNO-RECEITA-DE-SALADA-SALADA-DE-FIGO4.jpg" alt="VIAGEM-ITALIA-BORGO DI VOTIGNO-RECEITA DE SALADA-SALADA DE FIGO[4]" width="800" height="1200" />
 </p>
 
 <p align="justify">
@@ -38,7 +35,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14152" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/RECEITA-DE-SALADA-SALADA-DE-FIGO3.jpg" alt="RECEITA DE SALADA-SALADA DE FIGO[3]" width="800" height="534" />
+  <img class="alignnone size-full wp-image-14152" src="https://www.trololodemulher.com.br/2017/09/RECEITA-DE-SALADA-SALADA-DE-FIGO3.jpg" alt="RECEITA DE SALADA-SALADA DE FIGO[3]" width="800" height="534" />
 </p>
 
 _Para celebrar o meu estado de espírito romântico preparei uma salada que tem uma aparência surpreendentemente maravilhosa, cheia de cor, sabor e ingredientes italianos. Vamos prepará-la._
@@ -82,27 +79,27 @@ _1. Essa salada pode funcionar muito bem com pêssego ou melão, no lugar dos fi
 _2. Caso queira, é possível substituir o pinoli por castanha do Pará ou Pinhão_.”
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14153" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/09/RECEITA-DE-SALADA-SALADA-DE-FIGO4.jpg" alt="RECEITA DE SALADA-SALADA DE FIGO[4]" width="800" height="520" />
+  <img class="alignnone size-full wp-image-14153" src="https://www.trololodemulher.com.br/2017/09/RECEITA-DE-SALADA-SALADA-DE-FIGO4.jpg" alt="RECEITA DE SALADA-SALADA DE FIGO[4]" width="800" height="520" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13037" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/TANIA-TEVA-I-WANT-TO-BE-A-COOK-RECEITAS.jpg" alt="tania-teva-i-want-to-be-a-cook-receitas" width="800" height="154" />
+  <img class="alignnone size-full wp-image-13037" src="https://www.trololodemulher.com.br/2016/10/TANIA-TEVA-I-WANT-TO-BE-A-COOK-RECEITAS.jpg" alt="tania-teva-i-want-to-be-a-cook-receitas" width="800" height="154" />
 </p>
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/09/12/canja-de-galinha/" target="_blank"><strong>Canja de galinha para colocar um sorriso no rosto.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/09/12/canja-de-galinha/" target="_blank" rel="noopener noreferrer"><strong>Canja de galinha para colocar um sorriso no rosto.</strong></a>
 
-<a href="http://www.trololodemulher.com.br/2017/09/05/picole-caseiro-2/" target="_blank"><strong>Picolé caseiro de tangerina assada, com gengibre e iogurte.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/09/05/picole-caseiro-2/" target="_blank" rel="noopener noreferrer"><strong>Picolé caseiro de tangerina assada, com gengibre e iogurte.</strong></a>
 
-<a href="http://www.trololodemulher.com.br/2017/08/29/pao-caseiro-2/" target="_blank"><strong>Pão caseiro trançado com recheio de pesto.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/08/29/pao-caseiro-2/" target="_blank" rel="noopener noreferrer"><strong>Pão caseiro trançado com recheio de pesto.</strong></a>
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank">o blog de Tânia clicando aqui</a> (escrito em inglês e português), e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">o blog de Tânia clicando aqui</a> (escrito em inglês e português), e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank" rel="noopener noreferrer">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank" rel="noopener noreferrer">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="justify">

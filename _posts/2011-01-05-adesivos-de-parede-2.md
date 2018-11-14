@@ -1,10 +1,7 @@
 ---
-id: 2933
 title: Adesivos de parede
-date: 2011-01-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/01/05/adesivos-de-parede-2/
 permalink: /2011/01/05/adesivos-de-parede-2/
 categories:
   - Dicas de Decoração
@@ -24,7 +21,7 @@ Os _stickers_ de parede têm sido uma abundante febre entre as pessoas de divers
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Adesivo.jpg"><img class="alignnone size-full wp-image-5676" title="Adesivo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Adesivo.jpg" alt="" width="560" height="420" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/12/Adesivo.jpg"><img class="alignnone size-full wp-image-5676" title="Adesivo" src="https://www.trololodemulher.com.br/2010/12/Adesivo.jpg" alt="" width="560" height="420" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -43,7 +40,7 @@ Os _stickers_ de parede têm sido uma abundante febre entre as pessoas de divers
   Concluindo: Não aguenta mais ver quela parede branca e sem vida? Gostaria mudar algo na decoração ou tematizar sua casa? Gostaria de propagar bom gosto em forma de decoração? Escolha os adesivos decorativos! Além de terem um bom preço, são fáceis de aplicar!
 </p>
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
@@ -54,7 +51,7 @@ _Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
   
   <tr>
     <td width="600" valign="top">
-      <a href="http://www.adesivou.com/" target="_blank">Adesivou</a>
+      <a href="http://www.adesivou.com/" target="_blank" rel="noopener noreferrer">Adesivou</a>
     </td>
   </tr>
 </table>

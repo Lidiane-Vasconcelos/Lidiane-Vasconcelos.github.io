@@ -1,10 +1,7 @@
 ---
-id: 3388
 title: Vale a pena matricular sua criança numa escola bilíngue?
-date: 2015-01-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/01/30/crianca-escola-bilingue/
 permalink: /2015/01/30/crianca-escola-bilingue/
 categories:
   - Comportamento Infantil
@@ -19,11 +16,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/MATERNIDADE-FILHOS-EDUCACAO-CRIANÇA-BILINGUE.jpg"><img class="alignnone size-full wp-image-10715" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/MATERNIDADE-FILHOS-EDUCACAO-CRIANÇA-BILINGUE.jpg" alt="MATERNIDADE-FILHOS-EDUCACAO-CRIANÇA-BILINGUE" width="650" height="542" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/MATERNIDADE-FILHOS-EDUCACAO-CRIANÇA-BILINGUE.jpg"><img class="alignnone size-full wp-image-10715" src="https://www.trololodemulher.com.br/2015/01/MATERNIDADE-FILHOS-EDUCACAO-CRIANÇA-BILINGUE.jpg" alt="MATERNIDADE-FILHOS-EDUCACAO-CRIANÇA-BILINGUE" width="650" height="542" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.nytimes.com/2011/10/11/health/views/11klass.html?src=tp&smid=fb-share&_r=2&" target="_blank">The New York Times</a>
+  Imagem: <a href="http://www.nytimes.com/2011/10/11/health/views/11klass.html?src=tp&smid=fb-share&_r=2&" target="_blank" rel="noopener noreferrer">The New York Times</a>
 </p>
 
 <p align="justify">
@@ -51,7 +48,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/MATERNIDADE-FILHOS-EDUCACAO-CRIANÇA-BILINGUE2.jpg"><img class="alignnone size-full wp-image-10716" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/MATERNIDADE-FILHOS-EDUCACAO-CRIANÇA-BILINGUE2.jpg" alt="MATERNIDADE-FILHOS-EDUCACAO-CRIANÇA-BILINGUE[2]" width="736" height="744" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/MATERNIDADE-FILHOS-EDUCACAO-CRIANÇA-BILINGUE2.jpg"><img class="alignnone size-full wp-image-10716" src="https://www.trololodemulher.com.br/2015/01/MATERNIDADE-FILHOS-EDUCACAO-CRIANÇA-BILINGUE2.jpg" alt="MATERNIDADE-FILHOS-EDUCACAO-CRIANÇA-BILINGUE[2]" width="736" height="744" /></a>
 </p>
 
 <p align="center">
@@ -83,15 +80,15 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/BRUNA-ALVES-PSICOPEDAGOGA-PEDAGOGA-LIMEIRA-CAMPINAS-SP.png"><img class="alignnone size-full wp-image-10714" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/01/BRUNA-ALVES-PSICOPEDAGOGA-PEDAGOGA-LIMEIRA-CAMPINAS-SP.png" alt="BRUNA ALVES-PSICOPEDAGOGA-PEDAGOGA-LIMEIRA-CAMPINAS-SP" width="800" height="203" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/01/BRUNA-ALVES-PSICOPEDAGOGA-PEDAGOGA-LIMEIRA-CAMPINAS-SP.png"><img class="alignnone size-full wp-image-10714" src="https://www.trololodemulher.com.br/2015/01/BRUNA-ALVES-PSICOPEDAGOGA-PEDAGOGA-LIMEIRA-CAMPINAS-SP.png" alt="BRUNA ALVES-PSICOPEDAGOGA-PEDAGOGA-LIMEIRA-CAMPINAS-SP" width="800" height="203" /></a>
 </p>
 
 <p align="justify">
-  A Bruna também é blogueira, e edita o excelente <strong>“Como eu Aprendo”, um blog</strong> criado para apresentar e discutir questões ligadas a aprendizagem. Atualmente, Bruna tem prestado atendimento psicopedagógico para crianças, adolescentes e adultos, em ambiente clínico, e atuado como coach para educadores, nas cidades de Limeira e Campinas. Para todas as informações sobre como encontrar seu consultório, telefones, e-mails, etc., <a href="http://comoeuaprendo.blogspot.com.br/" target="_blank">visite seu blog, clicando aqui</a>, acompanhe suas atualizações e saiba tudo. Ah! Nossa consultora também tem <strong>página no Facebook</strong>, por onde você também pode se manter muito bem informada sobre tudo o que essa moça tem a nos dizer. <a href="https://www.facebook.com/comoeuaprendo?ref=br_rs" target="_blank">Conheça, curta e informe-se</a>!
+  A Bruna também é blogueira, e edita o excelente <strong>“Como eu Aprendo”, um blog</strong> criado para apresentar e discutir questões ligadas a aprendizagem. Atualmente, Bruna tem prestado atendimento psicopedagógico para crianças, adolescentes e adultos, em ambiente clínico, e atuado como coach para educadores, nas cidades de Limeira e Campinas. Para todas as informações sobre como encontrar seu consultório, telefones, e-mails, etc., <a href="http://comoeuaprendo.blogspot.com.br/" target="_blank" rel="noopener noreferrer">visite seu blog, clicando aqui</a>, acompanhe suas atualizações e saiba tudo. Ah! Nossa consultora também tem <strong>página no Facebook</strong>, por onde você também pode se manter muito bem informada sobre tudo o que essa moça tem a nos dizer. <a href="https://www.facebook.com/comoeuaprendo?ref=br_rs" target="_blank" rel="noopener noreferrer">Conheça, curta e informe-se</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

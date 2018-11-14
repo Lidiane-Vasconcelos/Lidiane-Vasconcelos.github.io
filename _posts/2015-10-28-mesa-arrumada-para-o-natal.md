@@ -1,10 +1,7 @@
 ---
-id: 3505
 title: 'Mesa arrumada para o Natal: veja 8 ideias.'
-date: 2015-10-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/10/28/mesa-arrumada-para-o-natal/
 permalink: /2015/10/28/mesa-arrumada-para-o-natal/
 categories:
   - Decoração
@@ -15,7 +12,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL9.jpg"><img class="alignnone size-full wp-image-11634" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL9.jpg" alt="DECORACAO-DECORACAO DE NATAL-DECORACAO NATALINA-MESA DE NATAL-MESA NATALINA-MESA ARRUMADA NATAL-ARRUMACAO DA MESA DE NATAL-COMO ARRUMAR A MESA DE NATAL[9]" width="785" height="753" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL9.jpg"><img class="alignnone size-full wp-image-11634" src="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL9.jpg" alt="DECORACAO-DECORACAO DE NATAL-DECORACAO NATALINA-MESA DE NATAL-MESA NATALINA-MESA ARRUMADA NATAL-ARRUMACAO DA MESA DE NATAL-COMO ARRUMAR A MESA DE NATAL[9]" width="785" height="753" /></a>
 </p>
 
 <p align="justify">
@@ -23,11 +20,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL.jpeg"><img class="alignnone size-full wp-image-11624" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL.jpeg" alt="DECORACAO-DECORACAO DE NATAL-DECORACAO NATALINA-MESA DE NATAL-MESA NATALINA-MESA ARRUMADA NATAL-ARRUMACAO DA MESA DE NATAL-COMO ARRUMAR A MESA DE NATAL" width="800" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL.jpeg"><img class="alignnone size-full wp-image-11624" src="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL.jpeg" alt="DECORACAO-DECORACAO DE NATAL-DECORACAO NATALINA-MESA DE NATAL-MESA NATALINA-MESA ARRUMADA NATAL-ARRUMACAO DA MESA DE NATAL-COMO ARRUMAR A MESA DE NATAL" width="800" height="600" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  Via <a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer">HGTV</a>
 </p>
 
 <p align="justify">
@@ -35,23 +32,23 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL2.jpeg"><img class="alignnone size-full wp-image-11625" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL2.jpeg" alt="DECORACAO-DECORACAO DE NATAL-DECORACAO NATALINA-MESA DE NATAL-MESA NATALINA-MESA ARRUMADA NATAL-ARRUMACAO DA MESA DE NATAL-COMO ARRUMAR A MESA DE NATAL[2]" width="600" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL2.jpeg"><img class="alignnone size-full wp-image-11625" src="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL2.jpeg" alt="DECORACAO-DECORACAO DE NATAL-DECORACAO NATALINA-MESA DE NATAL-MESA NATALINA-MESA ARRUMADA NATAL-ARRUMACAO DA MESA DE NATAL-COMO ARRUMAR A MESA DE NATAL[2]" width="600" height="800" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  Via <a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer">HGTV</a>
 </p>
 
 <p align="justify">
-  Mesa arrumada com lugares postos de maneira simples, com aneis de guardanapo recebendo o complemento de folhas verdes. A graça fica por conta da forma como o guardanapo foi arrumado, em forma de leque. Não é uma graça? Outro detalhe que derreteu o meu coração foi o <a href="http://www.trololodemulher.com.br/2015/10/07/arranjo-de-mesa-de-natal/" target="_blank">arranjo de mesa de Natal</a>: um prato de bolo apoiando velas nas cores branca e vermelha. Sim, há beleza na simplicidade.
+  Mesa arrumada com lugares postos de maneira simples, com aneis de guardanapo recebendo o complemento de folhas verdes. A graça fica por conta da forma como o guardanapo foi arrumado, em forma de leque. Não é uma graça? Outro detalhe que derreteu o meu coração foi o <a href="http://www.trololodemulher.com.br/2015/10/07/arranjo-de-mesa-de-natal/" target="_blank" rel="noopener noreferrer">arranjo de mesa de Natal</a>: um prato de bolo apoiando velas nas cores branca e vermelha. Sim, há beleza na simplicidade.
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL3.jpeg"><img class="alignnone size-full wp-image-11626" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL3.jpeg" alt="DECORACAO-DECORACAO DE NATAL-DECORACAO NATALINA-MESA DE NATAL-MESA NATALINA-MESA ARRUMADA NATAL-ARRUMACAO DA MESA DE NATAL-COMO ARRUMAR A MESA DE NATAL[3]" width="600" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL3.jpeg"><img class="alignnone size-full wp-image-11626" src="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL3.jpeg" alt="DECORACAO-DECORACAO DE NATAL-DECORACAO NATALINA-MESA DE NATAL-MESA NATALINA-MESA ARRUMADA NATAL-ARRUMACAO DA MESA DE NATAL-COMO ARRUMAR A MESA DE NATAL[3]" width="600" height="800" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  Via <a href="http://www.hgtv.com/" target="_blank" rel="noopener noreferrer">HGTV</a>
 </p>
 
 <p align="justify">
@@ -59,11 +56,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL4.jpeg"><img class="alignnone size-full wp-image-11627" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL4.jpeg" alt="DECORACAO-DECORACAO DE NATAL-DECORACAO NATALINA-MESA DE NATAL-MESA NATALINA-MESA ARRUMADA NATAL-ARRUMACAO DA MESA DE NATAL-COMO ARRUMAR A MESA DE NATAL[4]" width="640" height="427" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL4.jpeg"><img class="alignnone size-full wp-image-11627" src="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL4.jpeg" alt="DECORACAO-DECORACAO DE NATAL-DECORACAO NATALINA-MESA DE NATAL-MESA NATALINA-MESA ARRUMADA NATAL-ARRUMACAO DA MESA DE NATAL-COMO ARRUMAR A MESA DE NATAL[4]" width="640" height="427" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://findinghomefarms.com/" target="_blank">Fiding Home</a>
+  Via <a href="http://findinghomefarms.com/" target="_blank" rel="noopener noreferrer">Fiding Home</a>
 </p>
 
 <p align="justify">
@@ -71,7 +68,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL5.jpeg"><img class="alignnone size-full wp-image-11628" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL5.jpeg" alt="DECORACAO-DECORACAO DE NATAL-DECORACAO NATALINA-MESA DE NATAL-MESA NATALINA-MESA ARRUMADA NATAL-ARRUMACAO DA MESA DE NATAL-COMO ARRUMAR A MESA DE NATAL[5]" width="472" height="709" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL5.jpeg"><img class="alignnone size-full wp-image-11628" src="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL5.jpeg" alt="DECORACAO-DECORACAO DE NATAL-DECORACAO NATALINA-MESA DE NATAL-MESA NATALINA-MESA ARRUMADA NATAL-ARRUMACAO DA MESA DE NATAL-COMO ARRUMAR A MESA DE NATAL[5]" width="472" height="709" /></a>
 </p>
 
 <p align="center">
@@ -83,11 +80,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL6.jpeg"><img class="alignnone size-full wp-image-11629" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL6.jpeg" alt="DECORACAO-DECORACAO DE NATAL-DECORACAO NATALINA-MESA DE NATAL-MESA NATALINA-MESA ARRUMADA NATAL-ARRUMACAO DA MESA DE NATAL-COMO ARRUMAR A MESA DE NATAL[6]" width="800" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL6.jpeg"><img class="alignnone size-full wp-image-11629" src="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL6.jpeg" alt="DECORACAO-DECORACAO DE NATAL-DECORACAO NATALINA-MESA DE NATAL-MESA NATALINA-MESA ARRUMADA NATAL-ARRUMACAO DA MESA DE NATAL-COMO ARRUMAR A MESA DE NATAL[6]" width="800" height="800" /></a>
 </p>
 
 <p align="center">
-  Via <a href="http://www.marthastewart.com/" target="_blank">Martha Stewart</a>
+  Via <a href="http://www.marthastewart.com/" target="_blank" rel="noopener noreferrer">Martha Stewart</a>
 </p>
 
 <p align="justify">
@@ -95,7 +92,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL7.jpeg"><img class="alignnone size-full wp-image-11630" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL7.jpeg" alt="DECORACAO-DECORACAO DE NATAL-DECORACAO NATALINA-MESA DE NATAL-MESA NATALINA-MESA ARRUMADA NATAL-ARRUMACAO DA MESA DE NATAL-COMO ARRUMAR A MESA DE NATAL[7]" width="600" height="399" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL7.jpeg"><img class="alignnone size-full wp-image-11630" src="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL7.jpeg" alt="DECORACAO-DECORACAO DE NATAL-DECORACAO NATALINA-MESA DE NATAL-MESA NATALINA-MESA ARRUMADA NATAL-ARRUMACAO DA MESA DE NATAL-COMO ARRUMAR A MESA DE NATAL[7]" width="600" height="399" /></a>
 </p>
 
 <p align="center">
@@ -107,7 +104,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL8.jpeg"><img class="alignnone size-full wp-image-11631" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL8.jpeg" alt="DECORACAO-DECORACAO DE NATAL-DECORACAO NATALINA-MESA DE NATAL-MESA NATALINA-MESA ARRUMADA NATAL-ARRUMACAO DA MESA DE NATAL-COMO ARRUMAR A MESA DE NATAL[8]" width="800" height="766" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL8.jpeg"><img class="alignnone size-full wp-image-11631" src="https://www.trololodemulher.com.br/2015/10/DECORACAO-DECORACAO-DE-NATAL-DECORACAO-NATALINA-MESA-DE-NATAL-MESA-NATALINA-MESA-ARRUMADA-NATAL-ARRUMACAO-DA-MESA-DE-NATAL-COMO-ARRUMAR-A-MESA-DE-NATAL8.jpeg" alt="DECORACAO-DECORACAO DE NATAL-DECORACAO NATALINA-MESA DE NATAL-MESA NATALINA-MESA ARRUMADA NATAL-ARRUMACAO DA MESA DE NATAL-COMO ARRUMAR A MESA DE NATAL[8]" width="800" height="766" /></a>
 </p>
 
 <p align="center">
@@ -119,7 +116,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

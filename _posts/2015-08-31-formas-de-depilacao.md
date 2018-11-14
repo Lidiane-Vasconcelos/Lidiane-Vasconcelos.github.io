@@ -1,10 +1,7 @@
 ---
-id: 3477
 title: O que toda mulher deve saber sobre as formas de depilação
-date: 2015-08-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/08/31/formas-de-depilacao/
 permalink: /2015/08/31/formas-de-depilacao/
 categories:
   - Beleza
@@ -14,11 +11,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-DEPILACAO.jpg"><img class="alignnone size-full wp-image-11396" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/BELEZA-DEPILACAO.jpg" alt="BELEZA-DEPILACAO" width="800" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/BELEZA-DEPILACAO.jpg"><img class="alignnone size-full wp-image-11396" src="https://www.trololodemulher.com.br/2015/08/BELEZA-DEPILACAO.jpg" alt="BELEZA-DEPILACAO" width="800" height="800" /></a>
 </p>
 
 <p align="center">
-  Via <a href="https://www.flickr.com/photos/jalex_photo/5883139259/" target="_blank">Joel Bedford</a> / <a href="http://foter.com/" target="_blank">Foter</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Via <a href="https://www.flickr.com/photos/jalex_photo/5883139259/" target="_blank" rel="noopener noreferrer">Joel Bedford</a> / <a href="http://foter.com/" target="_blank" rel="noopener noreferrer">Foter</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-ND</a>
 </p>
 
 > <p align="justify">
@@ -73,7 +70,7 @@ categories:
 >   </blockquote>
 >   
 >   <p align="center">
->     <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/DRA-MARCELLA-LEDO-DERMATOLOGISTA-JUNDIAI-SP.png"><img class="alignnone size-full wp-image-11010" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/DRA-MARCELLA-LEDO-DERMATOLOGISTA-JUNDIAI-SP.png" alt="DRA MARCELLA LEDO-DERMATOLOGISTA-JUNDIAI-SP" width="800" height="181" /></a>
+>     <a href="https://www.trololodemulher.com.br/2015/06/DRA-MARCELLA-LEDO-DERMATOLOGISTA-JUNDIAI-SP.png"><img class="alignnone size-full wp-image-11010" src="https://www.trololodemulher.com.br/2015/06/DRA-MARCELLA-LEDO-DERMATOLOGISTA-JUNDIAI-SP.png" alt="DRA MARCELLA LEDO-DERMATOLOGISTA-JUNDIAI-SP" width="800" height="181" /></a>
 >   </p>
 >   
 >   <p align="justify">
@@ -81,19 +78,19 @@ categories:
 >   </p>
 >   
 >   <p align="justify">
->     <a href="http://www.trololodemulher.com.br/2015/07/06/saude-e-beleza-das-unhas/" target="_blank"><strong>Saúde e beleza das unhas: verdades que você não sabia.</strong></a>
+>     <a href="http://www.trololodemulher.com.br/2015/07/06/saude-e-beleza-das-unhas/" target="_blank" rel="noopener noreferrer"><strong>Saúde e beleza das unhas: verdades que você não sabia.</strong></a>
 >   </p>
 >   
 >   <p align="justify">
->     <a href="http://www.trololodemulher.com.br/2015/06/08/cuidados-pele-pescoco/" target="_blank"><strong>Cuidados com a pele do pescoço: você não esqueceu, certo?</strong></a>
+>     <a href="http://www.trololodemulher.com.br/2015/06/08/cuidados-pele-pescoco/" target="_blank" rel="noopener noreferrer"><strong>Cuidados com a pele do pescoço: você não esqueceu, certo?</strong></a>
 >   </p>
 >   
 >   <p align="justify">
->     A Dra. Marcella Ledo dispõe de um site que está em construção e, logo logo, terá muitas novidades. Você pode acessá-lo <a href="http://www.marcellaledo.com.br/" target="_blank">clicando aqui</a>. Além do mais, não perca suas dicas sobre pele, cabelos e unhas, todas sendo atualizadas e compartilhadas pela médica em sua <a href="https://www.facebook.com/dramarcellaledo/?pnref=lhc" target="_blank">página no Facebook, bem aqui</a>. Eu, que não sou boba, já curti. Vem também?! Aproveite!
+>     A Dra. Marcella Ledo dispõe de um site que está em construção e, logo logo, terá muitas novidades. Você pode acessá-lo <a href="http://www.marcellaledo.com.br/" target="_blank" rel="noopener noreferrer">clicando aqui</a>. Além do mais, não perca suas dicas sobre pele, cabelos e unhas, todas sendo atualizadas e compartilhadas pela médica em sua <a href="https://www.facebook.com/dramarcellaledo/?pnref=lhc" target="_blank" rel="noopener noreferrer">página no Facebook, bem aqui</a>. Eu, que não sou boba, já curti. Vem também?! Aproveite!
 >   </p>
 >   
 >   <p align="center">
->     <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+>     <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 >   </p>
 >   
 >   <p align="justify">

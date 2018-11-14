@@ -1,10 +1,7 @@
 ---
-id: 2963
 title: Registre e Emagreça
-date: 2011-03-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/03/11/registre-e-emagreca/
 permalink: /2011/03/11/registre-e-emagreca/
 categories:
   - Saúde
@@ -20,7 +17,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/prancheta.jpg"><img class="alignnone size-full wp-image-6057" title="prancheta" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/prancheta.jpg" alt="" width="591" height="413" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/02/prancheta.jpg"><img class="alignnone size-full wp-image-6057" title="prancheta" src="https://www.trololodemulher.com.br/2011/02/prancheta.jpg" alt="" width="591" height="413" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -47,12 +44,12 @@ categories:
   O que acha de começar a construir o seu? Acrescente o que desejar e mãos a obra!
 </p>
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer"><em>stock.xchng</em></a>
 
 <table border="0" width="600" cellspacing="0" cellpadding="0">
   <tr>
     <td style="text-align: center;" valign="top" width="300">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/Luciana-Kotaka.jpg"><img class="alignnone size-thumbnail wp-image-4970" title="Luciana Kotaka" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/Luciana-Kotaka-150x150.jpg" alt="" width="150" height="150" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/07/Luciana-Kotaka.jpg"><img class="alignnone size-thumbnail wp-image-4970" title="Luciana Kotaka" src="https://www.trololodemulher.com.br/2010/07/Luciana-Kotaka-150x150.jpg" alt="" width="150" height="150" /></a>
     </td>
     
     <td valign="top" width="300">
@@ -64,5 +61,5 @@ _Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

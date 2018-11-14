@@ -1,10 +1,7 @@
 ---
-id: 2907
 title: 'Prateleira do Bicha Fêmea : Eu sei disso…'
-date: 2010-11-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/11/10/prateleira-eu-sei-disso/
 permalink: /2010/11/10/prateleira-eu-sei-disso/
 categories:
   - Sem categoria
@@ -12,7 +9,7 @@ categories:
 Sabe o que a Sandra Peres mais sabe? Sabe fazer gostosuras que encantam os olhos… imagine o paladar?! …_hummmm_… nessa onda deliciosa de _cupcakes_, fica quase impossível resistir a esses bolinhos decorados, não é verdade?
 
 <p style="text-align: justify;">
-  Pois são eles, os amados e desejados <em>cupcakes</em>, que estão na <strong><em>Prateleira do Bicha Fêmea</em></strong>. Todos, todinhos, são da talentosa Sandra Peres, a moça que edita o blog <a href="http://eutbseidisso.blogspot.com/" target="_blank">Eu sei disso…</a>
+  Pois são eles, os amados e desejados <em>cupcakes</em>, que estão na <strong><em>Prateleira do Bicha Fêmea</em></strong>. Todos, todinhos, são da talentosa Sandra Peres, a moça que edita o blog <a href="http://eutbseidisso.blogspot.com/" target="_blank" rel="noopener noreferrer">Eu sei disso…</a>
 </p>
 
 <!--more-->
@@ -22,7 +19,7 @@ Sabe o que a Sandra Peres mais sabe? Sabe fazer gostosuras que encantam os olhos
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Brownie-Cupcakes.jpg"><img class="alignnone size-full wp-image-5425" title="Brownie Cupcakes" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Brownie-Cupcakes.jpg" alt="" width="400" height="300" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2010/11/Brownie-Cupcakes.jpg"><img class="alignnone size-full wp-image-5425" title="Brownie Cupcakes" src="https://www.trololodemulher.com.br/2010/11/Brownie-Cupcakes.jpg" alt="" width="400" height="300" /></a></em>
 </p>
 
 <p style="text-align: center;">
@@ -34,7 +31,7 @@ Sabe o que a Sandra Peres mais sabe? Sabe fazer gostosuras que encantam os olhos
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Cupcakes-Bicho-de-Pe.jpg"><img class="alignnone size-full wp-image-5426" title="Cupcakes Bicho de Pé" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Cupcakes-Bicho-de-Pe.jpg" alt="" width="400" height="400" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2010/11/Cupcakes-Bicho-de-Pe.jpg"><img class="alignnone size-full wp-image-5426" title="Cupcakes Bicho de Pé" src="https://www.trololodemulher.com.br/2010/11/Cupcakes-Bicho-de-Pe.jpg" alt="" width="400" height="400" /></a></em>
 </p>
 
 <p style="text-align: center;">
@@ -46,7 +43,7 @@ Sabe o que a Sandra Peres mais sabe? Sabe fazer gostosuras que encantam os olhos
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Cupcakes-de-Blueberries-e-Creme.jpg"><img class="alignnone size-full wp-image-5429" title="Cupcakes de Blueberries e Creme" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Cupcakes-de-Blueberries-e-Creme.jpg" alt="" width="400" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/Cupcakes-de-Blueberries-e-Creme.jpg"><img class="alignnone size-full wp-image-5429" title="Cupcakes de Blueberries e Creme" src="https://www.trololodemulher.com.br/2010/11/Cupcakes-de-Blueberries-e-Creme.jpg" alt="" width="400" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -58,7 +55,7 @@ Sabe o que a Sandra Peres mais sabe? Sabe fazer gostosuras que encantam os olhos
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Cupcakes-de-Limao-Siciliano-e-Merengue.jpg"><img class="alignnone size-full wp-image-5430" title="Cupcakes de Limão Siciliano e Merengue" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Cupcakes-de-Limao-Siciliano-e-Merengue.jpg" alt="" width="400" height="300" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2010/11/Cupcakes-de-Limao-Siciliano-e-Merengue.jpg"><img class="alignnone size-full wp-image-5430" title="Cupcakes de Limão Siciliano e Merengue" src="https://www.trololodemulher.com.br/2010/11/Cupcakes-de-Limao-Siciliano-e-Merengue.jpg" alt="" width="400" height="300" /></a></em>
 </p>
 
 <p style="text-align: center;">
@@ -66,7 +63,7 @@ Sabe o que a Sandra Peres mais sabe? Sabe fazer gostosuras que encantam os olhos
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Cupcakes-Ferrero-Rocher.jpg"><img class="alignnone size-full wp-image-5431" title="Cupcakes Ferrero Rocher" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Cupcakes-Ferrero-Rocher.jpg" alt="" width="400" height="300" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2010/11/Cupcakes-Ferrero-Rocher.jpg"><img class="alignnone size-full wp-image-5431" title="Cupcakes Ferrero Rocher" src="https://www.trololodemulher.com.br/2010/11/Cupcakes-Ferrero-Rocher.jpg" alt="" width="400" height="300" /></a></em>
 </p>
 
 <p style="text-align: center;">

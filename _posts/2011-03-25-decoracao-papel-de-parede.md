@@ -1,10 +1,7 @@
 ---
-id: 2969
 title: 'Decoração com papel de parede: arrisque e encante-se!'
-date: 2011-03-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/03/25/decoracao-papel-de-parede/
 permalink: /2011/03/25/decoracao-papel-de-parede/
 categories:
   - Dicas de Decoração
@@ -18,7 +15,7 @@ O **papel de parede** é um recurso **decorativo** que pode transformar completa
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-em-parede-com-papel-de-parede.jpg"><img class="alignnone size-full wp-image-6117" title="decoração em parede com papel de parede" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-em-parede-com-papel-de-parede.jpg" alt="" width="250" height="250" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-em-parede-com-papel-de-parede.jpg"><img class="alignnone size-full wp-image-6117" title="decoração em parede com papel de parede" src="https://www.trololodemulher.com.br/2011/03/decoracao-em-parede-com-papel-de-parede.jpg" alt="" width="250" height="250" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -30,7 +27,7 @@ O **papel de parede** é um recurso **decorativo** que pode transformar completa
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-em-parede-com-papel-de-parede1.jpg"><img class="alignnone size-full wp-image-6118" title="decoração em parede com papel de parede[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-em-parede-com-papel-de-parede1.jpg" alt="" width="250" height="250" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-em-parede-com-papel-de-parede1.jpg"><img class="alignnone size-full wp-image-6118" title="decoração em parede com papel de parede[1]" src="https://www.trololodemulher.com.br/2011/03/decoracao-em-parede-com-papel-de-parede1.jpg" alt="" width="250" height="250" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -38,26 +35,26 @@ O **papel de parede** é um recurso **decorativo** que pode transformar completa
 </p>
 
 <p style="text-align: justify;">
-  Essa alternativa foi usada pela <strong>Ruby</strong>, do blog <a href="http://meucantominhaprosa.blogspot.com/" target="_blank">Meu Canto, Minha Prosa</a>. Veja logo abaixo a <em>belezura</em> que ficou a sala dela com uma das paredes que ganhou esse detalhe decorativo:
+  Essa alternativa foi usada pela <strong>Ruby</strong>, do blog <a href="http://meucantominhaprosa.blogspot.com/" target="_blank" rel="noopener noreferrer">Meu Canto, Minha Prosa</a>. Veja logo abaixo a <em>belezura</em> que ficou a sala dela com uma das paredes que ganhou esse detalhe decorativo:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-em-parede-com-papel-de-parede3.jpg"><img class="alignnone size-full wp-image-6123" title="decoração em parede com papel de parede[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-em-parede-com-papel-de-parede3.jpg" alt="" width="300" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-em-parede-com-papel-de-parede3.jpg"><img class="alignnone size-full wp-image-6123" title="decoração em parede com papel de parede[3]" src="https://www.trololodemulher.com.br/2011/03/decoracao-em-parede-com-papel-de-parede3.jpg" alt="" width="300" height="400" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Além da sala, Ruby também usou papel de parede em uma parte do quarto, e mostrou mais detalhes<a href="http://meucantominhaprosa.blogspot.com/2011/02/nada-facil.html" target="_blank"> aqui, oh</a>&#8230; Foi ela mesma quem fez a instalação (corajosa!) com o marido. Quer arriscar? Ela avisa que aprendeu vendo <a href="http://www.youtube.com/watch?v=tl_APZtQHDE" target="_blank">este vídeo</a>.
+  Além da sala, Ruby também usou papel de parede em uma parte do quarto, e mostrou mais detalhes<a href="http://meucantominhaprosa.blogspot.com/2011/02/nada-facil.html" target="_blank" rel="noopener noreferrer"> aqui, oh</a>&#8230; Foi ela mesma quem fez a instalação (corajosa!) com o marido. Quer arriscar? Ela avisa que aprendeu vendo <a href="http://www.youtube.com/watch?v=tl_APZtQHDE" target="_blank" rel="noopener noreferrer">este vídeo</a>.
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-em-parede-com-papel-de-parede2.jpg"><img class="alignnone size-full wp-image-6119" title="decoração em parede com papel de parede[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-em-parede-com-papel-de-parede2.jpg" alt="" width="250" height="250" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/decoracao-em-parede-com-papel-de-parede2.jpg"><img class="alignnone size-full wp-image-6119" title="decoração em parede com papel de parede[2]" src="https://www.trololodemulher.com.br/2011/03/decoracao-em-parede-com-papel-de-parede2.jpg" alt="" width="250" height="250" /></a>
 </p>
 
 <p style="text-align: justify;">
   A <strong>área atrás do seu sofá</strong> pode ser a eleita para ganhar um detalhe cheio de charme e <em>bossa</em>. Inpire-se na imagem e pense que usar um papel de parede neste local vai ajudar a <strong>separar o</strong> pouco <strong>espaço</strong> que você possa ter, delimitando bem o ambiente. Que tal?
 </p>
 
-_Imagens:_ <a href="http://www.livingetc.com/" target="_blank"><em>Livingetc</em></a>
+_Imagens:_ <a href="http://www.livingetc.com/" target="_blank" rel="noopener noreferrer"><em>Livingetc</em></a>
 
 **_Mais no Bicha Fêmea…_**
 

@@ -1,10 +1,7 @@
 ---
-id: 3628
 title: 'Pele do bebê: saiba como evitar problemas de saúde.'
-date: 2016-06-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/06/15/pele-do-bebe/
 permalink: /2016/06/15/pele-do-bebe/
 categories:
   - Maternidade
@@ -15,11 +12,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12680" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/MATERNIDADE-SAUDE-DO-BEBE-PELE-DO-BEBE-DERMATOLOGIA.jpg" alt="MATERNIDADE-SAUDE DO BEBE- PELE DO BEBE-DERMATOLOGIA" width="800" height="600" />
+  <img class="alignnone size-full wp-image-12680" src="https://www.trololodemulher.com.br/2016/06/MATERNIDADE-SAUDE-DO-BEBE-PELE-DO-BEBE-DERMATOLOGIA.jpg" alt="MATERNIDADE-SAUDE DO BEBE- PELE DO BEBE-DERMATOLOGIA" width="800" height="600" />
 </p>
 
 <p align="center">
-  Fonte: <a href="https://www.flickr.com/photos/yuchao_li/5936266523/" target="_blank">Yuchao.L</a> via <a href="http://homedecorators.guru/" target="_blank">Decorators Guru</a> / <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA</a>
+  Fonte: <a href="https://www.flickr.com/photos/yuchao_li/5936266523/" target="_blank" rel="noopener noreferrer">Yuchao.L</a> via <a href="http://homedecorators.guru/" target="_blank" rel="noopener noreferrer">Decorators Guru</a> / <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank" rel="noopener noreferrer">CC BY-SA</a>
 </p>
 
 <p align="justify">
@@ -55,7 +52,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/09/12/cosmeticos-pele-bebe/" target="_blank"><strong>Afinal, quais cosméticos o bebê pode, de fato, usar?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/09/12/cosmeticos-pele-bebe/" target="_blank" rel="noopener noreferrer"><strong>Afinal, quais cosméticos o bebê pode, de fato, usar?</strong></a>
 </p>
 
 <p align="justify">
@@ -79,7 +76,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/06/28/bebe-assaduras/" target="_blank"><strong>Bebê sem assaduras: é possível, sim, mamãe!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/06/28/bebe-assaduras/" target="_blank" rel="noopener noreferrer"><strong>Bebê sem assaduras: é possível, sim, mamãe!</strong></a>
 </p>
 
 <p align="justify">
@@ -94,22 +91,22 @@ Fonte e referências:
 
 An Bras Dermatol. 2011;86(1):102-10.
 
-<a href="http://www.sbd.org.br/" target="_blank">Sociedade Brasileira de Dermatologia</a>
+<a href="http://www.sbd.org.br/" target="_blank" rel="noopener noreferrer">Sociedade Brasileira de Dermatologia</a>
 
-<a href="http://www.sbp.com.br/" target="_blank">Sociedade Brasileira de Pediatria</a>
+<a href="http://www.sbp.com.br/" target="_blank" rel="noopener noreferrer">Sociedade Brasileira de Pediatria</a>
 
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12683" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/06/TATIANA-CORTEZ-MEDICA-DERMATOLOGISTA-SAO-PAULO.jpg" alt="TATIANA CORTEZ-MEDICA DERMATOLOGISTA-SAO PAULO" width="800" height="170" />
+  <img class="alignnone size-full wp-image-12683" src="https://www.trololodemulher.com.br/2016/06/TATIANA-CORTEZ-MEDICA-DERMATOLOGISTA-SAO-PAULO.jpg" alt="TATIANA CORTEZ-MEDICA DERMATOLOGISTA-SAO PAULO" width="800" height="170" />
 </p>
 
 &nbsp;
 
 <p align="justify">
-  A Dra. Tatiana atualiza sua <strong>fanpage no Facebook</strong> constantemente com informação séria e relevante sobre os cuidados que devemos ter com a pele, o que nos permite cuidar melhor tanto de nós mesmas, como da família. <a href="https://www.facebook.com/tatianacortezdermatologia/" target="_blank">Clique aqui, curta</a> e fique bem informada a respeito. No site da dermatologista você verá todas as formas de contato com a profissional: telefone, e-mail, endereço na capital paulista, principais tratamentos, novidades e tudo o mais que você precisar saber para realizar sua consulta. <a href="http://www.tatianacortez.com.br/" target="_blank">Clique aqui, conheça o site</a> e entre em contato!
+  A Dra. Tatiana atualiza sua <strong>fanpage no Facebook</strong> constantemente com informação séria e relevante sobre os cuidados que devemos ter com a pele, o que nos permite cuidar melhor tanto de nós mesmas, como da família. <a href="https://www.facebook.com/tatianacortezdermatologia/" target="_blank" rel="noopener noreferrer">Clique aqui, curta</a> e fique bem informada a respeito. No site da dermatologista você verá todas as formas de contato com a profissional: telefone, e-mail, endereço na capital paulista, principais tratamentos, novidades e tudo o mais que você precisar saber para realizar sua consulta. <a href="http://www.tatianacortez.com.br/" target="_blank" rel="noopener noreferrer">Clique aqui, conheça o site</a> e entre em contato!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

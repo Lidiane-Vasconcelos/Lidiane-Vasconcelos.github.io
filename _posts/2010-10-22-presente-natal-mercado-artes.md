@@ -1,10 +1,7 @@
 ---
-id: 2894
 title: 'Presentes de Natal: que tal as novidades do Mercado de Artes?'
-date: 2010-10-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/10/22/presente-natal-mercado-artes/
 permalink: /2010/10/22/presente-natal-mercado-artes/
 categories:
   - Sem categoria
@@ -18,11 +15,11 @@ _Ho, ho, ho_… quem foi no supermercado por esses dias já deve ter notado que 
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Conjunto-BandejaPotes-Lavanda.jpg"><img class="alignnone size-full wp-image-5334" title="Conjunto Bandeja&Potes Lavanda" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Conjunto-BandejaPotes-Lavanda.jpg" alt="" width="558" height="412" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/Conjunto-BandejaPotes-Lavanda.jpg"><img class="alignnone size-full wp-image-5334" title="Conjunto Bandeja&Potes Lavanda" src="https://www.trololodemulher.com.br/2010/10/Conjunto-BandejaPotes-Lavanda.jpg" alt="" width="558" height="412" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/conjunto-bandejapotes-lavanda/" target="_blank">Conjunto Bandeja&Potes Lavanda</a></em></strong>
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/conjunto-bandejapotes-lavanda/" target="_blank" rel="noopener noreferrer">Conjunto Bandeja&Potes Lavanda</a></em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -30,11 +27,11 @@ _Ho, ho, ho_… quem foi no supermercado por esses dias já deve ter notado que 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Regador-Provencal.jpg"><img class="alignnone size-full wp-image-5337" title="Regador Provençal" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Regador-Provencal.jpg" alt="" width="648" height="432" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/Regador-Provencal.jpg"><img class="alignnone size-full wp-image-5337" title="Regador Provençal" src="https://www.trololodemulher.com.br/2010/10/Regador-Provencal.jpg" alt="" width="648" height="432" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank">Regador Provençal</a></em></strong>
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank" rel="noopener noreferrer">Regador Provençal</a></em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -42,11 +39,11 @@ _Ho, ho, ho_… quem foi no supermercado por esses dias já deve ter notado que 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Telas-Mediterraneo.jpg"><img class="alignnone size-full wp-image-5338" title="Telas Mediterrâneo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Telas-Mediterraneo.jpg" alt="" width="648" height="432" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/Telas-Mediterraneo.jpg"><img class="alignnone size-full wp-image-5338" title="Telas Mediterrâneo" src="https://www.trololodemulher.com.br/2010/10/Telas-Mediterraneo.jpg" alt="" width="648" height="432" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank">Telas Mediterrâneo</a></em></strong>
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank" rel="noopener noreferrer">Telas Mediterrâneo</a></em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -54,11 +51,11 @@ _Ho, ho, ho_… quem foi no supermercado por esses dias já deve ter notado que 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Divino-Rosas-Medias.jpg"><img class="alignnone size-full wp-image-5339" title="Divino Rosas Médias" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Divino-Rosas-Medias.jpg" alt="" width="648" height="432" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/Divino-Rosas-Medias.jpg"><img class="alignnone size-full wp-image-5339" title="Divino Rosas Médias" src="https://www.trololodemulher.com.br/2010/10/Divino-Rosas-Medias.jpg" alt="" width="648" height="432" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-divino-rosas-medias/" target="_blank">Quadro Divino Rosas Médias</a></em></strong>
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-divino-rosas-medias/" target="_blank" rel="noopener noreferrer">Quadro Divino Rosas Médias</a></em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -66,11 +63,11 @@ _Ho, ho, ho_… quem foi no supermercado por esses dias já deve ter notado que 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Espelho-Provencal.jpg"><img class="alignnone size-full wp-image-5340" title="Espelho Provençal" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Espelho-Provencal.jpg" alt="" width="453" height="356" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/10/Espelho-Provencal.jpg"><img class="alignnone size-full wp-image-5340" title="Espelho Provençal" src="https://www.trololodemulher.com.br/2010/10/Espelho-Provencal.jpg" alt="" width="453" height="356" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/" target="_blank">Espelho Provençal</a></em></strong>
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/" target="_blank" rel="noopener noreferrer">Espelho Provençal</a></em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -78,7 +75,7 @@ _Ho, ho, ho_… quem foi no supermercado por esses dias já deve ter notado que 
 </p>
 
 <p style="text-align: justify;">
-  Pensa que as novidades do <strong><em><a href="http://www.trololodemulher.com.br/loja/" target="_blank">Mercado de Artes</a></em></strong> do Bicha Fêmea acabaram por aqui? Na verdade, há muito mais produtos em todos os espaços possíveis por lá: <strong><em><a href="http://www.trololodemulher.com.br/loja/casa/" target="_blank">Casa</a></em></strong>, <strong><em><a href="http://www.trololodemulher.com.br/loja/decoracao/" target="_blank">Decoração</a></em></strong> e <strong><em>Organização</em></strong>. Para facilitar a visita, tudo o que chegou recentemente no Mercado está no espaço de <strong><em>Novidades</em></strong>. Além disso, a <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/16/vitrine-de-artes-artesanato/" target="_blank">Vitrine de Destaques</a></em></strong> foi atualizada com os produtos mais queridos e que têm ganhado mais elogios das bichas fêmeas navegantes. Quer dar uma espiada? É <strong><em><a href="http://www.trololodemulher.com.br/loja/" target="_blank">por aqui</a></em></strong>… basta clicar!
+  Pensa que as novidades do <strong><em><a href="http://www.trololodemulher.com.br/loja/" target="_blank" rel="noopener noreferrer">Mercado de Artes</a></em></strong> do Bicha Fêmea acabaram por aqui? Na verdade, há muito mais produtos em todos os espaços possíveis por lá: <strong><em><a href="http://www.trololodemulher.com.br/loja/casa/" target="_blank" rel="noopener noreferrer">Casa</a></em></strong>, <strong><em><a href="http://www.trololodemulher.com.br/loja/decoracao/" target="_blank" rel="noopener noreferrer">Decoração</a></em></strong> e <strong><em>Organização</em></strong>. Para facilitar a visita, tudo o que chegou recentemente no Mercado está no espaço de <strong><em>Novidades</em></strong>. Além disso, a <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/16/vitrine-de-artes-artesanato/" target="_blank" rel="noopener noreferrer">Vitrine de Destaques</a></em></strong> foi atualizada com os produtos mais queridos e que têm ganhado mais elogios das bichas fêmeas navegantes. Quer dar uma espiada? É <strong><em><a href="http://www.trololodemulher.com.br/loja/" target="_blank" rel="noopener noreferrer">por aqui</a></em></strong>… basta clicar!
 </p>
 
 <p style="text-align: center;">

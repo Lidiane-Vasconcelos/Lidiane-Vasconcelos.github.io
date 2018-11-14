@@ -1,10 +1,7 @@
 ---
-id: 2993
 title: 'Mãos: segredos e cuidados das unhas, pele e afins…'
-date: 2011-05-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/05/16/cuidados-unhas-maos/
 permalink: /2011/05/16/cuidados-unhas-maos/
 categories:
   - Beleza
@@ -20,37 +17,37 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Janice200.jpg"><img class="alignnone size-full wp-image-6375" title="Janice200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Janice200.jpg" alt="" width="200" height="200" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/Janice200.jpg"><img class="alignnone size-full wp-image-6375" title="Janice200" src="https://www.trololodemulher.com.br/2011/05/Janice200.jpg" alt="" width="200" height="200" /></a>
 </p>
 
 &nbsp;
 
 > <p style="text-align: justify;">
->   <strong>“<em>Lidi, para hidratar , eu passo azeite nas unhas  e deixo por 10 minutos. Esse azeite comum de salada. Fazendo isso descobri que minhas unhas ficaram mais fortes e pararam de quebrar tanto</em>.” Janice </strong>| <strong><a href="http://euessasoueu.blogspot.com/" target="_blank">Essa sou eu</a></strong>
+>   <strong>“<em>Lidi, para hidratar , eu passo azeite nas unhas  e deixo por 10 minutos. Esse azeite comum de salada. Fazendo isso descobri que minhas unhas ficaram mais fortes e pararam de quebrar tanto</em>.” Janice </strong>| <strong><a href="http://euessasoueu.blogspot.com/" target="_blank" rel="noopener noreferrer">Essa sou eu</a></strong>
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Glaucia.jpg"><img class="alignnone size-full wp-image-6148" title="Glaucia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Glaucia.jpg" alt="" width="200" height="200" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/03/Glaucia.jpg"><img class="alignnone size-full wp-image-6148" title="Glaucia" src="https://www.trololodemulher.com.br/2011/03/Glaucia.jpg" alt="" width="200" height="200" /></a>
 </p>
 
 &nbsp;
 
 > <p style="text-align: justify;">
->   <strong>“<em>A minha dica para unhas lindas é muito creme para as mãos! Não basta hidratar, tem de fazer aquele carinho nas cutículas. Por falar em cutículas, quando elas estão muito secas e o creminho não está dando jeito, uso Bepantol e depois dou uma empurradinha nelas, retiro só o excesso. Agora uma coisa que pra mim não adianta nada e ainda piora um pouco a situação é passar base antes do esmalte, eu tinha duas unhas aqui que não cresciam, eram fracas e lascavam muito, por isso eu vivia testando as bases antes do esmalte. Uma amiga que é manicure me disse para testar umas semanas esmaltar sem a base, e foi o que fiz. Minhas unhas melhoraram e estão mais fortes. Antes de esmaltar só hidrato, não uso mais as bases. No momento ando apaixonada por esmalte craquelado, mas se me conheço logo troco de paixão! Os esmaltes flocados eu odiei!!!!”</em> Glaucia </strong>| <strong><a href="http://supercriativobyglau.blogspot.com/" target="_blank">Super Criativo by Glau</a></strong>
+>   <strong>“<em>A minha dica para unhas lindas é muito creme para as mãos! Não basta hidratar, tem de fazer aquele carinho nas cutículas. Por falar em cutículas, quando elas estão muito secas e o creminho não está dando jeito, uso Bepantol e depois dou uma empurradinha nelas, retiro só o excesso. Agora uma coisa que pra mim não adianta nada e ainda piora um pouco a situação é passar base antes do esmalte, eu tinha duas unhas aqui que não cresciam, eram fracas e lascavam muito, por isso eu vivia testando as bases antes do esmalte. Uma amiga que é manicure me disse para testar umas semanas esmaltar sem a base, e foi o que fiz. Minhas unhas melhoraram e estão mais fortes. Antes de esmaltar só hidrato, não uso mais as bases. No momento ando apaixonada por esmalte craquelado, mas se me conheço logo troco de paixão! Os esmaltes flocados eu odiei!!!!”</em> Glaucia </strong>| <strong><a href="http://supercriativobyglau.blogspot.com/" target="_blank" rel="noopener noreferrer">Super Criativo by Glau</a></strong>
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Marilia.jpg"><img class="alignnone size-full wp-image-6372" title="Marilia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Marilia.jpg" alt="" width="200" height="200" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/Marilia.jpg"><img class="alignnone size-full wp-image-6372" title="Marilia" src="https://www.trololodemulher.com.br/2011/05/Marilia.jpg" alt="" width="200" height="200" /></a>
 </p>
 
 &nbsp;
 
 > <p style="text-align: justify;">
->   <strong>“<em>Meus cuidados com as unhas é sempre estar com uma base nelas, mesmo que as unhas não estiverem feitas é bom sempre estar protegendo com uma base fortalecedora no dia a dia da dona de casa</em>.” Marília | <a href="http://coisasdagigi.com/" target="_blank">Coisas da Gigi</a></strong>
+>   <strong>“<em>Meus cuidados com as unhas é sempre estar com uma base nelas, mesmo que as unhas não estiverem feitas é bom sempre estar protegendo com uma base fortalecedora no dia a dia da dona de casa</em>.” Marília | <a href="http://coisasdagigi.com/" target="_blank" rel="noopener noreferrer">Coisas da Gigi</a></strong>
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Silvia200.jpg"><img class="alignnone size-full wp-image-6373" title="Silvia200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Silvia200.jpg" alt="" width="200" height="200" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/Silvia200.jpg"><img class="alignnone size-full wp-image-6373" title="Silvia200" src="https://www.trololodemulher.com.br/2011/05/Silvia200.jpg" alt="" width="200" height="200" /></a>
 </p>
 
 &nbsp;
@@ -62,11 +59,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/cera-granado.jpg"><img class="alignnone size-full wp-image-6363" title="cera granado" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/cera-granado.jpg" alt="" width="247" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/05/cera-granado.jpg"><img class="alignnone size-full wp-image-6363" title="cera granado" src="https://www.trololodemulher.com.br/2011/05/cera-granado.jpg" alt="" width="247" height="300" /></a>
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://www.granado.com.br/produtos/produto.aspx?cod_linha=22&cod=295" target="_blank"><span style="font-size: xx-small;">Cera nutritiva unhas e cutículas da GRANADO</span></a></strong><span style="font-size: xx-small;"> &#8211; Produzida com cera vegetal de cereais associada ao leite de aveia e uma combinação de silicones que juntos promovem hidratação, maciez e regeneração das cutículas, dando brilho e um belo aspecto às unhas com toque não oleoso.</span>
+  <strong><a href="http://www.granado.com.br/produtos/produto.aspx?cod_linha=22&cod=295" target="_blank" rel="noopener noreferrer"><span style="font-size: xx-small;">Cera nutritiva unhas e cutículas da GRANADO</span></a></strong><span style="font-size: xx-small;"> &#8211; Produzida com cera vegetal de cereais associada ao leite de aveia e uma combinação de silicones que juntos promovem hidratação, maciez e regeneração das cutículas, dando brilho e um belo aspecto às unhas com toque não oleoso.</span>
 </p>
 
 <p style="text-align: center;">
@@ -74,27 +71,27 @@ categories:
 </p>
 
 > <p style="text-align: justify;">
->   <strong><em>E uma dica básica e importantíssima: manter as mãos e unhas sempre hidratadas! Recomendaram o Vasenol mãos e unhas e o Q10 da Nivea. Este último eu uso e SUPER aprovo! Com bem pouquinho consigo hidratar bastante minhas mãos e de quebra ainda protege contra sinais do envelhecimento (porque não adianta cuidar do rosto e deixar a mão enrugada, né? rs)”</em> Silvia Azevedo</strong> | <strong><a href="http://umapitadadecadacoisa.blogspot.com/" target="_blank">Uma pitada de cada coisa</a></strong>
+>   <strong><em>E uma dica básica e importantíssima: manter as mãos e unhas sempre hidratadas! Recomendaram o Vasenol mãos e unhas e o Q10 da Nivea. Este último eu uso e SUPER aprovo! Com bem pouquinho consigo hidratar bastante minhas mãos e de quebra ainda protege contra sinais do envelhecimento (porque não adianta cuidar do rosto e deixar a mão enrugada, né? rs)”</em> Silvia Azevedo</strong> | <strong><a href="http://umapitadadecadacoisa.blogspot.com/" target="_blank" rel="noopener noreferrer">Uma pitada de cada coisa</a></strong>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: xx-small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/creme-para-maos-nivea1.jpg"><img class="size-full wp-image-6376" title="creme para mãos nívea" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/creme-para-maos-nivea1.jpg" alt="" width="282" height="436" /></a></span></strong>
+  <strong><span style="font-size: xx-small;"><a href="https://www.trololodemulher.com.br/2011/05/creme-para-maos-nivea1.jpg"><img class="size-full wp-image-6376" title="creme para mãos nívea" src="https://www.trololodemulher.com.br/2011/05/creme-para-maos-nivea1.jpg" alt="" width="282" height="436" /></a></span></strong>
 </p>
 
 <p style="text-align: center;">
-  <strong><span style="font-size: xx-small;"><a href="http://www.nivea.com.br/Produtos/Cuidado-corporal/Q10plus/Q10plus-Anti-Age-Hand-Cream" target="_blank">CREME ANTIIDADE PARA MÃOS Q10 PLUS da NIVEA</a></span></strong><span style="font-size: xx-small;"> – Preserva a beleza natural da sua pele e previne os primeiros sinais de envelhecimento.</span>
+  <strong><span style="font-size: xx-small;"><a href="http://www.nivea.com.br/Produtos/Cuidado-corporal/Q10plus/Q10plus-Anti-Age-Hand-Cream" target="_blank" rel="noopener noreferrer">CREME ANTIIDADE PARA MÃOS Q10 PLUS da NIVEA</a></span></strong><span style="font-size: xx-small;"> – Preserva a beleza natural da sua pele e previne os primeiros sinais de envelhecimento.</span>
 </p>
 
 <span style="font-size: xx-small;"> </span>
 
 <p align="center">
-  <span style="font-size: xx-small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/maos-e-unhas.jpg"><img class="alignnone size-full wp-image-6367" title="mãos e unhas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/maos-e-unhas.jpg" alt="" width="600" height="490" /></a></span>
+  <span style="font-size: xx-small;"><a href="https://www.trololodemulher.com.br/2011/05/maos-e-unhas.jpg"><img class="alignnone size-full wp-image-6367" title="mãos e unhas" src="https://www.trololodemulher.com.br/2011/05/maos-e-unhas.jpg" alt="" width="600" height="490" /></a></span>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+  <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>
 </p>
 
 <p style="text-align: justify;">
@@ -104,5 +101,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

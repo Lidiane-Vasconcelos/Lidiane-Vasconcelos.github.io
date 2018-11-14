@@ -1,16 +1,13 @@
 ---
-id: 3697
 title: 'Casamento intimista: celebração afetiva, para poucos.'
-date: 2016-11-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/11/04/casamento-intimista/
 permalink: /2016/11/04/casamento-intimista/
 categories:
   - Relacionamento
 ---
 <p style="text-align: justify;">
-  Pessoalmente, sou bastante entusiasta das celebrações intimistas e mais afetuosas, para poucos, sabe? Já falei sobre isso no post a respeito de <a href="http://www.trololodemulher.com.br/2016/08/30/festa-infantil-2/" target="_blank">festa infantil</a>, e foi nos comentários dele que a Mariana Alcântara sugeriu esse assunto: <strong>casamento intimista</strong>. Confesso que a pauta sobre casamento, falando da cerimônia em si, será novidade no blog. O nosso público, em sua maioria, é formado por mulheres maduras, já casadas, e com filhos. Mas certamente dentre muitas delas há aquelas que apenas “juntaram”, e que um dia sonham oficializar a relação com cerimônia + recepção. Esse é o meu caso, por exemplo, que casei apenas no civil. Não me admira que a sugestão tenha vindo de uma leitora. Ela, como eu, deve ter esse desejo que é tão comum entre muitas de nós. Pensei: por que não? Vindo de uma leitora, então, penso que o post ganhará ainda mais relevância.
+  Pessoalmente, sou bastante entusiasta das celebrações intimistas e mais afetuosas, para poucos, sabe? Já falei sobre isso no post a respeito de <a href="http://www.trololodemulher.com.br/2016/08/30/festa-infantil-2/" target="_blank" rel="noopener noreferrer">festa infantil</a>, e foi nos comentários dele que a Mariana Alcântara sugeriu esse assunto: <strong>casamento intimista</strong>. Confesso que a pauta sobre casamento, falando da cerimônia em si, será novidade no blog. O nosso público, em sua maioria, é formado por mulheres maduras, já casadas, e com filhos. Mas certamente dentre muitas delas há aquelas que apenas “juntaram”, e que um dia sonham oficializar a relação com cerimônia + recepção. Esse é o meu caso, por exemplo, que casei apenas no civil. Não me admira que a sugestão tenha vindo de uma leitora. Ela, como eu, deve ter esse desejo que é tão comum entre muitas de nós. Pensei: por que não? Vindo de uma leitora, então, penso que o post ganhará ainda mais relevância.
 </p>
 
 <p style="text-align: justify;">
@@ -20,7 +17,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13201" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/CASAMENTO-CASAMENTO-INTIMISTA-MINI-WEDDING5.jpg" alt="casamento-casamento-intimista-mini-wedding5" width="800" height="536" />
+  <img class="alignnone size-full wp-image-13201" src="https://www.trololodemulher.com.br/2016/11/CASAMENTO-CASAMENTO-INTIMISTA-MINI-WEDDING5.jpg" alt="casamento-casamento-intimista-mini-wedding5" width="800" height="536" />
 </p>
 
 <p align="center">
@@ -42,19 +39,19 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13202" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/CASAMENTO-CASAMENTO-INTIMISTA-MINI-WEDDING6.jpg" alt="casamento-casamento-intimista-mini-wedding6" width="600" height="899" />
+  <img class="alignnone size-full wp-image-13202" src="https://www.trololodemulher.com.br/2016/11/CASAMENTO-CASAMENTO-INTIMISTA-MINI-WEDDING6.jpg" alt="casamento-casamento-intimista-mini-wedding6" width="600" height="899" />
 </p>
 
 <p align="center">
-  Via <a href="http://vestidadenoiva.com/miniwedding-juliana-gabriel/" target="_blank">Vestida de Noiva</a>
+  Via <a href="http://vestidadenoiva.com/miniwedding-juliana-gabriel/" target="_blank" rel="noopener noreferrer">Vestida de Noiva</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13203" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/CASAMENTO-CASAMENTO-INTIMISTA-MINI-WEDDING7.jpg" alt="casamento-casamento-intimista-mini-wedding7" width="800" height="533" />
+  <img class="alignnone size-full wp-image-13203" src="https://www.trololodemulher.com.br/2016/11/CASAMENTO-CASAMENTO-INTIMISTA-MINI-WEDDING7.jpg" alt="casamento-casamento-intimista-mini-wedding7" width="800" height="533" />
 </p>
 
 <p align="center">
-  Via <a href="http://lapisdenoiva.com/mini-wedding-andrea-kapps/" target="_blank">Lápis de Noiva</a>
+  Via <a href="http://lapisdenoiva.com/mini-wedding-andrea-kapps/" target="_blank" rel="noopener noreferrer">Lápis de Noiva</a>
 </p>
 
 <p align="justify">
@@ -62,7 +59,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13204" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/CASAMENTO-CASAMENTO-INTIMISTA-MINI-WEDDING8.jpg" alt="casamento-casamento-intimista-mini-wedding8" width="600" height="900" />
+  <img class="alignnone size-full wp-image-13204" src="https://www.trololodemulher.com.br/2016/11/CASAMENTO-CASAMENTO-INTIMISTA-MINI-WEDDING8.jpg" alt="casamento-casamento-intimista-mini-wedding8" width="600" height="900" />
 </p>
 
 <p align="center">
@@ -70,11 +67,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13207" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/CASAMENTO-CASAMENTO-INTIMISTA-MINI-WEDDING9.jpg" alt="casamento-casamento-intimista-mini-wedding9" width="640" height="955" />
+  <img class="alignnone size-full wp-image-13207" src="https://www.trololodemulher.com.br/2016/11/CASAMENTO-CASAMENTO-INTIMISTA-MINI-WEDDING9.jpg" alt="casamento-casamento-intimista-mini-wedding9" width="640" height="955" />
 </p>
 
 <p align="center">
-  Via <a href="http://obrigadosantoantonio.com.br/2013/01/29/casamento-lilian-mauro/" target="_blank">Obrigado, Santo Antonio!</a>
+  Via <a href="http://obrigadosantoantonio.com.br/2013/01/29/casamento-lilian-mauro/" target="_blank" rel="noopener noreferrer">Obrigado, Santo Antonio!</a>
 </p>
 
 <p align="justify">
@@ -94,27 +91,27 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13208" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/CASAMENTO-CASAMENTO-INTIMISTA-MINI-WEDDING10.jpg" alt="casamento-casamento-intimista-mini-wedding10" width="781" height="782" />
+  <img class="alignnone size-full wp-image-13208" src="https://www.trololodemulher.com.br/2016/11/CASAMENTO-CASAMENTO-INTIMISTA-MINI-WEDDING10.jpg" alt="casamento-casamento-intimista-mini-wedding10" width="781" height="782" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.berriesandlove.com/mini-wedding-no-campo-amanda-e-paulo/" target="_blank">Berries and Love</a>
+  Via <a href="http://www.berriesandlove.com/mini-wedding-no-campo-amanda-e-paulo/" target="_blank" rel="noopener noreferrer">Berries and Love</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13209" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/CASAMENTO-CASAMENTO-INTIMISTA-MINI-WEDDING11.jpg" alt="casamento-casamento-intimista-mini-wedding11" width="590" height="885" />
+  <img class="alignnone size-full wp-image-13209" src="https://www.trololodemulher.com.br/2016/11/CASAMENTO-CASAMENTO-INTIMISTA-MINI-WEDDING11.jpg" alt="casamento-casamento-intimista-mini-wedding11" width="590" height="885" />
 </p>
 
 <p align="center">
-  Via <a href="http://brides.inspireblog.com.br/casamento-intimista-domenica-e-david/" target="_blank">Inspire Brides</a>
+  Via <a href="http://brides.inspireblog.com.br/casamento-intimista-domenica-e-david/" target="_blank" rel="noopener noreferrer">Inspire Brides</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13210" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/CASAMENTO-CASAMENTO-INTIMISTA-MINI-WEDDING12.jpg" alt="casamento-casamento-intimista-mini-wedding12" width="600" height="900" />
+  <img class="alignnone size-full wp-image-13210" src="https://www.trololodemulher.com.br/2016/11/CASAMENTO-CASAMENTO-INTIMISTA-MINI-WEDDING12.jpg" alt="casamento-casamento-intimista-mini-wedding12" width="600" height="900" />
 </p>
 
 <p align="center">
-  Via <a href="http://vestidadenoiva.com/mini-wedding-fernanda-francisco/" target="_blank">Vestida de Noiva</a>
+  Via <a href="http://vestidadenoiva.com/mini-wedding-fernanda-francisco/" target="_blank" rel="noopener noreferrer">Vestida de Noiva</a>
 </p>
 
 <p align="justify">
@@ -134,17 +131,17 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Nota:</strong> já pensou que o casamento pode ser comemorado com um churrasco? Antes que você coloque as mãos na cabeça e ache um absurdo, aviso: a versão pode ser muito mais elegante do que você imagina. Amanda dá as dicas. <a href="http://amandicaindica.blogspot.com.br/2012/01/como-servir-e-fazer-acontecer-um.html" target="_blank">Clique aqui e confira como servir e fazer acontecer um churrasco glam</a>.
+  <strong>Nota:</strong> já pensou que o casamento pode ser comemorado com um churrasco? Antes que você coloque as mãos na cabeça e ache um absurdo, aviso: a versão pode ser muito mais elegante do que você imagina. Amanda dá as dicas. <a href="http://amandicaindica.blogspot.com.br/2012/01/como-servir-e-fazer-acontecer-um.html" target="_blank" rel="noopener noreferrer">Clique aqui e confira como servir e fazer acontecer um churrasco glam</a>.
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/11/AMANDA-ACCIOILI-CONSULTORIA-CASAMENTO-E-EVENTOS2.jpg" alt="amanda-accioili-consultoria-casamento-e-eventos2" width="800" height="154" />
+  <img class="alignnone size-full wp-image-13200" src="https://www.trololodemulher.com.br/2016/11/AMANDA-ACCIOILI-CONSULTORIA-CASAMENTO-E-EVENTOS2.jpg" alt="amanda-accioili-consultoria-casamento-e-eventos2" width="800" height="154" />
 </p>
 
 <p align="justify">
-  Amanda comanda o blog <a href="http://amandicaindica.blogspot.com.br/" target="_blank">Amandica Indica</a>, blog dedicado ao conteúdo voltado para eventos sociais em geral. A boa notícia para as bonitas que querem casar é que em breve nascerá o <strong>Despertei Noiva</strong>, que será uma parte dentro do blog especializada em casamentos. <a href="http://amandicaindica.blogspot.com.br/" target="_blank">Clique aqui, visite o blog</a> e confira o conteúdo riquíssimo que há por lá.  <a href="https://www.instagram.com/desperteinoiva/" target="_blank">Aqui você confere e segue</a> o <strong>Instagram Despertei Noiva</strong>. <a href="https://www.facebook.com/desperteinoivaamandicaindica/?fref=ts" target="_blank">Aqui fica a fanpage no Facebook</a> do Despertei Noiva. Se joga e sonha, bonita!!!!
+  Amanda comanda o blog <a href="http://amandicaindica.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Amandica Indica</a>, blog dedicado ao conteúdo voltado para eventos sociais em geral. A boa notícia para as bonitas que querem casar é que em breve nascerá o <strong>Despertei Noiva</strong>, que será uma parte dentro do blog especializada em casamentos. <a href="http://amandicaindica.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Clique aqui, visite o blog</a> e confira o conteúdo riquíssimo que há por lá.  <a href="https://www.instagram.com/desperteinoiva/" target="_blank" rel="noopener noreferrer">Aqui você confere e segue</a> o <strong>Instagram Despertei Noiva</strong>. <a href="https://www.facebook.com/desperteinoivaamandicaindica/?fref=ts" target="_blank" rel="noopener noreferrer">Aqui fica a fanpage no Facebook</a> do Despertei Noiva. Se joga e sonha, bonita!!!!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

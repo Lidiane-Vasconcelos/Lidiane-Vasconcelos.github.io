@@ -1,10 +1,7 @@
 ---
-id: 3263
 title: Seu coração está protegido de doenças cardiovasculares?
-date: 2013-09-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/09/23/coracao-doenca-cardiovascular/
 permalink: /2013/09/23/coracao-doenca-cardiovascular/
 categories:
   - Saúde
@@ -50,7 +47,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/SAUDE-DOENCA-CARDIOVASCULAR-INFARTO-CORACAO.jpg"><img class="alignnone size-full wp-image-9785" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/SAUDE-DOENCA-CARDIOVASCULAR-INFARTO-CORACAO.jpg" alt="SAUDE-DOENCA-CARDIOVASCULAR-INFARTO-CORACAO" width="600" height="393" /></a><br /> </strong>Imagem:<strong> <em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <strong><a href="https://www.trololodemulher.com.br/2013/09/SAUDE-DOENCA-CARDIOVASCULAR-INFARTO-CORACAO.jpg"><img class="alignnone size-full wp-image-9785" src="https://www.trololodemulher.com.br/2013/09/SAUDE-DOENCA-CARDIOVASCULAR-INFARTO-CORACAO.jpg" alt="SAUDE-DOENCA-CARDIOVASCULAR-INFARTO-CORACAO" width="600" height="393" /></a><br /> </strong>Imagem:<strong> <em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
@@ -80,17 +77,17 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/NUTRICIONISTA-INGRID-SEILER-PRIOR-SANTOS.png"><img class="alignnone size-full wp-image-9579" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/NUTRICIONISTA-INGRID-SEILER-PRIOR-SANTOS.png" alt="NUTRICIONISTA-INGRID SEILER PRIOR-SANTOS" width="520" height="287" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/06/NUTRICIONISTA-INGRID-SEILER-PRIOR-SANTOS.png"><img class="alignnone size-full wp-image-9579" src="https://www.trololodemulher.com.br/2013/06/NUTRICIONISTA-INGRID-SEILER-PRIOR-SANTOS.png" alt="NUTRICIONISTA-INGRID SEILER PRIOR-SANTOS" width="520" height="287" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Bonita, a <strong>Dra. Ingrid</strong> também é blogueira, sabia? Pois é… se você é daquelas que amam estar bem informadas sobre saúde e bem-estar, pode passar a acompanhar suas atualizações em <a href="http://www.nutricionistaingrid.com.br/" target="_blank"><strong>seu blog clicando bem aqui</strong></a>. Além do mais, dá para acompanhar ainda mais dicas da <strong>Dra. Ingrid</strong>pelo<strong>Facebook</strong>, através de sua <strong><em><a href="http://www.facebook.com/nutri.ingrid.prior" target="_blank">fanpage</a></em></strong>. Vai perder?
+  Bonita, a <strong>Dra. Ingrid</strong> também é blogueira, sabia? Pois é… se você é daquelas que amam estar bem informadas sobre saúde e bem-estar, pode passar a acompanhar suas atualizações em <a href="http://www.nutricionistaingrid.com.br/" target="_blank" rel="noopener noreferrer"><strong>seu blog clicando bem aqui</strong></a>. Além do mais, dá para acompanhar ainda mais dicas da <strong>Dra. Ingrid</strong>pelo<strong>Facebook</strong>, através de sua <strong><em><a href="http://www.facebook.com/nutri.ingrid.prior" target="_blank" rel="noopener noreferrer">fanpage</a></em></strong>. Vai perder?
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

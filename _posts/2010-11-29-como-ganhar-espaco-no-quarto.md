@@ -1,10 +1,7 @@
 ---
-id: 2917
 title: Como ganhar (e não perder) espaço em quartos pequenos?
-date: 2010-11-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/11/29/como-ganhar-espaco-no-quarto/
 permalink: /2010/11/29/como-ganhar-espaco-no-quarto/
 categories:
   - Pequenos Espaços
@@ -19,7 +16,7 @@ categories:
 <!--more-->
 
 <p style="text-align: center;">
-  <span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/espaco.jpg"><img class="alignnone size-full wp-image-5536" title="espaço" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/espaco.jpg" alt="" width="286" height="430" /></a></span><strong><em></em></strong>
+  <span style="font-size: medium;"><a href="https://www.trololodemulher.com.br/2010/11/espaco.jpg"><img class="alignnone size-full wp-image-5536" title="espaço" src="https://www.trololodemulher.com.br/2010/11/espaco.jpg" alt="" width="286" height="430" /></a></span><strong><em></em></strong>
 </p>
 
 <p style="text-align: center;">
@@ -31,27 +28,27 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/sacos-a-vacuo.jpg"><img class="alignnone size-full wp-image-5534" title="sacos a vácuo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/sacos-a-vacuo.jpg" alt="" width="611" height="422" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2010/11/sacos-a-vacuo.jpg"><img class="alignnone size-full wp-image-5534" title="sacos a vácuo" src="https://www.trololodemulher.com.br/2010/11/sacos-a-vacuo.jpg" alt="" width="611" height="422" /></a></em>
 </p>
 
 <p style="text-align: justify;">
-  Os sacos a vácuo a que se refere a Karol, que é editora do blog <a href="http://adonadomundo.blogspot.com/" target="_blank">A Dona do Mundo</a>, são verdadeiros objetos do desejo para quem busca soluções práticas para manter a casa organizada e com espaços utilizados de forma inteligente. Esses sacos são usados, geralmente, com o apoio de um aspirador de pó. Tudo que é necessário fazer é realizar a sucção do ar de dentro desses sacos. Eles têm o volume reduzido de forma considerável, e seu armazenamento passa a exigir muito menos espaço. É assim que você desafoga seu guarda-roupas e gavetas.
+  Os sacos a vácuo a que se refere a Karol, que é editora do blog <a href="http://adonadomundo.blogspot.com/" target="_blank" rel="noopener noreferrer">A Dona do Mundo</a>, são verdadeiros objetos do desejo para quem busca soluções práticas para manter a casa organizada e com espaços utilizados de forma inteligente. Esses sacos são usados, geralmente, com o apoio de um aspirador de pó. Tudo que é necessário fazer é realizar a sucção do ar de dentro desses sacos. Eles têm o volume reduzido de forma considerável, e seu armazenamento passa a exigir muito menos espaço. É assim que você desafoga seu guarda-roupas e gavetas.
 </p>
 
 <p style="text-align: justify;">
-  Sabe quem já usou, aprovou e mostrou sua experiência com esses sacos? A Bianca Bueno, editora do blog <a href="http://bianca-bueno.blogspot.com/" target="_blank">Bianca Bueno – Home Place</a>. Veja nas imagens, e nas considerações da Bianca, as vantagens do uso desse tipo de recurso:
+  Sabe quem já usou, aprovou e mostrou sua experiência com esses sacos? A Bianca Bueno, editora do blog <a href="http://bianca-bueno.blogspot.com/" target="_blank" rel="noopener noreferrer">Bianca Bueno – Home Place</a>. Veja nas imagens, e nas considerações da Bianca, as vantagens do uso desse tipo de recurso:
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/sacos-a-vacuo.jpg"><img class="alignnone size-full wp-image-5533" title="sacos a vacuo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/sacos-a-vacuo.jpg" alt="" width="400" height="300" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2010/11/sacos-a-vacuo.jpg"><img class="alignnone size-full wp-image-5533" title="sacos a vacuo" src="https://www.trololodemulher.com.br/2010/11/sacos-a-vacuo.jpg" alt="" width="400" height="300" /></a></em>
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/saco-a-vacuo-aspirador.jpg"><img class="alignnone size-full wp-image-5531" title="saco a vácuo aspirador" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/saco-a-vacuo-aspirador.jpg" alt="" width="400" height="300" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2010/11/saco-a-vacuo-aspirador.jpg"><img class="alignnone size-full wp-image-5531" title="saco a vácuo aspirador" src="https://www.trololodemulher.com.br/2010/11/saco-a-vacuo-aspirador.jpg" alt="" width="400" height="300" /></a></em>
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/saco-a-vacuo-espaco-reduzido.jpg"><img class="alignnone size-full wp-image-5532" title="saco a vácuo espaço reduzido" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/saco-a-vacuo-espaco-reduzido.jpg" alt="" width="400" height="300" /></a></em>
+  <em><a href="https://www.trololodemulher.com.br/2010/11/saco-a-vacuo-espaco-reduzido.jpg"><img class="alignnone size-full wp-image-5532" title="saco a vácuo espaço reduzido" src="https://www.trololodemulher.com.br/2010/11/saco-a-vacuo-espaco-reduzido.jpg" alt="" width="400" height="300" /></a></em>
 </p>
 
 <blockquote style="text-align: center;">
@@ -61,7 +58,7 @@ categories:
 </blockquote>
 
 <p style="text-align: justify;">
-  A Bia ainda dá maiores detalhes e mostra muito mais imagens do uso desses sacos. Ela é toda alegria com o produto, e conta tudo em <a href="http://bianca-bueno.blogspot.com/2010/09/sobre-vacuo-bags_313.html" target="_blank">seu post</a>.
+  A Bia ainda dá maiores detalhes e mostra muito mais imagens do uso desses sacos. Ela é toda alegria com o produto, e conta tudo em <a href="http://bianca-bueno.blogspot.com/2010/09/sobre-vacuo-bags_313.html" target="_blank" rel="noopener noreferrer">seu post</a>.
 </p>
 
 <p style="text-align: justify;">
@@ -77,19 +74,19 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/cama-king-size.jpg"><img class="alignnone size-full wp-image-5528" title="cama king size" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/cama-king-size.jpg" alt="" width="608" height="340" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/cama-king-size.jpg"><img class="alignnone size-full wp-image-5528" title="cama king size" src="https://www.trololodemulher.com.br/2010/11/cama-king-size.jpg" alt="" width="608" height="340" /></a>
 </p>
 
 <p style="text-align: justify;">
-  A Lola, que edita o blog <a href="http://entreinosenta.blogspot.com/" target="_blank">Entrei nos Enta</a> colocou bem: é complicado colocar uma cama desse tipo num quarto pequeno. Mas há quem tente, e eu conheço quem já fez. E você?
+  A Lola, que edita o blog <a href="http://entreinosenta.blogspot.com/" target="_blank" rel="noopener noreferrer">Entrei nos Enta</a> colocou bem: é complicado colocar uma cama desse tipo num quarto pequeno. Mas há quem tente, e eu conheço quem já fez. E você?
 </p>
 
 <p style="text-align: justify;">
-  A verdade é que fui buscar mais informações nas palavras de quem entende, de quem é especialista no assunto. A Leticia Lodi, que já se tornou consultora do <strong><em>Bicha Fêmea</em></strong> para assuntos ligados a <em>design</em> de interiores, que tem um blog super bem frequentado e cheios de informação a respeito, o <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>, explica da meneira mais didática impossível: através de imagem. Confira:
+  A verdade é que fui buscar mais informações nas palavras de quem entende, de quem é especialista no assunto. A Leticia Lodi, que já se tornou consultora do <strong><em>Bicha Fêmea</em></strong> para assuntos ligados a <em>design</em> de interiores, que tem um blog super bem frequentado e cheios de informação a respeito, o <a href="http://blog.casadecatarina.com.br/" target="_blank" rel="noopener noreferrer">Casa de Catarina</a>, explica da meneira mais didática impossível: através de imagem. Confira:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/cama-king-size-projeto1.jpg"><img class="alignnone size-full wp-image-5535" title="cama king size projeto" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/cama-king-size-projeto1.jpg" alt="" width="633" height="502" /></a><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/cama-king-size-projeto.jpg"></a>
+  <a href="https://www.trololodemulher.com.br/2010/11/cama-king-size-projeto1.jpg"><img class="alignnone size-full wp-image-5535" title="cama king size projeto" src="https://www.trololodemulher.com.br/2010/11/cama-king-size-projeto1.jpg" alt="" width="633" height="502" /></a><a href="https://www.trololodemulher.com.br/2010/11/cama-king-size-projeto.jpg"></a>
 </p>
 
 <blockquote style="text-align: center;">
@@ -103,7 +100,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+  Imagem: <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a>
 </p>
 
 <p style="text-align: center;">
@@ -115,15 +112,15 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/cama-de-casal.jpg"><img class="alignnone size-full wp-image-5758" title="cama de casal" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/cama-de-casal.jpg" alt="" width="370" height="278" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/01/cama-de-casal.jpg"><img class="alignnone size-full wp-image-5758" title="cama de casal" src="https://www.trololodemulher.com.br/2011/01/cama-de-casal.jpg" alt="" width="370" height="278" /></a>
 </p>
 
 <p style="text-align: center;">
-  <em>imagem: </em><a href="http://www.quebarato.com.br/" target="_blank"><em>QueBarato!</em></a>
+  <em>imagem: </em><a href="http://www.quebarato.com.br/" target="_blank" rel="noopener noreferrer"><em>QueBarato!</em></a>
 </p>
 
 <p style="text-align: justify;">
-  &#8230;<em>Engraçado que até é a persiana da foto é parecida com a que tenho. Pena que o espaço que sobra não tem nada a ver com o da foto. rs</em>&#8221; Vanessíssima, do blog <a href="http://www.vanmulherzinha.blogspot.com/" target="_blank">Van Mulherzinha</a>.
+  &#8230;<em>Engraçado que até é a persiana da foto é parecida com a que tenho. Pena que o espaço que sobra não tem nada a ver com o da foto. rs</em>&#8221; Vanessíssima, do blog <a href="http://www.vanmulherzinha.blogspot.com/" target="_blank" rel="noopener noreferrer">Van Mulherzinha</a>.
 </p>
 
 <p style="text-align: justify;">

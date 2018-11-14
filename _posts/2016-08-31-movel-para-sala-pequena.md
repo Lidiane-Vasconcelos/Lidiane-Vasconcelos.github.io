@@ -1,10 +1,7 @@
 ---
-id: 3655
 title: Você sabe escolher o melhor móvel para sala pequena?
-date: 2016-08-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/08/31/movel-para-sala-pequena/
 permalink: /2016/08/31/movel-para-sala-pequena/
 categories:
   - Casa
@@ -16,7 +13,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Há algum tempo tivemos a consultoria da <strong>Designer de Interiores Adriana Magre</strong> aqui no <strong>Trololó de Mulher</strong>, onde ela ensinou todos os <strong><a href="http://www.bichafemea.com/2012/10/10/decoracao-sala-estar-pequena/" target="_blank">truques de decoração para sala de estar pequena</a></strong>. Dentre as várias sugestões e orientações, ela abordou quais tipos de móveis são adequados para esses espaços pela capacidade de armazenamento que eles têm:
+  Há algum tempo tivemos a consultoria da <strong>Designer de Interiores Adriana Magre</strong> aqui no <strong>Trololó de Mulher</strong>, onde ela ensinou todos os <strong><a href="http://www.bichafemea.com/2012/10/10/decoracao-sala-estar-pequena/" target="_blank" rel="noopener noreferrer">truques de decoração para sala de estar pequena</a></strong>. Dentre as várias sugestões e orientações, ela abordou quais tipos de móveis são adequados para esses espaços pela capacidade de armazenamento que eles têm:
 </p>
 
 &nbsp;
@@ -28,11 +25,11 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Vale a pena demais você dar uma olhada em <strong><a href="http://www.bichafemea.com/2012/10/10/decoracao-sala-estar-pequena/" target="_blank">todo o post</a></strong>, porque as dicas são valiosíssimas!
+  Vale a pena demais você dar uma olhada em <strong><a href="http://www.bichafemea.com/2012/10/10/decoracao-sala-estar-pequena/" target="_blank" rel="noopener noreferrer">todo o post</a></strong>, porque as dicas são valiosíssimas!
 </p>
 
 <p align="justify">
-  Além desses móveis que ela citou, eu queria te mostrar mais um. Trata-se de uma solução decorativa <em>superultramega</em> funcional, na qual eu não havia pensado antes. Quando vi essa solução no site <strong><em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em></strong> já pensei em te mostrar porque, sei bem, quem mora em espaços reduzidos acha sempre muito pertinente ter ideias bacanas de aproveitamento de medidas no ambiente, certo?
+  Além desses móveis que ela citou, eu queria te mostrar mais um. Trata-se de uma solução decorativa <em>superultramega</em> funcional, na qual eu não havia pensado antes. Quando vi essa solução no site <strong><em><a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a></em></strong> já pensei em te mostrar porque, sei bem, quem mora em espaços reduzidos acha sempre muito pertinente ter ideias bacanas de aproveitamento de medidas no ambiente, certo?
 </p>
 
 &nbsp;
@@ -50,5 +47,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

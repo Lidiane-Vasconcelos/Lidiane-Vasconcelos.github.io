@@ -1,10 +1,7 @@
 ---
-id: 2820
 title: Como decorar a parede da escada?
-date: 2010-05-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/05/24/como-decorar-parede-escada/
 permalink: /2010/05/24/como-decorar-parede-escada/
 categories:
   - Dicas de Decoração
@@ -24,11 +21,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/quadros-parede-escada.jpg"><img class="alignnone size-full wp-image-4660" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/quadros-parede-escada.jpg" alt="quadros parede escada" width="540" height="504" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/05/quadros-parede-escada.jpg"><img class="alignnone size-full wp-image-4660" src="https://www.trololodemulher.com.br/2010/05/quadros-parede-escada.jpg" alt="quadros parede escada" width="540" height="504" /></a>
 </p>
 
 <p style="text-align: center;">
-  Imagem: <a href="http://www.diyideas.com/" target="_blank">do it yourself</a>
+  Imagem: <a href="http://www.diyideas.com/" target="_blank" rel="noopener noreferrer">do it yourself</a>
 </p>
 
 <p style="text-align: justify;">
@@ -40,11 +37,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Para facilitar minha vida, não tenho dúvidas que recorreria ás dicas antes publicadas no blog <strong>Decoração da Casa</strong> sobre <strong><a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank"><em>como dispor quadros na parede</em></a></strong>. Você já leu? Recomendo, <em>viu</em>?!
+  Para facilitar minha vida, não tenho dúvidas que recorreria ás dicas antes publicadas no blog <strong>Decoração da Casa</strong> sobre <strong><a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank" rel="noopener noreferrer"><em>como dispor quadros na parede</em></a></strong>. Você já leu? Recomendo, <em>viu</em>?!
 </p>
 
 <p style="text-align: justify;">
-  Mas se você imagina que as possibilidades para a decoração da parede da escada terminam aí, você está muito enganada, bonita. A Larissa, que é Arquiteta e comanda o blog <a href="http://fuimorarnumacasinha.blogspot.com/" target="_blank">“Fui morar numa casinha&#8230;” </a>diz que “<em>tem muitas opções para se decorar a parede da escada: pintura, papel de parede, adesivo, porta retratos (de várias maneiras), usá-la como expositor de uma coleção, por exemplo, se a escada for mais larguinha e os objetos da coleção pequenos</em>.”
+  Mas se você imagina que as possibilidades para a decoração da parede da escada terminam aí, você está muito enganada, bonita. A Larissa, que é Arquiteta e comanda o blog <a href="http://fuimorarnumacasinha.blogspot.com/" target="_blank" rel="noopener noreferrer">“Fui morar numa casinha&#8230;” </a>diz que “<em>tem muitas opções para se decorar a parede da escada: pintura, papel de parede, adesivo, porta retratos (de várias maneiras), usá-la como expositor de uma coleção, por exemplo, se a escada for mais larguinha e os objetos da coleção pequenos</em>.”
 </p>
 
 <p style="text-align: justify;">
@@ -56,11 +53,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2013/09/25/decoracao-escada/" target="_blank">Dilema de decoração: o que fazer sob a escada? Veja duas soluções.</a></strong>
+  <strong><a href="http://www.trololodemulher.com.br/2013/09/25/decoracao-escada/" target="_blank" rel="noopener noreferrer">Dilema de decoração: o que fazer sob a escada? Veja duas soluções.</a></strong>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/parede-escada-papel-de-parede.jpg"><img class="alignnone size-full wp-image-4662" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/parede-escada-papel-de-parede.jpg" alt="parede escada papel de parede" width="443" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/05/parede-escada-papel-de-parede.jpg"><img class="alignnone size-full wp-image-4662" src="https://www.trololodemulher.com.br/2010/05/parede-escada-papel-de-parede.jpg" alt="parede escada papel de parede" width="443" height="600" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -68,7 +65,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/parede-escada-pedra-canjiquinha.jpg"><img class="alignnone size-full wp-image-4661" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/parede-escada-pedra-canjiquinha.jpg" alt="parede escada pedra canjiquinha" width="369" height="553" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/05/parede-escada-pedra-canjiquinha.jpg"><img class="alignnone size-full wp-image-4661" src="https://www.trololodemulher.com.br/2010/05/parede-escada-pedra-canjiquinha.jpg" alt="parede escada pedra canjiquinha" width="369" height="553" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -78,7 +75,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/parede-escada-com-vasos.jpg"><img class="alignnone size-full wp-image-4663" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/parede-escada-com-vasos.jpg" alt="parede escada com vasos" width="356" height="361" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/05/parede-escada-com-vasos.jpg"><img class="alignnone size-full wp-image-4663" src="https://www.trololodemulher.com.br/2010/05/parede-escada-com-vasos.jpg" alt="parede escada com vasos" width="356" height="361" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -91,16 +88,16 @@ categories:
 
 &nbsp;
 
-Imagens usadas e comentadas pela Larissa:<a href="http://www.google.com/" target="_blank">Google</a>, <a href="http://casa.abril.com.br/" target="_blank">Casa.com.br</a> e <a href="http://revistacasaejardim.globo.com/" target="_blank">Casa e Jardim</a>.
+Imagens usadas e comentadas pela Larissa:<a href="http://www.google.com/" target="_blank" rel="noopener noreferrer">Google</a>, <a href="http://casa.abril.com.br/" target="_blank" rel="noopener noreferrer">Casa.com.br</a> e <a href="http://revistacasaejardim.globo.com/" target="_blank" rel="noopener noreferrer">Casa e Jardim</a>.
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
+  <a href="http://www.decoracaodacasa.com/" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10262" src="https://www.trololodemulher.com.br/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
 </p>
 
 <p align="justify">

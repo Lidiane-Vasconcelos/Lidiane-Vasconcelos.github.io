@@ -1,10 +1,7 @@
 ---
-id: 3464
 title: Carta ao meu filho Artur.
-date: 2015-08-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/08/14/carta-ao-meu-filho-artur/
 permalink: /2015/08/14/carta-ao-meu-filho-artur/
 categories:
   - Comportamento
@@ -46,7 +43,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/MATERNIDADE-FILHOS-FAMILIA.jpg"><img class="alignnone size-full wp-image-11293" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/08/MATERNIDADE-FILHOS-FAMILIA.jpg" alt="MATERNIDADE-FILHOS-FAMILIA" width="800" height="533" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/08/MATERNIDADE-FILHOS-FAMILIA.jpg"><img class="alignnone size-full wp-image-11293" src="https://www.trololodemulher.com.br/2015/08/MATERNIDADE-FILHOS-FAMILIA.jpg" alt="MATERNIDADE-FILHOS-FAMILIA" width="800" height="533" /></a>
 </p>
 
 <p align="justify">
@@ -74,7 +71,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

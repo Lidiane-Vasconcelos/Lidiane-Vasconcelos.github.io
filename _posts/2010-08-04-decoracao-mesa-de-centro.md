@@ -1,10 +1,7 @@
 ---
-id: 2856
 title: 'Decoração na sala de estar: mesa de centro. Qual seu estilo?'
-date: 2010-08-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/08/04/decoracao-mesa-de-centro/
 permalink: /2010/08/04/decoracao-mesa-de-centro/
 categories:
   - Salas
@@ -24,7 +21,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/mesa-de-centro-estilo-cottage.jpg"><img class="size-medium wp-image-5020   aligncenter" title="mesa de centro estilo cottage" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/mesa-de-centro-estilo-cottage-225x300.jpg" alt="" width="225" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/mesa-de-centro-estilo-cottage.jpg"><img class="size-medium wp-image-5020   aligncenter" title="mesa de centro estilo cottage" src="https://www.trololodemulher.com.br/2010/08/mesa-de-centro-estilo-cottage-225x300.jpg" alt="" width="225" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -36,7 +33,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/mesa-de-centro-estilo-contemporaneo.jpg"><img class="size-medium wp-image-5019 aligncenter" title="mesa de centro estilo contemporâneo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/mesa-de-centro-estilo-contemporaneo-225x300.jpg" alt="" width="225" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/mesa-de-centro-estilo-contemporaneo.jpg"><img class="size-medium wp-image-5019 aligncenter" title="mesa de centro estilo contemporâneo" src="https://www.trololodemulher.com.br/2010/08/mesa-de-centro-estilo-contemporaneo-225x300.jpg" alt="" width="225" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -48,7 +45,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/mesa-de-centro-estilo-tradicional.jpg"><img class="size-medium wp-image-5021 aligncenter" title="mesa de centro estilo tradicional" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/mesa-de-centro-estilo-tradicional-270x300.jpg" alt="" width="270" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2010/08/mesa-de-centro-estilo-tradicional.jpg"><img class="size-medium wp-image-5021 aligncenter" title="mesa de centro estilo tradicional" src="https://www.trololodemulher.com.br/2010/08/mesa-de-centro-estilo-tradicional-270x300.jpg" alt="" width="270" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -66,13 +63,13 @@ categories:
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      <em>Imagens: </em><a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Gardens</em></a>
+      <em>Imagens: </em><a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer"><em>Better Homes and Gardens</em></a>
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      <em>Fonte: </em><a href="http://interiordec.about.com/" target="_blank"><em>About.com Interior Decorating</em></a>
+      <em>Fonte: </em><a href="http://interiordec.about.com/" target="_blank" rel="noopener noreferrer"><em>About.com Interior Decorating</em></a>
     </td>
   </tr>
 </table>

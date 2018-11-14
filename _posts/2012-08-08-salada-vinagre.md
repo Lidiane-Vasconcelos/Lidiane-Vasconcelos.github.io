@@ -1,10 +1,7 @@
 ---
-id: 3168
 title: Temperinho bom na salada? Coloca vinagre aí, bonita!
-date: 2012-08-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2012/08/08/salada-vinagre/
 permalink: /2012/08/08/salada-vinagre/
 categories:
   - Receitas
@@ -20,7 +17,7 @@ E pode ser de diversos tipos, de jeitnhos diferentes e com truques exclusivos. P
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/08/salada-vinagre/vinagre-branco-balsamico-maca/" rel="attachment wp-att-8985"><img class="alignnone size-full wp-image-8985" title="VINAGRE-BRANCO-BALSAMICO-MACA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/VINAGRE-BRANCO-BALSAMICO-MACA.png" alt="" width="234" height="317" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/2012/08/08/salada-vinagre/vinagre-branco-balsamico-maca/" rel="attachment wp-att-8985"><img class="alignnone size-full wp-image-8985" title="VINAGRE-BRANCO-BALSAMICO-MACA" src="https://www.trololodemulher.com.br/2012/08/VINAGRE-BRANCO-BALSAMICO-MACA.png" alt="" width="234" height="317" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
@@ -44,19 +41,19 @@ E pode ser de diversos tipos, de jeitnhos diferentes e com truques exclusivos. P
 &nbsp;
 
 > <p align="justify">
->   <em>Eu gosto muito do vinagre simples, Lidi, mas o <strong>branco</strong>. Faço uma misturinha de <strong>vinagre, azeite, sal e cebola ralada</strong>. </em><em>Fica <strong>perfeito com beterraba e cenoura cozidas</strong></em>.” <strong>Flavinha Gomes | <a href="http://casinhabonitinha.blogspot.com.br/" target="_blank">Casinha Bonitinha</a></strong>
+>   <em>Eu gosto muito do vinagre simples, Lidi, mas o <strong>branco</strong>. Faço uma misturinha de <strong>vinagre, azeite, sal e cebola ralada</strong>. </em><em>Fica <strong>perfeito com beterraba e cenoura cozidas</strong></em>.” <strong>Flavinha Gomes | <a href="http://casinhabonitinha.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Casinha Bonitinha</a></strong>
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   <em>Olá, Lidi! </em><em>Eu, assim como você, adoro vinagre, mas confesso que não uso o balsâmico! O que costumo fazer, às vezes, para dar um gostinho especial no vinagre, é colocar <strong>folhinhas de tomilho, louro, uma pimenta vermelha com uns furinhos e alguns dentinhos e alho</strong>!! E pode ser <strong>qualquer vinagre</strong>! Para ser sincera tem muito tempo que não faço isso e essa sua pergunta me deixou com vontade!! …rss</em>” <strong>Alê Coelho | <a href="http://paparicopop.blogspot.com.br/" target="_blank">Paprico Pop</a></strong>
+>   <em>Olá, Lidi! </em><em>Eu, assim como você, adoro vinagre, mas confesso que não uso o balsâmico! O que costumo fazer, às vezes, para dar um gostinho especial no vinagre, é colocar <strong>folhinhas de tomilho, louro, uma pimenta vermelha com uns furinhos e alguns dentinhos e alho</strong>!! E pode ser <strong>qualquer vinagre</strong>! Para ser sincera tem muito tempo que não faço isso e essa sua pergunta me deixou com vontade!! …rss</em>” <strong>Alê Coelho | <a href="http://paparicopop.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Paprico Pop</a></strong>
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   Adoro! Uso o vinagre balsâmico ás vezes. Explico: aqui em casa a filha não gosta dele, então quando estamos os três, eu tempero a salada com <strong>sal, azeite</strong> e <strong>vinagre de maçã</strong>. E gostamos de salada temperada, nada daquela coisa de cada um temperar em seu prato, parece que não fica tão saboroso.” <strong>Adelaide Araçai | <a href="http://euseivoucontar.blogspot.com.br/" target="_blank">Eu sei… vou contar!</a></strong>
+>   Adoro! Uso o vinagre balsâmico ás vezes. Explico: aqui em casa a filha não gosta dele, então quando estamos os três, eu tempero a salada com <strong>sal, azeite</strong> e <strong>vinagre de maçã</strong>. E gostamos de salada temperada, nada daquela coisa de cada um temperar em seu prato, parece que não fica tão saboroso.” <strong>Adelaide Araçai | <a href="http://euseivoucontar.blogspot.com.br/" target="_blank" rel="noopener noreferrer">Eu sei… vou contar!</a></strong>
 > </p>
 
 &nbsp;
@@ -69,13 +66,13 @@ E pode ser de diversos tipos, de jeitnhos diferentes e com truques exclusivos. P
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/biscoito-biscoitinho-goiaba200/" rel="attachment wp-att-8863"><img class="alignnone size-full wp-image-8863" title="BISCOITO-BISCOITINHO-GOIABA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/BISCOITO-BISCOITINHO-GOIABA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/07/11/comidinha-lanche-da-tarde/"><strong><span style="font-size: medium;"><br /> Quem gosta de uma comidinha no lanchinho da tarde?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/biscoito-biscoitinho-goiaba200/" rel="attachment wp-att-8863"><img class="alignnone size-full wp-image-8863" title="BISCOITO-BISCOITINHO-GOIABA200" src="https://www.trololodemulher.com.br/2012/07/BISCOITO-BISCOITINHO-GOIABA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/07/11/comidinha-lanche-da-tarde/"><strong><span style="font-size: medium;"><br /> Quem gosta de uma comidinha no lanchinho da tarde?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2012/07/11/comidinha-lanche-da-tarde/bolo-fofo-de-canela-carol200/" rel="attachment wp-att-8747"><img class="alignnone size-full wp-image-8747" title="BOLO FOFO DE CANELA - CAROL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/BOLO-FOFO-DE-CANELA-CAROL200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2012/07/11/comidinha-lanche-da-tarde/bolo-fofo-de-canela-carol200/" rel="attachment wp-att-8747"><img class="alignnone size-full wp-image-8747" title="BOLO FOFO DE CANELA - CAROL200" src="https://www.trololodemulher.com.br/2012/06/BOLO-FOFO-DE-CANELA-CAROL200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -87,7 +84,7 @@ E pode ser de diversos tipos, de jeitnhos diferentes e com truques exclusivos. P
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/caldo-verde-amarelo-adriana-magre200/" rel="attachment wp-att-8706"><img class="alignnone size-full wp-image-8706" title="CALDO VERDE AMARELO - ADRIANA MAGRE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/CALDO-VERDE-AMARELO-ADRIANA-MAGRE200.jpg" alt="" width="200" height="200" /></a></strong>
+        <strong><a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/caldo-verde-amarelo-adriana-magre200/" rel="attachment wp-att-8706"><img class="alignnone size-full wp-image-8706" title="CALDO VERDE AMARELO - ADRIANA MAGRE200" src="https://www.trololodemulher.com.br/2012/06/CALDO-VERDE-AMARELO-ADRIANA-MAGRE200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
@@ -97,7 +94,7 @@ E pode ser de diversos tipos, de jeitnhos diferentes e com truques exclusivos. P
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/batata-ao-forno-funghi-secchi200/" rel="attachment wp-att-8564"><img class="alignnone size-full wp-image-8564" title="BATATA AO FORNO FUNGHI SECCHI200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/BATATA-AO-FORNO-FUNGHI-SECCHI200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/03/07/receita-com-batata/"><strong><span style="font-size: medium;">Tem receita com batata no Bicha Fêmea? Tem sim, bonita!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/batata-ao-forno-funghi-secchi200/" rel="attachment wp-att-8564"><img class="alignnone size-full wp-image-8564" title="BATATA AO FORNO FUNGHI SECCHI200" src="https://www.trololodemulher.com.br/2012/03/BATATA-AO-FORNO-FUNGHI-SECCHI200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/03/07/receita-com-batata/"><strong><span style="font-size: medium;">Tem receita com batata no Bicha Fêmea? Tem sim, bonita!</span></strong></a>
       </p>
     </td>
   </tr>
@@ -105,7 +102,7 @@ E pode ser de diversos tipos, de jeitnhos diferentes e com truques exclusivos. P
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/laranja200/" rel="attachment wp-att-8516"><img class="alignnone size-full wp-image-8516" title="LARANJA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/LARANJA200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/laranja200/" rel="attachment wp-att-8516"><img class="alignnone size-full wp-image-8516" title="LARANJA200" src="https://www.trololodemulher.com.br/2012/01/LARANJA200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
       </p>
       
       <p align="center">
@@ -115,7 +112,7 @@ E pode ser de diversos tipos, de jeitnhos diferentes e com truques exclusivos. P
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/12/21/cozinha-utensilios-design/medalhao-baby-beef-molho-mostarda200/" rel="attachment wp-att-8315"><img class="alignnone size-full wp-image-8315" title="Medalhão Baby Beef Molho Mostarda200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Medalhão-Baby-Beef-Molho-Mostarda200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/12/14/grelhados-receitas/"><strong><span style="font-size: medium;">Trio de grelhados by blogueiras das penelas… receitas delícia!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/12/21/cozinha-utensilios-design/medalhao-baby-beef-molho-mostarda200/" rel="attachment wp-att-8315"><img class="alignnone size-full wp-image-8315" title="Medalhão Baby Beef Molho Mostarda200" src="https://www.trololodemulher.com.br/2011/12/Medalhão-Baby-Beef-Molho-Mostarda200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/12/14/grelhados-receitas/"><strong><span style="font-size: medium;">Trio de grelhados by blogueiras das penelas… receitas delícia!</span></strong></a>
       </p>
     </td>
   </tr>
@@ -126,7 +123,7 @@ E pode ser de diversos tipos, de jeitnhos diferentes e com truques exclusivos. P
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="https://www.trololodemulher.com.br/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
@@ -141,13 +138,13 @@ E pode ser de diversos tipos, de jeitnhos diferentes e com truques exclusivos. P
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6857" title="Twitter" src="https://www.trololodemulher.com.br/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-6855" title="Facebook" src="https://www.trololodemulher.com.br/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>

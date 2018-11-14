@@ -1,10 +1,7 @@
 ---
-id: 2984
 title: 'Quarto com parede amarela: você quer inspirações?'
-date: 2011-04-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/04/27/quarto-parede-amarela/
 permalink: /2011/04/27/quarto-parede-amarela/
 categories:
   - Quarto
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  A Glaucia, que edita o blog <strong><a href="http://www.supercriativobyglau.blogspot.com/" target="_blank">Super Criativo</a></strong>, é leitora do Trololó de Mulher já faz um bom tempo, e sabe que por aqui os <em>pitacos</em> surgem aos montes, tantos os meus (<em>enxirida</em> que sou…<em>cof cof cof</em>…), quanto das leitoras. Sabendo disso, no post sobre <strong><a href="http://www.trololodemulher.com.br/2011/01/26/decoracao-sala-estar-amarelo/">decoração da sala de estar com amarelo</a></strong> ela disse assim:
+  A Glaucia, que edita o blog <strong><a href="http://www.supercriativobyglau.blogspot.com/" target="_blank" rel="noopener noreferrer">Super Criativo</a></strong>, é leitora do Trololó de Mulher já faz um bom tempo, e sabe que por aqui os <em>pitacos</em> surgem aos montes, tantos os meus (<em>enxirida</em> que sou…<em>cof cof cof</em>…), quanto das leitoras. Sabendo disso, no post sobre <strong><a href="http://www.trololodemulher.com.br/2011/01/26/decoracao-sala-estar-amarelo/">decoração da sala de estar com amarelo</a></strong> ela disse assim:
 </p>
 
 &nbsp;
@@ -28,7 +25,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Quarto-parede-amarela.jpg"><img class="alignnone size-full wp-image-6285" title="Quarto parede amarela" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Quarto-parede-amarela.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/Quarto-parede-amarela.jpg"><img class="alignnone size-full wp-image-6285" title="Quarto parede amarela" src="https://www.trololodemulher.com.br/2011/04/Quarto-parede-amarela.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -50,7 +47,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Quarto-parede-amarela2.jpg"><img class="alignnone size-full wp-image-6288" title="Quarto parede amarela[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Quarto-parede-amarela2.jpg" alt="" width="600" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/Quarto-parede-amarela2.jpg"><img class="alignnone size-full wp-image-6288" title="Quarto parede amarela[2]" src="https://www.trololodemulher.com.br/2011/04/Quarto-parede-amarela2.jpg" alt="" width="600" height="450" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -70,7 +67,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Quarto-parede-amarela3.jpg"><img class="alignnone size-full wp-image-6289" title="Quarto parede amarela[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Quarto-parede-amarela3.jpg" alt="" width="450" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/Quarto-parede-amarela3.jpg"><img class="alignnone size-full wp-image-6289" title="Quarto parede amarela[3]" src="https://www.trololodemulher.com.br/2011/04/Quarto-parede-amarela3.jpg" alt="" width="450" height="600" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -86,15 +83,15 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Lembra que estamos vendo que é possível <strong>decorar com detalhes pretos</strong> um <strong>quarto que tenha uma parede amarela</strong>? Pois bem, se a ideia dos pratos te agrada, você pode <strong>usar alguns com detalhes escuros, bem bonitos e florais</strong>, a exemplo dos pratos de melanina que a <strong>Rejane</strong>, do blog <strong><a href="http://casacorpoecia.blogspot.com/" target="_blank">Casa Corpo e Cia</a></strong>, usou para decorar a sala de jantar dela. Veja só:
+  Lembra que estamos vendo que é possível <strong>decorar com detalhes pretos</strong> um <strong>quarto que tenha uma parede amarela</strong>? Pois bem, se a ideia dos pratos te agrada, você pode <strong>usar alguns com detalhes escuros, bem bonitos e florais</strong>, a exemplo dos pratos de melanina que a <strong>Rejane</strong>, do blog <strong><a href="http://casacorpoecia.blogspot.com/" target="_blank" rel="noopener noreferrer">Casa Corpo e Cia</a></strong>, usou para decorar a sala de jantar dela. Veja só:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/decoracao-de-parede-com-pratos.jpg"><img class="alignnone size-full wp-image-6284" title="decoração de parede com pratos" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/decoracao-de-parede-com-pratos.jpg" alt="" width="480" height="640" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/04/decoracao-de-parede-com-pratos.jpg"><img class="alignnone size-full wp-image-6284" title="decoração de parede com pratos" src="https://www.trololodemulher.com.br/2011/04/decoracao-de-parede-com-pratos.jpg" alt="" width="480" height="640" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Viu? No seu quarto, <strong>se você for pendurá-los na janela, a exemplo do que você vê na imagem para sua inspiração</strong>, você pode <strong>pendurar com fitas</strong>. Se for <strong>numa parede comum, sem janela</strong>, pode ser como a Rejane, que usou <strong>barbante e cola quente</strong>. Ela explicou como fez neste post <strong><a href="http://casacorpoecia.blogspot.com/2010/09/decoracao-economica-vem-pra-ca-jantar.html" target="_blank">aqui</a></strong>. Confira!
+  Viu? No seu quarto, <strong>se você for pendurá-los na janela, a exemplo do que você vê na imagem para sua inspiração</strong>, você pode <strong>pendurar com fitas</strong>. Se for <strong>numa parede comum, sem janela</strong>, pode ser como a Rejane, que usou <strong>barbante e cola quente</strong>. Ela explicou como fez neste post <strong><a href="http://casacorpoecia.blogspot.com/2010/09/decoracao-economica-vem-pra-ca-jantar.html" target="_blank" rel="noopener noreferrer">aqui</a></strong>. Confira!
 </p>
 
 <p style="text-align: justify;">
@@ -105,10 +102,10 @@ categories:
   E então, inspirada para pincelar seu quarto de amarelo? Capriche nos detalhes, e ilumine seu canto de dormir!
 </p>
 
-Imagens: _**<a href="http://www.myhomeideas.com/" target="_blank">myhomeideas</a>**_
+Imagens: _**<a href="http://www.myhomeideas.com/" target="_blank" rel="noopener noreferrer">myhomeideas</a>**_
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

@@ -1,10 +1,7 @@
 ---
-id: 2769
 title: Prateleira do Bicha Fêmea – Fabiana Correia
-date: 2010-01-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/01/20/bolos-de-festa/
 permalink: /2010/01/20/bolos-de-festa/
 categories:
   - Sem categoria
@@ -17,14 +14,14 @@ Houve prateleira em que minha emoção e sensibilidade é que foram tocadas prof
 
 Decidi mostrar o belo trabalho de Fabiana Correia porque ela é uma mulher que tem minha admiração. Ela até [já escreveu por aqui](http://www.trololodemulher.com.br/2009/12/16/bicha-femea-convidada-em-foco-fabiana-correia/), lembra? O que você vai apreciar por aqui é algo que ela sabe fazer muito bem: a arte de preparar e decorar bolos festivos.
 
-Fabiana mostra seu gosto pela cozinha na blogosfera, através do blog <a href="http://deliciasculinariasdafabi.blogspot.com/" target="_blank">Delícias Culinárias</a>, mas tem nos bolos coloridos e bem feitos a concretização de sua arte num momento maior, eu diria…
+Fabiana mostra seu gosto pela cozinha na blogosfera, através do blog <a href="http://deliciasculinariasdafabi.blogspot.com/" target="_blank" rel="noopener noreferrer">Delícias Culinárias</a>, mas tem nos bolos coloridos e bem feitos a concretização de sua arte num momento maior, eu diria…
 
 Essa nordestina lá das terras de Maceió mostra a que veio na arte de produzir bolos para enfeitar nossos olhos, e desconfio _cá_ comigo que eles satisfazem muito bem ao paladar…
 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/OgAAAMytLtQpqLmHEcL1AIG0Trh4R3cyuJzqyQOl7iar7JP02ROOdN3njKFAETsQpz9Oor9-kLFJ-UuNN9a3UbEMSfIAm1T1UAfoCRniqs3nrdDNO0nijrV9LZP_1.jpg"><img class="aligncenter size-medium wp-image-4153" title="OgAAAMytLtQpqLmHEcL1AIG0Trh4R3cyuJzqyQOl7iar7JP02ROOdN3njKFAETsQpz9Oor9-kLFJ-UuNN9a3UbEMSfIAm1T1UAfoCRniqs3nrdDNO0nijrV9LZP_[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/OgAAAMytLtQpqLmHEcL1AIG0Trh4R3cyuJzqyQOl7iar7JP02ROOdN3njKFAETsQpz9Oor9-kLFJ-UuNN9a3UbEMSfIAm1T1UAfoCRniqs3nrdDNO0nijrV9LZP_1-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/OgAAAMytLtQpqLmHEcL1AIG0Trh4R3cyuJzqyQOl7iar7JP02ROOdN3njKFAETsQpz9Oor9-kLFJ-UuNN9a3UbEMSfIAm1T1UAfoCRniqs3nrdDNO0nijrV9LZP_1.jpg"><img class="aligncenter size-medium wp-image-4153" title="OgAAAMytLtQpqLmHEcL1AIG0Trh4R3cyuJzqyQOl7iar7JP02ROOdN3njKFAETsQpz9Oor9-kLFJ-UuNN9a3UbEMSfIAm1T1UAfoCRniqs3nrdDNO0nijrV9LZP_[1]" src="https://www.trololodemulher.com.br/2010/01/OgAAAMytLtQpqLmHEcL1AIG0Trh4R3cyuJzqyQOl7iar7JP02ROOdN3njKFAETsQpz9Oor9-kLFJ-UuNN9a3UbEMSfIAm1T1UAfoCRniqs3nrdDNO0nijrV9LZP_1-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
   </tr>
 </table>
@@ -34,7 +31,7 @@ Essa nordestina lá das terras de Maceió mostra a que veio na arte de produzir 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/OgAAAF5lDpjWkbV4s3Mc31xi7DSWU9HPq6gWPq9BHgYixfbOM61YYRvxtb9EUrn7x25FX0-Ji8e7AF_ahLJiPi6dAHcAm1T1UJtn0CdMOvEkZlVbNEVi-X6DeoV01.jpg"><img class="aligncenter size-medium wp-image-4152" title="OgAAAF5lDpjWkbV4s3Mc31xi7DSWU9HPq6gWPq9BHgYixfbOM61YYRvxtb9EUrn7x25FX0-Ji8e7AF_ahLJiPi6dAHcAm1T1UJtn0CdMOvEkZlVbNEVi-X6DeoV0[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/OgAAAF5lDpjWkbV4s3Mc31xi7DSWU9HPq6gWPq9BHgYixfbOM61YYRvxtb9EUrn7x25FX0-Ji8e7AF_ahLJiPi6dAHcAm1T1UJtn0CdMOvEkZlVbNEVi-X6DeoV01-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/OgAAAF5lDpjWkbV4s3Mc31xi7DSWU9HPq6gWPq9BHgYixfbOM61YYRvxtb9EUrn7x25FX0-Ji8e7AF_ahLJiPi6dAHcAm1T1UJtn0CdMOvEkZlVbNEVi-X6DeoV01.jpg"><img class="aligncenter size-medium wp-image-4152" title="OgAAAF5lDpjWkbV4s3Mc31xi7DSWU9HPq6gWPq9BHgYixfbOM61YYRvxtb9EUrn7x25FX0-Ji8e7AF_ahLJiPi6dAHcAm1T1UJtn0CdMOvEkZlVbNEVi-X6DeoV0[1]" src="https://www.trololodemulher.com.br/2010/01/OgAAAF5lDpjWkbV4s3Mc31xi7DSWU9HPq6gWPq9BHgYixfbOM61YYRvxtb9EUrn7x25FX0-Ji8e7AF_ahLJiPi6dAHcAm1T1UJtn0CdMOvEkZlVbNEVi-X6DeoV01-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
   </tr>
 </table>
@@ -46,7 +43,7 @@ Isso sempre ficará em minhas lembranças, por isso acho que, quando possível, 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/OgAAADvI7ftHlPHsWIwQFmEHK6YCeBhAvMK542a-4YwY2P2XV9WS9Z_VSXmMjmuI-NPod0eo0zTh4n9JzNk1Zzsz_ewAm1T1UKW-86NZIbGRL9nnoxI6ltiy2QE11.jpg"><img class="aligncenter size-medium wp-image-4151" title="OgAAADvI7ftHlPHsWIwQFmEHK6YCeBhAvMK542a-4YwY2P2XV9WS9Z_VSXmMjmuI-NPod0eo0zTh4n9JzNk1Zzsz_ewAm1T1UKW-86NZIbGRL9nnoxI6ltiy2QE1[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/OgAAADvI7ftHlPHsWIwQFmEHK6YCeBhAvMK542a-4YwY2P2XV9WS9Z_VSXmMjmuI-NPod0eo0zTh4n9JzNk1Zzsz_ewAm1T1UKW-86NZIbGRL9nnoxI6ltiy2QE11-300x225.jpg" alt="" width="300" height="225" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/OgAAADvI7ftHlPHsWIwQFmEHK6YCeBhAvMK542a-4YwY2P2XV9WS9Z_VSXmMjmuI-NPod0eo0zTh4n9JzNk1Zzsz_ewAm1T1UKW-86NZIbGRL9nnoxI6ltiy2QE11.jpg"><img class="aligncenter size-medium wp-image-4151" title="OgAAADvI7ftHlPHsWIwQFmEHK6YCeBhAvMK542a-4YwY2P2XV9WS9Z_VSXmMjmuI-NPod0eo0zTh4n9JzNk1Zzsz_ewAm1T1UKW-86NZIbGRL9nnoxI6ltiy2QE1[1]" src="https://www.trololodemulher.com.br/2010/01/OgAAADvI7ftHlPHsWIwQFmEHK6YCeBhAvMK542a-4YwY2P2XV9WS9Z_VSXmMjmuI-NPod0eo0zTh4n9JzNk1Zzsz_ewAm1T1UKW-86NZIbGRL9nnoxI6ltiy2QE11-300x225.jpg" alt="" width="300" height="225" /></a>
     </td>
   </tr>
 </table>
@@ -56,7 +53,7 @@ Isso sempre ficará em minhas lembranças, por isso acho que, quando possível, 
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/OgAAAA1-PSZ9Dk6DjiRMxyul1eF4Y_bF63XqXvIGOSvyOIjg92K1vT8PiDZ6j7raYJekmyPoIkfuMle5RkubaohBBXwAm1T1UIwCFqyFXD8X_S4yjCP7BAdiVi8H1.jpg"><img class="aligncenter size-medium wp-image-4150" title="OgAAAA1-PSZ9Dk6DjiRMxyul1eF4Y_bF63XqXvIGOSvyOIjg92K1vT8PiDZ6j7raYJekmyPoIkfuMle5RkubaohBBXwAm1T1UIwCFqyFXD8X_S4yjCP7BAdiVi8H[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/OgAAAA1-PSZ9Dk6DjiRMxyul1eF4Y_bF63XqXvIGOSvyOIjg92K1vT8PiDZ6j7raYJekmyPoIkfuMle5RkubaohBBXwAm1T1UIwCFqyFXD8X_S4yjCP7BAdiVi8H1-225x300.jpg" alt="" width="225" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/OgAAAA1-PSZ9Dk6DjiRMxyul1eF4Y_bF63XqXvIGOSvyOIjg92K1vT8PiDZ6j7raYJekmyPoIkfuMle5RkubaohBBXwAm1T1UIwCFqyFXD8X_S4yjCP7BAdiVi8H1.jpg"><img class="aligncenter size-medium wp-image-4150" title="OgAAAA1-PSZ9Dk6DjiRMxyul1eF4Y_bF63XqXvIGOSvyOIjg92K1vT8PiDZ6j7raYJekmyPoIkfuMle5RkubaohBBXwAm1T1UIwCFqyFXD8X_S4yjCP7BAdiVi8H[1]" src="https://www.trololodemulher.com.br/2010/01/OgAAAA1-PSZ9Dk6DjiRMxyul1eF4Y_bF63XqXvIGOSvyOIjg92K1vT8PiDZ6j7raYJekmyPoIkfuMle5RkubaohBBXwAm1T1UIwCFqyFXD8X_S4yjCP7BAdiVi8H1-225x300.jpg" alt="" width="225" height="300" /></a>
     </td>
   </tr>
 </table>

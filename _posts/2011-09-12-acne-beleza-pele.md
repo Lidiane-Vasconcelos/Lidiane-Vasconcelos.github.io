@@ -1,10 +1,7 @@
 ---
-id: 3049
 title: 'Verão á vista: como evitar a acne e garantir a beleza da pele?'
-date: 2011-09-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/09/12/acne-beleza-pele/
 permalink: /2011/09/12/acne-beleza-pele/
 categories:
   - Beleza
@@ -34,7 +31,7 @@ A boa notícia é que dá para evitar esse transtorno de uma forma bem simples: 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/beleza-da-pele-acne.jpg"><img class="alignnone size-full wp-image-6893" title="beleza da pele acne" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/beleza-da-pele-acne.jpg" alt="" width="600" height="360" /></a><br /> Imagem:<strong> <a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/09/beleza-da-pele-acne.jpg"><img class="alignnone size-full wp-image-6893" title="beleza da pele acne" src="https://www.trololodemulher.com.br/2011/09/beleza-da-pele-acne.jpg" alt="" width="600" height="360" /></a><br /> Imagem:<strong> <a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">Stock.xchng</a></strong>
 </p>
 
 &nbsp;
@@ -74,7 +71,7 @@ Agora, sim, bonita! Você está bem informada sobre como cuidar bem de sua pele 
 &nbsp;
 
 <p align="justify">
-  Para ficar muito mais informada a fim de garantir a beleza da sua pele, confira as atualizações da <strong>Dra. Fernanda</strong> no blog <strong><a href="http://dicasdepele.blogspot.com/" target="_blank">Dicas de Pele</a></strong>, editado por ela. Além de posts cheios de informações e dicas que interessam a todas nós, ainda dá para conferir vídeos com entrevistas que ela já deu por aí afora, recheados de informações mais que úteis: necessárias! Aproveite!
+  Para ficar muito mais informada a fim de garantir a beleza da sua pele, confira as atualizações da <strong>Dra. Fernanda</strong> no blog <strong><a href="http://dicasdepele.blogspot.com/" target="_blank" rel="noopener noreferrer">Dicas de Pele</a></strong>, editado por ela. Além de posts cheios de informações e dicas que interessam a todas nós, ainda dá para conferir vídeos com entrevistas que ela já deu por aí afora, recheados de informações mais que úteis: necessárias! Aproveite!
 </p>
 
 &nbsp;
@@ -89,7 +86,7 @@ Agora, sim, bonita! Você está bem informada sobre como cuidar bem de sua pele 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/cely3200.jpg"><img class="alignnone size-full wp-image-6860" title="cely3200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/cely3200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/09/02/cosmeticos-beleza/"><span style="font-size: small;">Dicas de cosméticos para manter a beleza de uma bicha fêmea em dia!</span></a></strong>
+        <a href="https://www.trololodemulher.com.br/2011/08/cely3200.jpg"><img class="alignnone size-full wp-image-6860" title="cely3200" src="https://www.trololodemulher.com.br/2011/08/cely3200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/09/02/cosmeticos-beleza/"><span style="font-size: small;">Dicas de cosméticos para manter a beleza de uma bicha fêmea em dia!</span></a></strong>
       </p>
       
       <p>
@@ -97,7 +94,7 @@ Agora, sim, bonita! Você está bem informada sobre como cuidar bem de sua pele 
         
         <td valign="top" width="300">
           <p align="center">
-            <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza200.jpg"><img class="alignnone size-full wp-image-6823" title="beleza200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/08/24/beleza-da-pele/"><span style="font-size: small;">Tônico facial: você sabe a importância desse produto para a beleza da pele?</span></a></strong>
+            <a href="https://www.trololodemulher.com.br/2011/08/beleza200.jpg"><img class="alignnone size-full wp-image-6823" title="beleza200" src="https://www.trololodemulher.com.br/2011/08/beleza200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/08/24/beleza-da-pele/"><span style="font-size: small;">Tônico facial: você sabe a importância desse produto para a beleza da pele?</span></a></strong>
           </p>
         </td></tr> </tbody> </table> 
         
@@ -105,19 +102,19 @@ Agora, sim, bonita! Você está bem informada sobre como cuidar bem de sua pele 
           <tr>
             <td valign="top" width="200">
               <p align="center">
-                <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/batom200.jpg"><img class="alignnone size-thumbnail wp-image-6785" title="batom200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/batom200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/08/17/maquiagem-dicas-truques/"><span style="font-size: small;">Maquiagem: dicas truques e pitacos by bichas fêmeas navegantes…</span></a></strong>
+                <a href="https://www.trololodemulher.com.br/2011/08/batom200.jpg"><img class="alignnone size-thumbnail wp-image-6785" title="batom200" src="https://www.trololodemulher.com.br/2011/08/batom200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/08/17/maquiagem-dicas-truques/"><span style="font-size: small;">Maquiagem: dicas truques e pitacos by bichas fêmeas navegantes…</span></a></strong>
               </p>
             </td>
             
             <td valign="top" width="200">
               <p align="center">
-                <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Leticia-Lodi200.jpg"><img class="alignnone size-thumbnail wp-image-6669" title="Leticia Lodi200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Leticia-Lodi200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/07/22/beleza-na-vida-real-dicas/"><span style="font-size: small;">Beleza na vida real: dicas, truques e trololó…</span></a></strong>
+                <a href="https://www.trololodemulher.com.br/2011/07/Leticia-Lodi200.jpg"><img class="alignnone size-thumbnail wp-image-6669" title="Leticia Lodi200" src="https://www.trololodemulher.com.br/2011/07/Leticia-Lodi200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/07/22/beleza-na-vida-real-dicas/"><span style="font-size: small;">Beleza na vida real: dicas, truques e trololó…</span></a></strong>
               </p>
             </td>
             
             <td valign="top" width="200">
               <p align="center">
-                <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/dicas-maquiagem-pele-negra200.jpg"><img class="alignnone size-thumbnail wp-image-6430" title="dicas maquiagem pele negra200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/dicas-maquiagem-pele-negra200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/05/27/maquiagem-peles-negras/"><span style="font-size: small;">Dicas de beleza: maquiagem para peles negras. Anote!</span></a></strong>
+                <a href="https://www.trololodemulher.com.br/2011/05/dicas-maquiagem-pele-negra200.jpg"><img class="alignnone size-thumbnail wp-image-6430" title="dicas maquiagem pele negra200" src="https://www.trololodemulher.com.br/2011/05/dicas-maquiagem-pele-negra200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/05/27/maquiagem-peles-negras/"><span style="font-size: small;">Dicas de beleza: maquiagem para peles negras. Anote!</span></a></strong>
               </p>
             </td>
           </tr>

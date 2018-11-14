@@ -1,10 +1,7 @@
 ---
-id: 3096
 title: Você sabe como presentear aquela pessoa amada no Natal?
-date: 2011-12-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/12/15/presente-natal-compra-coletiva/
 permalink: /2011/12/15/presente-natal-compra-coletiva/
 categories:
   - Publieditorial
@@ -20,23 +17,23 @@ Ei, bonita! Tenho uma dica das boas pra você resolver essa dúvida que paira so
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Groupon.jpg"><img class="alignnone size-full wp-image-8332" title="Groupon" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Groupon.jpg" alt="" width="400" height="176" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/Groupon.jpg"><img class="alignnone size-full wp-image-8332" title="Groupon" src="https://www.trololodemulher.com.br/2011/12/Groupon.jpg" alt="" width="400" height="176" /></a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Você conhece o <strong><a href="http://www.groupon.com.br/" target="_blank">Groupon</a></strong>? Acho bem provável que você tenha ouvido falar nessa empresa, porque a presença dela nesse segmento tem sido bastante notada, não é? Eles trabalham oferecendo <strong>cupons de descontos em grandes cidades do Brasil através do site.  Para isso, eles usam o sistema de compras coletivas, o que deixa os valores de produtos, serviços e tickets com um ótimo desconto.</strong>
+  Você conhece o <strong><a href="http://www.groupon.com.br/" target="_blank" rel="noopener noreferrer">Groupon</a></strong>? Acho bem provável que você tenha ouvido falar nessa empresa, porque a presença dela nesse segmento tem sido bastante notada, não é? Eles trabalham oferecendo <strong>cupons de descontos em grandes cidades do Brasil através do site.  Para isso, eles usam o sistema de compras coletivas, o que deixa os valores de produtos, serviços e tickets com um ótimo desconto.</strong>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/PRESENTE-DE-NATAL.jpg"><img class="alignnone size-full wp-image-8334" title="PRESENTE DE NATAL" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/PRESENTE-DE-NATAL.jpg" alt="" width="600" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/PRESENTE-DE-NATAL.jpg"><img class="alignnone size-full wp-image-8334" title="PRESENTE DE NATAL" src="https://www.trololodemulher.com.br/2011/12/PRESENTE-DE-NATAL.jpg" alt="" width="600" height="600" /></a>
 </p>
 
 <p align="center">
-  Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  Imagem: <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></strong>
 </p>
 
 &nbsp;
@@ -62,7 +59,7 @@ Ei, bonita! Tenho uma dica das boas pra você resolver essa dúvida que paira so
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Natal-Groupon.png"><img class="alignnone size-full wp-image-8333" title="Natal Groupon" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Natal-Groupon.png" alt="" width="200" height="84" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/12/Natal-Groupon.png"><img class="alignnone size-full wp-image-8333" title="Natal Groupon" src="https://www.trololodemulher.com.br/2011/12/Natal-Groupon.png" alt="" width="200" height="84" /></a>
 </p>
 
 &nbsp;
@@ -72,5 +69,5 @@ Ei, bonita! Tenho uma dica das boas pra você resolver essa dúvida que paira so
 </p>
 
 <p align="justify">
-  Gostou da dica? Então aproveita e dá uma <strong><a href="http://www.groupon.com.br/" target="_blank">clicada bem aqui</a></strong>, assim você dá uma passeada pelo site, vê o que há de ofertas e se algo te agrada, e constata que, além de tudo, o <strong>site oferece uma navegabilidade bem simples</strong>. Nada de complicações… como a vida deve ser!
+  Gostou da dica? Então aproveita e dá uma <strong><a href="http://www.groupon.com.br/" target="_blank" rel="noopener noreferrer">clicada bem aqui</a></strong>, assim você dá uma passeada pelo site, vê o que há de ofertas e se algo te agrada, e constata que, além de tudo, o <strong>site oferece uma navegabilidade bem simples</strong>. Nada de complicações… como a vida deve ser!
 </p>

@@ -1,10 +1,7 @@
 ---
-id: 3813
 title: Adote sábias atitudes para uma vida em equilíbrio.
-date: 2017-10-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/10/16/vida-em-equilibrio/
 permalink: /2017/10/16/vida-em-equilibrio/
 categories:
   - Bem-estar
@@ -23,11 +20,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-14265" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/VIDA-EM-EQUILIBRIO-VIDA-EM-HARMONIA-BEM-ESTAR.jpg" alt="VIDA EM EQUILIBRIO-VIDA EM HARMONIA-BEM ESTAR" width="800" height="520" />
+  <img class="alignnone size-full wp-image-14265" src="https://www.trololodemulher.com.br/2017/10/VIDA-EM-EQUILIBRIO-VIDA-EM-HARMONIA-BEM-ESTAR.jpg" alt="VIDA EM EQUILIBRIO-VIDA EM HARMONIA-BEM ESTAR" width="800" height="520" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://foter.com/re/6e13b1" target="_blank">Foter.com</a>
+  Imagem: <a href="http://foter.com/re/6e13b1" target="_blank" rel="noopener noreferrer">Foter.com</a>
 </p>
 
 <p align="justify">
@@ -123,7 +120,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-10568" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/11/YOGA-MEDITACAO-SAUDE-BEM-ESTAR-PROFESSORA-PAULA-ELISA2.png" alt="YOGA-MEDITACAO-SAUDE-BEM ESTAR-PROFESSORA-PAULA ELISA[2]" width="800" height="212" />
+  <img class="alignnone size-full wp-image-10568" src="https://www.trololodemulher.com.br/2014/11/YOGA-MEDITACAO-SAUDE-BEM-ESTAR-PROFESSORA-PAULA-ELISA2.png" alt="YOGA-MEDITACAO-SAUDE-BEM ESTAR-PROFESSORA-PAULA ELISA[2]" width="800" height="212" />
 </p>
 
 <p align="justify">
@@ -131,19 +128,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/08/21/meditacao/" target="_blank"><strong>Quer melhorar sua prática de meditação? Faça yoga!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/08/21/meditacao/" target="_blank" rel="noopener noreferrer"><strong>Quer melhorar sua prática de meditação? Faça yoga!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank"><strong>O que a meditação pode fazer por seu bem-estar e saúde?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank" rel="noopener noreferrer"><strong>O que a meditação pode fazer por seu bem-estar e saúde?</strong></a>
 </p>
 
 <p align="justify">
-  Paula edita um blog repleto de informações sobre a prática da Yoga e tudo o mais que está ligado a esse universo. Sua linguagem é simples, didática e incrivelmente gostosa de ser lida. Aproveite! Acompanhe suas atualizações pelo <strong>Namastê Yoga Blog</strong>, <a href="http://www.namasteyoga.com.br/" target="_blank">clicando aqui</a>. Não deixe de conferir suas postagens que fazem tanto bem em outro canal, no Facebook. <a href="https://www.facebook.com/namasteyoga2" target="_blank">Sua página está bem aqui, clique</a>, confira e curta!
+  Paula edita um blog repleto de informações sobre a prática da Yoga e tudo o mais que está ligado a esse universo. Sua linguagem é simples, didática e incrivelmente gostosa de ser lida. Aproveite! Acompanhe suas atualizações pelo <strong>Namastê Yoga Blog</strong>, <a href="http://www.namasteyoga.com.br/" target="_blank" rel="noopener noreferrer">clicando aqui</a>. Não deixe de conferir suas postagens que fazem tanto bem em outro canal, no Facebook. <a href="https://www.facebook.com/namasteyoga2" target="_blank" rel="noopener noreferrer">Sua página está bem aqui, clique</a>, confira e curta!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="justify">

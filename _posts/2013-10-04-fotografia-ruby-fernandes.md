@@ -1,10 +1,7 @@
 ---
-id: 3266
 title: Os vários olhares na fotografia de Ruby Fernandes
-date: 2013-10-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2013/10/04/fotografia-ruby-fernandes/
 permalink: /2013/10/04/fotografia-ruby-fernandes/
 categories:
   - Trololó
@@ -20,7 +17,7 @@ categories:
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA.jpg"><img class="alignnone size-full wp-image-9805" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA.jpg" alt="RUBY FERNANDES-FOTOGRAFIA-BRASILIA" width="300" height="450" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA.jpg"><img class="alignnone size-full wp-image-9805" src="https://www.trololodemulher.com.br/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA.jpg" alt="RUBY FERNANDES-FOTOGRAFIA-BRASILIA" width="300" height="450" /></a>
 </p>
 
 <p align="center">
@@ -30,11 +27,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA2.jpg"><img class="alignnone size-full wp-image-9806" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA2.jpg" alt="RUBY FERNANDES-FOTOGRAFIA-BRASILIA[2]" width="400" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA2.jpg"><img class="alignnone size-full wp-image-9806" src="https://www.trololodemulher.com.br/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA2.jpg" alt="RUBY FERNANDES-FOTOGRAFIA-BRASILIA[2]" width="400" height="600" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA3.jpg"><img class="alignnone size-full wp-image-9807" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA3.jpg" alt="RUBY FERNANDES-FOTOGRAFIA-BRASILIA[3]" width="400" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA3.jpg"><img class="alignnone size-full wp-image-9807" src="https://www.trololodemulher.com.br/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA3.jpg" alt="RUBY FERNANDES-FOTOGRAFIA-BRASILIA[3]" width="400" height="600" /></a>
 </p>
 
 &nbsp;
@@ -46,21 +43,21 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA4.jpg"><img class="alignnone size-full wp-image-9808" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA4.jpg" alt="RUBY FERNANDES-FOTOGRAFIA-BRASILIA[4]" width="400" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA4.jpg"><img class="alignnone size-full wp-image-9808" src="https://www.trololodemulher.com.br/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA4.jpg" alt="RUBY FERNANDES-FOTOGRAFIA-BRASILIA[4]" width="400" height="600" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA5.jpg"><img class="alignnone size-full wp-image-9809" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA5.jpg" alt="RUBY FERNANDES-FOTOGRAFIA-BRASILIA[5]" width="480" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA5.jpg"><img class="alignnone size-full wp-image-9809" src="https://www.trololodemulher.com.br/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA5.jpg" alt="RUBY FERNANDES-FOTOGRAFIA-BRASILIA[5]" width="480" height="600" /></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA6.jpg"><img class="alignnone size-full wp-image-9810" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA6.jpg" alt="RUBY FERNANDES-FOTOGRAFIA-BRASILIA[6]" width="400" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA6.jpg"><img class="alignnone size-full wp-image-9810" src="https://www.trololodemulher.com.br/2013/10/RUBY-FERNANDES-FOTOGRAFIA-BRASILIA6.jpg" alt="RUBY FERNANDES-FOTOGRAFIA-BRASILIA[6]" width="400" height="600" /></a>
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;" align="justify">
-  Viu quanta beleza nesses momentos capturados pela Ruby? Encante-se com muito mais <strong><a href="http://rubyfernandes.com.br/" target="_blank">clicando aqui</a></strong>, e conheça muito mais do trabalho dessa profissional<em> superultramega</em> talentosa.
+  Viu quanta beleza nesses momentos capturados pela Ruby? Encante-se com muito mais <strong><a href="http://rubyfernandes.com.br/" target="_blank" rel="noopener noreferrer">clicando aqui</a></strong>, e conheça muito mais do trabalho dessa profissional<em> superultramega</em> talentosa.
 </p>
 
 <p align="center">
@@ -86,5 +83,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

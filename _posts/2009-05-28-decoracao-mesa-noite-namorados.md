@@ -1,10 +1,7 @@
 ---
-id: 2667
 title: Dicas de decoração para sua mesa de jantar no dia dos namorados.
-date: 2009-05-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2009/05/28/decoracao-mesa-noite-namorados/
 permalink: /2009/05/28/decoracao-mesa-noite-namorados/
 categories:
   - Salas
@@ -16,7 +13,7 @@ Você está planejando ficar em casa e fazer um jantar especial para a pessoa am
 </p>
 
 <p style="text-align: justify;">
-  Se algo por aqui te inspirar e você colocar em prática, conta depois?<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/emoticonhappy1.gif"><img style="display: inline;" title="EmoticonHappy" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/emoticonhappy_thumb1.gif" alt="EmoticonHappy" width="18" height="18" /></a>
+  Se algo por aqui te inspirar e você colocar em prática, conta depois?<a href="https://www.trololodemulher.com.br/2009/05/emoticonhappy1.gif"><img style="display: inline;" title="EmoticonHappy" src="https://www.trololodemulher.com.br/2009/05/emoticonhappy_thumb1.gif" alt="EmoticonHappy" width="18" height="18" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -43,7 +40,7 @@ Vários pequenos vasinhos com flores, arranjados de modo a desenhar um coração
 
 Haverá uma mesa mais romântica se a escolha for por rosas e um belo vaso?
 
-Imagens: <a href="http://www.marthastewart.com/" target="_blank">Martha Stewart</a>
+Imagens: <a href="http://www.marthastewart.com/" target="_blank" rel="noopener noreferrer">Martha Stewart</a>
 
 <span style="color: #800080;">Diz aí, você tem planos para a noite do dia dos namorados? E dicas?</span>
 

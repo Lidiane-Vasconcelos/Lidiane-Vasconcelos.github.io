@@ -1,10 +1,7 @@
 ---
-id: 2832
 title: 'Pitacos de Bicha Fêmea: quarto de menino.'
-date: 2010-06-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/06/16/decoracao-quarto-menino/
 permalink: /2010/06/16/decoracao-quarto-menino/
 categories:
   - Decoração
@@ -25,7 +22,7 @@ Vi que você pensa em colocar bicamas no quarto, não é? Penso que seria uma bo
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/quarto-menino-treliche.jpg"></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/quarto-menino-treliche.jpg"></a>
     </td>
     
     <td>
@@ -42,7 +39,7 @@ E se você não quiser algo tão alto quanto um treliche, pode fazer uma **adapt
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/quarto-menino-beliche.jpg"></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/quarto-menino-beliche.jpg"></a>
     </td>
     
     <td>
@@ -68,13 +65,13 @@ Percebeu o quanto ficou bonito ter _puffs_ que combinam com as paredes, que são
       </p>
       
       <p style="text-align: justify;">
-        <em>O móbile está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-bike/" target="_blank">basta clicar</a></strong>!</em>
+        <em>O móbile está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-bike/" target="_blank" rel="noopener noreferrer">basta clicar</a></strong>!</em>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p style="text-align: center;">
-        <img class="alignnone size-full wp-image-5267" title="Móbile Bike200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Bike200.jpg" alt="" width="200" height="200" />
+        <img class="alignnone size-full wp-image-5267" title="Móbile Bike200" src="https://www.trololodemulher.com.br/2010/09/Mobile-Bike200.jpg" alt="" width="200" height="200" />
       </p>
     </td>
   </tr>
@@ -85,7 +82,7 @@ Ainda falando sobre detalhes, **papel de parede** pode vir a ser uma possibilida
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/papel-de-parede-tematico.jpg"><img class="alignnone size-medium wp-image-4748" title="papel de parede temático" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/papel-de-parede-tematico-296x300.jpg" alt="" width="296" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/papel-de-parede-tematico.jpg"><img class="alignnone size-medium wp-image-4748" title="papel de parede temático" src="https://www.trololodemulher.com.br/2010/06/papel-de-parede-tematico-296x300.jpg" alt="" width="296" height="300" /></a>
     </td>
     
     <td>
@@ -100,7 +97,7 @@ O **papel pode acompanhar a proposta de decoração do quarto**, a exemplo deste
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/quarto-tematico-navio.jpg"><img class="alignnone size-medium wp-image-4753" title="quarto temático navio" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/quarto-tematico-navio-300x276.jpg" alt="" width="300" height="276" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/quarto-tematico-navio.jpg"><img class="alignnone size-medium wp-image-4753" title="quarto temático navio" src="https://www.trololodemulher.com.br/2010/06/quarto-tematico-navio-300x276.jpg" alt="" width="300" height="276" /></a>
     </td>
     
     <td>
@@ -117,7 +114,7 @@ Quanto ao quarto ter espaços diversos, pensei no **local de estudo** para eles.
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/mesa-de-estudo.jpg"><img class="alignnone size-medium wp-image-4746" title="mesa de estudo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/mesa-de-estudo-300x300.jpg" alt="" width="300" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/mesa-de-estudo.jpg"><img class="alignnone size-medium wp-image-4746" title="mesa de estudo" src="https://www.trololodemulher.com.br/2010/06/mesa-de-estudo-300x300.jpg" alt="" width="300" height="300" /></a>
     </td>
     
     <td>
@@ -134,7 +131,7 @@ Ainda pensando na **orgnaização da bagunça dos meninos**, que devem ter **bri
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/movel-organizador.jpg"></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/movel-organizador.jpg"></a>
     </td>
     
     <td>
@@ -151,7 +148,7 @@ Enfim, como o espaço será usado por eles e até servirá para quando eles cres
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/quarto-de-dormir-estudar-e-relaxar.jpg"><img class="alignnone size-medium wp-image-4749" title="quarto de dormir, estudar e relaxar" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/quarto-de-dormir-estudar-e-relaxar-300x300.jpg" alt="" width="300" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/quarto-de-dormir-estudar-e-relaxar.jpg"><img class="alignnone size-medium wp-image-4749" title="quarto de dormir, estudar e relaxar" src="https://www.trololodemulher.com.br/2010/06/quarto-de-dormir-estudar-e-relaxar-300x300.jpg" alt="" width="300" height="300" /></a>
     </td>
     
     <td>
@@ -165,7 +162,7 @@ Para que vocês vejam TV, você pode instalar algo como um **sofá onde vocês p
 
 Agora é dada a largada para muito mais **ideias vindas de você, bicha fêmea navegante**. A sandra conta com isso e, _‘cá ‘pra_ nós, você se diverte com tudo isso também, não é? Então, conta aí… qual é o teu pitaco?
 
-_Imagens: <a href="http://www.housetohome.co.uk/" target="_blank">House To Home</a>_
+_Imagens: <a href="http://www.housetohome.co.uk/" target="_blank" rel="noopener noreferrer">House To Home</a>_
 
 **As bichas fêmeas falam, dão dicas e mostram imagens. Melhor que isso? Impossível!**
 
@@ -174,7 +171,7 @@ _&#8220;&#8230;Separei alguns modelos de beliche que dão um ar um pouco “orig
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/Fotos-de-Beliches-Modernas-5.jpg"><img class="alignnone size-full wp-image-4786" title="Fotos de Beliches Modernas 5" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/Fotos-de-Beliches-Modernas-5.jpg" alt="" width="263" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/Fotos-de-Beliches-Modernas-5.jpg"><img class="alignnone size-full wp-image-4786" title="Fotos de Beliches Modernas 5" src="https://www.trololodemulher.com.br/2010/06/Fotos-de-Beliches-Modernas-5.jpg" alt="" width="263" height="200" /></a>
     </td>
     
     <td>
@@ -187,7 +184,7 @@ _&#8230;Aquela idéia de beliche com pés de madeira, pode ser desmontada, consi
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/fotos-de-beliches-modernas-2.jpg"><img class="alignnone size-full wp-image-4788" title="fotos-de-beliches-modernas-2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/fotos-de-beliches-modernas-2.jpg" alt="" width="250" height="261" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/fotos-de-beliches-modernas-2.jpg"><img class="alignnone size-full wp-image-4788" title="fotos-de-beliches-modernas-2" src="https://www.trololodemulher.com.br/2010/06/fotos-de-beliches-modernas-2.jpg" alt="" width="250" height="261" /></a>
     </td>
     
     <td>
@@ -200,7 +197,7 @@ _&#8230;Para solucionar a questão do “aperto”, eu optaria por marcenaria, p
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/Modern_bunk_bed.jpg"><img class="alignnone size-medium wp-image-4789" title="Modern_bunk_bed" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/Modern_bunk_bed-300x203.jpg" alt="" width="300" height="203" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/Modern_bunk_bed.jpg"><img class="alignnone size-medium wp-image-4789" title="Modern_bunk_bed" src="https://www.trololodemulher.com.br/2010/06/Modern_bunk_bed-300x203.jpg" alt="" width="300" height="203" /></a>
     </td>
     
     <td>
@@ -208,9 +205,9 @@ _&#8230;Para solucionar a questão do “aperto”, eu optaria por marcenaria, p
   </tr>
 </table>
 
-_&#8230;O ideal para dar um palpite mais certeiro é ver a planta do quarto, para entender o conjunto, porque muitas vezes, portas e janelas podem estar mal posicionados para esse tipo de solução.&#8221;_ Leticia Lodi &#8211; <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>
+_&#8230;O ideal para dar um palpite mais certeiro é ver a planta do quarto, para entender o conjunto, porque muitas vezes, portas e janelas podem estar mal posicionados para esse tipo de solução.&#8221;_ Leticia Lodi &#8211; <a href="http://blog.casadecatarina.com.br/" target="_blank" rel="noopener noreferrer">Casa de Catarina</a>
 
-_Imagens usadas por Leticia:_ <a href="http://www.google.com.br/" target="_blank"><em>Google</em></a>
+_Imagens usadas por Leticia:_ <a href="http://www.google.com.br/" target="_blank" rel="noopener noreferrer"><em>Google</em></a>
 
 **Mais imagens e _pitacos_ das bichas fêmeas navegantes&#8230;**
 
@@ -219,7 +216,7 @@ _Imagens usadas por Leticia:_ <a href="http://www.google.com.br/" target="_blank
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/camas-com-rodinhas.jpg"><img class="alignnone size-medium wp-image-4791" title="camas com rodinhas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/camas-com-rodinhas-300x224.jpg" alt="" width="300" height="224" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/camas-com-rodinhas.jpg"><img class="alignnone size-medium wp-image-4791" title="camas com rodinhas" src="https://www.trololodemulher.com.br/2010/06/camas-com-rodinhas-300x224.jpg" alt="" width="300" height="224" /></a>
     </td>
     
     <td>
@@ -232,7 +229,7 @@ _&#8230;O que gostei em algumas delas é que as bicamas são de rodinhas, portan
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/sofa-cama.jpg"><img class="alignnone size-medium wp-image-4792" title="sofá-cama" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/sofa-cama-300x214.jpg" alt="" width="300" height="214" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/06/sofa-cama.jpg"><img class="alignnone size-medium wp-image-4792" title="sofá-cama" src="https://www.trololodemulher.com.br/2010/06/sofa-cama-300x214.jpg" alt="" width="300" height="214" /></a>
     </td>
     
     <td>
@@ -240,9 +237,9 @@ _&#8230;O que gostei em algumas delas é que as bicamas são de rodinhas, portan
   </tr>
 </table>
 
-_&#8230;Em outras a cama durante o dia, é um aconchegante sofá&#8230;&#8221;_ Edna &#8211; <a href="http://www.umacasaprachamardeminha.blogspot.com/" target="_blank">UMA CASA PRA CHAMAR DE MINHA</a>
+_&#8230;Em outras a cama durante o dia, é um aconchegante sofá&#8230;&#8221;_ Edna &#8211; <a href="http://www.umacasaprachamardeminha.blogspot.com/" target="_blank" rel="noopener noreferrer">UMA CASA PRA CHAMAR DE MINHA</a>
 
-_Imagens enviadas pela Edna:_<a href="http://www.digsdigs.com/" target="_blank"><em> DigsDigs</em></a>
+_Imagens enviadas pela Edna:_<a href="http://www.digsdigs.com/" target="_blank" rel="noopener noreferrer"><em> DigsDigs</em></a>
 
 <p align="center">
   <strong><span style="font-size: large;">Mais no Bicha Fêmea</span></strong>
@@ -256,13 +253,13 @@ _Imagens enviadas pela Edna:_<a href="http://www.digsdigs.com/" target="_blank">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/decoracao-infantil-quarto-de-menino200.jpg"><img class="alignnone size-full wp-image-6242" title="decoração infantil - quarto de menino200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/decoracao-infantil-quarto-de-menino200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/04/18/cores-quarto-menino-menina/"><span style="font-size: small;">Como combinar cores no quarto de meninos e meninas?</span></a></strong>
+        <a href="https://www.trololodemulher.com.br/2011/04/decoracao-infantil-quarto-de-menino200.jpg"><img class="alignnone size-full wp-image-6242" title="decoração infantil - quarto de menino200" src="https://www.trololodemulher.com.br/2011/04/decoracao-infantil-quarto-de-menino200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/04/18/cores-quarto-menino-menina/"><span style="font-size: small;">Como combinar cores no quarto de meninos e meninas?</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino-e-menina200.jpg"><img class="alignnone size-full wp-image-6131" title="decoração bebê menino e menina200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino-e-menina200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/03/28/decoracao-bebe-menino-menina/"><span style="font-size: small;">Decoração para quarto de bebê menino e menina…</span></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2011/03/decoracao-bebe-menino-e-menina200.jpg"><img class="alignnone size-full wp-image-6131" title="decoração bebê menino e menina200" src="https://www.trololodemulher.com.br/2011/03/decoracao-bebe-menino-e-menina200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/03/28/decoracao-bebe-menino-menina/"><span style="font-size: small;">Decoração para quarto de bebê menino e menina…</span></a></strong>
       </p>
     </td>
   </tr>
@@ -270,13 +267,13 @@ _Imagens enviadas pela Edna:_<a href="http://www.digsdigs.com/" target="_blank">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/quadro-infantil200.jpg"><img class="alignnone size-full wp-image-6068" title="quadro infantil200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/quadro-infantil200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/03/14/ideias-decoracao-infantil/"><span style="font-size: small;">5 ideias para a decoração infantil no quarto dos pequenos&#8230;</span></a></strong></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2011/02/quadro-infantil200.jpg"><img class="alignnone size-full wp-image-6068" title="quadro infantil200" src="https://www.trololodemulher.com.br/2011/02/quadro-infantil200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/03/14/ideias-decoracao-infantil/"><span style="font-size: small;">5 ideias para a decoração infantil no quarto dos pequenos&#8230;</span></a></strong></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/quarto-de-menino200.jpg"><img class="alignnone size-full wp-image-5550" title="quarto de menino200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/quarto-de-menino200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2010/12/13/quarto-de-menino-decoracao/"><span style="font-size: small;">Quarto de menino: decoração que acompanha o crescimento dele&#8230;</span></a></strong></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2010/11/quarto-de-menino200.jpg"><img class="alignnone size-full wp-image-5550" title="quarto de menino200" src="https://www.trololodemulher.com.br/2010/11/quarto-de-menino200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2010/12/13/quarto-de-menino-decoracao/"><span style="font-size: small;">Quarto de menino: decoração que acompanha o crescimento dele&#8230;</span></a></strong></strong>
       </p>
     </td>
   </tr>
@@ -298,13 +295,13 @@ _Imagens enviadas pela Edna:_<a href="http://www.digsdigs.com/" target="_blank">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Decoracao-Bebe200.jpg"><img class="alignnone size-full wp-image-8193" title="Decoracao Bebe200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Decoracao-Bebe200.jpg" alt="" width="200" height="200" /><br /> </a><a href="http://www.decoracaodacasa.com/decoracao-bebe/" target="_blank"><span style="font-size: small;">Decoração neutra e simples para bebê: dicas, pitacos e inspirações</span></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2011/11/Decoracao-Bebe200.jpg"><img class="alignnone size-full wp-image-8193" title="Decoracao Bebe200" src="https://www.trololodemulher.com.br/2011/11/Decoracao-Bebe200.jpg" alt="" width="200" height="200" /><br /> </a><a href="http://www.decoracaodacasa.com/decoracao-bebe/" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Decoração neutra e simples para bebê: dicas, pitacos e inspirações</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/adesivo-para-parede-de-quarto-infantil-200.jpg"><img class="alignnone size-full wp-image-5067" title="adesivo para parede de quarto infantil 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/adesivo-para-parede-de-quarto-infantil-200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil/" target="_blank"><span style="font-size: small;">Decoração para quarto infantil</span></a></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2010/08/adesivo-para-parede-de-quarto-infantil-200.jpg"><img class="alignnone size-full wp-image-5067" title="adesivo para parede de quarto infantil 200" src="https://www.trololodemulher.com.br/2010/08/adesivo-para-parede-de-quarto-infantil-200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil/" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Decoração para quarto infantil</span></a></strong>
       </p>
     </td>
   </tr>
@@ -314,7 +311,7 @@ _Imagens enviadas pela Edna:_<a href="http://www.digsdigs.com/" target="_blank">
   <tr>
     <td valign="top" width="600">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/gaveta-sob-cama-200.jpg"><img class="alignnone size-full wp-image-4548" title="gaveta sob cama 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/gaveta-sob-cama-200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.decoracaodacasa.com/decoracao-quarto-mae-filho/"><span style="font-size: small;">Decoração de quarto para mãe e filho&#8230;</span></a></strong></strong>
+        <strong><a href="https://www.trololodemulher.com.br/2010/04/gaveta-sob-cama-200.jpg"><img class="alignnone size-full wp-image-4548" title="gaveta sob cama 200" src="https://www.trololodemulher.com.br/2010/04/gaveta-sob-cama-200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.decoracaodacasa.com/decoracao-quarto-mae-filho/"><span style="font-size: small;">Decoração de quarto para mãe e filho&#8230;</span></a></strong></strong>
       </p>
     </td>
   </tr>

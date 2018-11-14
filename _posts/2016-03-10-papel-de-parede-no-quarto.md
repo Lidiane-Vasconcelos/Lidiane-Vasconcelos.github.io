@@ -1,10 +1,7 @@
 ---
-id: 3560
 title: 'Papel de parede no quarto: como decorar?'
-date: 2016-03-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/03/10/papel-de-parede-no-quarto/
 permalink: /2016/03/10/papel-de-parede-no-quarto/
 categories:
   - Quarto
@@ -22,27 +19,27 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12085" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/QUARTO-ENTRADA.jpg" alt="QUARTO-ENTRADA" width="480" height="640" />
+  <img class="alignnone size-full wp-image-12085" src="https://www.trololodemulher.com.br/2016/03/QUARTO-ENTRADA.jpg" alt="QUARTO-ENTRADA" width="480" height="640" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12086" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/QUARTO-ENTRADA2.jpg" alt="QUARTO-ENTRADA[2]" width="640" height="480" />
+  <img class="alignnone size-full wp-image-12086" src="https://www.trololodemulher.com.br/2016/03/QUARTO-ENTRADA2.jpg" alt="QUARTO-ENTRADA[2]" width="640" height="480" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12092" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/QUARTO-PAREDE-JANELA.jpg" alt="QUARTO-PAREDE-JANELA" width="640" height="480" />
+  <img class="alignnone size-full wp-image-12092" src="https://www.trololodemulher.com.br/2016/03/QUARTO-PAREDE-JANELA.jpg" alt="QUARTO-PAREDE-JANELA" width="640" height="480" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12094" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/QUARTO-VISTA-PAREDE-JANELA.jpg" alt="QUARTO-VISTA-PAREDE-JANELA" width="640" height="480" />
+  <img class="alignnone size-full wp-image-12094" src="https://www.trololodemulher.com.br/2016/03/QUARTO-VISTA-PAREDE-JANELA.jpg" alt="QUARTO-VISTA-PAREDE-JANELA" width="640" height="480" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12093" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/QUARTO-PAREDE-MESA-TV.jpg" alt="QUARTO-PAREDE-MESA-TV" width="640" height="480" />
+  <img class="alignnone size-full wp-image-12093" src="https://www.trololodemulher.com.br/2016/03/QUARTO-PAREDE-MESA-TV.jpg" alt="QUARTO-PAREDE-MESA-TV" width="640" height="480" />
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12084" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/QUARTO-ARMARIO-CAMA.jpg" alt="QUARTO-ARMARIO-CAMA" width="640" height="480" />
+  <img class="alignnone size-full wp-image-12084" src="https://www.trololodemulher.com.br/2016/03/QUARTO-ARMARIO-CAMA.jpg" alt="QUARTO-ARMARIO-CAMA" width="640" height="480" />
 </p>
 
 <p align="justify">
@@ -50,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12091" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/QUARTO-PAPEL-DE-PAREDE-COMPOSEI-LISO-ESTAMPADO.jpg" alt="QUARTO-PAPEL DE PAREDE-COMPOSEI-LISO-ESTAMPADO" width="480" height="640" />
+  <img class="alignnone size-full wp-image-12091" src="https://www.trololodemulher.com.br/2016/03/QUARTO-PAPEL-DE-PAREDE-COMPOSEI-LISO-ESTAMPADO.jpg" alt="QUARTO-PAPEL DE PAREDE-COMPOSEI-LISO-ESTAMPADO" width="480" height="640" />
 </p>
 
 <p align="center">
@@ -58,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12087" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/QUARTO-PAPEL-DE-PAREDE-COMPOSEII-ESTAMPADO-ESTAMPADO.jpg" alt="QUARTO-PAPEL DE PAREDE-COMPOSEII-ESTAMPADO-ESTAMPADO" width="480" height="640" />
+  <img class="alignnone size-full wp-image-12087" src="https://www.trololodemulher.com.br/2016/03/QUARTO-PAPEL-DE-PAREDE-COMPOSEII-ESTAMPADO-ESTAMPADO.jpg" alt="QUARTO-PAPEL DE PAREDE-COMPOSEII-ESTAMPADO-ESTAMPADO" width="480" height="640" />
 </p>
 
 <p align="center">
@@ -78,7 +75,7 @@ categories:
 > </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12090" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/QUARTO-PAPEL-DE-PAREDE-COMPOSEIII-FLORAL-LISTRADO-LISO.jpg" alt="QUARTO-PAPEL DE PAREDE-COMPOSEIII-FLORAL-LISTRADO-LISO" width="359" height="796" />
+  <img class="alignnone size-full wp-image-12090" src="https://www.trololodemulher.com.br/2016/03/QUARTO-PAPEL-DE-PAREDE-COMPOSEIII-FLORAL-LISTRADO-LISO.jpg" alt="QUARTO-PAPEL DE PAREDE-COMPOSEIII-FLORAL-LISTRADO-LISO" width="359" height="796" />
 </p>
 
 <p align="center">
@@ -90,27 +87,27 @@ categories:
 > </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12083" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/PAPEL-DE-PAREDE3.jpg" alt="PAPEL DE PAREDE[3]" width="469" height="630" />
+  <img class="alignnone size-full wp-image-12083" src="https://www.trololodemulher.com.br/2016/03/PAPEL-DE-PAREDE3.jpg" alt="PAPEL DE PAREDE[3]" width="469" height="630" />
 </p>
 
 <p align="center">
-  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
+  Via <a href="http://casa.abril.com.br/" target="_blank" rel="noopener noreferrer">Casa Abril</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12081" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/PAPEL-DE-PAREDE.jpg" alt="PAPEL DE PAREDE" width="600" height="450" />
+  <img class="alignnone size-full wp-image-12081" src="https://www.trololodemulher.com.br/2016/03/PAPEL-DE-PAREDE.jpg" alt="PAPEL DE PAREDE" width="600" height="450" />
 </p>
 
 <p align="center">
-  Via <a href="http://radardecoracao.com.br/" target="_blank">Radar Decoração</a>
+  Via <a href="http://radardecoracao.com.br/" target="_blank" rel="noopener noreferrer">Radar Decoração</a>
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12082" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/PAPEL-DE-PAREDE2.jpg" alt="PAPEL DE PAREDE[2]" width="491" height="307" />
+  <img class="alignnone size-full wp-image-12082" src="https://www.trololodemulher.com.br/2016/03/PAPEL-DE-PAREDE2.jpg" alt="PAPEL DE PAREDE[2]" width="491" height="307" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.viaparis.com.br/" target="_blank">Via Paris</a>
+  Via <a href="http://www.viaparis.com.br/" target="_blank" rel="noopener noreferrer">Via Paris</a>
 </p>
 
 > <p align="justify">
@@ -118,11 +115,11 @@ categories:
 > </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12080" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/MOLDURAS-PAREDE.jpg" alt="MOLDURAS-PAREDE" width="300" height="300" />
+  <img class="alignnone size-full wp-image-12080" src="https://www.trololodemulher.com.br/2016/03/MOLDURAS-PAREDE.jpg" alt="MOLDURAS-PAREDE" width="300" height="300" />
 </p>
 
 <p align="center">
-  Via <a href="http://www.santaluziamolduras.com.br/" target="_blank">Santa Luzia Molduras</a>
+  Via <a href="http://www.santaluziamolduras.com.br/" target="_blank" rel="noopener noreferrer">Santa Luzia Molduras</a>
 </p>
 
 > <p align="justify">
@@ -134,7 +131,7 @@ categories:
 > </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12098" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/03/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-DESIGNER-DE-INTERIORES-FLORIANOPOLIS-MARISTELA-LEONEL.jpg" alt="DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-DESIGNER-DE-INTERIORES-FLORIANOPOLIS-MARISTELA-LEONEL" width="800" height="191" />
+  <img class="alignnone size-full wp-image-12098" src="https://www.trololodemulher.com.br/2016/03/DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-DESIGNER-DE-INTERIORES-FLORIANOPOLIS-MARISTELA-LEONEL.jpg" alt="DECORACAO-DECORACAO-DE-INTERIORES-DECORACAO-DE-AMBIENTES-DESIGNER-DE-INTERIORES-FLORIANOPOLIS-MARISTELA-LEONEL" width="800" height="191" />
 </p>
 
 <p align="justify">
@@ -142,15 +139,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cores-decoracao-sala-estar/" target="_blank"><strong>Demonstração: como usar cores vibrantes na sala de estar?</strong></a>
+  <a href="http://www.decoracaodacasa.com/cores-decoracao-sala-estar/" target="_blank" rel="noopener noreferrer"><strong>Demonstração: como usar cores vibrantes na sala de estar?</strong></a>
 </p>
 
 <p align="justify">
-  <strong>Maristela </strong>atua em Florianópolis e região, empregando seu conhecimento para ajudar você na realização do que você sente como sendo seu sonho de morar bem. Você pode contar com a moça para reforma, construção, mobília e decoração residencial ou comercial, tudo de forma personalizada, de acordo com seu estilo. Conheça seu site, sua proposta de trabalho e formas de contato com a <em>designer</em> <a href="http://www.maristelaleonel.com.br/bem-vindo" target="_blank">clicando aqui</a>. Maristela também dispõe de uma página no <em>Facebook</em> onde apresenta seus projetos e compartilha informações. <a href="https://www.facebook.com/maristelaleoneldi/timeline" target="_blank">Eu já curti… vem também</a>!
+  <strong>Maristela </strong>atua em Florianópolis e região, empregando seu conhecimento para ajudar você na realização do que você sente como sendo seu sonho de morar bem. Você pode contar com a moça para reforma, construção, mobília e decoração residencial ou comercial, tudo de forma personalizada, de acordo com seu estilo. Conheça seu site, sua proposta de trabalho e formas de contato com a <em>designer</em> <a href="http://www.maristelaleonel.com.br/bem-vindo" target="_blank" rel="noopener noreferrer">clicando aqui</a>. Maristela também dispõe de uma página no <em>Facebook</em> onde apresenta seus projetos e compartilha informações. <a href="https://www.facebook.com/maristelaleoneldi/timeline" target="_blank" rel="noopener noreferrer">Eu já curti… vem também</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

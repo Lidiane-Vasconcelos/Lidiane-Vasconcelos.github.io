@@ -1,10 +1,7 @@
 ---
-id: 3798
 title: 3 detalhes pra surpreender na decoração da cozinha.
-date: 2017-09-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/09/12/decoracao-da-cozinha-3/
 permalink: /2017/09/12/decoracao-da-cozinha-3/
 categories:
   - Cozinha
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  As ideias reunidas a partir do site <strong><em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em></strong> passam por estratégias diferentes na sua decoração: revestimento, móveis e detalhes decorativos. Escolha a que mais agrada o seu estilo, ou aplique todas, e arranque elogios encantados com o ambiente que você vai compor. Divirta-se!
+  As ideias reunidas a partir do site <strong><em><a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a></em></strong> passam por estratégias diferentes na sua decoração: revestimento, móveis e detalhes decorativos. Escolha a que mais agrada o seu estilo, ou aplique todas, e arranque elogios encantados com o ambiente que você vai compor. Divirta-se!
 </p>
 
 <!--more-->
@@ -62,5 +59,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-14011" src="https://www.trololodemulher.com.br/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>

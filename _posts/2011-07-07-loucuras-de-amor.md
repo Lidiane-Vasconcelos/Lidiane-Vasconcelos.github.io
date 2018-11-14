@@ -1,10 +1,7 @@
 ---
-id: 3017
 title: Você já viveu um amor louco… um louco amor?
-date: 2011-07-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/07/07/loucuras-de-amor/
 permalink: /2011/07/07/loucuras-de-amor/
 categories:
   - Comportamento
@@ -67,7 +64,7 @@ categories:
 > **_Enfim, não me arrependo do que fiz pelo pai dele. E sei que ele aprenderá com a vida. Muito tempo já passou&#8230; Não sei mais nada sobre ele, nem quero saber. Vida que segue. Mas foi terrível passar por isso&#8230;”_**  **leitora anônima**, 30 anos.
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/amor.jpg"><img class="alignnone size-full wp-image-6573" title="amor" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/amor.jpg" alt="" width="600" height="450" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  <a href="https://www.trololodemulher.com.br/2011/06/amor.jpg"><img class="alignnone size-full wp-image-6573" title="amor" src="https://www.trololodemulher.com.br/2011/06/amor.jpg" alt="" width="600" height="450" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank" rel="noopener noreferrer">stock.xchng</a></strong>
 </p>
 
 <p style="text-align: center;">
@@ -103,7 +100,7 @@ categories:
 > </p>
 > 
 > <p style="text-align: justify;">
->   <strong><em>E o mais importante: descobrimos que nesses quase 6 anos o amor só estava escondido debaixo das tristezas. Sacudimos, levantamos a poeira e o amor reapareceu com força total!!!!” </em>Marcia</strong> [<strong><a href="http://vemdesfrutardoamordedeus.blogspot.com/" target="_blank">Vem desfrutar do amor de Deus</a></strong>], 48 anos
+>   <strong><em>E o mais importante: descobrimos que nesses quase 6 anos o amor só estava escondido debaixo das tristezas. Sacudimos, levantamos a poeira e o amor reapareceu com força total!!!!” </em>Marcia</strong> [<strong><a href="http://vemdesfrutardoamordedeus.blogspot.com/" target="_blank" rel="noopener noreferrer">Vem desfrutar do amor de Deus</a></strong>], 48 anos
 > </p>
 
 **Mais no Trololó de Mulher…**
@@ -119,5 +116,5 @@ categories:
 **[Do que a boa conversa pode fazer por um casal.](http://www.trololodemulher.com.br/2009/08/27/conversa-no-relacionamento/)**
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

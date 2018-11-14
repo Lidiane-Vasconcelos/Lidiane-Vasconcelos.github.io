@@ -1,10 +1,7 @@
 ---
-id: 3578
 title: Quer toques de decoração vintage em casa? Veja 7 dicas.
-date: 2016-04-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/04/04/retro-decoracao-vintage/
 permalink: /2016/04/04/retro-decoracao-vintage/
 categories:
   - Dicas de Decoração
@@ -18,11 +15,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12258" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-VINTAGE-RETRO-GARRAFA-ANTIGUIDADE.jpg" alt="DECORACAO-VINTAGE-RETRO-GARRAFA-ANTIGUIDADE" width="800" height="535" />
+  <img class="alignnone size-full wp-image-12258" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-VINTAGE-RETRO-GARRAFA-ANTIGUIDADE.jpg" alt="DECORACAO-VINTAGE-RETRO-GARRAFA-ANTIGUIDADE" width="800" height="535" />
 </p>
 
 <p align="justify">
-  Amei a garrafa antiguinha, dessas encontradas em <a href="http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/" target="_blank">feirinhas de antiguidades</a>. Aliás, nesses lugares a gente acha cada preciosidade! Felei sobre isso em post anterior, <a href="http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/" target="_blank">bem aqui</a>. Você viu?
+  Amei a garrafa antiguinha, dessas encontradas em <a href="http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/" target="_blank" rel="noopener noreferrer">feirinhas de antiguidades</a>. Aliás, nesses lugares a gente acha cada preciosidade! Felei sobre isso em post anterior, <a href="http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/" target="_blank" rel="noopener noreferrer">bem aqui</a>. Você viu?
 </p>
 
 <p align="justify">
@@ -30,11 +27,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12246" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-VINTAGE-RETRO-ELETRODOMESTICO-REVESTIMENTO-PISO-GELADEIRA-LADRILHO-HIDRÁULICO.jpg" alt="DECORACAO-VINTAGE-RETRO-ELETRODOMESTICO-REVESTIMENTO-PISO-GELADEIRA-LADRILHO HIDRÁULICO" width="571" height="800" />
+  <img class="alignnone size-full wp-image-12246" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-VINTAGE-RETRO-ELETRODOMESTICO-REVESTIMENTO-PISO-GELADEIRA-LADRILHO-HIDRÁULICO.jpg" alt="DECORACAO-VINTAGE-RETRO-ELETRODOMESTICO-REVESTIMENTO-PISO-GELADEIRA-LADRILHO HIDRÁULICO" width="571" height="800" />
 </p>
 
 <p align="justify">
-  Como não viver de amores pelo piso que imita uma colcha de retalhos, do tipo <a href="http://www.decoracaodacasa.com/revestimentos-piso-parede/" target="_blank">ladrilho hidráulico – assunto num post sobre revestimentos</a> &#8211; , e a geladeira com um pezinho no passado? É tudo do tempo da vovó!
+  Como não viver de amores pelo piso que imita uma colcha de retalhos, do tipo <a href="http://www.decoracaodacasa.com/revestimentos-piso-parede/" target="_blank" rel="noopener noreferrer">ladrilho hidráulico – assunto num post sobre revestimentos</a> &#8211; , e a geladeira com um pezinho no passado? É tudo do tempo da vovó!
 </p>
 
 <p align="justify">
@@ -42,11 +39,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12255" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-VINTAGE-RETRO-POTES-MANTIMENTOS-ANTIGUIDADE-CHALEIRA-BULE.jpg" alt="DECORACAO-VINTAGE-RETRO-POTES MANTIMENTOS-ANTIGUIDADE-CHALEIRA-BULE" width="800" height="533" />
+  <img class="alignnone size-full wp-image-12255" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-VINTAGE-RETRO-POTES-MANTIMENTOS-ANTIGUIDADE-CHALEIRA-BULE.jpg" alt="DECORACAO-VINTAGE-RETRO-POTES MANTIMENTOS-ANTIGUIDADE-CHALEIRA-BULE" width="800" height="533" />
 </p>
 
 <p align="justify">
-  Preparar a refeição da família rodeada de pitadas de charme como um bule de ágata reutilizado (a propósito, espie mais <a href="http://www.decoracaodacasa.com/objetos-decoracao-organizacao/" target="_blank">ideias de reutilização para decoração e organização da casa</a>) como vaso de flores, ou uma chaleira com cheirinho de passado, como essa, é outra coisa, <em>né</em> não? E esse jogo de mantimentos, gente? Suspirei…
+  Preparar a refeição da família rodeada de pitadas de charme como um bule de ágata reutilizado (a propósito, espie mais <a href="http://www.decoracaodacasa.com/objetos-decoracao-organizacao/" target="_blank" rel="noopener noreferrer">ideias de reutilização para decoração e organização da casa</a>) como vaso de flores, ou uma chaleira com cheirinho de passado, como essa, é outra coisa, <em>né</em> não? E esse jogo de mantimentos, gente? Suspirei…
 </p>
 
 <p align="justify">
@@ -54,7 +51,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12253" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-VINTAGE-RETRO-PANOS-DE-PRATO.jpg" alt="DECORACAO-VINTAGE-RETRO-PANOS DE PRATO" width="571" height="800" />
+  <img class="alignnone size-full wp-image-12253" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-VINTAGE-RETRO-PANOS-DE-PRATO.jpg" alt="DECORACAO-VINTAGE-RETRO-PANOS DE PRATO" width="571" height="800" />
 </p>
 
 <p align="justify">
@@ -66,11 +63,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12244" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-VINTAGE-RETRO.jpg" alt="DECORACAO-VINTAGE-RETRO" width="800" height="533" />
+  <img class="alignnone size-full wp-image-12244" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-VINTAGE-RETRO.jpg" alt="DECORACAO-VINTAGE-RETRO" width="800" height="533" />
 </p>
 
 <p align="justify">
-  Essa é a dona desse apartamento que está nos inspirando tanto. Ela se chama Caroline Rowland, e tem um blog inteiro pra você explorar, o <a href="http://www.patchworkharmony.co.uk/blog" target="_blank">Patchwork Harmony</a>. Fica a dica!
+  Essa é a dona desse apartamento que está nos inspirando tanto. Ela se chama Caroline Rowland, e tem um blog inteiro pra você explorar, o <a href="http://www.patchworkharmony.co.uk/blog" target="_blank" rel="noopener noreferrer">Patchwork Harmony</a>. Fica a dica!
 </p>
 
 <p align="justify">
@@ -78,7 +75,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12245" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-VINTAGE-RETRO-CORTINA-FLORES-REGADOR.jpg" alt="DECORACAO-VINTAGE-RETRO-CORTINA-FLORES-REGADOR" width="800" height="571" />
+  <img class="alignnone size-full wp-image-12245" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-VINTAGE-RETRO-CORTINA-FLORES-REGADOR.jpg" alt="DECORACAO-VINTAGE-RETRO-CORTINA-FLORES-REGADOR" width="800" height="571" />
 </p>
 
 <p align="justify">
@@ -90,7 +87,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12252" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-VINTAGE-RETRO-LETRAS-TECIDO.jpg" alt="DECORACAO-VINTAGE-RETRO-LETRAS-TECIDO" width="800" height="533" />
+  <img class="alignnone size-full wp-image-12252" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-VINTAGE-RETRO-LETRAS-TECIDO.jpg" alt="DECORACAO-VINTAGE-RETRO-LETRAS-TECIDO" width="800" height="533" />
 </p>
 
 <p align="justify">
@@ -102,7 +99,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12254" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/04/DECORACAO-VINTAGE-RETRO-PAPEL-DE-PAREDE.jpg" alt="DECORACAO-VINTAGE-RETRO-PAPEL DE PAREDE" width="800" height="533" />
+  <img class="alignnone size-full wp-image-12254" src="https://www.trololodemulher.com.br/2016/04/DECORACAO-VINTAGE-RETRO-PAPEL-DE-PAREDE.jpg" alt="DECORACAO-VINTAGE-RETRO-PAPEL DE PAREDE" width="800" height="533" />
 </p>
 
 <p align="justify">
@@ -110,11 +107,11 @@ categories:
 </p>
 
 <p align="justify">
-  Ficou com vontade de explorar ainda mais a casa da Caroline? Se joga <a href="http://www.apartmenttherapy.com/caroline-simons-modern-vintage-maisonette-in-london-house-tour-219847?utm_campaign=Apartment+Therapy+61615-+The+Biggest+Reason+Youre+Still+Drowning+in+Clutter+And+What+to+Do&utm_content=Apartment+Therapy+61615-+The+Biggest+Reason+Youre+Still+Drowning+in+Clutter+And+What+to+Do+CID_4022aac23b67cecbc7d1c48bb27f500a&utm_medium=email&utm_source=email_newsletter&utm_term=House+Tour+Caroline++Simons+Modern+Vintage+Maisonette+in+London" target="_blank">bem aqui, no Apartment Therapy</a>, porque há muito mais fotos pra você espiar, viu?
+  Ficou com vontade de explorar ainda mais a casa da Caroline? Se joga <a href="http://www.apartmenttherapy.com/caroline-simons-modern-vintage-maisonette-in-london-house-tour-219847?utm_campaign=Apartment+Therapy+61615-+The+Biggest+Reason+Youre+Still+Drowning+in+Clutter+And+What+to+Do&utm_content=Apartment+Therapy+61615-+The+Biggest+Reason+Youre+Still+Drowning+in+Clutter+And+What+to+Do+CID_4022aac23b67cecbc7d1c48bb27f500a&utm_medium=email&utm_source=email_newsletter&utm_term=House+Tour+Caroline++Simons+Modern+Vintage+Maisonette+in+London" target="_blank" rel="noopener noreferrer">bem aqui, no Apartment Therapy</a>, porque há muito mais fotos pra você espiar, viu?
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

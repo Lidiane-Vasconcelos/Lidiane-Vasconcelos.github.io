@@ -1,10 +1,7 @@
 ---
-id: 3730
 title: 'Sopa de lentilhas: comida boa e prosperidade o ano todo!'
-date: 2017-02-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2017/02/21/sopa-de-lentilhas/
 permalink: /2017/02/21/sopa-de-lentilhas/
 categories:
   - Receitas
@@ -14,7 +11,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13506" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/RECEITA-FACIL-RECEITA-PRATICA-SOPA-DE-LENTILHA.jpg" alt="RECEITA FACIL-RECEITA PRATICA-SOPA DE LENTILHA" width="800" height="1206" />
+  <img class="alignnone size-full wp-image-13506" src="https://www.trololodemulher.com.br/2017/02/RECEITA-FACIL-RECEITA-PRATICA-SOPA-DE-LENTILHA.jpg" alt="RECEITA FACIL-RECEITA PRATICA-SOPA DE LENTILHA" width="800" height="1206" />
 </p>
 
 <p style="text-align: justify;">
@@ -28,7 +25,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13507" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/02/RECEITA-FACIL-RECEITA-PRATICA-SOPA-DE-LENTILHA2.jpg" alt="RECEITA FACIL-RECEITA PRATICA-SOPA DE LENTILHA[2]" width="800" height="534" />
+  <img class="alignnone size-full wp-image-13507" src="https://www.trololodemulher.com.br/2017/02/RECEITA-FACIL-RECEITA-PRATICA-SOPA-DE-LENTILHA2.jpg" alt="RECEITA FACIL-RECEITA PRATICA-SOPA DE LENTILHA[2]" width="800" height="534" />
 </p>
 
 &nbsp;
@@ -66,7 +63,7 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13037" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/TANIA-TEVA-I-WANT-TO-BE-A-COOK-RECEITAS.jpg" alt="tania-teva-i-want-to-be-a-cook-receitas" width="800" height="154" />
+  <img class="alignnone size-full wp-image-13037" src="https://www.trololodemulher.com.br/2016/10/TANIA-TEVA-I-WANT-TO-BE-A-COOK-RECEITAS.jpg" alt="tania-teva-i-want-to-be-a-cook-receitas" width="800" height="154" />
 </p>
 
 <p align="justify">
@@ -74,23 +71,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/02/14/pao-caseiro/" target="_blank"><strong>Receita de pão caseiro de abobrinha… das mais fáceis!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/02/14/pao-caseiro/" target="_blank" rel="noopener noreferrer"><strong>Receita de pão caseiro de abobrinha… das mais fáceis!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/02/07/abobora-assada/" target="_blank"><strong>Abóbora assada com cebolas: bonito, saudável e gostoso!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/02/07/abobora-assada/" target="_blank" rel="noopener noreferrer"><strong>Abóbora assada com cebolas: bonito, saudável e gostoso!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/11/23/biscoitos-amaretti-com-gostinho-de-familia/" target="_blank"><strong>Biscoistos Amaretti, com gostinho de família.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/11/23/biscoitos-amaretti-com-gostinho-de-familia/" target="_blank" rel="noopener noreferrer"><strong>Biscoistos Amaretti, com gostinho de família.</strong></a>
 </p>
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no <strong>Instagram</strong>… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank" rel="noopener noreferrer">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no <strong>Instagram</strong>… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank" rel="noopener noreferrer">clique aqui e siga!</a> Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

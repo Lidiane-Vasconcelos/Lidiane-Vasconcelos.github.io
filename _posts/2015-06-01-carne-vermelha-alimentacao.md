@@ -1,16 +1,13 @@
 ---
-id: 3430
 title: 'Carne vermelha: culpada ou inocente?'
-date: 2015-06-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/06/01/carne-vermelha-alimentacao/
 permalink: /2015/06/01/carne-vermelha-alimentacao/
 categories:
   - Saúde
 ---
 <p align="justify">
-  Dia desses o porco andou recebendo muitos elogios por aqui, no post que desvendou os <a href="http://www.trololodemulher.com.br/2015/03/09/carne-de-porco/" target="_blank">mitos em torno da carme suína</a>… você viu? Pois é, agora é a vez da vaca dar as caras no blog, e a gente precisa ter uma conversa séria e entender o que essa carne vermelha tem que pode fazer mal a saúde. Aliás, vamos esclarecer sob quais circunstâncias isso acontece, certo? Sabemos até demais: informação salva! Tudo depende de fazermos as melhores escolhas, e no final, tudo acaba bem.
+  Dia desses o porco andou recebendo muitos elogios por aqui, no post que desvendou os <a href="http://www.trololodemulher.com.br/2015/03/09/carne-de-porco/" target="_blank" rel="noopener noreferrer">mitos em torno da carme suína</a>… você viu? Pois é, agora é a vez da vaca dar as caras no blog, e a gente precisa ter uma conversa séria e entender o que essa carne vermelha tem que pode fazer mal a saúde. Aliás, vamos esclarecer sob quais circunstâncias isso acontece, certo? Sabemos até demais: informação salva! Tudo depende de fazermos as melhores escolhas, e no final, tudo acaba bem.
 </p>
 
 <p align="justify">
@@ -22,11 +19,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA3.jpg"><img class="alignnone size-full wp-image-10989" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA3.jpg" alt="SAUDE-ALIMENTACAO-NUTRICAO-CARNE VERMELHA-CARNE BOVINA-CARNE DE BOI-CARNE DE VACA[3]" width="640" height="434" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA3.jpg"><img class="alignnone size-full wp-image-10989" src="https://www.trololodemulher.com.br/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA3.jpg" alt="SAUDE-ALIMENTACAO-NUTRICAO-CARNE VERMELHA-CARNE BOVINA-CARNE DE BOI-CARNE DE VACA[3]" width="640" height="434" /></a>
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.thrillist.com/eat/nation/butchers-share-their-favorite-steaks" target="_blank">Thrillist</a>
+  Imagem: <a href="http://www.thrillist.com/eat/nation/butchers-share-their-favorite-steaks" target="_blank" rel="noopener noreferrer">Thrillist</a>
 </p>
 
 <p align="justify">
@@ -46,7 +43,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA5.png"><img class="alignnone size-full wp-image-10992" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA5.png" alt="SAUDE-ALIMENTACAO-NUTRICAO-CARNE VERMELHA-CARNE BOVINA-CARNE DE BOI-CARNE DE VACA[5]" width="618" height="86" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA5.png"><img class="alignnone size-full wp-image-10992" src="https://www.trololodemulher.com.br/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA5.png" alt="SAUDE-ALIMENTACAO-NUTRICAO-CARNE VERMELHA-CARNE BOVINA-CARNE DE BOI-CARNE DE VACA[5]" width="618" height="86" /></a>
 </p>
 
 > <p align="justify">
@@ -54,7 +51,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA6.png"><img class="alignnone size-full wp-image-10993" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA6.png" alt="SAUDE-ALIMENTACAO-NUTRICAO-CARNE VERMELHA-CARNE BOVINA-CARNE DE BOI-CARNE DE VACA[6]" width="605" height="86" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA6.png"><img class="alignnone size-full wp-image-10993" src="https://www.trololodemulher.com.br/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA6.png" alt="SAUDE-ALIMENTACAO-NUTRICAO-CARNE VERMELHA-CARNE BOVINA-CARNE DE BOI-CARNE DE VACA[6]" width="605" height="86" /></a>
 </p>
 
 > <p align="justify">
@@ -62,11 +59,11 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA.png"><img class="alignnone size-full wp-image-10987" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA.png" alt="SAUDE-ALIMENTACAO-NUTRICAO-CARNE VERMELHA-CARNE BOVINA-CARNE DE BOI-CARNE DE VACA" width="800" height="551" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA.png"><img class="alignnone size-full wp-image-10987" src="https://www.trololodemulher.com.br/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA.png" alt="SAUDE-ALIMENTACAO-NUTRICAO-CARNE VERMELHA-CARNE BOVINA-CARNE DE BOI-CARNE DE VACA" width="800" height="551" /></a>
 </p>
 
 <p align="center">
-  Imagem: abacaxi {<a href="http://society6.com/" target="_blank">Society6</a>} e o mamão {<a href="http://jamestolich.com/" target="_blank">James Tolich</a>}
+  Imagem: abacaxi {<a href="http://society6.com/" target="_blank" rel="noopener noreferrer">Society6</a>} e o mamão {<a href="http://jamestolich.com/" target="_blank" rel="noopener noreferrer">James Tolich</a>}
 </p>
 
 > <p align="justify">
@@ -82,7 +79,7 @@ categories:
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA2.png"><img class="alignnone size-full wp-image-10988" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA2.png" alt="SAUDE-ALIMENTACAO-NUTRICAO-CARNE VERMELHA-CARNE BOVINA-CARNE DE BOI-CARNE DE VACA[2]" width="682" height="800" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA2.png"><img class="alignnone size-full wp-image-10988" src="https://www.trololodemulher.com.br/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA2.png" alt="SAUDE-ALIMENTACAO-NUTRICAO-CARNE VERMELHA-CARNE BOVINA-CARNE DE BOI-CARNE DE VACA[2]" width="682" height="800" /></a>
 </p>
 
 <p align="center">
@@ -98,7 +95,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA4.jpg"><img class="alignnone size-full wp-image-10991" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA4.jpg" alt="SAUDE-ALIMENTACAO-NUTRICAO-CARNE VERMELHA-CARNE BOVINA-CARNE DE BOI-CARNE DE VACA[4]" width="460" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA4.jpg"><img class="alignnone size-full wp-image-10991" src="https://www.trololodemulher.com.br/2015/05/SAUDE-ALIMENTACAO-NUTRICAO-CARNE-VERMELHA-CARNE-BOVINA-CARNE-DE-BOI-CARNE-DE-VACA4.jpg" alt="SAUDE-ALIMENTACAO-NUTRICAO-CARNE VERMELHA-CARNE BOVINA-CARNE DE BOI-CARNE DE VACA[4]" width="460" height="300" /></a>
 </p>
 
 #### 
@@ -174,7 +171,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/FABIANA-CARVALHO-NUTRICIONISTA-RIO-DE-JANEIRO.png"><img class="alignnone size-full wp-image-10797" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/02/FABIANA-CARVALHO-NUTRICIONISTA-RIO-DE-JANEIRO.png" alt="FABIANA CARVALHO-NUTRICIONISTA-RIO DE JANEIRO" width="800" height="205" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/02/FABIANA-CARVALHO-NUTRICIONISTA-RIO-DE-JANEIRO.png"><img class="alignnone size-full wp-image-10797" src="https://www.trololodemulher.com.br/2015/02/FABIANA-CARVALHO-NUTRICIONISTA-RIO-DE-JANEIRO.png" alt="FABIANA CARVALHO-NUTRICIONISTA-RIO DE JANEIRO" width="800" height="205" /></a>
 </p>
 
 <p align="justify">
@@ -182,15 +179,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/02/27/alimentacao-gravidez-nutricao/" target="_blank"><strong>Alimentação na gravidez: saúde para mamãe e bebê.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/02/27/alimentacao-gravidez-nutricao/" target="_blank" rel="noopener noreferrer"><strong>Alimentação na gravidez: saúde para mamãe e bebê.</strong></a>
 </p>
 
 <p align="justify">
-  Fabiana é uma nutricionista querida que conheço de longa data. Além de competente, a moça esbanja simpatia e é super acessível. Para encontrá-la na cidade do Rio de Janeiro, seus contatos são: (21) 981363498 | E-mail:<a href="mailto:fabicarvalhos@globo.com">fabicarvalhos@globo.com</a> | ou ainda <a href="http://www.facebook.com.br/fabicarvalhos" target="_blank">via Facebbok… clique aqui e se joga</a>!
+  Fabiana é uma nutricionista querida que conheço de longa data. Além de competente, a moça esbanja simpatia e é super acessível. Para encontrá-la na cidade do Rio de Janeiro, seus contatos são: (21) 981363498 | E-mail:<a href="mailto:fabicarvalhos@globo.com">fabicarvalhos@globo.com</a> | ou ainda <a href="http://www.facebook.com.br/fabicarvalhos" target="_blank" rel="noopener noreferrer">via Facebbok… clique aqui e se joga</a>!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

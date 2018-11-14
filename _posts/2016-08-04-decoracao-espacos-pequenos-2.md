@@ -1,10 +1,7 @@
 ---
-id: 3635
 title: Saiba 3 erros cometidos na decoração de espaços pequenos.
-date: 2016-08-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2016/08/04/decoracao-espacos-pequenos-2/
 permalink: /2016/08/04/decoracao-espacos-pequenos-2/
 categories:
   - Decoração
@@ -27,7 +24,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2014/06/30/caixas-organizacao-casa/" target="_blank"><strong>Caixas: 5 soluções de organização da casa.</strong></a>
+  <a href="http://www.bichafemea.com/2014/06/30/caixas-organizacao-casa/" target="_blank" rel="noopener noreferrer"><strong>Caixas: 5 soluções de organização da casa.</strong></a>
 </p>
 
 <p align="justify">
@@ -35,11 +32,11 @@ categories:
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-12725" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/DECORACAO-ESPAÇOS-PEQUENOS-ERROS-DÚVIDAS.jpg" alt="DECORACAO-ESPAÇOS PEQUENOS-ERROS-DÚVIDAS" width="800" height="505" />
+  <img class="alignnone size-full wp-image-12725" src="https://www.trololodemulher.com.br/2016/08/DECORACAO-ESPAÇOS-PEQUENOS-ERROS-DÚVIDAS.jpg" alt="DECORACAO-ESPAÇOS PEQUENOS-ERROS-DÚVIDAS" width="800" height="505" />
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">FreeImages</a>
+  Imagem: <a href="http://www.freeimages.com/" target="_blank" rel="noopener noreferrer">FreeImages</a>
 </p>
 
 <p align="justify">
@@ -51,15 +48,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/movel-funcional-sala-pequena/" target="_blank"><strong>Móvel funcional na sua sala de estar pequena é a melhor escolha.</strong></a>
+  <a href="http://www.decoracaodacasa.com/movel-funcional-sala-pequena/" target="_blank" rel="noopener noreferrer"><strong>Móvel funcional na sua sala de estar pequena é a melhor escolha.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2012/10/10/decoracao-sala-estar-pequena/" target="_blank"><strong>Truques de decoração para sala de estar pequena: aprenda todos!</strong></a>
+  <a href="http://www.bichafemea.com/2012/10/10/decoracao-sala-estar-pequena/" target="_blank" rel="noopener noreferrer"><strong>Truques de decoração para sala de estar pequena: aprenda todos!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2012/07/16/sala-jantar-pequena-cottage/" target="_blank"><strong>Sala de jantar pequena no estilo cottage: dá para ter uma?</strong></a>
+  <a href="http://www.bichafemea.com/2012/07/16/sala-jantar-pequena-cottage/" target="_blank" rel="noopener noreferrer"><strong>Sala de jantar pequena no estilo cottage: dá para ter uma?</strong></a>
 </p>
 
 <p align="justify">
@@ -67,15 +64,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/ganhar-espaco-quarto-pequeno/" target="_blank"><strong>Como ganhar (e não perder) espaços em quartos pequenos?</strong></a>
+  <a href="http://www.decoracaodacasa.com/ganhar-espaco-quarto-pequeno/" target="_blank" rel="noopener noreferrer"><strong>Como ganhar (e não perder) espaços em quartos pequenos?</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-de-quarto-pequeno/" target="_blank"><strong>Decoração de quarto pequeno: 2 dicas para ampliá-lo visualmente.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-de-quarto-pequeno/" target="_blank" rel="noopener noreferrer"><strong>Decoração de quarto pequeno: 2 dicas para ampliá-lo visualmente.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2011/05/11/quarto-pequeno-decoracao/" target="_blank"><strong>Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?</strong></a>
+  <a href="http://www.bichafemea.com/2011/05/11/quarto-pequeno-decoracao/" target="_blank" rel="noopener noreferrer"><strong>Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?</strong></a>
 </p>
 
 <p align="justify">
@@ -83,19 +80,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank"><strong>Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</strong></a>
+  <a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank" rel="noopener noreferrer"><strong>Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-banheiro/" target="_blank"><strong>Dicas e imagens: como maximizar o banheiro.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-banheiro/" target="_blank" rel="noopener noreferrer"><strong>Dicas e imagens: como maximizar o banheiro.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank"><strong>Decoração de banheiro pequeno para poupar e ganhar espaço: veja 4 dicas.</strong></a>
+  <a href="http://www.bichafemea.com/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank" rel="noopener noreferrer"><strong>Decoração de banheiro pequeno para poupar e ganhar espaço: veja 4 dicas.</strong></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2011/10/05/decoracao-banheiro-pequeno/" target="_blank"><strong>4 ideias para decoração de banheiro pequeno.</strong></a>
+  <a href="http://www.bichafemea.com/2011/10/05/decoracao-banheiro-pequeno/" target="_blank" rel="noopener noreferrer"><strong>4 ideias para decoração de banheiro pequeno.</strong></a>
 </p>
 
 <p align="justify">
@@ -103,7 +100,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2012/03/28/cozinha-apartamento-pequeno/" target="_blank"><strong>Cozinha moderna em apartamento pequeno: tem jeito?</strong></a>
+  <a href="http://www.bichafemea.com/2012/03/28/cozinha-apartamento-pequeno/" target="_blank" rel="noopener noreferrer"><strong>Cozinha moderna em apartamento pequeno: tem jeito?</strong></a>
 </p>
 
 <p align="justify">
@@ -115,11 +112,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2011/04/01/bagunca-organizacao/" target="_blank"><strong>Siga 10 passos e o canto da bagunça deixará de existir!</strong></a>
+  <a href="http://www.bichafemea.com/2011/04/01/bagunca-organizacao/" target="_blank" rel="noopener noreferrer"><strong>Siga 10 passos e o canto da bagunça deixará de existir!</strong></a>
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

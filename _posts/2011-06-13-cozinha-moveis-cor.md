@@ -1,10 +1,7 @@
 ---
-id: 3009
 title: Colorido nos armários da cozinha…fica bonito e inspirador!
-date: 2011-06-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2011/06/13/cozinha-moveis-cor/
 permalink: /2011/06/13/cozinha-moveis-cor/
 categories:
   - Cozinha
@@ -14,13 +11,13 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  A <strong>Margaret</strong>, do blog <strong><a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a></strong>, decidiu que queria brincar com as cores na cozinha dela também, e o resultado foi um banho de azul que, indiscutivelmente, trouxe muita alegria a esse canto da casa… olha só!
+  A <strong>Margaret</strong>, do blog <strong><a href="http://www.margaretss.com.br/" target="_blank" rel="noopener noreferrer">Margaretss</a></strong>, decidiu que queria brincar com as cores na cozinha dela também, e o resultado foi um banho de azul que, indiscutivelmente, trouxe muita alegria a esse canto da casa… olha só!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/cozinha-moveis-armarios-cor1.jpg"><img class="alignnone size-full wp-image-6502" title="cozinha móveis armários cor[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/cozinha-moveis-armarios-cor1.jpg" alt="" width="582" height="438" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/cozinha-moveis-armarios-cor1.jpg"><img class="alignnone size-full wp-image-6502" title="cozinha móveis armários cor[1]" src="https://www.trololodemulher.com.br/2011/06/cozinha-moveis-armarios-cor1.jpg" alt="" width="582" height="438" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -32,7 +29,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/cozinha-moveis-armarios-cor.jpg"><img class="alignnone size-full wp-image-6501" title="cozinha móveis armários cor" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/cozinha-moveis-armarios-cor.jpg" alt="" width="360" height="480" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/cozinha-moveis-armarios-cor.jpg"><img class="alignnone size-full wp-image-6501" title="cozinha móveis armários cor" src="https://www.trololodemulher.com.br/2011/06/cozinha-moveis-armarios-cor.jpg" alt="" width="360" height="480" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -40,15 +37,15 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/cozinha-moveis-armarios-cor2.jpg"><img class="alignnone size-full wp-image-6503" title="cozinha móveis armários cor[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/cozinha-moveis-armarios-cor2.jpg" alt="" width="360" height="480" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/cozinha-moveis-armarios-cor2.jpg"><img class="alignnone size-full wp-image-6503" title="cozinha móveis armários cor[2]" src="https://www.trololodemulher.com.br/2011/06/cozinha-moveis-armarios-cor2.jpg" alt="" width="360" height="480" /></a>
 </p>
 
 <p style="text-align: justify;">
-  O tom <strong>amarelo</strong> bem clarinho, como o da imagem acima para sua inspiração, foi o que escolhi para meus armários também. Se você ainda não viu o tom de meus armários, ele está no post onde tratamos de <strong><a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/" target="_blank">revestimentos de cozinha</a></strong>. Para quem quer cor, mas com suavidade, fica a dica!
+  O tom <strong>amarelo</strong> bem clarinho, como o da imagem acima para sua inspiração, foi o que escolhi para meus armários também. Se você ainda não viu o tom de meus armários, ele está no post onde tratamos de <strong><a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/" target="_blank" rel="noopener noreferrer">revestimentos de cozinha</a></strong>. Para quem quer cor, mas com suavidade, fica a dica!
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/cozinha-moveis-armarios-cor3.jpg"><img class="alignnone size-full wp-image-6504" title="cozinha móveis armários cor[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/cozinha-moveis-armarios-cor3.jpg" alt="" width="360" height="400" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/cozinha-moveis-armarios-cor3.jpg"><img class="alignnone size-full wp-image-6504" title="cozinha móveis armários cor[3]" src="https://www.trololodemulher.com.br/2011/06/cozinha-moveis-armarios-cor3.jpg" alt="" width="360" height="400" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -56,7 +53,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/cozinha-moveis-armarios-cor4.jpg"><img class="alignnone size-full wp-image-6505" title="cozinha móveis armários cor[4]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/cozinha-moveis-armarios-cor4.jpg" alt="" width="360" height="300" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/cozinha-moveis-armarios-cor4.jpg"><img class="alignnone size-full wp-image-6505" title="cozinha móveis armários cor[4]" src="https://www.trololodemulher.com.br/2011/06/cozinha-moveis-armarios-cor4.jpg" alt="" width="360" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -64,7 +61,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/cozinha-moveis-armarios-cor5.jpg"><img class="alignnone size-full wp-image-6506" title="cozinha móveis armários cor[5]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/cozinha-moveis-armarios-cor5.jpg" alt="" width="360" height="360" /></a>
+  <a href="https://www.trololodemulher.com.br/2011/06/cozinha-moveis-armarios-cor5.jpg"><img class="alignnone size-full wp-image-6506" title="cozinha móveis armários cor[5]" src="https://www.trololodemulher.com.br/2011/06/cozinha-moveis-armarios-cor5.jpg" alt="" width="360" height="360" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -75,12 +72,12 @@ categories:
   E agora, bonita? Qual sua cor preferida, <em>hein</em>?!
 </p>
 
-Imagens: **<a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>**
+Imagens: **<a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>**
 
 &nbsp;
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

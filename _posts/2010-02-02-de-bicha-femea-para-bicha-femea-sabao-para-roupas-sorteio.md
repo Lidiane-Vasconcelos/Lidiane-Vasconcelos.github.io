@@ -1,10 +1,7 @@
 ---
-id: 2778
 title: 'De bicha fêmea para bicha fêmea: sabão para roupas + sorteio.'
-date: 2010-02-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2010/02/02/de-bicha-femea-para-bicha-femea-sabao-para-roupas-sorteio/
 permalink: /2010/02/02/de-bicha-femea-para-bicha-femea-sabao-para-roupas-sorteio/
 categories:
   - Promoção
@@ -17,7 +14,7 @@ Isto posto, deixa eu te contar uma coisa que aconteceu dias atrás. Recebi um co
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC02122-leve.jpg"><img class="aligncenter size-medium wp-image-4225" title="DSC02122 leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC02122-leve-200x300.jpg" alt="" width="200" height="300" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/DSC02122-leve.jpg"><img class="aligncenter size-medium wp-image-4225" title="DSC02122 leve" src="https://www.trololodemulher.com.br/2010/01/DSC02122-leve-200x300.jpg" alt="" width="200" height="300" /></a>
     </td>
   </tr>
 </table>
@@ -39,7 +36,7 @@ Quanto ao resultado final e de forma geral, eu percebi um resultado idêntico ao
 <table align="center">
   <tr>
     <td>
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC02123-leve.jpg"><img class="aligncenter size-medium wp-image-4226" title="DSC02123 leve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/DSC02123-leve-300x200.jpg" alt="" width="300" height="200" /></a>
+      <a href="https://www.trololodemulher.com.br/2010/01/DSC02123-leve.jpg"><img class="aligncenter size-medium wp-image-4226" title="DSC02123 leve" src="https://www.trololodemulher.com.br/2010/01/DSC02123-leve-300x200.jpg" alt="" width="300" height="200" /></a>
     </td>
   </tr>
 </table>

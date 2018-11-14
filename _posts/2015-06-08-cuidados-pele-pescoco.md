@@ -1,10 +1,7 @@
 ---
-id: 3432
 title: 'Cuidados com a pele do pescoço: você não esqueceu, certo?'
-date: 2015-06-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
-guid: http://localhost/wordpress/2015/06/08/cuidados-pele-pescoco/
 permalink: /2015/06/08/cuidados-pele-pescoco/
 categories:
   - Beleza
@@ -18,7 +15,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/BELEZA-BELEZA-DA-PELE-CUIDADOS-COM-A-PELE-PESCOÇO.jpg"><img class="alignnone size-full wp-image-11008" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/BELEZA-BELEZA-DA-PELE-CUIDADOS-COM-A-PELE-PESCOÇO.jpg" alt="BELEZA-BELEZA DA PELE-CUIDADOS COM A PELE-PESCOÇO" width="600" height="600" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/BELEZA-BELEZA-DA-PELE-CUIDADOS-COM-A-PELE-PESCOÇO.jpg"><img class="alignnone size-full wp-image-11008" src="https://www.trololodemulher.com.br/2015/06/BELEZA-BELEZA-DA-PELE-CUIDADOS-COM-A-PELE-PESCOÇO.jpg" alt="BELEZA-BELEZA DA PELE-CUIDADOS COM A PELE-PESCOÇO" width="600" height="600" /></a>
 </p>
 
 <p align="center">
@@ -38,7 +35,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/DRA-MARCELLA-LEDO-DERMATOLOGISTA-JUNDIAI-SP2.png"><img class="alignnone size-full wp-image-11011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/DRA-MARCELLA-LEDO-DERMATOLOGISTA-JUNDIAI-SP2.png" alt="DRA MARCELLA LEDO-DERMATOLOGISTA-JUNDIAI-SP[2]" width="800" height="77" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/DRA-MARCELLA-LEDO-DERMATOLOGISTA-JUNDIAI-SP2.png"><img class="alignnone size-full wp-image-11011" src="https://www.trololodemulher.com.br/2015/06/DRA-MARCELLA-LEDO-DERMATOLOGISTA-JUNDIAI-SP2.png" alt="DRA MARCELLA LEDO-DERMATOLOGISTA-JUNDIAI-SP[2]" width="800" height="77" /></a>
 </p>
 
 <p align="justify">
@@ -46,15 +43,15 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/DRA-MARCELLA-LEDO-DERMATOLOGISTA-JUNDIAI-SP.png"><img class="alignnone size-full wp-image-11010" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2015/06/DRA-MARCELLA-LEDO-DERMATOLOGISTA-JUNDIAI-SP.png" alt="DRA MARCELLA LEDO-DERMATOLOGISTA-JUNDIAI-SP" width="800" height="181" /></a>
+  <a href="https://www.trololodemulher.com.br/2015/06/DRA-MARCELLA-LEDO-DERMATOLOGISTA-JUNDIAI-SP.png"><img class="alignnone size-full wp-image-11010" src="https://www.trololodemulher.com.br/2015/06/DRA-MARCELLA-LEDO-DERMATOLOGISTA-JUNDIAI-SP.png" alt="DRA MARCELLA LEDO-DERMATOLOGISTA-JUNDIAI-SP" width="800" height="181" /></a>
 </p>
 
 <p align="justify">
-  A Dra. Marcella Ledo dispõe de um site que está em construção e, logo logo, terá muitas novidades. Você pode acessá-lo <a href="http://www.marcellaledo.com.br/" target="_blank">clicando aqui</a>. Além do mais, não perca suas dicas sobre pele, cabelos e unhas, todas sendo atualizadas e compartilhadas pela médica em sua <a href="https://www.facebook.com/marcellaledodermato/timeline" target="_blank">página no Facebook, bem aqui</a>. Eu, que não sou boba, já curti. Vem também?! Aproveite!
+  A Dra. Marcella Ledo dispõe de um site que está em construção e, logo logo, terá muitas novidades. Você pode acessá-lo <a href="http://www.marcellaledo.com.br/" target="_blank" rel="noopener noreferrer">clicando aqui</a>. Além do mais, não perca suas dicas sobre pele, cabelos e unhas, todas sendo atualizadas e compartilhadas pela médica em sua <a href="https://www.facebook.com/marcellaledodermato/timeline" target="_blank" rel="noopener noreferrer">página no Facebook, bem aqui</a>. Eu, que não sou boba, já curti. Vem também?! Aproveite!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">
