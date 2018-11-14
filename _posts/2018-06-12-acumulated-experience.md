@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Accumulated experience of social living"
 author: Lidiane
 categories: [ Jekyll, tutorial ]

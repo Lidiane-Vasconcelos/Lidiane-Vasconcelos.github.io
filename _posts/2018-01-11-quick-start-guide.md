@@ -1,7 +1,6 @@
 ---
-layout: post
 title:  "Quick Start Guide"
-author: Lidiane
+description:  "Quick Start Guide description"author: Lidiane
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
 featured: true

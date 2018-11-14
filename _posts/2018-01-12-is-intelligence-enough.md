@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "External Featured Image"
 author: Lidiane
 categories: [ Jekyll, tutorial ]

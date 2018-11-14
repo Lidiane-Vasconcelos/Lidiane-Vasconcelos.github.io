@@ -1,0 +1,52 @@
+---
+title: 'Decoração com cortina sem costura&#8230; e bem barata!'
+author: Lidiane
+layout: post
+permalink: /2014/02/27/decoracao-cortina-sem-costura/
+categories:
+  - Decoração
+  - Faça Você Mesma
+---
+<p style="text-align: justify;">
+  Já disse o quanto eu amo navegar em sites de decoração em busca de ideias bonitas, viáveis e, de preferência, baratas? Pois é, amo fazer isso e fico super empolgada quando dou de cara com uma dessas ideias, porque quero dividi-la com você. Foi assim quando encontrei essa cortina pra lá de estilosa, cheia de bossa e fácil, muito fácil de ser reproduzida.
+</p>
+
+<p style="text-align: justify;">
+  Você gosta das ideias simples, daquelas que a gente bate os olhos e pergunta a si mesmo “como não havia pensado naquilo”? Então repare na imagem inspiradora logo a seguir. Aposto que, depois disso, você vai ser louca e descontrolada em busca de uma loja de tecidos. Duvida? Se joga!
+</p>
+
+<!--more-->
+
+<p align="center">
+  <a href="https://www.trololodemulher.com.br/2014/02/DECORACAO-CORTINA.jpg"><img class="alignnone size-full wp-image-9939" src="https://www.trololodemulher.com.br/2014/02/DECORACAO-CORTINA.jpg" alt="DECORACAO-CORTINA" width="450" height="600" /></a>
+</p>
+
+&nbsp;
+
+<p style="text-align: justify;">
+  Olha que fácil! Escolha a combinação de cores que você vai usar, também pense em como fará sua composição. Tudo o que você precisa fazer é providenciar as tiras desses tecidos que, na imagem, é o linho. Amarre suas tiras bem juntinhas umas das outras e, pronto! Não é uma lindeza tamanha simplicidade? Inspire-se!
+</p>
+
+&nbsp;
+
+Imagem: **_<a href="http://www.bhg.com/" target="_blank" rel="noopener noreferrer">Better Homes and Gardens</a>_**
+
+&nbsp;
+
+<p align="center">
+  <strong><span style="font-size: small;">Muito mais para você:</span></strong>
+</p>
+
+<p align="center">
+  <strong><a href="http://www.trololodemulher.com.br/2012/07/18/cortina-decoracao/"><span style="font-size: small;">Dá para customizar uma cortina sem usar máquina de costura?</span></a></strong>
+</p>
+
+<p align="center">
+  <strong><a href="http://www.decoracaodacasa.com/cortinas-ideias-decoracao/" target="_blank" rel="noopener noreferrer"><span style="font-size: small;">Cortinas: 3 ideias para personalizar sua decoração</span></a></strong>
+</p>
+
+&nbsp;
+
+<p align="center">
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-10439" src="https://www.trololodemulher.com.br/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+</p>

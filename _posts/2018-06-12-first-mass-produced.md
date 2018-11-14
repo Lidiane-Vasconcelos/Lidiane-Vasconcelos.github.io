@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The first mass-produced book to deviate from a rectilinear format"
 author: Lidiane
 categories: [ Jekyll, tutorial ]

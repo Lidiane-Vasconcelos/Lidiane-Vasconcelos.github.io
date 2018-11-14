@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Press and education"
 author: Lidiane
 categories: [ Jekyll, tutorial ]
