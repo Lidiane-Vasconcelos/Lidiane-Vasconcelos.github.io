@@ -9,7 +9,7 @@ baseurl: /
 google_analytics: 'UA-11722414-61'
 disqus: 'trololodemulher'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5be86f1cda105300172a2f10&product=sticky-share-buttons"></script>'
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=XZS5be86f1cda105300172a2f10&product=sticky-share-buttons"></script>'
 enable_jumbotron_header: false
 enable_jumbotron_footer: false
 enable_alertbar: false
