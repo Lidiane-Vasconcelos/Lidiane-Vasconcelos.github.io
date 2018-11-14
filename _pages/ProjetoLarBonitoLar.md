@@ -1,7 +1,7 @@
 ---
-layout: page
+published: true
 title: Projeto Lar Bonito Lar
-comments: true
+layout: page
 ---
 
 Projeto Lar Bonito Lar 
