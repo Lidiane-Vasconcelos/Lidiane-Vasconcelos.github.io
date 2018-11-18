@@ -8,3 +8,5 @@ fields:
   description: Destaque
   name: Destaque
   default: false
+pages:
+- _posts/como-você-começa-o-seu-dia-2.md
