@@ -3,21 +3,35 @@ label: Trololó
 hide_body: false
 is_partial: false
 fields:
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - Lidiane
+    required: true
+  name: author
+  label: Autora
+  default: Lidiane
 - type: text
   name: description
-  label: Descrição SEO
+  label: Descrição para SEO (max 120 caracteres)
   description: ''
+  default: ''
 - type: boolean
-  label: Destaque
+  label: Destacar na Home Page
   description: ''
   name: featured
   default: true
+- type: boolean
+  name: hidden
+  label: Esconder da Navegação (mas não do link direto)
 - type: file
-  label: Imagem
+  label: 'Imagem entre Titulo e Conteudo '
   name: image
 - type: tag_list
-  name: Tags
-  label: Tags
+  name: categories
+  label: Categorias
 pages:
-- _posts/2018-11-18-como-você-começa-o-seu-dia-3.md
 - _posts/2018-11-18-como-você-começa-o-seu-dia-2.md
+- _posts/2018-11-18-como-você-começa-o-seu-dia-3.md
