@@ -3,10 +3,27 @@ label: Trololó
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  default: ''
+  name: Title
+  label: Titulo
+  description: Titulo do post
+  config:
+    required: true
+- type: text
+  name: Description
+  label: Descrição
+  description: Descrição para SEO
 - type: boolean
   label: Destaque
-  description: Destaque
-  name: Destaque
-  default: false
+  description: Seletor para Destacar post
+  name: Featured
+  default: true
+- type: file
+  label: Imagem
+  name: Image
+- type: tag_list
+  name: Tags
+  label: Tags
 pages:
 - _posts/2018-11-18-como-você-começa-o-seu-dia-2.md
