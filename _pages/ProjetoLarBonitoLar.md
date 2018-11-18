@@ -9,6 +9,8 @@ fdskjjklsdfjl
 
 fdsjkljkldfs
 
-imagem![](/uploads/PROPOSITO-SLOWLIVING-BEM VIVER-VIDA SIMPLES-ATENCAO PLENA-BLOG.jpg)
+imagem
+
+![](/uploads/PROPOSITO-SLOWLIVING-BEM VIVER-VIDA SIMPLES-ATENCAO PLENA-BLOG600.jpg)
 
 hjfjdjlksjdfkl
