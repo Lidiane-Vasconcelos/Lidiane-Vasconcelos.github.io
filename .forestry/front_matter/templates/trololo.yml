@@ -1,0 +1,10 @@
+---
+label: Trololó
+hide_body: false
+is_partial: false
+fields:
+- type: boolean
+  label: Destaque
+  description: Destaque
+  name: Destaque
+  default: false
