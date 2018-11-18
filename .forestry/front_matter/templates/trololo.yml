@@ -27,11 +27,36 @@ fields:
   name: hidden
   label: Esconder da Navegação (mas não do link direto)
 - type: file
-  label: 'Imagem entre Titulo e Conteudo '
+  label: Imagem Destacada (entre Titulo e Conteudo)
   name: image
 - type: tag_list
   name: categories
   label: Categorias
+- type: text
+  label: Título no Facebook
+  name: facebook_title
+  description: Se você não desejar usar o título do post ao compartilha-lo no Facebook
+    e preferir usar outro título, insira-o aqui.
+- type: text
+  name: facebook_description
+  label: Descrição no Facebook
+  description: Se você não deseja utilizar a meta descrição para compartilhamento
+    do tópico no Facebook, mas, deseja utilizar outra descrição, insira-a aqui.
+- type: file
+  label: Imagem no Facebook
+  name: facebook_image
+  description: Se você não desejar usar a imagem do post. O tamanho recomendado para
+    a imagem Facebook é 1200 por 630px.
+- type: text
+  label: Título no Twitter
+  name: twitter_title
+- type: text
+  label: Descrição no Twitter
+  name: twitter_description
+- type: file
+  description: O tamanho recomendado para a imagem Twitter é 1024 por 512px.
+  label: Imagem no Twitter
+  name: twitter_image
 pages:
 - _posts/2018-11-18-como-você-começa-o-seu-dia-2.md
 - _posts/2018-11-18-como-você-começa-o-seu-dia-3.md
