@@ -1,12 +1,11 @@
 ---
 title: Como você começa o seu dia 2?
-Featured: true
+featured: true
 date: 2018-11-18 14:26:04 +0000
-Title: Como você começa o seu dia 2?
-Description: 'Ao abrir os olhos, como começa a desenrolar o seu dia? Pense em como
+description: 'Ao abrir os olhos, como começa a desenrolar o seu dia? Pense em como
   se encaixa melhor o que vem depois que você sai da cama, e reflita à respeito:'
-Image: "/uploads/PROPOSITO-SLOWLIVING-BEM VIVER-VIDA SIMPLES-ATENCAO PLENA-BLOG.jpg"
-Tags: []
+image: "/uploads/PROPOSITO-SLOWLIVING-BEM VIVER-VIDA SIMPLES-ATENCAO PLENA-BLOG.jpg"
+tags: [teste]
 
 ---
 <p align="justify">Ao abrir os olhos, como começa a desenrolar o seu dia? Pense em como se encaixa melhor o que vem depois que você sai da cama, e reflita à respeito:</p>
