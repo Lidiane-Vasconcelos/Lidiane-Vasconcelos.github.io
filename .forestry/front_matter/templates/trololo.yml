@@ -4,24 +4,17 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  default: ''
-  name: Title
-  label: Titulo
-  description: Titulo do post
-  config:
-    required: true
-- type: text
-  name: Description
-  label: Descrição
-  description: Descrição para SEO
+  name: description
+  label: Descrição SEO
+  description: ''
 - type: boolean
   label: Destaque
-  description: Seletor para Destacar post
-  name: Featured
+  description: ''
+  name: featured
   default: true
 - type: file
   label: Imagem
-  name: Image
+  name: image
 - type: tag_list
   name: Tags
   label: Tags
