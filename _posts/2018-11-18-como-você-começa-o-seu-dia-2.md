@@ -2,7 +2,7 @@
 title: Como você começa o seu dia 2?
 featured: true
 date: 2018-11-18 14:26:04 +0000
-description: 'Ao abrir os olhos, como começa a desenrolar o seu dia? Pense em como
+meta_description: 'Ao abrir os olhos, como começa a desenrolar o seu dia? Pense em como
   se encaixa melhor o que vem depois que você sai da cama, e reflita à respeito:'
 image: "/uploads/PROPOSITO-SLOWLIVING-BEM VIVER-VIDA SIMPLES-ATENCAO PLENA-BLOG600.jpg"
 tags:
@@ -10,11 +10,7 @@ tags:
 author: Lidiane
 hidden: false
 categories: []
-facebook_title: ''
-facebook_description: ''
 facebook_image: ''
-twitter_title: ''
-twitter_description: ''
 twitter_image: ''
 
 ---
