@@ -50,3 +50,12 @@ highlighter: rouge
 include: ['_pages']
 
 permalink: /:title
+
+
+# Verification Tokens:
+google_verify:
+yandex_verify:
+bing_verify:
+alexa_verify:
+pinterest_verify:
+norton_verify:
