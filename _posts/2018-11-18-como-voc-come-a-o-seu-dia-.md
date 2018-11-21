@@ -2,7 +2,7 @@
 published: true
 title: Como você começa o seu dia?
 date: '2018-11-18'
-description: >-
+meta_description: >-
   Ao abrir os olhos, como começa a desenrolar o seu dia? Pense em como se
   encaixa melhor o que vem depois que você sai da cama, e reflita à respeito:
 image: >-
