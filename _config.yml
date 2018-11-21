@@ -15,16 +15,7 @@ enable_jumbotron_footer: false
 enable_alertbar: false
 enable_explorer: false
 
-# Authors
-authors:
-  Lidiane:
-    name: Lidiane
-    display_name: "Lidiane Vasconcelos"
-    gravatar: 94e312457714a8b53f0348c17f5f79b4
-    email: trololomulher@gmail.com
-    web: https://www.trololodemulher.com.br
-    twitter: https://twitter.com/wowthemesnet
-    description: " You are currently previewing Jekyll template demo."
+
 
 # Plugins
 plugins:
