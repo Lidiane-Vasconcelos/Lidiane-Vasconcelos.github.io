@@ -4,10 +4,7 @@
 
   <meta property="og:site_name" content="{{ site.title }}">
 
-  {% if page.facebook_title %}
-  <meta property="og:title" content="{{ page.facebook_title }}" />
-  <meta property="og:type" content="article">
-  {% elsif page.title %}
+  {% if page.title %}
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:type" content="article">
   {% else %}
@@ -15,12 +12,10 @@
   <meta property="og:type" content="website">
   {% endif %}
 
-  {% if page.facebook_description %}
-  <meta property="og:description" content="{{ page.facebook_description }}">
-  {% elsif page.description %}
-  <meta property="og:description" content="{{ page.description }}">
+  {% if page.meta_description %}
+  <meta property="og:description" content="{{ page.meta_description }}">
   {% else %}
-  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:description" content="{{ site.meta_description }}">
   {% endif %}
 
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
