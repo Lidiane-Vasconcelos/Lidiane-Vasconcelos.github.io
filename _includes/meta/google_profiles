@@ -1,0 +1,14 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "Lidiane Vasconcelos",
+  "url": "http://www.trololodemulher.com.br",
+  "sameAs": [
+    "http://www.facebook.com/your-profile",
+    "http://instagram.com/yourProfile",
+    "http://www.linkedin.com/in/yourprofile",
+    "http://plus.google.com/your_profile"
+  ]
+}
+</script>
