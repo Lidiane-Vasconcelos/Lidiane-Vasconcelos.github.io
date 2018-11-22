@@ -32,18 +32,33 @@
     "author": {
       "@type": "Person",
       "name": "{{ site.authors[page.author].display_name | jsonify }}"
-      "email": {{ site.authors[page.author].email | jsonify }}      
+      "email": {{ site.authors[page.author].email | jsonify }} ,
+            "image": {
+                "@type": "ImageObject",
+                "url": "{{ site.gravatar_url }}",
+            },      
+      "sameAs":[  
+        "https://twitter.com/pauldambra",
+        "https://github.com/pauldambra",
+        "https://plus.google.com/u/0/+PaulDAmbraPlus"
+      ]      
     },  
     "publisher": {
       "@type": "Organization",
       "name": "{{ site.title | jsonify }}",
+      "description": "{{ site.meta_description | jsonify }}",
       "url": "{{ site.url }}",      
       "logo": {
         "@type": "ImageObject",
         "url": "{{ site.gravatar_url }}",
         "width": 60,
         "height": 60
-      }
+      },
+      "sameAs":[  
+        "https://twitter.com/pauldambra",
+        "https://github.com/pauldambra",
+        "https://plus.google.com/u/0/+PaulDAmbraPlus"
+      ]      
     }
   }
   </script>
