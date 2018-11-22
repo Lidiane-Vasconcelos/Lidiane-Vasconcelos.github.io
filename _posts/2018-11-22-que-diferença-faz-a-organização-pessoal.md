@@ -43,5 +43,3 @@ Imagem: Pixabay
 <p align="center"><strong>Nas Redes:</strong></p>
 
 <p align="center"><a href="[https://www.facebook.com/lidiane.vasconcelos.94](https://www.facebook.com/lidiane.vasconcelos.94 "https://www.facebook.com/lidiane.vasconcelos.94")" target="_blank" rel="noopener">Perfil pessoal no Facebook</a> | <a href="[https://www.facebook.com/TrololoMulher/](https://www.facebook.com/TrololoMulher/ "https://www.facebook.com/TrololoMulher/")" target="_blank" rel="noopener">Fanpage no Facebook</a> | <a href="[https://www.instagram.com/trololodemulher/](https://www.instagram.com/trololodemulher/ "https://www.instagram.com/trololodemulher/")" target="_blank" rel="noopener">Instagram</a></p>
-
-&nbsp;
