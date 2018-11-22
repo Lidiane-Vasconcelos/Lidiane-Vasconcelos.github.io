@@ -1,23 +1,29 @@
+{% if page.twitter_image != '' and page.twitter_image %}
+  <meta name="twitter:card" content="summary_large_image" />
+{% else %}
   <meta name="twitter:card" content="summary" />
+{% endif %}
+
   <meta name="twitter:site" content="@{{ site.twitter.username }}" />
+
   <meta name="twitter:creator" content="@{{ site.authors[page.author].twitter }}" />
 
-  {% if page.title %}
+{% if page.title %}
   <meta name="twitter:title" content="{{ page.title }}" />
-  {% else %}
+{% else %}
   <meta name="twitter:title" content="{{ site.name }}" />
-  {% endif %}
+{% endif %}
 
-  {% if page.meta_description %}
+{% if page.meta_description %}
   <meta name="twitter:description" content="{{ page.meta_description }}">
-  {% else %}
+{% else %}
   <meta name="twitter:description" content="{{ site.meta_description }}">
-  {% endif %}
-
-  {% if page.twitter_image != '' and page.twitter_image %}
-  <meta name="twitter:image" content="{{ site.url }}{{ page.twitter_image }}" />
-  {% else %}
-  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
-  {% endif %}
+{% endif %}
 
   <meta name="twitter:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
+
+{% if page.twitter_image != '' and page.twitter_image %}
+  <meta name="twitter:image" content="{{ site.url }}{{ page.twitter_image }}" />
+{% else %}
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
+{% endif %}
