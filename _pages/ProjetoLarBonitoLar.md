@@ -44,6 +44,8 @@ layout: page
 
 <p align="center"><img class="alignnone size-full wp-image-14541" src="" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[3\]" width="828" height="315" /></p>
 
+![](/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[3\].jpg)
+
 <p align="justify"><em>"Muito obrigada por você ter partilhado conosco suas experiências. Realmente hoje sei que posso manter a casa limpa com pouco tempo diário. Para mim, que trabalho fora, foi uma mão na roda! Sucesso nas experiências futuras."</em> <strong>Regina Coutinho, turma de Fevereiro, 2018</strong></p>
 
 <p align="justify"><em>"Owww, Lidi! Como agradeço a você!!! Hoje tenho tempo para tudo e, sinceramente, não saberia fazer isso sozinha. Fazia o que hoje aprendi não ser necessário, gastava muita energia e tempo organizando tudo, e no fim a sensação era de não estar conseguindo dar conta de tudo. Hoje minha vida é mais leve, estou menos cansada e tenho meu tempo precioso para marternar como sempre sonhei. Muitooooo, muitooooo obrigada por tudo!" <strong>Amanda Goiana, turma de Fevereiro, 2018</strong></em></p>
