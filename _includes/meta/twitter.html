@@ -5,7 +5,7 @@
   {% if page.title %}
   <meta name="twitter:title" content="{{ page.title }}" />
   {% else %}
-  <meta name="twitter:title" content="{{ site.title }}" />
+  <meta name="twitter:title" content="{{ site.name }}" />
   {% endif %}
 
   {% if page.meta_description %}
@@ -14,10 +14,10 @@
   <meta name="twitter:description" content="{{ site.meta_description }}">
   {% endif %}
 
-  {% if page.twitter_image %}
-  <meta name="twitter:image" content="{{ page.twitter_image }}" />
+  {% if page.twitter_image != '' and page.twitter_image %}
+  <meta name="twitter:image" content="{{ site.url }}{{ page.twitter_image }}" />
   {% else %}
-  <meta name="twitter:image" content="{{ page.image }}" />
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
   {% endif %}
 
   <meta name="twitter:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
