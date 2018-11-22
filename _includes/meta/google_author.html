@@ -1,2 +1,3 @@
-  <meta name="author" content="{{ site.author.name }}" />
-  <link href="https://plus.google.com/{plusPageUrl}" rel="publisher" />
+  <meta name="author" content="{{ site.authors[page.author].display_name }}" />
+  <link href="https://plus.google.com/{{site.google.googleplus_code}}" rel="publisher" />
+  <link href="https://plus.google.com/{{site.authors[page.author].googleplus_code}}" rel="author" />
