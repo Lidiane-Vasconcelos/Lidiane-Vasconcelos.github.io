@@ -1,6 +1,7 @@
 # Site
 #=============================================
 title: "Trololó de Mulher"
+short_title: "T. de Mulher"
 description: "Trololó de Mulher"
 meta_description: "Trololó de Mulher"
 content_lang: "pt-br"
@@ -79,6 +80,7 @@ pinterest_verify:
 norton_verify:
 
 #Social Media
+#=============================================
 facebook:
   admins:
   publisher: TrololoMulher
@@ -88,3 +90,9 @@ twitter:
 google:
   googleplus_code: 112795712529273089482
   googleplus_id: +LidianeVasconcelosTMDC
+
+
+#Icons & Colors
+#=============================================
+theme_color:
+background_color:
