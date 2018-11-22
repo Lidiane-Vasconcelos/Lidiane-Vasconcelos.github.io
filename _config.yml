@@ -96,3 +96,12 @@ google:
 #=============================================
 theme_color:
 background_color:
+
+#Manifest
+#=============================================
+manifest_name: Web App Full Name
+manifest_short_name: Short Name # Appears in "Add to home screen" dialogues and may have other importance also
+manifest_lang: en
+manifest_background_color: white
+manifest_short_name:
+manifest_display: standalone
