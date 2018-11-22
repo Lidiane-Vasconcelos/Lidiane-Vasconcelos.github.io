@@ -88,6 +88,8 @@ layout: page
 
 <p align="center"><img class="alignnone size-full wp-image-14543" src="" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[5\]" width="800" height="304" /></p>
 
+![](/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[5\].jpg)
+
 <p align="justify">Através da mudança na forma como você se comporta em casa, e de suas atitudes, você vai se sentir forte para continuar a transformação e crescimento pessoal, vai entender o que é o <strong>Projeto Lar Bonito Lar</strong> e o que funciona para você, vai estabelecer o que precisa ser feito no dia a dia, e promover uma virada de chave definitiva na forma como você se relaciona com a casa.</p>
 
 <p align="justify">Quando você muda a forma como lida com as demandas do seu lar, sente-se menos sufocada no dia a dia. Quando aprende a usar as ferramentas certas, passa a executar as coisas de maneira melhor, e em menos tempo. Quando você monta um esquema de organização, acaba deixando tudo mais fácil.</p>
