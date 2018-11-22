@@ -39,9 +39,9 @@
    <meta property="og:url" content="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}" />
 {% endif %}
 
-{% if page.facebook_image %}
-   <meta property="og:image1" content="{{ page.facebook_image }}" />
+{% if page.facebook_image !='' and page.facebook_image %}
+   <meta property="og:image" content="{{ page.facebook_image }}" />
 {% else %}
-   <meta property="og:image2" content="{{ page.image }}" />
+   <meta property="og:image" content="{{ page.image }}" />
 {% endif %}
 
