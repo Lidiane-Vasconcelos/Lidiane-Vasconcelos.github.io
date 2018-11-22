@@ -70,6 +70,8 @@ layout: page
 
 <p align="center"><img class="alignnone size-full wp-image-14542" src="" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[4\]" width="800" height="304" /></p>
 
+![](/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[4\].jpg)
+
 <p align="justify"><strong>Não dá para querer atingir resultados diferentes, e continuar fazendo a mesma coisa!</strong> Se você sente que sua relação com a casa não está boa, que lidar com o trabalho doméstico traz mais frustração do que satisfação, que as demandas diárias em casa estão demais… então é hora de olhar com carinho para essa situação e mudar isso de maneira definitiva! É hora de simplificar sua rotina doméstica! Você não precisa executar serviços domésticos o tempo todo,  e nem ficar cansada só de pensar em fazer o que precisa ser feito.</p>
 
 <p align="justify">Criar uma boa relação com o trabalho doméstico vai te fazer entrar em contato com seu lar de um jeito que talvez você não tenha experimentado antes. É possível ter um lar limpo, organizado, com limites no esforço que você emprega nessa tarefa, e isso fará com que você aproveite melhor o seu tempo com o que de fato importa, controlando a bagunça ao seu redor e até os ruídos mentais.</p>
