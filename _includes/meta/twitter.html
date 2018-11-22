@@ -15,9 +15,9 @@
   {% endif %}
 
   {% if page.twitter_image != '' and page.twitter_image %}
-  <meta name="twitter:image1" content="{{ site.url }}{{ page.twitter_image }}" />
+  <meta name="twitter:image" content="{{ site.url }}{{ page.twitter_image }}" />
   {% else %}
-  <meta name="twitter:image2" content="{{ site.url }}{{ page.image }}" />
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
   {% endif %}
 
   <meta name="twitter:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
