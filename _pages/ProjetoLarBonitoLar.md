@@ -4,7 +4,10 @@ layout: page
 
 ---
 
-![ROTINA DOMESTICA-GESTAO DO TEMPO-PRODUTIVIDADE-BLOG](/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER.jpg)
+<!--![ROTINA DOMESTICA-GESTAO DO TEMPO-PRODUTIVIDADE-BLOG]-->
+
+(/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER.jpg)
+<p align="center"><img src="/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER.jpg" alt="ROTINA DOMESTICA-GESTAO DO TEMPO-PRODUTIVIDADE-BLOG" width="800" height="800" /></p>
 
 <p style="text-align: center;" align="justify"><em><strong>Conheça o Projeto Lar Bonito Lar, o programa via whatsapp que vai te orientar, passo a passo, na organização da gestão doméstica, pra que você ganhe tranquilidade e mais tempo no dia a dia!</strong></em></p>
 
