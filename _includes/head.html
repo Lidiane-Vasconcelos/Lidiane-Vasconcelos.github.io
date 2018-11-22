@@ -8,10 +8,10 @@
  -->
   <meta http-equiv="Content-Language" content="{{ site.content_lang }}">
   <!--Feed-->
-  {% feed_meta_ %}
+  {% feed_meta %}
 
   <!--Google Analytics-->
-  {% include analytics_.html %}  
+  {% include analytics.html %}  
 
   <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator }} {{ site.description }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
@@ -25,9 +25,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   
 
-  {% include meta/icon_.html %}  
-  {% include meta/facebook_opengraph_.html %} 
-  {% include meta/twitter_.html %}
+  {% include meta/icon.html %}  
+  {% include meta/facebook_opengraph.html %} 
+  {% include meta/twitter.html %}
 
 
 
@@ -76,5 +76,5 @@
  <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet"> 
 
 	
-{{ site.sharethis_ }}	  
+{{ site.sharethis }}	  
  
