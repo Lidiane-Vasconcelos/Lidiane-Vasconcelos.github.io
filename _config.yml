@@ -67,6 +67,7 @@ highlighter: rouge
 include: ['_pages']
 
 permalink: /:title
+page_permalink: /:title
 
 
 # Verification Tokens:
