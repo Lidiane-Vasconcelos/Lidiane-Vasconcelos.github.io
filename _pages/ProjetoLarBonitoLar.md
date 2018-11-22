@@ -11,7 +11,7 @@ layout: page
 
 <p style="text-align: center;" align="justify"><em><strong>Conheça o Projeto Lar Bonito Lar, o programa via whatsapp que vai te orientar, passo a passo, na organização da gestão doméstica, pra que você ganhe tranquilidade e mais tempo no dia a dia!</strong></em></p>
 
-<p style="text-align: justify;" align="justify"><strong>A turma de Outubro/2018, última do ano, do Projeto Lar Bonito Lar, já começou! Por ser grupo fechado, não entra mais ninguém. A próxima só em 2019. Se quiser saber sobre a abertura de inscrições com antecedência para a próxima vivência, <a href="https://bit.ly/2Ldn0bt" rel="noopener">clique aqui, fale comigo no WhatsApp</a>, e diga que deseja entrar na lista de espera para a próxima turma. Se preferir, mande whats para meu número: 81 9 9530-7307.</strong></p>
+<p style="text-align: justify;" align="justify"><strong>A turma de Outubro/2018, última do ano, do Projeto Lar Bonito Lar, já começou! Por ser grupo fechado, não entra mais ninguém. A próxima só em 2019. Se quiser saber sobre a abertura de inscrições com antecedência para a próxima vivência, <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307" rel="noopener">clique aqui, fale comigo no WhatsApp</a>, e diga que deseja entrar na lista de espera para a próxima turma. Se preferir, mande whats para meu número: 81 9 9530-7307.</strong></p>
 
 <p align="justify">Casa fora de controle, sentimento de sobrecarga, cansaço e estresse… conhece essa situação? Você deseja a casa em ordem e limpa, mas gostaria de aplicar menos esforço para dar conta das demandas? Isso é possível e te digo como: através do aprendizado das <strong>melhores práticas na gestão da rotina doméstica</strong>, em conjunto com outras mulheres, alinhadas e focadas no mesmo propósito.</p>
 
@@ -37,7 +37,7 @@ layout: page
 
 <p align="justify">Essa vivência vai mostrar a você a melhor forma de ter o controle sobre o seu dia, mostrando alternativas para deixar a sua casa em ordem, limpa e em harmonia, tudo de maneira prática, eficiente e funcional. E o mais importante: esse encontro diário mostrará a você a importância do auto-cuidado, de ser mais amável com você mesma, mostrando que ter controle sobre a rotina doméstica não precisa (e não deve) ter relação com sentir sobrecarga, estresse e cansaço extremo. <strong>Pronta para começar?</strong></p>
 
-<p align="center"><a href="https://bit.ly/2Ldn0bt" rel="noopener"><img  src="/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER[2].jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[2\]"  /></a></p>
+<p align="center"><a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307" rel="noopener"><img  src="/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER[2].jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[2\]"  /></a></p>
 
 <!--![](/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[2\].jpg) width="800" height="304"-->
 
