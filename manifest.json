@@ -9,7 +9,7 @@ layout: null
   "display":  "{{ site.manifest_display | default: 'standalone' }}",
   "scope": "/",
   "start_url": "/?utm_source=homescreen",
-  "lang": "pt-BR",
+  "lang": "{{ site.manifest_lang }}",
   "orientation": "any",
   "icons": [
     {
