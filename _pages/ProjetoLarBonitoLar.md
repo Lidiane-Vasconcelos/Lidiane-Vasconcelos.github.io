@@ -3,7 +3,9 @@ title: Projeto Lar Bonito Lar
 layout: page
 
 ---
-<p align="center"><img class="alignnone size-full wp-image-14581" src="![](http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/03/ROTINA-DOMESTICA-GESTAO-DO-TEMPO-PRODUTIVIDADE-BLOG.jpg)" alt="ROTINA DOMESTICA-GESTAO DO TEMPO-PRODUTIVIDADE-BLOG" width="800" height="800" /></p>
+<p align="center"><img class="alignnone size-full wp-image-14581" src="" alt="ROTINA DOMESTICA-GESTAO DO TEMPO-PRODUTIVIDADE-BLOG" width="800" height="800" /></p>
+
+![](/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER.jpg)
 
 <p style="text-align: center;" align="justify"><em><strong>Conheça o Projeto Lar Bonito Lar, o programa via whatsapp que vai te orientar, passo a passo, na organização da gestão doméstica, pra que você ganhe tranquilidade e mais tempo no dia a dia!</strong></em></p>
 
