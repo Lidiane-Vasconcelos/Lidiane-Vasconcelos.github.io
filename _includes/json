@@ -1,0 +1,50 @@
+{% if page.is_post %}
+  {% assign type = "BlogPosting" %}
+{% else %}
+  {% assign type = "Blog" %}
+{% endif %}
+  <!-- http://schema.org/ -->
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "{{ type }}",
+    "@id": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}",
+    "url": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}",
+    "mainEntityOfPage": {
+      "@type": "{{ type }}",
+      "@id": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+    },
+    "name": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
+    "keywords": "{% if page.tags %}{{ page.tags | join: ',' | jsonify }}{% endif %}",
+    "articleBody": {{ page.content | strip_html | jsonify }},    
+    "headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
+    "description": "{% if page.meta_description %}{{ page.meta_description | strip_html | strip_newlines | truncate: 140 }}{% else %}{{ site.meta_description }}{% endif %}",
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "dateModified": {{ page.last_modified_at | default: page.date | jsonify }},    
+  {% if page.image %}
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}{{ page.image.path }}",
+      "width": {{ page.image.width }},
+      "height": {{ page.image.height }}
+  },
+  {% endif %}  
+    "author": {
+      "@type": "Person",
+      "name": "{{ site.authors[page.author].display_name | jsonify }}"
+      "email": {{ site.authors[page.author].email | jsonify }}      
+    },  
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ site.title | jsonify }}",
+      "url": "{{ site.url }}",      
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.gravatar_url }}",
+        "width": 60,
+        "height": 60
+      }
+    }
+  }
+  </script>
+ 
