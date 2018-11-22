@@ -1,5 +1,5 @@
 {
-  "name": "Willian Justen Blog",
+  "name": "{{ site.title }}",
   "short_name": "WJusten",
   "theme_color": "#005f97",
   "background_color": "#005f97",
