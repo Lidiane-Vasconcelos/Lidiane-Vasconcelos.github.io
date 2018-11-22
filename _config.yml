@@ -39,15 +39,8 @@ authors:
 plugins:
   - jekyll-paginate
   - jekyll-archives
-#  - jekyll-feed
-#  - jekyll-seo-tag
-#  - jekyll-sitemap
   - jekyll-include-cache  
-  
-# - jekyll-mentions  
-# - jemoji
-# - jekyll-redirect-from
-# - jekyll-avatar
+
 
 
 # Archives
