@@ -22,12 +22,16 @@ authors:
   Lidiane:
     name: Lidiane
     display_name: "Lidiane Vasconcelos"
-    gravatar: 94e312457714a8b53f0348c17f5f79b4
+    description: "--"    
     email: trololomulher@gmail.com
     web: https://www.trololodemulher.com.br
-    twitter: https://twitter.com/wowthemesnet
-    description: " You are currently previewing Jekyll template demo."
-
+    twitter: TrololodeMulher
+    facebook: lidiane.vasconcelos.94
+    googleplus_code: 112795712529273089482
+    googleplus_id: +LidianeVasconcelosTMDC
+    image: http://Lidiane-Vasconcelos.github.io/foto.jpg   
+    gravatar: 94e312457714a8b53f0348c17f5f79b4
+    description: "--"
 
 
 # Plugins
@@ -78,3 +82,11 @@ bing_verify:
 alexa_verify:
 pinterest_verify:
 norton_verify:
+
+#Social Media
+facebook:
+  admins:
+  publisher: TrololoMulher
+  app_id:
+twitter:
+  username:  TrololoMulher
