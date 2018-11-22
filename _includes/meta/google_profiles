@@ -12,3 +12,9 @@
   ]
 }
 </script>
+
+
+
+<!-- Google Card -->
+<meta itemprop="description" content="{{ card.description }}" />
+<meta itemprop="image" content="{{ card.image }}" />
