@@ -1,4 +1,5 @@
 # Site
+#=============================================
 name: "Trololó de Mulher"
 description: "Trololó de Mulher"
 meta_description: "Trololó de Mulher"
@@ -15,9 +16,22 @@ enable_jumbotron_footer: false
 enable_alertbar: false
 enable_explorer: false
 
+# Authors
+#=============================================
+authors:
+  Lidiane:
+    name: Lidiane
+    display_name: "Lidiane Vasconcelos"
+    gravatar: 94e312457714a8b53f0348c17f5f79b4
+    email: trololomulher@gmail.com
+    web: https://www.trololodemulher.com.br
+    twitter: https://twitter.com/wowthemesnet
+    description: " You are currently previewing Jekyll template demo."
+
 
 
 # Plugins
+#=============================================
 plugins:
   - jekyll-paginate
   - jekyll-archives
@@ -31,7 +45,9 @@ plugins:
 # - jekyll-redirect-from
 # - jekyll-avatar
 
+
 # Archives
+#=============================================
 jekyll-archives:
   enabled:
     - categories
@@ -40,10 +56,12 @@ jekyll-archives:
     category: '/category/:name/'    
 
 # Pagination
+#=============================================
 paginate: 6
 paginate_path: /page:num/
 
 # Other
+#=============================================
 markdown: kramdown
 highlighter: rouge
 
@@ -53,6 +71,7 @@ permalink: /:title
 
 
 # Verification Tokens:
+#=============================================
 google_verify:
 yandex_verify:
 bing_verify:
