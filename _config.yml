@@ -40,8 +40,6 @@ plugins:
   - jekyll-paginate
   - jekyll-archives
   - jekyll-include-cache  
-#  - jekyll-feed
-#  - jekyll-sitemap
 
 
 # Archives
