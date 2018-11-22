@@ -124,6 +124,8 @@ layout: page
 
 <p align="center"><img class="alignnone size-full wp-image-14540" src="" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[2\]" width="800" height="304" /></p>
 
+![](/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[2\]-1.jpg)
+
 <p align="justify"><strong>Nossa vivência total será de 7 semanas, isso envolvendo: </strong></p>
 
 <p align="justify">1 – Aprendizado das melhores práticas na gestão da rotina doméstica;</p>
