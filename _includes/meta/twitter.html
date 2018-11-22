@@ -1,6 +1,6 @@
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@{{ site.author.twitter }}" />
-  <meta name="twitter:creator" content="@{{ site.author.twitter }}" />
+  <meta name="twitter:site" content="@{{ site.twitter.username }}" />
+  <meta name="twitter:creator" content="@{{ site.authors[page.author].twitter }}" />
 
   {% if page.title %}
   <meta name="twitter:title" content="{{ page.title }}" />
@@ -9,9 +9,9 @@
   {% endif %}
 
   {% if page.meta_description %}
-  <meta name="twitter:description" content="{{ page.description }}">
+  <meta name="twitter:description" content="{{ page.meta_description }}">
   {% else %}
-  <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 50 }}">
+  <meta name="twitter:description" content="{{ site.meta_description }}">
   {% endif %}
 
   {% if page.twitter_image %}
@@ -19,3 +19,5 @@
   {% else %}
   <meta name="twitter:image" content="{{ page.image }}" />
   {% endif %}
+
+  <meta name="twitter:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
