@@ -125,7 +125,7 @@ layout: page
 
 <p align="justify">Eu uso textos  claros, diretos e precisos, além de áudios e imagens, tudo para você adquirir um conhecimento que vai te acompanhar pro resto da vida! Ao longo do processo, com a troca diária de experiências e tratamento das dúvidas, você vai perceber que não está só no propósito de ter um lar mais harmônico, e vai sentir-se inspirada e motivada pra fazer o método funcionar na sua dinâmica familiar também.</p>
 
-<p align="center"><img src="/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER[2].jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER[2]" width="800" height="304" /></p>
+<p align="center"><a href="https://bit.ly/2Ldn0bt" rel="noopener"><img src="/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER[2].jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER[2]" width="800" height="304" /></a></p>
 
 <!--![](/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[2\]-1.jpg)-->
 
