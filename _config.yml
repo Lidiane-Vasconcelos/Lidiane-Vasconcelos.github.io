@@ -1,7 +1,6 @@
 # Site
 #=============================================
 title: "Trololó de Mulher"
-short_title: "T. de Mulher"
 description: "Trololó de Mulher"
 meta_description: "Trololó de Mulher"
 content_lang: "pt-br"
@@ -99,9 +98,9 @@ background_color:
 
 #Manifest
 #=============================================
-manifest_name: Web App Full Name
-manifest_short_name: Short Name # Appears in "Add to home screen" dialogues and may have other importance also
-manifest_lang: en
+manifest_name: "Trololó de Mulher"
+manifest_short_name: "T. de Mulher" # Appears in "Add to home screen" dialogues and may have other importance also
+manifest_lang: pt-br
 manifest_background_color: white
-manifest_short_name:
+manifest_theme_color: white
 manifest_display: standalone
