@@ -4,4 +4,10 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', '{{site.google_analytics}}');
+
+  {% if page.tags.size > 0 %}
+    {% for tag in page.tags %}
+      gtag('send', 'event', 'taggedPost', 'view', '{{ tag }}', { nonInteraction: true  });
+    {% endfor %}
+  {% endif %}
 </script>
