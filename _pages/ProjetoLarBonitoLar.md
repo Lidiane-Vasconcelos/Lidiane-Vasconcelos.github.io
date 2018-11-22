@@ -37,7 +37,7 @@ layout: page
 
 <p align="justify">Essa vivência vai mostrar a você a melhor forma de ter o controle sobre o seu dia, mostrando alternativas para deixar a sua casa em ordem, limpa e em harmonia, tudo de maneira prática, eficiente e funcional. E o mais importante: esse encontro diário mostrará a você a importância do auto-cuidado, de ser mais amável com você mesma, mostrando que ter controle sobre a rotina doméstica não precisa (e não deve) ter relação com sentir sobrecarga, estresse e cansaço extremo. <strong>Pronta para começar?</strong></p>
 
-<p align="center"><img  src="uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[2\].jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[2\]" width="800" height="304" /></p>
+<p align="center"><img  src="/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER[2].jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[2\]" width="800" height="304" /></p>
 
 <!--![](/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[2\].jpg)-->
 
@@ -45,7 +45,7 @@ layout: page
 
 <p align="justify">Se sua casa não está organizada e em harmonia, e você deseja uma dinâmica diferente no dia a dia, que te deixe mais tranquila, com todos os aspectos que envolvem a rotina doméstica sendo bem atendidos, saiba que é possível! Você sabe que é importante virar a chave da forma como você gerencia seu lar, mas não imagina como fazer isso? Saiba que VOCÊ tem em suas mãos o poder necessário para atingir seu objetivo, e eu, Pós-Graduada em Gestão de Pessoas, vou te<strong> </strong>mostrar o caminho para isso. <strong>Vamos aprender juntas?</strong></p>
 
-<p align="center"><img src="/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[3\].jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[3\]" width="828" height="315" /></p>
+<p align="center"><img src="/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER[3].jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[3\]" width="828" height="315" /></p>
 
 <!--![](/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[3\].jpg)-->
 
@@ -71,7 +71,7 @@ layout: page
 
 <p align="justify">"<em>Obrigada por tudo, Lidi! Apesar de não ter participado ativamente por questões de saúde que venho passando, pode ter certeza que foi muito importante para mim esse projeto, e que aos poucos estarei implementando na minha casa tudo o que vivenciamos. Obrigada!"</em> <strong>Lúcia, turma de Agosto/2018</strong></p>
 
-<p align="center"><img src="/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[4\].jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[4\]" width="800" height="304" /></p>
+<p align="center"><img src="/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER[4].jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[4\]" width="800" height="304" /></p>
 
 <!--![](/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[4\].jpg)-->
 
@@ -89,7 +89,7 @@ layout: page
 
 <p align="justify">4 – Você vai abrir espaço na sua rotina para perceber a vida acontecendo com mais clareza, e foco!</p>
 
-<p align="center"><img src="/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[5\].jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[5\]" width="800" height="304" /></p>
+<p align="center"><img src="/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER[5].jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[5\]" width="800" height="304" /></p>
 
 <!--![](/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[5\].jpg)-->
 
@@ -125,7 +125,7 @@ layout: page
 
 <p align="justify">Eu uso textos  claros, diretos e precisos, além de áudios e imagens, tudo para você adquirir um conhecimento que vai te acompanhar pro resto da vida! Ao longo do processo, com a troca diária de experiências e tratamento das dúvidas, você vai perceber que não está só no propósito de ter um lar mais harmônico, e vai sentir-se inspirada e motivada pra fazer o método funcionar na sua dinâmica familiar também.</p>
 
-<p align="center"><img src="/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[2\]-1.jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[2\]" width="800" height="304" /></p>
+<p align="center"><img src="/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER[2].jpg" alt="PROJETO LAR BONITO LAR-TROLOLO DE MULHER[2]" width="800" height="304" /></p>
 
 <!--![](/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER\[2\]-1.jpg)-->
 
