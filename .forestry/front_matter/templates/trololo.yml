@@ -43,7 +43,6 @@ fields:
   label: Imagem no Twitter
   name: twitter_image
 pages:
-- _posts/k.md
 - _posts/2018-11-22-que-diferença-faz-a-organização-pessoal.md
 - _posts/2018-11-23-como-planejar-cardápio-semanal-simplifique.md
 - _posts/2018-11-23-em-redes-sociais-cada-qual-com-sua-opinião.md
