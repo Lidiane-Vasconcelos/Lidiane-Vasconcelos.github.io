@@ -22,9 +22,9 @@ twitter_image: ''
 
 <p align="justify">Quando falamos de organização pessoal, estamos falando do seu cotidiano, e isso passa, necessariamente, pela forma como as demandas de seu lar são encaradas. Se cuidar de sua casa e demadas da família causam o sentimento de sobrecarga e estresse, então você precisa rever a forma como se relaciona com suas rotinas. Seu lar precisa e pode tornar-se um espaço de aconchego, acolhimento e bem-estar, de modo que te possibilite ser uma pessoa mais disposta, produtiva, leve e feliz. Se a casa onde você vive estiver bem e  harmoniosa, a sensação gostosa que isso te trará vai impactar na sua produtividade e disposição para as outras demandas da vida. E se a casa é sua, jamais espere que alguém de fora possa manter o controle e estabelecer a harmonização dela. Comece, você mesma, a tomar as rédeas da gestão das demandas do seu lar, e aproprie-se do que, de fato, é seu.</p>
 
-<p align="justify">Através da vivência no <a href="[http://www.trololodemulher.com.br/projeto-lar-bonito-lar/](http://www.trololodemulher.com.br/projeto-lar-bonito-lar/ "http://www.trololodemulher.com.br/projeto-lar-bonito-lar/")" target="_blank" rel="noopener">Projeto Lar Bonito Lar</a> você saberá como começar essa organização de rotinas, conhecerá métodos para auxiliar você a manter sua lista de tarefas rodando sem esforço e sobrecarga, e verá ferramentas que vão te auxiliar a deixar a gestão do seu tempo na rotina doméstica super eficiente. Se precisar de ajuda nesse sentido, coloco-me a sua disposição.</p>
+<p align="justify">Através da vivência no [http://www.trololodemulher.com.br/projeto-lar-bonito-lar/](Projeto Lar Bonito Lar) você saberá como começar essa organização de rotinas, conhecerá métodos para auxiliar você a manter sua lista de tarefas rodando sem esforço e sobrecarga, e verá ferramentas que vão te auxiliar a deixar a gestão do seu tempo na rotina doméstica super eficiente. Se precisar de ajuda nesse sentido, coloco-me a sua disposição.</p>
 
-<p align="justify">A turma de Outubro/2018, última do ano, do Projeto Lar Bonito Lar, já começou! Por ser grupo fechado, não entra mais ninguém. A próxima só em 2019. Se quiser saber sobre a abertura de inscrições com antecedência para a próxima vivência, <a href="[https://bit.ly/2Ldn0bt](https://bit.ly/2Ldn0bt "https://bit.ly/2Ldn0bt")" target="_blank" rel="noopener">clique aqui, fale comigo no WhatsApp</a>, e diga que deseja entrar na lista de espera para a próxima turma. Se preferir, mande whats para meu número: 81 9 9530-7307.</p>
+<p align="justify">A turma de Outubro/2018, última do ano, do Projeto Lar Bonito Lar, já começou! Por ser grupo fechado, não entra mais ninguém. A próxima só em 2019. Se quiser saber sobre a abertura de inscrições com antecedência para a próxima vivência, <a href="[https://bit.ly/2Ldn0bt](clique aqui, fale comigo no WhatsApp), e diga que deseja entrar na lista de espera para a próxima turma. Se preferir, mande whats para meu número: 81 9 9530-7307.</p>
 
 Beijos,
 
@@ -34,11 +34,11 @@ Imagem: Pixabay
 
 **Nosso contéudo:**
 
-[http://www.trololodemulher.com.br/projeto-lar-bonito-lar/](Projeto Lar Bonito Lar)  | [http://www.trololodemulher.com.br/2018/02/28/newsletter/](Newsletter Trololó de Mulher – Grátis) | [https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&amp;loc=en_US](Assine e receba o post semanal do blog no seu e-mail – Grátis).
+[https://www.trololodemulher.com.br/projeto-lar-bonito-lar/](Projeto Lar Bonito Lar)  | [https://www.trololodemulher.com.br/2018/02/28/newsletter/](Newsletter Trololó de Mulher – Grátis) | [https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&amp;loc=en_US](Assine e receba o post semanal do blog no seu e-mail – Grátis).
 
 **E tem mais!**
 
-[http://www.trololodemulher.com.br/2018/03/09/bem-viver/](Guia Bem Viver – Grátis) | [https://api.whatsapp.com/send?1=pt_BR&amp;phone=5581995307307](Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.)
+[https://www.trololodemulher.com.br/2018/03/09/bem-viver/](Guia Bem Viver – Grátis) | [https://api.whatsapp.com/send?1=pt_BR&amp;phone=5581995307307](Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.)
 
 **Nas Redes:**
 
