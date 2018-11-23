@@ -16,15 +16,15 @@ twitter_image: ''
 
 <p align="justify">É importante que se diga que quando falo em organização, não me refiro a ter um armário perfeitamente arrumado, ou uma cozinha que seja modelo de ambiente em ordem, ou centenas de livros impecavelmente dispostos em ordem alfabética. A organização de que estou falando diz respeito a gerenciar melhor o que temos de mais valioso, o nosso tempo. Quando bem gerenciado, o tempo no dia a dia passa a sobrar, permitindo um cotidiano sem sobrecarga, com espaço na agenda para, veja você: aprender a arrumar seu armário, cuidar de sua cozinha para que ela fique em ordem, selecionar seus livros mais queridos e separar alguns para doação. Mas vai além, pois com a sobra de tempo a gente pode cuidar melhor da alimentação, do corpo, da saúde em geral, pode investir mais energia num projeto importante, começar um hobby, ficar mais tempo com os filhos, desfrutar da companhia de quem amamos para ver um filme, ler mais, dormir mais, etc.</p>
 
-<p align="center"><img class="alignnone size-full wp-image-14733" src="![](http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/10/ORGANIZACAO-PESSOAL-PESSOA-ORGANIZADA-GESTAO-DO-TEMPO-PRODUTIVIDADE-BLOG.jpg)" alt="" width="800" height="800" /></p>
+<p align="center"><img class="alignnone size-full wp-image-14733" src="![](http://www.trololodemulher.com.br/blog/wp-content/uploads/2018/10/ORGANIZACAO-PESSOAL-PESSOA-ORGANIZADA-GESTAO-DO-TEMPO-PRODUTIVIDADE-BLOG.jpg)" alt="" /></p>
 
 <p align="justify">Olha que maravilha ser uma pessoa mais organizada!!! No final das contas, a organização está mesmo é a serviço da nossa qualidade de vida! Portanto, administrar melhor sua rotina, gerenciar bem suas tarefas e organizar bem o uso do seu tempo impacta diretamente na forma como você atinge seus objetivos, ou a falta dela explica o fato de não você não conseguir. A organização, portanto, é ferramenta, um meio através do qual você consegue tornar o seu dia a dia mais leve e feliz.</p>
 
 <p align="justify">Quando falamos de organização pessoal, estamos falando do seu cotidiano, e isso passa, necessariamente, pela forma como as demandas de seu lar são encaradas. Se cuidar de sua casa e demadas da família causam o sentimento de sobrecarga e estresse, então você precisa rever a forma como se relaciona com suas rotinas. Seu lar precisa e pode tornar-se um espaço de aconchego, acolhimento e bem-estar, de modo que te possibilite ser uma pessoa mais disposta, produtiva, leve e feliz. Se a casa onde você vive estiver bem e  harmoniosa, a sensação gostosa que isso te trará vai impactar na sua produtividade e disposição para as outras demandas da vida. E se a casa é sua, jamais espere que alguém de fora possa manter o controle e estabelecer a harmonização dela. Comece, você mesma, a tomar as rédeas da gestão das demandas do seu lar, e aproprie-se do que, de fato, é seu.</p>
 
-<p align="justify">Através da vivência no [http://www.trololodemulher.com.br/projeto-lar-bonito-lar/](Projeto Lar Bonito Lar) você saberá como começar essa organização de rotinas, conhecerá métodos para auxiliar você a manter sua lista de tarefas rodando sem esforço e sobrecarga, e verá ferramentas que vão te auxiliar a deixar a gestão do seu tempo na rotina doméstica super eficiente. Se precisar de ajuda nesse sentido, coloco-me a sua disposição.</p>
+<p align="justify">Através da vivência no [Projeto Lar Bonito Lar](https://www.trololodemulher.com.br/projeto-lar-bonito-lar/) você saberá como começar essa organização de rotinas, conhecerá métodos para auxiliar você a manter sua lista de tarefas rodando sem esforço e sobrecarga, e verá ferramentas que vão te auxiliar a deixar a gestão do seu tempo na rotina doméstica super eficiente. Se precisar de ajuda nesse sentido, coloco-me a sua disposição.</p>
 
-<p align="justify">A turma de Outubro/2018, última do ano, do Projeto Lar Bonito Lar, já começou! Por ser grupo fechado, não entra mais ninguém. A próxima só em 2019. Se quiser saber sobre a abertura de inscrições com antecedência para a próxima vivência, [https://bit.ly/2Ldn0bt](clique aqui, fale comigo no WhatsApp), e diga que deseja entrar na lista de espera para a próxima turma. Se preferir, mande whats para meu número: 81 9 9530-7307.</p>
+<p align="justify">A turma de Outubro/2018, última do ano, do Projeto Lar Bonito Lar, já começou! Por ser grupo fechado, não entra mais ninguém. A próxima só em 2019. Se quiser saber sobre a abertura de inscrições com antecedência para a próxima vivência, [clique aqui, fale comigo no WhatsApp](https://api.whatsapp.com/send?1=pt_BR&amp;phone=5581995307307), e diga que deseja entrar na lista de espera para a próxima turma. Se preferir, mande whats para meu número: 81 9 9530-7307.</p>
 
 Beijos,
 
@@ -34,12 +34,12 @@ Imagem: Pixabay
 
 **Nosso contéudo:**
 
-[https://www.trololodemulher.com.br/projeto-lar-bonito-lar/](Projeto Lar Bonito Lar)  | [https://www.trololodemulher.com.br/2018/02/28/newsletter/](Newsletter Trololó de Mulher – Grátis) | [https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&amp;loc=en_US](Assine e receba o post semanal do blog no seu e-mail – Grátis).
+[Projeto Lar Bonito Lar](https://www.trololodemulher.com.br/projeto-lar-bonito-lar/)  | [Newsletter Trololó de Mulher – Grátis](https://www.trololodemulher.com.br/2018/02/28/newsletter/) | [Assine e receba o post semanal do blog no seu e-mail – Grátis.](https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&amp;loc=en_US)
 
 **E tem mais!**
 
-[https://www.trololodemulher.com.br/2018/03/09/bem-viver/](Guia Bem Viver – Grátis) | [https://api.whatsapp.com/send?1=pt_BR&amp;phone=5581995307307](Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.)
+[Guia Bem Viver – Grátis](https://www.trololodemulher.com.br/2018/03/09/bem-viver/) | [Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.](https://api.whatsapp.com/send?1=pt_BR&amp;phone=5581995307307)
 
 **Nas Redes:**
 
-[https://www.facebook.com/lidiane.vasconcelos.94](Perfil pessoal no Facebook) | [https://www.facebook.com/TrololoMulher/](Fanpage no Facebook) | [https://www.instagram.com/trololodemulher/](Instagram)
+[Perfil pessoal no Facebook](https://www.facebook.com/lidiane.vasconcelos.94) | [Fanpage no Facebook] (https://www.facebook.com/TrololoMulher/)| [Instagram](https://www.instagram.com/trololodemulher/)
