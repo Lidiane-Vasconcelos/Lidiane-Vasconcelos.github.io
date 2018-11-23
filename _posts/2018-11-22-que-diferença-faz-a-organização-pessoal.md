@@ -42,4 +42,4 @@ Imagem: Pixabay
 
 **Nas Redes:**
 
-[Perfil pessoal no Facebook](https://www.facebook.com/lidiane.vasconcelos.94) <code>&#124;</code> [Fanpage no Facebook] (https://www.facebook.com/TrololoMulher/)<code>&#124;</code> [Instagram](https://www.instagram.com/trololodemulher/)
+[Perfil pessoal no Facebook](https://www.facebook.com/lidiane.vasconcelos.94) &#124; [Fanpage no Facebook] (https://www.facebook.com/TrololoMulher/) | [Instagram](https://www.instagram.com/trololodemulher/)
