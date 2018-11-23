@@ -12,25 +12,50 @@ layout: null
   "lang": "{{ site.manifest_lang }}",
   "orientation": "any",
   "icons": [
-    {
-      "src": "/assets/img/icons/favicon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "launcher-icon-2x.png",
-      "sizes": "96x96",
-      "type": "image/png"
-    },
-    {
-      "src": "launcher-icon-3x.png",
-      "sizes": "144x144",
-      "type": "image/png"
-    },
-    {
-      "src": "launcher-icon-4x.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    }    
-  ]
+        {
+            "src": "/assets/images/favicon/android-chrome-36x36.png?v=2",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/images/favicon/android-chrome-48x48.png?v=2",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/images/favicon/android-chrome-72x72.png?v=2",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/images/favicon/android-chrome-96x96.png?v=2",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/images/favicon/android-chrome-144x144.png?v=2",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/images/favicon/android-chrome-192x192.png?v=2",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/images/favicon/android-chrome-256x256.png?v=2",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/images/favicon/android-chrome-384x384.png?v=2",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/images/favicon/android-chrome-512x512.png?v=2",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
 }
