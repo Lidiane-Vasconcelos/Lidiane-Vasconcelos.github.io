@@ -32,14 +32,14 @@ Lidiane {Lidi}
 
 Imagem: Pixabay
 
-<p align="center"><strong>Nosso contéudo:</strong></p>
+**Nosso contéudo:**
 
-<p align="center">[http://www.trololodemulher.com.br/projeto-lar-bonito-lar/](Projeto Lar Bonito Lar)  | [http://www.trololodemulher.com.br/2018/02/28/newsletter/](Newsletter Trololó de Mulher – Grátis) | [https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&amp;loc=en_US](Assine e receba o post semanal do blog no seu e-mail – Grátis.)</p>
+[http://www.trololodemulher.com.br/projeto-lar-bonito-lar/](Projeto Lar Bonito Lar)  | [http://www.trololodemulher.com.br/2018/02/28/newsletter/](Newsletter Trololó de Mulher – Grátis) | [https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&amp;loc=en_US](Assine e receba o post semanal do blog no seu e-mail – Grátis).
 
-<p align="center"><strong>E tem mais!</strong></p>
+**E tem mais!**
 
-<p align="center">[http://www.trololodemulher.com.br/2018/03/09/bem-viver/](Guia Bem Viver – Grátis) | [https://api.whatsapp.com/send?1=pt_BR&amp;phone=5581995307307](Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.)</p>
+[http://www.trololodemulher.com.br/2018/03/09/bem-viver/](Guia Bem Viver – Grátis) | [https://api.whatsapp.com/send?1=pt_BR&amp;phone=5581995307307](Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.)
 
-<p align="center"><strong>Nas Redes:</strong></p>
+**Nas Redes:**
 
-<p align="center">[https://www.facebook.com/lidiane.vasconcelos.94](Perfil pessoal no Facebook) | [https://www.facebook.com/TrololoMulher/](Fanpage no Facebook) | [https://www.instagram.com/trololodemulher/](Instagram)</p>
+[https://www.facebook.com/lidiane.vasconcelos.94](Perfil pessoal no Facebook) | [https://www.facebook.com/TrololoMulher/](Fanpage no Facebook) | [https://www.instagram.com/trololodemulher/](Instagram)
