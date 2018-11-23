@@ -4,12 +4,12 @@ title: "Trololó de Mulher"
 description: "Trololó de Mulher"
 meta_description: "Trololó de Mulher"
 content_lang: "pt-br"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+#logo: 'assets/images/logo.png'
+#favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-11722414-61'
 disqus: 'trololodemulher'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=XZS5be86f1cda105300172a2f10&product=sticky-share-buttons"></script>'
 enable_jumbotron_header: false
 enable_jumbotron_footer: false
