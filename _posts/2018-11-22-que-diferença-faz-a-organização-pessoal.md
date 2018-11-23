@@ -24,7 +24,7 @@ twitter_image: ''
 
 <p align="justify">Através da vivência no [http://www.trololodemulher.com.br/projeto-lar-bonito-lar/](Projeto Lar Bonito Lar) você saberá como começar essa organização de rotinas, conhecerá métodos para auxiliar você a manter sua lista de tarefas rodando sem esforço e sobrecarga, e verá ferramentas que vão te auxiliar a deixar a gestão do seu tempo na rotina doméstica super eficiente. Se precisar de ajuda nesse sentido, coloco-me a sua disposição.</p>
 
-<p align="justify">A turma de Outubro/2018, última do ano, do Projeto Lar Bonito Lar, já começou! Por ser grupo fechado, não entra mais ninguém. A próxima só em 2019. Se quiser saber sobre a abertura de inscrições com antecedência para a próxima vivência, <a href="[https://bit.ly/2Ldn0bt](clique aqui, fale comigo no WhatsApp), e diga que deseja entrar na lista de espera para a próxima turma. Se preferir, mande whats para meu número: 81 9 9530-7307.</p>
+<p align="justify">A turma de Outubro/2018, última do ano, do Projeto Lar Bonito Lar, já começou! Por ser grupo fechado, não entra mais ninguém. A próxima só em 2019. Se quiser saber sobre a abertura de inscrições com antecedência para a próxima vivência, [https://bit.ly/2Ldn0bt](clique aqui, fale comigo no WhatsApp), e diga que deseja entrar na lista de espera para a próxima turma. Se preferir, mande whats para meu número: 81 9 9530-7307.</p>
 
 Beijos,
 
