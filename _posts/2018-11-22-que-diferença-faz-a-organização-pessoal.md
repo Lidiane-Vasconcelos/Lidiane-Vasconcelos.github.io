@@ -34,12 +34,12 @@ Imagem: Pixabay
 
 <p align="center"><strong>Nosso contéudo:</strong></p>
 
-<p align="center"><a href="[http://www.trololodemulher.com.br/projeto-lar-bonito-lar/](http://www.trololodemulher.com.br/projeto-lar-bonito-lar/ "http://www.trololodemulher.com.br/projeto-lar-bonito-lar/")" target="_blank" rel="noopener">Projeto Lar Bonito Lar</a> | <a href="[http://www.trololodemulher.com.br/2018/02/28/newsletter/](http://www.trololodemulher.com.br/2018/02/28/newsletter/ "http://www.trololodemulher.com.br/2018/02/28/newsletter/")" target="_blank" rel="noopener">Newsletter Trololó de Mulher – Grátis</a> | <a href="[https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&amp;loc=en_US](https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&amp;loc=en_US "https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&amp;loc=en_US")" target="_blank" rel="noopener">Assine e receba o post semanal do blog no seu e-mail – Grátis.</a></p>
+<p align="center">[http://www.trololodemulher.com.br/projeto-lar-bonito-lar/](Projeto Lar Bonito Lar)  | [http://www.trololodemulher.com.br/2018/02/28/newsletter/](Newsletter Trololó de Mulher – Grátis) | [https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&amp;loc=en_US](Assine e receba o post semanal do blog no seu e-mail – Grátis.)</p>
 
 <p align="center"><strong>E tem mais!</strong></p>
 
-<p align="center"><a href="[http://www.trololodemulher.com.br/2018/03/09/bem-viver/](http://www.trololodemulher.com.br/2018/03/09/bem-viver/ "http://www.trololodemulher.com.br/2018/03/09/bem-viver/")" target="_blank" rel="noopener">Guia Bem Viver – Grátis</a> | <a href="[https://api.whatsapp.com/send?1=pt_BR&amp;phone=5581995307307](https://api.whatsapp.com/send?1=pt_BR&amp;phone=5581995307307 "https://api.whatsapp.com/send?1=pt_BR&amp;phone=5581995307307")" target="_blank" rel="noopener">Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.</a></p>
+<p align="center"><[http://www.trololodemulher.com.br/2018/03/09/bem-viver/](Guia Bem Viver – Grátis) | [https://api.whatsapp.com/send?1=pt_BR&amp;phone=5581995307307](Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.)</a></p>
 
 <p align="center"><strong>Nas Redes:</strong></p>
 
-<p align="center"><a href="[https://www.facebook.com/lidiane.vasconcelos.94](https://www.facebook.com/lidiane.vasconcelos.94 "https://www.facebook.com/lidiane.vasconcelos.94")" target="_blank" rel="noopener">Perfil pessoal no Facebook</a> | <a href="[https://www.facebook.com/TrololoMulher/](https://www.facebook.com/TrololoMulher/ "https://www.facebook.com/TrololoMulher/")" target="_blank" rel="noopener">Fanpage no Facebook</a> | <a href="[https://www.instagram.com/trololodemulher/](https://www.instagram.com/trololodemulher/ "https://www.instagram.com/trololodemulher/")" target="_blank" rel="noopener">Instagram</a></p>
+<p align="center">[https://www.facebook.com/lidiane.vasconcelos.94](Perfil pessoal no Facebook) | [https://www.facebook.com/TrololoMulher/](Fanpage no Facebook) | [https://www.instagram.com/trololodemulher/](Instagram)</p>
