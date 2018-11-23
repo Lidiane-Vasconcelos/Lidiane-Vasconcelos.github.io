@@ -38,7 +38,7 @@ Imagem: Pixabay
 
 <p align="center"><strong>E tem mais!</strong></p>
 
-<p align="center"><[http://www.trololodemulher.com.br/2018/03/09/bem-viver/](Guia Bem Viver – Grátis) | [https://api.whatsapp.com/send?1=pt_BR&amp;phone=5581995307307](Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.)</a></p>
+<p align="center">[http://www.trololodemulher.com.br/2018/03/09/bem-viver/](Guia Bem Viver – Grátis) | [https://api.whatsapp.com/send?1=pt_BR&amp;phone=5581995307307](Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.)</p>
 
 <p align="center"><strong>Nas Redes:</strong></p>
 
