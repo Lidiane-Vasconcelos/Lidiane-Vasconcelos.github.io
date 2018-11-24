@@ -306,6 +306,8 @@ License: https://www.wowthemes.net/freebies-license/
  .featured-image {
      display:block;
      margin-bottom:1.5rem;
+     margin-left: auto;
+     margin-right: auto;     
 }
  .share {
      text-align:center;
