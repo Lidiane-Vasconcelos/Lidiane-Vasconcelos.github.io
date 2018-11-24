@@ -1,4 +1,4 @@
-{% if page.is_post %}
+{% if page.title %}
   {% assign type = "BlogPosting" %}
 {% else %}
   {% assign type = "Blog" %}
@@ -14,19 +14,19 @@
       "@type": "{{ type }}",
       "@id": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
     },
-    "name": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
+    "name": "{{ page.title | default: site.title }}",
     "keywords": "{% if page.tags %}{{ page.tags | join: ',' | jsonify }}{% endif %}",
     "articleBody": {{ page.content | strip_html | jsonify }},    
-    "headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
+    "headline": "{{ page.title | default: site.title }}",
     "description": "{% if page.meta_description %}{{ page.meta_description | strip_html | strip_newlines | truncate: 140 }}{% else %}{{ site.meta_description }}{% endif %}",
     "datePublished": "{{ page.date | date_to_xmlschema }}",
     "dateModified": {{ page.last_modified_at | default: page.date | jsonify }},    
   {% if page.image %}
     "image": {
       "@type": "ImageObject",
-      "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}{{ page.image.path }}",
-      "width": {{ page.image.width }},
-      "height": {{ page.image.height }}
+      "url": "{{ site.url | append: page.image }}",
+      "width": 600,
+      "height": 300
   },
   {% endif %}  
     "author": {
@@ -38,9 +38,9 @@
                 "url": "{{ site.gravatar_url }}",
             },      
       "sameAs":[  
-        "https://twitter.com/pauldambra",
-        "https://github.com/pauldambra",
-        "https://plus.google.com/u/0/+PaulDAmbraPlus"
+        "https://www.facebook.com/{{ site.authors[page.author].facebook }}",
+        "https://www.twitter.com/{{ site.authors[page.author].twitter }}",
+        "https://plus.google.com/u/0/{{site.authors[page.author].googleplus_id}}"
       ]      
     },  
     "publisher": {
@@ -55,11 +55,10 @@
         "height": 60
       },
       "sameAs":[  
-        "https://twitter.com/pauldambra",
-        "https://github.com/pauldambra",
-        "https://plus.google.com/u/0/+PaulDAmbraPlus"
+        "https://www.facebook.com/{{ site.facebook.publisher }}",      
+        "https://twitter.com/{{ site.twitter.username }}",
+        "https://plus.google.com/u/0/{{ site.authors[page.author].googleplus_id }}"
       ]      
     }
   }
   </script>
- 
