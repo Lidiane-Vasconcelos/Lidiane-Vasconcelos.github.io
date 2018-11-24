@@ -1,32 +1,28 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
 <meta http-equiv="Content-Language" content="{{ site.content_lang }}">
-  <!--Feed-->
-  {% feed_meta %}
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
- {% include meta/website_ownership.html %} 
+ {% include analytics.html %}  
 
-  <!--Google Analytics-->
-  {% include analytics.html %}  
-
-  <title>
+ <title>
     {%- if page.title -%}
       {{ page.title | smartify }} · {{ site.title | smartify }}
     {%- else -%}
       {{ site.title | smartify }} · {{ site.description | smartify }}
     {%- endif -%}
-  </title>
-  <meta name="description" content="{{ page.meta_description | default: site.meta_description }}">
+ </title>
+
+ <meta name="description" content="{{ page.meta_description | default: site.meta_description }}">
   
   <!--Manifest used for enabling PWA-->
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="{{ site.manifest_theme_color | default: 'white' }}"/>  
 
-  {% include meta/social.html %} 
-  {% include meta/favicon.html %}  
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
+ {% include meta/social.html %} 
+ {% include meta/favicon.html %}  
  {% include meta/stylesheet.html %} 
+ {% include meta/website_ownership.html %} 
 
+{% feed_meta %}
 {{ site.sharethis }}	  
