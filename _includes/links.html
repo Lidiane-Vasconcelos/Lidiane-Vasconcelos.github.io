@@ -21,9 +21,87 @@
         <input type="hidden" name="__subject" value="New submission!" />       
       </div>
     </form>
+
+
+body {
+  background: #F8A434;
+  font-family: 'Lato', sans-serif;
+  color: #FDFCFB;
+  text-align: center;
+}
+
+
+form {
+  width: 450px;
+  margin: 17% auto;
+}
+
+
+.header {
+  font-size: 35px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+
+.description {
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 1.3em;
+  margin: -2px 0 45px;
+}
+
+
+.input {
+  display: flex;
+  align-items: center;
+}
+
+
+.button {
+  height: 44px;
+  border: none;
+}
+
+  
+#email {
+  width: 75%;
+  background: #FDFCFB;
+  font-family: inherit;
+  color: #737373;
+  letter-spacing: 1px;
+  text-indent: 5%;
+  border-radius: 5px 0 0 5px;
+}
+
+
+#submit {
+  width: 25%;
+  height: 46px;
+  background: #E86C8D;
+  font-family: inherit;
+  font-weight: bold;
+  color: inherit;
+  letter-spacing: 1px;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  transition: background .3s ease-in-out;
+}
+  
+
+#submit:hover {
+  background: #d45d7d;
+}
+  
+
+input:focus {
+  outline: none;
+  outline: 2px solid #E86C8D;
+  box-shadow: 0 0 2px #E86C8D;
+}
 -->
 
-
+<!--
 <div class="container">
   <h1 class="text-center">Lorem ipsum dolor sit amet consectetur adipiscing elit</h1>
 
@@ -60,3 +138,110 @@
   <div class="dis30"></div>
   
 </div>
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: #6a6c6f;
+  background-color: #f1f3f6;
+  margin-top: 30px;
+}
+
+.dis15,
+.dis30,
+.dis80 {
+  width: 100%;
+  height: 15px;
+  float: left;
+  clear: both;
+}
+.dis80 {
+  height: 80px;
+}
+.dis30 {
+  height: 30px;
+}
+
+.container {
+  max-width: 920px;
+}
+
+hr {
+  border-color: #d4d4d4;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #000;
+}
+h1 {
+    font-size: 50px;
+}
+h1,
+h2 {
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 38px;
+}
+
+h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.btn {
+  font-family: 'Roboto', sans-serif;
+}
+
+.btn-warning {
+  max-width: 250px;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 10px 12px;
+  text-transform: uppercase;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.check-list li {
+  margin-bottom: 5px;
+}
+
+.check-list li:last-child {
+  margin-bottom: 0;
+}
+
+.check-list li:before {
+  position: relative;
+  content: "\e013";
+  top: 1px;
+  display: inline-block;
+  font-family: 'Glyphicons Halflings';
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1;
+  border-radius: 100%;
+  color: #7CB342;
+  margin-right: 8px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.form-control {
+  height: 38px;
+  border-radius: 0;
+}
+-->
