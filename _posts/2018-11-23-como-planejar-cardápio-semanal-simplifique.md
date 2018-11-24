@@ -8,8 +8,6 @@ meta_description: A definição do cardápio semanal da família não precisa se
 hidden: false
 image: "/uploads/ROTINA DA CASA-ORGANIZACAO PESSOAL-GESTAO DO TEMPO-CARDAPIO SEMANAL-750.jpg"
 categories: []
-facebook_image: ''
-twitter_image: ''
 
 ---
 <p align="justify">A definição do <strong>cardápio semanal</strong> da família não precisa ser uma tarefa complicada, e na verdade é mesmo bastante simples. Hoje eu gostaria de compartilhar com você essa estratégia que permite à família comer com mais qualidade, poupa o estresse de quem cozinha, e ajuda a economizar nas compras, evitando desperdícios.</p>
