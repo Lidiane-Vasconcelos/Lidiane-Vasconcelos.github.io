@@ -25,14 +25,4 @@ categories: []
 
 <p align="justify">Atividade física faz bem para o corpo e, sobretudo, para a mente. Dedicar esse tempo para cuidar de si faz bem e é uma excelente forma de exercitar a sua capacidade de focar numa atividade só. Isso é importantíssimo para a gente caminhar rumo ao hábito de deixar de tentar realizar várias tarefas ao mesmo tempo, pois isso impacta diretamente na nossa capacidade de realização. Portanto, exercício físico tem tudo a ver com nos manter ainda mais produtivas… aposte nisso!</p>
 
-<p align="center"><strong>\[LUXO É TER TEMPO, E USÁ-LO NO QUE MAIS IMPORTA\]</strong></p>
-
-<p align="justify">Se você sente que falta tempo para o que é essencial para você, então você precisa se organizar. Se sua rotina doméstica, por exemplo, tem sido fonte de estresse e te deixa com a sensação de estar sempre em dívida com as demandas do lar, experimente o Projeto Lar Bonito Lar, e toda a leveza que sua rotina vai ganhar colocando em ação as melhores práticas na gestão do tempo em casa. Ganhe tempo já na rotina pessoal, no seu lar, e use essa riqueza (seu tempo) nas atividades que mais importam para você.</p>
-
-<p align="justify">A turma de Outubro, última de 2018, está em andamento, mas é fechada e não entra mais ninguém. A próxima turma sé em 2019.  Quer participar? <a href="[https://bit.ly/2Ldn0bt](https://bit.ly/2Ldn0bt "https://bit.ly/2Ldn0bt")" target="_blank" rel="noopener">Clique aqui e fale comigo no whatsApp</a>, e peça para entrar na lista de espera, já em formação. Ou mande mensagem para mim no whats 81 . 9 . 9530-7307.</p>
-
-<p align="justify">Beijos,</p>
-
-<p align="justify">Lidiane {Lidi}</p>
-
 <p align="justify">Imagem: Pixabay</p>
