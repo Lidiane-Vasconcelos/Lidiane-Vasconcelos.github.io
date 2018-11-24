@@ -18,7 +18,9 @@
 }
 </script>
 
+<meta property="og:title" content="{{ page.title | default: site.title | smartify }}" />
+<meta property="og:description" content="{{ page.meta_description | default: site.meta_description | smartify }}">
 
 <!-- Google Card -->
-<meta itemprop="description" content="{{ card.description }}" />
+<meta itemprop="description" content={{ page.meta_description | default: site.meta_description | smartify }} />
 <meta itemprop="image" content="{{ card.image }}" />
