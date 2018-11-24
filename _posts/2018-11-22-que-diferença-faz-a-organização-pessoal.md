@@ -8,8 +8,6 @@ meta_description: Saiba por que aprender as melhores estratégias de organizaç�
 hidden: false
 image: "/uploads/GESTAODOTEMPO-ORGANIZACAOPESSOAL-PRODUTIVIDADE-BLOG.jpg"
 categories: []
-facebook_image: ''
-twitter_image: ''
 
 ---
 <p align="justify">Você se considera uma pessoa organizada? Enxerga valor em desenvolver a <strong>organização pessoal</strong>? Imagina que isso faria diferença no seu dia a dia? Eu posso te garantir que vale muito à pena aprender as melhores práticas de organização pessoal e gestão do tempo, experimentá-las, avaliar o que funciona, e curtir os benefícios reais trazidos pela organização no nosso cotidiano.</p>
@@ -32,14 +30,3 @@ Lidiane {Lidi}
 
 Imagem: Pixabay
 
-**Nosso contéudo:**
-
-[Projeto Lar Bonito Lar](https://www.trololodemulher.com.br/projeto-lar-bonito-lar/) <code>&#124;</code> [Newsletter Trololó de Mulher – Grátis](https://www.trololodemulher.com.br/2018/02/28/newsletter/) <code>&#124;</code> [Assine e receba o post semanal do blog no seu e-mail – Grátis.](https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&amp;loc=en_US)
-
-**E tem mais!**
-
-[Guia Bem Viver – Grátis](https://www.trololodemulher.com.br/2018/03/09/bem-viver/) <code>&#124;</code> [Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.](https://api.whatsapp.com/send?1=pt_BR&amp;phone=5581995307307)
-
-**Nas Redes:**
-
-[Perfil pessoal no Facebook](https://www.facebook.com/lidiane.vasconcelos.94) <code>&#124;</code> [Fanpage no Facebook](https://www.facebook.com/TrololoMulher/) <code>&#124;</code> [Instagram](https://www.instagram.com/trololodemulher/)
