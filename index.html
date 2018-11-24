@@ -16,7 +16,7 @@ layout: default
     <div class="row">      
        {% assign counter = 0 %}
        {% for post in site.posts limit:20 %}
-         {% if counter <3 %}
+         {% if counter <2 %}
            {% if post.featured == true %}
                {% include featuredbox.html %}
                {% assign counter=counter | plus:1 %}
