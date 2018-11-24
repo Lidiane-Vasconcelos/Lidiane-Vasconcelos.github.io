@@ -9,7 +9,7 @@
     </button>
 
     <div class="collapse navbar-collapse" id="navbarMediumish">
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav ml-auto" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
                         {% assign links = site.data.navigation %}
         {% for link in links %}
             {% assign class = nil %}
@@ -17,17 +17,17 @@
                 {% assign class = 'nav-item' %}
             {% endif %}
             {% if link.sublinks %}
-                <li class="nav-item dropdown">
+                <li class="nav-item dropdown" itemprop="name">
                     <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Navegue +</a> 
                     <div class="dropdown-menu" aria-labelledby="dropdown01">                    
                         {% for sublink in link.sublinks %}
-                           <a class="dropdown-item" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+                           <a class="dropdown-item" itemprop="url" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
                         {% endfor %}
                    </div>     
                 </li>
             {% else %}
-                <li class="{{ class }}">
-                    <a class = 'nav-link' href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+                <li class="{{ class }}" itemprop="name">
+                    <a class = 'nav-link' itemprop="url" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
                 </li>
             {% endif %}
         {% endfor %}
