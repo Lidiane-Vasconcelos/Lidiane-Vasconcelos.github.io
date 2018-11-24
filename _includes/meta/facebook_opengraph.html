@@ -1,14 +1,12 @@
-{% if site.facebook.app_id %}
-   <meta property="fb:app_id" content="{{ site.facebook.app_id }}" />
-{% endif %}
-
-   <meta property="og:site_name" content="{{ site.title }}">
-   <meta property="og:locale" content="pt_BR" />
+<meta property="fb:app_id" content="{{ site.facebook.app_id }}" />
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+<meta property="og:title" content="{{ page.title | default: site.title | smartify }}" />
+<meta property="og:description" content="{{ page.meta_description | default: site.meta_description | smartify }}">
 
 {% if page.title %}
-   <meta property="og:title" content="{{ page.title }}" />
    <meta property="og:type" content="article">
-   {% assign author = site.authors[page.author] %}  
    <meta property="article:author" content="https://www.facebook.com/{{ site.authors[page.author].facebook }}">
    <meta property="article:publisher"	content="https://www.facebook.com/{{ site.facebook.publisher }}">
    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" >
@@ -23,25 +21,11 @@
       {% endfor %}
    {% endif %}
 {% else %}
-   <meta property="og:title" content="{{ site.title }}" />
    <meta property="og:type" content="website">
 {% endif %}
 
-{% if page.meta_description %}
-   <meta property="og:description" content="{{ page.meta_description }}">
-{% else %}
-   <meta property="og:description" content="{{ site.meta_description }}">
-{% endif %}
-
-{% if page.id %}
-   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-{% else %}
-   <meta property="og:url" content="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}" />
-{% endif %}
-
-{% if page.facebook_image !='' and page.facebook_image %}
-   <meta property="og:image" content="{{ site.url }}{{ page.facebook_image }}" />
-{% else %}
-   <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
-{% endif %}
-
+<meta property="og:image" content="{{ site.url | replace: 'https://', 'http://' | append: page.image }}">
+<meta property="og:image:secure_url" content="{{ site.url | append: page.image }}">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="600">
+<meta property="og:image:height" content="300">
