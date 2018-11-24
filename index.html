@@ -13,11 +13,15 @@ layout: default
     <div class="section-title">
         <h2><span>Artigos em Destaque</span></h2>
     </div>
-    <div class="row">
-       {% for post in site.posts limit:2 %}
+    <div class="row">      
+       {% assign counter = 0 %}
+       {% for post in site.posts limit:20 %}
+         {% if counter <3 %}
            {% if post.featured == true %}
                {% include featuredbox.html %}
+               {% assign counter=counter | plus:1 %}
            {% endif %}
+         {% endif %}
        {% endfor %}
     </div>
 </section>
