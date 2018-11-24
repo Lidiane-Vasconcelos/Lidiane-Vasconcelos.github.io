@@ -35,6 +35,15 @@ post_class: post-template
               <link itemprop="url" href="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}"> 
             </span>	      
 	 {% endif %}
+	      
+<meta property="og:site_name" content="Example Site" />
+<div itemscope itemtype="http://schema.org/Article">
+    <meta itemprop="url" content="http://www.cnn.com/2014/08/11/travel/sagano-bamboo-forest/" />
+    <span itemprop="name" content="Exploring Kyoto's Sagano Bamboo Forest - CNN.com" /> 
+    by <span itemprop="author" content="CNN Karla Cripps" />
+    <img itemprop="image" src="http://www.example.com/2013/article_image.png" alt="
+Kyoto Forest" />
+    <span itemprop="description">A constant inclusion on lists of forests to see before you die, here's how to see the real thing.</span>	      
 
          <!-- Post Content -->
          <div class="article-post">
