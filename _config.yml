@@ -81,6 +81,7 @@ pinterest_verify: b67c53ad4b8f419348c53d1a41256265
 #=============================================
 facebook:
   admins: lidiane.vasconcelos.94
+  admin_id: 1877953365614881
   publisher: TrololoMulher
   app_id: 716605308724809
 twitter:
