@@ -1,7 +1,7 @@
 <!--Google Author -->
-  <meta name="author" content="{{ site.authors[page.author].display_name }}" />
-  <link href="https://plus.google.com/{{site.google.googleplus_code}}" rel="publisher" />
-  <link href="https://plus.google.com/{{site.authors[page.author].googleplus_code}}" rel="author" />
+<meta name="author" content="{{ site.authors[page.author].display_name }}" />
+<link href="https://plus.google.com/{{site.google.googleplus_code}}" rel="publisher" />
+<link href="https://plus.google.com/u/0/{{ site.authors[page.author].googleplus_id }}" rel="author" />
 
 <!-- Schema.org markup for Google+ -->
 <meta itemprop="name" content="{{ page.title | default: site.title | smartify }}" />
