@@ -29,10 +29,13 @@
       "@type": "Person",
       "name": "{{ site.authors[page.author].display_name | jsonify }}"
       "email": {{ site.authors[page.author].email | jsonify }} ,
-            "image": {
+      "gender": "{{ site.authors[page.author].gender }}",
+      "birthDate": "{{ site.authors[page.author].birthDate }}",      
+      "jobTitle": "{{ site.authors[page.author].jobTitle }}",           
+      "image": {
                 "@type": "ImageObject",
                 "url": "{{ site.gravatar_url }}",
-            },      
+               },      
       "sameAs":[  
         "https://www.facebook.com/{{ site.authors[page.author].facebook }}",
         "https://www.twitter.com/{{ site.authors[page.author].twitter }}",
