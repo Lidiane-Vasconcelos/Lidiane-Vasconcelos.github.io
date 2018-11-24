@@ -27,21 +27,11 @@ fields:
   name: hidden
   label: Esconder da Navegação (mas não do link direto)
 - type: file
-  label: Imagem Destacada (entre Titulo e Conteudo)
+  label: Imagem Destacada (entre Titulo e Conteúdo) 600x300
   name: image
 - type: tag_list
   name: categories
   label: Categorias
-- type: file
-  label: Imagem no Facebook
-  name: facebook_image
-  description: Se você não desejar usar a imagem do post. O tamanho recomendado para
-    a imagem Facebook é 1200(H) por 627(V) px.
-- type: file
-  description: O tamanho minímo recomendado para a imagem Twitter é 440(H) x 220(V)
-    (2:1 Ratio) ou 1024 x 512 .
-  label: Imagem no Twitter
-  name: twitter_image
 pages:
 - _posts/2018-11-24-sobre-3-regras-para-viver-bem-na-vida-real.md
 - _posts/2018-11-22-mexa-se-em-atividade-física-e-seja-mais-produtiva.md
