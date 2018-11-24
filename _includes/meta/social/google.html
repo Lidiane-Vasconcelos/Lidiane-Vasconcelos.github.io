@@ -18,9 +18,7 @@
 }
 </script>
 
-<meta property="og:title" content="{{ page.title | default: site.title | smartify }}" />
-<meta property="og:description" content="{{ page.meta_description | default: site.meta_description | smartify }}">
-
-<!-- Google Card -->
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="{{ page.title | default: site.title | smartify }}" />
 <meta itemprop="description" content={{ page.meta_description | default: site.meta_description | smartify }} />
-<meta itemprop="image" content="{{ card.image }}" />
+<meta itemprop="image" content="{{ site.url | append: page.image }}" />
