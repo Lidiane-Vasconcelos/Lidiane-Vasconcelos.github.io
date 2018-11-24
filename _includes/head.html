@@ -10,7 +10,13 @@
   <!--Google Analytics-->
   {% include analytics.html %}  
 
-  <title>{{ page.title | default: site.title }}</title>
+  <title>
+    {%- if page.title -%}
+      {{ page.title | smartify }} · {{ site.title | smartify }}
+    {%- else -%}
+      {{ site.title | smartify }} · {{ site.description | smartify }}
+    {%- endif -%}
+  </title>
   <meta name="description" content="{{ page.meta_description | default: site.meta_description }}">
   
   <!--Manifest used for enabling PWA-->
