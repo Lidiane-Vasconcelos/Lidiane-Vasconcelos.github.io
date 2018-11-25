@@ -5,8 +5,6 @@ permalink: /Projeto-Lar-Bonito-Lar/
 
 ---
 
-<!--![ROTINA DOMESTICA-GESTAO DO TEMPO-PRODUTIVIDADE-BLOG] (/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER.jpg) width="800" height="800"-->
-
 
 <p align="center"><img src="/uploads/PROJETO LAR BONITO LAR-TROLOLO DE MULHER.jpg" alt="ROTINA DOMESTICA-GESTAO DO TEMPO-PRODUTIVIDADE-BLOG"  /></p>
 
