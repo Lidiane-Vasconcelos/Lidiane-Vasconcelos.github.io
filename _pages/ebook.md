@@ -1,7 +1,7 @@
 ---
-title: Projeto Lar Bonito Lar
+title: ebook
 layout: page
-permalink: /Projeto-Lar-Bonito-Lar/
+permalink: /ebook/
 
 ---
 
