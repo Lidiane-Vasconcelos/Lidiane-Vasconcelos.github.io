@@ -1,3 +1,10 @@
+---
+title: Projeto Lar Bonito Lar
+layout: page
+permalink: /Projeto-Lar-Bonito-Lar/
+
+---
+
 <div class="container">
   <h1 class="text-center">Lorem ipsum dolor sit amet consectetur adipiscing elit</h1>
 
