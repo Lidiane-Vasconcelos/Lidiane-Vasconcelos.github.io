@@ -1,4 +1,11 @@
- <body>
+---
+title: ebook2
+layout: page
+permalink: /ebook2/
+
+---
+
+<body>
    
     <div className="intro-header">
         <div className="container">
