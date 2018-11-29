@@ -36,9 +36,10 @@ fields:
   name: categories
   label: Categorias
 pages:
-- _posts/2018-11-23-como-planejar-cardápio-semanal-simplifique.md
-- _posts/2018-11-22-que-diferença-faz-a-organização-pessoal.md
-- _posts/2018-11-22-mexa-se-em-atividade-física-e-seja-mais-produtiva.md
-- _posts/2018-11-24-sobre-3-regras-para-viver-bem-na-vida-real.md
+- _posts/por-que-você-precisa-ter-uma-rotina-doméstica.md
 - _pages/newsletter.md
+- _posts/2018-11-24-sobre-3-regras-para-viver-bem-na-vida-real.md
+- _posts/2018-11-22-mexa-se-em-atividade-física-e-seja-mais-produtiva.md
+- _posts/2018-11-22-que-diferença-faz-a-organização-pessoal.md
+- _posts/2018-11-23-como-planejar-cardápio-semanal-simplifique.md
 - _posts/2018-11-23-em-redes-sociais-cada-qual-com-sua-opinião.md
