@@ -17,3 +17,19 @@ permalink: "/Newsletter/"
 <p align="center"></p>
 
 <p align="justify">Além do mais, ao assinar a Newsletter Trololó de Mulher, você ganha um presente! Aprenda e pratique boas práticas sobre <strong>bem viver</strong>, através de um guia que será disponibilizado para você baixar, e cultive o sentimento de bem-estar no seu dia a dia. Eu desejo que esse presente toque positivamente o seu cotidiano.</p>
+
+
+                <div class="media-container-column" data-form-type="formoid">
+                    <div data-form-alert="" hidden="">
+                        Thanks for filling out the form!
+                    </div>
+                    <form class="form-inline" action="https://mobirise.com/" method="post" data-form-title="Mobirise Form">
+                        <input type="hidden" value="pqet3CBSQPDOGWSoCFRhvnPkVlBLn49LbooQvOBA/SjkMw67F//Zx6EcK3TpgoRxd1dveplZ2BaQu8DZIQttwatRw1IdInfaUONrKCvaXwqmFlTIXzKLNGi7mDj+68No" data-form-email="true">
+                        <div class="form-group">
+                            <input type="email" class="form-control input-sm input-inverse" name="email" required="" data-form-field="Email" placeholder="Email" id="email-header14-a">
+                        </div>
+                        <div class="buttons-wrap">
+                            <button href="" class="btn btn-primary display-4" type="submit" role="button">SUBSCRIBE</button>
+                        </div>
+                    </form>
+                </div>
