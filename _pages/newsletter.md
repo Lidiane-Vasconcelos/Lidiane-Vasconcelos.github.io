@@ -17,8 +17,6 @@ permalink: "/Newsletter/"
 <p align="center"></p>
 
 <p align="justify">Além do mais, ao assinar a Newsletter Trololó de Mulher, você ganha um presente! Aprenda e pratique boas práticas sobre <strong>bem viver</strong>, através de um guia que será disponibilizado para você baixar, e cultive o sentimento de bem-estar no seu dia a dia. Eu desejo que esse presente toque positivamente o seu cotidiano.</p>
-
-
                 <div class="media-container-column" data-form-type="formoid">
                     <div data-form-alert="" hidden="">
                         Thanks for filling out the form!
