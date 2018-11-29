@@ -7,6 +7,7 @@ meta_description: ''
 hidden: false
 image: ''
 categories: []
+layout: page
 permalink: /Obrigado-por-Assinar-a-Newsletter/
 
 ---
