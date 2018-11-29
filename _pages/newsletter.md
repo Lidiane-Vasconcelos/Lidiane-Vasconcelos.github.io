@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_with_newsletter_form
 title: Newsletter
 author: Lidiane
 featured: true
