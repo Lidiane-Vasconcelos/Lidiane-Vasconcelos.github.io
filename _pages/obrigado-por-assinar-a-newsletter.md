@@ -5,7 +5,6 @@ featured: true
 date: 2018-11-29 19:15:29 +0000
 meta_description: ''
 hidden: false
-image: ''
 categories: []
 layout: page
 permalink: /Obrigado-por-Assinar-a-Newsletter/
