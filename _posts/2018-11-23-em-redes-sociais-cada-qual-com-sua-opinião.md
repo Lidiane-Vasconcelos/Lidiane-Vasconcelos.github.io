@@ -6,7 +6,7 @@ date: 2018-11-23 14:45:12 +0000
 meta_description: 'Já reparou como tem havido debates fortes em redes sociais? Como
   defender as próprias ideias sem desrespeitar o outro? '
 hidden: false
-image: "/uploads/BEM VIVER-750.jpg"
+image: "/uploads/woman-text-messaging-in-room-600.jpg"
 categories: []
 
 ---
