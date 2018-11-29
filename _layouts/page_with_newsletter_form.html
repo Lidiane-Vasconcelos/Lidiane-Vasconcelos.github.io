@@ -1,1 +1,58 @@
-.
+---
+layout: default
+---
+
+<div class="container">
+   <div class="row">
+      <!-- Post Share -->
+      <div class="col-md-2 pl-0">
+      </div>
+		
+      <!-- Post -->        
+      {% assign author = site.authors[page.author] %}    
+      <div class="col-md-8 flex-first flex-md-unordered">
+         <div class="mainheading">
+            <!-- Post Title -->
+            <h1 class="posttitle">{{ page.title }}</h1> 		 
+         </div>
+	      
+         <!-- Post Featured Image -->
+         {% if page.image %}
+	    <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}">
+            <link itemprop="thumbnailUrl" href="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}"> 
+            <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject"> 
+              <link itemprop="url" href="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}"> 
+            </span>	      
+	 {% endif %}
+	      
+<meta itemscope itemtype="http://schema.org/Article" />
+<meta itemprop="headline" content="{{ page.title }}" />
+<meta itemprop="description" content="{{ page.meta_description }}" />
+<meta itemprop="image" content="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" />
+
+	      
+         <!-- Post Content -->
+         <div class="article-post">
+            {{content}}
+         </div>
+
+
+                <div class="media-container-column" data-form-type="formoid">
+                    <div data-form-alert="" hidden="">
+                        Thanks for filling out the form!
+                    </div>
+                    <form class="form-inline" action="https://mobirise.com/" method="post" data-form-title="Mobirise Form">
+                        <input type="hidden" value="pqet3CBSQPDOGWSoCFRhvnPkVlBLn49LbooQvOBA/SjkMw67F//Zx6EcK3TpgoRxd1dveplZ2BaQu8DZIQttwatRw1IdInfaUONrKCvaXwqmFlTIXzKLNGi7mDj+68No" data-form-email="true">
+                        <div class="form-group">
+                            <input type="email" class="form-control input-sm input-inverse" name="email" required="" data-form-field="Email" placeholder="Email" id="email-header14-a">
+                        </div>
+                        <div class="buttons-wrap">
+                            <button href="" class="btn btn-primary display-4" type="submit" role="button">SUBSCRIBE</button>
+                        </div>
+                    </form>
+                </div>
+        
+	      
+      </div>
+   </div>
+</div>
