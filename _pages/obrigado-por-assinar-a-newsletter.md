@@ -8,7 +8,6 @@ hidden: false
 categories: []
 layout: page
 permalink: "/Obrigado-por-Assinar-a-Newsletter/"
-image: ''
 
 ---
 # Sucesso!
