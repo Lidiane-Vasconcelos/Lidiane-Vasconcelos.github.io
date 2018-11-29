@@ -1,0 +1,64 @@
+---
+layout: default
+archive: false
+post_class: post-template
+---
+
+<div class="container">
+   <div class="row">
+      <!-- Post Share -->
+      <div class="col-md-2 pl-0">
+      </div>
+		
+      <!-- Post -->        
+      {% assign author = site.authors[page.author] %}    
+      <div class="col-md-8 flex-first flex-md-unordered">
+         <div class="mainheading">
+            <!-- Post Title -->
+            <h1 class="posttitle">{{ page.title }}</h1> 
+            <!-- Post Date -->
+            <small>Por: {{ author.display_name }}
+		{% if page.date %}
+                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+                {% endif %}
+		{% if page.last_modified_at %}
+                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                {% endif %}
+            </small>			 
+         </div>
+	      
+         <!-- Post Featured Image -->
+         {% if page.image %}
+	    <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}">
+            <link itemprop="thumbnailUrl" href="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}"> 
+            <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject"> 
+              <link itemprop="url" href="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}"> 
+            </span>	      
+	 {% endif %}
+	      
+<meta itemscope itemtype="http://schema.org/Article" />
+<meta itemprop="headline" content="{{ page.title }}" />
+<meta itemprop="description" content="{{ page.meta_description }}" />
+<meta itemprop="image" content="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" />
+
+	      
+         <!-- Post Content -->
+         <div class="article-post">
+            {{content}}
+         </div>
+            
+         <!-- Post Categories -->
+         <div class="after-post-tags">
+            <ul class="tags">
+               {% assign sortedCategories = page.categories | sort %}
+               {% for category in sortedCategories %}
+                  <li>
+                     <a href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{ category }}</a>
+                  </li>
+               {% endfor %}
+            </ul>
+         </div>
+	      
+      </div>
+   </div>
+</div>
