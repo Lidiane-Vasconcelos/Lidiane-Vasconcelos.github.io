@@ -3,6 +3,12 @@ label: Trololó
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  label: Título
+  name: title
+- type: text
+  name: slug
+  label: slug
 - type: select
   config:
     source:
