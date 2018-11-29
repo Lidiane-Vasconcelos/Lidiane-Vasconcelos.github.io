@@ -8,7 +8,6 @@ meta_description: 'Já reparou como tem havido debates fortes em redes sociais? 
 hidden: false
 image: "/uploads/woman-text-messaging-in-room-600.jpg"
 categories: []
-slug: ''
 
 ---
 <p align="justify">Já reparou como tem havido debates ferrenhos em <strong>redes sociais</strong>, sobre os temas mais diversos, e como defender as próprias ideias sem desrespeitar o outro é difícil? O maior desafio é agir com ética e abertura para mudar, desde que os argumentos do interlocutor façam sentido. Quem dera houvesse o desapego da ideia de que debate é sinônimo de embate. Não é. Debate é diálogo, e deveria dar espaço a entendimento, o que praticado com equilíbrio ampliaria as ideias. E por que isso tem sido tão difícil?</p> 
