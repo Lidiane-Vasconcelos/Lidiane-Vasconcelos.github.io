@@ -11,7 +11,7 @@ categories: []
 slug: ''
 
 ---
-<p align="justify">Já reparou como tem havido debates ferrenhos em <strong>redes sociais</strong>, sobre os temas mais diversos, e como defender as próprias ideias sem desrespeitar o outro é difícil? O maior desafio é agir com ética e abertura para mudar, desde que os argumentos do interlocutor façam sentido. Quem dera houvesse o desapego da ideia de que debate é sinônimo de embate. Não é. Debate é diálogo, e deveria dar espaço a entendimento, o que praticado com equilíbrio ampliaria as ideias. E por que isso tem sido tão difícil?</p>
+<p align="justify">Já reparou como tem havido debates ferrenhos em <strong>redes sociais</strong>, sobre os temas mais diversos, e como defender as próprias ideias sem desrespeitar o outro é difícil? O maior desafio é agir com ética e abertura para mudar, desde que os argumentos do interlocutor façam sentido. Quem dera houvesse o desapego da ideia de que debate é sinônimo de embate. Não é. Debate é diálogo, e deveria dar espaço a entendimento, o que praticado com equilíbrio ampliaria as ideias. E por que isso tem sido tão difícil?</p> 
 
 <p align="justify">Muitos de nós pensamos de maneira diferente uns dos outros, e tudo bem. Eu diria que isso é ótimo! Alguém já disse que a unanimidade é burra, e eu concordo com isso. Falta muita gente entender que pensar diferente é um direito, e respeitar isso, e aceitar essas diferenças em círculos de amizade, trabalho, em redes sociais, aplicativos de mensagens, e por aí vai. Liberdade para permitir a manifestação alheia, respeito para não atropelar o interlocutor, e bom senso pra manter valor num debate andam em crise também.</p>
 
