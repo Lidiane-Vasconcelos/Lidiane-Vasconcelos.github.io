@@ -6,9 +6,6 @@ fields:
 - type: text
   label: Título
   name: title
-- type: text
-  name: slug
-  label: slug
 - type: select
   config:
     source:
