@@ -7,13 +7,14 @@ meta_description: ''
 hidden: false
 categories: []
 layout: page
-permalink: /Obrigado-por-Assinar-a-Newsletter/
+permalink: "/Obrigado-por-Assinar-a-Newsletter/"
+image: ''
 
 ---
-# Sucesso! 
+# Sucesso!
 
-Você se cadastrou para receber a Newsletter Trololó de Mulher, e agora só falta receber o seu presente. 
+Você se cadastrou para receber a Newsletter Trololó de Mulher, e agora só falta receber o seu presente.
 
-Clique no link abaixo e baixe, gratuitamente, seu Guia Bem Viver, com 3 práticas que vão trazer mais leveza para o seu dia a dia.
+Clique na imagem abaixo e baixe, gratuitamente, seu Guia Bem Viver, com 3 práticas que vão trazer mais leveza para o seu dia a dia.
 
-[Guia Bem Viver](/uploads/PDFs/TROLOLO DE MULHER - GUIA BEM VIVER.pdf)
+ [![Guia Bem Viver - Baixe agora](/uploads/Capa-Ebook-Guia-Bem-Viver.png)](/uploads/PDFs/TROLOLO DE MULHER - GUIA BEM VIVER.pdf){: .text-center}
