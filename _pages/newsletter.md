@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Newsletter
 author: Lidiane
 featured: true
