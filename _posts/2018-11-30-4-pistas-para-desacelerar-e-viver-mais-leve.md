@@ -17,7 +17,7 @@ categories: []
 
 <p align="justify">O que eu gostaria hoje é de compartilhar contigo alguns exercícios pessoais que têm feito bastante diferença no meu dia a dia. Vamos juntas aplicar o movimento "<em>slow</em>" em nossas vidas, e repensar o que estamos fazendo com o nosso tempo? 
 
-<p align="justify"><strong>Respiração</strong> 
+<p align="justify"><strong>Respiração</strong>  
 
 <p align="justify">Quando sentir-se sem equilíbrio emocional, respire. Inspire enchendo os pulmões, isso pelo nariz, e solte mais devagar pela boca. Faça isso 3 vezes e depois siga respirando normalmente, mas de maneira consciente, prestando atenção no ar que entra e o no que sai. Fique assim, quietinha, por alguns minutos… isso é tão bom, acalma tanto, que você vai querer repetir em várias outras situações. Experimente! 
 
