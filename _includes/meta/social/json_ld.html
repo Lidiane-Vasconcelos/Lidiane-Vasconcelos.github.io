@@ -53,9 +53,9 @@
       "url": "{{ site.url }}",      
       "logo": {
         "@type": "ImageObject",
-        "url": "{{ site.gravatar_url }}",
-        "width": 60,
-        "height": 60
+        "url": ""{{ site.url | append: site.logo }}",
+        "width": 194,
+        "height": 194
       },
       "sameAs":[  
         "https://www.facebook.com/{{ site.facebook.publisher }}",      
