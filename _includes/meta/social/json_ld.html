@@ -1,5 +1,7 @@
 {% if page.title %}{% assign type = "BlogPosting" %}{% else %}{% assign type = "Blog" %}{% endif %}
 
+{% if page.layout == 'post' %}
+<!-- Google Structured Data -->
 <script type="application/ld+json">
   {
     "@context": "http://schema.org",
@@ -29,9 +31,11 @@
       "@type": "Person",
       "name": {{ site.authors[page.author].display_name | jsonify }},
       "email": {{ site.authors[page.author].email | jsonify }} ,
+{% comment %}
       "gender": "{{ site.authors[page.author].gender }}",
       "birthDate": "{{ site.authors[page.author].birthDate }}",      
       "jobTitle": "{{ site.authors[page.author].jobTitle }}", 
+{% endcomment %}    
   {% if site.gravatar_url %}      
       "image": {
                 "@type": "ImageObject",
@@ -66,3 +70,38 @@
     }
  }
   </script>
+
+{% else %}
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": {{ site.title | jsonify }},
+      "url": "{{ site.url }}",
+    "author": {
+      "@type": "Person",
+      "name": {{ site.authors[page.author].display_name | jsonify }},
+      "email": {{ site.authors[page.author].email | jsonify }} ,
+{% comment %}
+      "gender": "{{ site.authors[page.author].gender }}",
+      "birthDate": "{{ site.authors[page.author].birthDate }}",      
+      "jobTitle": "{{ site.authors[page.author].jobTitle }}", 
+{% endcomment %}      
+  {% if site.gravatar_url %}      
+      "image": {
+                "@type": "ImageObject",
+                "url": "{{ site.gravatar_url }}"
+               }, 
+  {% endif %}                 
+      "sameAs":[  
+        "https://www.facebook.com/{{ site.authors[page.author].facebook }}",
+        "https://www.twitter.com/{{ site.authors[page.author].twitter }}",
+        "https://plus.google.com/u/0/{{site.authors[page.author].googleplus_id}}",
+        "http://instagram.com/{{site.authors[page.author].instagram}}",
+        "http://www.linkedin.com/in/{{site.authors[page.author].linkedin}}"      
+      ]      
+    }, 
+      "keywords": "{{ site.keywords }}"
+    }
+  </script>
+{% endif %}
