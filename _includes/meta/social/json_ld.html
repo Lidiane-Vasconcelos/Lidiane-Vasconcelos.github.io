@@ -31,11 +31,13 @@
       "email": {{ site.authors[page.author].email | jsonify }} ,
       "gender": "{{ site.authors[page.author].gender }}",
       "birthDate": "{{ site.authors[page.author].birthDate }}",      
-      "jobTitle": "{{ site.authors[page.author].jobTitle }}",           
+      "jobTitle": "{{ site.authors[page.author].jobTitle }}", 
+  {% if site.gravatar_url %}      
       "image": {
                 "@type": "ImageObject",
-                "url": "{{ site.gravatar_url }}",
-               },      
+                "url": "{{ site.gravatar_url }}"
+               }, 
+  {% endif %}                 
       "sameAs":[  
         "https://www.facebook.com/{{ site.authors[page.author].facebook }}",
         "https://www.twitter.com/{{ site.authors[page.author].twitter }}",
