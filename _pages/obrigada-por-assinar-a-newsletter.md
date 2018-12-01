@@ -7,7 +7,7 @@ meta_description: ''
 hidden: false
 categories: []
 layout: page
-permalink: "/Obrigado-por-Assinar-a-Newsletter/"
+permalink: "/Obrigada-por-Assinar-a-Newsletter/"
 
 ---
 Sucesso!
