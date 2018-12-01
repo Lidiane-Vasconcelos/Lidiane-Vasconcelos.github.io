@@ -11,7 +11,9 @@
       "@id": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
     },
     "name": "{{ page.title | default: site.title }}",
+{% comment %}    
     "keywords": "{% if page.tags %}{{ page.tags | join: ',' | jsonify }}{% endif %}",
+{% endcomment %}    
     "articleBody": {{ page.content | strip_html | xml_escape | normalize_whitepace | strip_newlines | strip | jsonify }},    
     "headline": "{{ page.title | default: site.title }}",
     "description": "{% if page.meta_description %}{{ page.meta_description | strip_html | strip_newlines | truncate: 140 }}{% else %}{{ site.meta_description }}{% endif %}",
