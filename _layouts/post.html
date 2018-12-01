@@ -35,12 +35,13 @@ post_class: post-template
               <link itemprop="url" href="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}"> 
             </span>	      
 	 {% endif %}
-	      
+
+	      <!--
 <meta itemscope itemtype="http://schema.org/Article" />
 <meta itemprop="headline" content="{{ page.title }}" />
 <meta itemprop="description" content="{{ page.meta_description }}" />
 <meta itemprop="image" content="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" />
-
+-->
 	      
          <!-- Post Content -->
          <div class="article-post">
