@@ -78,14 +78,32 @@
       "@type": "WebSite",
       "name": {{ site.title | jsonify }},
       "url": "{{ site.url }}",
+    "publisher": {
+      "@type": "Organization",
+      "name": {{ site.title | jsonify }},
+      "description": {{ site.meta_description | jsonify }},
+      "url": "{{ site.url }}",      
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.logo | prepend: site.baseurl | prepend: site.url }}",
+        "width": 32,
+        "height": 32
+      },
+      "sameAs":[  
+        "https://www.facebook.com/{{ site.facebook.publisher }}",      
+        "https://twitter.com/{{ site.twitter.username }}",
+        "https://plus.google.com/u/0/{{ site.authors[page.author].googleplus_id }}",
+        "http://instagram.com/{{site.instagram.username}}"
+      ]      
+    },      
     "author": {
       "@type": "Person",
-      "name": {{ site.authors[page.author].display_name | jsonify }},
-      "email": {{ site.authors[page.author].email | jsonify }} ,
+      "name": {{ site.authors[0].display_name | jsonify }},
+      "email": {{ site.authors[0].email | jsonify }} ,
 {% comment %}
-      "gender": "{{ site.authors[page.author].gender }}",
-      "birthDate": "{{ site.authors[page.author].birthDate }}",      
-      "jobTitle": "{{ site.authors[page.author].jobTitle }}", 
+      "gender": "{{ site.authors[0].gender }}",
+      "birthDate": "{{ site.authors[0].birthDate }}",      
+      "jobTitle": "{{ site.authors[0].jobTitle }}", 
 {% endcomment %}      
   {% if site.gravatar_url %}      
       "image": {
@@ -94,11 +112,11 @@
                }, 
   {% endif %}                 
       "sameAs":[  
-        "https://www.facebook.com/{{ site.authors[page.author].facebook }}",
-        "https://www.twitter.com/{{ site.authors[page.author].twitter }}",
-        "https://plus.google.com/u/0/{{site.authors[page.author].googleplus_id}}",
-        "http://instagram.com/{{site.authors[page.author].instagram}}",
-        "http://www.linkedin.com/in/{{site.authors[page.author].linkedin}}"      
+        "https://www.facebook.com/{{ site.authors[0].facebook }}",
+        "https://www.twitter.com/{{ site.authors[0].twitter }}",
+        "https://plus.google.com/u/0/{{site.authors[0].googleplus_id}}",
+        "http://instagram.com/{{site.authors[0].instagram}}",
+        "http://www.linkedin.com/in/{{site.authors[0].linkedin}}"      
       ]      
     }, 
       "keywords": "{{ site.keywords }}"
