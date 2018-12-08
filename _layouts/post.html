@@ -31,9 +31,9 @@ post_class: post-template
          {% if page.image %}
 	    <div class="image-wrapper" >
 	        <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}" title="{{ page.title }}">
-                {% if include.caption %}
-                  <p class="image-caption">{{ include.caption }}</p>
-                {% endif %}
+               <!-- {% if include.caption %}-->
+                  <p class="image-caption">{{ page.title }}</p>
+               <!-- {% endif %} -->
 	    </div>		    
             <link itemprop="thumbnailUrl" href="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}"> 
             <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject"> 
