@@ -39,9 +39,9 @@ layout: null
                 <article>
                   <header>
                       <h1>{{ post.title | xml_escape }}</h1>
-                      {% if post.imagefeature %}
+                      {% if post.image %}
                       <figure>
-                          <img src="{{ post.imagefeature }}" alt=" {{ post.title }} ">
+                          <img src="{{ post.image }}" alt=" {{ post.title }} ">
                           <figcaption>{{ post.title }}</figcaption>
                       </figure>
                       {% else %}
@@ -59,8 +59,8 @@ layout: null
                     {{ post.content }}
                   {% endif %}
                     <footer>
-                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
-                        <small>Copyright - Amit Seal Ami</small>
+                        <aside></aside>
+                        <small></small>
                   </footer>
                 </article>
               </body>
