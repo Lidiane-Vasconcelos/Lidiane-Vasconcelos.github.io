@@ -8,7 +8,7 @@ meta_description: O que é necessário para ser feliz? Pensar sobre isso nos mos
 hidden: false
 image: "/uploads/VIDA BOA-VIDA LEVE-VIDA EM EQUILIBRIO-SIMPLICIDADE VOLUNTARIA-600.jpg"
 categories: []
-permalink: /Voce-tem-tudo-o-que-precisa-para-ser-feliz?/
+permalink: /Voce-tem-tudo-o-que-precisa-para-ser-feliz/
 
 ---
 <p align="justify">Estava pensando sobre o que é necessário a gente ter para <strong>ser feliz</strong>, dia desses, porque andei fazendo essa pergunta para mim mesma. Estava lembrando da última viagem que marido fez para os EUA à trabalho e me abordou: o que você quer que eu traga para você? Eu não sabia responder, e a única resposta que vinha em minha cabeça é: eu tenho tudo!
