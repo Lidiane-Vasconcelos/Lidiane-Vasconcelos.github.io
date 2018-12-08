@@ -29,7 +29,11 @@ post_class: post-template
 	      
          <!-- Post Featured Image -->
          {% if page.image %}
-	    <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}">
+	    <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}" title="{{ page.title }}">
+            <!--{% if include.caption %} -->
+<!--              <p class="image-caption">{{ page.title }}</p>-->
+	      <span class="caption">{{ page.title }}</span>
+            <!--{% endif %}	      -->
             <link itemprop="thumbnailUrl" href="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}"> 
             <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject"> 
               <link itemprop="url" href="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}"> 
