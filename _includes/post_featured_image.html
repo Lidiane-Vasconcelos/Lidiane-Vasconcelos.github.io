@@ -1,0 +1,22 @@
+         <!-- Post Featured Image -->
+         {% if page.image %}
+              {% comment %} 
+	      <figure>  
+	      {% endcomment %}
+	        <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}" title="{{ page.title }}">
+            {% comment %} 
+	      <figcaption>{{ page.title }}</figcaption>
+             </figure>	  
+	    {% endcomment %}
+            <link itemprop="thumbnailUrl" href="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}"> 
+            <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject"> 
+              <link itemprop="url" href="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}"> 
+            </span>	      
+	 {% endif %}
+	      
+	      <!--
+<meta itemscope itemtype="http://schema.org/Article" />
+<meta itemprop="headline" content="{{ page.title }}" />
+<meta itemprop="description" content="{{ page.meta_description }}" />
+<meta itemprop="image" content="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" />
+-->
