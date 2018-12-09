@@ -9,6 +9,43 @@
 }
 
 
+.recent-box {
+  margin-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #d9d9d9;
+}
+
+.recent-box .recent-title {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  color: #311e3e;
+  text-align: center;
+  margin: 0 0 30px;
+}
+
+.recent-box .recent-list .recent-item {
+  position: relative;
+  display: inline-block;
+  width: 24%;
+  height: 150px;
+  margin-left: 0.5%;
+  margin-bottom: 0.5%;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+}
+
+.recent-box .recent-list .recent-item span {
+  position: absolute;
+  font-size: 12px;
+  left: 2.5%;
+  bottom: 10%;
+  color: #fff;
+}
+
+.recent-box .recent-list .recent-item:hover {
+  opacity: 0.8;
+}
+
 
 .newsletter {
   text-align: center;
