@@ -11,7 +11,8 @@
             <link itemprop="thumbnailUrl" href="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}"> 
             <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject"> 
               <link itemprop="url" href="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}"> 
-            </span>	      
+            </span>
+            <meta itemprop="image" content="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" />
 	 {% endif %}
 	      
 	      <!--
