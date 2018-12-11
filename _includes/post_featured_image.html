@@ -12,12 +12,12 @@
             <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject"> 
               <link itemprop="url" href="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}"> 
             </span>
-            <meta itemprop="image" content="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" />
+            
 	 {% endif %}
 	      
-	      <!--
+
 <meta itemscope itemtype="http://schema.org/Article" />
 <meta itemprop="headline" content="{{ page.title }}" />
 <meta itemprop="description" content="{{ page.meta_description }}" />
 <meta itemprop="image" content="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" />
--->
+
