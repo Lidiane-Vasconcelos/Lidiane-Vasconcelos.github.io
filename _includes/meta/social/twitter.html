@@ -1,5 +1,6 @@
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@{{ site.twitter.username }}" />
+<meta name="twitter:domain" content="{{site.url | replace:'https://','' }}">
 <meta name="twitter:creator" content="@{{ site.authors[page.author].twitter }}" />
 <meta name="twitter:title" content="{{ page.title | default: site.title | smartify }}" />
 <meta name="twitter:description" content="{{ page.meta_description | default site.meta_description | smartify }}">
