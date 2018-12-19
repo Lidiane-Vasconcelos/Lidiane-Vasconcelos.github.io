@@ -19,7 +19,6 @@
   font-family: 'Lato', sans-serif;
   font-weight: 400;
   /*color: #311e3e;*/
-  color: #FFFFFF;
   text-align: center;
   margin: 0 0 30px;
 }
@@ -27,7 +26,7 @@
 .recent-box .recent-list .recent-item {
   position: relative;
   display: inline-block;
-  width: 48%;
+  width: 49%;
   height: 150px;
   margin-left: 0.5%;
   margin-bottom: 0.5%;
@@ -40,7 +39,7 @@
   font-size: 12px;
   left: 2.5%;
   bottom: 10%;
-  /*color: #fff;*/
+  color: #fff;
 }
 
 .recent-box .recent-list .recent-item:hover {
