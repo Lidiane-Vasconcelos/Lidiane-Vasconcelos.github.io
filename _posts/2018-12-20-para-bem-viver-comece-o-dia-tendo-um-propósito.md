@@ -3,7 +3,7 @@ title: Para bem viver, comece o dia tendo um propósito.
 author: Lidiane
 meta_description: Você sai de casa, apenas com o piloto automático ligado, sem qualquer
   propósito para o seu dia? Saiba como mudar isso.
-featured: false
+featured: true
 hidden: false
 image: "/uploads/ROTINA MATINAL.jpg"
 categories: []
