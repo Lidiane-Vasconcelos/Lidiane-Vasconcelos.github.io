@@ -1,8 +1,8 @@
 # Site
 #=============================================
-title: "Lidiane Vasconcelos"
-description: "Lidiane Vasconcelos"
-meta_description: "Lidiane Vasconcelos"
+title: "Trololó de Mulher"
+description: "Trololó de Mulher"
+meta_description: "Trololó de Mulher"
 content_lang: "pt-BR"
 logo: '/assets/images/favicon/favicon-32x32.png?v=2'
 #favicon: 'assets/images/logo.png'
@@ -23,7 +23,7 @@ authors:
     display_name: "Lidiane Vasconcelos"
     description: "--"    
     email: trololomulher@gmail.com
-    web: https://www.lidianevasconcelos.com
+    web: https://www.trololodemulher.com.br
     twitter: TrololodeMulher
     facebook: lidiane.vasconcelos.94
     googleplus_code: 112795712529273089482
@@ -97,8 +97,8 @@ background_color:
 
 #Manifest
 #=============================================
-manifest_name: "Lidiane Vasconcelos"
-manifest_short_name: "Lidiane Vasconcelos" # Appears in "Add to home screen" dialogues and may have other importance also
+manifest_name: "Trololó de Mulher"
+manifest_short_name: "T de Mulher" # Appears in "Add to home screen" dialogues and may have other importance also
 manifest_lang: pt-br
 manifest_background_color: white
 manifest_theme_color: white
