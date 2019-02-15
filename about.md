@@ -2,6 +2,8 @@
 layout: page
 title: Sobre
 comments: false
+author: Lidiane
+image: "/uploads/fotoperfilsobre.png"
 
 ---
 Muito prazer! Bom tê-la por aqui! Meu nome é Lidiane Vasconcelos, mas pode me chamar de Lidi.
