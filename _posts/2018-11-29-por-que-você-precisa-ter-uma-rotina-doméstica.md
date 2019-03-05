@@ -26,6 +26,4 @@ categories: []
 
 <p align="justify"><strong>3 – Ter rotina te garante não esquecer nada importante:</strong> quando fazemos as coisas que vão aparecendo pela frente, sem critério, podemos nos esquecer de algo importante que só vamos nos dar conta quando se tornar urgente: lavar o uniforme das crianças, limpar decentemente a parede do banheiro, encontrar aquele exame importante para a próxima consulta. Ter rotina te prepara para dias com imprevistos, também, e é isso que faz você se tornar uma pessoa organizada.</p>
 
-<p align="justify">Caso você queira aprender, passo a passo, a gerenciar sua casa com as melhores práticas na rotina doméstica, estou com inscrições abertas para o <strong>Projeto Lar Bonito Lar</strong>. Saiba mais sobre o projeto visitando o link no final desse post, ou entre em contato comigo pelo <strong>WhatsApp 81 9 9530-7307</strong>.</p>
-
 <p align="justify">Imagem: foter.com</p>
