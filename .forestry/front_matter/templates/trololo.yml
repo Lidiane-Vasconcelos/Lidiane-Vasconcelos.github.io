@@ -35,6 +35,7 @@ fields:
   name: categories
   label: Categorias
 pages:
+- _posts/qual-a-importância-de-uma-agenda-na-rotina.md
 - _posts/quer-ter-mais-produtividade-alimente-se-melhor.md
 - _posts/como-exercitar-o-autocuidado-e-ter-mais-produtividade.md
 - _posts/2018-12-18-como-ter-mais-tempo-para-o-que-importa.md
