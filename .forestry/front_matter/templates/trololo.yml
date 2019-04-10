@@ -35,6 +35,7 @@ fields:
   name: categories
   label: Categorias
 pages:
+- _posts/que-diferença-faz-ser-uma-pessoa-organizada.md
 - _posts/mexa-se-em-atividade-física-e-seja-mais-produtiva.md
 - _posts/qual-a-importância-de-uma-agenda-na-rotina.md
 - _posts/quer-ter-mais-produtividade-alimente-se-melhor.md
