@@ -35,11 +35,6 @@ fields:
   name: categories
   label: Categorias
 pages:
-- _posts/que-diferença-faz-ser-uma-pessoa-organizada.md
-- _posts/mexa-se-em-atividade-física-e-seja-mais-produtiva.md
-- _posts/qual-a-importância-de-uma-agenda-na-rotina.md
-- _posts/quer-ter-mais-produtividade-alimente-se-melhor.md
-- _posts/como-exercitar-o-autocuidado-e-ter-mais-produtividade.md
 - _posts/2018-12-18-como-ter-mais-tempo-para-o-que-importa.md
 - _posts/2018-12-04-você-tem-tudo-o-que-precisa-para-ser-feliz.md
 - _posts/2018-11-30-4-pistas-para-desacelerar-e-viver-mais-leve.md

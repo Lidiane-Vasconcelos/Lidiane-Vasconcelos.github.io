@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre
+title: Sobre Mim
 comments: false
 author: Lidiane
 image: "/uploads/fotoperfilsobre.png"
@@ -12,4 +12,4 @@ Sou casada e tenho um filho. Sou produtora de conteúdo para blogs desde 2008. S
 
 Logo que casei, e precisei cuidar da minha própria casa, além das demandas de trabalho fora do lar e em seguida online – como produtora de conteúdo de blogs, mais do que nunca me interessei pelos assuntos produtividade, gestão do tempo e organização pessoal. Com o passar dos anos, a maturidade me fez refletir sobre a simplicidade voluntária, então os temas que giram em torno da vida simples e do bem viver me interessam bastante.
 
-É exatamente o que trago comigo e pretendo compartilhar através do meu trabalho atual, ainda como produtora de conteúdo no Trololó de Mulher, e agora como facilitadora no Projeto Lar Bonito Lar: aprender e partilhar conhecimento sobre gestão do tempo, organização pessoal, produtividade, vida simples e bem viver. =)
+É exatamente o que trago comigo e compartilho através do meu trabalho como produtora de conteúdo sobre **Organização Pessoal & Gestão do Tempo,** e como **Facilitadora** no **Projeto Lar Bonito Lar**. Meu propósito é aprender e partilhar esse conhecimento, sobretudo com mulheres,  tudo a favor de uma vida simples, com significado, e do bem viver. =)
