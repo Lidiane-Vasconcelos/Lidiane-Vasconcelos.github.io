@@ -10,15 +10,18 @@ Extract this package in the root of your web site. If your site is <code>http://
 
 Insert the following code in the `head` section of your pages:
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v3=Gvmw0Y6dLW">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v3=Gvmw0Y6dLW">
-    <link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png?v3=Gvmw0Y6dLW">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v3=Gvmw0Y6dLW">
-    <link rel="manifest" href="/site.webmanifest?v3=Gvmw0Y6dLW">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg?v3=Gvmw0Y6dLW" color="#bb4444">
-    <link rel="shortcut icon" href="/favicon.ico?v3=Gvmw0Y6dLW">
-    <meta name="msapplication-TileColor" content="#b91d47">
-    <meta name="msapplication-TileImage" content="/mstile-144x144.png?v3=Gvmw0Y6dLW">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v5=69P2nGxPlB">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v5=69P2nGxPlB">
+    <link rel="icon" type="image/png" sizes="194x194" href="/favicon-194x194.png?v5=69P2nGxPlB">
+    <link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png?v5=69P2nGxPlB">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v5=69P2nGxPlB">
+    <link rel="manifest" href="/site.webmanifest?v5=69P2nGxPlB">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg?v5=69P2nGxPlB" color="#bb4444">
+    <link rel="shortcut icon" href="/favicon.ico?v5=69P2nGxPlB">
+    <meta name="apple-mobile-web-app-title" content="Lidiane Vasconcelos">
+    <meta name="application-name" content="Lidiane Vasconcelos">
+    <meta name="msapplication-TileColor" content="#bb4444">
+    <meta name="msapplication-TileImage" content="/mstile-144x144.png?v5=69P2nGxPlB">
+    <meta name="theme-color" content="#bb4444">
 
 *Optional* - Check your favicon with the [favicon checker](https://realfavicongenerator.net/favicon_checker)
