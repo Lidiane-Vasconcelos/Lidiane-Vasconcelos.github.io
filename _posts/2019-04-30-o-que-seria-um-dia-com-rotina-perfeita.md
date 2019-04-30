@@ -9,13 +9,13 @@ image: "/uploads/ROTINA PERFEITA.jpg"
 categories: []
 
 ---
-<p align="justify">Na minha rotina perfeita às vezes acordo com o despertador, ás vezes meus olhos abrem antes mesmo do horário que estabeleci, o que não muda é a forma como escolhi começar o meu dia: meu primeiro pensamento é de gratidão por mais um dia de vida para vivê-lo como acredito que valha a pena. Levanto e vou ao banheiro, pois é o momento de cuidar do corpo.
+<p align="justify">Na minha rotina perfeita às vezes acordo com o despertador, ás vezes meus olhos abrem antes mesmo do horário que estabeleci, o que não muda é a forma como escolhi começar o meu dia: meu primeiro pensamento é de gratidão por mais um dia de vida para vivê-lo como acredito que valha à pena. Levanto e vou ao banheiro, pois é o momento de cuidar do corpo.
 
 <p align="justify">De manhã cedinho é quando tenho oportunidade de experimentar a vida em sua plenitude, com o que vale à pena para mim. Posso me presentear nesse momento de várias formas: bebendo água em temperatura ambiente com limão, para acordar o corpo; com exercício de respiração consciente, para relaxar e acordar a mente; com prática de atenção plena aos sons ao meu redor e sensações no meu corpo, para constatar que estou viva; com alongamento, para azeitar o corpo que é dádiva; com oração, para fortalecer o espírito; com leitura, para manter a mente ativa e livre!</p>
 
 <p align="justify">Por volta das 6h Artur e Denis acordam, e começamos nossa rotina matinal: café da manhã, conversa, cuidados com Artur para mandá-lo à escola. Depois que o pai leva Artur, dedico 30 minutos para uma caminhada ao ar livre. Depois da volta da caminhada, inicio a rotina de cuidados com a casa em parceria com o marido, e logo depois, começamos nosso bloco de trabalho juntos, pois ele também faz homepffice. Até este ponto do meu dia, nada de redes socias, whatsapp, email, etc. Este bloco da manhã pertence a mim e minha família, então o mundo online fica de fora.
 
-<p align="justify">Apesar de fazer o meu trabalho conectada, desenvolvi a disciplina de não multitarefar digitalmente, então nada de navegar por redes sociais&nbsp; ou papear em grupos de whatsapp, sem que haja, para isso, um propósito bem definido. Faço o que precisa ser feito, sem distrações ou telas desnecessárias abertas. 
+<p align="justify">Apesar de fazer o meu trabalho conectada, desenvolvi a disciplina de não multitarefar digitalmente, então nada de navegar por redes sociais  ou papear em grupos de whatsapp, sem que haja, para isso, um propósito bem definido. Faço o que precisa ser feito, sem distrações ou telas desnecessárias abertas.
 
 <p align="justify">Após o almoço, que fazemos juntos sem distrações de telas, vem o banho do pequeno, tarefa da escola, arrumar a cozinha. Dedico algum tempo a demandas pessoais, depois lanche da tarde e na sequência parquinho com Artur. É hora do menino brincar ao ar livre e se conectar com a vida, na companhia de outras crianças, enquanto também faço minhas conexões com outras pessoas, sem o celular, olho no olho, em conversas despretensiosas. Na parte da tarde me permito flexibilizar no que eu sentir vontade.
 
