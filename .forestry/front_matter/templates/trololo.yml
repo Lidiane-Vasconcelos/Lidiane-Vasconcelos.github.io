@@ -35,6 +35,7 @@ fields:
   name: categories
   label: Categorias
 pages:
+- _posts/o-que-seria-um-dia-com-rotina-perfeita.md
 - _posts/organize-seu-celular-e-seja-mais-produtiva.md
 - _pages/newsletter.md
 - _posts/2018-12-18-como-ter-mais-tempo-para-o-que-importa.md
