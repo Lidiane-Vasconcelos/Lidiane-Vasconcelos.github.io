@@ -1,7 +1,7 @@
 ---
 author: Lidiane
 featured: true
-title: Seja organizada dando apenas  primeiro passo.
+title: Seja organizada dando apenas o primeiro passo.
 meta_description: Como ser mais organizada e sair do modo sempre igual, de apagar
   incêndios o dia inteiro e realizar pouco?
 hidden: false
