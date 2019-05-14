@@ -35,16 +35,13 @@ fields:
   name: categories
   label: Categorias
 pages:
-- _posts/seja-organizada-dando-apenas-primeiro-passo.md
-- _posts/o-que-seria-um-dia-com-rotina-perfeita.md
-- _posts/organize-seu-celular-e-seja-mais-produtiva.md
 - _pages/newsletter.md
-- _posts/2018-12-18-como-ter-mais-tempo-para-o-que-importa.md
-- _posts/2018-12-04-você-tem-tudo-o-que-precisa-para-ser-feliz.md
+- _posts/2018-11-23-em-redes-sociais-cada-qual-com-sua-opinião.md
 - _posts/2018-11-30-4-pistas-para-desacelerar-e-viver-mais-leve.md
 - _posts/2018-11-29-por-que-você-precisa-ter-uma-rotina-doméstica.md
+- _posts/2018-12-04-você-tem-tudo-o-que-precisa-para-ser-feliz.md
+- _posts/2018-12-18-como-ter-mais-tempo-para-o-que-importa.md
 - _posts/2018-11-24-sobre-3-regras-para-viver-bem-na-vida-real.md
 - _posts/2018-11-22-mexa-se-em-atividade-física-e-seja-mais-produtiva.md
-- _posts/2018-11-22-que-diferença-faz-a-organização-pessoal.md
 - _posts/2018-11-23-como-planejar-cardápio-semanal-simplifique.md
-- _posts/2018-11-23-em-redes-sociais-cada-qual-com-sua-opinião.md
+- _posts/2018-11-22-que-diferença-faz-a-organização-pessoal.md
