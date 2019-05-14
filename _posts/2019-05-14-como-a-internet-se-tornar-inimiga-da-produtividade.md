@@ -1,7 +1,7 @@
 ---
 author: Lidiane
 featured: true
-title: Como a internet se tornar inimiga da produtividade?
+title: Como a internet pode se tornar inimiga da produtividade?
 meta_description: A forma como navegamos pode impulsionar ou travar nossa produtividade.
   Entenda.
 hidden: false
