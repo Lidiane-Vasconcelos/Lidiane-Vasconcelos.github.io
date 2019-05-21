@@ -35,6 +35,7 @@ fields:
   name: categories
   label: Categorias
 pages:
+- _posts/agenda-eficiente-compromisso-x-tarefa-x-projeto.md
 - _posts/como-a-internet-se-tornar-inimiga-da-produtividade.md
 - _pages/newsletter.md
 - _posts/2018-11-23-em-redes-sociais-cada-qual-com-sua-opinião.md
