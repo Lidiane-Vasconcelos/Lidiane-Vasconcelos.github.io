@@ -1,7 +1,7 @@
 ---
 author: Lidiane
 featured: true
-title: 8 doisas sobre organização Pessoal.
+title: 8 dicas sobre organização Pessoal.
 meta_description: Aprenda dicas sobre organização pessoal, e veja sua qualidade de
   vida melhorar.
 hidden: false
