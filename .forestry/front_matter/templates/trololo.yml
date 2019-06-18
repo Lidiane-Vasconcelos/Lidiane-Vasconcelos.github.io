@@ -35,6 +35,7 @@ fields:
   name: categories
   label: Categorias
 pages:
+- _posts/cuidar-da-casa-passa-pelo-destralhe-da-cabeça.md
 - _posts/para-ser-mais-organizada-diga-não-ao-mundo.md
 - _posts/para-bem-viver-coma-com-calma.md
 - _posts/2019-05-27-8-doisas-sobre-organização-pessoal.md
