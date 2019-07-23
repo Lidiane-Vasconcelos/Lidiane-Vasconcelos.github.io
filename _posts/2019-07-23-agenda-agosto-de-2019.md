@@ -19,7 +19,7 @@ categories: []
 
 <p align="justify"><strong>Projeto Lar Bonito Lar</strong> – Início de vivências nas datas <strong>05, 12, 19 e 26</strong>.</p>
 
-<p align="justify">Lembrando que serão 4 datas de entrada, e uma vez que a vivência começa, não entra mais ninguém com o <strong><a href="[https://www.lidianevasconcelos.com/Projeto-Lar-Bonito-Lar/](https://www.lidianevasconcelos.com/Projeto-Lar-Bonito-Lar/ "https://www.lidianevasconcelos.com/Projeto-Lar-Bonito-Lar/")" target="_blank">Projeto Lar Bonito Lar</a></strong> em andamento.</p>
+<p align="justify">Lembrando que serão 4 datas de entrada, e uma vez que a vivência começa, não entra mais ninguém com o <strong></strong> em andamento.</p>
 
 <p align="justify">A vivência do projeto tem por objetivo despertar e estimular o uso de boas estratégias de organização pessoal na gestão da rotina da casa, assim o cotidiano passa a ser mais leve, sem sobrecarga, e com sobra de tempo para outras áreas da sua vida: família, projetos pessoais, etc.</p>
 
