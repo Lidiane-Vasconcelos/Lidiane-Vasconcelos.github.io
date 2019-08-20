@@ -17,6 +17,6 @@ categories: []
 
 <p align="justify">Dia 26 é a última entrada de Agosto, e as datas de entradas de Setembro já estão disponíveis para você escolher a que melhor atende você. Teremos inícios de ciclos nos dias 2, 9, 16 e 23. Entre em contato, e posso te passar mais informações!
 
-<p align="justify">Para inscrições tirar dúvidas: <a href="mailto:lidi.vasconcelos@gmail.com">lidi.vasconcelos@gmail.com</a> ou pelo Whatsapp (81) 9. 9530-7307.
+<p align="justify">Para inscrições ou tirar dúvidas: <a href="mailto:lidi.vasconcelos@gmail.com">lidi.vasconcelos@gmail.com</a> ou pelo Whatsapp (81) 9. 9530-7307.
 
 <p align="justify">Imagem: LUM3N via Unsplash</p>
