@@ -35,6 +35,7 @@ fields:
   name: categories
   label: Categorias
 pages:
+- _posts/comece-agora-o-que-vinha-adiando-há-tempos.md
 - _posts/como-manter-a-casa-limpa-e-organizada-com-menos-esforço.md
 - _posts/agenda-setembro-de-2019.md
 - _posts/aprenda-5-dicas-e-deixe-de-ser-multitarefa.md
