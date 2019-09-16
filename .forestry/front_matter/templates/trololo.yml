@@ -35,6 +35,7 @@ fields:
   name: categories
   label: Categorias
 pages:
+- _posts/a-organização-liberta.md
 - _posts/como-cultivar-o-sentimento-de-paz-interior.md
 - _posts/2018-11-23-como-planejar-cardápio-semanal-simplifique.md
 - _posts/2018-11-22-mexa-se-em-atividade-física-e-seja-mais-produtiva.md
