@@ -35,6 +35,7 @@ fields:
   name: categories
   label: Categorias
 pages:
+- _posts/5-atitudes-para-bem-viver-em-casa.md
 - _posts/a-organização-liberta.md
 - _posts/como-lidar-com-excessos-digitais-e-salvar-seu-tempo.md
 - _posts/como-cultivar-o-sentimento-de-paz-interior.md
