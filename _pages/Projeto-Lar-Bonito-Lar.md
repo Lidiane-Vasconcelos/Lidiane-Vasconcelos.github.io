@@ -1,6 +1,6 @@
 ---
 title: Projeto Lar Bonito Lar
-layout: landing
+layout: landing_page_plbl
 permalink: /Projeto-Lar-Bonito-Lar/
 
 ---
