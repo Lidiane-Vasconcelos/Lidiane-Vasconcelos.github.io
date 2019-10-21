@@ -1,6 +1,6 @@
 ---
 title: Projeto Bem Viver Organizada
-layout: landing
+layout: landing_page_pbvo
 permalink: /Projeto-Bem-Viver-Organizada/
 
 ---
