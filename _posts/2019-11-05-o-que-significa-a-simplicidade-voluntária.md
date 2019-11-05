@@ -22,6 +22,6 @@ categories: []
 
 <p align="justify">Só você pode avaliar o que é importante na sua vida, o que faz sentido, e qual a medida ideal de suas posses. Isso nos leva a refletir o quanto a gente precisa de dinheiro para viver bem. Eu já pensei, sim, que para viver bem precisaria trabalhar muito e ganhar bastante dinheiro. Quem nunca? E isso nos leva a entrar numa corrida maluca, correndo atrás de ganhar mais para saciar um monte de necessidades que enfiam na nossa cabeça como sendo coisas muito importantes. Não são… a consciência que a gente desenvolve, quando busca uma vida mais simples, faz a gente enxergar que não precisa do tanto de dinheiro que a gente acha que precisa.
 
-<p align="justify">Isso tudo é um processo que nos leva a experimentar a felicidade que há nas coisas simples, que existe na liberdade de ser quem a gente quiser sem se encaixar em rótulos, que vem de uma vida livre de comparações sobre come vivem as outras pessoas. Eu espero que você tenha apreciado o conteúdo, e que ele tenha te levado a refletir um pouquinho comigo sobre como ser feliz vivendo uma vida mais simples.
+<p align="justify">Isso tudo é um processo que nos leva a experimentar a felicidade que há nas coisas simples, que existe na liberdade de ser quem a gente quiser sem se encaixar em rótulos, que vem de uma vida livre de comparações sobre come vivem as outras pessoas. Eu espero que você tenha apreciado o conteúdo, e que ele tenha te levado a refletir um pouquinho comigo sobre como ser feliz vivendo uma vida mais simples. 
 
 <p align="justify">Imagem: Evie S. via Unsplash
