@@ -24,4 +24,4 @@ categories: []
 
 <p align="justify">Isso tudo é um processo que nos leva a experimentar a felicidade que há nas coisas simples, que existe na liberdade de ser quem a gente quiser sem se encaixar em rótulos, que vem de uma vida livre de comparações sobre come vivem as outras pessoas. Eu espero que você tenha apreciado o conteúdo, e que ele tenha te levado a refletir um pouquinho comigo sobre como ser feliz vivendo uma vida mais simples. 
 
-<p align="justify">Imagem: Evie S. via Unsplash
+<p align="justify">Imagem: Evie S. via Unsplash 
