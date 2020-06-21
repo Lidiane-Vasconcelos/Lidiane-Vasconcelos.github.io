@@ -5,7 +5,7 @@
 <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 <meta property="og:title" content="{{ page.title | default: site.title | smartify }}" />
 <meta property="og:description" content="{{ page.meta_description | default: site.meta_description | smartify }}">
-{% if page.title %}
+{% if page.id %}
    <meta property="og:type" content="article">
    <meta property="article:author" content="https://www.facebook.com/{{ site.authors[page.author].facebook }}">
    <meta property="article:publisher"	content="https://www.facebook.com/{{ site.facebook.publisher }}">
