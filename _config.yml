@@ -7,7 +7,7 @@ content_lang: "pt-BR"
 logo: '/assets/images/favicon/favicon-32x32.png?v=2'
 #favicon: 'assets/images/logo.png'
 baseurl: /
-google_analytics: 'UA-11722414-61'
+google_analytics: 'UA-11722414-7'
 disqus: 'trololodemulher'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5bf83305a0286b00115a8d0d&product=sticky-share-buttons" async="async"></script>'
 enable_jumbotron_header: false
