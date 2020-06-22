@@ -48,6 +48,10 @@ License: https://www.wowthemes.net/freebies-license/
      font-family:Righteous;
 }
 
+.mediumnavigation .navbar-brand h3.sitetitle {
+    font-family:Righteous;
+}
+
  .mainheading {
      padding:1rem 0rem;
 }
