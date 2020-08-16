@@ -24,15 +24,15 @@ permalink: "/k/"
 <form action="https://lidianevasconcelos.us17.list-manage.com/subscribe/post?u=6a15d02a08ac47041ca753f96&amp;id=7aec22ce50" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<!-- <div class="indicates-required"><span class="asterisk">*</span> indicates required</div> -->
 <div class="mc-field-group">
 	<label for="mce-FNAME">Nome</label>
-	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+	<input type="text" value="" name="FNAME" placeholder="Seu Nome" class="" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email<span class="asterisk">*</span>
 </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+	<input type="email" value="" name="EMAIL" placeholder="Seu Email" class="required email" id="mce-EMAIL">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
