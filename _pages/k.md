@@ -9,7 +9,7 @@ meta_description: A Newsletter Trololó de Mulher é para quem quer gerenciar me
 hidden: false
 image: "/uploads/NEWSLETTER-BLOG600300.jpg"
 categories: []
-permalink: "/Newsletter/"
+permalink: "/k/"
 
 ---
 
