@@ -1,3 +1,18 @@
+---
+layout: page_with_newsletter_form
+title: Newsletter
+author: Lidiane
+featured: true
+date: 2018-11-29 14:26:09 +0000
+meta_description: A Newsletter Trololó de Mulher é para quem quer gerenciar melhor
+  o tempo, ser mais produtiva, preservando o bem viver.
+hidden: false
+image: "/uploads/NEWSLETTER-BLOG600300.jpg"
+categories: []
+permalink: "/Newsletter/"
+
+---
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
